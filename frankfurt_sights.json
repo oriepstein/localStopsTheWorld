@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "name": "Deutsches Architekturmuseum",
+    "lat": 50.1144612,
+    "lon": 8.7096534,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 2,
+    "name": "MAIN TOWER Observation Deck",
+    "lat": 50.11254,
+    "lon": 8.67214,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 3,
+    "name": "Ro\u00dfmarkt",
+    "lat": 50.1123889,
+    "lon": 8.6775447,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 4,
+    "name": "R\u00f6merberg",
+    "lat": 50.1102879,
+    "lon": 8.6821547,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 5,
+    "name": "Iron Footbridge",
+    "lat": 50.1081108,
+    "lon": 8.6821289,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 6,
+    "name": "Alter Flugplatz Frankfurt am Main",
+    "lat": 50.1777795,
+    "lon": 8.6596506,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 7,
+    "name": "Frankfurt Cathedral",
+    "lat": 50.1106631,
+    "lon": 8.6854204,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 8,
+    "name": "Historisches Museum Frankfurt",
+    "lat": 50.10945,
+    "lon": 8.6825014,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 9,
+    "name": "St\u00e4del Museum",
+    "lat": 50.1030925,
+    "lon": 8.6740583,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 10,
+    "name": "Verkehrsmuseum Frankfurt am Main",
+    "lat": 50.0821164,
+    "lon": 8.5812956,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 11,
+    "name": "Kleinmarkthalle",
+    "lat": 50.112667,
+    "lon": 8.6828851,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 12,
+    "name": "Flemings Selection Hotel Frankfurt-City - paternoster",
+    "lat": 50.1175013,
+    "lon": 8.67986,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 13,
+    "name": "IG Farben Building",
+    "lat": 50.1256689,
+    "lon": 8.6673925,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 14,
+    "name": "Dialog Museum",
+    "lat": 50.1131316,
+    "lon": 8.6785072,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 15,
+    "name": "Pinkelbaum",
+    "lat": 50.0714584,
+    "lon": 8.6817228,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 16,
+    "name": "Bockenheimer Warte",
+    "lat": 50.1200498,
+    "lon": 8.6513852,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 17,
+    "name": "Apfelwein Wagner",
+    "lat": 50.1005298,
+    "lon": 8.6819641,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 18,
+    "name": "Museum Applied Art",
+    "lat": 50.10631,
+    "lon": 8.6806,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 19,
+    "name": "Zum Gemalten Haus",
+    "lat": 50.1007,
+    "lon": 8.681932,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 20,
+    "name": "Mal Seh'n cinema e.V.",
+    "lat": 50.1240196,
+    "lon": 8.6856517,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 21,
+    "name": "Bauernmarkt Konstablerwache",
+    "lat": 50.114476,
+    "lon": 8.6869562,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 22,
+    "name": "Goetheturm",
+    "lat": 50.0889961,
+    "lon": 8.7113757,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 23,
+    "name": "Goethe House",
+    "lat": 50.1113414,
+    "lon": 8.6776096,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 24,
+    "name": "Alte Oper",
+    "lat": 50.1160319,
+    "lon": 8.671916,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 25,
+    "name": "Caf\u00e9 im Liebieghaus",
+    "lat": 50.1020121,
+    "lon": 8.6718295,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 26,
+    "name": "H\u00f6chster Schlo\u00dfplatz",
+    "lat": 50.0986095,
+    "lon": 8.5476908,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": ""
+  }
+]
