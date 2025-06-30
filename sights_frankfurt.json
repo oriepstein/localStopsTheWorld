@@ -4,7 +4,7 @@
     "name": "Deutsches Architekturmuseum",
     "lat": 50.1144612,
     "lon": 8.7096534,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": ""
@@ -134,7 +134,7 @@
     "name": "Dialog Museum",
     "lat": 50.1131316,
     "lon": 8.6785072,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "This unique exhibit \"Dialogue in the Dark\" reverses roles as the visionless become guides and the sighted become ‘blind.’ ",
     "info": ""
