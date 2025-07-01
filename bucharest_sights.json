@@ -15,17 +15,20 @@
     "name": "Stavropoleos Monastery Church",
     "description": "",
     "lat": 44.4317929,
+    "icon": "green",
     "lon": 26.0988593
   },
   {
     "name": "Palace of Parliament",
     "description": "This communist behemoth is the heaviest building in the world and a legacy of a brutal regime.\u00a0",
+    "icon": "green",
     "lat": 44.4275035,
     "lon": 26.0873506
   },
   {
     "name": "C\u0103rture\u0219ti Carusel",
     "description": "This once-derelict building is now one of the most beautiful bookstores in the world.\u00a0",
+    "icon": "green",
     "lat": 44.4319847,
     "lon": 26.1016028
   },
@@ -86,6 +89,7 @@
   {
     "name": "Biserica Zl\u0103tari",
     "description": "The preserved arm of a third-century sorcerer is believed to have the power to lift curses and spells.\u00a0",
+    "icon": "green",
     "lat": 44.4323223,
     "lon": 26.0976529
   },
@@ -134,6 +138,7 @@
   {
     "name": "The House of Ceau\u0219escu",
     "description": "The kitsch mansion of the former Romanian president Nicolae Ceau\u0219escu features a golden bathroom.\u00a0",
+    "icon": "green",
     "lat": 44.4691722,
     "lon": 26.092528
   },
@@ -272,6 +277,7 @@
   {
     "name": "Ferestroika",
     "description": "The small, 3-room apartment is a time capsule that captures everyday life in Bucharest in the 1980s. Museum guests are invited to interact with the exhibits\u2026as if visiting a friend\u2019s house.",
+    "icon": "green",
     "lat": 44.4328796,
     "lon": 26.0209603
   },
