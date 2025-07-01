@@ -244,7 +244,7 @@
     "name": "Café im Liebieghaus",
     "lat": 50.1020121,
     "lon": 8.6718295,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "",
     "info": ""
