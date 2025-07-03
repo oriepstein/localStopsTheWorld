@@ -839,64 +839,105 @@
     "description": "",
     "info": null
   }
+ [
   {
+    "id": 1,
     "name": "Kelet Kávézó és Galéria",
-    "description": "",
     "lat": 47.4797724,
-    "lon": 19.0508635
+    "lon": 19.0508635,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 2,
     "name": "Kívánság Étkezde",
-    "description": "",
     "lat": 47.5021714,
-    "lon": 19.0738318
+    "lon": 19.0738318,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 3,
     "name": "Kőleves kert",
-    "description": "",
     "lat": 47.4991113,
-    "lon": 19.0612547
+    "lon": 19.0612547,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 4,
     "name": "Gettó Gulyás",
-    "description": "",
     "lat": 47.4973807,
-    "lon": 19.062396
+    "lon": 19.062396,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 5,
     "name": "Bors Gastro Bar",
-    "description": "",
     "lat": 47.4967267,
-    "lon": 19.0635487
+    "lon": 19.0635487,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 6,
     "name": "Fény Street Market",
-    "description": "",
     "lat": 47.5086138,
-    "lon": 19.0243988
+    "lon": 19.0243988,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
   },
   {
+    "id": 7,
     "name": "Buja Disznó(k) Buda - A RÁNTOTTHÚS és egyéb disznóságok!",
-    "description": "",
     "lat": 47.5085255,
-    "lon": 19.024512
-  },
-  {
-    "name": "LÁNGOSOS - Flórián tér aluljáró",
-    "description": "underground passage with great langos stand",
-    "lat": 47.5417418,
-    "lon": 19.0412353
-  },
-  {
-    "name": "Lángos Land",
+    "lon": 19.024512,
+    "icon": "default",
+    "imageURL": "",
     "description": "",
-    "lat": 47.5086224,
-    "lon": 19.0242269
+    "info": ""
   },
   {
+    "id": 8,
+    "name": "LÁNGOSOS - Flórián tér aluljáró",
+    "lat": 47.5417418,
+    "lon": 19.0412353,
+    "icon": "default",
+    "imageURL": "",
+    "description": "underground passage with great langos stand",
+    "info": ""
+  },
+  {
+    "id": 9,
+    "name": "Lángos Land",
+    "lat": 47.5086224,
+    "lon": 19.0242269,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 10,
     "name": "1001 Kefe - Ecset és Kefekészítő Bt.",
-    "description": "Opened in 1923, this specialty brush store is a precious relic in Budapest's District 7",
     "lat": 47.496535,
-    "lon": 19.059523
+    "lon": 19.059523,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Opened in 1923, this specialty brush store is a precious relic in Budapest's District 7",
+    "info": ""
   }
 ]
