@@ -1,0 +1,942 @@
+[
+  {
+    "id": 0,
+    "name": "Metropolitan Ervin Szabó Library",
+    "lat": 47.489376,
+    "lon": 19.0645146,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A 19th-century artistocrat's mansion, turned into a library, hidden in a modern library. While it can be a confusing process to find the Central Library in the maze-like modern section of the library, once you do, all that is left is to pick out a beautiful old book, sink back into a deep leather chair, surrounded by the soft light of chandeliers, and relax like a 19th-century Hungarian aristocrat.",
+    "info": ""
+  },
+  {
+    "id": 1,
+    "name": "Labyrinth",
+    "lat": 47.5001349,
+    "lon": 19.034184,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 2,
+    "name": "Vajdahunyad Castle",
+    "lat": 47.5148896,
+    "lon": 19.0830593,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This Hungarian castle was built out of cardboard and wood until it proved so popular that it got upgraded to stone. Also hosts the Budapest Agricultural Museum where a  fake Transylvanian castle houses a cathedral of antlers.",
+    "info": ""
+  },
+  {
+    "id": 3,
+    "name": "Museum of Applied Arts",
+    "lat": 47.486119,
+    "lon": 19.0682847,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Ödön Lechner's independent pre-modern architecture",
+    "info": ""
+  },
+  {
+    "id": 4,
+    "name": "Szent László Church",
+    "lat": 47.4869669,
+    "lon": 19.1322102,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Ödön Lechner's independent pre-modern architecture",
+    "info": ""
+  },
+  {
+    "id": 5,
+    "name": "Buda Castle Funicular",
+    "lat": 47.497891,
+    "lon": 19.039787,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Built in 1870 at the bridge that connected Buda and Pest, this spectacular incline railway was almost lost forever during World War II.",
+    "info": ""
+  },
+  {
+    "id": 6,
+    "name": "Andrássy út",
+    "lat": 47.5071959,
+    "lon": 19.0662644,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WHS",
+    "info": ""
+  },
+  {
+    "id": 7,
+    "name": "Molnár János Cave",
+    "lat": 47.5180031,
+    "lon": 19.0360884,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 8,
+    "name": "Palvolgyi Cave",
+    "lat": 47.5328167,
+    "lon": 19.0161917,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 9,
+    "name": "Szemlő Mountain Cave",
+    "lat": 47.5282466,
+    "lon": 19.0250188,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 10,
+    "name": "Ferenc-hegyi Cave",
+    "lat": 47.5265251,
+    "lon": 19.0096297,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 11,
+    "name": "Mátyás-hegyi barlang",
+    "lat": 47.5332482,
+    "lon": 19.0172417,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 12,
+    "name": "József-hegyi Cave",
+    "lat": 47.5240853,
+    "lon": 19.0263775,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Caves of the Buda Thermal Karst System",
+    "info": ""
+  },
+  {
+    "id": 13,
+    "name": "Buda Castle",
+    "lat": 47.4962048,
+    "lon": 19.0395666,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WHS",
+    "info": ""
+  },
+  {
+    "id": 14,
+    "name": "Hungarian Parliament Building",
+    "lat": 47.507121,
+    "lon": 19.045669,
+    "icon": "default",
+    "imageURL": "",
+    "description": "WHS",
+    "info": ""
+  },
+  {
+    "id": 15,
+    "name": "Hungarian State Opera",
+    "lat": 47.5027169,
+    "lon": 19.0583076,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 16,
+    "name": "Millenáris Park",
+    "lat": 47.5112225,
+    "lon": 19.0251017,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 17,
+    "name": "Underground Railway Museum",
+    "lat": 47.4977067,
+    "lon": 19.0547602,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 18,
+    "name": "House of Terror",
+    "lat": 47.5068935,
+    "lon": 19.0651261,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 19,
+    "name": "Gellért Hill Cave",
+    "lat": 47.4848196,
+    "lon": 19.0520844,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 20,
+    "name": "Thermae Maiores",
+    "lat": 47.5411876,
+    "lon": 19.0412717,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Legions of Roman soldiers bathed in this ancient spa complex under a Budapest transit station.",
+    "info": ""
+  },
+  {
+    "id": 21,
+    "name": "Dominican Convent",
+    "lat": 47.528884,
+    "lon": 19.051061,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 22,
+    "name": "Flippermúzeum",
+    "lat": 47.51456,
+    "lon": 19.054343,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 23,
+    "name": "Ministry of Agriculture",
+    "lat": 47.5064929,
+    "lon": 19.0481767,
+    "icon": "default",
+    "imageURL": "",
+    "description": "bullet holes in arcade",
+    "info": ""
+  },
+  {
+    "id": 24,
+    "name": "Zugliget Chairlift",
+    "lat": 47.516626,
+    "lon": 18.974513,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A two-way chairlift system between Zugliget and the highest point in the city.",
+    "info": ""
+  },
+  {
+    "id": 25,
+    "name": "Koller Gallery",
+    "lat": 47.503674,
+    "lon": 19.032775,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 26,
+    "name": "Mansfeld Peter Memorial",
+    "lat": 47.502927,
+    "lon": 19.0355334,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This statue of a falling man commemorates a teenage martyr of the Hungarian Revolution.",
+    "info": ""
+  },
+  {
+    "id": 27,
+    "name": "Arany Sas Patikamúzeum",
+    "lat": 47.5006681,
+    "lon": 19.034082,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 28,
+    "name": "Hospital in the Rock",
+    "lat": 47.5008483,
+    "lon": 19.0313593,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A museum dedicated to a secret military hospital hidden beneath a castle in Budapest.",
+    "info": ""
+  },
+  {
+    "id": 29,
+    "name": "Jurányi",
+    "lat": 47.5084449,
+    "lon": 19.0301894,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 30,
+    "name": "Szimpla Kert",
+    "lat": 47.4970039,
+    "lon": 19.0633598,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A Trabant car, a kangaroo statue, and a plethora of plants take over this abandoned-factory-turned-bar.",
+    "info": ""
+  },
+  {
+    "id": 31,
+    "name": "Memento Park",
+    "lat": 47.4263652,
+    "lon": 18.9989299,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Budapest's Communist-era statues, banished to the suburbs.",
+    "info": ""
+  },
+  {
+    "id": 32,
+    "name": "Semmelweis Museum",
+    "lat": 47.4932298,
+    "lon": 19.043033,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A museum in the childhood house of a medical pioneer.",
+    "info": ""
+  },
+  {
+    "id": 33,
+    "name": "Epreskert",
+    "lat": 47.5132706,
+    "lon": 19.0703388,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The romantic garden was the epicenter of the Hungarian art scene in the 1880s.",
+    "info": ""
+  },
+  {
+    "id": 34,
+    "name": "Mezőgazdasági Múzeum",
+    "lat": 47.5148419,
+    "lon": 19.0832479,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 35,
+    "name": "Zwack Unicum Museum",
+    "lat": 47.475926,
+    "lon": 19.069707,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Central Europe's largest collection of mini-bottles is on display at this museum devoted to a bitter Hungarian liquor.",
+    "info": ""
+  },
+  {
+    "id": 36,
+    "name": "Hungarian Electrotechnical Museum",
+    "lat": 47.4979136,
+    "lon": 19.0629676,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Electrical curiosity museum housed in an old transformer station.",
+    "info": ""
+  },
+  {
+    "id": 37,
+    "name": "Michael Jackson Memorial Tree",
+    "lat": 47.4976242,
+    "lon": 19.0519747,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A random tree outside a Budapest hotel has become a DIY shrine to the late singer.",
+    "info": ""
+  },
+  {
+    "id": 38,
+    "name": "Adria Palace",
+    "lat": 47.504738,
+    "lon": 19.049364,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 39,
+    "name": "Irgalmasok Veli Bej Bath",
+    "lat": 47.5191896,
+    "lon": 19.0371186,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 40,
+    "name": "Király Thermal Bath",
+    "lat": 47.5105556,
+    "lon": 19.0380556,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 41,
+    "name": "Gozsdu Court",
+    "lat": 47.498467,
+    "lon": 19.0594862,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 42,
+    "name": "Rudas Baths",
+    "lat": 47.4891977,
+    "lon": 19.0477807,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 43,
+    "name": "Nehru part",
+    "lat": 47.4811727,
+    "lon": 19.0646124,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 44,
+    "name": "Párisi Udvar",
+    "lat": 47.4933136,
+    "lon": 19.0548616,
+    "icon": "default",
+    "imageURL": "",
+    "description": "a fine example of<br>Eclectic architecture popular in the<br>late 19th century and drawing on a<br>multitude of earlier styles. Originally<br>part of a bank building, the arcade has<br>recently been restored.",
+    "info": ""
+  },
+  {
+    "id": 45,
+    "name": "Dohány Street Synagogue",
+    "lat": 47.4959071,
+    "lon": 19.0606139,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 46,
+    "name": "Mazel Tov",
+    "lat": 47.5002778,
+    "lon": 19.0655242,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 47,
+    "name": "St. Stephen's Basilica",
+    "lat": 47.5008902,
+    "lon": 19.0539887,
+    "icon": "default",
+    "imageURL": "",
+    "description": "home to the Holy Right - The mummified right fist of a 1,000-year-old saint-king sits inside an ornate golden reliquary.",
+    "info": ""
+  },
+  {
+    "id": 48,
+    "name": "Széchenyi Chain Bridge",
+    "lat": 47.4989928,
+    "lon": 19.0436994,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 49,
+    "name": "Hungarian National Gallery",
+    "lat": 47.4962693,
+    "lon": 19.0398156,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 50,
+    "name": "Ludwig Museum",
+    "lat": 47.4696514,
+    "lon": 19.0709855,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 51,
+    "name": "Rosenstein Vendéglő",
+    "lat": 47.4983761,
+    "lon": 19.0822508,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Dine on Hungarian-Jewish dishes at this multigenerational, family-run institution",
+    "info": ""
+  },
+  {
+    "id": 52,
+    "name": "Urania National Film Theater",
+    "lat": 47.495274,
+    "lon": 19.065078,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A stunning Art Nouveau cinema in the heart of Budapest.",
+    "info": ""
+  },
+  {
+    "id": 53,
+    "name": "Ghetto Memorial Wall",
+    "lat": 47.4963199,
+    "lon": 19.0654234,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The holes in this wall provide a glimpse into Jewish life in Budapest, both past and present.",
+    "info": ""
+  },
+  {
+    "id": 54,
+    "name": "Carl Lutz Memorial",
+    "lat": 47.4974872,
+    "lon": 19.0602879,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This sculpture honors the man who was known as the \"Righteous Among the Nations.\"",
+    "info": ""
+  },
+  {
+    "id": 55,
+    "name": "Memorial for Victims of the German Occupation",
+    "lat": 47.5031569,
+    "lon": 19.0506453,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A highly-criticized monument in Budapest has become the site of a makeshift Holocaust memorial.",
+    "info": ""
+  },
+  {
+    "id": 56,
+    "name": "Statue of Imre Nagy",
+    "lat": 47.5129526,
+    "lon": 19.0472567,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A much-loved sculpture depicting the hero of a 1956 anti-Soviet uprising",
+    "info": ""
+  },
+  {
+    "id": 57,
+    "name": "Columbo Statue",
+    "lat": 47.5126465,
+    "lon": 19.0489237,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 58,
+    "name": "The Policeman",
+    "lat": 47.5005598,
+    "lon": 19.0509655,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Also known as Uncle Karl, the beloved bronze copper keeps a watchful eye on St. Stephen’s Basilica while people rub his lucky belly.",
+    "info": ""
+  },
+  {
+    "id": 59,
+    "name": "Széchenyi Thermal Bath",
+    "lat": 47.5186568,
+    "lon": 19.0823791,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 60,
+    "name": "Gömböc-szobor",
+    "lat": 47.4859977,
+    "lon": 19.0793245,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The largest statue of this convex, homogeneous object with just one stable and one unstable equilibrium point.",
+    "info": ""
+  },
+  {
+    "id": 61,
+    "name": "For Sale Pub",
+    "lat": 47.487595,
+    "lon": 19.0582021,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This Budapest bar allows drinkers to leave their mark on the walls, floor, and even ceiling.",
+    "info": ""
+  },
+  {
+    "id": 62,
+    "name": "Centrál Grand Cafe & Bar",
+    "lat": 47.491985,
+    "lon": 19.056884,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Some of the greatest minds in the history of Hungarian art and science converged in this café.",
+    "info": ""
+  },
+  {
+    "id": 63,
+    "name": "Shoes on the Danube Bank",
+    "lat": 47.5039274,
+    "lon": 19.0448015,
+    "icon": "default",
+    "imageURL": "",
+    "description": "A trail of iron footwear stands as a monument to the thousands executed along this riverbank during WWII.",
+    "info": ""
+  },
+  {
+    "id": 64,
+    "name": "Franz Liszt Academy of Music",
+    "lat": 47.5032647,
+    "lon": 19.064271,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 65,
+    "name": "Barabás Villa",
+    "lat": 47.5051424,
+    "lon": 19.0178547,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 66,
+    "name": "Citadella-kilátópont",
+    "lat": 47.4874875,
+    "lon": 19.0457969,
+    "icon": "default",
+    "imageURL": "",
+    "description": "From Austrians to Nazis to Soviets, this historic Budapest fortress has a history as complex as the city itself.",
+    "info": ""
+  },
+  {
+    "id": 67,
+    "name": "Gellért Hill Cave",
+    "lat": 47.4852461,
+    "lon": 19.0522434,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Once the home of a hermetic monk, this cave now houses a small church.",
+    "info": ""
+  },
+  {
+    "id": 68,
+    "name": "Hűvösvölgy, Children's Railway",
+    "lat": 47.5414643,
+    "lon": 18.9639456,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This quaint Hungarian railway system is operated exclusively by children between the ages of 10 and 14.",
+    "info": ""
+  },
+  {
+    "id": 69,
+    "name": "Garden of Philosophers",
+    "lat": 47.4892772,
+    "lon": 19.0394019,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Tucked away near more famous landmarks lies a statue meant to symbolize the confluence and continuing development of human culture. In a secret corner of Budapest's Gellért Hill, the world's greatest religious figures meet silently around an orb. At least, that's what Hungarian sculptor Nándor Wagner envisioned when he created \"The Garden of Philosophy,\" a cluster of statues you may happen upon if you wander away from the major tourist attractions of the Citadel and the Liberty Statue, perched atop the crown of the popular hill overlooking the Danube.",
+    "info": ""
+  },
+  {
+    "id": 70,
+    "name": "Mining and Geological Survey of Hungary",
+    "lat": 47.5056803,
+    "lon": 19.0974522,
+    "icon": "default",
+    "imageURL": "",
+    "description": "This hidden art nouveau gem was designed by an architect in search of a national style.",
+    "info": ""
+  },
+  {
+    "id": 71,
+    "name": "Vasarely Museum, Budapest",
+    "lat": 47.5402733,
+    "lon": 19.0465091,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 72,
+    "name": "Central Market Hall",
+    "lat": 47.4870848,
+    "lon": 19.058493,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 73,
+    "name": "Rumbach Street Synagogue",
+    "lat": 47.4977215,
+    "lon": 19.0586486,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 74,
+    "name": "Kazinczy Street Synagogue",
+    "lat": 47.4985127,
+    "lon": 19.0623758,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 75,
+    "name": "Cirko Gejzír Movie Theater",
+    "lat": 47.5111029,
+    "lon": 19.0474535,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 76,
+    "name": "Postal Savings Bank",
+    "lat": 47.5044676,
+    "lon": 19.0524512,
+    "icon": "default",
+    "imageURL": "",
+    "description": "tWHS - Ödön Lechner's independent pre-modern architecture",
+    "info": ""
+  },
+  {
+    "id": 77,
+    "name": "The Church of Our Lady of Buda Castle",
+    "lat": 47.5019537,
+    "lon": 19.0341617,
+    "icon": "default",
+    "imageURL": "",
+    "description": "The towers of Matthias Church stand as integral landmarks within the Castle District. Yet many locals and tourists alike have never ventured inside the building (see recent photos here). The church, in line with tradition, was consecrated by order of St Stephen, though its construction took place during the reign of Béla IV in the 13th century. Despite undergoing reconstruction, renovations, and damage by the war, the church endures, though only fragments of its original features remain. The building exudes a uniquely special and almost mystical atmosphere, with its walls adorned with rich decorations. The tower offers one of the most stunning views of the city, provided you're willing to climb the 200 steps up to the top.",
+    "info": ""
+  },
+  {
+    "id": 78,
+    "name": "House of Music Hungary",
+    "lat": 47.5131806,
+    "lon": 19.0835936,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 79,
+    "name": "MOL Campus",
+    "lat": 47.4679512,
+    "lon": 19.0600103,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Controversial and divisive, the MOL Campus, Budapest’s first skyscraper, has introduced a new colour and style to the city at the end of 2022. This architectural addition has reshaped the city's skyline while pushing the boundaries in terms of technical innovation. In April, its lookout point also opened, allowing visitors to take in panoramic views from a height of 120 meters. Anticipate unconventional yet breathtaking vistas, which are worth a visit whether you find the building itself captivating or polarizing. While the visitor's centre can be entered free of charge, a ticket is required to access the SkyDeck terrace",
+    "info": ""
+  },
+  {
+    "id": 80,
+    "name": "Museum of Ethnography",
+    "lat": 47.5115051,
+    "lon": 19.081371,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 81,
+    "name": "Vigadó Concert Hall",
+    "lat": 47.4959415,
+    "lon": 19.0493499,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Built in 1865 based on the plans of Frigyes Feszl, the Vigadó is perhaps the last reminder of the pre-World War II ambience of the Danube Promenade. The famous Danube-side hotels burned for three days after the bombing of the city during World War II, and the Vigadó was severely damaged. It was only restored decades later, in the 1980s. As well as the exciting programmes, social events, and the beauty of the building, it is worth taking in the spectacular views from the windows and roof terrace. It's easy to sneak into the building for exhibitions and programmes, but it's worth a stroll to discover its secrets.",
+    "info": ""
+  },
+  {
+    "id": 82,
+    "name": "Lupa Island",
+    "lat": 47.6163115,
+    "lon": 19.0858697,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 83,
+    "name": "Tisza Shoes",
+    "lat": 47.4947324,
+    "lon": 19.0602359,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 84,
+    "name": "Kelet Kávézó és Galéria",
+    "lat": 47.4797724,
+    "lon": 19.0508635,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 85,
+    "name": "Kívánság Étkezde",
+    "lat": 47.5021714,
+    "lon": 19.0738318,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 86,
+    "name": "Kőleves kert",
+    "lat": 47.4991113,
+    "lon": 19.0612547,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 87,
+    "name": "Gettó Gulyás",
+    "lat": 47.4973807,
+    "lon": 19.062396,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 88,
+    "name": "Bors Gastro Bar",
+    "lat": 47.4967267,
+    "lon": 19.0635487,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 89,
+    "name": "Fény Street Market",
+    "lat": 47.5086138,
+    "lon": 19.0243988,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 90,
+    "name": "Buja Disznó(k) Buda - A RÁNTOTTHÚS és egyéb disznóságok!",
+    "lat": 47.5085255,
+    "lon": 19.024512,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 91,
+    "name": "LÁNGOSOS - Flórián tér aluljáró",
+    "lat": 47.5417418,
+    "lon": 19.0412353,
+    "icon": "default",
+    "imageURL": "",
+    "description": "underground passage with great langos stand",
+    "info": ""
+  },
+  {
+    "id": 92,
+    "name": "Lángos Land",
+    "lat": 47.5086224,
+    "lon": 19.0242269,
+    "icon": "default",
+    "imageURL": "",
+    "description": "",
+    "info": ""
+  },
+  {
+    "id": 93,
+    "name": "1001 Kefe - Ecset és Kefekészítő Bt.",
+    "lat": 47.496535,
+    "lon": 19.059523,
+    "icon": "default",
+    "imageURL": "",
+    "description": "Opened in 1923, this specialty brush store is a precious relic in Budapest's District 7",
+    "info": ""
+  }
+]
