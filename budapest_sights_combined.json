@@ -4,7 +4,7 @@
     "name": "Metropolitan Ervin Szabó Library",
     "lat": 47.489376,
     "lon": 19.0645146,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "A 19th-century artistocrat's mansion, turned into a library, hidden in a modern library. While it can be a confusing process to find the Central Library in the maze-like modern section of the library, once you do, all that is left is to pick out a beautiful old book, sink back into a deep leather chair, surrounded by the soft light of chandeliers, and relax like a 19th-century Hungarian aristocrat.",
     "info": ""
@@ -24,7 +24,7 @@
     "name": "Vajdahunyad Castle",
     "lat": 47.5148896,
     "lon": 19.0830593,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "This Hungarian castle was built out of cardboard and wood until it proved so popular that it got upgraded to stone. Also hosts the Budapest Agricultural Museum where a  fake Transylvanian castle houses a cathedral of antlers.",
     "info": ""
@@ -224,7 +224,7 @@
     "name": "Flippermúzeum",
     "lat": 47.51456,
     "lon": 19.054343,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "",
     "info": ""
@@ -244,7 +244,7 @@
     "name": "Zugliget Chairlift",
     "lat": 47.516626,
     "lon": 18.974513,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "A two-way chairlift system between Zugliget and the highest point in the city.",
     "info": ""
@@ -284,7 +284,7 @@
     "name": "Hospital in the Rock",
     "lat": 47.5008483,
     "lon": 19.0313593,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "A museum dedicated to a secret military hospital hidden beneath a castle in Budapest.",
     "info": ""
@@ -474,7 +474,7 @@
     "name": "St. Stephen's Basilica",
     "lat": 47.5008902,
     "lon": 19.0539887,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "home to the Holy Right - The mummified right fist of a 1,000-year-old saint-king sits inside an ornate golden reliquary.",
     "info": ""
@@ -664,7 +664,7 @@
     "name": "Citadella-kilátópont",
     "lat": 47.4874875,
     "lon": 19.0457969,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "From Austrians to Nazis to Soviets, this historic Budapest fortress has a history as complex as the city itself.",
     "info": ""
@@ -684,7 +684,7 @@
     "name": "Hűvösvölgy, Children's Railway",
     "lat": 47.5414643,
     "lon": 18.9639456,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "This quaint Hungarian railway system is operated exclusively by children between the ages of 10 and 14.",
     "info": ""
@@ -754,7 +754,7 @@
     "name": "Cirko Gejzír Movie Theater",
     "lat": 47.5111029,
     "lon": 19.0474535,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "",
     "info": ""
@@ -784,7 +784,7 @@
     "name": "House of Music Hungary",
     "lat": 47.5131806,
     "lon": 19.0835936,
-    "icon": "default",
+    "icon": "green",
     "imageURL": "",
     "description": "",
     "info": ""
