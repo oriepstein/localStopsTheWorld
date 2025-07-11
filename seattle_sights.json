@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "Duwamish Longhouse and Cultural Center",
+    "description": "ancestral site of Seattle's first people",
+    "lat": 47.5609785,
+    "lon": -122.352057
+  },
+  {
+    "name": "Klondike Gold Rush National Historical Park",
+    "description": "",
+    "lat": 47.5993238,
+    "lon": -122.3317758
+  },
+  {
+    "name": "Sloop Tavern",
+    "description": "",
+    "lat": 47.6688714,
+    "lon": -122.3943177
+  },
+  {
+    "name": "Gas Works Park",
+    "description": "",
+    "lat": 47.6456308,
+    "lon": -122.3343532
+  },
+  {
+    "name": "Seattle Public Library-Central Library",
+    "description": "",
+    "lat": 47.6067006,
+    "lon": -122.3325009
+  },
+  {
+    "name": "Kubota Garden",
+    "description": "This semi-secret garden in south Seattle emulates a traditional Japanese garden using the plants of the Pacific Northwest.",
+    "lat": 47.5133132,
+    "lon": -122.2664458
+  },
+  {
+    "name": "Big Top Curiosity Shop",
+    "description": "Inside this curiosity shop, visitors can peruse the clown collection or purchase a molar from the mouth of Bigfoot.",
+    "lat": 47.5269349,
+    "lon": -122.3151999
+  },
+  {
+    "name": "Dunn Gardens",
+    "description": "A lush Seattle garden designed by the same landscape architects responsible for New York's Central Park.",
+    "lat": 47.7276657,
+    "lon": -122.3627617
+  },
+  {
+    "name": "Connections Museum",
+    "description": "This Seattle museum displays the history of the telephone through an impressive collection of telecom equipment.\u00a0\u00a0The museum is open to the public every Sunday from 10 am to 3 pm.",
+    "lat": 47.5408566,
+    "lon": -122.3231874
+  },
+  {
+    "name": "Hat & Boots Park (Oxbow Park)",
+    "description": "Seattle's super-sized cowboy apparel once belonged to a themed gas station that wrangled in herds of tourists.",
+    "lat": 47.5451051,
+    "lon": -122.3216995
+  },
+  {
+    "name": "Georgetown Steam Plant",
+    "description": "A frozen relic of Seattle's hydroelectric boom is now a teaching facility for future engineers.",
+    "lat": 47.5428094,
+    "lon": -122.3162428
+  },
+  {
+    "name": "Ye Olde Curiosity Shop",
+    "description": "A 100-year-old purveyor of curiosities, curios, and kitsch featuring mummies, shrunken heads, and a Fiji Mermaid.",
+    "lat": 47.6043346,
+    "lon": -122.3399489
+  },
+  {
+    "name": "The Gum Wall",
+    "description": "",
+    "lat": 47.6083607,
+    "lon": -122.3403382
+  },
+  {
+    "name": "Museum of Pop Culture",
+    "description": "A museum dedicated to the history and exploration of both popular music and science fiction.",
+    "lat": 47.6214824,
+    "lon": -122.3481245
+  },
+  {
+    "name": "Howe Street Stairs - Top",
+    "description": "longest of seattle's 560 public stairways;\u00a0Spanning an elevation of 160 feet and containing 388 steps, this is Seattle's longest staircase.",
+    "lat": 47.635929,
+    "lon": -122.320677
+  },
+  {
+    "name": "Streissguth Gardens",
+    "description": "",
+    "lat": 47.634908,
+    "lon": -122.321004
+  },
+  {
+    "name": "World Famous Giant Shoe Museum",
+    "description": "",
+    "lat": 47.6086274,
+    "lon": -122.3407369
+  },
+  {
+    "name": "\"Sound Garden\" by Douglas Hollis",
+    "description": "A huge musical sculpture and other art installations on the National Oceanic and Atmospheric Administration grounds.",
+    "lat": 47.6854607,
+    "lon": -122.249928
+  },
+  {
+    "name": "Seattle Pinball Museum",
+    "description": "Couple's personal collection of pinball machines turned public pinball museum.",
+    "lat": 47.598065,
+    "lon": -122.3247852
+  },
+  {
+    "name": "Arctic Club Hotel",
+    "description": "The historic bar where local ship captains, traders, and gold miners would come together to do business a century ago.",
+    "lat": 47.6037283,
+    "lon": -122.3318128
+  },
+  {
+    "name": "Smith Tower Observatory Bar",
+    "description": "",
+    "lat": 47.601907,
+    "lon": -122.331762
+  },
+  {
+    "name": "Ars Obscura Bookbinding & Restoration",
+    "description": "In this subterranean brick arcade, a small shop continues the ancient practice of bookbinding.",
+    "lat": 47.6010414,
+    "lon": -122.33105
+  },
+  {
+    "name": "Edith Macefield House",
+    "description": "famous holdout housel\u00a0The tale of a strong-willed woman who stood her ground when the commercial world came rumbling in.",
+    "lat": 47.6623591,
+    "lon": -122.3753246
+  },
+  {
+    "name": "Filson",
+    "description": "",
+    "lat": 47.5871138,
+    "lon": -122.3347081
+  },
+  {
+    "name": "Beacon Food Forest",
+    "description": "This edible park is open to any and all foragers.",
+    "lat": 47.5678206,
+    "lon": -122.3122138
+  },
+  {
+    "name": "Freeway Park",
+    "description": "The first park built over a freeway is a brutalist masterwork.",
+    "lat": 47.609308,
+    "lon": -122.330903
+  },
+  {
+    "name": "Ballyhoo Curiosity Shop",
+    "description": "This Seattle store is packed with all sorts of curious creatures and creations.",
+    "lat": 47.6683333,
+    "lon": -122.3861111
+  },
+  {
+    "name": "Capitol Hill Wishing Tree",
+    "description": "",
+    "lat": 47.6322467,
+    "lon": -122.3047998
+  },
+  {
+    "name": "Geocaching HQ",
+    "description": "",
+    "lat": 47.6490733,
+    "lon": -122.3479173
+  },
+  {
+    "name": "Add-A-Ball",
+    "description": "A (slightly) grownup take on the classic retro arcade.",
+    "lat": 47.6519757,
+    "lon": -122.3549551
+  },
+  {
+    "name": "Scarecrow Video",
+    "description": "",
+    "lat": 47.6659088,
+    "lon": -122.3171692
+  },
+  {
+    "name": "Discovery Park",
+    "description": "",
+    "lat": 47.6613197,
+    "lon": -122.4171413
+  },
+  {
+    "name": "Daybreak Star Indian Cultural Center",
+    "description": "",
+    "lat": 47.6680185,
+    "lon": -122.4180819
+  },
+  {
+    "name": "West Point Lighthouse",
+    "description": "",
+    "lat": 47.6619696,
+    "lon": -122.435739
+  },
+  {
+    "name": "Suzzallo and Allen Libraries",
+    "description": "With its vaulted ceiling and gilded details, this University of Washington library would feel right at home inside an old palace.",
+    "lat": 47.6557702,
+    "lon": -122.3078427
+  },
+  {
+    "name": "Washington Park Arboretum",
+    "description": "The Olmsted Brothers-designed Washington Park Arboretum covers a highly-explorable 230 acres, including the Japanese Garden and many wild, heavily canopied areas, each with their own distinct vegetation. It\u2019s a popular spot for canoeing or kayaking, too.",
+    "lat": 47.6364162,
+    "lon": -122.2958146
+  },
+  {
+    "name": "Volunteer Park Conservatory",
+    "description": "On the other side of the park from the water tower, the Volunteer Park Conservatory is the perfect place for an all-weather nature walk. Located inside a temperature-controlled Victorian-style glass house built in 1912, the botanical garden features a wide variety of plants, including a couple of plants more than 75 years old: a sago palm and a jade tree.<br><br>While you\u2019re in Volunteer Park, climb up the winding staircase to the top of the 1906-built water tower for a 360-degree view of the city.",
+    "lat": 47.632123,
+    "lon": -122.315728
+  },
+  {
+    "name": "Museum of History & Industry (MOHAI)",
+    "description": "",
+    "lat": 47.6275253,
+    "lon": -122.3365631
+  },
+  {
+    "name": "The Center for Wooden Boats",
+    "description": "",
+    "lat": 47.6262814,
+    "lon": -122.3364817
+  },
+  {
+    "name": "Center for Urban Horticulture",
+    "description": "",
+    "lat": 47.6575198,
+    "lon": -122.2900402
+  },
+  {
+    "name": "Neukom Vivarium",
+    "description": "A rotting tree in the middle of Seattle doubles as an elaborately-controlled art piece.",
+    "lat": 47.615839,
+    "lon": -122.3543178
+  },
+  {
+    "name": "Olympic Sculpture Park",
+    "description": "",
+    "lat": 47.6166028,
+    "lon": -122.3553167
+  },
+  {
+    "name": "Myrtle Edwards Park",
+    "description": "",
+    "lat": 47.619438,
+    "lon": -122.361817
+  },
+  {
+    "name": "Rhododendron Species Botanical Garden",
+    "description": "This 22-acre botanical garden is home to the largest collection of rhododendrons in the world.",
+    "lat": 47.2933324,
+    "lon": -122.3022209
+  },
+  {
+    "name": "Pacific Bonsai Museum",
+    "description": "A comprehensive collection of bonsai set in a beautiful campus.",
+    "lat": 47.2938338,
+    "lon": -122.3020013
+  },
+  {
+    "name": "Frye Art Museum",
+    "description": "",
+    "lat": 47.6071992,
+    "lon": -122.324147
+  },
+  {
+    "name": "King Street Station",
+    "description": "Designed by Charles Reed and Allen Stem and built in 1906, the station\u2019s 250-foot clock tower was modeled after Venice, Italy\u2019s Piazza de San Marco\u2019s bell tower. If you haven\u2019t been for a few years, it\u2019s worth a second look: A renovation completed between 2008 and 2014 uncovered ornate ceilings, wainscoting and mosaic tile work hidden after an unfortunate redesign in the 1960s.",
+    "lat": 47.598361,
+    "lon": -122.3299493
+  },
+  {
+    "name": "Wing Luke Museum",
+    "description": "",
+    "lat": 47.598221,
+    "lon": -122.322914
+  },
+  {
+    "name": "Dr. Jose Rizal Park",
+    "description": "Named for beloved Filipino figure Jos\u00e9 Rizal, this Beacon Hill park has one of the most spectacular\u2014and totally underrated\u2014views of downtown Seattle.",
+    "lat": 47.5923129,
+    "lon": -122.3178459
+  },
+  {
+    "name": "Discovery Park Beach",
+    "description": "",
+    "lat": 47.6600535,
+    "lon": -122.4311708
+  },
+  {
+    "name": "Discovery Park Visitor Center",
+    "description": "",
+    "lat": 47.657621,
+    "lon": -122.406508
+  },
+  {
+    "name": "Fremont Peak Park",
+    "description": "",
+    "lat": 47.661131,
+    "lon": -122.356566
+  },
+  {
+    "name": "Bhy Kracke Park",
+    "description": "",
+    "lat": 47.6304929,
+    "lon": -122.3486605
+  },
+  {
+    "name": "Blaine Street Steps",
+    "description": "",
+    "lat": 47.6349561,
+    "lon": -122.3223351
+  },
+  {
+    "name": "Dimitriou's Jazz Alley",
+    "description": "",
+    "lat": 47.6148157,
+    "lon": -122.339617
+  },
+  {
+    "name": "Parsons Gardens",
+    "description": "",
+    "lat": 47.6298676,
+    "lon": -122.3661227
+  },
+  {
+    "name": "Chapel of St. Ignatius",
+    "description": "",
+    "lat": 47.6112761,
+    "lon": -122.3179262
+  },
+  {
+    "name": "Bullitt Center",
+    "description": "greenest building in the world (allegedly)",
+    "lat": 47.6144372,
+    "lon": -122.3123836
+  },
+  {
+    "name": "Northwest Seaport",
+    "description": "",
+    "lat": 47.6275437,
+    "lon": -122.3369029
+  },
+  {
+    "name": "Fourth And Madison Building",
+    "description": "rooftop garden on 7th floor",
+    "lat": 47.6062033,
+    "lon": -122.332074
+  },
+  {
+    "name": "Bill & Melinda Gates Foundation Discovery Center",
+    "description": "",
+    "lat": 47.6230467,
+    "lon": -122.3472726
+  },
+  {
+    "name": "Henry Art Gallery",
+    "description": "home to James Turrell's Skyspace:\u00a0An enclosed rotunda at the Henry Art Gallery in which viewers can look up and see the uninterrupted sky.",
+    "lat": 47.6562767,
+    "lon": -122.3117218
+  },
+  {
+    "name": "Jack Perry Memorial Park",
+    "description": "where to watch the giant container cranes at the port",
+    "lat": 47.5881239,
+    "lon": -122.3420905
+  },
+  {
+    "name": "Coast Guard Museum Northwest",
+    "description": "",
+    "lat": 47.5906468,
+    "lon": -122.3378322
+  },
+  {
+    "name": "Jack Block Park View Point",
+    "description": "maybe better place to see the port",
+    "lat": 47.5848957,
+    "lon": -122.3678376
+  },
+  {
+    "name": "Jones Soda Co",
+    "description": "",
+    "lat": 47.5586602,
+    "lon": -122.3332304
+  },
+  {
+    "name": "Seattle Chinese Garden",
+    "description": "This beautiful landscape is the only Sichuan-style garden outside of China.",
+    "lat": 47.5507644,
+    "lon": -122.3525587
+  },
+  {
+    "name": "Peter Miller Architecture And Design Books",
+    "description": "",
+    "lat": 47.5997399,
+    "lon": -122.3351798
+  },
+  {
+    "name": "Water Tower Observation Deck",
+    "description": "",
+    "lat": 47.6290253,
+    "lon": -122.3145744
+  },
+  {
+    "name": "Living Computers: Museum + Labs",
+    "description": "",
+    "lat": 47.5825278,
+    "lon": -122.3344609
+  },
+  {
+    "name": "Old Seattle Paperworks",
+    "description": "Giant Shoe Museum",
+    "lat": 47.6088233,
+    "lon": -122.341107
+  },
+  {
+    "name": "Mudlark Oddities",
+    "description": "A hidden gem full of oddities, curiosities and macabre antiques.",
+    "lat": 47.6756275,
+    "lon": -122.3042942
+  },
+  {
+    "name": "Scandinavian Specialties",
+    "description": "",
+    "lat": 47.6782621,
+    "lon": -122.3771824
+  },
+  {
+    "name": "Green Lake Boathouse and Coffee Shop",
+    "description": "",
+    "lat": 47.681453,
+    "lon": -122.328785
+  },
+  {
+    "name": "Swansons Nursery",
+    "description": "",
+    "lat": 47.7003416,
+    "lon": -122.3781031
+  },
+  {
+    "name": "Carkeek Park",
+    "description": "",
+    "lat": 47.7115955,
+    "lon": -122.3682005
+  },
+  {
+    "name": "Heart of Phinney Park",
+    "description": "",
+    "lat": 47.6776983,
+    "lon": -122.354318
+  },
+  {
+    "name": "Bureau of Fearless Ideas",
+    "description": "",
+    "lat": 47.6903497,
+    "lon": -122.3549069
+  },
+  {
+    "name": "9 Spaces 9 Trees",
+    "description": "",
+    "lat": 47.6564553,
+    "lon": -122.3110851
+  },
+  {
+    "name": "Sakya Monastery",
+    "description": "",
+    "lat": 47.6893669,
+    "lon": -122.3582344
+  },
+  {
+    "name": "KEXP",
+    "description": "",
+    "lat": 47.62305,
+    "lon": -122.355072
+  },
+  {
+    "name": "Snapdoodle Toys & Games Seattle",
+    "description": "",
+    "lat": 47.6910428,
+    "lon": -122.3569077
+  },
+  {
+    "name": "Jet City Improv",
+    "description": "",
+    "lat": 47.6661431,
+    "lon": -122.3137485
+  },
+  {
+    "name": "The Sock Monster",
+    "description": "",
+    "lat": 47.6615671,
+    "lon": -122.3411909
+  },
+  {
+    "name": "Archie McPhee",
+    "description": "",
+    "lat": 47.6616019,
+    "lon": -122.3417195
+  },
+  {
+    "name": "Burke Museum of Natural History and Culture",
+    "description": "ichthyology collection:\u00a0This remarkable collection devoted to the study of fish includes 1 million preserved specimens from all around the world.",
+    "lat": 47.6604329,
+    "lon": -122.3115365
+  },
+  {
+    "name": "Foster Island",
+    "description": "",
+    "lat": 47.6458339,
+    "lon": -122.2907107
+  },
+  {
+    "name": "Warren G. Magnuson Park",
+    "description": "",
+    "lat": 47.6797687,
+    "lon": -122.2536022
+  },
+  {
+    "name": "Boeing Future of Flight\u200b",
+    "description": "",
+    "lat": 47.9212293,
+    "lon": -122.2901598
+  },
+  {
+    "name": "Polish Home Association",
+    "description": "",
+    "lat": 47.6170076,
+    "lon": -122.3087201
+  },
+  {
+    "name": "Northwest African American Museum",
+    "description": "Now a museum, once the site of the longest act of civil disobedience in United States history.",
+    "lat": 47.5891493,
+    "lon": -122.3019404
+  },
+  {
+    "name": "Bradner Gardens Park",
+    "description": "This multi-functional park is a marvel of civic engagement.",
+    "lat": 47.5872963,
+    "lon": -122.2955501
+  },
+  {
+    "name": "Armory",
+    "description": "A community gathering place that once housed half-ton tanks and the World's Fair.",
+    "lat": 47.621552,
+    "lon": -122.3509547
+  },
+  {
+    "name": "Wake - Richard Serra",
+    "description": "This sculpture forces visitors to confront their relationship with space.",
+    "lat": 47.6171242,
+    "lon": -122.3556425
+  },
+  {
+    "name": "Cal Anderson Park",
+    "description": "A large AIDS Memorial Pathway art installation provides a moment for quiet contemplation in this public park.",
+    "lat": 47.6170185,
+    "lon": -122.319127
+  },
+  {
+    "name": "Chihuly Garden and Glass",
+    "description": "",
+    "lat": 47.6205599,
+    "lon": -122.3504476
+  },
+  {
+    "name": "Shorty's",
+    "description": "",
+    "lat": 47.6145575,
+    "lon": -122.3460054
+  },
+  {
+    "name": "Betty Bowen Viewpoint",
+    "description": "",
+    "lat": 47.6295769,
+    "lon": -122.3667218
+  },
+  {
+    "name": "NH",
+    "description": "NHL",
+    "lat": 47.6278494,
+    "lon": -122.3368432
+  },
+  {
+    "name": "Quest Bookshop",
+    "description": "",
+    "lat": 47.625578,
+    "lon": -122.3214807
+  },
+  {
+    "name": "Ada's Technical Books and Cafe",
+    "description": "",
+    "lat": 47.6226895,
+    "lon": -122.3128811
+  },
+  {
+    "name": "Lake View Cemetery",
+    "description": "home of Bruce & Brandon Lee",
+    "lat": 47.6340558,
+    "lon": -122.3153185
+  },
+  {
+    "name": "Grand Illusion Cinema",
+    "description": "",
+    "lat": 47.6647838,
+    "lon": -122.312852
+  },
+  {
+    "name": "Ravenna Ravine",
+    "description": "",
+    "lat": 47.672692,
+    "lon": -122.3091014
+  },
+  {
+    "name": "Good Shepherd Center",
+    "description": "",
+    "lat": 47.6640968,
+    "lon": -122.3311691
+  },
+  {
+    "name": "Psychic Chicken of Seattle",
+    "description": "Deep into the lower floors of Pike Place, find a date with fowl fate.",
+    "lat": 47.608559,
+    "lon": -122.3407461
+  },
+  {
+    "name": "Open Books A Poem Emporium",
+    "description": "",
+    "lat": 47.6028397,
+    "lon": -122.3339695
+  },
+  {
+    "name": "Fantagraphics Bookstore And Gallery",
+    "description": "A bookstore with an entire room dedicated to damaged and forlorn comic books.",
+    "lat": 47.5491198,
+    "lon": -122.3169786
+  },
+  {
+    "name": "Georgetown Trailer Park Mall",
+    "description": "This offbeat trailer park is home to vintage peddlers, local artists, indie makers, and more.",
+    "lat": 47.5504165,
+    "lon": -122.3184466
+  },
+  {
+    "name": "Kirk Albert Vintage Furnishings",
+    "description": "",
+    "lat": 47.5527333,
+    "lon": -122.3207917
+  },
+  {
+    "name": "Deep Sea Sugar And Salt",
+    "description": "This fog-enshrouded, antique corner store sells individual slices of wedding-fancy layer cakes from a window.",
+    "lat": 47.5477111,
+    "lon": -122.3146647
+  },
+  {
+    "name": "Gargoyles Statuary",
+    "description": "",
+    "lat": 47.6627467,
+    "lon": -122.3128486
+  },
+  {
+    "name": "Majestic Bay Theatres",
+    "description": "Continuing a tradition of movie magic on the site of America\u2019s oldest continually operating movie theatre.",
+    "lat": 47.6687984,
+    "lon": -122.3841002
+  },
+  {
+    "name": "University of Washington School of Music (MUS)",
+    "description": "home to harry partch's musical instruments -\u00a0A collection of odd-shaped and quirky sounding instruments handmade by a midcentury inventor-composer.",
+    "lat": 47.6577532,
+    "lon": -122.3059389
+  },
+  {
+    "name": "Book Larder",
+    "description": "",
+    "lat": 47.6588269,
+    "lon": -122.3499081
+  },
+  {
+    "name": "Hawaii General Store & HGS Travel",
+    "description": "",
+    "lat": 47.6615127,
+    "lon": -122.3257558
+  },
+  {
+    "name": "The Spheres",
+    "description": "The tech giant built three enormous glass orbs in Seattle so employees could work inside a rainforest greenhouse.The spheres are open to visitors on the first and third Saturday of each month. While public admission to the facility is free, those interested must make a reservation. The tours, as one might expect, are popular.",
+    "lat": 47.615728,
+    "lon": -122.3395104
+  },
+  {
+    "name": "Seattle's Giant Sequoia Tree",
+    "description": "This grand old 80-foot sequoia towers above the buildings in the city\u2019s retail center.",
+    "lat": 47.6121223,
+    "lon": -122.3388375
+  },
+  {
+    "name": "Kurt Cobain Memorial Bench",
+    "description": "A sliver of nostalgia in Seattle's Viretta Park.",
+    "lat": 47.6192199,
+    "lon": -122.2820428
+  },
+  {
+    "name": "Panama Hotel and Tea House",
+    "description": "This historic building provides a powerful glimpse into the lives of Japanese Americans forced to relocate during World War II.",
+    "lat": 47.5998923,
+    "lon": -122.325902
+  },
+  {
+    "name": "Fremont Abbey Arts Center",
+    "description": "",
+    "lat": 47.6591889,
+    "lon": -122.3497389
+  },
+  {
+    "name": "Zoo Tavern",
+    "description": "One of the only cooperatively owned bars in the nation wears its eclectic history on its walls.",
+    "lat": 47.639856,
+    "lon": -122.32607
+  },
+  {
+    "name": "Seattle City Light Denny Substation",
+    "description": "The Denny Substation has been called \"the coolest substation in the world\" and sits in a densely populated Seattle neighborhood.",
+    "lat": 47.6195096,
+    "lon": -122.3317708
+  },
+  {
+    "name": "Plymouth Pillars Park",
+    "description": "The four tall pillars once marked the entrance of the historic Seattle church that fought for women's suffrage and civil rights.",
+    "lat": 47.613634,
+    "lon": -122.3293955
+  },
+  {
+    "name": "Monster",
+    "description": "",
+    "lat": 47.6689014,
+    "lon": -122.3796874
+  },
+  {
+    "name": "Salty Dog Pottery",
+    "description": "Artistic Oasis in Industrial Ballard.",
+    "lat": 47.6623456,
+    "lon": -122.3732923
+  },
+  {
+    "name": "Essex",
+    "description": "",
+    "lat": 47.679445,
+    "lon": -122.3748583
+  },
+  {
+    "name": "Hiram M Chittenden Locks",
+    "description": "",
+    "lat": 47.6657621,
+    "lon": -122.3965646
+  },
+  {
+    "name": "Carl S. English Jr. Botanical Garden",
+    "description": "A young botanist's horticultural vision realized through a lifetime of planting, tending, and collecting seeds.",
+    "lat": 47.6667457,
+    "lon": -122.3974825
+  },
+  {
+    "name": "Fishermen's Terminal",
+    "description": "",
+    "lat": 47.6556244,
+    "lon": -122.380661
+  },
+  {
+    "name": "\"The Fin Project\" by John T. Young (Public Art Installation)",
+    "description": "Old submarine parts have been converted into faux whale fins.",
+    "lat": 47.6813755,
+    "lon": -122.2468536
+  },
+  {
+    "name": "Wedgwood Rock",
+    "description": "This quiet neighborhood is also home to a 700-ton rock transported by the last Ice Age.",
+    "lat": 47.6807484,
+    "lon": -122.2974594
+  },
+  {
+    "name": "Golden Gardens Park",
+    "description": "",
+    "lat": 47.6917517,
+    "lon": -122.4030912
+  },
+  {
+    "name": "Fremont Bridge",
+    "description": "From a neon Rapunzel to a bike traffic meter to a street fair color scheme, the most opened drawbridge in the US is a veritable art gallery.",
+    "lat": 47.6475338,
+    "lon": -122.3497474
+  },
+  {
+    "name": "Last Resort Fire Department Museum",
+    "description": "",
+    "lat": 47.599888,
+    "lon": -122.3319885
+  },
+  {
+    "name": "Waterfall Garden",
+    "description": "",
+    "lat": 47.6002312,
+    "lon": -122.3320588
+  },
+  {
+    "name": "JP Patches and Gertrude Statue site",
+    "description": "Leave a button on the jacket of this iconic Seattle clown.",
+    "lat": 47.649308,
+    "lon": -122.34862
+  },
+  {
+    "name": "Mox Boarding House",
+    "description": "A busy cafe better known for board games than food.",
+    "lat": 47.6649444,
+    "lon": -122.3805333
+  },
+  {
+    "name": "Egan's Ballard Jam House",
+    "description": "This jazz venue welcomes performers nightly and students daily.",
+    "lat": 47.6685242,
+    "lon": -122.3792245
+  },
+  {
+    "name": "Pioneer Building",
+    "description": "NHL \"The Pioneer Building is a Richardsonian Romanesque building built in 1892. The Pergola was formerly a cable car stop built in 1909,[15] and the Seattle Totem Pole, which was originally carved around 1790, was stolen from a Tlingit village, and presented to the city of Seattle by its Chamber of Commerce in 1899\"",
+    "lat": 47.6022094,
+    "lon": -122.3333874
+  },
+  {
+    "name": "Metsker Maps of Seattle",
+    "description": "",
+    "lat": 47.6091628,
+    "lon": -122.3406437
+  },
+  {
+    "name": "Elliott Bay Book Company",
+    "description": "",
+    "lat": 47.614679,
+    "lon": -122.319631
+  },
+  {
+    "name": "Melrose Market",
+    "description": "",
+    "lat": 47.6147749,
+    "lon": -122.3281061
+  },
+  {
+    "name": "Photographic Center Northwest",
+    "description": "",
+    "lat": 47.610526,
+    "lon": -122.3165843
+  },
+  {
+    "name": "Ursula Judkins Viewpoint",
+    "description": "",
+    "lat": 47.632047,
+    "lon": -122.390431
+  },
+  {
+    "name": "Ella Bailey Park",
+    "description": "",
+    "lat": 47.6404328,
+    "lon": -122.3910141
+  },
+  {
+    "name": "Magnolia Bluff",
+    "description": "",
+    "lat": 47.6562088,
+    "lon": -122.4237412
+  },
+  {
+    "name": "Petosa Accordions",
+    "description": "",
+    "lat": 47.8219265,
+    "lon": -122.3078088
+  },
+  {
+    "name": "Bonfire",
+    "description": "",
+    "lat": 47.5998719,
+    "lon": -122.3260131
+  },
+  {
+    "name": "Inscape Arts and Cultural Center",
+    "description": "This former INS center is now home to a thriving community of artists, from performers to painters to architects.",
+    "lat": 47.5952069,
+    "lon": -122.3270403
+  },
+  {
+    "name": "Danny Woo Community Garden",
+    "description": "",
+    "lat": 47.6002571,
+    "lon": -122.3250499
+  },
+  {
+    "name": "The Great Hall at Union Station",
+    "description": "",
+    "lat": 47.5986456,
+    "lon": -122.3285488
+  },
+  {
+    "name": "Kobo Shop & Gallery (at Higo)",
+    "description": "",
+    "lat": 47.5993684,
+    "lon": -122.3261202
+  },
+  {
+    "name": "Big John's PFI",
+    "description": "",
+    "lat": 47.5960704,
+    "lon": -122.3113234
+  },
+  {
+    "name": "Columbia City Gallery",
+    "description": "",
+    "lat": 47.558198,
+    "lon": -122.284891
+  },
+  {
+    "name": "Columbia City Theater",
+    "description": "",
+    "lat": 47.5573286,
+    "lon": -122.2846045
+  },
+  {
+    "name": "Western Neon",
+    "description": "",
+    "lat": 47.577366,
+    "lon": -122.328656
+  },
+  {
+    "name": "Schmitz Park Trail",
+    "description": "",
+    "lat": 47.573914,
+    "lon": -122.3968469
+  },
+  {
+    "name": "Alki Beach",
+    "description": "",
+    "lat": 47.5814993,
+    "lon": -122.4057008
+  },
+  {
+    "name": "Chapel - Ft. Lawton Historic District",
+    "description": "This Puget Sound military post has a long, turbulent history as a gateway to the Pacific.",
+    "lat": 47.6557483,
+    "lon": -122.4129098
+  },
+  {
+    "name": "Seward Park",
+    "description": "",
+    "lat": 47.5496046,
+    "lon": -122.2573574
+  },
+  {
+    "name": "Lakeridge Park",
+    "description": "Deadhorse canyon little hike",
+    "lat": 47.5049422,
+    "lon": -122.2470299
+  },
+  {
+    "name": "Cascadia Art Museum",
+    "description": "",
+    "lat": 47.8104213,
+    "lon": -122.3841883
+  },
+  {
+    "name": "Magnolia's Bookstore",
+    "description": "",
+    "lat": 47.6396873,
+    "lon": -122.3987149
+  },
+  {
+    "name": "Cheshiahud Lake Union Loop",
+    "description": "",
+    "lat": 47.6408315,
+    "lon": -122.3294106
+  },
+  {
+    "name": "Schack Art Center",
+    "description": "",
+    "lat": 47.9785306,
+    "lon": -122.2096556
+  },
+  {
+    "name": "Montlake Spite House",
+    "description": "This tiny home built on revenge appears to be scarcely wider than a Volkswagen.",
+    "lat": 47.6385271,
+    "lon": -122.301533
+  },
+  {
+    "name": "Valley of the Gnomes",
+    "description": "The classic lawn figurine now claims this wooded area as home.",
+    "lat": 47.6152384,
+    "lon": -122.2826523
+  },
+  {
+    "name": "Jimi Hendrix Memorial",
+    "description": "The final resting place of one of the most sensational guitar players of all time was created only after his father got the rights to his music.",
+    "lat": 47.4865091,
+    "lon": -122.1740215
+  },
+  {
+    "name": "Renton Library",
+    "description": "This unique library spans a mighty river.",
+    "lat": 47.4818586,
+    "lon": -122.2020435
+  },
+  {
+    "name": "Earthwork Robert Morris",
+    "description": "Tasked with beautifying a disused stretch of industrial land one artist filled a hole with grass.",
+    "lat": 47.4077344,
+    "lon": -122.2839277
+  },
+  {
+    "name": "Dune Peninsula at Point Defiance Park",
+    "description": "A massive environmental project transformed this former smelter into a beautiful park.",
+    "lat": 47.3061762,
+    "lon": -122.5097747
+  },
+  {
+    "name": "Japanese Language School Memorial",
+    "description": "This site was a school and a center of Japanese-American life before internment.",
+    "lat": 47.2468113,
+    "lon": -122.4375849
+  },
+  {
+    "name": "We Honor a Hero",
+    "description": "This statue honors Marvin Klegman, a heroic child who died while saving another boy's life in a 1949 earthquake, and shares his long untold story.",
+    "lat": 47.267,
+    "lon": -122.4657899
+  },
+  {
+    "name": "Sage Interiors + Design",
+    "description": "",
+    "lat": 47.239093,
+    "lon": -122.4371641
+  },
+  {
+    "name": "Top of the Ocean Historical Marker",
+    "description": "This waterfront restaurant was the life of the party until a crime syndicate burned it to the ground.",
+    "lat": 47.2763134,
+    "lon": -122.4666538
+  },
+  {
+    "name": "Spanish Steps",
+    "description": "A Roman holiday is closer than you think when you use this 1916 staircase inspired by Rome's Piazza di Spagna.",
+    "lat": 47.2578302,
+    "lon": -122.4407675
+  },
+  {
+    "name": "Old St Peter's Church",
+    "description": "The oldest remaining building in Tacoma was once the home of the \"oldest bell tower\" in America.",
+    "lat": 47.2741702,
+    "lon": -122.4640038
+  },
+  {
+    "name": "Job Carr Cabin Museum",
+    "description": "This Old Town cabin tells the story of Tacoma's settlement through a replica of its first non-Native building.",
+    "lat": 47.274563,
+    "lon": -122.468735
+  },
+  {
+    "name": "Tacoma Union Station",
+    "description": "Tacoma's historic Beaux-Arts train station is now a federal courthouse featuring large-scale glass sculptures by artist Dale Chihuly.",
+    "lat": 47.2459182,
+    "lon": -122.4362881
+  },
+  {
+    "name": "Chihuly Bridge of Glass",
+    "description": "A beautiful footbridge with over 2,000 glass sculptures along the walls and ceiling.",
+    "lat": 47.2456664,
+    "lon": -122.4345766
+  },
+  {
+    "name": "Buffalo Soldiers Museum",
+    "description": "Sharing the often-overlooked story of America's Black soldiers.",
+    "lat": 47.2412688,
+    "lon": -122.4593513
+  },
+  {
+    "name": "Brown & Haley Factory Store",
+    "description": "This century-old confectioner's outlet store was plucked right out of the Seattle World's Fair.",
+    "lat": 47.2380951,
+    "lon": -122.4333727
+  },
+  {
+    "name": "Sanford & Son Antiques!",
+    "description": "This three-story antique market and curiosity emporium claims to be \"the largest singly owned antique shop in the Pacific Northwest.\"",
+    "lat": 47.2564961,
+    "lon": -122.4404962
+  },
+  {
+    "name": "Bob's Java Jive",
+    "description": "Tacoma\u2019s 25-foot coffee pot music spot has served up over 80 years of concrete kitsch.",
+    "lat": 47.231741,
+    "lon": -122.4645574
+  },
+  {
+    "name": "LeMay - America\u2019s Car Museum",
+    "description": "",
+    "lat": 47.2357021,
+    "lon": -122.4303288
+  },
+  {
+    "name": "Point Shilshole Beach",
+    "description": "",
+    "lat": 47.6746405,
+    "lon": -122.4083556
+  },
+  {
+    "name": "Fifty Four Sixteen",
+    "description": "",
+    "lat": 47.6672644,
+    "lon": -122.3849019
+  },
+  {
+    "name": "Acacia Memorial Park & Funeral Home",
+    "description": "Grand mausoleum with acres of stained glass",
+    "lat": 47.7381,
+    "lon": -122.2916
+  },
+  {
+    "name": "Al's Music Video & Games",
+    "description": "",
+    "lat": 47.6626531,
+    "lon": -122.3133018
+  },
+  {
+    "name": "Ugly Baby",
+    "description": "",
+    "lat": 47.6082302,
+    "lon": -122.3408406
+  },
+  {
+    "name": "Foss Waterway Seaport",
+    "description": "",
+    "lat": 47.2580956,
+    "lon": -122.4372945
+  },
+  {
+    "name": "Funko Everett",
+    "description": "",
+    "lat": 47.9803047,
+    "lon": -122.2076035
+  },
+  {
+    "name": "Wings Over Washington",
+    "description": "",
+    "lat": 47.6062079,
+    "lon": -122.3420642
+  },
+  {
+    "name": "The Seattle Great Wheel",
+    "description": "",
+    "lat": 47.6061342,
+    "lon": -122.3425246
+  },
+  {
+    "name": "Seattle Art Museum",
+    "description": "",
+    "lat": 47.6075253,
+    "lon": -122.3379599
+  },
+  {
+    "name": "National Nordic Museum",
+    "description": "",
+    "lat": 47.6684157,
+    "lon": -122.392509
+  },
+  {
+    "name": "WhirlyBall",
+    "description": "",
+    "lat": 47.7861214,
+    "lon": -122.3405914
+  },
+  {
+    "name": "Washington State History Museum",
+    "description": "",
+    "lat": 47.244736,
+    "lon": -122.435954
+  },
+  {
+    "name": "Boba Up",
+    "description": "",
+    "lat": 47.6581301,
+    "lon": -122.3133607
+  },
+  {
+    "name": "Upstairs Sea Shell Museum",
+    "description": "",
+    "lat": 47.855739,
+    "lon": -122.583767
+  },
+  {
+    "name": "The Atlas Theatre",
+    "description": "",
+    "lat": 47.6508836,
+    "lon": -122.3501133
+  },
+  {
+    "name": "Sky View Observatory - Columbia Center",
+    "description": "",
+    "lat": 47.6043639,
+    "lon": -122.3310111
+  },
+  {
+    "name": "Sylvan Grove Theater and Columns",
+    "description": "a small grassy field that was initially used for plays. Along the far end, which served as the stage, are four hand-fluted cedar Ionic columns that were salvaged from a portico in the original downtown University of Washington campus that was demolished in 1908. This beautiful, peaceful space is usually empty during weekdays and is perfect for picnics.",
+    "lat": 47.6527461,
+    "lon": -122.3063108
+  },
+  {
+    "name": "Wall of Misfit Art",
+    "description": "A mesmerizing amount of crazy art is attached to the side of this house on Seattle's Phinney Ridge, bringing smiles to those who venture down the driveway to take a look.",
+    "lat": 47.6804051,
+    "lon": -122.3556598
+  },
+  {
+    "name": "The Electric Boat Company",
+    "description": "",
+    "lat": 47.637835,
+    "lon": -122.340085
+  },
+  {
+    "name": "Lincoln Park",
+    "description": "",
+    "lat": 47.530571,
+    "lon": -122.395992
+  },
+  {
+    "name": "Bruun Idun - Way of the Bird King",
+    "description": "",
+    "lat": 47.5314053,
+    "lon": -122.3997582
+  },
+  {
+    "name": "Flying Heritage & Combat Armor Museum",
+    "description": "Three hangars filled with meticulously restored aircraft and armored vehicles.",
+    "lat": 47.89939,
+    "lon": -122.280243
+  },
+  {
+    "name": "Giant Cedar Stump",
+    "description": "At a rest stop north of Seattle, the trunk of an ancient tree.",
+    "lat": 48.1687092,
+    "lon": -122.1892427
+  },
+  {
+    "name": "Hotel Sorrento",
+    "description": "The Hotel Sorrento is the oldest hotel in Seattle to serve continuously as a hotel since its construction\u2014in this case, 1909. Even after a few restorations, it maintains a grand appearance, with an Italian renaissance exterior wrapping around a central courtyard. Inside, enjoy a cocktail or snack by the fire.<br><br>The Hotel Sorrento is also, according to legend, extremely haunted. The alleged ghost is that of Gertrude Stein\u2019s partner Alice B. Toklas, and she appears to be benevolent; the fireside lounge is cozy and a great place for a few snacks or beverages.",
+    "lat": 47.6089918,
+    "lon": -122.326915
+  },
+  {
+    "name": "Tidelands",
+    "description": "",
+    "lat": 47.6061091,
+    "lon": -122.3394477
+  },
+  {
+    "name": "The Museum of Flight",
+    "description": "",
+    "lat": 47.5185379,
+    "lon": -122.2968545
+  },
+  {
+    "name": "Old City Hall Tacoma",
+    "description": "",
+    "lat": 47.2574243,
+    "lon": -122.4397937
+  },
+  {
+    "name": "Stadium High School",
+    "description": "",
+    "lat": 47.2660086,
+    "lon": -122.4484925
+  }
+]
