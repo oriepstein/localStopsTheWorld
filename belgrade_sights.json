@@ -14,18 +14,21 @@
   {
     "name": "Nikola Tesla Museum",
     "description": "Nikola Tesla's ashes are held in a golden sphere, surrounded by his works",
+    "icon": "green",
     "lat": 44.805131,
     "lon": 20.470734
   },
   {
     "name": "Ružica Church",
     "description": "A Serbian church lit by chandeliers made of weapons.",
+    "icon": "green",
     "lat": 44.8255073,
     "lon": 20.4512811
   },
   {
     "name": "Western City Gate",
     "description": "A pair of connected skyscrapers form this symbolic gateway.",
+    "icon": "green",
     "lat": 44.820278,
     "lon": 20.404722
   },
