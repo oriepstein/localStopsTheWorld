@@ -1,0 +1,2312 @@
+[
+  {
+    "name": "Melville House Publishing and Bookstore",
+    "description": "",
+    "lat": 40.7043658,
+    "lon": -73.98619
+  },
+  {
+    "name": "Empire Stores",
+    "description": "",
+    "lat": 40.7035539,
+    "lon": -73.9916217
+  },
+  {
+    "name": "POWERHOUSE Arena",
+    "description": "",
+    "lat": 40.7029566,
+    "lon": -73.9888366
+  },
+  {
+    "name": "Plymouth Church",
+    "description": "NHL church with piece of plymouth rock; underground railroad stop. guided tours sundays at 130",
+    "lat": 40.6991711,
+    "lon": -73.9931456
+  },
+  {
+    "name": "Brooklyn Women's Exchange Inc",
+    "description": "",
+    "lat": 40.6959876,
+    "lon": -73.9950959
+  },
+  {
+    "name": "58 Joralemon St",
+    "description": "fake house hiding subway ventilator",
+    "lat": 40.6934007,
+    "lon": -73.9974105
+  },
+  {
+    "name": "Urban Folk Art",
+    "description": "",
+    "lat": 40.6882642,
+    "lon": -73.9892243
+  },
+  {
+    "name": "Autonomedia",
+    "description": "",
+    "lat": 40.7077721,
+    "lon": -73.966749
+  },
+  {
+    "name": "Saint Vitus Bar",
+    "description": "",
+    "lat": 40.7367758,
+    "lon": -73.9551337
+  },
+  {
+    "name": "Flavor Paper",
+    "description": "",
+    "lat": 40.6887464,
+    "lon": -73.9920688
+  },
+  {
+    "name": "Gowanus Souvenir Shop",
+    "description": "",
+    "lat": 40.6789851,
+    "lon": -73.9866028
+  },
+  {
+    "name": "keur djembe African Drums Shop",
+    "description": "",
+    "lat": 40.6781264,
+    "lon": -73.9852363
+  },
+  {
+    "name": "Jalopy Theatre and School of Music",
+    "description": "",
+    "lat": 40.6813194,
+    "lon": -74.0042257
+  },
+  {
+    "name": "Sistas' Place",
+    "description": "",
+    "lat": 40.6833508,
+    "lon": -73.9503228
+  },
+  {
+    "name": "Arlington Place",
+    "description": "where crooklyn was filmed, one of the prettiest blocks in the neighborhood",
+    "lat": 40.6809175,
+    "lon": -73.9511572
+  },
+  {
+    "name": "Five Myles",
+    "description": "",
+    "lat": 40.672629,
+    "lon": -73.959636
+  },
+  {
+    "name": "The Betzalel Gallery & Picture Framing",
+    "description": "",
+    "lat": 40.664259,
+    "lon": -73.9434144
+  },
+  {
+    "name": "Micro Museum",
+    "description": "",
+    "lat": 40.687607,
+    "lon": -73.9897317
+  },
+  {
+    "name": "108 Wyckoff St",
+    "description": "mosaic house",
+    "lat": 40.6854419,
+    "lon": -73.9896727
+  },
+  {
+    "name": "The Boiler | Pierogi",
+    "description": "",
+    "lat": 40.7229231,
+    "lon": -73.955229
+  },
+  {
+    "name": "WNYC Transmitter Park",
+    "description": "",
+    "lat": 40.7298447,
+    "lon": -73.9607685
+  },
+  {
+    "name": "Newtown Creek Wastewater Treatment Plant",
+    "description": "",
+    "lat": 40.7315714,
+    "lon": -73.9469037
+  },
+  {
+    "name": "Newtown Creek Nature Walk",
+    "description": "",
+    "lat": 40.736267,
+    "lon": -73.948846
+  },
+  {
+    "name": "Light Industry",
+    "description": "",
+    "lat": 40.734637,
+    "lon": -73.955648
+  },
+  {
+    "name": "The Thing",
+    "description": "",
+    "lat": 40.733263,
+    "lon": -73.9550435
+  },
+  {
+    "name": "Green Farms Super Market",
+    "description": "",
+    "lat": 40.7307422,
+    "lon": -73.9542059
+  },
+  {
+    "name": "Sunshine Laundromat",
+    "description": "laundromat with pinball bar hidden within",
+    "lat": 40.7293483,
+    "lon": -73.9535391
+  },
+  {
+    "name": "The Bushwick Collective",
+    "description": "",
+    "lat": 40.7076388,
+    "lon": -73.9218185
+  },
+  {
+    "name": "Green Village Used Clothing",
+    "description": "",
+    "lat": 40.706795,
+    "lon": -73.9212834
+  },
+  {
+    "name": "House of Yes",
+    "description": "",
+    "lat": 40.7068169,
+    "lon": -73.9236004
+  },
+  {
+    "name": "Human Relations",
+    "description": "",
+    "lat": 40.7045416,
+    "lon": -73.92967
+  },
+  {
+    "name": "The Paper Box",
+    "description": "",
+    "lat": 40.710973,
+    "lon": -73.9363036
+  },
+  {
+    "name": "Moore Street Market",
+    "description": "",
+    "lat": 40.7038146,
+    "lon": -73.9410897
+  },
+  {
+    "name": "Bushwick Inlet Park",
+    "description": "",
+    "lat": 40.7223295,
+    "lon": -73.9613074
+  },
+  {
+    "name": "State of New York- East River State Park",
+    "description": "",
+    "lat": 40.7214081,
+    "lon": -73.9620691
+  },
+  {
+    "name": "Grand Ferry Park",
+    "description": "",
+    "lat": 40.716365,
+    "lon": -73.966639
+  },
+  {
+    "name": "indieScreen",
+    "description": "",
+    "lat": 40.7149544,
+    "lon": -73.966198
+  },
+  {
+    "name": "Whisk",
+    "description": "",
+    "lat": 40.7159891,
+    "lon": -73.9594278
+  },
+  {
+    "name": "Brooklyn Reclamation",
+    "description": "",
+    "lat": 40.7143193,
+    "lon": -73.9594944
+  },
+  {
+    "name": "Book Thug Nation",
+    "description": "",
+    "lat": 40.7165843,
+    "lon": -73.9619363
+  },
+  {
+    "name": "Brooklyn Art Library",
+    "description": "",
+    "lat": 40.717305,
+    "lon": -73.9510093
+  },
+  {
+    "name": "The City Reliquary Museum",
+    "description": "",
+    "lat": 40.713963,
+    "lon": -73.955746
+  },
+  {
+    "name": "The Arm Letterpress",
+    "description": "",
+    "lat": 40.715273,
+    "lon": -73.953158
+  },
+  {
+    "name": "Museum of Food and Drink (MOFAD) Lab",
+    "description": "",
+    "lat": 40.718844,
+    "lon": -73.9495801
+  },
+  {
+    "name": "Spectacle",
+    "description": "",
+    "lat": 40.7125413,
+    "lon": -73.9628444
+  },
+  {
+    "name": "The Living Gallery",
+    "description": "",
+    "lat": 40.6941285,
+    "lon": -73.9306532
+  },
+  {
+    "name": "Do The Right Thing Way",
+    "description": "Spike Lee's provocative film is officially honored right where it was made, the first time a work of art was used as a secondary street name.\u00a0",
+    "lat": 40.6893275,
+    "lon": -73.933321
+  },
+  {
+    "name": "Molasses Books",
+    "description": "",
+    "lat": 40.7006193,
+    "lon": -73.9237572
+  },
+  {
+    "name": "Silent Barn",
+    "description": "",
+    "lat": 40.69863,
+    "lon": -73.934307
+  },
+  {
+    "name": "Woodhull Medical Center",
+    "description": "",
+    "lat": 40.7008259,
+    "lon": -73.9424803
+  },
+  {
+    "name": "Brooklyn Table Tennis Club",
+    "description": "",
+    "lat": 40.6306627,
+    "lon": -73.9665767
+  },
+  {
+    "name": "Brooklyn College",
+    "description": "",
+    "lat": 40.6314406,
+    "lon": -73.9544488
+  },
+  {
+    "name": "Living Torah Museum",
+    "description": "",
+    "lat": 40.635547,
+    "lon": -73.9805466
+  },
+  {
+    "name": "Brancaccio's Food Shop",
+    "description": "",
+    "lat": 40.6485601,
+    "lon": -73.978833
+  },
+  {
+    "name": "Buzz-A-Rama",
+    "description": "",
+    "lat": 40.6424018,
+    "lon": -73.9807003
+  },
+  {
+    "name": "Brooklyn ARTery",
+    "description": "",
+    "lat": 40.6395941,
+    "lon": -73.9684007
+  },
+  {
+    "name": "Sacred Vibes Apothecary",
+    "description": "",
+    "lat": 40.6400252,
+    "lon": -73.9662255
+  },
+  {
+    "name": "Erasmus Hall High School",
+    "description": "",
+    "lat": 40.6495813,
+    "lon": -73.9581967
+  },
+  {
+    "name": "Albemarle Terrace",
+    "description": "",
+    "lat": 40.6485612,
+    "lon": -73.959662
+  },
+  {
+    "name": "Kenmore Terrace",
+    "description": "",
+    "lat": 40.6491736,
+    "lon": -73.9594277
+  },
+  {
+    "name": "Harbor Defense Museum",
+    "description": "bring passport!",
+    "lat": 40.609084,
+    "lon": -74.032499
+  },
+  {
+    "name": "Narrows Botanical Gardens",
+    "description": "",
+    "lat": 40.6372374,
+    "lon": -74.0367631
+  },
+  {
+    "name": "Owl's Head Park",
+    "description": "site of never-finished tunnel to Staten Island",
+    "lat": 40.6401377,
+    "lon": -74.0322522
+  },
+  {
+    "name": "American Veterans Memorial Pier",
+    "description": "",
+    "lat": 40.6393213,
+    "lon": -74.0376877
+  },
+  {
+    "name": "Weeksville Heritage Center",
+    "description": "",
+    "lat": 40.6739761,
+    "lon": -73.9253119
+  },
+  {
+    "name": "Dead Horse Bay",
+    "description": "",
+    "lat": 40.584376,
+    "lon": -73.8999741
+  },
+  {
+    "name": "CB I Hate Perfume - Olfactory Art Gallery",
+    "description": "",
+    "lat": 40.712045,
+    "lon": -73.936328
+  },
+  {
+    "name": "Big Sky Works",
+    "description": "",
+    "lat": 40.7230252,
+    "lon": -73.9562924
+  },
+  {
+    "name": "NURTUREart Non-Profit Inc",
+    "description": "",
+    "lat": 40.7058963,
+    "lon": -73.9332806
+  },
+  {
+    "name": "Vandervoort Place",
+    "description": "",
+    "lat": 40.704465,
+    "lon": -73.9304578
+  },
+  {
+    "name": "Angel's Fruit Market",
+    "description": "not your average bodega - carries an impressively diverse & large selection of obscure Latin American & European ingredients\u00a0",
+    "lat": 40.702043,
+    "lon": -73.9245569
+  },
+  {
+    "name": "Norte Maar",
+    "description": "",
+    "lat": 40.684419,
+    "lon": -73.873741
+  },
+  {
+    "name": "Luhring Augustine Gallery",
+    "description": "",
+    "lat": 40.707305,
+    "lon": -73.931251
+  },
+  {
+    "name": "56 Bogart St",
+    "description": "building full of art galleries",
+    "lat": 40.7057243,
+    "lon": -73.9331652
+  },
+  {
+    "name": "The Bushwick Starr",
+    "description": "The Bushwick Starr is an award-winning nonprofit theater that has been a home for artists, community and bold new work since 2007. In September 2024, The Bushwick Starr unveiled our new 5,000 sq ft theater\u2014a fully accessible LEED-certified state of the art facility and permanent cultural space for our community, designed by award-winning architectural firm Bureau V Architecture (the studio behind the design of Brooklyn\u2019s non-profit music venue National Sawdust). At the new Starr, audiences will enjoy an expanded venue with improved access and comfort, while artists will benefit from larger, functional spaces on-site that support all the ways they work.<br><br>The new lobby brings the Starr\u2019s mission to the streets of Brooklyn by welcoming passersby to freely enter throughout the day to an accessible space of community gathering. This space offers a new model for what a lobby space can be: a classroom, screening room, lively gathering space, quiet meeting space\u2014a place where people always feel welcome to meet, mix, connect, and get inspired. Building tours with The Bushwick Starr Co-Founders, Noel Allain and Sue Kessler will be offered on a rolling basis.",
+    "lat": 40.705089,
+    "lon": -73.9234806
+  },
+  {
+    "name": "Low Brow Artique",
+    "description": "",
+    "lat": 40.6996921,
+    "lon": -73.927463
+  },
+  {
+    "name": "Museum of Contemporary African Diasporan Arts",
+    "description": "",
+    "lat": 40.6851993,
+    "lon": -73.974308
+  },
+  {
+    "name": "Lafayette Avenue Presbyterian Church",
+    "description": "murals; abolitionist church - displays \"Lincoln Shovel\" which Lincoln sent for their groundbreaking",
+    "lat": 40.6870381,
+    "lon": -73.9732706
+  },
+  {
+    "name": "Irondale Center",
+    "description": "",
+    "lat": 40.6870381,
+    "lon": -73.9732706
+  },
+  {
+    "name": "BRIC",
+    "description": "",
+    "lat": 40.6886419,
+    "lon": -73.9791298
+  },
+  {
+    "name": "Brown Memorial Baptist Church",
+    "description": "Tiffany (?) stained glass windows",
+    "lat": 40.684223,
+    "lon": -73.965559
+  },
+  {
+    "name": "Brooklyn Army Terminal",
+    "description": "",
+    "lat": 40.6441587,
+    "lon": -74.0249671
+  },
+  {
+    "name": "The Wyckoff House Museum",
+    "description": "",
+    "lat": 40.6443368,
+    "lon": -73.9207731
+  },
+  {
+    "name": "Salt Marsh Nature Center",
+    "description": "",
+    "lat": 40.6040464,
+    "lon": -73.9306319
+  },
+  {
+    "name": "7901 Ridge Blvd",
+    "description": "Greek immigrant George Kortsolakis created a topographical map of Crete from found objects",
+    "lat": 40.628993,
+    "lon": -74.0314
+  },
+  {
+    "name": "The Coney Island Museum",
+    "description": "ask to see Topsy's electrocution",
+    "lat": 40.5753293,
+    "lon": -73.979783
+  },
+  {
+    "name": "Sideshows by the Seashore",
+    "description": "",
+    "lat": 40.5752703,
+    "lon": -73.9797856
+  },
+  {
+    "name": "Hendrick I. Lott House",
+    "description": "",
+    "lat": 40.6103011,
+    "lon": -73.9325837
+  },
+  {
+    "name": "Waterfront Museum",
+    "description": "Lehigh Valley barge No. 79 still gets tugged along - but now it houses a museum and unusual performances.\u00a0",
+    "lat": 40.675219,
+    "lon": -74.0183687
+  },
+  {
+    "name": "Carroll Street Bridge",
+    "description": "",
+    "lat": 40.6781878,
+    "lon": -73.989156
+  },
+  {
+    "name": "Gridspace",
+    "description": "",
+    "lat": 40.67288,
+    "lon": -73.9532399
+  },
+  {
+    "name": "St. Ann's Warehouse",
+    "description": "",
+    "lat": 40.703789,
+    "lon": -73.9928
+  },
+  {
+    "name": "Lefferts Historic House",
+    "description": "",
+    "lat": 40.6643449,
+    "lon": -73.9637644
+  },
+  {
+    "name": "Old Stone House & Washington Park",
+    "description": "",
+    "lat": 40.6729885,
+    "lon": -73.9846023
+  },
+  {
+    "name": "Brick Theatre",
+    "description": "",
+    "lat": 40.714288,
+    "lon": -73.9497617
+  },
+  {
+    "name": "Melody Lanes Bowling Center",
+    "description": "",
+    "lat": 40.652779,
+    "lon": -74.002944
+  },
+  {
+    "name": "The Billie Holiday Theatre",
+    "description": "",
+    "lat": 40.6799694,
+    "lon": -73.9456848
+  },
+  {
+    "name": "The Invisible Dog Art Center",
+    "description": "",
+    "lat": 40.687245,
+    "lon": -73.9911963
+  },
+  {
+    "name": "ISSUE Project Room",
+    "description": "Originally built in 1926 as the headquarters for the Benevolent & Protective Order of the Elks, the theater features a limestone and terra cotta facade, with Renaissance-revival style features including balustrades, egg-and- dart ornamentation, Corinthian columns, and 40-foot vaulted ceilings. This McKim, Mead & White designed 4,800 square foot theater space provides unique acoustics. In 2008, ISSUE was awarded a long-term lease on a theater space in the historic 110 Livingston Street building in Downtown Brooklyn. Offering a centralized location and an audience capacity more than double that of any previous space ISSUE had occupied, the new theater has helped facilitate a degree of publicity and awareness unique for our community of under-recognized artists.",
+    "lat": 40.6908467,
+    "lon": -73.9897215
+  },
+  {
+    "name": "Bargemusic",
+    "description": "",
+    "lat": 40.7031305,
+    "lon": -73.9952668
+  },
+  {
+    "name": "Brooklyn Historical Society",
+    "description": "",
+    "lat": 40.6947959,
+    "lon": -73.9924082
+  },
+  {
+    "name": "Grace Court Alley",
+    "description": "charming former stable alley",
+    "lat": 40.6940583,
+    "lon": -73.9964117
+  },
+  {
+    "name": "Warsaw",
+    "description": "",
+    "lat": 40.7224421,
+    "lon": -73.9485191
+  },
+  {
+    "name": "The Brooklyn Kitchen",
+    "description": "",
+    "lat": 40.717634,
+    "lon": -73.947659
+  },
+  {
+    "name": "Acme Smoked Fish Corporation",
+    "description": "",
+    "lat": 40.7254473,
+    "lon": -73.956479
+  },
+  {
+    "name": "Coral & Tusk",
+    "description": "",
+    "lat": 40.6562028,
+    "lon": -74.0073766
+  },
+  {
+    "name": "Brighton Bazaar",
+    "description": "",
+    "lat": 40.5782174,
+    "lon": -73.9592266
+  },
+  {
+    "name": "MARY A. WHALEN",
+    "description": "The MARY A. WHALEN, last-of-her-kind coastal oil tanker, is home to the nonprofit PortSide NewYork, and is the only oil tanker in the world repurposed for public education and culture. Listed on the National Register of Historic Places, the MARY was built for the Red Hook, Brooklyn-based company Ira S. Bushey & Sons in 1938.",
+    "lat": 40.6804785,
+    "lon": -74.0124708
+  },
+  {
+    "name": "National Sawdust",
+    "description": "a nonprofit venue in Brooklyn that commissions, produces, and presents programming rooted in sound. Founded in 2015 by composer Paola Prestini, it offers a community for individuals to discover new and varied music. National Sawdust has a long-term partnership with Meyer Sound, which provides one of the best sound systems in the city. The spatial sound technology allows a rehearsal room to have acoustics comparable to a symphony hall.",
+    "lat": 40.7189016,
+    "lon": -73.9613395
+  },
+  {
+    "name": "Gotham Archery",
+    "description": "",
+    "lat": 40.6824532,
+    "lon": -73.986126
+  },
+  {
+    "name": "Williamsburg Art & Historical Center",
+    "description": "",
+    "lat": 40.7105986,
+    "lon": -73.9635467
+  },
+  {
+    "name": "Interference Archive",
+    "description": "",
+    "lat": 40.670388,
+    "lon": -73.985844
+  },
+  {
+    "name": "Books Are Magic",
+    "description": "",
+    "lat": 40.6839938,
+    "lon": -73.9920653
+  },
+  {
+    "name": "Former site of Ebbets Field",
+    "description": "",
+    "lat": 40.6645909,
+    "lon": -73.9577832
+  },
+  {
+    "name": "Lite Brite Neon Studio LLC",
+    "description": "",
+    "lat": 40.6746019,
+    "lon": -73.9880992
+  },
+  {
+    "name": "House of Wax",
+    "description": "",
+    "lat": 40.6908759,
+    "lon": -73.9828655
+  },
+  {
+    "name": "The THNK1994 Museum",
+    "description": "",
+    "lat": 40.6779777,
+    "lon": -73.9445838
+  },
+  {
+    "name": "Sebago Canoe Club Inc",
+    "description": "",
+    "lat": 40.6271391,
+    "lon": -73.9040646
+  },
+  {
+    "name": "American Veterans Memorial Pier",
+    "description": "",
+    "lat": 40.6393213,
+    "lon": -74.0376877
+  },
+  {
+    "name": "Louis Valentino, Jr. Park and Pier",
+    "description": "Take in a rare, face-to-face glimpse of Lady Liberty at this tucked away Red Hook park.\u00a0",
+    "lat": 40.6784075,
+    "lon": -74.0181413
+  },
+  {
+    "name": "Brooklyn Glass",
+    "description": "",
+    "lat": 40.6691314,
+    "lon": -73.9939402
+  },
+  {
+    "name": "Saint Nicholas Antiochian Orthodox Cathedral",
+    "description": "serving Middle Eastern Christians; every surface covered in iconography",
+    "lat": 40.6878252,
+    "lon": -73.9847697
+  },
+  {
+    "name": "The City Foundry",
+    "description": "",
+    "lat": 40.6572748,
+    "lon": -74.0075161
+  },
+  {
+    "name": "A/D/O",
+    "description": "",
+    "lat": 40.7246841,
+    "lon": -73.9548224
+  },
+  {
+    "name": "Church of St. Luke & St. Matthew",
+    "description": "\"The Church of St. Luke and St. Matthew is the largest Episcopal Church building in the Diocese of Long Island. Architect John Welch was commissioned to design the church after a fire in 1887 destroyed much of the structure. Welch drew inspiration from churches built during the Italian Renaissance, particularly those in Modena and Verona. Many of the windows were commissioned for the church from the Tiffany Studio. The wheel or rose window was given by the children of the Sunday school at the time of the rebuilding in 1890. It is 28 feet in diameter and is one of the larger windows of this type in Brooklyn. In 1981 the New York City Landmarks Preservation Commission designated the Church of St. Luke and St. Matthew as a landmark.<br><br>Funded through a NYCDEP Green Infrastructure Grant, the new green infrastructure network for the Church captures, stores, and recycles on-site stormwater to protect the foundation of the historic building from flooding, while sustaining new public gardens and walkways.\"",
+    "lat": 40.682702,
+    "lon": -73.9672458
+  },
+  {
+    "name": "Church of the Annunciation",
+    "description": "church was designed in the Lombard Romanesque style, including a 110 foot belltower. Annunciation's impressive \"Opus 288\" pipe organ was built by the Austin Organ Company in 1912. The church's unique high altar is composed of hand carved wood, gilded with gold and silver leaf accents, containing statues dating back to 1870",
+    "lat": 40.714349,
+    "lon": -73.9547487
+  },
+  {
+    "name": "The Evergreens Cemetery",
+    "description": "historic cemetery in the 'rural' style, was incorporated in 1849 and covers 225 acres. Over 500,000 people are buried here, including notables such as tap legend Bill \"Bojangles\" Robinson, jazz musician Lester Young, and painter Martin Heade",
+    "lat": 40.68389,
+    "lon": -73.9011979
+  },
+  {
+    "name": "Five Boroughs Brewing Co.",
+    "description": "",
+    "lat": 40.650597,
+    "lon": -74.014486
+  },
+  {
+    "name": "Kings County Distillery",
+    "description": "",
+    "lat": 40.6995644,
+    "lon": -73.9801965
+  },
+  {
+    "name": "Kingsland Wildflowers Green Roof & Community Engagement Center",
+    "description": "",
+    "lat": 40.7345393,
+    "lon": -73.9432776
+  },
+  {
+    "name": "Urban Post-Disaster Housing Prototype",
+    "description": "tours by appointment only and for groups only",
+    "lat": 40.6996055,
+    "lon": -73.9895276
+  },
+  {
+    "name": "Fool's Gold Records",
+    "description": "",
+    "lat": 40.7149298,
+    "lon": -73.9619704
+  },
+  {
+    "name": "Jane Bailey Memorial Garden",
+    "description": "",
+    "lat": 40.6877751,
+    "lon": -73.9582771
+  },
+  {
+    "name": "Co-Cathedral of St. Joseph",
+    "description": "",
+    "lat": 40.6806183,
+    "lon": -73.966431
+  },
+  {
+    "name": "Cloud City",
+    "description": "",
+    "lat": 40.716174,
+    "lon": -73.9633205
+  },
+  {
+    "name": "Secret Project Robot",
+    "description": "",
+    "lat": 40.6923023,
+    "lon": -73.9274769
+  },
+  {
+    "name": "The Gowanus Ballroom",
+    "description": "",
+    "lat": 40.6740825,
+    "lon": -73.9960189
+  },
+  {
+    "name": "Etsy",
+    "description": "free etsy gallery in lobby",
+    "lat": 40.7005824,
+    "lon": -73.9881456
+  },
+  {
+    "name": "Cadman Plaza Park",
+    "description": "",
+    "lat": 40.6984759,
+    "lon": -73.9904687
+  },
+  {
+    "name": "679 Lafayette Ave",
+    "description": "Magnolia grandiflora - only tree that is a NYC landmark",
+    "lat": 40.6905805,
+    "lon": -73.9468209
+  },
+  {
+    "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
+    "description": "doors from SS Normandie, French liner that sunk in 1942",
+    "lat": 40.6942202,
+    "lon": -73.9941115
+  },
+  {
+    "name": "Rooftop Reds",
+    "description": "",
+    "lat": 40.6984774,
+    "lon": -73.977732
+  },
+  {
+    "name": "Brooklyn Visitation Monastery",
+    "description": "",
+    "lat": 40.6219355,
+    "lon": -74.0346561
+  },
+  {
+    "name": "The Barkaloo Cemetery",
+    "description": "smallest cemetery in brooklyn - only 2 people",
+    "lat": 40.6368074,
+    "lon": -74.0345172
+  },
+  {
+    "name": "Prospect Park - Ravine",
+    "description": "",
+    "lat": 40.6638721,
+    "lon": -73.968746
+  },
+  {
+    "name": "Lookout Hill",
+    "description": "\"In Prospect Park at the base of Lookout Hill there\u2019s a monument that commemorates the valiant stand, in 1776, of the Maryland 400. They delayed an overwhelming British advance, allowing the Americans, led by Washington, to retreat, saving the Army. Up the hill, in winter, it\u2019s possible to see Coney Island. But it really comes to life in April and May, when thousands of migrating birds adorn every tree and bush: sparrows, tanagers, flycatchers, hummingbirds. You can see 100 species in one day\"",
+    "lat": 40.6577778,
+    "lon": -73.9719444
+  },
+  {
+    "name": "New York Transit Museum",
+    "description": "",
+    "lat": 40.6905275,
+    "lon": -73.9898178
+  },
+  {
+    "name": "372 Fulton St",
+    "description": "former Gage & Tollner",
+    "lat": 40.691317,
+    "lon": -73.987861
+  },
+  {
+    "name": "Prospect Park Boathouse + Audubon Center",
+    "description": "inspired by 16th century Venetian Library of St Mark",
+    "lat": 40.6608215,
+    "lon": -73.9652444
+  },
+  {
+    "name": "Pacifier Tree",
+    "description": "",
+    "lat": 40.6334879,
+    "lon": -73.9882162
+  },
+  {
+    "name": "Gleason's Gym",
+    "description": "",
+    "lat": 40.7029749,
+    "lon": -73.9889864
+  },
+  {
+    "name": "Quaker Cemetery",
+    "description": "Inside Prospect Park, there are 2,000 gravestones and buried bodies, many older than the park itself. The 10-acre cemetery is the only private property in the park, owned by the Religious Society of Friends, more commonly known as Quakers. Established in 1849, though it is believed there are graves that date to the 1820s. It\u2019s one of the many secrets of New York City to be found inside Prospect Park alone.",
+    "lat": 40.6593127,
+    "lon": -73.9726639
+  },
+  {
+    "name": "TRAINWORLD",
+    "description": "",
+    "lat": 40.6359665,
+    "lon": -73.9778183
+  },
+  {
+    "name": "Grand Prospect Hall",
+    "description": "",
+    "lat": 40.6638097,
+    "lon": -73.9895988
+  },
+  {
+    "name": "International Studio & Curatorial Program",
+    "description": "",
+    "lat": 40.714231,
+    "lon": -73.9346977
+  },
+  {
+    "name": "Erie Basin Park",
+    "description": "",
+    "lat": 40.6711264,
+    "lon": -74.012936
+  },
+  {
+    "name": "Ample Hills Factory and Museum",
+    "description": "",
+    "lat": 40.6748299,
+    "lon": -74.0156844
+  },
+  {
+    "name": "Mellow Pages Library",
+    "description": "",
+    "lat": 40.6986516,
+    "lon": -73.9342599
+  },
+  {
+    "name": "Our Lady of Perpetual Help Church",
+    "description": "one of 60 basilicas in the US",
+    "lat": 40.6396319,
+    "lon": -74.0154736
+  },
+  {
+    "name": "Dennet Place",
+    "description": "street with \"hobbit doors\"",
+    "lat": 40.6765256,
+    "lon": -73.9975637
+  },
+  {
+    "name": "GBX Gowanus Bay Terminal",
+    "description": "",
+    "lat": 40.6692899,
+    "lon": -74.0076108
+  },
+  {
+    "name": "Amorphic Robot Works",
+    "description": "This former Norwegian sailor's church is slowly being taken over by ramshackle robot musicians.\u00a0",
+    "lat": 40.678311,
+    "lon": -74.0105985
+  },
+  {
+    "name": "Warren Place",
+    "description": "much photographed street - originally built in 19th century as affordable housing",
+    "lat": 40.6879362,
+    "lon": -73.9984861
+  },
+  {
+    "name": "Torah Animal World",
+    "description": "",
+    "lat": 40.6354863,
+    "lon": -73.9804474
+  },
+  {
+    "name": "Wyckoff-Bennet Homestead",
+    "description": "NHL",
+    "lat": 40.6108391,
+    "lon": -73.9513319
+  },
+  {
+    "name": "St. Ann & the Holy Trinity Church",
+    "description": "NHL - \"Site of first figural stained-glass windows in U.S.\"",
+    "lat": 40.6945037,
+    "lon": -73.9924631
+  },
+  {
+    "name": "Commandant's House",
+    "description": "NHL\u00a0 - \"Home to Matthew Perry at the time of his opening of Japan\"",
+    "lat": 40.7023868,
+    "lon": -73.980335
+  },
+  {
+    "name": "500 25th St",
+    "description": "",
+    "lat": 40.6580779,
+    "lon": -73.9948493
+  },
+  {
+    "name": "Weir J Ebb & Co Inc",
+    "description": "",
+    "lat": 40.659115,
+    "lon": -73.996076
+  },
+  {
+    "name": "Minerva Statue",
+    "description": "",
+    "lat": 40.6570104,
+    "lon": -73.9897067
+  },
+  {
+    "name": "Ridgewood Reservoir",
+    "description": "NYC H20 provides tours",
+    "lat": 40.6889501,
+    "lon": -73.8864839
+  },
+  {
+    "name": "2840 Atlantic Ave",
+    "description": "",
+    "lat": 40.676488,
+    "lon": -73.888919
+  },
+  {
+    "name": "Floyd Bennett Field",
+    "description": "",
+    "lat": 40.5910174,
+    "lon": -73.8906091
+  },
+  {
+    "name": "John Paul Jones Park",
+    "description": "great view of verrazano & the narrows; gazebo!",
+    "lat": 40.6108083,
+    "lon": -74.0340919
+  },
+  {
+    "name": "Outside Space NYC Landscape and Garden Design",
+    "description": "",
+    "lat": 40.693169,
+    "lon": -73.961144
+  },
+  {
+    "name": "FINE & RAW Chocolate",
+    "description": "chocolate store/factory\u00a0",
+    "lat": 40.705377,
+    "lon": -73.933755
+  },
+  {
+    "name": "Brooklyn Terminal Market Merchants Association",
+    "description": "",
+    "lat": 40.6431954,
+    "lon": -73.9153159
+  },
+  {
+    "name": "The Muse",
+    "description": "",
+    "lat": 40.6914551,
+    "lon": -73.9024229
+  },
+  {
+    "name": "North Brooklyn Boat Club",
+    "description": "",
+    "lat": 40.7384101,
+    "lon": -73.9531242
+  },
+  {
+    "name": "Pioneer Works",
+    "description": "An unconventional space for art and science housed in a massive old warehouse.\u00a0",
+    "lat": 40.6792081,
+    "lon": -74.0121513
+  },
+  {
+    "name": "Drummer's Grove",
+    "description": "",
+    "lat": 40.6558582,
+    "lon": -73.9625246
+  },
+  {
+    "name": "The Center for Fiction",
+    "description": "",
+    "lat": 40.6868022,
+    "lon": -73.9785744
+  },
+  {
+    "name": "High Valley Books",
+    "description": "",
+    "lat": 40.7229747,
+    "lon": -73.9511741
+  },
+  {
+    "name": "Stuart Cinema & Cafe",
+    "description": "",
+    "lat": 40.7292358,
+    "lon": -73.9592967
+  },
+  {
+    "name": "Staubitz Market",
+    "description": "oldest butcher in nyc",
+    "lat": 40.6864565,
+    "lon": -73.9940737
+  },
+  {
+    "name": "Metropolitan Rod & Gun Club",
+    "description": "",
+    "lat": 40.68924,
+    "lon": -73.994332
+  },
+  {
+    "name": "Barb\u00e8s",
+    "description": "",
+    "lat": 40.6677603,
+    "lon": -73.9838642
+  },
+  {
+    "name": "Niblo Mausoleum",
+    "description": "Nestled into the hills surrounding Crescent Water lake at Green-Wood Cemetery you\u2019ll find the mausoleum of William Niblo, guarded by two rather perturbed looking lions. The Niblo Mausoleum is undoubtedly one of the prettiest sights at Green-Wood. But the Niblo Mausoleum was once host to one of the most scandalous parties in Brooklyn.<br><br>William Niblo was a theater impresario, the owner of Niblo\u2019s Garden, a \u201cpleasure theater\u201d that opened in 1828 at the corner of Broadway and Prince Street in Manhattan. The Garden would feature dancers, fireworks, music, and more. As a prominent New Yorker, Niblo purchased and built his mausoleum at Green-Wood well before his earthly demise in 1878. Recognizing its potential as an event space, he would throw wild parties on the lawn of the mausoleum, much to the chagrin of the cemetery management at the time. Today, Green-Wood has embraced Niblo\u2019s legacy and thrown their own parties inspired by Niblo\u2019s Garden.",
+    "lat": 40.6491593,
+    "lon": -73.9938053
+  },
+  {
+    "name": "van ness mausoleum",
+    "description": "It\u2019s hard to miss the Van Ness Parsons mausoleum at Green-Wood Cemetery because the mausoleum is a legitimate pyramid. Though the Egyptian influence was a big part of Art Deco design in the early 1900s, the Van Ness Parsons mausoleum is a fascinating hybrid of Egyptian Revival and Christian symbolism. Greeting you at the front of the pyramid, you\u2019ll see Jesus Christ, holding a lamb, and the Virgin Mary, holding the infant version of Jesus just next to him. There\u2019s another female figure to the left, probably Pharaoh\u2019s wife discovering baby Moses. But just adjacent to Mary is a friendly sphinx, and there are Egyptian vulture wings that adorn the mausoleum\u2019s doorframe. It\u2019s a beautifully bizarre convergence of cultures.<br><br>The mausoleum belongs to Alfred Ross Parsons, a celebrated pianist and music teacher who died in 1933. Parsons was also an Egyptologist and author of New Light from the Great Pyramid, on the geographical discoveries of the Egyptians. So it\u2019s unsurprising that Parsons rests in a literal pyramid, alongside his wife, Alice Schuyler Van Ness, who predeceased him in 1931.",
+    "lat": 40.6580779,
+    "lon": -73.9948493
+  },
+  {
+    "name": "Grave of Charlotte Canda",
+    "description": "Debutante Charlotte Canda was coming home from her \u201ccoming out\u201d party on the evening of her seventeenth birthday in 1845 when the horse pulling her carriage down Fifth Avenue was spooked by a thunderclap. Charlotte was thrown from the carriage and died in her father\u2019s arms. She had been hard at work on designs for the tomb of her aunt, who had recently died. Those designs went into her own grave as Charlotte\u2019s grieving father immediately began plans for an elaborate memorial to his daughter at Green-Wood.<br><br>The resulting tomb became one of Green-Wood\u2019s most popular tourist attractions once it was completed in 1848. By the 1860s, people knew \u201cMiss Canda\u201d from poems and songs about her grave at Green-Wood. The gorgeous, Gothic style memorial is filled with symbolism: it is seventeen feet wide and seventeen feet long, for each year of Charlotte\u2019s brief life. A statue of Charlotte stands underneath a canopy of stars, decorated with roses, which symbolize the loss of a young woman. Charlotte\u2019s fiance, a young man named Charles Albert Jarrett de la Marie, consumed with grief, committed suicide a year after her death. At the time, suicides weren\u2019t allowed to be buried in consecrated ground, so he rests just adjacent to Charlotte\u2019s epic memorial at Green-Wood.",
+    "lat": 40.6553671,
+    "lon": -73.9918226
+  },
+  {
+    "name": "Better Than Jam's STORE & STUDIO",
+    "description": "",
+    "lat": 40.705467,
+    "lon": -73.932367
+  },
+  {
+    "name": "Brooklyn Bridge Park Boathouse, Pier 2",
+    "description": "",
+    "lat": 40.6998833,
+    "lon": -73.9987987
+  },
+  {
+    "name": "Brooklyn Cyclones at MCU Park",
+    "description": "",
+    "lat": 40.5748057,
+    "lon": -73.9844943
+  },
+  {
+    "name": "Glass Bottle Beach",
+    "description": "",
+    "lat": 40.5815181,
+    "lon": -73.8961059
+  },
+  {
+    "name": "She-Weld",
+    "description": "",
+    "lat": 40.6741953,
+    "lon": -74.011412
+  },
+  {
+    "name": "Bushwick Community Darkroom",
+    "description": "",
+    "lat": 40.699218,
+    "lon": -73.929546
+  },
+  {
+    "name": "Brooklyn Film Camera",
+    "description": "",
+    "lat": 40.707737,
+    "lon": -73.9247634
+  },
+  {
+    "name": "Lullwater Bridge",
+    "description": "",
+    "lat": 40.660643,
+    "lon": -73.9658835
+  },
+  {
+    "name": "Camperdown Elm",
+    "description": "",
+    "lat": 40.6604439,
+    "lon": -73.9650484
+  },
+  {
+    "name": "Brooklyn Plantology by Lapide",
+    "description": "",
+    "lat": 40.643811,
+    "lon": -73.915038
+  },
+  {
+    "name": "Textile Arts Center",
+    "description": "",
+    "lat": 40.6768345,
+    "lon": -73.985221
+  },
+  {
+    "name": "Marine Park Cricket Field",
+    "description": "",
+    "lat": 40.606658,
+    "lon": -73.9357984
+  },
+  {
+    "name": "Canarsie Park Cricket Ground 1",
+    "description": "",
+    "lat": 40.6257282,
+    "lon": -73.8993055
+  },
+  {
+    "name": "Crown Finish Caves",
+    "description": "",
+    "lat": 40.6771821,
+    "lon": -73.9566243
+  },
+  {
+    "name": "Espo's Art World",
+    "description": "",
+    "lat": 40.6824672,
+    "lon": -73.9798588
+  },
+  {
+    "name": "Flatbush Reformed Church",
+    "description": "",
+    "lat": 40.6501539,
+    "lon": -73.9589433
+  },
+  {
+    "name": "Kick Axe Throwing BROOKLYN",
+    "description": "",
+    "lat": 40.6791092,
+    "lon": -73.9836161
+  },
+  {
+    "name": "Lesbian Herstory Archives",
+    "description": "",
+    "lat": 40.6618645,
+    "lon": -73.9803428
+  },
+  {
+    "name": "Coney Island History Project",
+    "description": "",
+    "lat": 40.573839,
+    "lon": -73.979541
+  },
+  {
+    "name": "Eastern Parkway Brooklyn Museum Station",
+    "description": "78 pieces foraged from old buildings in the station's mezzanine",
+    "lat": 40.6719938,
+    "lon": -73.9642065
+  },
+  {
+    "name": "131 Buckingham Rd",
+    "description": "Ditmas Victorian \"japanese house\"",
+    "lat": 40.6473457,
+    "lon": -73.9645954
+  },
+  {
+    "name": "101 Rugby Rd",
+    "description": "Ditmas Victorian<br>Sophie's Choice house",
+    "lat": 40.6473788,
+    "lon": -73.9662439
+  },
+  {
+    "name": "100 Rugby Rd",
+    "description": "",
+    "lat": 40.6472798,
+    "lon": -73.9667719
+  },
+  {
+    "name": "1320 Ditmas Ave",
+    "description": "",
+    "lat": 40.636427,
+    "lon": -73.964653
+  },
+  {
+    "name": "Van Brunt Stillhouse",
+    "description": "",
+    "lat": 40.6734904,
+    "lon": -74.0100937
+  },
+  {
+    "name": "Miss Brooklyn & Miss Manhattan",
+    "description": "",
+    "lat": 40.6961538,
+    "lon": -73.9847737
+  },
+  {
+    "name": "Then She Fell",
+    "description": "",
+    "lat": 40.7111031,
+    "lon": -73.9429092
+  },
+  {
+    "name": "Park Slope Plane Crash site",
+    "description": "",
+    "lat": 40.6777249,
+    "lon": -73.9732782
+  },
+  {
+    "name": "Widow Jane Distillery",
+    "description": "",
+    "lat": 40.6773529,
+    "lon": -74.0153869
+  },
+  {
+    "name": "Raaka Chocolate",
+    "description": "",
+    "lat": 40.6814367,
+    "lon": -74.0071505
+  },
+  {
+    "name": "Red Hook Community Farms",
+    "description": "",
+    "lat": 40.6725717,
+    "lon": -74.0087895
+  },
+  {
+    "name": "St. Mary Star of the Sea",
+    "description": "",
+    "lat": 40.6768146,
+    "lon": -73.9983507
+  },
+  {
+    "name": "Calvert Vaux Park",
+    "description": "In 2007, as part of a PlaNYC initiative to create regional destination parks in all five boroughs, the comprehensive master plan design for the 72-acre Calvert Vaux Park was unveiled. Central to this plan was the construction of a Park Pavilion and Maintenance Facility, designed by 1100 Architect. The concept was developed based on the requirement that five distinct programs (athletic storage, public restroom, staff office, work area, and vehicle storage) be located within one site.<br><br>One of the design challenges was to build a single facility that worked both as a hospitable environment for park visitors, but also as a durable facility for the heavy use of park vehicles and maintenance equipment. To cohesively serve those two very different user groups, the design creates an innovative footprint that merges three connected wings. The building doubles as a gateway to the park, providing a sense of arrival. On track for LEED Silver Certification, the design also includes an array of measures for sustainability and energy efficiency.",
+    "lat": 40.5843671,
+    "lon": -73.9952563
+  },
+  {
+    "name": "Microscope Gallery",
+    "description": "",
+    "lat": 40.706314,
+    "lon": -73.921075
+  },
+  {
+    "name": "Lions Roar Karaoke",
+    "description": "",
+    "lat": 40.708338,
+    "lon": -73.941333
+  },
+  {
+    "name": "Knickerbocker Field Club",
+    "description": "",
+    "lat": 40.647842,
+    "lon": -73.963455
+  },
+  {
+    "name": "National Bakery",
+    "description": "",
+    "lat": 40.5771617,
+    "lon": -73.9648664
+  },
+  {
+    "name": "Peephole Cinema",
+    "description": "",
+    "lat": 40.7016474,
+    "lon": -73.9272448
+  },
+  {
+    "name": "Fifth Avenue Bingo",
+    "description": "",
+    "lat": 40.6701876,
+    "lon": -73.9858765
+  },
+  {
+    "name": "Sorted Library",
+    "description": "",
+    "lat": 40.7042318,
+    "lon": -73.9870246
+  },
+  {
+    "name": "Bensonhurst statue house",
+    "description": "One Brooklyn man's collection of life-size fiberglass statues has taken over his entire yard.\u00a0",
+    "lat": 40.6042365,
+    "lon": -73.9963288
+  },
+  {
+    "name": "Gotham Greens",
+    "description": "offers free weekly tours",
+    "lat": 40.6750448,
+    "lon": -73.9886778
+  },
+  {
+    "name": "Naval Cemetery Landscape",
+    "description": "",
+    "lat": 40.6992601,
+    "lon": -73.9630928
+  },
+  {
+    "name": "Shirley Chisholm State Park",
+    "description": "",
+    "lat": 40.6430089,
+    "lon": -73.8754301
+  },
+  {
+    "name": "Brooklyn Waterfront Artists",
+    "description": "",
+    "lat": 40.6727944,
+    "lon": -74.0176183
+  },
+  {
+    "name": "Carmelite Monastery",
+    "description": "",
+    "lat": 40.684426,
+    "lon": -73.890315
+  },
+  {
+    "name": "Wendy\u2019s Subway",
+    "description": "",
+    "lat": 40.70384,
+    "lon": -73.9379809
+  },
+  {
+    "name": "The Hoxton, Williamsburg",
+    "description": "world's smallest cinema off of lobby",
+    "lat": 40.7208251,
+    "lon": -73.9587909
+  },
+  {
+    "name": "Brooklyn Grange Sunset Park",
+    "description": "",
+    "lat": 40.6594154,
+    "lon": -74.0044891
+  },
+  {
+    "name": "Friends of Refugees of Eastern Europe",
+    "description": "",
+    "lat": 40.6679726,
+    "lon": -73.943198
+  },
+  {
+    "name": "mansions of president street",
+    "description": "",
+    "lat": 40.6676959,
+    "lon": -73.9435885
+  },
+  {
+    "name": "Blue: The Tatter Textile Library",
+    "description": "",
+    "lat": 40.6770318,
+    "lon": -73.985069
+  },
+  {
+    "name": "Most Holy Trinity Cemetery",
+    "description": "nearly every grave marker is made of tin or copper",
+    "lat": 40.6886665,
+    "lon": -73.9028772
+  },
+  {
+    "name": "Berl's Brooklyn Poetry Shop",
+    "description": "",
+    "lat": 40.7025762,
+    "lon": -73.9874484
+  },
+  {
+    "name": "Fresh Creek Nature Preserve",
+    "description": "",
+    "lat": 40.6443269,
+    "lon": -73.8855623
+  },
+  {
+    "name": "Endale Arch",
+    "description": "",
+    "lat": 40.6710577,
+    "lon": -73.9690506
+  },
+  {
+    "name": "Recess",
+    "description": "",
+    "lat": 40.6973722,
+    "lon": -73.9679774
+  },
+  {
+    "name": "Hadas Gallery",
+    "description": "",
+    "lat": 40.6939265,
+    "lon": -73.9626766
+  },
+  {
+    "name": "Plumb Beach (Gateway National Recreation Area)",
+    "description": "",
+    "lat": 40.583293,
+    "lon": -73.9209991
+  },
+  {
+    "name": "Marine Park Salt Marsh Nature Center",
+    "description": "",
+    "lat": 40.6040464,
+    "lon": -73.9306319
+  },
+  {
+    "name": "Hudson Avenue",
+    "description": "",
+    "lat": 40.7030725,
+    "lon": -73.9811206
+  },
+  {
+    "name": "1440 Albemarle Rd",
+    "description": "",
+    "lat": 40.6463726,
+    "lon": -73.9656929
+  },
+  {
+    "name": "1510 Albemarle Rd",
+    "description": "",
+    "lat": 40.6464586,
+    "lon": -73.965073
+  },
+  {
+    "name": "1306 Albemarle Rd",
+    "description": "best halloween decorations",
+    "lat": 40.6462459,
+    "lon": -73.9669786
+  },
+  {
+    "name": "125 Buckingham Rd",
+    "description": "",
+    "lat": 40.6474062,
+    "lon": -73.9646778
+  },
+  {
+    "name": "85 Buckingham Rd",
+    "description": "",
+    "lat": 40.6482838,
+    "lon": -73.9644851
+  },
+  {
+    "name": "317 Rugby Rd",
+    "description": "",
+    "lat": 40.6420382,
+    "lon": -73.9652572
+  },
+  {
+    "name": "The Jackie Robinson House",
+    "description": "NHL",
+    "lat": 40.6481035,
+    "lon": -73.927264
+  },
+  {
+    "name": "Enrico Caruso Museum of America",
+    "description": "",
+    "lat": 40.6028756,
+    "lon": -73.9535492
+  },
+  {
+    "name": "Gingerbread House",
+    "description": "",
+    "lat": 40.6278614,
+    "lon": -74.0383897
+  },
+  {
+    "name": "Smack Mellon",
+    "description": "",
+    "lat": 40.7037407,
+    "lon": -73.9897595
+  },
+  {
+    "name": "Wonderville",
+    "description": "home for independently made arcade games",
+    "lat": 40.6923719,
+    "lon": -73.9274634
+  },
+  {
+    "name": "MINUS SPACE",
+    "description": "",
+    "lat": 40.7033588,
+    "lon": -73.9908596
+  },
+  {
+    "name": "Shtetl Art Gallery",
+    "description": "",
+    "lat": 40.6974469,
+    "lon": -73.9589178
+  },
+  {
+    "name": "Greenpoint Library",
+    "description": "Greenpoint Library and Environmental Education Center is a 15,000-square-foot community library and hub for environmental awareness, activism, and education in the Brooklyn Public Library system. Program elements include reading rooms, dry/wet eco-labs, community event space and meeting rooms, staff spaces, and an extensive outdoor space. Landscapes are integrated into the building on three levels \u2013 bioswale and rock outcroppings at the street, a reading garden on the second, and a green roof on the third.",
+    "lat": 40.7259813,
+    "lon": -73.9506651
+  },
+  {
+    "name": "82 Degraw St",
+    "description": "quirky sculpture garden (private)",
+    "lat": 40.6859643,
+    "lon": -74.0037775
+  },
+  {
+    "name": "Film Noir Cinema",
+    "description": "",
+    "lat": 40.7273005,
+    "lon": -73.9515454
+  },
+  {
+    "name": "BJ's Park and Rest Area",
+    "description": "",
+    "lat": 40.5913495,
+    "lon": -73.9999153
+  },
+  {
+    "name": "North Williamsburg",
+    "description": "",
+    "lat": 40.720844,
+    "lon": -73.9649124
+  },
+  {
+    "name": "Underhill Walls",
+    "description": "",
+    "lat": 40.6742795,
+    "lon": -73.9672186
+  },
+  {
+    "name": "Harold and Maude Vintage",
+    "description": "",
+    "lat": 40.6897711,
+    "lon": -73.9510959
+  },
+  {
+    "name": "Herbert Von King Park",
+    "description": "",
+    "lat": 40.689612,
+    "lon": -73.946732
+  },
+  {
+    "name": "Star Perfumes & Gift Co",
+    "description": "",
+    "lat": 40.6809646,
+    "lon": -73.9532796
+  },
+  {
+    "name": "Ocean Avenue Pedestrian Bridge",
+    "description": "",
+    "lat": 40.5822162,
+    "lon": -73.949363
+  },
+  {
+    "name": "Holocaust Memorial Park",
+    "description": "",
+    "lat": 40.5824506,
+    "lon": -73.953694
+  },
+  {
+    "name": "Cherry Hill Gourmet Inc",
+    "description": "",
+    "lat": 40.5838861,
+    "lon": -73.9487833
+  },
+  {
+    "name": "Syndicated Bar Theater Kitchen",
+    "description": "",
+    "lat": 40.7048388,
+    "lon": -73.9330082
+  },
+  {
+    "name": "Leroy's Place BROOKLYN",
+    "description": "",
+    "lat": 40.6660201,
+    "lon": -73.9820273
+  },
+  {
+    "name": "Webster Place",
+    "description": "",
+    "lat": 40.663437,
+    "lon": -73.986655
+  },
+  {
+    "name": "Williamsburg Music Center",
+    "description": "",
+    "lat": 40.711305,
+    "lon": -73.963079
+  },
+  {
+    "name": "Archestratus Books + Foods",
+    "description": "",
+    "lat": 40.732808,
+    "lon": -73.955144
+  },
+  {
+    "name": "Swivel Gallery",
+    "description": "",
+    "lat": 40.6871329,
+    "lon": -73.9508047
+  },
+  {
+    "name": "Alhambra Apartments",
+    "description": "",
+    "lat": 40.6813792,
+    "lon": -73.9500051
+  },
+  {
+    "name": "488 Nostrand Ave.",
+    "description": "",
+    "lat": 40.6821433,
+    "lon": -73.9500973
+  },
+  {
+    "name": "480 Nostrand Ave.",
+    "description": "NYC Landmark",
+    "lat": 40.6822935,
+    "lon": -73.9501148
+  },
+  {
+    "name": "Sunset Play Center",
+    "description": "NYC Landmark; landmarked interior",
+    "lat": 40.6469924,
+    "lon": -74.0021546
+  },
+  {
+    "name": "Eastern Parkway Pedestrian Mall",
+    "description": "",
+    "lat": 40.6695466,
+    "lon": -73.9421846
+  },
+  {
+    "name": "Ocean Parkway",
+    "description": "",
+    "lat": 40.6137386,
+    "lon": -73.9684303
+  },
+  {
+    "name": "Manhattan Beach Park",
+    "description": "",
+    "lat": 40.5768049,
+    "lon": -73.942583
+  },
+  {
+    "name": "Sheepshead Bay Piers",
+    "description": "",
+    "lat": 40.5839556,
+    "lon": -73.9459804
+  },
+  {
+    "name": "Kingsborough Community College",
+    "description": "",
+    "lat": 40.5786707,
+    "lon": -73.9351016
+  },
+  {
+    "name": "Brooklyn Public Library - Gerritsen Beach Branch",
+    "description": "go in back for views of the canal through the windows",
+    "lat": 40.5913977,
+    "lon": -73.9239955
+  },
+  {
+    "name": "Tamaqua Bar & Marina",
+    "description": "",
+    "lat": 40.594344,
+    "lon": -73.929953
+  },
+  {
+    "name": "Bush Terminal Piers Park",
+    "description": "",
+    "lat": 40.6534111,
+    "lon": -74.0201023
+  },
+  {
+    "name": "Russian Books & Gifts Store | St-Petersburg",
+    "description": "",
+    "lat": 40.5763877,
+    "lon": -73.9661344
+  },
+  {
+    "name": "Master Theater",
+    "description": "",
+    "lat": 40.5784015,
+    "lon": -73.958527
+  },
+  {
+    "name": "American United Mosque",
+    "description": "",
+    "lat": 40.6356299,
+    "lon": -74.0091926
+  },
+  {
+    "name": "Hurricane Point",
+    "description": "",
+    "lat": 40.7232805,
+    "lon": -73.962625
+  },
+  {
+    "name": "Alliance of Resident Theatres",
+    "description": "",
+    "lat": 40.6851473,
+    "lon": -73.9735043
+  },
+  {
+    "name": "JACK",
+    "description": "",
+    "lat": 40.6826399,
+    "lon": -73.9608721
+  },
+  {
+    "name": "Asia Art Archive in America",
+    "description": "",
+    "lat": 40.700149,
+    "lon": -73.9942743
+  },
+  {
+    "name": "Elsewhere",
+    "description": "",
+    "lat": 40.709411,
+    "lon": -73.923169
+  },
+  {
+    "name": "El Museo de Los Sures",
+    "description": "",
+    "lat": 40.7140289,
+    "lon": -73.9626
+  },
+  {
+    "name": "The Morbid Anatomy Library and Gift Shop",
+    "description": "",
+    "lat": 40.6560789,
+    "lon": -74.0078174
+  },
+  {
+    "name": "Museum of Women's Resistance",
+    "description": "",
+    "lat": 40.6640557,
+    "lon": -73.9528642
+  },
+  {
+    "name": "Clive Davis Institute of Recorded Music",
+    "description": "",
+    "lat": 40.6929116,
+    "lon": -73.9874613
+  },
+  {
+    "name": "BrownstoneJAZZ",
+    "description": "",
+    "lat": 40.6815763,
+    "lon": -73.9469889
+  },
+  {
+    "name": "Ornithology Jazz Club",
+    "description": "",
+    "lat": 40.6955888,
+    "lon": -73.9319823
+  },
+  {
+    "name": "WORTHLESSSTUDIOS",
+    "description": "",
+    "lat": 40.7076408,
+    "lon": -73.9313437
+  },
+  {
+    "name": "Anopoli",
+    "description": "century old soda fountain",
+    "lat": 40.6352778,
+    "lon": -74.0263889
+  },
+  {
+    "name": "Amant",
+    "description": "Founded in 2019, Amant is a non-collecting contemporary art institution that fosters artistic research, experimentation, and dialogue through exhibitions, live programs, publications, and artist residencies in Brooklyn, NY, and Siena, Italy. The core of Amant\u2019s mission is to advance the presentation of contemporary art with an emphasis on innovative formats and ideas.<br><br>Amant\u2019s 21,000-square-foot, four-building campus, designed by SO-IL, includes a multipurpose screening and performance space, a caf\u00e9, and a bookshop. The organization supports both established and mid-career international and local artists who work across diverse creative fields, and is committed to building cultural partnerships with like-minded organizations in the U.S. and abroad while activating new and ongoing conversations with local communities.",
+    "lat": 40.7123133,
+    "lon": -73.9370549
+  },
+  {
+    "name": "BioBAT, Inc.",
+    "description": "BioBAT Art Space is a non-profit gallery dedicated to the intersection of art and science. The gallery features cutting-edge bio-art, where artists and scientists create works that push the boundaries of both fields. Exhibitions explore themes like sustainability, ecology, and the intricate workings of life, providing visitors with a thought-provoking experience",
+    "lat": 40.6455096,
+    "lon": -74.0238947
+  },
+  {
+    "name": "Ryan Visitor Center - Floyd Bennett Field",
+    "description": "The home of aviation trailblazers, in a remote corner of the big city.\u00a0",
+    "lat": 40.5881603,
+    "lon": -73.8969745
+  },
+  {
+    "name": "Gowanus Dredgers Canoe Club Boathouse",
+    "description": "",
+    "lat": 40.6769483,
+    "lon": -73.990036
+  },
+  {
+    "name": "Adams Street Library",
+    "description": "he first new library built in Brooklyn since 1983. Designed by WORK Architecture Company (\u201cWORKac\u201d), and built by Shawmut Design & Construction, the modern, playful interior provides the perfect place to read, work, and gather with neighbors. Fronting Brooklyn Bridge Park, Adams Street Library offers stunning views of the Brooklyn and Manhattan Bridges and downtown Manhattan from 15-foot windows. The new library includes designated spaces for children and teens, flexible meeting rooms, and programming space with modern technology.",
+    "lat": 40.7040753,
+    "lon": -73.9883644
+  },
+  {
+    "name": "Flatbush Central Caribbean Marketplace",
+    "description": "For over 20 years, the Flatbush Caton Market has served as the bustling center of a vibrant Caribbean community, connecting residents with local vendors and products from all over the globe. A five-year renovation and expansion project is now complete and the market has returned with a new name: the Flatbush Central Caribbean Marketplace!",
+    "lat": 40.6529867,
+    "lon": -73.959495
+  },
+  {
+    "name": "Genspace",
+    "description": "Genspace is the world\u2019s first community biology lab \u2014 a place where people of all backgrounds and identities can learn, create, and grow with the life sciences.",
+    "lat": 40.6565705,
+    "lon": -74.0026065
+  },
+  {
+    "name": "Prison Ship Martyrs Monument",
+    "description": "a war memorial at Fort Greene Park that commemorates more than 11,500 American prisoners of war who died in captivity aboard British prison ships during the American Revolutionary War. The remains of a small fraction of those who died on the ships are interred in a crypt beneath its base",
+    "lat": 40.6917937,
+    "lon": -73.9755288
+  },
+  {
+    "name": "Stuffed Animal Tree of Bergen Beach",
+    "description": "",
+    "lat": 40.6217157,
+    "lon": -73.9111125
+  },
+  {
+    "name": "martense lane rock",
+    "description": "This seemingly unremarkable boulder is said to bear the hoofprint of the devil himself.\u00a0The rock can be viewed from 5th Avenue and 36th Street through the fence of the cemetery or you can enter the cemetery from 4th Avenue and follow Maple Avenue under the bridge. Once on the other side of the bridge turn right off the path and climb the hill; the rock is partially obscured by bushes.\u00a0",
+    "lat": 40.6529966,
+    "lon": -74.0017339
+  },
+  {
+    "name": "Faurschou New York",
+    "description": "warehouse housing private art collection",
+    "lat": 40.7335909,
+    "lon": -73.9556203
+  },
+  {
+    "name": "Delight Factory",
+    "description": "",
+    "lat": 40.6753336,
+    "lon": -73.9163716
+  },
+  {
+    "name": "Dumbo - Manhattan Bridge View",
+    "description": "most instagrammed spot in NYC",
+    "lat": 40.7033165,
+    "lon": -73.9895698
+  },
+  {
+    "name": "Farm.One",
+    "description": "Underneath the bustling city streets, a hydroponic farm grows unique herbs in an urban oasis.\u00a0",
+    "lat": 40.679678,
+    "lon": -73.9689121
+  },
+  {
+    "name": "Janet Borden Inc",
+    "description": "",
+    "lat": 40.7033589,
+    "lon": -73.9909737
+  },
+  {
+    "name": "e-flux",
+    "description": "",
+    "lat": 40.6945365,
+    "lon": -73.9613927
+  },
+  {
+    "name": "SHOOTING GALLERY",
+    "description": "",
+    "lat": 40.5753863,
+    "lon": -73.9800341
+  },
+  {
+    "name": "Chemistry Creative",
+    "description": "",
+    "lat": 40.711596,
+    "lon": -73.9367976
+  },
+  {
+    "name": "Brownsville Heritage House Inc",
+    "description": "Brownsville Heritage House, Inc. (BHH), a hidden gem nestled on the second floor of the Brooklyn Public Library's Stone Avenue branch. BHH is an extension of the community, a place that provides a platform for the arts, entertainment, and culture and is a resource to enhance quality of life. BHH promotes Brownsville's historical significance, while aligning with today's technology to pave the way for future generations.",
+    "lat": 40.6644738,
+    "lon": -73.9051607
+  },
+  {
+    "name": "Brooklyn Seltzer Museum",
+    "description": "",
+    "lat": 40.6777958,
+    "lon": -73.8699776
+  },
+  {
+    "name": "Powerhouse Arts",
+    "description": "Powerhouse Arts is a nonprofit organization committed to creative expression housed in a purpose-built facility that was once the Brooklyn Rapid Transit Company\u2019s central power station. Meet the extended network of art and fabrication professionals and educators who work together to co-create and share artistic practices vital to the well-being of artists and the communities to which they belong.",
+    "lat": 40.6764243,
+    "lon": -73.9885252
+  },
+  {
+    "name": "Fallkill Falls",
+    "description": "",
+    "lat": 40.6618385,
+    "lon": -73.9714751
+  },
+  {
+    "name": "Dead Letter No. 9",
+    "description": "",
+    "lat": 40.716096,
+    "lon": -73.964839
+  },
+  {
+    "name": "FENG SWAY",
+    "description": "",
+    "lat": 40.7248752,
+    "lon": -73.9539942
+  },
+  {
+    "name": "Mother of Junk",
+    "description": "",
+    "lat": 40.7166347,
+    "lon": -73.9566778
+  },
+  {
+    "name": "The Brooklyn Trust Company Building",
+    "description": "landmarked interior.\u00a0Also an exterior landmark and a National Registered Historic Place",
+    "lat": 40.6945075,
+    "lon": -73.9921493
+  },
+  {
+    "name": "9 Dekalb Ave",
+    "description": "landmarked interior",
+    "lat": 40.6903851,
+    "lon": -73.9825343
+  },
+  {
+    "name": "175 Broadway",
+    "description": "landmarked interior",
+    "lat": 40.7103067,
+    "lon": -73.9625705
+  },
+  {
+    "name": "1 Hanson Pl",
+    "description": "landmarked interior",
+    "lat": 40.6854025,
+    "lon": -73.9776761
+  },
+  {
+    "name": "Fiske Terrace-Midwood Park Historic District",
+    "description": "",
+    "lat": 40.6325863,
+    "lon": -73.9599629
+  },
+  {
+    "name": "Senator Street Historic District",
+    "description": "",
+    "lat": 40.63645,
+    "lon": -74.0243556
+  },
+  {
+    "name": "The Ripped Bodice",
+    "description": "",
+    "lat": 40.6760881,
+    "lon": -73.9810057
+  },
+  {
+    "name": "Big Night",
+    "description": "",
+    "lat": 40.7303866,
+    "lon": -73.9574593
+  },
+  {
+    "name": "A.I.R.",
+    "description": "founded in 1972 as the first cooperative art gallery featuring all female artists.",
+    "lat": 40.7038431,
+    "lon": -73.9870756
+  },
+  {
+    "name": "Pratt Institute Sculpture Park",
+    "description": "",
+    "lat": 40.6907367,
+    "lon": -73.9639907
+  },
+  {
+    "name": "The Bone Museum",
+    "description": "This museum dedicated to the history of the medical bone trade and human osteology.\u00a0",
+    "lat": 40.705891,
+    "lon": -73.9371786
+  },
+  {
+    "name": "770 Eastern Pkwy",
+    "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many \"770s\" around the world.\u00a0",
+    "lat": 40.6690693,
+    "lon": -73.9428047
+  },
+  {
+    "name": "Studebaker Building",
+    "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's \"Automobile Row.\"\u00a0",
+    "lat": 40.6729195,
+    "lon": -73.9539377
+  },
+  {
+    "name": "Amersfort Park",
+    "description": "A miniature version of a legendary Dutch boulder.\u00a0",
+    "lat": 40.6285772,
+    "lon": -73.9390065
+  },
+  {
+    "name": "Lindsay of rMayor Sign",
+    "description": "This recently uncovered ad for Lindsay's run at Mayor in 1965 had been hiding for decades underneath a billboard.\u00a0\u00a0",
+    "lat": 40.638668,
+    "lon": -73.954328
+  },
+  {
+    "name": "Newkirk Plaza Mural and Mosaic",
+    "description": "A mosaic made of materials gathered from this Brooklyn community adorns the walls of this tunnel.\u00a0",
+    "lat": 40.63507,
+    "lon": -73.963024
+  },
+  {
+    "name": "Avenue H",
+    "description": "This unusual subway stop was originally a real estate office.\u00a0",
+    "lat": 40.6297251,
+    "lon": -73.9616534
+  },
+  {
+    "name": "Grave of DeWitt Clinton",
+    "description": "The Father of the Erie Canal has a magnificent grave marker that redefines the term \"final resting place.\"\u00a0",
+    "lat": 40.6565885,
+    "lon": -73.9930782
+  },
+  {
+    "name": "Tomb of Secrets on Bay Grove Hill",
+    "description": "A way to take your secrets to someone else's grave.\u00a0",
+    "lat": 40.6565942,
+    "lon": -73.9939001
+  },
+  {
+    "name": "The Brooklyn Clay Retort and Fire Brick Works Storehouse",
+    "description": "The factory that helped produce a dominant form of lighting before Thomas Edison. <br><br>The three-kiln factory, which began producing clay retorts and fire bricks in 1859, continued production until the early 1930s. It was later bought and restored by Greg O\u2019Connell, a Red Hook developer. The space now houses the Carvart Glass Company, which creates architectural glass products for noteworthy New York City buildings.",
+    "lat": 40.6750614,
+    "lon": -74.0133986
+  },
+  {
+    "name": "Sunny's",
+    "description": "Once a popular watering hole among longshoremen and shipyard workers, this neighborhood treasure spans more than 100 years of Red Hook history.\u00a0",
+    "lat": 40.6756944,
+    "lon": -74.0168722
+  },
+  {
+    "name": "Dream Fishing Tackle",
+    "description": "As the name suggests, Dream Fishing Tackle was a place for anglers to buy new rods and bait when Robert Piskorsa opened the Greenpoint shop in 1994. And while the original awning remains the same, over the past three decades Piskorsa\u2019s daughter Barbara has transformed the inside into an overflowing (some admirers say \u201coverwhelming\u201d) supply of Art Deco and postmodern furniture \u2014 along with plenty of records, vintage posters, and chandeliers, too.",
+    "lat": 40.7250985,
+    "lon": -73.9534561
+  },
+  {
+    "name": "Awesome Brooklyn",
+    "description": "",
+    "lat": 40.658313,
+    "lon": -73.96013
+  },
+  {
+    "name": "Awesome Home",
+    "description": "",
+    "lat": 40.6574803,
+    "lon": -73.9599302
+  },
+  {
+    "name": "peace & RIOT",
+    "description": "",
+    "lat": 40.6837278,
+    "lon": -73.9438436
+  },
+  {
+    "name": "Woods Grove",
+    "description": "",
+    "lat": 40.6839471,
+    "lon": -73.9953942
+  },
+  {
+    "name": "Yesterday's News Antiques and Collectibles",
+    "description": "",
+    "lat": 40.6792892,
+    "lon": -73.9975798
+  },
+  {
+    "name": "Eugene J. Candy Co.",
+    "description": "",
+    "lat": 40.7032172,
+    "lon": -73.9305453
+  },
+  {
+    "name": "Kato Sake Works",
+    "description": "Their Bushwick tasting room / bottle shop has vinyl nights and live music multiple nights a week, food pop-ups and more.",
+    "lat": 40.70597,
+    "lon": -73.9237799
+  },
+  {
+    "name": "Skinny Dennis",
+    "description": "",
+    "lat": 40.7159083,
+    "lon": -73.9621222
+  },
+  {
+    "name": "Allison Eden Studios",
+    "description": "Allison Eden Studios is a custom glass art house for all mosaic tile. This one- of-a-kind art studio, which has been manufacturing creative custom tile in NYC for over 30 years, makes some of the most intricate and beautiful tile and mosaic art on the market. The studio also serves as a kind of glass mosaic museum featuring the pop art culture of the city\u2019s past and present.",
+    "lat": 40.70263,
+    "lon": -73.93644
+  },
+  {
+    "name": "Carroll Hall",
+    "description": "Carroll Hall is a hidden botanical walled garden and series of buildings that explore material reuse of the site and ideas of time travel and ecology to create immersive, unlikely experiences. Visitors continually discover the unexpected within an architecture of crafted materials and unconventional construction techniques. The buildings breathe with automated windows and skylights to naturally ventilate. Handmade mosaic murals tell stories of underground creatures. There are moving walls and secret doors. The plants are an idealized woodland, dressed-up cousins of what might have grown along the edges of fields and farms past.<br><br>The wall that contains the garden is an artwork constructed of pieces from previous buildings on site\u2014from 16,000 years ago to today. It is a time machine. Designers reused over 11,000 salvaged bricks from the demolition of an existing warehouse to create a 200-foot long streetwall of reassembled bricks and stones, illustrating the material history of the site in an impressionistic tapestry.",
+    "lat": 40.7049755,
+    "lon": -73.930684
+  },
+  {
+    "name": "Noble Signs Inc",
+    "description": "New York Sign Museum",
+    "lat": 40.6762022,
+    "lon": -73.903304
+  },
+  {
+    "name": "Roulette Intermedium",
+    "description": "",
+    "lat": 40.6856169,
+    "lon": -73.9807735
+  },
+  {
+    "name": "Balcones Recycling",
+    "description": "offers tours once a month",
+    "lat": 40.661688,
+    "lon": -74.0090809
+  },
+  {
+    "name": "Williamsburg Biannual",
+    "description": "",
+    "lat": 40.7131513,
+    "lon": -73.9673616
+  },
+  {
+    "name": "Picture Room",
+    "description": "",
+    "lat": 40.690952,
+    "lon": -73.9963734
+  },
+  {
+    "name": "ShapeShifter Lab",
+    "description": "",
+    "lat": 40.674967,
+    "lon": -73.9760077
+  },
+  {
+    "name": "St. Cecilia's Roman Catholic Church",
+    "description": "",
+    "lat": 40.7201233,
+    "lon": -73.9421695
+  },
+  {
+    "name": "brooklynONE productions",
+    "description": "",
+    "lat": 40.6571343,
+    "lon": -74.007193
+  },
+  {
+    "name": "Secret Riso Club",
+    "description": "",
+    "lat": 40.699888,
+    "lon": -73.9286902
+  },
+  {
+    "name": "Environmental Study Center",
+    "description": "This 7,000-square-foot learning center in Bergen Beach, Brooklyn, is home to over 200 living organisms, four learning labs, an outdoor learning space with a pond habitat and urban garden, and a greenhouse laboratory",
+    "lat": 40.6221663,
+    "lon": -73.9084746
+  },
+  {
+    "name": "Brooklyn Art Haus",
+    "description": "",
+    "lat": 40.7134273,
+    "lon": -73.9549377
+  },
+  {
+    "name": "NOoSPHERE Arts",
+    "description": "a new cultural center in the heart of the industrial zone of Greenpoint, Brooklyn, that focuses on the intersection of art and ecology. Their mission is to produce and share experimental arts programming because NOoSPHERE believes art has the power to move people where lectures fall short. With a hub of talent that unites music, dance, visual arts, theater, film, poetry, and prose, their collaborative productions foster connections between migrant artists and locals.",
+    "lat": 40.7348283,
+    "lon": -73.943611
+  },
+  {
+    "name": "L10 Arts & Cultural Center",
+    "description": "The newly-opened 65,000 square-foot space is a giant facility that houses space for multiple institutions: three new cinemas for BAM, the Brooklyn Public Library\u2019s first branch dedicated to arts and culture, a gallery, caf\u00e9, and performance space for the Museum of Contemporary African Diasporan Arts (MoCADA), and lastly, 651 ARTS\u2018 first performance space.",
+    "lat": 40.686236,
+    "lon": -73.9783039
+  },
+  {
+    "name": "Brooklyn Art Cave",
+    "description": "",
+    "lat": 40.6980702,
+    "lon": -73.936791
+  },
+  {
+    "name": "Balady Halal Foods",
+    "description": "",
+    "lat": 40.6320636,
+    "lon": -74.0219045
+  },
+  {
+    "name": "Night Owl Video",
+    "description": "",
+    "lat": 40.712958,
+    "lon": -73.9577536
+  },
+  {
+    "name": "The Gecko Gallery NYC",
+    "description": "",
+    "lat": 40.7058871,
+    "lon": -73.9374341
+  },
+  {
+    "name": "Public Records",
+    "description": "",
+    "lat": 40.6822675,
+    "lon": -73.9863983
+  }
+]
