@@ -230,15 +230,16 @@
     "info": ""
   },
   {
-    "id": 24,
-    "name": "Alte Oper",
-    "lat": 50.1160319,
-    "lon": 8.671916,
-    "icon": null,
-    "imageURL": null,
-    "description": "Frankfurt's most beautiful concert hall hosts pop and jazz concerts, musicals and a festival that makes classical music accessible to everyone. Everything but operas.\nIf she were a person, you could call her the \"grande dame\" of Frankfurt's cultural institutions: the Alte Oper. And as befits a star, it can look back on a lot of glamour and drama. The construction of the 34-metre-high Wilhelminian-style building was made possible by 67 wealthy Frankfurt citizens, and when it opened in 1880, even Kaiser Wilhelm I was amazed. It soon blossomed into one of the most important opera houses in the country.\nAfter its destruction in the Second World War, it was to take more than 35 years before it was reopened in 1981 – and once again brought famous conductors, soloists, ensembles and orchestras to the stage – only no more operas, which can be found in the \"new\" opera house. Instead, in addition to world-class classical stars, pop, jazz and chanson artists also perform at around 460 events each year, as well as musicals and show productions. Each new season begins with the Fratopia Festival, which offers low-threshold classical music in the form of short concerts – without admission and without registration.",
-    "info": ""
-  },
+  "id": 24,
+  "name": "Alte Oper",
+  "lat": 50.1160319,
+  "lon": 8.671916,
+  "icon": null,
+  "imageURL": null,
+  "description": "Frankfurt's most beautiful concert hall hosts pop and jazz concerts, musicals and a festival that makes classical music accessible to everyone. Everything but operas.\n\nIf she were a person, you could call her the \"grande dame\" of Frankfurt's cultural institutions: the Alte Oper. ...",
+  "info": ""
+}
+,
   {
     "id": 25,
     "name": "Café im Liebieghaus",
