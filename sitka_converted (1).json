@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Glacier Bay National Park and Preserve",
+    "lat": 58.6658073,
+    "lon": -136.9002147,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 1
+  },
+  {
+    "name": "Sitka National Historical Park",
+    "lat": 57.0483239,
+    "lon": -135.3159987,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 2
+  },
+  {
+    "name": "Klondike Gold Rush National Historical Park",
+    "lat": 59.5961734,
+    "lon": -135.1483543,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 3
+  },
+  {
+    "name": "Southeast Alaska Discovery Center",
+    "lat": 55.340697,
+    "lon": -131.644023,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 4
+  },
+  {
+    "name": "Mendenhall Glacier",
+    "lat": 58.4167958,
+    "lon": -134.5466664,
+    "description": "A rare chance to get up close and personal with a 13-mile ribbon of ice near downtown Juneau.",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 5
+  },
+  {
+    "name": "Brotherhood Bridge Trail",
+    "lat": 58.3710196,
+    "lon": -134.6024802,
+    "description": "Every summer, the Mendenhall River greenbelt comes alive with an explosion of magenta flowers.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 6
+  },
+  {
+    "name": "Upside Down Trees...",
+    "lat": 58.3599705,
+    "lon": -134.5481593,
+    "description": "Upside-down trees serve as natural flower pots in this hanging garden of Alaska.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 7
+  },
+  {
+    "name": "Treadwell Trail",
+    "lat": 58.2704877,
+    "lon": -134.3833528,
+    "description": "The ruins of this Alaska gold mine form a gorgeous ghost town.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 8
+  },
+  {
+    "name": "Sealaska Heritage Institute ARTS CAMPUS",
+    "lat": 58.300306,
+    "lon": -134.4075152,
+    "description": "Often mistaken for an office building, inside this venue is an amazing collection of Native Alaskan art.\u00a0\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 9
+  },
+  {
+    "name": "Shrine of Saint Therese",
+    "lat": 58.4723093,
+    "lon": -134.787191,
+    "description": "This shrine to the patron saint of Alaska sits on a small tidal island and was built from the land\u2019s own beach stones.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 10
+  },
+  {
+    "name": "Point Bishop-Dupont Trailhead",
+    "lat": 58.2453996,
+    "lon": -134.2957981,
+    "description": "The crumbling remains of Juneau's explosives storage site.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 11
+  },
+  {
+    "name": "Last Chance Mining Museum",
+    "lat": 58.3054727,
+    "lon": -134.3844031,
+    "description": "Impressive artifacts from Juneau's gold mining days fill this mining site-turned-museum.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 12
+  },
+  {
+    "name": "Aunt Claudias Doll Museum",
+    "lat": 58.300876,
+    "lon": -134.406361,
+    "description": "One toy collector's legacy of hundreds of unique items includes the most diverse display of northern indigenous dolls.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 13
+  },
+  {
+    "name": "Petroglyph Beach State Historic Site",
+    "lat": 56.4829171,
+    "lon": -132.3937932,
+    "description": "Low tide reveals 8,000-year-old rock carvings in Southern Alaska.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 14
+  },
+  {
+    "name": "St. Michael the Archangel Orthodox Cathedral",
+    "lat": 57.05,
+    "lon": -135.3352778,
+    "description": "The first Russian Orthodox church in North America and an Alaskan landmark.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 15
+  },
+  {
+    "name": "Hammer Museum",
+    "lat": 59.2350206,
+    "lon": -135.4444092,
+    "description": "A museum devoted entirely to hammers has more than 1,400 items on display dating back to the Romans.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 16
+  },
+  {
+    "name": "White Pass & Yukon Route Railway",
+    "lat": 59.4531431,
+    "lon": -135.3181086,
+    "description": "A historic freight system that found the true gold rush is in tourism.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 17
+  },
+  {
+    "name": "Golden North Hotel",
+    "lat": 59.4543232,
+    "lon": -135.3178428,
+    "description": "A classic gold rush hotel can be expected to pick up some ghosts along the way, and the Golden North is no exception.",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 18
+  },
+  {
+    "name": "Klondike Gold Rush National Historical Park Visitor Center",
+    "lat": 59.453499,
+    "lon": -135.3184558,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 19
+  },
+  {
+    "name": "Red Onion Saloon",
+    "lat": 59.4539012,
+    "lon": -135.3184605,
+    "description": "Originally a brothel during the Klondike Gold Rush, this bar once used dolls to denote when ladies were working.\u00a0",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 20
+  },
+  {
+    "name": "Arctic Brotherhood Hall",
+    "lat": 59.4540874,
+    "lon": -135.3182002,
+    "description": "The facade of this relic from the Klondike gold rush is decorated with over 8,800 pieces of driftwood.",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 21
+  },
+  {
+    "name": "Granite Creek Trail",
+    "lat": 58.3171264,
+    "lon": -134.3224969,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 22
+  },
+  {
+    "name": "Juneau Icefield",
+    "lat": 58.6166667,
+    "lon": -134.5,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 23
+  },
+  {
+    "name": "Mt. Verstovia Trailhead",
+    "lat": 57.0472816,
+    "lon": -135.2939778,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 24
+  },
+  {
+    "name": "Goddard Hot Springs Tubs",
+    "lat": 56.8355182,
+    "lon": -135.376373,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 25
+  },
+  {
+    "name": "Fortress of the Bear",
+    "lat": 57.0504266,
+    "lon": -135.2329939,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 26
+  },
+  {
+    "name": "Totem Bight State Historical Park",
+    "lat": 55.4201157,
+    "lon": -131.7725377,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 27
+  },
+  {
+    "name": "Hungry Pt. Trailhead",
+    "lat": 56.814906,
+    "lon": -132.9425952,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 28
+  },
+  {
+    "name": "Baranof Castle State Historic Site",
+    "lat": 57.0486854,
+    "lon": -135.3380656,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 29
+  },
+  {
+    "name": "Old Sitka State Historic Park",
+    "lat": 57.1308324,
+    "lon": -135.3725135,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 30
+  },
+  {
+    "name": "Alaska State Museum",
+    "lat": 58.2999241,
+    "lon": -134.4156397,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 31
+  },
+  {
+    "name": "Sealaska Heritage Institute",
+    "lat": 58.3003682,
+    "lon": -134.4068215,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 32
+  },
+  {
+    "name": "Alaska Raptor Center",
+    "lat": 57.052333,
+    "lon": -135.3160504,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 33
+  },
+  {
+    "name": "Sea Daddy",
+    "lat": 57.0526059,
+    "lon": -135.3438258,
+    "description": "",
+    "info": "",
+    "icon": null,
+    "imageURL": null,
+    "id": 34
+  }
+]
