@@ -164,7 +164,7 @@
     "name": "Apfelwein Wagner",
     "lat": 50.1005298,
     "lon": 8.6819641,
-    "icon": null,
+    "icon": "bar",
     "imageURL": null,
     "description": "Traditional tavern serving Frankfurt’s iconic apple wine (Apfelwein) and hearty Hessian fare in a cozy, wood-paneled setting.",
     "info": ""
@@ -184,7 +184,7 @@
     "name": "Zum Gemalten Haus",
     "lat": 50.1007,
     "lon": 8.681932,
-    "icon": null,
+    "icon": "bar",
     "imageURL": null,
     "description": "Famous for its hand-painted façade and traditional Apfelwein, this rustic pub is a classic Sachsenhausen stop.",
     "info": ""
