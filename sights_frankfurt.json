@@ -74,7 +74,7 @@
     "name": "Historisches Museum Frankfurt",
     "lat": 50.10945,
     "lon": 8.6825014,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "Covers Frankfurt’s history from the Middle Ages to today, with interactive exhibits and city models.",
     "info": ""
@@ -84,7 +84,7 @@
     "name": "Städel Museum",
     "lat": 50.1030925,
     "lon": 8.6740583,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "One of Germany’s most important art museums, housing European masterpieces from the 14th century to modern times.",
     "info": ""
@@ -94,7 +94,7 @@
     "name": "Verkehrsmuseum Frankfurt am Main",
     "lat": 50.0821164,
     "lon": 8.5812956,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "This museum explores the history of the city's public transportation. Its collection includes the world's oldest preserved electric trolley car. ",
     "info": ""
@@ -174,7 +174,7 @@
     "name": "Museum Applied Art",
     "lat": 50.10631,
     "lon": 8.6806,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "Houses decorative arts and design from around the world in a striking Richard Meier-designed building.",
     "info": ""
@@ -224,7 +224,7 @@
     "name": "Goethe House",
     "lat": 50.1113414,
     "lon": 8.6776096,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "Birthplace of Johann Wolfgang von Goethe, now a museum showcasing period furnishings and the writer’s legacy.",
     "info": ""
