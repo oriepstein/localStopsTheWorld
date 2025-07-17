@@ -24,7 +24,7 @@
     "name": "Roßmarkt",
     "lat": 50.1123889,
     "lon": 8.6775447,
-    "icon": null,
+    "icon": "walking",
     "imageURL": null,
     "description": "",
     "info": ""
@@ -34,7 +34,7 @@
     "name": "Römerberg",
     "lat": 50.1102879,
     "lon": 8.6821547,
-    "icon": null,
+    "icon": "walking",
     "imageURL": null,
     "description": "picturesque town square; the historical focal point of the city, a cobbled plaza lined with original and reconstructed half-timber medieval buildings including the Römer (Frankfurt’s town hall) and the Alte Nikolaikirche (St Nicholas’ Church), which you can visit if there are no meetings or events on.",
     "info": ""
@@ -44,7 +44,7 @@
     "name": "Iron Footbridge",
     "lat": 50.1081108,
     "lon": 8.6821289,
-    "icon": null,
+    "icon": "walking",
     "imageURL": null,
     "description": "Fantastic views and thousands of love locks. ",
     "info": ""
@@ -259,5 +259,14 @@
     "imageURL": null,
     "description": "",
     "info": ""
-  }
+  },
+  {
+    "id": 27,
+    "name": "Museumsufer",
+    "lat": 50.10684,
+    "lon": 8.68795,
+    "icon": "walking",
+    "imageURL": null,
+    "description": "The strip holds thirteen of the city's museums, all located in wonderfully restored villas from the 1900s set between structures dating back to the 1800s. Internationally acclaimed architects such as Richard Meier and Oswald Mathias Ungers have extended the existing buildings with modern additions. Museums found here include the Film Museum, the Museum of Applied Art, the Jewish Museum and the Architecture Museum",
+    "info": ""
 ]
