@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Belgrade",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/belgrade_sights.json"
+  },
+  {
+    "name": "Brooklyn",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json"
+  },
+  {
+    "name": "Budapest",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/budapest_sights_combined.json"
+  },
+  {
+    "name": "Bucharest",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/bucharest_sights.json"
+  },
+  {
+    "name": "Connecticut",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json"
+  },
+  {
+    "name": "Frankfurt",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sights_frankfurt.json"
+  },
+  {
+    "name": "Seattle",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/seattle_sights.json"
+  },
+  {
+    "name": "Sitka",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json"
+  },
+  {
+    "name": "Vienna",
+    "url": "https://raw.githubusercontent.com/oriepstein/LocalStopsData/main/sights_vienna.json"
+  }
+]
