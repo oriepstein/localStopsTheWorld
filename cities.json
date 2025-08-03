@@ -1,27 +1,27 @@
 [
   {
-    "name": "Belgrade",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/belgrade_sights.json"
+    "name": "Central Park",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_central_park.json"
   },
   {
     "name": "Brooklyn",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json"
   },
   {
-    "name": "Budapest",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/budapest_sights_combined.json"
+    "name": "Downtown Manhattan",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json"
   },
   {
-    "name": "Bucharest",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/bucharest_sights.json"
+    "name": "Lower Manhattan",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_manhattan_(canal_-_14th).json"
   },
   {
     "name": "Connecticut",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json"
   },
   {
-    "name": "Frankfurt",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sights_frankfurt.json"
+    "name": "Lower Midtown",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_midtown_(14th_to_34th).json"
   },
   {
     "name": "Seattle",
@@ -32,7 +32,7 @@
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json"
   },
   {
-    "name": "Vienna",
-    "url": "https://raw.githubusercontent.com/oriepstein/LocalStopsData/main/sights_vienna.json"
+    "name": "Midtown",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_midtown_(34th_to_59th).json"
   }
 ]
