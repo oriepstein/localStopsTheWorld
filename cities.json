@@ -15,9 +15,17 @@
     "name": "Lower Manhattan",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_manhattan_(canal_-_14th).json"
   },
-  {
+   {
+    "name": "Midtown",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_midtown_(34th_to_59th).json"
+  },
+   {
     "name": "Connecticut",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json"
+  },
+  {
+    "name": "Upper East Side",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_upper_east_side.json"
   },
   {
     "name": "Lower Midtown",
