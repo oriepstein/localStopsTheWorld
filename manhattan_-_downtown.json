@@ -318,7 +318,7 @@
     "name": "Mmuseumm",
     "lat": 40.7174747,
     "lon": -74.0027129,
-    "icon": green,
+    "icon": "green",
     "imageURL": null,
     "description": "A tiny museum housed in a New York freight elevator specializes in the \"overlooked,dismissed, or ignored.\" <br>=",
     "info": null
@@ -957,7 +957,7 @@
     "name": "100 Centre St",
     "lat": 40.7158872,
     "lon": -74.0012066,
-    "icon": green,
+    "icon": "green",
     "imageURL": null,
     "description": "night court",
     "info": null
