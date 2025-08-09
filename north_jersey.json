@@ -1,0 +1,983 @@
+[
+  {
+    "name": "High Point Monument",
+    "lat": 41.3209557,
+    "lon": -74.6616168,
+    "icon": null,
+    "imageURL": null,
+    "description": "The highest point in New Jersey is marked by a massive, if simply named, obelisk.",
+    "info": null
+  },
+  {
+    "name": "Luna Parc",
+    "lat": 41.2517048,
+    "lon": -74.7869101,
+    "icon": null,
+    "imageURL": null,
+    "description": "Whimsical artist house in the New Jersey woods.\u00a0Open for tours 2-3 days each month from May 1-October 31. For visiting information please contact: ricky@lunparc.com.",
+    "info": null
+  },
+  {
+    "name": "Former lion enclosure of Jungle Habitat",
+    "lat": 41.126231,
+    "lon": -74.3371204,
+    "icon": null,
+    "imageURL": null,
+    "description": "his disastrous New Jersey safari park saw animal attacks, escapes, and disease before being abandoned.",
+    "info": null
+  },
+  {
+    "name": "Mahwah Museum",
+    "lat": 41.0939126,
+    "lon": -74.1447323,
+    "icon": null,
+    "imageURL": null,
+    "description": "This 150-year-old train station and caboose have been turned into a railroad museum, enjoyed by young and old alike.",
+    "info": null
+  },
+  {
+    "name": "30 Bluffs Ct",
+    "lat": 41.143638,
+    "lon": -74.577581,
+    "icon": null,
+    "imageURL": null,
+    "description": "An approximately 500 million-year-old rock outcropping covered in fossilized bacteria.",
+    "info": null
+  },
+  {
+    "name": "Sterling Hill Mining Museum",
+    "lat": 41.0835394,
+    "lon": -74.6041832,
+    "icon": null,
+    "imageURL": null,
+    "description": "Hundreds of glow-in-the-dark objects light up a museum in a historic zinc mine.",
+    "info": null
+  },
+  {
+    "name": "Van Slyke Castle",
+    "lat": 41.0447717,
+    "lon": -74.2626405,
+    "icon": null,
+    "imageURL": null,
+    "description": "The remains of a century-old mansion that met a fiery demise years after it was deserted.",
+    "info": null
+  },
+  {
+    "name": "Radburn",
+    "lat": 40.9409021,
+    "lon": -74.1195915,
+    "icon": null,
+    "imageURL": null,
+    "description": "The first neighborhood to implement the Garden City model in its suburban planning.",
+    "info": null
+  },
+  {
+    "name": "Paterson Great Falls National Historical Park",
+    "lat": 40.9149503,
+    "lon": -74.1800403,
+    "icon": null,
+    "imageURL": null,
+    "description": "In the power of this waterfall, Alexander Hamilton saw the potential for industry.",
+    "info": null
+  },
+  {
+    "name": "Holsten's Ice Cream, Chocolate & Restaurant",
+    "lat": 40.8282821,
+    "lon": -74.1866333,
+    "icon": null,
+    "imageURL": null,
+    "description": "This old-fashioned candy shop, ice cream parlor, and diner served as the setting for one of TV's most controversial series finales.",
+    "info": null
+  },
+  {
+    "name": "Thomas Edison's Concrete Houses",
+    "lat": 40.8378029,
+    "lon": -74.211924,
+    "icon": null,
+    "imageURL": null,
+    "description": "dison's cast-in-place concrete houses were a failure, but way ahead of their time.",
+    "info": null
+  },
+  {
+    "name": "Iviswold",
+    "lat": 40.8309298,
+    "lon": -74.1120943,
+    "icon": null,
+    "imageURL": null,
+    "description": "Originally built in 1869, this castle is currently part of Felician University's campus.",
+    "info": null
+  },
+  {
+    "name": "Victor Victori's Multiplism Statues",
+    "lat": 40.8259182,
+    "lon": -74.1055184,
+    "icon": null,
+    "imageURL": null,
+    "description": "Seven golden statues rise into the sky from sculptor Victor Victori's New Jersey front lawn.",
+    "info": null
+  },
+  {
+    "name": "Old Mine Road",
+    "lat": 41.2349216,
+    "lon": -74.8489071,
+    "icon": null,
+    "imageURL": null,
+    "description": "40 mile scenic road through the delaware water gap - one of the oldest roads in the country",
+    "info": null
+  },
+  {
+    "name": "Peters Valley School of Craft: Office",
+    "lat": 41.1959835,
+    "lon": -74.8510868,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Women's Federation Monument",
+    "lat": 40.9807683,
+    "lon": -73.9094411,
+    "icon": null,
+    "imageURL": null,
+    "description": "A whimsical monument deep in this park commemorates the groups that helped build it.",
+    "info": null
+  },
+  {
+    "name": "Zabriskie's 1912 \u201cCliff Dale\u201d House Foundation",
+    "lat": 40.9393123,
+    "lon": -73.9234232,
+    "icon": null,
+    "imageURL": null,
+    "description": "Along the Palisades skyline are the ruins of a large mansion built in 1911 and demolished in the 1930s.",
+    "info": null
+  },
+  {
+    "name": "Rionda\u2019s Tower and Historical Marker",
+    "lat": 40.9338132,
+    "lon": -73.9332072,
+    "icon": null,
+    "imageURL": null,
+    "description": "Said to be haunted, this tower was constructed by a sugar importer as a gift to his wife.",
+    "info": null
+  },
+  {
+    "name": "Weehawken Dueling Grounds",
+    "lat": 40.7702241,
+    "lon": -74.0169492,
+    "icon": null,
+    "imageURL": null,
+    "description": "The boulder on which Alexander Hamilton laid his head as he died can still be visited on the New Jersey coast.",
+    "info": null
+  },
+  {
+    "name": "Sybil's Cave",
+    "lat": 40.7454301,
+    "lon": -74.0230089,
+    "icon": null,
+    "imageURL": null,
+    "description": "The remains of a 19th century spring, and the site of an infamous unsolved murder.",
+    "info": null
+  },
+  {
+    "name": "White Mana Diner",
+    "lat": 40.7470613,
+    "lon": -74.0615622,
+    "icon": null,
+    "imageURL": null,
+    "description": "This unassuming retro burger joint was billed as \u201cdiner of the future\u201d at the 1939 World's Fair.",
+    "info": null
+  },
+  {
+    "name": "Historic Jersey City and Harsimus Cemetery",
+    "lat": 40.7271728,
+    "lon": -74.0551648,
+    "icon": null,
+    "imageURL": null,
+    "description": "Filled with history, this cemetery is maintained each summer by a few hungry goats.",
+    "info": null
+  },
+  {
+    "name": "Liberty Science Center",
+    "lat": 40.7082308,
+    "lon": -74.0546336,
+    "icon": null,
+    "imageURL": null,
+    "description": "infinity climber -\u00a0A playground inspired by differential calculus dangles from the ceiling of the Liberty Science Center.",
+    "info": null
+  },
+  {
+    "name": "Morris Canal Park",
+    "lat": 40.7117324,
+    "lon": -74.0375363,
+    "icon": null,
+    "imageURL": null,
+    "description": "Once considered a marvel of engineering, this 107-mile canal played an integral role in building New York City.",
+    "info": null
+  },
+  {
+    "name": "Colgate Clock",
+    "lat": 40.7119903,
+    "lon": -74.0339081,
+    "icon": null,
+    "imageURL": null,
+    "description": "On the Hudson resides one of the largest clocks in the world.",
+    "info": null
+  },
+  {
+    "name": "Katy\u0144 Memorial",
+    "lat": 40.7162568,
+    "lon": -74.0329837,
+    "icon": null,
+    "imageURL": null,
+    "description": "This evocative New Jersey statue memoralizes the Polish victims of a Soviet massacre.",
+    "info": null
+  },
+  {
+    "name": "Empty Sky Memorial",
+    "lat": 40.7082213,
+    "lon": -74.0349253,
+    "icon": null,
+    "imageURL": null,
+    "description": "This haunting monument honors the victims of 9/11.",
+    "info": null
+  },
+  {
+    "name": "Central Railroad of New Jersey Terminal",
+    "lat": 40.7072222,
+    "lon": -74.0352778,
+    "icon": null,
+    "imageURL": null,
+    "description": "Hidden in plain sight on the Hudson River is an abandoned train station where nature has taken over.",
+    "info": null
+  },
+  {
+    "name": "Black Tom Island",
+    "lat": 40.6914548,
+    "lon": -74.0551841,
+    "icon": null,
+    "imageURL": null,
+    "description": "A simple plaque remembers an act of WWI terrorism that obliterated an island and forever scarred the Statue of Liberty.",
+    "info": null
+  },
+  {
+    "name": "Morristown National Historical Park",
+    "lat": 40.7965847,
+    "lon": -74.4660539,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Thomas Edison National Historical Park",
+    "lat": 40.7838774,
+    "lon": -74.2341365,
+    "icon": null,
+    "imageURL": null,
+    "description": "Take a step into the workshop where Edison and his employees revolutionized the world.",
+    "info": null
+  },
+  {
+    "name": "Ellis Island National Museum of Immigration",
+    "lat": 40.6992753,
+    "lon": -74.0394328,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Tear Drop Memorial",
+    "lat": 40.6637061,
+    "lon": -74.0692301,
+    "icon": null,
+    "imageURL": null,
+    "description": "World Trade Center memorial likened to a woman's sexual organ.",
+    "info": null
+  },
+  {
+    "name": "Riker Hill Art Park",
+    "lat": 40.8102098,
+    "lon": -74.3272202,
+    "icon": null,
+    "imageURL": null,
+    "description": "An abandoned military bunker that has been transformed into an artist's paradise.",
+    "info": null
+  },
+  {
+    "name": "Glenmont",
+    "lat": 40.7861613,
+    "lon": -74.2405185,
+    "icon": null,
+    "imageURL": null,
+    "description": "Thomas Edison's home and final resting place also boasts an impressive garage, where some of the earliest electric cars are on display.",
+    "info": null
+  },
+  {
+    "name": "Little Lost Cemetary",
+    "lat": 40.8672699,
+    "lon": -74.4163285,
+    "icon": null,
+    "imageURL": null,
+    "description": "A cemetery that holds graves for the forgotten children of a burned orphanage.",
+    "info": null
+  },
+  {
+    "name": "Morris Museum",
+    "lat": 40.7960409,
+    "lon": -74.4482964,
+    "icon": null,
+    "imageURL": null,
+    "description": "A world-class collection of mechanical musical instruments and automata.",
+    "info": null
+  },
+  {
+    "name": "Morris Frank and Buddy Statue",
+    "lat": 40.7979399,
+    "lon": -74.4808315,
+    "icon": null,
+    "imageURL": null,
+    "description": "A trompe-l'oeil statue honoring the first guide dog in North America.",
+    "info": null
+  },
+  {
+    "name": "Bell Telephone phone pole testing site",
+    "lat": 40.7935018,
+    "lon": -74.673213,
+    "icon": null,
+    "imageURL": null,
+    "description": "A farm in New Jersey grew a most unusual crop for AT&T's testing purposes.",
+    "info": null
+  },
+  {
+    "name": "United States Golf Association (USGA)",
+    "lat": 40.666603,
+    "lon": -74.6136016,
+    "icon": null,
+    "imageURL": null,
+    "description": "Home of the golf club used by Alan Shepard on the moon, and more artifacts from the sport's history.",
+    "info": null
+  },
+  {
+    "name": "Devil's Tree",
+    "lat": 40.6301675,
+    "lon": -74.5832131,
+    "icon": null,
+    "imageURL": null,
+    "description": "An allegedly cursed tree represents a town's reckoning with a racist past.",
+    "info": null
+  },
+  {
+    "name": "Raritan Water Power Canal",
+    "lat": 40.5551032,
+    "lon": -74.6598815,
+    "icon": null,
+    "imageURL": null,
+    "description": "In the 19th century, this canal provided power to mills, machine shops, and other businesses in the area.",
+    "info": null
+  },
+  {
+    "name": "Pet Cemetery at Duke Farms",
+    "lat": 40.5537018,
+    "lon": -74.6379017,
+    "icon": null,
+    "imageURL": null,
+    "description": "A billionaire heiress' menagerie of animals were lovingly laid to rest on the grounds of her former estate.",
+    "info": null
+  },
+  {
+    "name": "Duke Farms",
+    "lat": 40.5443318,
+    "lon": -74.6239317,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "World Apostolate of Fatima",
+    "lat": 40.7308333,
+    "lon": -75.0069444,
+    "icon": null,
+    "imageURL": null,
+    "description": "Dedicated to a legendary spiritual vision.",
+    "info": null
+  },
+  {
+    "name": "Green Sergeant Covered Bridge",
+    "lat": 40.4440077,
+    "lon": -74.9662399,
+    "icon": null,
+    "imageURL": null,
+    "description": "New Jersey's last historic covered bridge was rebuilt from pieces of the original 19th-century structure.",
+    "info": null
+  },
+  {
+    "name": "The Deserted Village",
+    "lat": 40.6788546,
+    "lon": -74.3890447,
+    "icon": null,
+    "imageURL": null,
+    "description": "This tiny New Jersey village has lived many lives but seems determined to remain a ghost town.",
+    "info": null
+  },
+  {
+    "name": "South Mountain - Fairy Trail",
+    "lat": 40.7272908,
+    "lon": -74.3044367,
+    "icon": null,
+    "imageURL": null,
+    "description": "These mystical miniature houses bring a touch of magic to the New Jersey woods.",
+    "info": null
+  },
+  {
+    "name": "Franklin Mineral Museum Inc",
+    "lat": 41.113307,
+    "lon": -74.588419,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Art Deco Edison Memorial Tower",
+    "lat": 40.5635359,
+    "lon": -74.3392612,
+    "icon": null,
+    "imageURL": null,
+    "description": "A giant light 13 feet high shines near Thomas Edison's old Menlo Park lab. worlds largest lightbulb",
+    "info": null
+  },
+  {
+    "name": "Ellis Family Gravesite",
+    "lat": 40.4892069,
+    "lon": -74.4165725,
+    "icon": null,
+    "imageURL": null,
+    "description": "Seven people are buried in the middle of what's now a movie theater parking lot.",
+    "info": null
+  },
+  {
+    "name": "Rutgers Gardens",
+    "lat": 40.4734192,
+    "lon": -74.4227371,
+    "icon": null,
+    "imageURL": null,
+    "description": "look for lawrence Brook carvings -\u00a0A mixture of strange symbols, ciphers, words and cryptograms carved in 1876 remain unsolved to this day.",
+    "info": null
+  },
+  {
+    "name": "Rutgers Geology Museum",
+    "lat": 40.498649,
+    "lon": -74.4466806,
+    "icon": null,
+    "imageURL": null,
+    "description": "This exoskeleton of a japanese giant spider crab was gifted to Rutgers University by Japan for its role in educating some of the first Japanese citizens to study outside the country.",
+    "info": null
+  },
+  {
+    "name": "Cornelius Low House",
+    "lat": 40.5123769,
+    "lon": -74.4617087,
+    "icon": null,
+    "imageURL": null,
+    "description": "One of the last-standing and most prominent structures from a long-lost colonial port community.",
+    "info": null
+  },
+  {
+    "name": "East Jersey Old Town Village",
+    "lat": 40.5132257,
+    "lon": -74.4763969,
+    "icon": null,
+    "imageURL": null,
+    "description": "A historic town sits upon the site of a long-lost 18th-century trading community.",
+    "info": null
+  },
+  {
+    "name": "Arthur Kill Vertical Lift Bridge",
+    "lat": 40.6376266,
+    "lon": -74.1955226,
+    "icon": null,
+    "imageURL": null,
+    "description": "Featuring the the longest lift span of any vertical-lift bridge in the world.",
+    "info": null
+  },
+  {
+    "name": "NORTHLANDZ (World's Largest Miniature Wonderland)",
+    "lat": 40.5169683,
+    "lon": -74.8190504,
+    "icon": null,
+    "imageURL": null,
+    "description": "One of the world's largest model railroads is a mind-boggling achievement.",
+    "info": null
+  },
+  {
+    "name": "Ringwood Manor",
+    "lat": 41.1389824,
+    "lon": -74.2553099,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "New Jersey Botanical Garden",
+    "lat": 41.1268786,
+    "lon": -74.2383815,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "State Line Lookout, Palisades Interstate Park Commission",
+    "lat": 40.9884821,
+    "lon": -73.9068939,
+    "icon": null,
+    "imageURL": null,
+    "description": "Highest point on the Palisades with sweeping views of the Hudson. Quiet, free parking",
+    "info": null
+  },
+  {
+    "name": "Tenafly Nature Center",
+    "lat": 40.924638,
+    "lon": -73.944983,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "African Art Museum of the SMA",
+    "lat": 40.9105091,
+    "lon": -73.9614655,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Garret Mountain Reservation",
+    "lat": 40.9007508,
+    "lon": -74.178574,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Lambert Castle",
+    "lat": 40.9000881,
+    "lon": -74.1728812,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Yogi Berra Museum",
+    "lat": 40.8684394,
+    "lon": -74.1945847,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Ben Shahn Center for the Visual Arts",
+    "lat": 40.9472466,
+    "lon": -74.1965691,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Pyramid Mountain Visitors Center",
+    "lat": 40.9464616,
+    "lon": -74.3889265,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Montclair Art Museum",
+    "lat": 40.8186405,
+    "lon": -74.2239954,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "The Stickley Museum at Craftsman Farms",
+    "lat": 40.8560831,
+    "lon": -74.481828,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Fort Lee Historic Park, Palisades Interstate Park Commission",
+    "lat": 40.8502785,
+    "lon": -73.9624813,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Allison Park Road",
+    "lat": 40.8718358,
+    "lon": -73.9517996,
+    "icon": null,
+    "imageURL": null,
+    "description": "long path trail from GW bridge",
+    "info": null
+  },
+  {
+    "name": "Mitsuwa Marketplace - New Jersey",
+    "lat": 40.8161915,
+    "lon": -73.980224,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Meadowlands Environment Center",
+    "lat": 40.7853976,
+    "lon": -74.1036705,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "The Frelinghuysen Arboretum",
+    "lat": 40.8029026,
+    "lon": -74.451483,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "The Newark Museum of Art",
+    "lat": 40.7429427,
+    "lon": -74.1714034,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Ironbound",
+    "lat": 40.7253877,
+    "lon": -74.1531147,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Curious Matter",
+    "lat": 40.724952,
+    "lon": -74.045969,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "143 Christopher Columbus Dr",
+    "lat": 40.7199692,
+    "lon": -74.0449982,
+    "icon": null,
+    "imageURL": null,
+    "description": "largest public mural on the east coast (?)",
+    "info": null
+  },
+  {
+    "name": "Pier 13 Hoboken",
+    "lat": 40.7516946,
+    "lon": -74.0219544,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Mana Contemporary",
+    "lat": 40.7369675,
+    "lon": -74.0689219,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Monty Hall",
+    "lat": 40.7164374,
+    "lon": -74.0363551,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Loew's Jersey Theatre",
+    "lat": 40.7320993,
+    "lon": -74.0641319,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Assembly Hall of Jehovah's Witnesses",
+    "lat": 40.7332957,
+    "lon": -74.062521,
+    "icon": null,
+    "imageURL": null,
+    "description": "offer tours",
+    "info": null
+  },
+  {
+    "name": "J Owen Grundy Park",
+    "lat": 40.7162153,
+    "lon": -74.0318602,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Another Man's Treasure",
+    "lat": 40.7173386,
+    "lon": -74.0435059,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Greenwood Gardens",
+    "lat": 40.7444411,
+    "lon": -74.3072854,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Great Swamp National Wildlife Refuge",
+    "lat": 40.7192877,
+    "lon": -74.5258147,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Lakota Wolf Preserve",
+    "lat": 40.9713622,
+    "lon": -75.0722793,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Paulinskill Viaduct",
+    "lat": 40.9480254,
+    "lon": -75.0613387,
+    "icon": null,
+    "imageURL": null,
+    "description": "Once the world's largest reinforced concrete structure, this abandoned bridge now beckons urban explorers.",
+    "info": null
+  },
+  {
+    "name": "Jenny Jump State Forest",
+    "lat": 40.912799,
+    "lon": -74.922874,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Valley Shepherd Creamery",
+    "lat": 40.7817166,
+    "lon": -74.7761862,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Hofheimer Grotto",
+    "lat": 40.6155534,
+    "lon": -74.4911152,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Oak Tree Road",
+    "lat": 40.5715895,
+    "lon": -74.3561061,
+    "icon": null,
+    "imageURL": null,
+    "description": "main drag through Jersey's huge South Indian community",
+    "info": null
+  },
+  {
+    "name": "Hunterdon Art Museum",
+    "lat": 40.6366778,
+    "lon": -74.9119917,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Delaware River Tubing",
+    "lat": 40.5459758,
+    "lon": -75.0676697,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Stairway To Heaven",
+    "lat": 41.2193465,
+    "lon": -74.4551708,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Supercharged Entertainment",
+    "lat": 40.5203484,
+    "lon": -74.3702525,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Highlands natural pool",
+    "lat": 41.068924,
+    "lon": -74.325523,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Norvin Green State Forest",
+    "lat": 41.0568026,
+    "lon": -74.3411515,
+    "icon": null,
+    "imageURL": null,
+    "description": "Roomy Mine trail",
+    "info": null
+  },
+  {
+    "name": "SoJo Spa Club",
+    "lat": 40.8187589,
+    "lon": -73.9794845,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Cathedral Basilica of the Sacred Heart",
+    "lat": 40.7546593,
+    "lon": -74.1785346,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Battleship New Jersey",
+    "lat": 39.9394484,
+    "lon": -75.1330734,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Marsh Discovery Trail",
+    "lat": 40.7843878,
+    "lon": -74.1005299,
+    "icon": null,
+    "imageURL": null,
+    "description": "Towering phragmites waving in the breeze welcome visitors as they step onto the half-mile floating boardwalk beneath the Marsh Discovery Trail sign at Richard W. DeKorte Park, a former landfill and today a thriving nature reserve in the Meadowlands. If the tide is high, you may feel a gentle rocking motion on the walkway as it advances through the tidal marsh, where long-legged white egrets fish for their dinner and diamondback terrapins sun themselves. Benches provide the perfect perch to scan for birds, all against the backdrop of the Manhattan skyline. Stay for the sunset, and investigate the other three miles of easy walking paths.",
+    "info": null
+  },
+  {
+    "name": "High Point State Park",
+    "lat": 41.2934244,
+    "lon": -74.6989549,
+    "icon": null,
+    "imageURL": null,
+    "description": "The highest point in New Jersey? At 1,803 feet above sea level, that would be the appropriately named High Point State Park. It\u2019s also the Garden State\u2019s northwesternmost point\u2014and it\u2019s a thrill to visit. Drive into Wantage\u2019s 16,000-acre state park and head straight to the top. It\u2019s a short uphill walk from the upper parking lot to the 220-foot-tall New Jersey Veterans\u2019 Memorial monument. Walk around the monument\u2019s base for a spectacular 360-degree view across New Jersey, Pennsylvania and New York. The interior of the monument is open on weekends from Memorial Day to Columbus Day. The intrepid can climb the 291 steps to the top for an even more breathtaking view",
+    "info": null
+  },
+  {
+    "name": "Paterson Museum",
+    "lat": 40.9134848,
+    "lon": -74.1789056,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "Cape May Bird Observatory - Center for Research and Education",
+    "lat": 39.1599338,
+    "lon": -74.83411,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null
+  },
+  {
+    "name": "The Glen Rock",
+    "lat": 40.9627445,
+    "lon": -74.1348132,
+    "icon": null,
+    "imageURL": null,
+    "description": "The 570-ton boulder that gave a New Jersey town its name",
+    "info": null
+  },
+  {
+    "name": "Ross Dock Picnic Area",
+    "lat": 40.8599637,
+    "lon": -73.9551853,
+    "icon": null,
+    "imageURL": null,
+    "description": "Riverside green space with picnic tables, fishing, and views of the bridge from below.",
+    "info": null
+  },
+  {
+    "name": "Flat Rock Brook Nature Center",
+    "lat": 40.8734121,
+    "lon": -73.9675537,
+    "icon": null,
+    "imageURL": null,
+    "description": "Riverside green space with picnic tables, fishing, and views of the bridge from below.",
+    "info": null
+  }
+]
