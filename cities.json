@@ -7,6 +7,10 @@
     "name": "Brooklyn",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json"
   },
+   {
+    "name": "Brooklyn",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/colorado_denver.json"
+  },
   {
     "name": "Downtown Manhattan",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json"
