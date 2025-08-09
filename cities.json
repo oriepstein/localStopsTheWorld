@@ -19,11 +19,11 @@
     "name": "North Jersey",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/north_jersey.json"
   },
-   {
+  {
     "name": "Midtown",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_midtown_(34th_to_59th).json"
   },
-   {
+  {
     "name": "Connecticut",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json"
   },
@@ -41,10 +41,10 @@
   },
   {
     "name": "Sitka",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted.json"
   },
   {
     "name": "Sophie's Stops",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc%20(1).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc.json"
   }
 ]
