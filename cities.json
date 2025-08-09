@@ -47,8 +47,8 @@
     "name": "Sitka",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted.json"
   },
-  {
-    "name": "Sophie's Stops",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc%20(1).json"
-  }
+ {
+  "name": "Sophie's Stops",
+  "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc.json"
+}
 ]
