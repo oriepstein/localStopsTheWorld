@@ -93,7 +93,7 @@
     "name": "Museo de las Americas",
     "lat": 39.730051,
     "lon": -104.9987508,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": null
@@ -102,7 +102,7 @@
     "name": "The Kirkland at the Denver Art Museum",
     "lat": 39.7355683,
     "lon": -104.9905479,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": null
@@ -111,7 +111,7 @@
     "name": "Denver Art Museum",
     "lat": 39.7371878,
     "lon": -104.9893451,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": null
@@ -273,7 +273,7 @@
     "name": "American Museum of Western Art - The Anschutz Collection",
     "lat": 39.7446157,
     "lon": -104.9879781,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "The huge collection of paintings of the American West is one of Denver's best-kept secrets.",
     "info": null
@@ -327,7 +327,7 @@
     "name": "Black American West Museum & Heritage Center",
     "lat": 39.7592395,
     "lon": -104.9744858,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": null
@@ -363,7 +363,7 @@
     "name": "Denver Museum of Miniatures, Dolls & Toys",
     "lat": 39.729917,
     "lon": -105.1090571,
-    "icon": null,
+    "icon": "museum",
     "imageURL": null,
     "description": "",
     "info": null
