@@ -1218,16 +1218,17 @@
     "description": "",
     "info": null,
     "url": "https://bmcc.cuny.edu/"
-  }
-] Ze Xu Monument",
-    "lat": 40.7134139,
-    "lon": -73.9981605,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null
   },
+ {
+  "name": "Lin Ze Xu Monument",
+  "lat": 40.7134139,
+  "lon": -73.9981605,
+  "icon": null,
+  "imageURL": null,
+  "description": "",
+  "info": null,
+  "url": null
+},
   {
     "name": "First Shearith Israel Graveyard, Chatham Square Cemetery",
     "lat": 40.7128627,
@@ -1588,16 +1589,16 @@
     "info": null,
     "url": "https://www.roxycinema.com/"
   },
-  {
-    "name": "32 6th Ave",
-    "lat": 40.7200627,
-    "lon": -74.0047478,
-    "icon": null,
-    "imageURL": null,
-    "description": "Hildreth Meière was commissioned by Voorhees, Gmelin & Walker to design a ceiling mural depicting the "Continents Linked by the Telephone and Wireless" as a reflection of the purpose of the building. Using her imaginative Art Deco style, Meière rendered allegorical personifications of Europe, Asia, Africa, and Australia connected by telephone and telegraph wires to each other and to the female messengers depicted in the center of the ceiling. Meière also designed the wall map near the Sixth Avenue entrance using building tile. In 1991, the lobby was designated a landmark by the New York City Landmarks Preservation Commission.",
-    "info": null,
-    "url": null
-  },
+ {
+  "name": "32 6th Ave",
+  "lat": 40.7200627,
+  "lon": -74.0047478,
+  "icon": null,
+  "imageURL": null,
+  "description": "Hildreth Meière was commissioned by Voorhees, Gmelin & Walker to design a ceiling mural depicting the \"Continents Linked by the Telephone and Wireless\" as a reflection of the purpose of the building. Using her imaginative Art Deco style, Meière rendered allegorical personifications of Europe, Asia, Africa, and Australia connected by telephone and telegraph wires to each other and to the female messengers depicted in the center of the ceiling. Meière also designed the wall map near the Sixth Avenue entrance using building tile. In 1991, the lobby was designated a landmark by the New York City Landmarks Preservation Commission.",
+  "info": null,
+  "url": null
+},
   {
     "name": "56 HENRY",
     "lat": 40.712735,
@@ -1734,7 +1735,7 @@
     "lon": -74.0101959,
     "icon": null,
     "imageURL": null,
-    "description": "Its been written that if Joe Carini was alive 700 years ago he would have been making hand made carpets for kings and queens.<br><br>His creations are inspired by water, space and animals and are coveted by the likes of Brad Pitt and Jay Z. Considered an impeccable colorist his works are bold and vibrant and made exclusively from natural dyes. As a self described "process guy" his hand touches every casino online aspect of the operation including concept, design and production – from Joes imagination to Nepal and ultimately to downtown Manhattan.<br><br>His design studio and storefront, Carini Lang, is located in a beautiful old bank on the corner of Jay and Greenwich Street",
+    "description": "Its been written that if Joe Carini was alive 700 years ago he would have been making hand made carpets for kings and queens.<br><br>His creations are inspired by water, space and animals and are coveted by the likes of Brad Pitt and Jay Z. Considered an impeccable colorist his works are bold and vibrant and made exclusively from natural dyes. As a self described process guy his hand touches every casino online aspect of the operation including concept, design and production – from Joes imagination to Nepal and ultimately to downtown Manhattan.<br><br>His design studio and storefront, Carini Lang, is located in a beautiful old bank on the corner of Jay and Greenwich Street",
     "info": null,
     "url": "https://carini-lang.com/"
   },
