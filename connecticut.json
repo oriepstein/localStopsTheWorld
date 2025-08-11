@@ -3,607 +3,1011 @@
     "name": "Palisado Cemetery",
     "description": "THE HEADSTONE OF EPHRAIM HUIT is inscribed with the year 1644. It is not the oldest grave or the first burial in the country, but it is the oldest surviving headstone in Connecticut and believed to be the oldest legible, dated headstone in the United States.",
     "lat": 41.8588046,
-    "lon": -72.6384004
+    "lon": -72.6384004,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "http://www.windsorctcemeteries.org/palisado-cemetery.html"
   },
   {
     "name": "Vintage Radio & Communications Museum of CT",
-    "description": "More than a century of radio history is told in these displays.\u00a0Listen to pop music from throughout the 20th century on a variety of jukeboxes, put on a set of vintage headphones and tune into live radio broadcasts on a period crystal radio, and dial up friends and family using rotary phones and in phone booths. All that and more is ready to be experienced at this museum dedicated to educating the public about the history of electronic communications and the state\u2019s contributions. Proceeding chronologically from the 1850s through the 1970s, the museum chronicles the rise of radio and evolution of communications through a collection of radios, typewriters and industrial equipment, phonographs, televisions, TV studio equipment, telephones, recording studio equipment, and even the first computers. Also explore the rivalries between communications pioneers Thomas Edison and Alexander Graham Bell and, later, Edison and George Westinghouse and Nikola Tesla, by trying out Edison\u2019s early lightbulb designs and a miniature version of Tesla\u2019s renowned coil.",
+    "description": "More than a century of radio history is told in these displays. Listen to pop music from throughout the 20th century on a variety of jukeboxes, put on a set of vintage headphones and tune into live radio broadcasts on a period crystal radio, and dial up friends and family using rotary phones and in phone booths. All that and more is ready to be experienced at this museum dedicated to educating the public about the history of electronic communications and the state's contributions. Proceeding chronologically from the 1850s through the 1970s, the museum chronicles the rise of radio and evolution of communications through a collection of radios, typewriters and industrial equipment, phonographs, televisions, TV studio equipment, telephones, recording studio equipment, and even the first computers. Also explore the rivalries between communications pioneers Thomas Edison and Alexander Graham Bell and, later, Edison and George Westinghouse and Nikola Tesla, by trying out Edison's early lightbulb designs and a miniature version of Tesla's renowned coil.",
     "lat": 41.862927,
-    "lon": -72.6410429
+    "lon": -72.6410429,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.vrcmct.org/"
   },
   {
     "name": "Matianuck Natural Area Preserve",
-    "description": "Sand dunes from a glacial lake are preserved in this woodland park.\u00a0",
+    "description": "Sand dunes from a glacial lake are preserved in this woodland park.",
     "lat": 41.8070627,
-    "lon": -72.6807165
+    "lon": -72.6807165,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "State House Square",
     "description": "site of Isle of Safety : The former location of a platform that allowed passengers to safely wait for the trolley.",
     "lat": 41.7662892,
-    "lon": -72.6723583
+    "lon": -72.6723583,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Connecticut's Old State House",
-    "description": "A wunderkammer hidden on the top floor of the Hartford statehouse.\u00a0<br>\"The place where Connecticut\u2019s democracy was born has seen more than its fair share of hard times. Nearly demolished at least twice in the 20th century, including in the 1970s when it almost faced the wrecking ball to make way for a parking lot, the National Historic Landmark built in 1796 closed last summer due to budget cuts. But the Old State House, which was Connecticut\u2019s original seat of government from 1796 to 1878, is once again open to the public. Stroll through the chambers of the House of Representatives and the Senate, where the Amistad trial began and the 13th Amendment was ratified, and spy an original portrait of George Washington. Resist the urge to take a spin on Mark Twain\u2019s bicycle. Things get a little wacky when you venture upstairs into the Museum of Natural and Other Curiosities, where the walls are lined with rare masks, animal heads and bizarre items such as a \u201cunicorn\u2019s horn\u201d and a two-headed calf.\"",
+    "description": "A wunderkammer hidden on the top floor of the Hartford statehouse. \"The place where Connecticut's democracy was born has seen more than its fair share of hard times. Nearly demolished at least twice in the 20th century, including in the 1970s when it almost faced the wrecking ball to make way for a parking lot, the National Historic Landmark built in 1796 closed last summer due to budget cuts. But the Old State House, which was Connecticut's original seat of government from 1796 to 1878, is once again open to the public. Stroll through the chambers of the House of Representatives and the Senate, where the Amistad trial began and the 13th Amendment was ratified, and spy an original portrait of George Washington. Resist the urge to take a spin on Mark Twain's bicycle. Things get a little wacky when you venture upstairs into the Museum of Natural and Other Curiosities, where the walls are lined with rare masks, animal heads and bizarre items such as a 'unicorn's horn' and a two-headed calf.\"",
     "lat": 41.766026,
-    "lon": -72.6727365
+    "lon": -72.6727365,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://wp.cga.ct.gov/osh/"
   },
   {
     "name": "Ancient Burial Ground",
-    "description": "The oldest place in Hartford is a cemetery with thousands of bodies stacked beneath the grass.\u00a0",
+    "description": "The oldest place in Hartford is a cemetery with thousands of bodies stacked beneath the grass.",
     "lat": 41.7649328,
-    "lon": -72.674467
+    "lon": -72.674467,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Horace Wells Statue",
-    "description": "The tragic tale of the dentist who pioneered the use of anesthesia.\u00a0",
+    "description": "The tragic tale of the dentist who pioneered the use of anesthesia.",
     "lat": 41.764647,
-    "lon": -72.677542
+    "lon": -72.677542,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Statue of Rover",
     "description": "A tribute to the truly loyal dog who waited outside a hospital for his owner to come back. <br>When facing the front entrance to the main Hartford Hospital go to the left side of the entrance. The statue is close to the wall near the windows.",
     "lat": 41.7533384,
-    "lon": -72.680544
+    "lon": -72.680544,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Wadsworth Atheneum Museum of Art",
     "description": "",
     "lat": 41.7637113,
-    "lon": -72.6730855
+    "lon": -72.6730855,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://thewadsworth.org/"
   },
   {
     "name": "The Mark Twain House & Museum",
     "description": "",
     "lat": 41.7670235,
-    "lon": -72.7014493
+    "lon": -72.7014493,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://marktwainhouse.org/"
   },
   {
     "name": "Harriet Beecher Stowe Center",
     "description": "",
     "lat": 41.7668083,
-    "lon": -72.7003833
+    "lon": -72.7003833,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.harrietbeecherstowecenter.org/"
   },
   {
     "name": "Cathedral of Saint Joseph",
-    "description": "This Connecticut chapel is a starkly modern, and surprisingly colorful, architectural rebel.\u00a0\"The original cathedral, with its classical twin Gothic spires, was destroyed by a New Year\u2019s Eve fire in 1956. The church that replaced it \u2014 a 281-foot concrete and limestone edifice with straight lines and hard edges \u2014 would have been unrecognizable to those familiar with the original. But inside is where the beauty truly lies. Even for the non-religious, being surrounded by vividly colored stained-glass friezes towering more than six stories, the sun coursing through, it\u2019s difficult not to feel the influence of a higher power. Look up at a ceiling full of stars. And look forward to the altar, behind which is one of the largest ceramic tile murals in the world\"",
+    "description": "This Connecticut chapel is a starkly modern, and surprisingly colorful, architectural rebel. \"The original cathedral, with its classical twin Gothic spires, was destroyed by a New Year's Eve fire in 1956. The church that replaced it — a 281-foot concrete and limestone edifice with straight lines and hard edges — would have been unrecognizable to those familiar with the original. But inside is where the beauty truly lies. Even for the non-religious, being surrounded by vividly colored stained-glass friezes towering more than six stories, the sun coursing through, it's difficult not to feel the influence of a higher power. Look up at a ceiling full of stars. And look forward to the altar, behind which is one of the largest ceramic tile murals in the world\"",
     "lat": 41.7681382,
-    "lon": -72.692113
+    "lon": -72.692113,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://stjosephcathedral.org/"
   },
   {
     "name": "A. Everett Austin House",
     "description": "This stunning Connecticut mansion is actually just a one-room-deep hoax.",
     "lat": 41.7806743,
-    "lon": -72.7081132
+    "lon": -72.7081132,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Connecticut Museum of Culture and History",
     "description": "",
     "lat": 41.772934,
-    "lon": -72.705277
+    "lon": -72.705277,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://connecticuthistory.org/"
   },
   {
     "name": "Chapel by the sea",
-    "description": "How did the right arm of a 13th-century English bishop wind up in a Connecticut church?\u00a0",
+    "description": "How did the right arm of a 13th-century English bishop wind up in a Connecticut church?",
     "lat": 41.3222994,
-    "lon": -71.9621575
+    "lon": -71.9621575,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Mystic Seaport Museum",
-    "description": "Holding multiple historical boats and an entire 19th century village, this New England attraction is the largest maritime museum in the world.\u00a0",
+    "description": "Holding multiple historical boats and an entire 19th century village, this New England attraction is the largest maritime museum in the world.",
     "lat": 41.3612271,
-    "lon": -71.963923
+    "lon": -71.963923,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://mysticseaport.org/"
   },
   {
     "name": "Gungywamp",
-    "description": "The kind of mixed-up place that drives archaeologists crazy.\u00a0",
+    "description": "The kind of mixed-up place that drives archaeologists crazy.",
     "lat": 41.3902387,
-    "lon": -72.0598435
+    "lon": -72.0598435,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Submarine Force Library & Museum",
-    "description": "The US Navy's only submarine museum is also home to the world's first nuclear submarine.\u00a0",
+    "description": "The US Navy's only submarine museum is also home to the world's first nuclear submarine.",
     "lat": 41.3874555,
-    "lon": -72.086904
+    "lon": -72.086904,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ussnautilus.org/"
   },
   {
     "name": "Seaside Sanatorium",
-    "description": "Ruins of a historic medical facility sits eerily by the water.\u00a0",
+    "description": "Ruins of a historic medical facility sits eerily by the water.",
     "lat": 41.3016687,
-    "lon": -72.1295005
+    "lon": -72.1295005,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "The Book Barn",
-    "description": "With some 500,000 books across five buildings, this bookstore is a reader's paradise.\u00a0",
+    "description": "With some 500,000 books across five buildings, this bookstore is a reader's paradise.",
     "lat": 41.3218375,
-    "lon": -72.2082409
+    "lon": -72.2082409,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://bookbarn.com/"
   },
   {
     "name": "SoNo Switch Tower Museum",
-    "description": "Back in the olden days, railroad traffic was controlled by a tower containing an interlocking machine with a series of mechanical levers. The SoNo Switch Tower was one of them, constructed in 1896 by the New York, New Haven and Hartford Railroad to control switches at the junction between the New Haven Line and the Danbury Branch to move trains from one track to another, which was done by railroad employees. Open weekends, the tower features the state\u2019s only \u201cArmstrong\u201d switch lever machine, so named because you needed to have a strong arm to operate it. Test your strength by throwing the levers, just as the tower operators did for nearly a century.\u00a0",
+    "description": "Back in the olden days, railroad traffic was controlled by a tower containing an interlocking machine with a series of mechanical levers. The SoNo Switch Tower was one of them, constructed in 1896 by the New York, New Haven and Hartford Railroad to control switches at the junction between the New Haven Line and the Danbury Branch to move trains from one track to another, which was done by railroad employees. Open weekends, the tower features the state's only \"Armstrong\" switch lever machine, so named because you needed to have a strong arm to operate it. Test your strength by throwing the levers, just as the tower operators did for nearly a century.",
     "lat": 41.0991053,
-    "lon": -73.4190571
+    "lon": -73.4190571,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://sonoswitch.org/"
   },
   {
-    "name": "Well\u2019s Dinosaur Haven",
-    "description": "A free display of artistic lifesize dinosaur sculptures in a backyard garden.\u00a0",
+    "name": "Well's Dinosaur Haven",
+    "description": "A free display of artistic lifesize dinosaur sculptures in a backyard garden.",
     "lat": 41.4919626,
-    "lon": -72.099976
+    "lon": -72.099976,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "American Clock & Watch Museum",
-    "description": "Thousands of American timepieces on display in the former clock-making capital of the country.\u00a0",
+    "description": "Thousands of American timepieces on display in the former clock-making capital of the country.",
     "lat": 41.6796002,
-    "lon": -72.9407566
+    "lon": -72.9407566,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://clockandwatchmuseum.org/"
   },
   {
     "name": "The Carousel Museum",
-    "description": "A parade of antique steeds offers a quirky ride through history.\u00a0",
+    "description": "A parade of antique steeds offers a quirky ride through history.",
     "lat": 41.6709551,
-    "lon": -72.9394687
+    "lon": -72.9394687,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://thecarouselmuseum.org/"
   },
   {
     "name": "Horseshoe Falls-the Ted Knight bridge",
     "description": "",
     "lat": 41.669918,
-    "lon": -72.9940123
+    "lon": -72.9940123,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Witch's Dungeon Classic Movie Museum",
-    "description": "A seasonal movie monster museum featuring wax creations by a relative of one of the original Universal Studios monsters.\u00a0",
+    "description": "A seasonal movie monster museum featuring wax creations by a relative of one of the original Universal Studios monsters.",
     "lat": 41.6735425,
-    "lon": -72.8626019
+    "lon": -72.8626019,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.witchsdungeon.com/"
   },
   {
     "name": "Shade Swamp",
-    "description": "An abandoned Depression-era zoo hidden just off the highway.\u00a0",
+    "description": "An abandoned Depression-era zoo hidden just off the highway.",
     "lat": 41.7116772,
-    "lon": -72.8530249
+    "lon": -72.8530249,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "PEZ Visitor Center",
-    "description": "The world's largest public collection of PEZ memorabilia.\u00a0",
+    "description": "The world's largest public collection of PEZ memorabilia.",
     "lat": 41.2636473,
-    "lon": -72.9970778
+    "lon": -72.9970778,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://us.pez.com/pages/pez-visitor-center-hours-and-location"
   },
   {
     "name": "Hill-Stead Museum",
     "description": "NHL",
     "lat": 41.7220476,
-    "lon": -72.8205032
+    "lon": -72.8205032,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://hillstead.org/"
   },
   {
     "name": "William Kent Charitable Foundation",
-    "description": "The farmhouse where a reclusive sculptor and printmaker created thousands of works.\u00a0",
+    "description": "The farmhouse where a reclusive sculptor and printmaker created thousands of works.",
     "lat": 41.4468475,
-    "lon": -72.7275527
+    "lon": -72.7275527,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Silvermine Arts Center",
     "description": "",
     "lat": 41.150521,
-    "lon": -73.4503271
+    "lon": -73.4503271,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://silvermineart.org/"
   },
   {
     "name": "Warehouse Point Library",
-    "description": "A replica of fossils believed to be the first scientifically-described dinosaur bones found in North America.\u00a0",
+    "description": "A replica of fossils believed to be the first scientifically-described dinosaur bones found in North America.",
     "lat": 41.9280184,
-    "lon": -72.6186841
+    "lon": -72.6186841,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Silver Sands State Park",
-    "description": "This park is home to a massive bird sanctuary.\u00a02.6-mile stroll on a magical ocean walkway that opens up twice daily (and also disappears twice daily).this hike is closed during the summer",
+    "description": "This park is home to a massive bird sanctuary. 2.6-mile stroll on a magical ocean walkway that opens up twice daily (and also disappears twice daily).this hike is closed during the summer",
     "lat": 41.2003752,
-    "lon": -73.0676551
+    "lon": -73.0676551,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/silver-sands-state-park"
   },
   {
     "name": "Charles Island",
-    "description": "This \"thrice-cursed\" island is allegedly home to Captain Kidd's lost treasure.\u00a0You are not allowed on the Island from May-August due to endangered bird nesting.\u00a0",
+    "description": "This \"thrice-cursed\" island is allegedly home to Captain Kidd's lost treasure. You are not allowed on the Island from May-August due to endangered bird nesting.",
     "lat": 41.19131,
-    "lon": -73.0549165
+    "lon": -73.0549165,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Connecticut Trolley Museum",
     "description": "A preserved trolley track that was transformed into a museum of transportation.",
     "lat": 41.9313889,
-    "lon": -72.5947222
+    "lon": -72.5947222,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ct-trolley.org/"
   },
   {
     "name": "Cogswell Memorial Fountain",
-    "description": "Dr. Henry Cogswell hoped that his elaborate drinking fountains would dissuade people from drinking alcohol.\u00a0",
+    "description": "Dr. Henry Cogswell hoped that his elaborate drinking fountains would dissuade people from drinking alcohol.",
     "lat": 41.8659178,
-    "lon": -72.4496708
+    "lon": -72.4496708,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "John Oliver \"Balls of Steel\" Memorial",
-    "description": "After the comedian dissed a Connecticut town on his show, they named a sewage treatment plant after him.\u00a0",
+    "description": "After the comedian dissed a Connecticut town on his show, they named a sewage treatment plant after him.",
     "lat": 41.4032962,
-    "lon": -73.4228653
+    "lon": -73.4228653,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "HADDAM SHAD MUSEUM",
-    "description": "Springtime is go time for this repurposed shack and the fish it venerates.\u00a0",
+    "description": "Springtime is go time for this repurposed shack and the fish it venerates.",
     "lat": 41.5000325,
-    "lon": -72.5657121
+    "lon": -72.5657121,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Machimoodus State Park",
     "description": "The Connecticut village named for its subterranean thunder.",
     "lat": 41.4975976,
-    "lon": -72.479509
+    "lon": -72.479509,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/machimoodus-state-park"
   },
   {
     "name": "Boothe Memorial Park",
-    "description": "This eclectic homestead is home to a miniature windmill and Connecticut's last tollbooth.\u00a0",
+    "description": "This eclectic homestead is home to a miniature windmill and Connecticut's last tollbooth.",
     "lat": 41.2352088,
-    "lon": -73.1094592
+    "lon": -73.1094592,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.stratfordct.gov/content/153/328/1568/default.aspx"
   },
   {
     "name": "Biology Physics Building",
-    "description": "A giant ant model welcomes visitors to an exhibit about symbiotic organisms that live with army ant colonies.\u00a0",
+    "description": "A giant ant model welcomes visitors to an exhibit about symbiotic organisms that live with army ant colonies.",
     "lat": 41.8101602,
-    "lon": -72.2572034
+    "lon": -72.2572034,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "EEB Biodiversity Education & Research Greenhouses",
-    "description": "An artificial tree in the University of Connecticut greenhouses holds a collection of orchids, mosses, and other tropical epiphytic plants.\u00a0",
+    "description": "An artificial tree in the University of Connecticut greenhouses holds a collection of orchids, mosses, and other tropical epiphytic plants.",
     "lat": 41.8103637,
-    "lon": -72.256167
+    "lon": -72.256167,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Ballard Institute and Museum of Puppetry",
-    "description": "Celebrating an art form with a collection of puppets from all over the world.\u00a0\u00a0",
+    "description": "Celebrating an art form with a collection of puppets from all over the world.",
     "lat": 41.8046613,
-    "lon": -72.2429147
+    "lon": -72.2429147,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://bimp.uconn.edu/"
   },
   {
     "name": "Thread City Crossing",
-    "description": "Public outcry led to this bridge's unique character which celebrates a giant frog battle and also sewing.\u00a0",
+    "description": "Public outcry led to this bridge's unique character which celebrates a giant frog battle and also sewing.",
     "lat": 41.709974,
-    "lon": -72.209541
+    "lon": -72.209541,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Garden on the Bridge",
     "description": "",
     "lat": 41.7094898,
-    "lon": -72.2064111
+    "lon": -72.2064111,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Best Video Film & Cultural Center",
-    "description": "This Connecticut video store has a vast and varied archive that contains everything from 'Koyaanisqatsi' to 'The King's Speech.'\u00a0",
+    "description": "This Connecticut video store has a vast and varied archive that contains everything from 'Koyaanisqatsi' to 'The King's Speech.'",
     "lat": 41.3658246,
-    "lon": -72.9086509
+    "lon": -72.9086509,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://bestvideo.com/"
   },
   {
     "name": "Pirelli Building",
     "description": "After decades of neglect, a brutalist icon is getting new life as an eco-friendly hotel.",
     "lat": 41.296474,
-    "lon": -72.9186954
+    "lon": -72.9186954,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Meriden Traffic Control Tower",
-    "description": "A human attendant once directed car traffic from this structure before automated stoplights.\u00a0",
+    "description": "A human attendant once directed car traffic from this structure before automated stoplights.",
     "lat": 41.5375232,
-    "lon": -72.8027657
+    "lon": -72.8027657,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Ingalls Ice Rink",
-    "description": "It looks like a whale, it's part of Yale, and it's best-known by a nickname you can probably work out for yourself.\u00a0",
+    "description": "It looks like a whale, it's part of Yale, and it's best-known by a nickname you can probably work out for yourself.",
     "lat": 41.3167886,
-    "lon": -72.9250156
+    "lon": -72.9250156,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://bulldogs.yalebulldogs.com/facilities/ingalls-rink/10"
   },
   {
     "name": "Henry Whitfield State Museum",
     "description": "",
     "lat": 41.2780311,
-    "lon": -72.675564
+    "lon": -72.675564,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Henry-Whitfield-State-Museum"
   },
   {
     "name": "The American Museum of Tort Law",
-    "description": "It was founded by Ralph Nader to educate the public about an often-maligned area of law.\u00a0",
+    "description": "It was founded by Ralph Nader to educate the public about an often-maligned area of law.",
     "lat": 41.9236084,
-    "lon": -73.0756151
+    "lon": -73.0756151,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.tortmuseum.org/"
   },
   {
     "name": "Connecticut Air & Space Center",
-    "description": "A humble air museum located in an original World War II aircraft factory.\u00a0<br>\"oused within a former aerospace factory and across the street from Igor I. Sikorsky Memorial Airport, the Connecticut Air & Space Center has the feel of a top-secret site. The property is owned by the federal government. As a result, people under age 18 are not permitted on the site, and all visitors must stop by a security building at 550 Main St. around the corner from the museum, for a quick safety briefing before being allowed access (don\u2019t worry, it\u2019s safe!). Once they get \u201cclearance,\u201d guests are rewarded with an engrossing immersion in Connecticut\u2019s rich aerospace history: Igor Sikorsky developed the helicopter across the street, Charles Lindbergh kept his plane nearby for a time, a line of flying saucer-like planes were briefly planned in Stratford. And, of course, Gustave Whitehead \u2014 at least according to any aviation historians in Connecticut worth their salt \u2014 beat the Wright brothers to the air. This history comes alive thanks to the showstopping restorations of many historic aircraft featured at the center. Last May, the center held a groundbreaking ceremony for the first phase of restoration on the historic Curtiss Hangar, across the street from the center.\"",
+    "description": "A humble air museum located in an original World War II aircraft factory. \"housed within a former aerospace factory and across the street from Igor I. Sikorsky Memorial Airport, the Connecticut Air & Space Center has the feel of a top-secret site. The property is owned by the federal government. As a result, people under age 18 are not permitted on the site, and all visitors must stop by a security building at 550 Main St. around the corner from the museum, for a quick safety briefing before being allowed access (don't worry, it's safe!). Once they get \"clearance,\" guests are rewarded with an engrossing immersion in Connecticut's rich aerospace history: Igor Sikorsky developed the helicopter across the street, Charles Lindbergh kept his plane nearby for a time, a line of flying saucer-like planes were briefly planned in Stratford. And, of course, Gustave Whitehead — at least according to any aviation historians in Connecticut worth their salt — beat the Wright brothers to the air. This history comes alive thanks to the showstopping restorations of many historic aircraft featured at the center. Last May, the center held a groundbreaking ceremony for the first phase of restoration on the historic Curtiss Hangar, across the street from the center.\"",
     "lat": 41.166586,
-    "lon": -73.1226712
+    "lon": -73.1226712,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctairandspace.org/"
   },
   {
     "name": "Davison Art Center, Wesleyan University",
-    "description": "NHL\u00a0This distinctive house was built in the late 1830s in a transitional Greek-Italianate style. It now belongs to Wesleyan University.",
+    "description": "NHL This distinctive house was built in the late 1830s in a transitional Greek-Italianate style. It now belongs to Wesleyan University.",
     "lat": 41.5583379,
-    "lon": -72.655874
+    "lon": -72.655874,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.wesleyan.edu/dac/"
   },
   {
     "name": "The Institute Library",
-    "description": "One of America's oldest private membership libraries was long one of New Haven's best kept secrets.\u00a0",
+    "description": "One of America's oldest private membership libraries was long one of New Haven's best kept secrets.",
     "lat": 41.305933,
-    "lon": -72.925016
+    "lon": -72.925016,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.institutelibrary.org/"
   },
   {
     "name": "Woolsey Hall",
     "description": "Taft Chair: An extra-wide chair built to accommodate the former president's big behind.",
     "lat": 41.3113476,
-    "lon": -72.9260606
+    "lon": -72.9260606,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://music.yale.edu/facilities/woolsey-hall"
   },
   {
     "name": "Connecticut River Museum",
-    "description": "This museum holds a fully-functional replica of the \"Turtle,\" the first American submarine ever built.\u00a0Dedicated to New England\u2019s great river, the museum is housed in an 1878 Steamboat Dock building and along its surrounding docks. Guests can take an \u201cart walk\u201d and trace the river\u2019s 410-mile course from northern New Hampshire to Long Island Sound; climb aboard a replica of the Turtle, the world\u2019s first submarine used during the American Revolution; learn about the 1814 British raid on Essex; follow the historic evolution of steamboats and wooden ships; and even explore the river by sail by booking an afternoon or sunset cruise on the schooner Mary \"E, from June through October\"",
+    "description": "This museum holds a fully-functional replica of the \"Turtle,\" the first American submarine ever built. Dedicated to New England's great river, the museum is housed in an 1878 Steamboat Dock building and along its surrounding docks. Guests can take an \"art walk\" and trace the river's 410-mile course from northern New Hampshire to Long Island Sound; climb aboard a replica of the Turtle, the world's first submarine used during the American Revolution; learn about the 1814 British raid on Essex; follow the historic evolution of steamboats and wooden ships; and even explore the river by sail by booking an afternoon or sunset cruise on the schooner Mary \"E, from June through October\"",
     "lat": 41.3513549,
-    "lon": -72.3847971
+    "lon": -72.3847971,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctrivermuseum.org/"
   },
   {
     "name": "Heublein Tower",
-    "description": "This lovely hilltop tower was specifically built to withstand 100 MPH winds.\u00a0",
+    "description": "This lovely hilltop tower was specifically built to withstand 100 MPH winds.",
     "lat": 41.8258751,
-    "lon": -72.7984675
+    "lon": -72.7984675,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/talcott-mountain-state-park"
   },
   {
     "name": "Dividend Pond And Ruins",
-    "description": "Now home to hardy plants, these sand and gravel dunes once held back a massive prehistoric lake.\u00a0",
+    "description": "Now home to hardy plants, these sand and gravel dunes once held back a massive prehistoric lake.",
     "lat": 41.6468598,
-    "lon": -72.634377
+    "lon": -72.634377,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Nathan Hale Schoolhouse East Haddam",
-    "description": "One of America's first spies started out as a teacher in this little red one-room schoolhouse.\u00a0",
+    "description": "One of America's first spies started out as a teacher in this little red one-room schoolhouse.",
     "lat": 41.455008,
-    "lon": -72.4632365
+    "lon": -72.4632365,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Curioporium",
-    "description": "A journey through a curious collection of oddities and wonder.\u00a0\u00a0",
+    "description": "A journey through a curious collection of oddities and wonder.",
     "lat": 41.7574861,
-    "lon": -72.7022582
+    "lon": -72.7022582,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Tidal Marsh Trail",
-    "description": "A once-booming railroad left abandoned next to the Quinnipiac River marshes now intersects with a hiking trail.\u00a0\u00a0The entrance to the hiking path is behind the Target and easy to find with signs in the area for the Tidal Marsh Trail.",
+    "description": "A once-booming railroad left abandoned next to the Quinnipiac River marshes now intersects with a hiking trail. The entrance to the hiking path is behind the Target and easy to find with signs in the area for the Tidal Marsh Trail.",
     "lat": 41.3492389,
-    "lon": -72.8726048
+    "lon": -72.8726048,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Goodspeed Opera House",
-    "description": "This opera house along the banks of the Connecticut River has two Tony Awards to its credit but it\u2019s never staged a single opera.\u00a0",
+    "description": "This opera house along the banks of the Connecticut River has two Tony Awards to its credit but it's never staged a single opera.",
     "lat": 41.4517886,
-    "lon": -72.4625094
+    "lon": -72.4625094,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://goodspeed.org/"
   },
   {
     "name": "Long Wharf Theatre",
     "description": "",
     "lat": 41.3109133,
-    "lon": -72.9211522
+    "lon": -72.9211522,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://longwharf.org/"
   },
   {
     "name": "Essex Steam Train & Riverboat",
-    "description": "This classic steam-powered train takes tourists on a nostalgic trip around the Connecticut River Valley.\u00a0",
+    "description": "This classic steam-powered train takes tourists on a nostalgic trip around the Connecticut River Valley.",
     "lat": 41.3501474,
-    "lon": -72.4048169
+    "lon": -72.4048169,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://essexsteamtrain.com/"
   },
   {
     "name": "Sleeping Giant Observation Tower",
-    "description": "Amazing views of Long Island Sound can be seen from this mountaintop tower.\u00a0",
+    "description": "Amazing views of Long Island Sound can be seen from this mountaintop tower.",
     "lat": 41.4306228,
-    "lon": -72.8904026
+    "lon": -72.8904026,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/sleeping-giant-state-park"
   },
   {
     "name": "Remington Shot Tower",
     "description": "Connecticut's shot tower is near the end of its life.",
     "lat": 41.1886488,
-    "lon": -73.1741075
+    "lon": -73.1741075,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Lock 12",
-    "description": "This historic park site contains the last remnants of a once bustling canal system.\u00a0",
+    "description": "This historic park site contains the last remnants of a once bustling canal system.",
     "lat": 41.4764009,
-    "lon": -72.9220638
+    "lon": -72.9220638,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Exley Science Center",
-    "description": "A small museum packed with specimens from important fossil sites and minerals from historical pegmatite quarries.\u00a0TUCKED AWAY ON THE FOURTH floor of the Exley Science Center at Wesleyan University, the Joe Webb Peoples Museum is a showcase of geological and natural wonders. Though not much bigger than a large living room, the museum houses enough material for a space 10 times its size.",
+    "description": "A small museum packed with specimens from important fossil sites and minerals from historical pegmatite quarries. TUCKED AWAY ON THE FOURTH floor of the Exley Science Center at Wesleyan University, the Joe Webb Peoples Museum is a showcase of geological and natural wonders. Though not much bigger than a large living room, the museum houses enough material for a space 10 times its size.",
     "lat": 41.5532529,
-    "lon": -72.6573091
+    "lon": -72.6573091,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.wesleyan.edu/earthenv/peoples_museum.html"
   },
   {
     "name": "Danbury Railway Museum",
     "description": "This historic railway museum may have lost its passengers but not its love for trains.",
     "lat": 41.3978426,
-    "lon": -73.450461
+    "lon": -73.450461,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://danburyrail.org/"
   },
   {
     "name": "The Griswold Inn",
-    "description": "British troops and Prohibition couldn\u2019t stop this spot from becoming one of the United States' oldest continuously-run taverns.",
+    "description": "British troops and Prohibition couldn't stop this spot from becoming one of the United States' oldest continuously-run taverns.",
     "lat": 41.3513365,
-    "lon": -72.3869146
+    "lon": -72.3869146,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://griswoldinn.com/"
   },
   {
     "name": "Mine Hill Preserve",
-    "description": "The remnants of a 19th-century ironmaking complex hidden in the woods of Connecticut.\u00a0",
+    "description": "The remnants of a 19th-century ironmaking complex hidden in the woods of Connecticut.",
     "lat": 41.5588033,
-    "lon": -73.337125
+    "lon": -73.337125,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.weantinoge.org/mine-hill-preserve"
   },
   {
     "name": "Harvey Cushing/John Hay Whitney Medical Library at Yale",
-    "description": "A vast collection of rare books, manuscripts & extraordinary objects illustrating the history of medicine.\u00a0",
+    "description": "A vast collection of rare books, manuscripts & extraordinary objects illustrating the history of medicine.",
     "lat": 41.3031844,
-    "lon": -72.933476
+    "lon": -72.933476,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://library.medicine.yale.edu/"
   },
   {
     "name": "Barker Character Comic and Cartoon Museum",
-    "description": "A museum dedicated to antique toys, collectibles, and nostalgia.\u00a0\u00a0",
+    "description": "A museum dedicated to antique toys, collectibles, and nostalgia.",
     "lat": 41.5314304,
-    "lon": -72.8943963
+    "lon": -72.8943963,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://barkermuseum.com/"
   },
   {
     "name": "Judges Cave",
-    "description": "The cave where two British judges hid in exile after sentencing the king to death.\u00a0<br>\"New Haveners will recognize the names Whalley, Dixwell and Goffe for three major roadways in the city. What Elm City residents and others in the state might not know is the incredible story behind the three names, a story that connects New Haven to what, at the time, were earth-shaking political developments. In 1649, during the English Civil War, some 59 British judges signed a writ of execution for Charles I (\u201cregicide\u201d), and three of them \u2014 Edward Whalley, John Dixwell and William Goffe \u2014 fled for the colonies. The three judges hid out on the top of West Rock in what is now called Judges Cave, a rock formation situated along the south end of Regicides Trail, a 7-mile, blue-blazed hiking trail. The cave is still there, with a plaque that tells the story with the quote: \u201cOpposition to tyrants is obedience to God.\u201d\"",
+    "description": "The cave where two British judges hid in exile after sentencing the king to death. \"New Haveners will recognize the names Whalley, Dixwell and Goffe for three major roadways in the city. What Elm City residents and others in the state might not know is the incredible story behind the three names, a story that connects New Haven to what, at the time, were earth-shaking political developments. In 1649, during the English Civil War, some 59 British judges signed a writ of execution for Charles I (\"regicide\"), and three of them — Edward Whalley, John Dixwell and William Goffe — fled for the colonies. The three judges hid out on the top of West Rock in what is now called Judges Cave, a rock formation situated along the south end of Regicides Trail, a 7-mile, blue-blazed hiking trail. The cave is still there, with a plaque that tells the story with the quote: \"Opposition to tyrants is obedience to God.\"\"",
     "lat": 41.3385726,
-    "lon": -72.9666531
+    "lon": -72.9666531,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/west-rock-ridge-state-park"
   },
   {
     "name": "Yale Collection of Musical Instruments",
-    "description": "A quirky assortment of musical marvels from around the world.\u00a0",
+    "description": "A quirky assortment of musical marvels from around the world.",
     "lat": 41.3123779,
-    "lon": -72.9237366
+    "lon": -72.9237366,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://music.yale.edu/about/facilities/yale-collection-musical-instruments"
   },
   {
     "name": "Castle Craig",
-    "description": "A lone tower rises above the cliffs in a city park, offering fantastic views of the Connecticut landscape.\u00a0",
+    "description": "A lone tower rises above the cliffs in a city park, offering fantastic views of the Connecticut landscape.",
     "lat": 41.5566269,
-    "lon": -72.8355342
+    "lon": -72.8355342,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/hubbard-park"
   },
   {
     "name": "Iglesia Ni Cristo - Johnsonville Extension",
-    "description": "This picturesque Victorian ghost town was once a thriving mill community.\u00a0\u00a0Currently, Iglesia ni Cristo does not allow anyone on the property without permission. Since the village is on a public road, taking photos from the road should not be a problem.",
+    "description": "This picturesque Victorian ghost town was once a thriving mill community. Currently, Iglesia ni Cristo does not allow anyone on the property without permission. Since the village is on a public road, taking photos from the road should not be a problem.",
     "lat": 41.495439,
-    "lon": -72.466832
+    "lon": -72.466832,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Abbey of Regina Laudis",
-    "description": "These Benedictine nuns have been making artisanal cheeses since before it was cool.\u00a0",
+    "description": "These Benedictine nuns have been making artisanal cheeses since before it was cool.",
     "lat": 41.6110076,
-    "lon": -73.2091903
+    "lon": -73.2091903,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.abbeyofreginalaudis.org/"
   },
   {
     "name": "Hogpen Hill Farms",
-    "description": "A famed data visualizer's personal sculpture garden is a landscape of modern and megalithic wonders.\u00a0",
+    "description": "A famed data visualizer's personal sculpture garden is a landscape of modern and megalithic wonders.",
     "lat": 41.5749924,
-    "lon": -73.2184906
+    "lon": -73.2184906,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "The Glass House, National Trust for Historic Preservation",
-    "description": "Home of Philip Johnson, one of the 20th century's most influential architects.\u00a0",
+    "description": "Home of Philip Johnson, one of the 20th century's most influential architects.",
     "lat": 41.1464315,
-    "lon": -73.4967888
+    "lon": -73.4967888,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://theglasshouse.org/"
   },
   {
     "name": "Hearthstone Castle",
-    "description": "A castle inspired by medieval architecture is hidden in the woods of Connecticut.\u00a0",
+    "description": "A castle inspired by medieval architecture is hidden in the woods of Connecticut.",
     "lat": 41.3781024,
-    "lon": -73.448487
+    "lon": -73.448487,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Cinestudio",
     "description": "",
     "lat": 41.7473417,
-    "lon": -72.6914474
+    "lon": -72.6914474,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.cinestudio.org/"
   },
   {
     "name": "Artists Collective Inc",
     "description": "",
     "lat": 41.78286,
-    "lon": -72.6963752
+    "lon": -72.6963752,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://artistscollective.org/"
   },
   {
     "name": "East Rock Park",
-    "description": "Panoramic views of the city of New Haven and the Long Island Sound, with a side of history.\u00a0",
+    "description": "Panoramic views of the city of New Haven and the Long Island Sound, with a side of history.",
     "lat": 41.3296405,
-    "lon": -72.9046296
+    "lon": -72.9046296,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/east-rock-park"
   },
   {
     "name": "Supercharged Indoor Karting and Axe Throwing",
     "description": "The world's largest indoor go-kart racetrack is hiding in Connecticut.",
     "lat": 41.4243225,
-    "lon": -72.2113903
+    "lon": -72.2113903,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://superchargedentertainment.com/"
   },
   {
     "name": "Old New-Gate Prison & Copper Mine - Seasonal",
-    "description": "A former copper mine which became a truly unsuccessful prison.\u00a0",
+    "description": "A former copper mine which became a truly unsuccessful prison.",
     "lat": 41.9619773,
-    "lon": -72.7450288
+    "lon": -72.7450288,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Old-New-Gate-Prison-and-Copper-Mine"
   },
   {
     "name": "Center Church On The Green",
-    "description": "137 graves holding New England's earliest residents.\u00a0",
+    "description": "137 graves holding New England's earliest residents.",
     "lat": 41.3078531,
-    "lon": -72.9264414
+    "lon": -72.9264414,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://centerchurchnewhaven.org/"
   },
   {
     "name": "Hygienic Art",
     "description": "",
     "lat": 41.353132,
-    "lon": -72.0947163
+    "lon": -72.0947163,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://hygienicart.org/"
   },
   {
     "name": "The Barnum Museum",
-    "description": "A museum designed by and dedicated to P.T. Barnum in the town where he is buried.\u00a0",
+    "description": "A museum designed by and dedicated to P.T. Barnum in the town where he is buried.",
     "lat": 41.1756635,
-    "lon": -73.1881552
+    "lon": -73.1881552,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://barnummuseum.org/"
   },
   {
     "name": "Dinosaur State Park",
-    "description": "The ancient past meets the retro-future at these dinosaur tracks that are protected by a geodesic dome.\u00a0",
+    "description": "The ancient past meets the retro-future at these dinosaur tracks that are protected by a geodesic dome.",
     "lat": 41.651899,
-    "lon": -72.6568621
+    "lon": -72.6568621,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/dinosaur-state-park"
   },
   {
     "name": "Gay City State Park",
-    "description": "The ruins of an abandoned 18th-century town that is slowly being reclaimed by the forest.\u00a0",
+    "description": "The ruins of an abandoned 18th-century town that is slowly being reclaimed by the forest.",
     "lat": 41.7240442,
-    "lon": -72.4449598
+    "lon": -72.4449598,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/gay-city-state-park"
   },
   {
     "name": "Gillette Castle State Park",
-    "description": "Quirky castle designed by the American actor best known for portraying Sherlock Holmes on stage.\u00a0",
+    "description": "Quirky castle designed by the American actor best known for portraying Sherlock Holmes on stage.",
     "lat": 41.4229825,
-    "lon": -72.4284143
+    "lon": -72.4284143,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctparks.com/parks/gillette-castle-state-park"
   },
   {
     "name": "Yale University Art Gallery",
     "description": "",
     "lat": 41.30839,
-    "lon": -72.930958
+    "lon": -72.930958,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://artgallery.yale.edu/"
   },
   {
     "name": "The Cushing Center",
-    "description": "An archival collection of over 2,200 case studies which includes human brain specimens and tumor specimens.\u00a0",
+    "description": "An archival collection of over 2,200 case studies which includes human brain specimens and tumor specimens.",
     "lat": 41.30323,
-    "lon": -72.9338699
+    "lon": -72.9338699,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://library.medicine.yale.edu/cushing"
   },
   {
     "name": "Abandoned Fairy Village",
-    "description": "A miniature village lies nearly forgotten in the forest by the side of a major highway. <br>This location does not have an address and is both very easy to get to and mildly difficult to access if you are driving there in a car. The closest place to park is Maggie McFly\u2019s (a restaurant). To access the fairy village, find Old Waterbury Road. At the end of this road is an old access road that is now more of an overgrown trail. You cannot drive down the access road, and there are signs saying you cannot park on Old Waterbury Road or risk being towed. They don\u2019t want people parking there to walk to the village.<br><br>While not restricted or illegal, the town doesn\u2019t make it easy to access the area because they are worried about vandalism and misuse. You will need to walk along the service road until you see giant power lines and the highway in front of you. Once you pass under the giant power lines keep to the left going into the woods down a well-walked trail. Depending on the time of year the path is usually pretty visible. Go towards the crumbling main large human-sized hut. On the other side, you will find the cliff throne and some of the best-preserved fairy houses. There are several houses in various states of crumbling ruin scattered throughout the forest, but be careful if you stray from the trails; there is a lot of poison ivy.",
+    "description": "A miniature village lies nearly forgotten in the forest by the side of a major highway. This location does not have an address and is both very easy to get to and mildly difficult to access if you are driving there in a car. The closest place to park is Maggie McFly's (a restaurant). To access the fairy village, find Old Waterbury Road. At the end of this road is an old access road that is now more of an overgrown trail. You cannot drive down the access road, and there are signs saying you cannot park on Old Waterbury Road or risk being towed. They don't want people parking there to walk to the village.<br><br>While not restricted or illegal, the town doesn't make it easy to access the area because they are worried about vandalism and misuse. You will need to walk along the service road until you see giant power lines and the highway in front of you. Once you pass under the giant power lines keep to the left going into the woods down a well-walked trail. Depending on the time of year the path is usually pretty visible. Go towards the crumbling main large human-sized hut. On the other side, you will find the cliff throne and some of the best-preserved fairy houses. There are several houses in various states of crumbling ruin scattered throughout the forest, but be careful if you stray from the trails; there is a lot of poison ivy.",
     "lat": 41.5390714,
-    "lon": -73.0885752
+    "lon": -73.0885752,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Beinecke Rare Book and Manuscript Library",
-    "description": "Yale University's home for rare works, including the mysterious Voynich Manuscript.\u00a0",
+    "description": "Yale University's home for rare works, including the mysterious Voynich Manuscript.",
     "lat": 41.3115681,
-    "lon": -72.9273095
+    "lon": -72.9273095,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://beinecke.library.yale.edu/"
   },
   {
     "name": "Holy Land USA Waterbury",
-    "description": "A religious-themed park filled with folk art to bring biblical stories to life that fell into disrepair and now being restored.\u00a0\u00a0",
+    "description": "A religious-themed park filled with folk art to bring biblical stories to life that fell into disrepair and now being restored.",
     "lat": 41.548744,
-    "lon": -73.0302478
+    "lon": -73.0302478,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Pinchot Sycamore Tree Park",
     "description": "largest tree in CT",
     "lat": 41.8478919,
-    "lon": -72.8066647
+    "lon": -72.8066647,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
   },
   {
     "name": "Coltsville Historic District",
     "description": "",
     "lat": 41.7576522,
-    "lon": -72.6692867
+    "lon": -72.6692867,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.nps.gov/colt/index.htm"
   },
   {
     "name": "Weir Farm National Historical Park",
     "description": "",
     "lat": 41.2576188,
-    "lon": -73.4559584
+    "lon": -73.4559584,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.nps.gov/wefa/index.htm"
   },
   {
     "name": "CT Audubon Birdcraft Museum",
-    "description": "NHL -\u00a0Oldest bird sanctuary in the U.S., where Mabel Osgood Wright originated \"birdscaping\".",
+    "description": "NHL - Oldest bird sanctuary in the U.S., where Mabel Osgood Wright originated \"birdscaping\".",
     "lat": 41.1452623,
-    "lon": -73.2589225
+    "lon": -73.2589225,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://ctaudubon.org/centers/birdcraft-museum-sanctuary/"
   },
   {
     "name": "Roseland Cottage",
