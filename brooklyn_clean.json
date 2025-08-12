@@ -1,0 +1,422 @@
+[
+  {
+    "name": "56 Bogart St",
+    "description": "building full of art galleries",
+    "lat": 40.7057243,
+    "lon": -73.9331652,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "58 Joralemon St",
+    "description": "fake house hiding subway ventilator",
+    "lat": 40.6934007,
+    "lon": -73.9974105,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "7901 Ridge Blvd",
+    "description": "Greek immigrant George Kortsolakis created a topographical map of Crete from found objects",
+    "lat": 40.628993,
+    "lon": -74.0314,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "American Veterans Memorial Pier",
+    "description": "",
+    "lat": 40.6393213,
+    "lon": -74.0376877,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Angel's Fruit Market",
+    "description": "not your average bodega - carries an impressively diverse & large selection of obscure Latin American & European ingredients",
+    "lat": 40.702043,
+    "lon": -73.9245569,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Arlington Place",
+    "description": "where crooklyn was filmed, one of the prettiest blocks in the neighborhood",
+    "lat": 40.6809175,
+    "lon": -73.9511572,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Autonomedia",
+    "description": "",
+    "lat": 40.7077721,
+    "lon": -73.966749,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.autonomedia.org/"
+  },
+  {
+    "name": "BRIC",
+    "description": "",
+    "lat": 40.6886419,
+    "lon": -73.9791298,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.bricartsmedia.org/"
+  },
+  {
+    "name": "Big Sky Works",
+    "description": "",
+    "lat": 40.7230252,
+    "lon": -73.9562924,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Brooklyn Army Terminal",
+    "description": "",
+    "lat": 40.6441587,
+    "lon": -74.0249671,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://brooklynarmyterminal.com/"
+  },
+  {
+    "name": "Brooklyn Women's Exchange Inc",
+    "description": "",
+    "lat": 40.6959876,
+    "lon": -73.9950959,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Brown Memorial Baptist Church",
+    "description": "Tiffany (?) stained glass windows",
+    "lat": 40.684223,
+    "lon": -73.965559,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "CB I Hate Perfume - Olfactory Art Gallery",
+    "description": "",
+    "lat": 40.712045,
+    "lon": -73.936328,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.cbihateperfume.com/"
+  },
+  {
+    "name": "Dead Horse Bay",
+    "description": "",
+    "lat": 40.584376,
+    "lon": -73.8999741,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Empire Stores",
+    "description": "",
+    "lat": 40.7035539,
+    "lon": -73.9916217,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://empireoutlet.nyc/"
+  },
+  {
+    "name": "Flavor Paper",
+    "description": "",
+    "lat": 40.6887464,
+    "lon": -73.9920688,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://flavorpaper.com/"
+  },
+  {
+    "name": "Gowanus Souvenir Shop",
+    "description": "",
+    "lat": 40.6789851,
+    "lon": -73.9866028,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Harbor Defense Museum",
+    "description": "bring passport!",
+    "lat": 40.609084,
+    "lon": -74.032499,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.harbordefensemuseum.com/"
+  },
+  {
+    "name": "Irondale Center",
+    "description": "",
+    "lat": 40.6870381,
+    "lon": -73.9732706,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://irondale.org/"
+  },
+  {
+    "name": "Jalopy Theatre and School of Music",
+    "description": "",
+    "lat": 40.6813194,
+    "lon": -74.0042257,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://jalopy.biz/"
+  },
+  {
+    "name": "Lafayette Avenue Presbyterian Church",
+    "description": "murals; abolitionist church - displays \"Lincoln Shovel\" which Lincoln sent for their groundbreaking",
+    "lat": 40.6870381,
+    "lon": -73.9732706,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.lafayetteave.org/"
+  },
+  {
+    "name": "Low Brow Artique",
+    "description": "",
+    "lat": 40.6996921,
+    "lon": -73.927463,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Luhring Augustine Gallery",
+    "description": "",
+    "lat": 40.707305,
+    "lon": -73.931251,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://luhringaugustine.com/"
+  },
+  {
+    "name": "Melville House Publishing and Bookstore",
+    "description": "",
+    "lat": 40.7043658,
+    "lon": -73.98619,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.mhpbooks.com/"
+  },
+  {
+    "name": "Museum of Contemporary African Diasporan Arts",
+    "description": "",
+    "lat": 40.6851993,
+    "lon": -73.974308,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://mocada.org/"
+  },
+  {
+    "name": "NURTUREart Non-Profit Inc",
+    "description": "",
+    "lat": 40.7058963,
+    "lon": -73.9332806,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.nurtureart.org/"
+  },
+  {
+    "name": "Narrows Botanical Gardens",
+    "description": "",
+    "lat": 40.6372374,
+    "lon": -74.0367631,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://narrowsbg.org/"
+  },
+  {
+    "name": "Norte Maar",
+    "description": "",
+    "lat": 40.684419,
+    "lon": -73.873741,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://nortemaar.org/"
+  },
+  {
+    "name": "Owl's Head Park",
+    "description": "site of never-finished tunnel to Staten Island",
+    "lat": 40.6401377,
+    "lon": -74.0322522,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.nyc.gov/site/parks/parks/owls-head-park.page"
+  },
+  {
+    "name": "POWERHOUSE Arena",
+    "description": "",
+    "lat": 40.7029566,
+    "lon": -73.9888366,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.powerhousearena.com/"
+  },
+  {
+    "name": "Plymouth Church",
+    "description": "NHL church with piece of plymouth rock; underground railroad stop. guided tours sundays at 130",
+    "lat": 40.6991711,
+    "lon": -73.9931456,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "http://www.plymouthchurch.org/"
+  },
+  {
+    "name": "Saint Vitus Bar",
+    "description": "",
+    "lat": 40.7367758,
+    "lon": -73.9551337,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://saintvitusbar.com/"
+  },
+  {
+    "name": "Salt Marsh Nature Center",
+    "description": "",
+    "lat": 40.6040464,
+    "lon": -73.9306319,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page"
+  },
+  {
+    "name": "Sideshows by the Seashore",
+    "description": "",
+    "lat": 40.5752703,
+    "lon": -73.9797856,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.coneyisland.com/"
+  },
+  {
+    "name": "Sistas' Place",
+    "description": "",
+    "lat": 40.6833508,
+    "lon": -73.9503228,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://sistasplace.org/"
+  },
+  {
+    "name": "The Bushwick Starr",
+    "description": "The Bushwick Starr is an award-winning nonprofit theater that has been a home for artists, community and bold new work since 2007. In September 2024, The Bushwick Starr unveiled our new 5,000 sq ft theater—a fully accessible LEED-certified state of the art facility and permanent cultural space for our community, designed by award-winning architectural firm Bureau V Architecture (the studio behind the design of Brooklyn's non-profit music venue National Sawdust). At the new Starr, audiences will enjoy an expanded venue with improved access and comfort, while artists will benefit from larger, functional spaces on-site that support all the ways they work.<br><br>The new lobby brings the Starr's mission to the streets of Brooklyn by welcoming passersby to freely enter throughout the day to an accessible space of community gathering. This space offers a new model for what a lobby space can be: a classroom, screening room, lively gathering space, quiet meeting space—a place where people always feel welcome to meet, mix, connect, and get inspired. Building tours with The Bushwick Starr Co-Founders, Noel Allain and Sue Kessler will be offered on a rolling basis.",
+    "lat": 40.705089,
+    "lon": -73.9234806,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.thebushwickstarr.org/"
+  },
+  {
+    "name": "The Coney Island Museum",
+    "description": "ask to see Topsy's electrocution",
+    "lat": 40.5753293,
+    "lon": -73.979783,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://coneyislandmuseum.org/"
+  },
+  {
+    "name": "The Wyckoff House Museum",
+    "description": "",
+    "lat": 40.6443368,
+    "lon": -73.9207731,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://wyckoffmuseum.org/"
+  },
+  {
+    "name": "Urban Folk Art",
+    "description": "",
+    "lat": 40.6882642,
+    "lon": -73.9892243,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Vandervoort Place",
+    "description": "",
+    "lat": 40.704465,
+    "lon": -73.9304578,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  },
+  {
+    "name": "Weeksville Heritage Center",
+    "description": "",
+    "lat": 40.6739761,
+    "lon": -73.9253119,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": "https://www.weeksvillesociety.org/"
+  },
+  {
+    "name": "keur djembe African Drums Shop",
+    "description": "",
+    "lat": 40.6781264,
+    "lon": -73.9852363,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null
+  }
+]
