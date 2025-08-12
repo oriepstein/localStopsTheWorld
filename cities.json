@@ -47,6 +47,10 @@
     "name": "Sitka",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json"
   },
+   {
+    "name": "Staten Island",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/staten_island_localstops.json"
+  },
  {
   "name": "Sophie's Stops",
   "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc.json"
