@@ -650,16 +650,6 @@
     "url": "https://whisknyc.com/"
   },
   {
-    "name": "Brooklyn Reclamation",
-    "description": "",
-    "lat": 40.7143193,
-    "lon": -73.9594944,
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "url": "https://brooklynreclamation.com/"
-  },
-  {
     "name": "Book Thug Nation",
     "description": "",
     "lat": 40.7165843,
@@ -668,16 +658,6 @@
     "imageURL": null,
     "info": null,
     "url": "https://bookthugnation.com/"
-  },
-  {
-    "name": "Brooklyn Art Library",
-    "description": "",
-    "lat": 40.717305,
-    "lon": -73.9510093,
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "url": "https://brooklynartlibrary.org/"
   },
   {
     "name": "The City Reliquary Museum",
