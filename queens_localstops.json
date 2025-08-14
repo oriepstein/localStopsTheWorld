@@ -408,7 +408,7 @@
     "name": "Han Ma Um Zen Center of New York",
     "lat": 40.770509,
     "lon": -73.8229352,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "A temple belonging to the largest Buddhist order in South Korea nestled in the middle of New York City.",
     "info": null
@@ -489,7 +489,7 @@
     "name": "King Manor Museum",
     "lat": 40.703686,
     "lon": -73.8039934,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "interior landmark",
     "info": null
@@ -588,7 +588,7 @@
     "name": "Louis Armstrong Home Museum",
     "lat": 40.7545794,
     "lon": -73.861519,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "",
     "info": null
@@ -597,7 +597,7 @@
     "name": "Low Cinema",
     "lat": 40.7012171,
     "lon": -73.898538,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "he Theater Is Tiny, the Popcorn Is Fresh and the Crowd Is Devoted. A new micro-cinema draws film buffs to Queens",
     "info": null
@@ -993,7 +993,7 @@
     "name": "The Living Museum",
     "lat": 40.7379118,
     "lon": -73.7294901,
-    "icon": null,
+    "icon": "green",
     "imageURL": null,
     "description": "",
     "info": null
