@@ -1,0 +1,516 @@
+[
+  {
+    "name": "Pomander Walk",
+    "description": "Peek through the gates at this oasis from the city, full of Old English charm.",
+    "lat": 40.7939485,
+    "lon": -73.9733373,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "COSTANTINO NIVOLA'S PLAYGROUND",
+    "description": "A playground the size of a city block is a modernist monument to civic values and public housing.",
+    "lat": 40.7901593,
+    "lon": -73.971448,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park",
+      "monument"
+    ]
+  },
+  {
+    "name": "Wild Bird Fund",
+    "description": "New York City's only wildlife rehabilitation center treats more than 3,000 feathered and furry patients each year.",
+    "lat": 40.7873206,
+    "lon": -73.97132,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "West Side Community Garden",
+    "description": "",
+    "lat": 40.789259,
+    "lon": -73.9718323,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "park"
+    ]
+  },
+  {
+    "name": "Community Meditation Center",
+    "description": "",
+    "lat": 40.7874451,
+    "lon": -73.9712621,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum"
+    ]
+  },
+  {
+    "name": "Bard Graduate Center",
+    "description": "",
+    "lat": 40.7855172,
+    "lon": -73.970608,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum"
+    ]
+  },
+  {
+    "name": "Saint Ignatius of Antioch Episcopal Church",
+    "description": "",
+    "lat": 40.7892565,
+    "lon": -73.9773449,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "name": "Barney Greengrass",
+    "description": "",
+    "lat": 40.7879654,
+    "lon": -73.9745734,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "New-York Historical Society",
+    "description": "Lord Cornbury portrait - odd, unattractive painting of colonial transvestite <br>The New York Historical Society was the first museum ever established in NYC; it opened in 1804. The NYHS has a collection rooted in American history and art, with exhibits on display focusing on Alexander Hamilton, George Washington, the U.S. Constitution, and Abraham Lincoln. The New York Historical Society also dives deeply into New York's role in American history with a close look at how slavery impacted NYC and the surrounding state.<br><br>Highlights<br>Here are some of the \"must see\" items at The New York Historical Society.<br><br>We Rise<br>Mayor George B. McClellan at the controls of the first subway train<br>The Wooden Leg of Gouverneur Morris",
+    "lat": 40.7793487,
+    "lon": -73.9739079,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "art",
+      "historic"
+    ]
+  },
+  {
+    "name": "Henry Bliss Plaque",
+    "description": "A memorial to the first person killed by a motor vehicle in the Western Hemisphere.",
+    "lat": 40.7775321,
+    "lon": -73.9749959,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "monument",
+      "historic"
+    ]
+  },
+  {
+    "name": "Banksy \"Hammer Boy\" Mural",
+    "description": "",
+    "lat": 40.7837592,
+    "lon": -73.979471,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "American Museum of Natural History",
+    "description": "Indian Rhino Diorama - An eerie diorama that captures the majestic nature of a few prehistoric-looking beasts.<br> Asiatic Leopard - One of the most dazzling dioramas at the American Museum of Natural History is also one of the oldest.<br> African Elephants - This magnificent herd of stampeding elephants has been frozen in time for over a century.<br> Scavenger Taxidermy - This morbid scene depicts the Darwinian drama of death on the African savannah.",
+    "lat": 40.7813241,
+    "lon": -73.9739882,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "name": "Septuagesimo Uno",
+    "description": "The name of this tiny pocket park tucked between two buildings on Manhattan's Upper West Side is Latin for its location: \"seventy-one.\"",
+    "lat": 40.7786282,
+    "lon": -73.9843342,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park"
+    ]
+  },
+  {
+    "name": "Nicholas Roerich Museum",
+    "description": "This small New York museum celebrates the mountainous artwork of a Russian mystic.",
+    "lat": 40.802939,
+    "lon": -73.969002,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "name": "Shinran Shonin Statue",
+    "description": "Hiroshima survivor on Riverside Drive.",
+    "lat": 40.8017812,
+    "lon": -73.9703055,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "The New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",
+    "description": "From this desk Al Hirschfeld drew his influential caricatures of the 20th century's Broadway stars.",
+    "lat": 40.7734129,
+    "lon": -73.9847291,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "art",
+      "bookstore"
+    ]
+  },
+  {
+    "name": "Locomotive Lawn",
+    "description": "This diesel train serviced the Brooklyn waterfront for more than three decades. Built on the former site of the New York Central Railroad’s 60th Street Yard, Riverside Park South was once the primary import, export and classification area for Manhattan’s sole all-freight train line for over a century. At this yard, the New York Central Railroad operated bulk cargo piers and transfer bridges, including the extant 69th Street Transfer Bridge and gantry.<br><br>Though the rail yard is no longer active, the landscape architecture of Riverside Park South reflects its history, including an authentic locomotive stationed in the park. Visit the newly-renovated train while learning about the rail history of Manhattan’s West Side from staff from the Riverside Park Conservancy.<br><br>One of the unique features of Riverside Park South is a historic train locomotive — a literal reminder of the site’s history as a former train yard. No. 25 is a 60-year-old, 95-ton engine that most recently labored on the Brooklyn waterfront. Now in its retirement, it is the centerpiece of a plaza at 62nd Street, and a play destination for young and old alike.",
+    "lat": 40.7747774,
+    "lon": -73.9925293,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park",
+      "historic",
+      "neighborhood"
+    ]
+  },
+  {
+    "name": "Time Warner Center",
+    "description": "Two large-scale sculptures of Adam and Eve greet visitors in the nude at the Time Warner Center in NYC.",
+    "lat": 40.7685068,
+    "lon": -73.9831349,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum"
+    ]
+  },
+  {
+    "name": "William J. Syms Operating Theatre",
+    "description": "Once considered the height of medical modernity, this structure is now the oldest remaining component of Roosevelt Hospital.",
+    "lat": 40.7692849,
+    "lon": -73.985195,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "name": "Westsider Rare & Used Books Inc.",
+    "description": "",
+    "lat": 40.7847402,
+    "lon": -73.9790214,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "Apthorp Cleaners",
+    "description": "known for their quirky window displays",
+    "lat": 40.782743,
+    "lon": -73.978317,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "WP Theater",
+    "description": "",
+    "lat": 40.781829,
+    "lon": -73.980575,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "name": "Soldiers' and Sailors' Monument",
+    "description": "",
+    "lat": 40.7919925,
+    "lon": -73.9790084,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "monument"
+    ]
+  },
+  {
+    "name": "Lotus Garden",
+    "description": "only open sunday. Designed by Carrie Maher and Mark Greenwald in 1984 and perched atop the salmon-brick Columbia condo tower’s parking garage, this oasis in the sky features varied flowers, fruit trees, shrubs, and lotus ponds inhabited by schools of fish. The 1/6th-acre paradise, with three feet of dirt underfoot and multiple birds’ nests tucked overhead, is among the city’s oldest rooftop gardens. The Lotus Garden wows people who climb the short flight of stairs with its colorful and fragrant abundance surprisingly wedged between apartment buildings.",
+    "lat": 40.7954107,
+    "lon": -73.9721212,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park",
+      "nature",
+      "art"
+    ]
+  },
+  {
+    "name": "Smoke Jazz & Supper Club",
+    "description": "",
+    "lat": 40.8011101,
+    "lon": -73.9682369,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "Straus Park",
+    "description": "commemorating couple who drowned on Titanic (& founded Macy's)",
+    "lat": 40.8018478,
+    "lon": -73.968187,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park"
+    ]
+  },
+  {
+    "name": "New York Buddhist Church",
+    "description": "services open to all",
+    "lat": 40.8017407,
+    "lon": -73.9702093,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "name": "Grand Bazaar NYC",
+    "description": "",
+    "lat": 40.7810761,
+    "lon": -73.9778513,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "2100 Broadway",
+    "description": "landmarked interior",
+    "lat": 40.7797191,
+    "lon": -73.9812476,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "253 W 73rd St",
+    "description": "used to be Levelrs Club, america's first Masonic hotel, and building is dripping with freemason symbolism. well-preserved ornate lobby",
+    "lat": 40.780245,
+    "lon": -73.9827963,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "The Pythian",
+    "description": "interesting architecture & onetime home to Lady Gaga",
+    "lat": 40.7768499,
+    "lon": -73.9810287,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "Jupiter Symphony",
+    "description": "",
+    "lat": 40.7761128,
+    "lon": -73.9827974,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "American Folk Art Museum",
+    "description": "",
+    "lat": 40.7732389,
+    "lon": -73.9814889,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "name": "Beacon Theatre",
+    "description": "landmarked interior",
+    "lat": 40.7805136,
+    "lon": -73.9810847,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "name": "Apple Bank",
+    "description": "landmarked interior",
+    "lat": 40.779576,
+    "lon": -73.981434,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "David H. Koch Theater",
+    "description": "",
+    "lat": 40.7718737,
+    "lon": -73.9836184,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "theater"
+    ]
+  },
+  {
+    "name": "Waterline Square Park",
+    "description": "",
+    "lat": 40.7733654,
+    "lon": -73.9915426,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park"
+    ]
+  },
+  {
+    "name": "Private Passage Sculpture",
+    "description": "Wine bottle sculpture with a ship's stateroom inside.",
+    "lat": 40.7709886,
+    "lon": -73.9953379,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "Verdi Square",
+    "description": "NYC scenic landmark",
+    "lat": 40.7791345,
+    "lon": -73.9817066,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": []
+  },
+  {
+    "name": "Clinton Cove at Hudson River Park",
+    "description": "Throughout the Park’s four-mile-length, “upland” areas connect the many piers. In a couple of fortunate areas, the distance between the water and the adjacent roadway widens, creating larger areas for open space in the process. One such area is known as Clinton Cove, featuring a sweeping green lawn, a boathouse offering free kayaking run by volunteers and a “get-down” where visitors can get close to the water",
+    "lat": 40.7705938,
+    "lon": -73.9953839,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park"
+    ]
+  },
+  {
+    "name": "Manhattan Community Boathouse - Pier 96",
+    "description": "",
+    "lat": 40.7711808,
+    "lon": -73.9955269,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "park"
+    ]
+  }
+]
