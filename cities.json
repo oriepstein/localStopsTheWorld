@@ -7,18 +7,17 @@
   {
     "name": "Brooklyn",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json",
-    "imageURL": "https://images.unsplash.com/photo-1573261658953-8b29e144d1af?w=800&h=600&fit=crop&crop=center
-"
+    "imageURL": "https://images.unsplash.com/photo-1573261658953-8b29e144d1af?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Denver",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/colorado_denver.json",
-    "imageURL": "https://images.unsplash.com/photo-1616474632177-aefa7a4fbb1f?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "imageURL": "https://images.unsplash.com/photo-1616474632177-aefa7a4fbb1f?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Bronx",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/bronx_localstops.json",
-    "imageURL": "https://images.unsplash.com/photo-1560832123-cd25faf79a0e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "imageURL": "https://images.unsplash.com/photo-1560832123-cd25faf79a0e?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Downtown Manhattan",
@@ -63,8 +62,7 @@
   {
     "name": "Sitka",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json",
-    "imageURL": "https://images.unsplash.com/photo-1711841625614-169f1ad7b37d?w=800&h=600&fit=crop&crop=center
-"
+    "imageURL": "https://images.unsplash.com/photo-1711841625614-169f1ad7b37d?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Staten Island",
