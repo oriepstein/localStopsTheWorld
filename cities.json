@@ -22,7 +22,7 @@
   {
     "name": "Downtown Manhattan",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json",
-    "imageURL": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=600&fit=crop&crop=center"
+    "imageURL": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/images/Downtown%20Manhattam.jpg"
   },
   {
     "name": "Lower Manhattan",
