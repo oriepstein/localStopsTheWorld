@@ -7,7 +7,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "http://www.windsorctcemeteries.org/palisado-cemetery.html"
+    "url": "http://www.windsorctcemeteries.org/palisado-cemetery.html",
+    "categories": ["historic"]
   },
   {
     "name": "Vintage Radio & Communications Museum of CT",
@@ -17,7 +18,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.vrcmct.org/"
+    "url": "https://www.vrcmct.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Matianuck Natural Area Preserve",
@@ -27,7 +29,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "State House Square",
@@ -37,7 +40,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Connecticut's Old State House",
@@ -47,7 +51,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://wp.cga.ct.gov/osh/"
+    "url": "https://wp.cga.ct.gov/osh/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Ancient Burial Ground",
@@ -57,7 +62,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "Horace Wells Statue",
@@ -67,7 +73,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["monument", "historic"]
   },
   {
     "name": "Statue of Rover",
@@ -77,7 +84,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["monument"]
   },
   {
     "name": "Wadsworth Atheneum Museum of Art",
@@ -87,7 +95,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://thewadsworth.org/"
+    "url": "https://thewadsworth.org/",
+    "categories": ["museum", "art"]
   },
   {
     "name": "The Mark Twain House & Museum",
@@ -97,7 +106,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://marktwainhouse.org/"
+    "url": "https://marktwainhouse.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Harriet Beecher Stowe Center",
@@ -107,7 +117,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.harrietbeecherstowecenter.org/"
+    "url": "https://www.harrietbeecherstowecenter.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Cathedral of Saint Joseph",
@@ -117,7 +128,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://stjosephcathedral.org/"
+    "url": "https://stjosephcathedral.org/",
+    "categories": ["religious", "art"]
   },
   {
     "name": "A. Everett Austin House",
@@ -127,7 +139,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "Connecticut Museum of Culture and History",
@@ -137,7 +150,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://connecticuthistory.org/"
+    "url": "https://connecticuthistory.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Chapel by the sea",
@@ -147,7 +161,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Mystic Seaport Museum",
@@ -157,7 +172,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://mysticseaport.org/"
+    "url": "https://mysticseaport.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Gungywamp",
@@ -167,7 +183,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "nature"]
   },
   {
     "name": "Submarine Force Library & Museum",
@@ -177,7 +194,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ussnautilus.org/"
+    "url": "https://ussnautilus.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Seaside Sanatorium",
@@ -187,7 +205,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "nature"]
   },
   {
     "name": "The Book Barn",
@@ -197,7 +216,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://bookbarn.com/"
+    "url": "https://bookbarn.com/",
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "SoNo Switch Tower Museum",
@@ -207,7 +227,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://sonoswitch.org/"
+    "url": "https://sonoswitch.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Well's Dinosaur Haven",
@@ -217,7 +238,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "entertainment"]
   },
   {
     "name": "American Clock & Watch Museum",
@@ -227,7 +249,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://clockandwatchmuseum.org/"
+    "url": "https://clockandwatchmuseum.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "The Carousel Museum",
@@ -237,7 +260,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://thecarouselmuseum.org/"
+    "url": "https://thecarouselmuseum.org/",
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Horseshoe Falls-the Ted Knight bridge",
@@ -247,7 +271,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Witch's Dungeon Classic Movie Museum",
@@ -257,7 +282,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.witchsdungeon.com/"
+    "url": "https://www.witchsdungeon.com/",
+    "categories": ["museum", "entertainment", "cinema"]
   },
   {
     "name": "Shade Swamp",
@@ -267,7 +293,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "nature"]
   },
   {
     "name": "PEZ Visitor Center",
@@ -277,7 +304,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://us.pez.com/pages/pez-visitor-center-hours-and-location"
+    "url": "https://us.pez.com/pages/pez-visitor-center-hours-and-location",
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Hill-Stead Museum",
@@ -287,7 +315,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://hillstead.org/"
+    "url": "https://hillstead.org/",
+    "categories": ["museum", "art", "historic"]
   },
   {
     "name": "William Kent Charitable Foundation",
@@ -297,7 +326,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "historic"]
   },
   {
     "name": "Silvermine Arts Center",
@@ -307,7 +337,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://silvermineart.org/"
+    "url": "https://silvermineart.org/",
+    "categories": ["art", "gallery"]
   },
   {
     "name": "Warehouse Point Library",
@@ -317,7 +348,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Silver Sands State Park",
@@ -327,7 +359,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/silver-sands-state-park"
+    "url": "https://ctparks.com/parks/silver-sands-state-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Charles Island",
@@ -337,7 +370,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "historic"]
   },
   {
     "name": "Connecticut Trolley Museum",
@@ -347,7 +381,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ct-trolley.org/"
+    "url": "https://ct-trolley.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Cogswell Memorial Fountain",
@@ -357,7 +392,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["monument", "historic"]
   },
   {
     "name": "John Oliver \"Balls of Steel\" Memorial",
@@ -367,7 +403,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["monument", "entertainment"]
   },
   {
     "name": "HADDAM SHAD MUSEUM",
@@ -377,7 +414,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["museum", "nature"]
   },
   {
     "name": "Machimoodus State Park",
@@ -387,7 +425,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/machimoodus-state-park"
+    "url": "https://ctparks.com/parks/machimoodus-state-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Boothe Memorial Park",
@@ -397,7 +436,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.stratfordct.gov/content/153/328/1568/default.aspx"
+    "url": "https://www.stratfordct.gov/content/153/328/1568/default.aspx",
+    "categories": ["park", "historic"]
   },
   {
     "name": "Biology Physics Building",
@@ -407,7 +447,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["museum", "art"]
   },
   {
     "name": "EEB Biodiversity Education & Research Greenhouses",
@@ -417,7 +458,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "museum"]
   },
   {
     "name": "Ballard Institute and Museum of Puppetry",
@@ -427,7 +469,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://bimp.uconn.edu/"
+    "url": "https://bimp.uconn.edu/",
+    "categories": ["museum", "art", "theater"]
   },
   {
     "name": "Thread City Crossing",
@@ -437,7 +480,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "historic"]
   },
   {
     "name": "Garden on the Bridge",
@@ -447,7 +491,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Best Video Film & Cultural Center",
@@ -457,7 +502,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://bestvideo.com/"
+    "url": "https://bestvideo.com/",
+    "categories": ["cinema", "entertainment"]
   },
   {
     "name": "Pirelli Building",
@@ -467,7 +513,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Meriden Traffic Control Tower",
@@ -477,7 +524,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "monument"]
   },
   {
     "name": "Ingalls Ice Rink",
@@ -487,7 +535,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://bulldogs.yalebulldogs.com/facilities/ingalls-rink/10"
+    "url": "https://bulldogs.yalebulldogs.com/facilities/ingalls-rink/10",
+    "categories": ["entertainment", "art"]
   },
   {
     "name": "Henry Whitfield State Museum",
@@ -497,7 +546,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Henry-Whitfield-State-Museum"
+    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Henry-Whitfield-State-Museum",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "The American Museum of Tort Law",
@@ -507,7 +557,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.tortmuseum.org/"
+    "url": "https://www.tortmuseum.org/",
+    "categories": ["museum"]
   },
   {
     "name": "Connecticut Air & Space Center",
@@ -517,7 +568,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctairandspace.org/"
+    "url": "https://ctairandspace.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Davison Art Center, Wesleyan University",
@@ -527,7 +579,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.wesleyan.edu/dac/"
+    "url": "https://www.wesleyan.edu/dac/",
+    "categories": ["art", "gallery", "historic"]
   },
   {
     "name": "The Institute Library",
@@ -537,7 +590,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.institutelibrary.org/"
+    "url": "https://www.institutelibrary.org/",
+    "categories": ["bookstore", "historic"]
   },
   {
     "name": "Woolsey Hall",
@@ -547,7 +601,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://music.yale.edu/facilities/woolsey-hall"
+    "url": "https://music.yale.edu/facilities/woolsey-hall",
+    "categories": ["music", "historic"]
   },
   {
     "name": "Connecticut River Museum",
@@ -557,7 +612,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctrivermuseum.org/"
+    "url": "https://ctrivermuseum.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Heublein Tower",
@@ -567,7 +623,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/talcott-mountain-state-park"
+    "url": "https://ctparks.com/parks/talcott-mountain-state-park",
+    "categories": ["historic", "park"]
   },
   {
     "name": "Dividend Pond And Ruins",
@@ -577,7 +634,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "historic"]
   },
   {
     "name": "Nathan Hale Schoolhouse East Haddam",
@@ -587,7 +645,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Curioporium",
@@ -597,7 +656,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Tidal Marsh Trail",
@@ -607,7 +667,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "historic"]
   },
   {
     "name": "Goodspeed Opera House",
@@ -617,7 +678,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://goodspeed.org/"
+    "url": "https://goodspeed.org/",
+    "categories": ["theater", "music"]
   },
   {
     "name": "Long Wharf Theatre",
@@ -627,7 +689,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://longwharf.org/"
+    "url": "https://longwharf.org/",
+    "categories": ["theater"]
   },
   {
     "name": "Essex Steam Train & Riverboat",
@@ -637,7 +700,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://essexsteamtrain.com/"
+    "url": "https://essexsteamtrain.com/",
+    "categories": ["entertainment", "historic"]
   },
   {
     "name": "Sleeping Giant Observation Tower",
@@ -647,7 +711,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/sleeping-giant-state-park"
+    "url": "https://ctparks.com/parks/sleeping-giant-state-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Remington Shot Tower",
@@ -657,7 +722,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "monument"]
   },
   {
     "name": "Lock 12",
@@ -667,7 +733,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "park"]
   },
   {
     "name": "Exley Science Center",
@@ -677,7 +744,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.wesleyan.edu/earthenv/peoples_museum.html"
+    "url": "https://www.wesleyan.edu/earthenv/peoples_museum.html",
+    "categories": ["museum", "nature"]
   },
   {
     "name": "Danbury Railway Museum",
@@ -687,7 +755,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://danburyrail.org/"
+    "url": "https://danburyrail.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "The Griswold Inn",
@@ -697,7 +766,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://griswoldinn.com/"
+    "url": "https://griswoldinn.com/",
+    "categories": ["food", "historic"]
   },
   {
     "name": "Mine Hill Preserve",
@@ -707,7 +777,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.weantinoge.org/mine-hill-preserve"
+    "url": "https://www.weantinoge.org/mine-hill-preserve",
+    "categories": ["historic", "nature"]
   },
   {
     "name": "Harvey Cushing/John Hay Whitney Medical Library at Yale",
@@ -717,7 +788,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://library.medicine.yale.edu/"
+    "url": "https://library.medicine.yale.edu/",
+    "categories": ["bookstore", "museum", "historic"]
   },
   {
     "name": "Barker Character Comic and Cartoon Museum",
@@ -727,7 +799,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://barkermuseum.com/"
+    "url": "https://barkermuseum.com/",
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Judges Cave",
@@ -737,7 +810,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/west-rock-ridge-state-park"
+    "url": "https://ctparks.com/parks/west-rock-ridge-state-park",
+    "categories": ["historic", "nature"]
   },
   {
     "name": "Yale Collection of Musical Instruments",
@@ -747,7 +821,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://music.yale.edu/about/facilities/yale-collection-musical-instruments"
+    "url": "https://music.yale.edu/about/facilities/yale-collection-musical-instruments",
+    "categories": ["museum", "music"]
   },
   {
     "name": "Castle Craig",
@@ -757,7 +832,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/hubbard-park"
+    "url": "https://ctparks.com/parks/hubbard-park",
+    "categories": ["monument", "park"]
   },
   {
     "name": "Iglesia Ni Cristo - Johnsonville Extension",
@@ -767,7 +843,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Abbey of Regina Laudis",
@@ -777,7 +854,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.abbeyofreginalaudis.org/"
+    "url": "https://www.abbeyofreginalaudis.org/",
+    "categories": ["religious", "food"]
   },
   {
     "name": "Hogpen Hill Farms",
@@ -787,7 +865,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "nature"]
   },
   {
     "name": "The Glass House, National Trust for Historic Preservation",
@@ -797,7 +876,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://theglasshouse.org/"
+    "url": "https://theglasshouse.org/",
+    "categories": ["art", "historic"]
   },
   {
     "name": "Hearthstone Castle",
@@ -807,7 +887,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Cinestudio",
@@ -817,7 +898,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.cinestudio.org/"
+    "url": "https://www.cinestudio.org/",
+    "categories": ["cinema", "entertainment"]
   },
   {
     "name": "Artists Collective Inc",
@@ -827,7 +909,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://artistscollective.org/"
+    "url": "https://artistscollective.org/",
+    "categories": ["art", "music"]
   },
   {
     "name": "East Rock Park",
@@ -837,7 +920,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/east-rock-park"
+    "url": "https://ctparks.com/parks/east-rock-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Supercharged Indoor Karting and Axe Throwing",
@@ -847,7 +931,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://superchargedentertainment.com/"
+    "url": "https://superchargedentertainment.com/",
+    "categories": ["entertainment"]
   },
   {
     "name": "Old New-Gate Prison & Copper Mine - Seasonal",
@@ -857,7 +942,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Old-New-Gate-Prison-and-Copper-Mine"
+    "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Old-New-Gate-Prison-and-Copper-Mine",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Center Church On The Green",
@@ -867,7 +953,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://centerchurchnewhaven.org/"
+    "url": "https://centerchurchnewhaven.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Hygienic Art",
@@ -877,7 +964,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://hygienicart.org/"
+    "url": "https://hygienicart.org/",
+    "categories": ["art", "gallery"]
   },
   {
     "name": "The Barnum Museum",
@@ -887,7 +975,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://barnummuseum.org/"
+    "url": "https://barnummuseum.org/",
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Dinosaur State Park",
@@ -897,7 +986,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/dinosaur-state-park"
+    "url": "https://ctparks.com/parks/dinosaur-state-park",
+    "categories": ["park", "museum", "nature"]
   },
   {
     "name": "Gay City State Park",
@@ -907,7 +997,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/gay-city-state-park"
+    "url": "https://ctparks.com/parks/gay-city-state-park",
+    "categories": ["park", "historic", "nature"]
   },
   {
     "name": "Gillette Castle State Park",
@@ -917,7 +1008,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctparks.com/parks/gillette-castle-state-park"
+    "url": "https://ctparks.com/parks/gillette-castle-state-park",
+    "categories": ["park", "historic", "theater"]
   },
   {
     "name": "Yale University Art Gallery",
@@ -927,7 +1019,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://artgallery.yale.edu/"
+    "url": "https://artgallery.yale.edu/",
+    "categories": ["museum", "art", "gallery"]
   },
   {
     "name": "The Cushing Center",
@@ -937,7 +1030,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://library.medicine.yale.edu/cushing"
+    "url": "https://library.medicine.yale.edu/cushing",
+    "categories": ["museum"]
   },
   {
     "name": "Abandoned Fairy Village",
@@ -947,7 +1041,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "nature", "entertainment"]
   },
   {
     "name": "Beinecke Rare Book and Manuscript Library",
@@ -957,7 +1052,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://beinecke.library.yale.edu/"
+    "url": "https://beinecke.library.yale.edu/",
+    "categories": ["bookstore", "museum", "historic"]
   },
   {
     "name": "Holy Land USA Waterbury",
@@ -967,7 +1063,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["religious", "art", "historic"]
   },
   {
     "name": "Pinchot Sycamore Tree Park",
@@ -977,7 +1074,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Coltsville Historic District",
@@ -987,7 +1085,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.nps.gov/colt/index.htm"
+    "url": "https://www.nps.gov/colt/index.htm",
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Weir Farm National Historical Park",
@@ -997,7 +1096,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://www.nps.gov/wefa/index.htm"
+    "url": "https://www.nps.gov/wefa/index.htm",
+    "categories": ["art", "historic", "park"]
   },
   {
     "name": "CT Audubon Birdcraft Museum",
@@ -1007,210 +1107,381 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": "https://ctaudubon.org/centers/birdcraft-museum-sanctuary/"
+    "url": "https://ctaudubon.org/centers/birdcraft-museum-sanctuary/",
+    "categories": ["museum", "nature", "historic"]
   },
-   {
+  {
     "name": "OrchardWorks Magic Wands",
     "description": "",
     "lat": 41.9545994,
-    "lon": -72.302402
+    "lon": -72.302402,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "entertainment"]
   },
   {
     "name": "Bulls Covered Bridge",
-    "description": "Take a look back in time while walking under the single-lane vehicular wooden covered bridge in Kent. While the current Bulls Bridge was constructed in 1842 from timber, the first instance of a bridge at the location over the Housatonic River was built back in 1760. It\u2019s only one of three surviving covered bridges in the state.",
+    "description": "Take a look back in time while walking under the single-lane vehicular wooden covered bridge in Kent. While the current Bulls Bridge was constructed in 1842 from timber, the first instance of a bridge at the location over the Housatonic River was built back in 1760. It's only one of three surviving covered bridges in the state.",
     "lat": 41.6757422,
-    "lon": -73.5094437
+    "lon": -73.5094437,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "High Rollers Luxury Lanes & Sports Lounge",
     "description": "",
     "lat": 41.4741885,
-    "lon": -71.9613885
+    "lon": -71.9613885,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["entertainment"]
   },
   {
     "name": "The Brewery at Maple View Farm",
     "description": "",
     "lat": 41.9443118,
-    "lon": -72.7899409
+    "lon": -72.7899409,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["brewery", "food"]
   },
   {
     "name": "Terrain",
     "description": "",
     "lat": 41.1394856,
-    "lon": -73.3458731
+    "lon": -73.3458731,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "nature"]
   },
   {
     "name": "Mashantucket Pequot Museum & Research Center",
     "description": "",
     "lat": 41.46619,
-    "lon": -71.962659
+    "lon": -71.962659,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Bunker Hill Trailhead Parking",
-    "description": "Lions Head Trail -\u00a0Short-and-sweet 2.1-mile hike to an awesome rocky outcropping with an even more awesome view",
+    "description": "Lions Head Trail - Short-and-sweet 2.1-mile hike to an awesome rocky outcropping with an even more awesome view",
     "lat": 41.9987681,
-    "lon": -73.4379008
+    "lon": -73.4379008,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "MoCA CT",
-    "description": "Devoted to contemporary art, MoCA showcases an impressive mix of local and international artists, all in the service of building a deeper understanding of creative expression. A permanent exhibition by the late Westport artist Ann Weiner, When Caged Birds Sing, features eight life-size sculptures representing current women\u2019s rights activists",
+    "description": "Devoted to contemporary art, MoCA showcases an impressive mix of local and international artists, all in the service of building a deeper understanding of creative expression. A permanent exhibition by the late Westport artist Ann Weiner, When Caged Birds Sing, features eight life-size sculptures representing current women's rights activists",
     "lat": 41.1594822,
-    "lon": -73.3882218
+    "lon": -73.3882218,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "gallery"]
   },
   {
     "name": "Eric Sloane Museum",
-    "description": "This museum covers a lot of ground, as it\u2019s devoted to an artist, author and illustrator of books who also assembled an extensive collection of hand tools and Americana. The tools are displayed in a building given to the state in 1969 by Stanley Works. Sloane\u2019s studio tells the story of his career as an artist, during which he painted landscapes inspired by the Hudson River School, and later, New England culture and Colonial life. Examples of his art are displayed in the adjacent gallery. Sloane built a pioneer cabin next to the museum, and the Kent Iron Furnace, which operated from 1826 into the 1890s, is also on the property.\u00a0",
+    "description": "This museum covers a lot of ground, as it's devoted to an artist, author and illustrator of books who also assembled an extensive collection of hand tools and Americana. The tools are displayed in a building given to the state in 1969 by Stanley Works. Sloane's studio tells the story of his career as an artist, during which he painted landscapes inspired by the Hudson River School, and later, New England culture and Colonial life. Examples of his art are displayed in the adjacent gallery. Sloane built a pioneer cabin next to the museum, and the Kent Iron Furnace, which operated from 1826 into the 1890s, is also on the property.",
     "lat": 41.738615,
-    "lon": -73.4693575
+    "lon": -73.4693575,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "historic"]
   },
   {
     "name": "Housatonic Museum of Art",
-    "description": "Located at Housatonic Community College, this museum, spanning the history of art and on continuous display in the 300,000-square-foot building, contains works by big names such as Christo, David Hare, Leonard Baskin, Wayne Thiebaud, Ernest Briggs, Anne Arnold, Theodore Robinson, Cleve Gray, Jeff Koons, Cindy Sherman and Jenny Holzer, among others. The collection also includes African and Native American arts and artifacts.\u00a0",
+    "description": "Located at Housatonic Community College, this museum, spanning the history of art and on continuous display in the 300,000-square-foot building, contains works by big names such as Christo, David Hare, Leonard Baskin, Wayne Thiebaud, Ernest Briggs, Anne Arnold, Theodore Robinson, Cleve Gray, Jeff Koons, Cindy Sherman and Jenny Holzer, among others. The collection also includes African and Native American arts and artifacts.",
     "lat": 41.1744542,
-    "lon": -73.1912881
+    "lon": -73.1912881,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "gallery"]
   },
   {
     "name": "William Benton Museum of Art",
-    "description": "Connecticut\u2019s official state art museum, the William Benton Museum of Art on the UConn Storrs campus has been renovated and expanded since its days as a modest operation located in a historic dining hall called The Beanery.",
+    "description": "Connecticut's official state art museum, the William Benton Museum of Art on the UConn Storrs campus has been renovated and expanded since its days as a modest operation located in a historic dining hall called The Beanery.",
     "lat": 41.8085399,
-    "lon": -72.2528032
+    "lon": -72.2528032,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "gallery"]
   },
   {
     "name": "Tapping Reeve House and Law School",
-    "description": "Two vice presidents, 28 U.S. senators, 101 members of the House, six cabinet members, and three U.S. Supreme Court justices were among the leaders educated at the nation\u2019s first law school in Litchfield, opened by lawyer and judge Tapping Reeve in 1784. Visitors experience the 19th-century life of legal students, as well as students of the Litchfield Female Academy, through role-playing, hands-on areas, and interpretive exhibits. The Tapping Reeve Meadow out back, with its arbors and Adirondack chairs, is a haven where the Scarecrows in the Meadow display each fall is a smash hit.\u00a0",
+    "description": "Two vice presidents, 28 U.S. senators, 101 members of the House, six cabinet members, and three U.S. Supreme Court justices were among the leaders educated at the nation's first law school in Litchfield, opened by lawyer and judge Tapping Reeve in 1784. Visitors experience the 19th-century life of legal students, as well as students of the Litchfield Female Academy, through role-playing, hands-on areas, and interpretive exhibits. The Tapping Reeve Meadow out back, with its arbors and Adirondack chairs, is a haven where the Scarecrows in the Meadow display each fall is a smash hit.",
     "lat": 41.74374,
-    "lon": -73.188397
+    "lon": -73.188397,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Museum of Connecticut History",
-    "description": "Exhibits focus on the state\u2019s government, military and industrial history, its growth and its role in the development of the nation from the Colonial era to the present. But don\u2019t think the museum is boring. The Colt\u2019s Patent Firearms Manufacturing Co. collection includes the original Rampant Colt statue that sat atop the Hartford Colt factory, as well as a Colt-made Gatling gun. Fun fact: The museum has more than 50 vintage Connecticut-made toasters in its collection.\u00a0",
+    "description": "Exhibits focus on the state's government, military and industrial history, its growth and its role in the development of the nation from the Colonial era to the present. But don't think the museum is boring. The Colt's Patent Firearms Manufacturing Co. collection includes the original Rampant Colt statue that sat atop the Hartford Colt factory, as well as a Colt-made Gatling gun. Fun fact: The museum has more than 50 vintage Connecticut-made toasters in its collection.",
     "lat": 41.7626535,
-    "lon": -72.6830364
+    "lon": -72.6830364,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "New England Civil War Museum",
-    "description": "Housed within an original Grand Army of the Republic meeting hall \u2014 it\u2019s the country\u2019s oldest continuously run GAR hall \u2014 the museum has one-of-a-kind artifacts including weapons, personal items and memorabilia from the Civil War, with an emphasis on Connecticut\u2019s contributions. With hundreds of books and periodicals in its library, the museum, founded in 1896 but not officially opened to the public as a museum until 1994, is a prime spot for research related to the Civil War and the Union Army.\u00a0",
+    "description": "Housed within an original Grand Army of the Republic meeting hall — it's the country's oldest continuously run GAR hall — the museum has one-of-a-kind artifacts including weapons, personal items and memorabilia from the Civil War, with an emphasis on Connecticut's contributions. With hundreds of books and periodicals in its library, the museum, founded in 1896 but not officially opened to the public as a museum until 1994, is a prime spot for research related to the Civil War and the Union Army.",
     "lat": 41.8676152,
-    "lon": -72.4486689
+    "lon": -72.4486689,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Ruby & Calvin Fletcher African American History Museum",
-    "description": "The artifacts of oppression on display here can be shocking to see in person. But they also inform, reflecting the African American experience in the U.S. from slavery and the Civil War through the civil rights movement. The \u201cup close and personal\u201d viewpoint of the relatively new museum (it opened in 2021) stresses teachings of tolerance, diversity, unity and educating people that there was a time when imagery played a significant role in how African Americans were perceived.\u00a0",
+    "description": "The artifacts of oppression on display here can be shocking to see in person. But they also inform, reflecting the African American experience in the U.S. from slavery and the Civil War through the civil rights movement. The "up close and personal" viewpoint of the relatively new museum (it opened in 2021) stresses teachings of tolerance, diversity, unity and educating people that there was a time when imagery played a significant role in how African Americans were perceived.",
     "lat": 41.1929932,
-    "lon": -73.1290553
+    "lon": -73.1290553,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Prudence Crandall Museum",
-    "description": "Connecticut\u2019s official heroine isn\u2019t a household name, but Prudence Crandall became a pioneering equal rights champion beginning in 1832 when she was the principal of the Canterbury Female Boarding School and agreed to a request from Sarah Harris, a young Black woman, to attend the school. Residents protested, Crandall closed the school but reopened the following year to serve non-white students. Things then got worse for Crandall, but litigation that resulted influenced two major U.S. Supreme Court decisions. Visitors can see period rooms, rotating exhibits, a small research library, and a new gift shop opening this season.\u00a0",
+    "description": "Connecticut's official heroine isn't a household name, but Prudence Crandall became a pioneering equal rights champion beginning in 1832 when she was the principal of the Canterbury Female Boarding School and agreed to a request from Sarah Harris, a young Black woman, to attend the school. Residents protested, Crandall closed the school but reopened the following year to serve non-white students. Things then got worse for Crandall, but litigation that resulted influenced two major U.S. Supreme Court decisions. Visitors can see period rooms, rotating exhibits, a small research library, and a new gift shop opening this season.",
     "lat": 41.6980715,
-    "lon": -71.9716472
+    "lon": -71.9716472,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Custom House Maritime Museum - New London Maritime Society",
-    "description": "Located in the historic customs house designed by noted architect Robert Mills (also responsible for the Washington Monument) and built in 1833, the Custom House Maritime Museum tells the stories of New London\u2019s waterfront and seafaring history through exhibits, lighthouse tours, boat trips, an annual chowder festival, and displays of artifacts related to the local lighthouses and the Amistad. All of it is overseen by the New London Maritime Society. To this day, a working customs office still conducts its work here, the oldest continuously operating one in the country.\u00a0",
+    "description": "Located in the historic customs house designed by noted architect Robert Mills (also responsible for the Washington Monument) and built in 1833, the Custom House Maritime Museum tells the stories of New London's waterfront and seafaring history through exhibits, lighthouse tours, boat trips, an annual chowder festival, and displays of artifacts related to the local lighthouses and the Amistad. All of it is overseen by the New London Maritime Society. To this day, a working customs office still conducts its work here, the oldest continuously operating one in the country.",
     "lat": 41.3523027,
-    "lon": -72.0954866
+    "lon": -72.0954866,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "The Genius Museum at Nature's Art Village",
-    "description": "Technology and progress are the focus at the Genius Museum at Nature\u2019s Art Village, where guests learn how newspapers were printed in the 19th century and how a steam engine powers a boat, for example. Don\u2019t miss the Steam Engine Room, where there\u2019s a 2 p.m. engine startup on Saturdays and Sundays. Other exhibits include Hayday Farm, the Montville Queen steamboat, and the Oakdale Country Store.\u00a0",
+    "description": "Technology and progress are the focus at the Genius Museum at Nature's Art Village, where guests learn how newspapers were printed in the 19th century and how a steam engine powers a boat, for example. Don't miss the Steam Engine Room, where there's a 2 p.m. engine startup on Saturdays and Sundays. Other exhibits include Hayday Farm, the Montville Queen steamboat, and the Oakdale Country Store.",
     "lat": 41.4312025,
-    "lon": -72.2211108
+    "lon": -72.2211108,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "National Helicopter Museum Inc",
-    "description": "Located in the eastbound railroad station in Stratford, the National Helicopter Museum features a photo essay about helicopter development, a chronicle of helicopter pioneers, including Igor Sikorsky, multiple helicopter models, a T53 gas turbine engine developed in Stratford, and a computer flight simulator. The centerpiece of the museum is a full-size cockpit you can pop into.\u00a0",
+    "description": "Located in the eastbound railroad station in Stratford, the National Helicopter Museum features a photo essay about helicopter development, a chronicle of helicopter pioneers, including Igor Sikorsky, multiple helicopter models, a T53 gas turbine engine developed in Stratford, and a computer flight simulator. The centerpiece of the museum is a full-size cockpit you can pop into.",
     "lat": 41.1947255,
-    "lon": -73.1304885
+    "lon": -73.1304885,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "New England Motorcycle Museum",
     "description": "",
     "lat": 41.8656269,
-    "lon": -72.4602805
+    "lon": -72.4602805,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Connecticut Eastern Railroad Museum",
-    "description": "The Connecticut Eastern Railroad Museum, founded by members of the Connecticut Eastern Chapter of the National Railway Historical Society, is located on the site of the Columbia Junction Freight Yard, and has a collection that includes locomotives and rolling stock, vintage railroad buildings, and a six-stall roundhouse reconstructed on the original foundation. Visitors can take a guided tour of the museum, train rides are offered, and guests can even operate a replica 1850s-style pump car on a section of rail.\u00a0",
+    "description": "The Connecticut Eastern Railroad Museum, founded by members of the Connecticut Eastern Chapter of the National Railway Historical Society, is located on the site of the Columbia Junction Freight Yard, and has a collection that includes locomotives and rolling stock, vintage railroad buildings, and a six-stall roundhouse reconstructed on the original foundation. Visitors can take a guided tour of the museum, train rides are offered, and guests can even operate a replica 1850s-style pump car on a section of rail.",
     "lat": 41.7124865,
-    "lon": -72.2191959
+    "lon": -72.2191959,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Railroad Museum of New England",
-    "description": "Based in the historic Thomaston station, the Railroad Museum of New England featured in the Leonardo DiCaprio-Kate Winslet film Revolutionary Road, and has run tourist trains since the 1990s. Diesel locomotives take passengers riding in vintage coaches south alongside the Naugatuck River, or north on excursions to Torrington that cross the high rim of Thomaston Dam. Seasonal and holiday events sell out, as do special event trains on which guests enjoy local chocolate and/or bourbon.\u00a0",
+    "description": "Based in the historic Thomaston station, the Railroad Museum of New England featured in the Leonardo DiCaprio-Kate Winslet film Revolutionary Road, and has run tourist trains since the 1990s. Diesel locomotives take passengers riding in vintage coaches south alongside the Naugatuck River, or north on excursions to Torrington that cross the high rim of Thomaston Dam. Seasonal and holiday events sell out, as do special event trains on which guests enjoy local chocolate and/or bourbon.",
     "lat": 41.6734201,
-    "lon": -73.0682321
+    "lon": -73.0682321,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic", "entertainment"]
   },
   {
     "name": "Sharon Land Trust",
     "description": "A hike through bucolic Mary Moore Preserve in Sharon promises sprawling mountain views and dairy cows",
     "lat": 41.8786681,
-    "lon": -73.4773993
+    "lon": -73.4773993,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Putnam",
     "description": "\"fairy doors\" https://www.putnamct.us/sites/putnamct/files/u101/2017_fairy_door_guide.pdf",
     "lat": 41.9046012,
-    "lon": -71.8689917
+    "lon": -71.8689917,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["neighborhood", "art", "entertainment"]
   },
   {
     "name": "Peoples State Forest",
     "description": "hike to chaugham lookout",
     "lat": 41.9462065,
-    "lon": -72.9909382
+    "lon": -72.9909382,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Pleasure Beach",
     "description": "",
     "lat": 41.158986,
-    "lon": -73.1678886
+    "lon": -73.1678886,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Steep Rock Preserve",
     "description": "",
     "lat": 41.6207576,
-    "lon": -73.3231533
+    "lon": -73.3231533,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "The Judy Black Memorial Park & Gardens / Seasonal Farmers Market",
     "description": "",
     "lat": 41.6405226,
-    "lon": -73.3190193
+    "lon": -73.3190193,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["park", "market", "food"]
   },
   {
     "name": "Ocean Beach Park",
     "description": "",
     "lat": 41.3092595,
-    "lon": -72.0993951
+    "lon": -72.0993951,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["park", "nature"]
   },
   {
     "name": "The Preserve",
     "description": "",
     "lat": 41.3156635,
-    "lon": -72.4112789
+    "lon": -72.4112789,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Hosmer Mountain Bottling Co",
     "description": "",
     "lat": 41.7682354,
-    "lon": -72.5612443
+    "lon": -72.5612443,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["food", "historic"]
   },
   {
     "name": "Tolland Jail Museum",
     "description": "",
     "lat": 41.8718502,
-    "lon": -72.3686184
+    "lon": -72.3686184,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Coogan Farm Nature and Heritage Center",
     "description": "hike through ruins of centuries old farm",
     "lat": 41.3675779,
-    "lon": -71.9618823
+    "lon": -71.9618823,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["nature", "historic", "park"]
   },
   {
     "name": "Auerfarm State Park Scenic Reserve",
     "description": "",
     "lat": 41.8148298,
-    "lon": -72.7692143
+    "lon": -72.7692143,
+    "icon": null,
+    "imageURL": null,
+    "info": null,
+    "url": null,
+    "categories": ["park", "nature"]
   }
 ]
