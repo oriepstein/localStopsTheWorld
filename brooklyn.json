@@ -137,7 +137,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["art", "gallery"]
   },
   {
     "name": "The Bushwick Starr",
