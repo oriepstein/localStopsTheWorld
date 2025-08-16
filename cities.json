@@ -1,66 +1,82 @@
 [
   {
     "name": "Central Park",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_central_park.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_central_park.json",
+    "imageURL": "https://images.unsplash.com/photo-1568515387631-8b650bbcdb90?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Brooklyn",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/brooklyn.json",
+    "imageURL": "https://images.unsplash.com/photo-1543716091-a840c05249ec?w=800&h=600&fit=crop&crop=center"
   },
-   {
+  {
     "name": "Denver",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/colorado_denver.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/colorado_denver.json",
+    "imageURL": "https://images.unsplash.com/photo-1619856699906-09e1f58c98b1?w=800&h=600&fit=crop&crop=center"
   },
-   {
+  {
     "name": "Bronx",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/bronx_localstops.json"
- },
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/bronx_localstops.json",
+    "imageURL": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&h=600&fit=crop&crop=center"
+  },
   {
     "name": "Downtown Manhattan",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json",
+    "imageURL": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Lower Manhattan",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_manhattan_(canal_-_14th).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_manhattan_(canal_-_14th).json",
+    "imageURL": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "North Jersey",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/north_jersey.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/north_jersey.json",
+    "imageURL": "https://images.unsplash.com/photo-1541852190197-5c0e30244725?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Midtown",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_midtown_(34th_to_59th).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_midtown_(34th_to_59th).json",
+    "imageURL": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Connecticut",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/connecticut.json",
+    "imageURL": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Upper East Side",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_upper_east_side.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_upper_east_side.json",
+    "imageURL": "https://images.unsplash.com/photo-1541963463532-d68292c34d19?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Lower Midtown",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_midtown_(14th_to_34th).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_lower_midtown_(14th_to_34th).json",
+    "imageURL": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Seattle",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/seattle_sights.json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/seattle_sights.json",
+    "imageURL": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop&crop=center"
   },
   {
     "name": "Sitka",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sitka_converted%20(1).json",
+    "imageURL": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=600&fit=crop&crop=center"
   },
-   {
-    "name": "Staten Island",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/staten_island_localstops.json"
-  },
- {
-  "name": "Sophie's Stops",
-  "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc.json"
-},
   {
-  "name": "Queens",
-  "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/queens_localstops.json"
-}
+    "name": "Staten Island",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/staten_island_localstops.json",
+    "imageURL": "https://images.unsplash.com/photo-1582408921715-18e7806365c1?w=800&h=600&fit=crop&crop=center"
+  },
+  {
+    "name": "Sophie's Stops",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/sophies_nyc.json",
+    "imageURL": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&h=600&fit=crop&crop=center"
+  },
+  {
+    "name": "Queens",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/queens_localstops.json",
+    "imageURL": "https://images.unsplash.com/photo-1570113923897-1e2a49bb7a4f?w=800&h=600&fit=crop&crop=center"
+  }
 ]
