@@ -4094,7 +4094,8 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": []
+    "categories": ["park",
+      "art"]
   },
   {
     "name": "The Bone Museum",
