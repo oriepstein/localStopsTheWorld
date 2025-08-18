@@ -2200,7 +2200,9 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
     "name": "Do The Right Thing Way",
