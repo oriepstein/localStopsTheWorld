@@ -204,7 +204,7 @@
     "description": "Artistic Oasis in Industrial Ballard.",
     "lat": 47.6623456,
     "lon": -122.3732923,
-    "categories": ["art", "gallery", "shopping"],
+    "categories": ["art", "shopping"],
     "url": null
   },
   {
@@ -348,7 +348,7 @@
     "description": "",
     "lat": 47.610526,
     "lon": -122.3165843,
-    "categories": ["art", "gallery"],
+    "categories": ["art"],
     "url": "https://www.pcnw.org/"
   },
   {
@@ -396,7 +396,7 @@
     "description": "This former INS center is now home to a thriving community of artists, from performers to painters to architects.",
     "lat": 47.5952069,
     "lon": -122.3270403,
-    "categories": ["art", "gallery", "historic"],
+    "categories": ["art", "historic"],
     "url": "https://www.inscapeseattle.org/"
   },
   {
@@ -420,7 +420,7 @@
     "description": "",
     "lat": 47.5993684,
     "lon": -122.3261202,
-    "categories": ["gallery", "shopping", "art"],
+    "categories": ["shopping", "art"],
     "url": null
   },
   {
@@ -436,7 +436,7 @@
     "description": "",
     "lat": 47.558198,
     "lon": -122.284891,
-    "categories": ["gallery", "art"],
+    "categories": ["art"],
     "url": null
   },
   {
@@ -524,7 +524,7 @@
     "description": "",
     "lat": 47.9785306,
     "lon": -122.2096556,
-    "categories": ["art", "gallery"],
+    "categories": ["art"],
     "url": "https://www.schack.org/"
   },
   {
@@ -636,7 +636,7 @@
     "description": "Tacoma's historic Beaux-Arts train station is now a federal courthouse featuring large-scale glass sculptures by artist Dale Chihuly.",
     "lat": 47.2459182,
     "lon": -122.4362881,
-    "categories": ["historic", "art", "landmark"],
+    "categories": ["historic", "landmark"],
     "url": null
   },
   {
