@@ -7,7 +7,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 1
+    "id": 1,
+    "categories": ["park", "nature"]
   },
   {
     "name": "Sitka National Historical Park",
@@ -17,7 +18,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 2
+    "id": 2,
+    "categories": ["park", "historic"]
   },
   {
     "name": "Klondike Gold Rush National Historical Park",
@@ -27,7 +29,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 3
+    "id": 3,
+    "categories": ["park", "historic"]
   },
   {
     "name": "Southeast Alaska Discovery Center",
@@ -37,7 +40,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 4
+    "id": 4,
+    "categories": ["museum"]
   },
   {
     "name": "Mendenhall Glacier",
@@ -47,127 +51,140 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 5
+    "id": 5,
+    "categories": ["nature", "landmark"]
   },
   {
     "name": "Brotherhood Bridge Trail",
     "lat": 58.3710196,
     "lon": -134.6024802,
-    "description": "Every summer, the Mendenhall River greenbelt comes alive with an explosion of magenta flowers.\u00a0",
+    "description": "Every summer, the Mendenhall River greenbelt comes alive with an explosion of magenta flowers. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 6
+    "id": 6,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Upside Down Trees...",
     "lat": 58.3599705,
     "lon": -134.5481593,
-    "description": "Upside-down trees serve as natural flower pots in this hanging garden of Alaska.\u00a0",
+    "description": "Upside-down trees serve as natural flower pots in this hanging garden of Alaska. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 7
+    "id": 7,
+    "categories": ["nature", "quirky"]
   },
   {
     "name": "Treadwell Trail",
     "lat": 58.2704877,
     "lon": -134.3833528,
-    "description": "The ruins of this Alaska gold mine form a gorgeous ghost town.\u00a0",
+    "description": "The ruins of this Alaska gold mine form a gorgeous ghost town. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 8
+    "id": 8,
+    "categories": ["historic", "nature"]
   },
   {
     "name": "Sealaska Heritage Institute ARTS CAMPUS",
     "lat": 58.300306,
     "lon": -134.4075152,
-    "description": "Often mistaken for an office building, inside this venue is an amazing collection of Native Alaskan art.\u00a0\u00a0",
+    "description": "Often mistaken for an office building, inside this venue is an amazing collection of Native Alaskan art.  ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 9
+    "id": 9,
+    "categories": ["art", "museum"]
   },
   {
     "name": "Shrine of Saint Therese",
     "lat": 58.4723093,
     "lon": -134.787191,
-    "description": "This shrine to the patron saint of Alaska sits on a small tidal island and was built from the land\u2019s own beach stones.\u00a0",
+    "description": "This shrine to the patron saint of Alaska sits on a small tidal island and was built from the land's own beach stones. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 10
+    "id": 10,
+    "categories": ["religious", "nature"]
   },
   {
     "name": "Point Bishop-Dupont Trailhead",
     "lat": 58.2453996,
     "lon": -134.2957981,
-    "description": "The crumbling remains of Juneau's explosives storage site.\u00a0",
+    "description": "The crumbling remains of Juneau's explosives storage site. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 11
+    "id": 11,
+    "categories": ["historic", "nature"]
   },
   {
     "name": "Last Chance Mining Museum",
     "lat": 58.3054727,
     "lon": -134.3844031,
-    "description": "Impressive artifacts from Juneau's gold mining days fill this mining site-turned-museum.\u00a0",
+    "description": "Impressive artifacts from Juneau's gold mining days fill this mining site-turned-museum. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 12
+    "id": 12,
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Aunt Claudias Doll Museum",
     "lat": 58.300876,
     "lon": -134.406361,
-    "description": "One toy collector's legacy of hundreds of unique items includes the most diverse display of northern indigenous dolls.\u00a0",
+    "description": "One toy collector's legacy of hundreds of unique items includes the most diverse display of northern indigenous dolls. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 13
+    "id": 13,
+    "categories": ["museum", "quirky"]
   },
   {
     "name": "Petroglyph Beach State Historic Site",
     "lat": 56.4829171,
     "lon": -132.3937932,
-    "description": "Low tide reveals 8,000-year-old rock carvings in Southern Alaska.\u00a0",
+    "description": "Low tide reveals 8,000-year-old rock carvings in Southern Alaska. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 14
+    "id": 14,
+    "categories": ["historic", "nature", "art"]
   },
   {
     "name": "St. Michael the Archangel Orthodox Cathedral",
     "lat": 57.05,
     "lon": -135.3352778,
-    "description": "The first Russian Orthodox church in North America and an Alaskan landmark.\u00a0",
+    "description": "The first Russian Orthodox church in North America and an Alaskan landmark. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 15
+    "id": 15,
+    "categories": ["religious", "historic", "landmark"]
   },
   {
     "name": "Hammer Museum",
     "lat": 59.2350206,
     "lon": -135.4444092,
-    "description": "A museum devoted entirely to hammers has more than 1,400 items on display dating back to the Romans.\u00a0",
+    "description": "A museum devoted entirely to hammers has more than 1,400 items on display dating back to the Romans. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 16
+    "id": 16,
+    "categories": ["museum", "quirky"]
   },
   {
     "name": "White Pass & Yukon Route Railway",
     "lat": 59.4531431,
     "lon": -135.3181086,
-    "description": "A historic freight system that found the true gold rush is in tourism.\u00a0",
+    "description": "A historic freight system that found the true gold rush is in tourism. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 17
+    "id": 17,
+    "categories": ["historic", "entertainment"]
   },
   {
     "name": "Golden North Hotel",
@@ -177,7 +194,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 18
+    "id": 18,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Klondike Gold Rush National Historical Park Visitor Center",
@@ -187,17 +205,19 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 19
+    "id": 19,
+    "categories": ["park", "historic", "museum"]
   },
   {
     "name": "Red Onion Saloon",
     "lat": 59.4539012,
     "lon": -135.3184605,
-    "description": "Originally a brothel during the Klondike Gold Rush, this bar once used dolls to denote when ladies were working.\u00a0",
+    "description": "Originally a brothel during the Klondike Gold Rush, this bar once used dolls to denote when ladies were working. ",
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 20
+    "id": 20,
+    "categories": ["historic", "entertainment", "quirky"]
   },
   {
     "name": "Arctic Brotherhood Hall",
@@ -207,7 +227,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 21
+    "id": 21,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Granite Creek Trail",
@@ -217,7 +238,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 22
+    "id": 22,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Juneau Icefield",
@@ -227,7 +249,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 23
+    "id": 23,
+    "categories": ["nature", "landmark"]
   },
   {
     "name": "Mt. Verstovia Trailhead",
@@ -237,7 +260,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 24
+    "id": 24,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Goddard Hot Springs Tubs",
@@ -247,7 +271,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 25
+    "id": 25,
+    "categories": ["nature", "quirky"]
   },
   {
     "name": "Fortress of the Bear",
@@ -257,7 +282,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 26
+    "id": 26,
+    "categories": ["nature", "entertainment"]
   },
   {
     "name": "Totem Bight State Historical Park",
@@ -267,7 +293,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 27
+    "id": 27,
+    "categories": ["park", "historic", "art"]
   },
   {
     "name": "Hungry Pt. Trailhead",
@@ -277,7 +304,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 28
+    "id": 28,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Baranof Castle State Historic Site",
@@ -287,7 +315,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 29
+    "id": 29,
+    "categories": ["historic", "park"]
   },
   {
     "name": "Old Sitka State Historic Park",
@@ -297,7 +326,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 30
+    "id": 30,
+    "categories": ["park", "historic"]
   },
   {
     "name": "Alaska State Museum",
@@ -307,7 +337,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 31
+    "id": 31,
+    "categories": ["museum"]
   },
   {
     "name": "Sealaska Heritage Institute",
@@ -317,7 +348,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 32
+    "id": 32,
+    "categories": ["art", "museum"]
   },
   {
     "name": "Alaska Raptor Center",
@@ -327,7 +359,8 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 33
+    "id": 33,
+    "categories": ["nature", "entertainment"]
   },
   {
     "name": "Sea Daddy",
@@ -337,6 +370,7 @@
     "info": "",
     "icon": null,
     "imageURL": null,
-    "id": 34
+    "id": 34,
+    "categories": ["entertainment"]
   }
 ]
