@@ -24,7 +24,7 @@
     "url": null,
     "categories": [
       "park",
-      "monument"
+      "landmark"
     ]
   },
   {
@@ -106,8 +106,7 @@
     "info": null,
     "url": "https://barneygreengrass.com/",
     "categories": [
-      "food",
-      "historic"
+      "food"
     ]
   },
   {
@@ -135,7 +134,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "monument",
+      "landmark",
       "historic"
     ]
   },
@@ -299,7 +298,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "monument"
+      "landmark"
     ]
   },
   {
@@ -339,7 +338,7 @@
     "url": "https://www.nycgovparks.org/parks/straus-park",
     "categories": [
       "park",
-      "monument"
+      "landmark"
     ]
   },
   {
@@ -503,7 +502,7 @@
     "url": "https://www.nycgovparks.org/parks/verdi-square",
     "categories": [
       "park",
-      "monument"
+      "landmark"
     ]
   },
   {
