@@ -50,7 +50,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "monument",
+      "landmark",
       "park"
     ]
   },
@@ -734,7 +734,7 @@
     "url": null,
     "categories": [
       "historic",
-      "monument"
+      "landmark"
     ]
   },
   {
@@ -1479,7 +1479,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "monument",
+      "landmark",
       "historic"
     ]
   },
