@@ -92,7 +92,6 @@
     "info": null,
     "url": "https://www.cbihateperfume.com/",
     "categories": [
-      "gallery",
       "art"
     ]
   },
@@ -119,7 +118,7 @@
     "info": null,
     "url": "https://www.nurtureart.org/",
     "categories": [
-      "gallery",
+     
       "art"
     ]
   },
@@ -160,7 +159,6 @@
     "info": null,
     "url": "https://nortemaar.org/",
     "categories": [
-      "gallery",
       "art"
     ]
   },
@@ -174,7 +172,7 @@
     "info": null,
     "url": "https://luhringaugustine.com/",
     "categories": [
-      "gallery"
+      "art"
     ]
   },
   {
@@ -187,7 +185,6 @@
     "info": null,
     "url": null,
     "categories": [
-      "gallery",
       "art"
     ]
   },
@@ -515,8 +512,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "art",
-      "gallery"
+      "art"
     ]
   },
   {
@@ -853,8 +849,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "art",
-      "gallery"
+      "art"
     ]
   },
   {
@@ -1015,8 +1010,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "art",
-      "gallery"
+      "art"
     ]
   },
   {
@@ -1043,8 +1037,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "gallery",
-      "shopping"
+      "quirky"
     ]
   },
   {
@@ -1586,8 +1579,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "art",
-      "gallery"
+      "art"
     ]
   },
   {
@@ -2208,7 +2200,7 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": []
+    "categories": ["art"]
   },
   {
     "name": "Do The Right Thing Way",
