@@ -7,8 +7,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://en.wikipedia.org/wiki/Pomander_Walk_(Manhattan)",
+    "categories": [
+      "neighborhood",
+      "historic"
+    ]
   },
   {
     "name": "COSTANTINO NIVOLA'S PLAYGROUND",
@@ -32,8 +35,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://www.wildbirdfund.org/",
+    "categories": [
+      "nature",
+      "museum"
+    ]
   },
   {
     "name": "West Side Community Garden",
@@ -43,7 +49,7 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.westsidecommunitygarden.org/",
     "categories": [
       "nature",
       "park"
@@ -57,8 +63,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://www.cmcnewyork.org/",
+    "categories": [
+      "religious"
+    ]
   },
   {
     "name": "Bard Graduate Center",
@@ -68,8 +76,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://www.bgc.bard.edu/",
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
     "name": "Saint Ignatius of Antioch Episcopal Church",
@@ -79,9 +90,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.saintignatiusnyc.org/",
     "categories": [
-      "religious"
+      "religious",
+      "historic"
     ]
   },
   {
@@ -92,12 +104,15 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://barneygreengrass.com/",
+    "categories": [
+      "food",
+      "historic"
+    ]
   },
   {
     "name": "New-York Historical Society",
-    "description": "Lord Cornbury portrait - odd, unattractive painting of colonial transvestite <br>The New York Historical Society was the first museum ever established in NYC; it opened in 1804. The NYHS has a collection rooted in American history and art, with exhibits on display focusing on Alexander Hamilton, George Washington, the U.S. Constitution, and Abraham Lincoln. The New York Historical Society also dives deeply into New York's role in American history with a close look at how slavery impacted NYC and the surrounding state.<br><br>Highlights<br>Here are some of the \"must see\" items at The New York Historical Society.<br><br>We Rise<br>Mayor George B. McClellan at the controls of the first subway train<br>The Wooden Leg of Gouverneur Morris",
+    "description": "Lord Cornbury portrait - odd, unattractive painting of colonial transvestite\u00a0<br>The New York Historical Society was the first museum ever established in NYC; it opened in 1804. The NYHS has a collection rooted in American history and art, with exhibits on display focusing on Alexander Hamilton, George Washington, the U.S. Constitution, and Abraham Lincoln. The New York Historical Society also dives deeply into New York's role in American history with a close look at how slavery impacted NYC and the surrounding state.<br><br>Highlights<br>Here are some of the \"must see\" items at The New York Historical Society.<br><br>We Rise<br>Mayor George B. McClellan at the controls of the first subway train<br>The Wooden Leg of Gouverneur Morris",
     "lat": 40.7793487,
     "lon": -73.9739079,
     "icon": null,
@@ -137,16 +152,15 @@
   },
   {
     "name": "American Museum of Natural History",
-    "description": "Indian Rhino Diorama - An eerie diorama that captures the majestic nature of a few prehistoric-looking beasts.<br> Asiatic Leopard - One of the most dazzling dioramas at the American Museum of Natural History is also one of the oldest.<br> African Elephants - This magnificent herd of stampeding elephants has been frozen in time for over a century.<br> Scavenger Taxidermy - This morbid scene depicts the Darwinian drama of death on the African savannah.",
+    "description": "Indian Rhino Diorama -\u00a0An eerie diorama that captures the majestic nature of a few prehistoric-looking beasts.<br> Asiatic Leopard -\u00a0One of the most dazzling dioramas at the American Museum of Natural History is also one of the oldest.<br> African Elephants -\u00a0This magnificent herd of stampeding elephants has been frozen in time for over a century.<br> Scavenger Taxidermy -\u00a0This morbid scene depicts the Darwinian drama of death on the African savannah.",
     "lat": 40.7813241,
     "lon": -73.9739882,
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.amnh.org/",
     "categories": [
-      "museum",
-      "historic"
+      "museum"
     ]
   },
   {
@@ -157,7 +171,7 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.nycgovparks.org/parks/septuagesimo-uno",
     "categories": [
       "park"
     ]
@@ -170,7 +184,7 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.roerich.org/",
     "categories": [
       "museum",
       "art"
@@ -203,7 +217,7 @@
   },
   {
     "name": "Locomotive Lawn",
-    "description": "This diesel train serviced the Brooklyn waterfront for more than three decades. Built on the former site of the New York Central Railroad’s 60th Street Yard, Riverside Park South was once the primary import, export and classification area for Manhattan’s sole all-freight train line for over a century. At this yard, the New York Central Railroad operated bulk cargo piers and transfer bridges, including the extant 69th Street Transfer Bridge and gantry.<br><br>Though the rail yard is no longer active, the landscape architecture of Riverside Park South reflects its history, including an authentic locomotive stationed in the park. Visit the newly-renovated train while learning about the rail history of Manhattan’s West Side from staff from the Riverside Park Conservancy.<br><br>One of the unique features of Riverside Park South is a historic train locomotive — a literal reminder of the site’s history as a former train yard. No. 25 is a 60-year-old, 95-ton engine that most recently labored on the Brooklyn waterfront. Now in its retirement, it is the centerpiece of a plaza at 62nd Street, and a play destination for young and old alike.",
+    "description": "This diesel train serviced the Brooklyn waterfront for more than three decades. Built on the former site of the New York Central Railroad\u2019s 60th Street Yard, Riverside Park South was once the primary import, export and classification area for Manhattan\u2019s sole all-freight train line for over a century. At this yard, the New York Central Railroad operated bulk cargo piers and transfer bridges, including the extant 69th Street Transfer Bridge and gantry.<br><br>Though the rail yard is no longer active, the landscape architecture of Riverside Park South reflects its history, including an authentic locomotive stationed in the park. Visit the newly-renovated train while learning about the rail history of Manhattan\u2019s West Side from staff from the Riverside Park Conservancy.<br><br>One of the unique features of Riverside Park South is a historic train locomotive \u2014 a literal reminder of the site\u2019s history as a former train yard. No. 25 is a 60-year-old, 95-ton engine that most recently labored on the Brooklyn waterfront. Now in its retirement, it is the centerpiece of a plaza at 62nd Street, and a play destination for young and old alike.",
     "lat": 40.7747774,
     "lon": -73.9925293,
     "icon": null,
@@ -290,7 +304,7 @@
   },
   {
     "name": "Lotus Garden",
-    "description": "only open sunday. Designed by Carrie Maher and Mark Greenwald in 1984 and perched atop the salmon-brick Columbia condo tower’s parking garage, this oasis in the sky features varied flowers, fruit trees, shrubs, and lotus ponds inhabited by schools of fish. The 1/6th-acre paradise, with three feet of dirt underfoot and multiple birds’ nests tucked overhead, is among the city’s oldest rooftop gardens. The Lotus Garden wows people who climb the short flight of stairs with its colorful and fragrant abundance surprisingly wedged between apartment buildings.",
+    "description": "only open sunday.\u00a0Designed by Carrie Maher and Mark Greenwald in 1984 and perched atop the salmon-brick Columbia condo tower\u2019s parking garage, this oasis in the sky features varied flowers, fruit trees, shrubs, and lotus ponds inhabited by schools of fish. The 1/6th-acre paradise, with three feet of dirt underfoot and multiple birds\u2019 nests tucked overhead, is among the city\u2019s oldest rooftop gardens. The Lotus Garden wows people who climb the short flight of stairs with its colorful and fragrant abundance surprisingly wedged between apartment buildings.",
     "lat": 40.7954107,
     "lon": -73.9721212,
     "icon": null,
@@ -322,9 +336,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.nycgovparks.org/parks/straus-park",
     "categories": [
-      "park"
+      "park",
+      "monument"
     ]
   },
   {
@@ -394,8 +409,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": []
+    "url": "https://jupitersymphony.org/",
+    "categories": [
+      "music"
+    ]
   },
   {
     "name": "American Folk Art Museum",
@@ -405,7 +422,7 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://folkartmuseum.org/",
     "categories": [
       "museum",
       "art"
@@ -419,10 +436,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.msg.com/venues/beacon-theatre",
     "categories": [
       "theater",
-      "historic"
+      "music"
     ]
   },
   {
@@ -459,7 +476,7 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.waterlinesquare.com/",
     "categories": [
       "park"
     ]
@@ -483,22 +500,24 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://www.nycgovparks.org/parks/verdi-square",
     "categories": [
-      "historic"
+      "park",
+      "monument"
     ]
   },
   {
     "name": "Clinton Cove at Hudson River Park",
-    "description": "Throughout the Park’s four-mile-length, “upland” areas connect the many piers. In a couple of fortunate areas, the distance between the water and the adjacent roadway widens, creating larger areas for open space in the process. One such area is known as Clinton Cove, featuring a sweeping green lawn, a boathouse offering free kayaking run by volunteers and a “get-down” where visitors can get close to the water",
+    "description": "Throughout the Park\u2019s four-mile-length, \u201cupland\u201d areas connect the many piers. In a couple of fortunate areas, the distance between the water and the adjacent roadway widens, creating larger areas for open space in the process. One such area is known as Clinton Cove, featuring a sweeping green lawn, a boathouse offering free kayaking run by volunteers and a \u201cget-down\u201d where visitors can get close to the water",
     "lat": 40.7705938,
     "lon": -73.9953839,
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
+    "url": "https://hudsonriverpark.org/locations/clinton-cove/",
     "categories": [
-      "park"
+      "park",
+      "nature"
     ]
   },
   {
