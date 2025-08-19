@@ -6,7 +6,9 @@
     "icon": null,
     "imageURL": null,
     "description": "\"the fish building\"",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark",],
+    "url": null
   },
   {
     "name": "1520 Sedgwick Ave",
@@ -15,7 +17,9 @@
     "icon": null,
     "imageURL": null,
     "description": "birthplace of hiphop",
-    "info": null
+    "info": null,
+    "categories": ["historic", "music", "landmark"],
+    "url": null
   },
   {
     "name": "1882 Grand Concourse",
@@ -23,8 +27,10 @@
     "lon": -73.9060622,
     "icon": null,
     "imageURL": null,
-    "description": "the Bronx;s Flatiron Building",
-    "info": null
+    "description": "the Bronx's Flatiron Building",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "239 Play",
@@ -33,7 +39,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["entertainment"],
+    "url": null
   },
   {
     "name": "415 Bruckner Blvd",
@@ -42,7 +50,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Con Ed substation disguised as row houses",
-    "info": null
+    "info": null,
+    "categories": ["quirky", "landmark"],
+    "url": null
   },
   {
     "name": "6BASE",
@@ -51,7 +61,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "888 Grand Concourse",
@@ -60,7 +72,9 @@
     "icon": null,
     "imageURL": null,
     "description": "classic Art Deco building",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "911 Longwood Ave",
@@ -69,7 +83,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Life on Dawson Street sculpture",
-    "info": null
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "9J",
@@ -78,7 +94,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", ],
+    "url": null
   },
   {
     "name": "Andrew Freedman Home",
@@ -87,7 +105,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic"],
+    "url": "https://www.bronxhistoricalsociety.org/"
   },
   {
     "name": "Arthur Avenue Retail Market",
@@ -96,7 +116,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Seriously good slices of Sicilian pizza lurk at the back of the Bronx's oldest enclosed market.",
-    "info": null
+    "info": null,
+    "categories": ["food", "market", "historic"],
+    "url": "https://www.arthuravenuebronx.com/"
   },
   {
     "name": "Bartow Station",
@@ -105,7 +127,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A former connection to City Island, it has been abandoned since the 1930s.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
   },
   {
     "name": "Bartow-Pell Mansion Museum",
@@ -113,8 +137,10 @@
     "lon": -73.8055594,
     "icon": null,
     "imageURL": null,
-    "description": "The Bartow-Pell Mansion Museum, the last remaining 19th-century estate in the Bronx’s Pelham Bay Park, is a cultural and educational institution that serves the broader New York City community. The Bartow-Pell Conservancy works to preserve and maintain the historic Greek Revival mansion and carriage house, as well as the museum’s collection, its gardens, and the surrounding landscape, and to interpret the site’s history with innovative and dynamic educational and public programming for students, adults, and families.",
-    "info": null
+    "description": "The Bartow-Pell Mansion Museum, the last remaining 19th-century estate in the Bronx's Pelham Bay Park, is a cultural and educational institution that serves the broader New York City community. The Bartow-Pell Conservancy works to preserve and maintain the historic Greek Revival mansion and carriage house, as well as the museum's collection, its gardens, and the surrounding landscape, and to interpret the site's history with innovative and dynamic educational and public programming for students, adults, and families.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.bartowpellmansionmuseum.org/"
   },
   {
     "name": "Begrisch Hall",
@@ -123,7 +149,9 @@
     "icon": null,
     "imageURL": null,
     "description": "NYC landmark",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Bell Tower Park",
@@ -132,7 +160,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Belmont Library and Enrico Fermi Cultural Center",
@@ -141,7 +171,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["bookstore", "art"],
+    "url": "https://www.nypl.org/"
   },
   {
     "name": "Bertine Block Historic District",
@@ -150,7 +182,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Boone Avenue Wall Art",
@@ -159,7 +193,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "Borgatti's Ravioli & Egg Noodles",
@@ -168,7 +204,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": "https://borgattis.com/"
   },
   {
     "name": "Broadway Bridge",
@@ -177,7 +215,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Bronx Community College Library",
@@ -185,8 +225,10 @@
     "lon": -73.9126843,
     "icon": null,
     "imageURL": null,
-    "description": "Thank Stanford White for this glorious structure, which the architect designed to mimic Rome’s Pantheon. Its best-known interior space is the rotunda, which is topped with an enormous dome; marble columns and stained-glass windows are other decorative elements. And per a Times article on the space (which is in need of a restoration), both the Bible and Paradise Lost are quoted, appropriately, on various parts of the structure.",
-    "info": null
+    "description": "Thank Stanford White for this glorious structure, which the architect designed to mimic Rome's Pantheon. Its best-known interior space is the rotunda, which is topped with an enormous dome; marble columns and stained-glass windows are other decorative elements. And per a Times article on the space (which is in need of a restoration), both the Bible and Paradise Lost are quoted, appropriately, on various parts of the structure.",
+    "info": null,
+    "categories": ["historic", "landmark", "bookstore"],
+    "url": "https://www.bcc.cuny.edu/"
   },
   {
     "name": "Bronx County - Civil Court",
@@ -195,7 +237,9 @@
     "icon": null,
     "imageURL": null,
     "description": "home to murals; a NYC landmark",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "art"],
+    "url": null
   },
   {
     "name": "Bronx Documentary Center",
@@ -204,7 +248,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.bronxdoc.org/"
   },
   {
     "name": "Bronx Equestrian Center, Inc.",
@@ -213,7 +259,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["entertainment"],
+    "url": "https://www.bronxequestriancenter.com/"
   },
   {
     "name": "Bronx General Post Office",
@@ -222,7 +270,9 @@
     "icon": null,
     "imageURL": null,
     "description": "murals inside; NYC landmark",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "art"],
+    "url": null
   },
   {
     "name": "Bronx Library Center",
@@ -231,7 +281,9 @@
     "icon": null,
     "imageURL": null,
     "description": "home to the Latino & Puerto Rican Heritage Center",
-    "info": null
+    "info": null,
+    "categories": ["bookstore", "art", "museum"],
+    "url": "https://www.nypl.org/"
   },
   {
     "name": "Bronx Music Hall",
@@ -239,8 +291,10 @@
     "lon": -73.911144,
     "icon": null,
     "imageURL": null,
-    "description": "The Women’s Housing and Economic Development Corporation (WHEDco) developed the Bronx Music Hall (BMH) as a performance venue and community cultural center dedicated to honoring, showcasing and cultivating music, dance, theater, and interdisciplinary arts in the Bronx. Designed by WXY, the BMH features a 250-seat flexible performance theater, a Lobby and Exhibit Hall, rehearsal and classroom space, and an outdoor amphitheater and plaza. The BMH is the new permanent home of WHEDco’s Bronx Music Heritage Center (BMHC), founded in 2010 to preserve and promote Bronx music, cultivate Bronx artists, spur neighborhood revival, and provide cultural programs for the community.",
-    "info": null
+    "description": "The Women's Housing and Economic Development Corporation (WHEDco) developed the Bronx Music Hall (BMH) as a performance venue and community cultural center dedicated to honoring, showcasing and cultivating music, dance, theater, and interdisciplinary arts in the Bronx. Designed by WXY, the BMH features a 250-seat flexible performance theater, a Lobby and Exhibit Hall, rehearsal and classroom space, and an outdoor amphitheater and plaza. The BMH is the new permanent home of WHEDco's Bronx Music Heritage Center (BMHC), founded in 2010 to preserve and promote Bronx music, cultivate Bronx artists, spur neighborhood revival, and provide cultural programs for the community.",
+    "info": null,
+    "categories": ["music", "theater"],
+    "url": "https://www.whedco.org/"
   },
   {
     "name": "Bronx Music Heritage Center Laboratory",
@@ -249,7 +303,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music", "museum"],
+    "url": "https://www.bronxmusicheritagecenter.com/"
   },
   {
     "name": "Bronx Native",
@@ -258,7 +314,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["shopping"],
+    "url": null
   },
   {
     "name": "Bronx Night Market",
@@ -267,7 +325,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food", "market"],
+    "url": "https://www.bronxnightmarket.com/"
   },
   {
     "name": "Bronx Park East",
@@ -276,7 +336,9 @@
     "icon": null,
     "imageURL": null,
     "description": "elevated station with sweeping views; 2006 stained glass art",
-    "info": null
+    "info": null,
+    "categories": ["art", "landmark"],
+    "url": null
   },
   {
     "name": "Bronx River Art Center",
@@ -285,7 +347,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.bronxriverart.org/"
   },
   {
     "name": "Bronx River Foodway",
@@ -293,8 +357,10 @@
     "lon": -73.8848867,
     "icon": null,
     "imageURL": null,
-    "description": "one of New York City’s only edible food forests, inside a city-owned park. Located inside Concrete Plant Park in the South Bronx, the Bronx River Foodway is a pilot project of the NYC Department of Parks and Recreation designed to jump-start the imagination, reconnecting communities to use land within the city. The food forest was first established in 2017 and offers access to a variety of edible plants including medicinal plants like echinacea, nut trees like the chestnut, and an assortment of native berries. From Urban Omnibus: Foraging is not allowed in New York City parks, unless you are plucking sage, squash, or serviceberries at the Bronx River Foodway, a quarter-acre food forest at Concrete Plant Park. Descended from a floating public art project, the Foodway is now offering up its seventh harvest along the Bronx River. In 2023, Sabina Sethi Unni spent a few days sampling the Foodway’s abundant offerings, significant triumphs, and liberatory possibilities where a toxic mix of sewage, trash, urban runoff, and chemical waste once wreaked havoc on local ecologies.",
-    "info": null
+    "description": "one of New York City's only edible food forests, inside a city-owned park. Located inside Concrete Plant Park in the South Bronx, the Bronx River Foodway is a pilot project of the NYC Department of Parks and Recreation designed to jump-start the imagination, reconnecting communities to use land within the city. The food forest was first established in 2017 and offers access to a variety of edible plants including medicinal plants like echinacea, nut trees like the chestnut, and an assortment of native berries. From Urban Omnibus: Foraging is not allowed in New York City parks, unless you are plucking sage, squash, or serviceberries at the Bronx River Foodway, a quarter-acre food forest at Concrete Plant Park. Descended from a floating public art project, the Foodway is now offering up its seventh harvest along the Bronx River. In 2023, Sabina Sethi Unni spent a few days sampling the Foodway's abundant offerings, significant triumphs, and liberatory possibilities where a toxic mix of sewage, trash, urban runoff, and chemical waste once wreaked havoc on local ecologies.",
+    "info": null,
+    "categories": ["nature", "park", "quirky"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Bronx River Forest",
@@ -303,7 +369,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["nature", "park"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Bronx River House",
@@ -312,7 +380,9 @@
     "icon": null,
     "imageURL": null,
     "description": "free canoeing",
-    "info": null
+    "info": null,
+    "categories": ["entertainment", "nature"],
+    "url": "https://www.bronxriver.org/"
   },
   {
     "name": "Bronx Victory Memorial",
@@ -321,7 +391,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "BronxArtSpace",
@@ -330,7 +402,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.bronxartspace.com/"
   },
   {
     "name": "BxArts Factory",
@@ -339,7 +413,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.bxartsfactory.org/"
   },
   {
     "name": "Casa Della Mozzarella",
@@ -348,7 +424,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": "https://www.casadellamozzarella.com/"
   },
   {
     "name": "Chieu Kien Bhuddist Center",
@@ -357,7 +435,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["religious"],
+    "url": null
   },
   {
     "name": "Christ Church Riverdale",
@@ -366,7 +446,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["religious"],
+    "url": "https://www.christchurchriverdale.org/"
   },
   {
     "name": "Church of the Mediator",
@@ -374,8 +456,10 @@
     "lon": -73.9073007,
     "icon": null,
     "imageURL": null,
-    "description": "Dubbed the “The Little Cathedral of the Bronx,” this Neo-Gothic style church was designed by Henry Vaughan and completed in 1914. It features Tiffany glass windows, a 1927 stained-glass window depicting Jane Addams and Booker T. Washington, a 99-year-old Skinner pipe organ, and terra-cotta altarpieces—the only known work of George Tinworth in the United States.",
-    "info": null
+    "description": "Dubbed the "The Little Cathedral of the Bronx," this Neo-Gothic style church was designed by Henry Vaughan and completed in 1914. It features Tiffany glass windows, a 1927 stained-glass window depicting Jane Addams and Booker T. Washington, a 99-year-old Skinner pipe organ, and terra-cotta altarpieces—the only known work of George Tinworth in the United States.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://www.churchofthemediator.org/"
   },
   {
     "name": "City Island Nautical Museum",
@@ -383,9 +467,10 @@
     "lon": -73.784419,
     "icon": null,
     "imageURL": null,
-    "description": "http://www.cityislandmuseum.org/city-island-walking-tour.html The City Island Nautical Museum is a weekends-only museum in NYC's Bronx neighborhood that chronicles the history of City Island's boating. At the start of the 1900s, City Island had a worldwide reputation for building the best wooden boats in the world. The museum is dedicated to preserving that history. City Island also had a hand in building military vessels. Highlights Here are some of the \"must see\" items at City Island Nautical Museum. City Island’s boat-building history exhibit The massive City Island historical photo exhibit",
+    "description": "http://www.cityislandmuseum.org/city-island-walking-tour.html The City Island Nautical Museum is a weekends-only museum in NYC's Bronx neighborhood that chronicles the history of City Island's boating. At the start of the 1900s, City Island had a worldwide reputation for building the best wooden boats in the world. The museum is dedicated to preserving that history. City Island also had a hand in building military vessels. Highlights Here are some of the \"must see\" items at City Island Nautical Museum. City Island's boat-building history exhibit The massive City Island historical photo exhibit",
     "info": null,
-    "url": "http://www.cityislandmuseum.org/city-island-walking-tour.html"
+    "url": "http://www.cityislandmuseum.org/city-island-walking-tour.html",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Clay Avenue Historic District",
@@ -394,7 +479,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Concrete Plant Park",
@@ -403,7 +490,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A riverfront park that both remediated and preserved its industrial past.",
-    "info": null
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Corpus Christi Monastery",
@@ -412,7 +501,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["religious"],
+    "url": "https://www.corpuschristimonastery.org/"
   },
   {
     "name": "Crotona Play Center Bath House",
@@ -421,7 +512,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Delafield Park",
@@ -430,7 +523,9 @@
     "icon": null,
     "imageURL": null,
     "description": "private park (like gramercy park, but you are allowed to visit)",
-    "info": null
+    "info": null,
+    "categories": ["park", "quirky"],
+    "url": null
   },
   {
     "name": "Derfner Judaica Museum",
@@ -439,7 +534,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["museum", "religious"],
+    "url": "https://www.hjc.org/"
   },
   {
     "name": "E 180 St",
@@ -448,7 +545,9 @@
     "icon": null,
     "imageURL": null,
     "description": "more venice than Van Nest",
-    "info": null
+    "info": null,
+    "categories": ["quirky"],
+    "url": null
   },
   {
     "name": "El Fogon",
@@ -457,7 +556,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "En Foco Inc",
@@ -466,7 +567,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.enfoco.org/"
   },
   {
     "name": "Fieldston Historic District",
@@ -475,7 +578,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Focal Point Gallery",
@@ -484,7 +589,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.focalpointgallery.org/"
   },
   {
     "name": "Fordham University Cemetery",
@@ -493,7 +600,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A small graveyard is hidden in the midst of a bustling university campus.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": "https://www.fordham.edu/"
   },
   {
     "name": "Gaelic Park",
@@ -502,7 +611,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "entertainment"],
+    "url": "https://www.gaelicpark.org/"
   },
   {
     "name": "Garabedian Holiday House",
@@ -511,7 +622,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Because holiday cheer is at its finest when it includes eerie mannequins, right?",
-    "info": null
+    "info": null,
+    "categories": ["quirky", "entertainment"],
+    "url": null
   },
   {
     "name": "Glover's Rock",
@@ -520,7 +633,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "nature"],
+    "url": null
   },
   {
     "name": "Goldman Stone Mill",
@@ -529,7 +644,9 @@
     "icon": null,
     "imageURL": null,
     "description": "NHL \"Oldest existing tobacco-manufacturing facility in U.S.\"",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Gun Hill Brewing Company",
@@ -538,7 +655,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food"],
+    "url": "https://gunhillbrewing.com/"
   },
   {
     "name": "Gun Hill Rd",
@@ -546,8 +665,10 @@
     "lon": -73.8459327,
     "icon": null,
     "imageURL": null,
-    "description": "The glass mosaic “My Sun (Mi Sol), My Planet (Mi Planeta) and My City (Mi Ciudad)” by artist Andrea Arroyo pays an ode to her theme of sun, planet, and city. The glass work and bright colors bring lively color to the station, especially on a sunny day.",
-    "info": null
+    "description": "The glass mosaic \"My Sun (Mi Sol), My Planet (Mi Planeta) and My City (Mi Ciudad)\" by artist Andrea Arroyo pays an ode to her theme of sun, planet, and city. The glass work and bright colors bring lively color to the station, especially on a sunny day.",
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "Hart Island",
@@ -556,7 +677,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The loneliest island in New York. In 2023, Hart Island was opened to the public by the City of New York for visitation. Advance registration is required. Please visit Hart Island's Visitation page for details and to register for an upcoming visit.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "nature"],
+    "url": "https://www.nyc.gov/site/doc/community/hart-island.page"
   },
   {
     "name": "Heinrich Heine Fountain OR Lorelei Fountain",
@@ -565,7 +688,9 @@
     "icon": null,
     "imageURL": null,
     "description": "brought here from Germany because the city of Dusseldorf didn't want it. it was designed by a jew. at one point it was guarded 24 hours a day",
-    "info": null
+    "info": null,
+    "categories": ["historic", "art"],
+    "url": null
   },
   {
     "name": "Henry Hudson Monument",
@@ -574,7 +699,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Hostos Center For the Arts",
@@ -583,7 +710,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["theater", "art"],
+    "url": "https://www.hostosartscenter.org/"
   },
   {
     "name": "Hunter Island",
@@ -592,7 +721,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["nature", "park"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Hunts Point Riverside Park",
@@ -601,7 +732,9 @@
     "icon": null,
     "imageURL": null,
     "description": "free rowing, sailing & birding every saturday may 25 through august 31 1-6pm",
-    "info": null
+    "info": null,
+    "categories": ["park", "entertainment", "nature"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Hunts Point Slave Burial Ground",
@@ -610,7 +743,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic"],
+    "url": null
   },
   {
     "name": "John Ahearn sculptures",
@@ -619,7 +754,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "John Dormi & Sons Funeral Home",
@@ -628,7 +765,9 @@
     "icon": null,
     "imageURL": null,
     "description": "home to Bronx Veterans Museum",
-    "info": null
+    "info": null,
+    "categories": ["museum"],
+    "url": null
   },
   {
     "name": "Joseph Rodman Drake Park",
@@ -637,7 +776,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park"],
+    "url": "https://www.nycgovparks.org/"
   },
   {
     "name": "Kingsbridge Armory",
@@ -646,7 +787,9 @@
     "icon": null,
     "imageURL": null,
     "description": "largest armory in the world",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Lehman College Art Gallery",
@@ -655,600 +798,734 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art" ],
+    "url": "https://www.lehman.edu/lehman-college-art-gallery/"
   },
   {
     "name": "Longwood Art Gallery",
-    "lat": 40.8174412,
-    "lon": -73.9272563,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Longwood Historic District",
-    "lat": 40.8166024,
-    "lon": -73.898422,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Manida Street Historic District",
-    "lat": 40.8174202,
-    "lon": -73.889559,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Marble Hill Avenue",
-    "lat": 40.8764177,
-    "lon": -73.9094504,
-    "icon": null,
-    "imageURL": null,
-    "description": "neighborhood actually part of manhattan. street full of victorian homes",
-    "info": null
-  },
-  {
-    "name": "Maritime Industry Museum at Fort Schuyler",
-    "lat": 40.8050732,
-    "lon": -73.790973,
-    "icon": null,
-    "imageURL": null,
-    "description": "The Maritime Industry Museum at Fort Schuyler is part of the SUNY Maritime College. The museum houses a number of artifacts and exhibits about maritime and sea life in the NYC area dating back hundreds of years. Guests can see intricate ship models, historic artifacts, and a slew of nautical photographs and prints. It is one of the country's biggest maritime collections. Highlights Here are some of the \"must see\" items at Maritime Industry Museum at Fort Schuyler. Underwater Artifact Exhibit Hall of Maritime Training Evolution of Seafaring",
-    "info": null
-  },
-  {
-    "name": "Mikes Deli",
-    "lat": 40.8542278,
-    "lon": -73.8882528,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Morris Academy for Collaborative Studies",
-    "lat": 40.8273033,
-    "lon": -73.9045097,
-    "icon": null,
-    "imageURL": null,
-    "description": "landmarked interior",
-    "info": null
-  },
-  {
-    "name": "Morris Avenue Historic District",
-    "lat": 40.8514339,
-    "lon": -73.9071893,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Morris High School Historic District",
-    "lat": 40.8275371,
-    "lon": -73.9030791,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mott Haven East Historic District",
-    "lat": 40.8099207,
-    "lon": -73.9207945,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mott Haven Historic District",
-    "lat": 40.8107398,
-    "lon": -73.9246564,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mottley Kitchen",
-    "lat": 40.8101505,
-    "lon": -73.9216761,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Muskrat Cove",
-    "lat": 40.8964083,
-    "lon": -73.862461,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "ND Cigars/La Casa Grande",
-    "lat": 40.8542533,
-    "lon": -73.8883718,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "North Brother Island",
-    "lat": 40.8007201,
-    "lon": -73.8981368,
-    "icon": null,
-    "imageURL": null,
-    "description": "Home to the infamous \"Typhoid Mary\" and the worst loss of life in New York's history prior to September 11, 2001.",
-    "info": null
-  },
-  {
-    "name": "NYW&B Westchester Avenue Station",
-    "lat": 40.8277969,
-    "lon": -73.8854752,
-    "icon": null,
-    "imageURL": null,
-    "description": "Designed by famed 20th-century architect Cass Gilbert, the future of this abandoned 1908 rail station is currently in limbo.",
-    "info": null
-  },
-  {
-    "name": "Old Putnam Trail",
-    "lat": 40.8949955,
-    "lon": -73.8883146,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Opera House Hotel",
-    "lat": 40.815131,
-    "lon": -73.9160135,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Orchard Beach and Promenade",
-    "lat": 40.8662214,
-    "lon": -73.7931482,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Original Products",
-    "lat": 40.8606227,
-    "lon": -73.8922191,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Our Lady of Lourdes Grotto at St. Lucy's Church",
-    "lat": 40.8634155,
-    "lon": -73.8618497,
-    "icon": null,
-    "imageURL": null,
-    "description": "Collect holy water from a Bronx grotto.",
-    "info": null
-  },
-  {
-    "name": "Our Lady of Mount Carmel Church",
-    "lat": 40.8552197,
-    "lon": -73.8863748,
-    "icon": null,
-    "imageURL": null,
-    "description": "ceiling murals created by immigrant artists; Built in Romanesque style, for a parish founded in 1906, Our Lady of Mount Carmel Church has breathtaking architecture. The twin-towered church has a triple portal, a great wheel window, and superb brickwork. Inside, twelve massive marble columns represent the twelve disciples. The interior roof shows images of the twelve disciples and many saints. Numerous beautiful stained-glass windows represent the Joyful mysteries of the Rosary and the flight to Egypt, and some moments of the public life of Jesus and His Resurrection. At the height of its history in the 40's and 50's, more than 40,000 Italians made Our Lady of Mt. Carmel their parish.",
-    "info": null
-  },
-  {
-    "name": "Paradise Theater",
-    "lat": 40.8605153,
-    "lon": -73.8986443,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Paradise Theater",
-    "lat": 40.8606657,
-    "lon": -73.8984645,
-    "icon": null,
-    "imageURL": null,
-    "description": "landmarked interior",
-    "info": null
-  },
-  {
-    "name": "Pelham Bay Nature Center",
-    "lat": 40.8517408,
-    "lon": -73.8247308,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Perry Avenue Historic District",
-    "lat": 40.8703935,
-    "lon": -73.8837368,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Ploughmans Bush",
-    "lat": 40.8942223,
-    "lon": -73.9128086,
-    "icon": null,
-    "imageURL": null,
-    "description": "pretty area to walk around",
-    "info": null
-  },
-  {
-    "name": "Port Morris - Bronx Clock Tower",
-    "lat": 40.8077801,
-    "lon": -73.929304,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Pregones Theater",
-    "lat": 40.8194798,
-    "lon": -73.9282894,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Rambling House",
-    "lat": 40.8984987,
-    "lon": -73.8670844,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Richman (Echo) Park",
-    "lat": 40.8494665,
-    "lon": -73.9016277,
-    "icon": null,
-    "imageURL": null,
-    "description": "AKA \"echo park\"",
-    "info": null
-  },
-  {
-    "name": "Riverdale Historic District",
-    "lat": 40.9019444,
-    "lon": -73.9119444,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Roberto Clemente State Park",
-    "lat": 40.8539221,
-    "lon": -73.9211543,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Rocking the Boat",
-    "lat": 40.8178764,
-    "lon": -73.8831849,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Rose Hill Gymnasium",
-    "lat": 40.8621499,
-    "lon": -73.8838995,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Saint Paul's Church National Historic Site",
-    "lat": 40.893383,
-    "lon": -73.82577,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Seton Falls Park",
-    "lat": 40.8867535,
-    "lon": -73.8382306,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Shakespeare Steps",
-    "lat": 40.8357929,
-    "lon": -73.9236671,
-    "icon": null,
-    "imageURL": null,
-    "description": "Joker steps",
-    "info": null
-  },
-  {
-    "name": "Soundview Park",
-    "lat": 40.8171401,
-    "lon": -73.8727799,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "St Ann's Episcopal Church",
-    "lat": 40.8085413,
-    "lon": -73.9170144,
-    "icon": null,
-    "imageURL": null,
-    "description": "oldest church in the Bronx",
-    "info": null
-  },
-  {
-    "name": "St James Episcopal Church",
-    "lat": 40.8641915,
-    "lon": -73.8992851,
-    "icon": null,
-    "imageURL": null,
-    "description": "tiffany windows; last supper replcia",
-    "info": null
-  },
-  {
-    "name": "St. Nicholas of Tolentine Church",
-    "lat": 40.8624753,
-    "lon": -73.905929,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Starlight Park",
-    "lat": 40.8335727,
-    "lon": -73.8824847,
-    "icon": null,
-    "imageURL": null,
-    "description": "paved industrialized eyesore for decades, and fully opened in April 2023 when the City completed Phase 2 of the project at a cost of $41 million",
-    "info": null
-  },
-  {
-    "name": "Teitel Brothers",
-    "lat": 40.8548085,
-    "lon": -73.8880459,
-    "icon": null,
-    "imageURL": null,
-    "description": "The mosaic Star of David at the front of this store hints that it's no ordinary Italian grocer.",
-    "info": null
-  },
-  {
-    "name": "Thain Family Forest",
-    "lat": 40.8644046,
-    "lon": -73.87572,
-    "icon": null,
-    "imageURL": null,
-    "description": "This plot of old-growth forest is the largest surviving remnant of New York City's original woodland.",
-    "info": null
-  },
-  {
-    "name": "The Bronx Museum of the Arts",
-    "lat": 40.831012,
-    "lon": -73.919724,
-    "icon": null,
-    "imageURL": null,
-    "description": "The Bronx Museum of the Arts, or the Bronx Museum, is an art museum with a focus on contemporary and 20th-century American artists. The Bronx Museum has more than 800 paintings, photos, sculptures, and other works of art in its permanent collection. At times, the museum will host special exhibits featuring international artists. Highlights Here are some of the \"must see\" items at Bronx Museum of the Arts. Henry Chalfant: Art vs. Transit, 1977-1987 The Life and Times of Alvin Baltrop Eddie Martinez: White Outs",
-    "info": null
-  },
-  {
-    "name": "The Compound",
-    "lat": 40.8085503,
-    "lon": -73.9300578,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Edgar Allan Poe Cottage",
-    "lat": 40.8655316,
-    "lon": -73.8942093,
-    "icon": null,
-    "imageURL": null,
-    "description": "The famous author's cottage hideaway.",
-    "info": null
-  },
-  {
-    "name": "The Hall of Fame for Great Americans",
-    "lat": 40.8588088,
-    "lon": -73.9139637,
-    "icon": null,
-    "imageURL": null,
-    "description": "The Hall of Fame for Great Americans in NYC's Bronx neighborhood is an outdoor sculpture garden on the campus of Bronx Community College. The Hall of Fame is the first of its kind across the entire country. The gallery was designed by well-known architect Stanford White and is a 630-foot open air colonnade with close to 100 busts. Highlights Here are some of the \"must see\" items at Hall of Fame for Great Americans. George Washington Carver Edgar Allan Poe George Peabody",
-    "info": null
-  },
-  {
-    "name": "The High Bridge",
-    "lat": 40.8423253,
-    "lon": -73.930101,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Lit. Bar",
-    "lat": 40.80721,
-    "lon": -73.9275679,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Museum of Bronx History (MBH) at the Valentine-Varian House",
-    "lat": 40.8773653,
-    "lon": -73.8794392,
-    "icon": null,
-    "imageURL": null,
-    "description": "The Valentine-Varian House, which is also the Museum of Bronx History, is a pre-revolutionary era house built in 1758. During the Revolutionary War (1776-1783), the Valentine home was occupied by British, Hessian, and American troops. Except for 11 months between 1775 and 1776, Valentine and his family remained in the house throughout the war. The house, in close proximity to cannons clustered on a nearby hill, miraculously survived several fierce battles. Financial ruin forced Isaac Valentine to sell the home and the 260-acre property to Isaac Varian, a successful butcher and farmer, in 1792. The Varians kept the house for three generations; one of Isaac’s grandsons, also named Isaac, served as New York City’s 63rd mayor, from 1839-1841",
-    "info": null
-  },
-  {
-    "name": "The Point Campus for the Arts and Environment",
-    "lat": 40.8178103,
-    "lon": -73.8826006,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "THE POINT Community Development Corporation",
-    "lat": 40.8182249,
-    "lon": -73.8905741,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Van Cortlandt House Museum",
-    "lat": 40.8911764,
-    "lon": -73.8948066,
-    "icon": null,
-    "imageURL": null,
-    "description": "landmark interior",
-    "info": null
-  },
-  {
-    "name": "Twin Island",
-    "lat": 40.871211,
-    "lon": -73.7856884,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Universal Hip Hop Museum",
-    "lat": 40.8205231,
-    "lon": -73.930172,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Van Cortlandt Nature Center",
-    "lat": 40.8911192,
-    "lon": -73.8939424,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Villa Charlotte Brontë",
-    "lat": 40.8810127,
-    "lon": -73.9224837,
-    "icon": null,
-    "imageURL": null,
-    "description": "Built in the 1920s, this co-op in the Bronx feels more like an Italian villa than a typical New York apartment building.",
-    "info": null
-  },
-  {
-    "name": "Wallworks",
-    "lat": 40.806963,
-    "lon": -73.927139,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Wave Hill Public Gardens",
-    "lat": 40.8987092,
-    "lon": -73.9125247,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "West 230th Street",
-    "lat": 40.8789989,
-    "lon": -73.9090392,
-    "icon": null,
-    "imageURL": null,
-    "description": "The longest step street in the city.",
-    "info": null
-  },
-  {
-    "name": "West Farms Rapids",
-    "lat": 40.8401336,
-    "lon": -73.8786478,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "William Spain Seismic Observatory, Fordham University",
-    "lat": 40.8603105,
-    "lon": -73.8851894,
-    "icon": null,
-    "imageURL": null,
-    "description": "An unassuming stone building houses New York City's oldest seismic station almost 30 feet below the Bronx.",
-    "info": null
-  },
-  {
-    "name": "Woodlawn Cemetery",
-    "lat": 40.8951177,
-    "lon": -73.8640637,
-    "icon": null,
-    "imageURL": null,
-    "description": "The end of the 4 Line is also the end of the line for 300,000 souls in one of NYC's most illustrious cemeteries.",
-    "info": null
-  },
-  {
-    "name": "Woodlawn Lake",
-    "lat": 40.8938129,
-    "lon": -73.8708505,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  }
+   "lat": 40.8174412,
+   "lon": -73.9272563,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["art"],
+   "url": "https://www.longwoodartgallery.org/"
+ },
+ {
+   "name": "Longwood Historic District",
+   "lat": 40.8166024,
+   "lon": -73.898422,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Manida Street Historic District",
+   "lat": 40.8174202,
+   "lon": -73.889559,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Marble Hill Avenue",
+   "lat": 40.8764177,
+   "lon": -73.9094504,
+   "icon": null,
+   "imageURL": null,
+   "description": "neighborhood actually part of manhattan. street full of victorian homes",
+   "info": null,
+   "categories": ["historic", "neighborhood", "quirky"],
+   "url": null
+ },
+ {
+   "name": "Maritime Industry Museum at Fort Schuyler",
+   "lat": 40.8050732,
+   "lon": -73.790973,
+   "icon": null,
+   "imageURL": null,
+   "description": "The Maritime Industry Museum at Fort Schuyler is part of the SUNY Maritime College. The museum houses a number of artifacts and exhibits about maritime and sea life in the NYC area dating back hundreds of years. Guests can see intricate ship models, historic artifacts, and a slew of nautical photographs and prints. It is one of the country's biggest maritime collections. Highlights Here are some of the \"must see\" items at Maritime Industry Museum at Fort Schuyler. Underwater Artifact Exhibit Hall of Maritime Training Evolution of Seafaring",
+   "info": null,
+   "categories": ["museum", "historic"],
+   "url": "https://www.sunymaritime.edu/"
+ },
+ {
+   "name": "Mikes Deli",
+   "lat": 40.8542278,
+   "lon": -73.8882528,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["food"],
+   "url": "https://mikesdeli.com/"
+ },
+ {
+   "name": "Morris Academy for Collaborative Studies",
+   "lat": 40.8273033,
+   "lon": -73.9045097,
+   "icon": null,
+   "imageURL": null,
+   "description": "landmarked interior",
+   "info": null,
+   "categories": ["historic", "landmark"],
+   "url": null
+ },
+ {
+   "name": "Morris Avenue Historic District",
+   "lat": 40.8514339,
+   "lon": -73.9071893,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Morris High School Historic District",
+   "lat": 40.8275371,
+   "lon": -73.9030791,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Mott Haven East Historic District",
+   "lat": 40.8099207,
+   "lon": -73.9207945,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Mott Haven Historic District",
+   "lat": 40.8107398,
+   "lon": -73.9246564,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Mottley Kitchen",
+   "lat": 40.8101505,
+   "lon": -73.9216761,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["food"],
+   "url": "https://www.mottleykitchen.com/"
+ },
+ {
+   "name": "Muskrat Cove",
+   "lat": 40.8964083,
+   "lon": -73.862461,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": null
+ },
+ {
+   "name": "ND Cigars/La Casa Grande",
+   "lat": 40.8542533,
+   "lon": -73.8883718,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["shopping"],
+   "url": null
+ },
+ {
+   "name": "North Brother Island",
+   "lat": 40.8007201,
+   "lon": -73.8981368,
+   "icon": null,
+   "imageURL": null,
+   "description": "Home to the infamous \"Typhoid Mary\" and the worst loss of life in New York's history prior to September 11, 2001.",
+   "info": null,
+   "categories": ["historic", "nature", "quirky"],
+   "url": null
+ },
+ {
+   "name": "NYW&B Westchester Avenue Station",
+   "lat": 40.8277969,
+   "lon": -73.8854752,
+   "icon": null,
+   "imageURL": null,
+   "description": "Designed by famed 20th-century architect Cass Gilbert, the future of this abandoned 1908 rail station is currently in limbo.",
+   "info": null,
+   "categories": ["historic", "quirky"],
+   "url": null
+ },
+ {
+   "name": "Old Putnam Trail",
+   "lat": 40.8949955,
+   "lon": -73.8883146,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Opera House Hotel",
+   "lat": 40.815131,
+   "lon": -73.9160135,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic"],
+   "url": null
+ },
+ {
+   "name": "Orchard Beach and Promenade",
+   "lat": 40.8662214,
+   "lon": -73.7931482,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["park", "nature"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Original Products",
+   "lat": 40.8606227,
+   "lon": -73.8922191,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["shopping"],
+   "url": null
+ },
+ {
+   "name": "Our Lady of Lourdes Grotto at St. Lucy's Church",
+   "lat": 40.8634155,
+   "lon": -73.8618497,
+   "icon": null,
+   "imageURL": null,
+   "description": "Collect holy water from a Bronx grotto.",
+   "info": null,
+   "categories": ["religious", "quirky"],
+   "url": "https://stlucychurch.org/"
+ },
+ {
+   "name": "Our Lady of Mount Carmel Church",
+   "lat": 40.8552197,
+   "lon": -73.8863748,
+   "icon": null,
+   "imageURL": null,
+   "description": "ceiling murals created by immigrant artists; Built in Romanesque style, for a parish founded in 1906, Our Lady of Mount Carmel Church has breathtaking architecture. The twin-towered church has a triple portal, a great wheel window, and superb brickwork. Inside, twelve massive marble columns represent the twelve disciples. The interior roof shows images of the twelve disciples and many saints. Numerous beautiful stained-glass windows represent the Joyful mysteries of the Rosary and the flight to Egypt, and some moments of the public life of Jesus and His Resurrection. At the height of its history in the 40's and 50's, more than 40,000 Italians made Our Lady of Mt. Carmel their parish.",
+   "info": null,
+   "categories": ["religious", "historic", "art"],
+   "url": "https://olmcchurch.com/"
+ },
+ {
+   "name": "Paradise Theater",
+   "lat": 40.8605153,
+   "lon": -73.8986443,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["theater", "historic"],
+   "url": null
+ },
+ {
+   "name": "Paradise Theater",
+   "lat": 40.8606657,
+   "lon": -73.8984645,
+   "icon": null,
+   "imageURL": null,
+   "description": "landmarked interior",
+   "info": null,
+   "categories": ["theater", "historic", "landmark"],
+   "url": null
+ },
+ {
+   "name": "Pelham Bay Nature Center",
+   "lat": 40.8517408,
+   "lon": -73.8247308,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "museum"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Perry Avenue Historic District",
+   "lat": 40.8703935,
+   "lon": -73.8837368,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Ploughmans Bush",
+   "lat": 40.8942223,
+   "lon": -73.9128086,
+   "icon": null,
+   "imageURL": null,
+   "description": "pretty area to walk around",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": null
+ },
+ {
+   "name": "Port Morris - Bronx Clock Tower",
+   "lat": 40.8077801,
+   "lon": -73.929304,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "landmark"],
+   "url": null
+ },
+ {
+   "name": "Pregones Theater",
+   "lat": 40.8194798,
+   "lon": -73.9282894,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["theater"],
+   "url": "https://www.pregones.org/"
+ },
+ {
+   "name": "Rambling House",
+   "lat": 40.8984987,
+   "lon": -73.8670844,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["food"],
+   "url": null
+ },
+ {
+   "name": "Richman (Echo) Park",
+   "lat": 40.8494665,
+   "lon": -73.9016277,
+   "icon": null,
+   "imageURL": null,
+   "description": "AKA \"echo park\"",
+   "info": null,
+   "categories": ["park", "quirky"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Riverdale Historic District",
+   "lat": 40.9019444,
+   "lon": -73.9119444,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "neighborhood"],
+   "url": null
+ },
+ {
+   "name": "Roberto Clemente State Park",
+   "lat": 40.8539221,
+   "lon": -73.9211543,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["park"],
+   "url": "https://parks.ny.gov/"
+ },
+ {
+   "name": "Rocking the Boat",
+   "lat": 40.8178764,
+   "lon": -73.8831849,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["entertainment", "nature"],
+   "url": "https://rockingtheboat.org/"
+ },
+ {
+   "name": "Rose Hill Gymnasium",
+   "lat": 40.8621499,
+   "lon": -73.8838995,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["entertainment", "historic"],
+   "url": "https://www.fordham.edu/"
+ },
+ {
+   "name": "Saint Paul's Church National Historic Site",
+   "lat": 40.893383,
+   "lon": -73.82577,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["religious", "historic"],
+   "url": "https://www.nps.gov/sapa/"
+ },
+ {
+   "name": "Seton Falls Park",
+   "lat": 40.8867535,
+   "lon": -73.8382306,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["park", "nature"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Shakespeare Steps",
+   "lat": 40.8357929,
+   "lon": -73.9236671,
+   "icon": null,
+   "imageURL": null,
+   "description": "Joker steps",
+   "info": null,
+   "categories": ["landmark", "quirky"],
+   "url": null
+ },
+ {
+   "name": "Soundview Park",
+   "lat": 40.8171401,
+   "lon": -73.8727799,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["park"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "St Ann's Episcopal Church",
+   "lat": 40.8085413,
+   "lon": -73.9170144,
+   "icon": null,
+   "imageURL": null,
+   "description": "oldest church in the Bronx",
+   "info": null,
+   "categories": ["religious", "historic"],
+   "url": "https://www.stannsmorrisania.org/"
+ },
+ {
+   "name": "St James Episcopal Church",
+   "lat": 40.8641915,
+   "lon": -73.8992851,
+   "icon": null,
+   "imageURL": null,
+   "description": "tiffany windows; last supper replica",
+   "info": null,
+   "categories": ["religious", "historic", "art"],
+   "url": "https://www.stjamesbronx.org/"
+ },
+ {
+   "name": "St. Nicholas of Tolentine Church",
+   "lat": 40.8624753,
+   "lon": -73.905929,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["religious"],
+   "url": "https://www.saintnicholasbronx.org/"
+ },
+ {
+   "name": "Starlight Park",
+   "lat": 40.8335727,
+   "lon": -73.8824847,
+   "icon": null,
+   "imageURL": null,
+   "description": "paved industrialized eyesore for decades, and fully opened in April 2023 when the City completed Phase 2 of the project at a cost of $41 million",
+   "info": null,
+   "categories": ["park"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Teitel Brothers",
+   "lat": 40.8548085,
+   "lon": -73.8880459,
+   "icon": null,
+   "imageURL": null,
+   "description": "The mosaic Star of David at the front of this store hints that it's no ordinary Italian grocer.",
+   "info": null,
+   "categories": ["food", "shopping", "quirky"],
+   "url": "https://www.teitelbrothers.com/"
+ },
+ {
+   "name": "Thain Family Forest",
+   "lat": 40.8644046,
+   "lon": -73.87572,
+   "icon": null,
+   "imageURL": null,
+   "description": "This plot of old-growth forest is the largest surviving remnant of New York City's original woodland.",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": "https://www.nybg.org/"
+ },
+ {
+   "name": "The Bronx Museum of the Arts",
+   "lat": 40.831012,
+   "lon": -73.919724,
+   "icon": null,
+   "imageURL": null,
+   "description": "The Bronx Museum of the Arts, or the Bronx Museum, is an art museum with a focus on contemporary and 20th-century American artists. The Bronx Museum has more than 800 paintings, photos, sculptures, and other works of art in its permanent collection. At times, the museum will host special exhibits featuring international artists. Highlights Here are some of the \"must see\" items at Bronx Museum of the Arts. Henry Chalfant: Art vs. Transit, 1977-1987 The Life and Times of Alvin Baltrop Eddie Martinez: White Outs",
+   "info": null,
+   "categories": ["museum", "art"],
+   "url": "https://www.bronxmuseum.org/"
+ },
+ {
+   "name": "The Compound",
+   "lat": 40.8085503,
+   "lon": -73.9300578,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["art"],
+   "url": null
+ },
+ {
+   "name": "The Edgar Allan Poe Cottage",
+   "lat": 40.8655316,
+   "lon": -73.8942093,
+   "icon": null,
+   "imageURL": null,
+   "description": "The famous author's cottage hideaway.",
+   "info": null,
+   "categories": ["museum", "historic"],
+   "url": "https://www.bronxhistoricalsociety.org/"
+ },
+ {
+   "name": "The Hall of Fame for Great Americans",
+   "lat": 40.8588088,
+   "lon": -73.9139637,
+   "icon": null,
+   "imageURL": null,
+   "description": "The Hall of Fame for Great Americans in NYC's Bronx neighborhood is an outdoor sculpture garden on the campus of Bronx Community College. The Hall of Fame is the first of its kind across the entire country. The gallery was designed by well-known architect Stanford White and is a 630-foot open air colonnade with close to 100 busts. Highlights Here are some of the \"must see\" items at Hall of Fame for Great Americans. George Washington Carver Edgar Allan Poe George Peabody",
+   "info": null,
+   "categories": ["museum", "historic", "art"],
+   "url": "https://www.bcc.cuny.edu/"
+ },
+ {
+   "name": "The High Bridge",
+   "lat": 40.8423253,
+   "lon": -73.930101,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["historic", "landmark"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "The Lit. Bar",
+   "lat": 40.80721,
+   "lon": -73.9275679,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["bookstore", "food"],
+   "url": "https://www.thelitbar.com/"
+ },
+ {
+   "name": "The Museum of Bronx History (MBH) at the Valentine-Varian House",
+   "lat": 40.8773653,
+   "lon": -73.8794392,
+   "icon": null,
+   "imageURL": null,
+   "description": "The Valentine-Varian House, which is also the Museum of Bronx History, is a pre-revolutionary era house built in 1758. During the Revolutionary War (1776-1783), the Valentine home was occupied by British, Hessian, and American troops. Except for 11 months between 1775 and 1776, Valentine and his family remained in the house throughout the war. The house, in close proximity to cannons clustered on a nearby hill, miraculously survived several fierce battles. Financial ruin forced Isaac Valentine to sell the home and the 260-acre property to Isaac Varian, a successful butcher and farmer, in 1792. The Varians kept the house for three generations; one of Isaac's grandsons, also named Isaac, served as New York City's 63rd mayor, from 1839-1841",
+   "info": null,
+   "categories": ["museum", "historic"],
+   "url": "https://www.bronxhistoricalsociety.org/"
+ },
+ {
+   "name": "The Point Campus for the Arts and Environment",
+   "lat": 40.8178103,
+   "lon": -73.8826006,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["art", "nature"],
+   "url": "https://thepoint.org/"
+ },
+ {
+   "name": "THE POINT Community Development Corporation",
+   "lat": 40.8182249,
+   "lon": -73.8905741,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["art"],
+   "url": "https://thepoint.org/"
+ },
+ {
+   "name": "The Van Cortlandt House Museum",
+   "lat": 40.8911764,
+   "lon": -73.8948066,
+   "icon": null,
+   "imageURL": null,
+   "description": "landmark interior",
+   "info": null,
+   "categories": ["museum", "historic", "landmark"],
+   "url": "https://www.vancortlandthouse.org/"
+ },
+ {
+   "name": "Twin Island",
+   "lat": 40.871211,
+   "lon": -73.7856884,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature"],
+   "url": null
+ },
+ {
+   "name": "Universal Hip Hop Museum",
+   "lat": 40.8205231,
+   "lon": -73.930172,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["museum", "music"],
+   "url": "https://www.uhhm.org/"
+ },
+ {
+   "name": "Van Cortlandt Nature Center",
+   "lat": 40.8911192,
+   "lon": -73.8939424,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "museum"],
+   "url": "https://www.nycgovparks.org/"
+ },
+ {
+   "name": "Villa Charlotte Brontë",
+   "lat": 40.8810127,
+   "lon": -73.9224837,
+   "icon": null,
+   "imageURL": null,
+   "description": "Built in the 1920s, this co-op in the Bronx feels more like an Italian villa than a typical New York apartment building.",
+   "info": null,
+   "categories": ["historic", "landmark"],
+   "url": null
+ },
+ {
+   "name": "Wallworks",
+   "lat": 40.806963,
+   "lon": -73.927139,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["art"],
+   "url": "https://wallworksny.org/"
+ },
+ {
+   "name": "Wave Hill Public Gardens",
+   "lat": 40.8987092,
+   "lon": -73.9125247,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": "https://www.wavehill.org/"
+ },
+ {
+   "name": "West 230th Street",
+   "lat": 40.8789989,
+   "lon": -73.9090392,
+   "icon": null,
+   "imageURL": null,
+   "description": "The longest step street in the city.",
+   "info": null,
+   "categories": ["quirky", "landmark"],
+   "url": null
+ },
+ {
+   "name": "West Farms Rapids",
+   "lat": 40.8401336,
+   "lon": -73.8786478,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature"],
+   "url": null
+ },
+ {
+   "name": "William Spain Seismic Observatory, Fordham University",
+   "lat": 40.8603105,
+   "lon": -73.8851894,
+   "icon": null,
+   "imageURL": null,
+   "description": "An unassuming stone building houses New York City's oldest seismic station almost 30 feet below the Bronx.",
+   "info": null,
+   "categories": ["museum", "quirky"],
+   "url": "https://www.fordham.edu/"
+ },
+ {
+   "name": "Woodlawn Cemetery",
+   "lat": 40.8951177,
+   "lon": -73.8640637,
+   "icon": null,
+   "imageURL": null,
+   "description": "The end of the 4 Line is also the end of the line for 300,000 souls in one of NYC's most illustrious cemeteries.",
+   "info": null,
+   "categories": ["historic"],
+   "url": "https://thewoodlawncemetery.org/"
+ },
+ {
+   "name": "Woodlawn Lake",
+   "lat": 40.8938129,
+   "lon": -73.8708505,
+   "icon": null,
+   "imageURL": null,
+   "description": "",
+   "info": null,
+   "categories": ["nature", "park"],
+   "url": "https://www.nycgovparks.org/"
+ }
 ]
