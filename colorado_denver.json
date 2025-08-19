@@ -9,7 +9,7 @@
     "description": "A technicolor place of worship for Elevationists.",
     "info": null,
     "categories": [
-      "religious"
+      "quirky"
     ]
   },
   {
@@ -21,8 +21,7 @@
     "description": "This modern antique shop is a museum for 1980's Saturday morning cartoon culture.",
     "info": null,
     "categories": [
-      "shopping",
-      "museum"
+      "shopping"
     ]
   },
   {
@@ -97,7 +96,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+    
     ]
   },
   {
@@ -109,7 +108,6 @@
     "description": "",
     "info": null,
     "categories": [
-      "park",
       "museum"
     ]
   },
@@ -122,7 +120,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "nature"
     ]
   },
   {
@@ -134,7 +132,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ]
   },
   {
@@ -182,7 +180,7 @@
     "description": "Offers free tours of this gold-domed building, including access to the dome's observation deck with 360-degree views of Denver and the Rocky Mountains.",
     "info": null,
     "categories": [
-      "nature"
+      "museum", "historic"
     ]
   },
   {
@@ -330,7 +328,7 @@
     "description": "A home covered with elaborate mosaic and other pieces of art.",
     "info": null,
     "categories": [
-      "landmark"
+      "quirky"
     ]
   },
   {
@@ -354,7 +352,7 @@
     "description": "Explore some of the most unique vehicles in history along with a cast of unsettling mannequins.",
     "info": null,
     "categories": [
-      "quirky",
+    
       "museum"
     ]
   },
@@ -367,7 +365,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "quirky"
     ]
   },
   {
@@ -403,9 +401,7 @@
     "description": "While comics are the main attraction at this megastore, the second floor plays host to an exhibit fit for a museum.",
     "info": null,
     "categories": [
-      "shopping",
-      "neighborhood",
-      "museum"
+      "shopping"
     ]
   },
   {
@@ -417,7 +413,7 @@
     "description": "A collection of over 15,000 zines works to preserve DIY publishing culture.",
     "info": null,
     "categories": [
-      "drinking"
+      "museum"
     ]
   },
   {
@@ -429,7 +425,7 @@
     "description": "Where scientists keep miles of very valuable ice from Antarctica and Greenland from melting.",
     "info": null,
     "categories": [
-      "landmark"
+      
     ]
   },
   {
@@ -441,7 +437,7 @@
     "description": "Wall to wall taxidermy at Denver's oldest and most exotic steakhouse.",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ]
   },
   {
@@ -465,7 +461,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ]
   },
   {
@@ -477,7 +473,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ]
   },
   {
@@ -513,8 +509,7 @@
     "description": "located inside an historic 1895 Congress Park home in Denver , creating an intimate, residential experience rather than a typical retail environment.",
     "info": null,
     "categories": [
-      "park",
-      "historic"
+      "shopping"
     ]
   },
   {
@@ -526,7 +521,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ]
   },
   {
@@ -562,7 +557,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "drinking"
+
     ]
   },
   {
@@ -586,7 +581,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping", "quirky"
     ]
   },
   {
@@ -598,7 +593,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "historic"
+      "landmark"
     ]
   },
   {
