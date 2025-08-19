@@ -1,3 +1,4 @@
+
 [
   {
     "name": "International Church of Cannabis",
@@ -6,7 +7,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A technicolor place of worship for Elevationists.",
-    "info": null
+    "info": null,
+    "categories": [
+      "religious"
+    ]
   },
   {
     "name": "Fifty Two 80's A Totally Awesome Shop",
@@ -15,7 +19,11 @@
     "icon": null,
     "imageURL": null,
     "description": "This modern antique shop is a museum for 1980's Saturday morning cartoon culture.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping",
+      "museum"
+    ]
   },
   {
     "name": "John L \"Jack\" Swigert Jr. Statue",
@@ -24,7 +32,10 @@
     "icon": null,
     "imageURL": null,
     "description": "In the middle of a busy airport, a statue honoring the astronaut who told Houston that Apollo 13 had a problem.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "HR Meininger Company",
@@ -33,7 +44,10 @@
     "icon": null,
     "imageURL": null,
     "description": "One of the oldest art supply stores in the United States.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "name": "Sakura Square",
@@ -42,7 +56,13 @@
     "icon": null,
     "imageURL": null,
     "description": "In a small Japanese garden off a busy Denver street, a memorial to a brave, principled politician.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping",
+      "park",
+      "neighborhood",
+      "historic"
+    ]
   },
   {
     "name": "North Side Park",
@@ -51,7 +71,10 @@
     "icon": null,
     "imageURL": null,
     "description": "An innovative local park built from an abandoned sewage treatment plant.",
-    "info": null
+    "info": null,
+    "categories": [
+      "park"
+    ]
   },
   {
     "name": "Molly Brown House Museum",
@@ -60,7 +83,10 @@
     "icon": null,
     "imageURL": null,
     "description": "One of the greatest heroes of the Titanic tragedy came from humble beginnings to this beautiful home.",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "National Science Foundation Ice Core Facility",
@@ -69,7 +95,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "National Ballpark Museum",
@@ -78,7 +107,11 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "park",
+      "museum"
+    ]
   },
   {
     "name": "Plains Conservation Center (Visitor Center)",
@@ -87,7 +120,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Museo de las Americas",
@@ -96,7 +132,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "The Kirkland at the Denver Art Museum",
@@ -105,7 +144,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Denver Art Museum",
@@ -114,7 +156,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "History Colorado Center",
@@ -123,7 +168,10 @@
     "icon": null,
     "imageURL": null,
     "description": "This museum offers an actual time machine back through Colorado's past.",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Colorado State Capitol",
@@ -132,7 +180,10 @@
     "icon": null,
     "imageURL": null,
     "description": "Offers free tours of this gold-domed building, including access to the dome's observation deck with 360-degree views of Denver and the Rocky Mountains.",
-    "info": null
+    "info": null,
+    "categories": [
+      "nature"
+    ]
   },
   {
     "name": "Fountain Island",
@@ -141,7 +192,10 @@
     "icon": null,
     "imageURL": null,
     "description": "This stunning, technicolor array of geysers has occupied Ferril lake since 1908.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "The Learned Lemur",
@@ -150,7 +204,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A small store filled with animal skulls and other curiosities.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "name": "Clyfford Still Museum",
@@ -159,7 +216,10 @@
     "icon": null,
     "imageURL": null,
     "description": "Soak in the life\u2019s work of one of the country\u2019s foremost modern artists",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Mountain States Telephone & Telegraph Company Headquarters Building",
@@ -168,7 +228,13 @@
     "icon": null,
     "imageURL": null,
     "description": "Allen Tupper True Murals at the Mountain States Telephone Building<br>These murals from the 1920s beautifully depict America\u2019s industrial age.Adorning the lobbies of the historic Mountain States Telephone Building in Denver, Colorado, are the Art Deco murals painted by acclaimed Colorado muralist Allen Tupper True. Created between 1927 and 1929, they depict the history of communications in the West\u2014and the workers who made it possible.<br><br><br>The Mountain States Telephone Building is considered to be one of the last Bell System Palaces. It is styled in the Gothic Revival style. More of True\u2019s murals can be found throughout Denver, including at the Colorado National Bank, The Brown Palace, and the Denver Civic Center.<br><br>In the 1980s, after decades of time taking its toll, True\u2019s murals at the Telephone Building were restored. Today, if you visit during regular business hours, you can duck into the foyer of the building on the 14th Street entrance. In this lobby, there are two additional murals. The building itself is closed to visitors. On the Curtis side there are additional murals that can be seen behind a security gate.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping",
+      "neighborhood",
+      "nature",
+      "historic"
+    ]
   },
   {
     "name": "Cruise Room",
@@ -177,7 +243,10 @@
     "icon": null,
     "imageURL": null,
     "description": "This swanky speakeasy is Denver\u2019s oldest bar\u2014and hasn\u2019t changed a bit since 1933.",
-    "info": null
+    "info": null,
+    "categories": [
+      "drinking"
+    ]
   },
   {
     "name": "SoundWalk",
@@ -186,7 +255,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A unique auditory experience right on the sidewalk.",
-    "info": null
+    "info": null,
+    "categories": [
+      "quirky"
+    ]
   },
   {
     "name": "Landmark's Mayan Theatre",
@@ -195,7 +267,10 @@
     "icon": null,
     "imageURL": null,
     "description": "One of three remaining theatres in the United States created in the Art Deco Mayan Revival style.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "North Side Park",
@@ -204,7 +279,10 @@
     "icon": null,
     "imageURL": null,
     "description": "An innovative local park built from an abandoned sewage treatment plant",
-    "info": null
+    "info": null,
+    "categories": [
+      "park"
+    ]
   },
   {
     "name": "Daniels & Fisher",
@@ -213,7 +291,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A focal point of in Denver\u2019s skyline for over a century, inspired by a Venetian basilica.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Four Mile Historic Park",
@@ -222,7 +303,11 @@
     "icon": null,
     "imageURL": null,
     "description": "It's easy to forget what century it is as you wander this rustic homestead.",
-    "info": null
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ]
   },
   {
     "name": "My Brother's Bar",
@@ -231,7 +316,10 @@
     "icon": null,
     "imageURL": null,
     "description": "Neal Cassady may still have an open tab at one of Denver\u2019s oldest watering holes.",
-    "info": null
+    "info": null,
+    "categories": [
+      "drinking"
+    ]
   },
   {
     "name": "Enchanted hart Haus",
@@ -240,7 +328,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A home covered with elaborate mosaic and other pieces of art.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "The Terrorium Shop",
@@ -249,7 +340,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A beautiful combination of living flora with preserved bones covers the shelves of this shop.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "name": "Forney Museum of Transportation",
@@ -258,7 +352,11 @@
     "icon": null,
     "imageURL": null,
     "description": "Explore some of the most unique vehicles in history along with a cast of unsettling mannequins.",
-    "info": null
+    "info": null,
+    "categories": [
+      "quirky",
+      "museum"
+    ]
   },
   {
     "name": "Meow Wolf Denver's Convergence Station",
@@ -267,7 +365,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "American Museum of Western Art - The Anschutz Collection",
@@ -276,7 +377,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "The huge collection of paintings of the American West is one of Denver's best-kept secrets.",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Denver Mile High Steps Marker",
@@ -285,7 +389,10 @@
     "icon": null,
     "imageURL": null,
     "description": "The spot in the Mile-High City that's exactly 5,280 feet above sea level (at least for now).",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Mile High Comics - Jason Street Mega Store",
@@ -294,7 +401,12 @@
     "icon": null,
     "imageURL": null,
     "description": "While comics are the main attraction at this megastore, the second floor plays host to an exhibit fit for a museum.",
-    "info": null
+    "info": null,
+    "categories": [
+      "shopping",
+      "neighborhood",
+      "museum"
+    ]
   },
   {
     "name": "Denver Zine Library",
@@ -303,7 +415,10 @@
     "icon": null,
     "imageURL": null,
     "description": "A collection of over 15,000 zines works to preserve DIY publishing culture.",
-    "info": null
+    "info": null,
+    "categories": [
+      "drinking"
+    ]
   },
   {
     "name": "National Science Foundation Ice Core Facility",
@@ -312,7 +427,10 @@
     "icon": null,
     "imageURL": null,
     "description": "Where scientists keep miles of very valuable ice from Antarctica and Greenland from melting.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Buckhorn Exchange",
@@ -321,7 +439,10 @@
     "icon": null,
     "imageURL": null,
     "description": "Wall to wall taxidermy at Denver's oldest and most exotic steakhouse.",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Black American West Museum & Heritage Center",
@@ -330,7 +451,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Rockmount Ranch Wear Mfg Co",
@@ -339,7 +463,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Casa Bonita",
@@ -348,7 +475,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Dikeou Collection",
@@ -357,7 +487,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Denver Museum of Miniatures, Dolls & Toys",
@@ -366,7 +499,10 @@
     "icon": "museum",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Walltawk",
@@ -375,7 +511,11 @@
     "icon": "green",
     "imageURL": null,
     "description": "located inside an historic 1895 Congress Park home in Denver , creating an intimate, residential experience rather than a typical retail environment.",
-    "info": null
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ]
   },
   {
     "name": "Governor's Residence at the Boettcher Mansion",
@@ -384,7 +524,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Wings Over the Rockies Air & Space Museum",
@@ -393,7 +536,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Bluebird Theater",
@@ -402,7 +548,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "theater"
+    ]
   },
   {
     "name": "The Clocktower Cabaret",
@@ -411,7 +560,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "drinking"
+    ]
   },
   {
     "name": "The Brown Palace Hotel and Spa, Autograph Collection",
@@ -420,7 +572,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Reinke Brothers",
@@ -429,7 +584,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
     "name": "Columbine Memorial",
@@ -438,7 +596,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "historic"
+    ]
   },
   {
     "name": "Rocky Mountain Arsenal National Wildlife Refuge",
@@ -447,7 +608,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "nature"
+    ]
   },
   {
     "name": "Red Rocks Park and Amphitheatre",
@@ -456,7 +620,10 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": [
+      "park"
+    ]
   },
   {
     "name": "Colorado Antique Gallery",
@@ -465,6 +632,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This gallery is home to everything from antiques, to ancient tribal masks.",
-    "info": null
+    "info": null,
+    "categories": [
+      "art"
+    ]
   }
 ]
