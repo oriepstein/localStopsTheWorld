@@ -217,7 +217,7 @@
     "description": "The façade of this building looks like a bingo board, but it's really a giant clock by a famed graphic designer. <br>RUDOLPH DE HARAK WAS A famous graphic designer who worked on a lot of things over his long and storied career: hundreds of paperbook covers for McGraw-Hill, illustrations for Esquire magazine, jazz covers for record labels like Columbia and Westminster. He even designed the placards for the Egyptian Wing of the Metropolitan Museum of Art, signage that took 10 years to complete and is still in use today. But for many New Yorkers, perhaps his most famous and enduring work is the clock on the exterior of 127 John Street in Lower Manhattan.<br><br>The artist was influenced by abstract expressionism, Dada, op art, and pop art. He even designed a number of \"traditional\" analog clocks, some of which can be found in the collection of the Museum of Modern Art. But the façade across from the South Street Seaport takes a more digital approach. The clock is laid out as a grid of numbers: 1–12 for the hour of the day, then 0-59 for the minute and the second. The numbers light up whenever it is their time; the hours in red, the minutes in blue, and the seconds in green.<br><br>At the time work was completed in 1971, it was the largest clock in the world. The clock is joined by a number of embellishments to the building and street. The entrance of the building is a tunnel ringed in bright blue argon-gas lights, and the building is surrounded by brightly colored street furniture like loveseats, garbage cans, and telephone booths.",
     "info": null,
     "url": null,
-    "categories": ["art", "quirky", "landmark"]
+    "categories": ["quirky", "landmark"]
   },
   {
     "name": "Titanic Memorial Park",
@@ -303,7 +303,8 @@
     "imageURL": null,
     "description": "Twice a day one of these tragic bronze mariners drowns with the tide to remember all those the sea has taken. <br>HIDDEN AWAY IN THE WATER off Battery Park is one of the most moving memorials you are ever likely to see. The American Merchant Mariner's memorial, sculpted by Marisol Escobar in 1991, takes the form of three merchant seamen stranded on a sinking ship, terrified, calling for help and trying to reach the desperate hand of one of their shipmates floundering in the water below.<br><br>The United States Merchant Mariner suffered more casualties than any other American service during World War II, 1 of every 26 mariners would not return home. Facing submarines, mines, armed raiders, destroyers, aircraft, \"kamikaze,\" and the elements. About 8,300 mariners were killed at sea, 12,000 wounded of whom at least 1,100 died from their wounds, and 663 men and women were taken prisoner. Some were blown to death, some incinerated, some drowned, some froze, and some starved. Sixty-six died in prison camps or aboard Japanese ships while being transported to other camps. Thirty-one American merchant ships vanished without a trace to a watery grave.<br><br>The sculpture bears the following inscription: \"This memorial serves as a marker for America's merchant mariners resting in the unmarked ocean depths.\" The monument is based on a true event, the sinking of SS Muskogee by German U-boat 123 on March 22nd, 1942. The Muskogee was sailing from Venezuela to Halifax carrying a cargo of petroleum. Without an escort and unarmed, the Muskogee was hit by a torpedo in her engine room and began to sink within a quarter of an hour, 335 miles north-northeast. Ten survivors clung to life rafts in the burning sea as the U-boat surfaced. The submarine captain Reinhard Hardegen took their photograph, and it's from this, that Escobar based her sculpture. <br><br>What makes the memorial so moving is that the helpless sailor in the water is covered by the Upper New York Bay with each high tide. His fingertips permanently out of reach to his companions, he drowns twice a day. The plaque next to the memorial makes the striking statue all the more poignant, where we learn that for the crew of the SS Muskogee; \"left to the perils of the sea, the survivors later perished.\"",
     "info": null,
-    "url": null
+    "url": "https://www.nps.gov/places/american-merchant-mariners-memorial.htm",
+    "categories": ["landmark", "historic", "art"]
   },
   {
     "name": "23 Wall St",
@@ -313,7 +314,8 @@
     "imageURL": null,
     "description": "Unrepaired walls from a 1920 anarchist bomb attack<br>Ranging in size from small, missing chunks of limestone to deeper baseball-sized pits, the scars are all that remain of an oft forgotten terrorist attack in the early 20th century.<br><br>On September 16, 1920, a horse-drawn carriage carrying a large bomb was driven to the intersection of Wall Street and Broad Street. When detonated, the bomb sent fragments hurtling into the surrounding buildings, killing 39 people and badly wounding many others. The amount of destruction totaled $2 million, most of it on the corner of the two streets.<br><br>At the time, the corner building on Wall Street was the headquarters of J.P. Morgan, and was a well-known landmark in the city. Considering the circumstances and target, police surmised the bombing was an act of terrorism, and a possible attempt on J.P. Morgan's life.<br><br>Although some evidence was found, the case was never resolved and was dropped 20 years after the bombing. It is believed that the attack was carried out by Italian anarchists, in particular by one Mario Buda, an associate of famous anarchists Sacco and Vanzetti. Until September 11, 2001, the Wall Street bombing was the deadliest terrorist attack in the history of New York City.<br><br>The fragments in the old Morgan building have never been repaired, and stand as a reminder of the explosion that occurred nearly a century ago.",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark", "quirky"]
   },
   {
     "name": "Olfactory Art Keller",
@@ -323,7 +325,8 @@
     "imageURL": null,
     "description": "The only gallery in New York dedicated to olfactory art and the exploration of scent in art.",
     "info": null,
-    "url": "https://artolfactorykeller.com/"
+    "url": "https://artolfactorykeller.com/",
+    "categories": ["art", "quirky"]
   },
   {
     "name": "Mysterious Book Shop",
@@ -333,7 +336,8 @@
     "imageURL": null,
     "description": "The world's oldest and biggest bookstore stocking only mystery, crime fiction, espionage, and thrillers.",
     "info": null,
-    "url": "https://www.mysteriousbookshop.com/"
+    "url": "https://www.mysteriousbookshop.com/",
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "ASDS REP THEATER",
@@ -343,17 +347,19 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["theater", "entertainment"]
   },
   {
-    "name": "Museum of Jewish Heritage \u2013 A Living Memorial to the Holocaust",
+    "name": "Museum of Jewish Heritage – A Living Memorial to the Holocaust",
     "lat": 40.706253,
     "lon": -74.018778,
     "icon": null,
     "imageURL": null,
     "description": "The Museum of Jewish Heritage located in Manhattan's Battery Park City is a memorial to the victims of the Holocaust. On top of the building is a pyramid known as the Living Memorial to the Holocaust. More than 1.5 million people have visited the museum to learn more about those who lost their lives during the Holocaust. The museum's mission is to chronicle the lives of Jewish people and traditions from the time before, the time during, and the time after the Holocaust.<br><br>Highlights<br>Here are some of the \"must see\" items at Museum of Jewish Heritage.<br><br>Auschwitz. Not long ago. Not far away<br>The Number on Great-Grandpa's Arm<br>Eyewitness: Photographs By B.A. Van Sise",
     "info": null,
-    "url": "https://mjhnyc.org/"
+    "url": "https://mjhnyc.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Castle Clinton National Monument",
@@ -363,7 +369,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.nps.gov/cacl/"
+    "url": "https://www.nps.gov/cacl/",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Mmuseumm",
@@ -373,7 +380,8 @@
     "imageURL": null,
     "description": "A tiny museum housed in a New York freight elevator specializes in the \"overlooked,dismissed, or ignored.\" <br>=",
     "info": null,
-    "url": "https://mmuseumm.com/"
+    "url": "https://mmuseumm.com/",
+    "categories": ["museum", "quirky"]
   },
   {
     "name": "South Ferry",
@@ -383,7 +391,8 @@
     "imageURL": null,
     "description": "As the team was conducting excavations for the South Ferry Station, they came upon one of the oldest man-made structure still in place in Manhattan, the Battery Wall. The wall was built around 1755 at the southwestern tip of Manhattan to shield the colony, then under British rule, from enemies as well as rough waves and wind. The wall was buried under landfill in the late 18th century and further buried by Battery Park in the 19th century. Today, you can walk right up to the wall and touch it. You can even see fossilized oyster shells embedded in the stones.",
     "info": null,
-    "url": null
+    "url": "https://www.mta.info/",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Barthman's Sidewalk Clock",
@@ -393,7 +402,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark", "quirky"]
   },
   {
     "name": "Stone Street",
@@ -403,7 +413,8 @@
     "imageURL": null,
     "description": "The cobblestones of Stone Street date back to around 1655, when the road became the first in the Dutch colony of New Amsterdam to be paved. Legend says a wealthy brewer's wife who lived on the street was fed up with dust from the street being kicked up by horses and ruining her drapes, and got Peter Stuyvesant to pave the street. The street has gone by many names throughout its history based on whoever owned it.<br><br>Known to the Dutch as Hoogh Straet or High Street and later Brewer Street, the English renamed it Duke Street. In the midst of anti-English sentiment that followed the American Revolution, many English street names were replaced. Duke Street became Stone Street in honor of its status as the first paved road, which you can still walk on today. Discover the hidden meaning being more New York City street names here.",
     "info": null,
-    "url": null
+    "url": "https://www.nyc.gov/site/landmarks/",
+    "categories": ["historic", "neighborhood", "landmark"]
   },
   {
     "name": "Federal Hall",
@@ -413,7 +424,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.nps.gov/feha/"
+    "url": "https://www.nps.gov/feha/",
+    "categories": ["historic", "museum", "landmark"]
   },
   {
     "name": "Poets House",
@@ -423,7 +435,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://poetshouse.org/"
+    "url": "https://poetshouse.org/",
+    "categories": ["bookstore", "art"]
   },
   {
     "name": "Bowne & Co., Stationers",
@@ -433,7 +446,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://southstreetseaportmuseum.org/bowne-co/"
+    "url": "https://southstreetseaportmuseum.org/bowne-co/",
+    "categories": ["museum", "historic", "shopping"]
   },
   {
     "name": "20 Exchange Pl",
@@ -443,7 +457,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "R & Company",
@@ -453,7 +468,8 @@
     "imageURL": null,
     "description": "This gallery showcases the work of inventive international designers from the 20th & 21st centuries.",
     "info": null,
-    "url": "https://r-and-company.com/"
+    "url": "https://r-and-company.com/",
+    "categories": ["art", "shopping"]
   },
   {
     "name": "Dream House",
@@ -463,7 +479,8 @@
     "imageURL": null,
     "description": "La Monte Young and Marian Zazeela's \"Dream House\" will immerse you in an ever changing world of sound and light.",
     "info": null,
-    "url": "https://melafoundation.org/"
+    "url": "https://melafoundation.org/",
+    "categories": ["art", "music", "quirky"]
   },
   {
     "name": "Ghostbusters Headquarters",
@@ -473,7 +490,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["landmark", "quirky"]
   },
   {
     "name": "Pier 16",
@@ -483,7 +501,8 @@
     "imageURL": null,
     "description": "decommissioned ships & east river views",
     "info": null,
-    "url": null
+    "url": "https://southstreetseaportmuseum.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Wavertree",
@@ -493,7 +512,8 @@
     "imageURL": null,
     "description": "Built of riveted wrought iron, the 1885 tall ship Wavertree is an archetype of the sailing ships of the latter half of the 19th century that, during the \"age of sail,\" lined South Street by the dozens, creating a forest of masts from the Battery to the Brooklyn Bridge.",
     "info": null,
-    "url": "https://southstreetseaportmuseum.org/wavertree/"
+    "url": "https://southstreetseaportmuseum.org/wavertree/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Pier 15 East River Esplanade",
@@ -503,7 +523,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Fulton Stall Market",
@@ -513,7 +534,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": "https://www.fultonstreetny.com/",
+    "categories": ["food", "market", "historic"]
   },
   {
     "name": "Cannon's Walk",
@@ -523,7 +545,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "Staple Street Skybridge",
@@ -533,17 +556,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
-  },
-  {
-    "name": "Bowne & Co. Stationers",
-    "lat": 40.7073849,
-    "lon": -74.0034788,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": "https://southstreetseaportmuseum.org/bowne-co/"
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "70 Pine Street",
@@ -553,7 +567,8 @@
     "imageURL": null,
     "description": "look for miniature impression of the building above the entrance, which contains its own miniature impression; landmarked interior",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "52 Stone St",
@@ -563,7 +578,8 @@
     "imageURL": null,
     "description": "Perhaps one of the more surprising places you'll find a colonial remnant is on your way to bathroom inside the Stone Street Tavern. Located at 52 Stone Street, the tavern's building was constructed in 1836, likely after an original structure was burnt down in the Great Fire of 1835, on top of an 18th century foundation. You can still see part of the foundation in the the stairwell that leads to the current restaurant's lower level restrooms.",
     "info": null,
-    "url": "https://stonestreettavern.com/"
+    "url": "https://stonestreettavern.com/",
+    "categories": ["food", "historic", "quirky"]
   },
   {
     "name": "85 Broad St",
@@ -573,7 +589,8 @@
     "imageURL": null,
     "description": "glass sidewalk shows down to the foundation of ruins of lovelace tavern<br>https://untappedcities.com/2018/03/12/400-year-old-nyc-street-calls-financial-district-lobby-home/",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "55 Wall Street",
@@ -583,7 +600,8 @@
     "imageURL": null,
     "description": "landmarked interior",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "National Museum of the American Indian",
@@ -593,7 +611,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.nmai.si.edu/"
+    "url": "https://www.nmai.si.edu/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Cunard Building",
@@ -603,7 +622,8 @@
     "imageURL": null,
     "description": "landmarked interior",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "1 Broadway",
@@ -613,7 +633,8 @@
     "imageURL": null,
     "description": "you can still spot vestiges of its previous use as the Mercantile Marine buildig",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "One Wall Street",
@@ -623,7 +644,8 @@
     "imageURL": null,
     "description": "The shimmering glass mosaic tiles sheathing the walls and ceiling of the Red Room, the client reception area of the former Irving Trust Company at One Wall Street, make this space one of the most breathtaking interiors in Manhattan.",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "China Institute",
@@ -633,7 +655,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://chinainstitute.org/"
+    "url": "https://chinainstitute.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "American Stock Exchange",
@@ -643,7 +666,8 @@
     "imageURL": null,
     "description": "NHL - \"World-class stock exchanges dating back to colonial times.\"",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Oculus Center",
@@ -653,7 +677,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.westfield.com/westfield-world-trade-center"
+    "url": "https://www.westfield.com/westfield-world-trade-center",
+    "categories": ["shopping", "landmark"]
   },
   {
     "name": "St. Paul's Chapel",
@@ -663,7 +688,8 @@
     "imageURL": null,
     "description": "ground zero exhibit (still there?)<br>\"Standing in the shadow of the modern skyscraper of One World Trade, St. Paul's Chapel holds the title as the only colonial church still in Manhattan. Built in 1766, St. Paul's was one of two chapels built for Trinity Church, the second being St. George's which burned down. St. Paul's almost met a similar fate in the Great Fire of 1777 which destroyed around 500 buildings, but luckily it was saved. The original Trinity Church was lost in that fire, so St. Paul's became the congregation's primary church.<br><br>George Washington regularly attended services at St. Paul's until Trinity Church was rebuilt in 1790. In fact, he went to St. Paul's right after his inauguration at Federal Hall, just a short walk away, in 1789. He sat in a specially designated Presidential Pew. While the pew is no longer there, a painting of the one of the earliest known representations of the Great Seal of the United States, commissioned in 1789 to commemorate Washington's inauguration still hangs above the site where he would have sat.<br><br>The church is full of original architectural details and a very special monument to General Richard Montgomery. Montgomery was a Revolutionary War officer and the monument to him at St. Paul's was the first commissioned by the Congress of the United States.\"<br><br>This cemetery has graves dating back to the 17th century, including the city's oldest carved tombstone and an ominous cryptogram.",
     "info": null,
-    "url": "https://trinitywallstreet.org/visit/stpauls-chapel"
+    "url": "https://trinitywallstreet.org/visit/stpauls-chapel",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "The Little Shop",
@@ -673,7 +699,8 @@
     "imageURL": null,
     "description": "hidden in the back of a bodega",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["shopping", "quirky"]
   },
   {
     "name": "195 Broadway",
@@ -683,7 +710,8 @@
     "imageURL": null,
     "description": "Landmarked interior",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "140 West St",
@@ -693,7 +721,8 @@
     "imageURL": null,
     "description": "landmarked interior",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Irish Hunger Memorial",
@@ -703,7 +732,8 @@
     "imageURL": null,
     "description": "Blighted Irish field and the ruins of a 19th-century cottage on the edge of urban Manhattan.",
     "info": null,
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/",
+    "categories": ["historic", "park"]
   },
   {
     "name": "Teardrop Park",
@@ -713,7 +743,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Philip Williams Posters",
@@ -723,7 +754,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.philipwilliamsposters.com/"
+    "url": "https://www.philipwilliamsposters.com/",
+    "categories": ["shopping", "art"]
   },
   {
     "name": "Korin",
@@ -733,7 +765,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://korin.com/"
+    "url": "https://korin.com/",
+    "categories": ["shopping"]
   },
   {
     "name": "280 Broadway",
@@ -743,7 +776,8 @@
     "imageURL": null,
     "description": "NHL - AT Stewart Company Store \"Site of the first American department store (now known as the New York Sun building)\"",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Tweed Courthouse",
@@ -753,7 +787,8 @@
     "imageURL": null,
     "description": "landmarked interior; offers tours",
     "info": null,
-    "url": "https://www.nycourts.gov/history/tweed-courthouse/"
+    "url": "https://www.nycourts.gov/history/tweed-courthouse/",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "CityStore",
@@ -763,7 +798,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://www.nyc.gov/site/citystore/"
+    "url": "https://www.nyc.gov/site/citystore/",
+    "categories": ["shopping"]
   },
   {
     "name": "The David N. Dinkins Manhattan Municipal Building",
@@ -773,7 +809,8 @@
     "imageURL": null,
     "description": "little known gallery in borough president's office",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "NYC Municipal Archives",
@@ -783,7 +820,8 @@
     "imageURL": null,
     "description": "Transport yourself back in time with the NYC Department of Records and Information Services' (DORIS) exclusive tour of the Surrogate's Courthouse, originally known as the Hall of Records. Located in Lower Manhattan, this Beaux-Arts historical landmark is an example of the early 20th-century architectural movement known as City Beautiful. Designed by John Rochester Thomas and completed in 1907 by Tammany Hall architects Horgan and Slattery, the building aimed to visually transform NYC, uplift the city's communities and inspire moral and civic virtue.",
     "info": null,
-    "url": "https://www.nyc.gov/site/records/"
+    "url": "https://www.nyc.gov/site/records/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Old City Hall Station",
@@ -793,7 +831,8 @@
     "imageURL": null,
     "description": "A beautiful and abandoned New York subway station from 1904, complete with chandelier.",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark", "quirky"]
   },
   {
     "name": "180 the Store",
@@ -803,7 +842,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Kimlau War Memorial",
@@ -813,7 +853,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Lin Sister",
@@ -823,7 +864,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Chinatown Fair Family Fun Center",
@@ -833,7 +875,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://chinatownfair.com/"
+    "url": "https://chinatownfair.com/",
+    "categories": ["entertainment"]
   },
   {
     "name": "Aeon Bookstore",
@@ -843,7 +886,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["bookstore"]
   },
   {
     "name": "Pier 35",
@@ -853,7 +897,8 @@
     "imageURL": null,
     "description": "great views; swings",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["park", "entertainment"]
   },
   {
     "name": "The Flea Theater",
@@ -863,7 +908,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://theflea.org/"
+    "url": "https://theflea.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Yu & Me Books",
@@ -873,7 +919,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://yuandmebooks.com/"
+    "url": "https://yuandmebooks.com/",
+    "categories": ["bookstore"]
   },
   {
     "name": "AIRE Ancient Baths New York",
@@ -883,7 +930,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://beaire.com/en/aire-ancient-baths-new-york"
+    "url": "https://beaire.com/en/aire-ancient-baths-new-york",
+    "categories": ["entertainment"]
   },
   {
     "name": "Jungs Dried Beef Inc.",
@@ -893,17 +941,19 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["food", "shopping"]
   },
   {
-    "name": "Y\u00f9nh\u00f3ng Chopsticks",
+    "name": "Yùnhóng Chopsticks",
     "lat": 40.7154157,
     "lon": -73.9984128,
     "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Eastern States Buddhist Temple",
@@ -913,7 +963,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": "https://easternstatesbuddhist.org/"
+    "url": "https://easternstatesbuddhist.org/",
+    "categories": ["religious"]
   },
   {
     "name": "K. K. Discount Store",
@@ -923,490 +974,491 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "url": null
+    "url": null,
+    "categories": ["shopping"]
   },
- {
- "name": "100 Centre St",
- "lat": 40.7158872,
- "lon": -74.0012066,
- "icon": null,
- "imageURL": null,
- "description": "night court",
- "info": null,
- "url": null,
- "categories": ["historic", "landmark"]
-},
-{
- "name": "DCTV",
- "lat": 40.7172875,
- "lon": -74.0012227,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://dctv.org/",
- "categories": ["art", "entertainment"]
-},
-{
- "name": "60 Hudson Street",
- "lat": 40.717729,
- "lon": -74.0083059,
- "icon": null,
- "imageURL": null,
- "description": "landmarked interior",
- "info": null,
- "url": null,
- "categories": ["historic", "landmark"]
-},
-{
- "name": "Urban Archaeology",
- "lat": 40.7193485,
- "lon": -74.0081264,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://urbanarchaeology.com/",
- "categories": ["shopping"]
-},
-{
- "name": "Playing Mantis",
- "lat": 40.7197395,
- "lon": -74.0075705,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["shopping"]
-},
-{
- "name": "Pier 26 at Hudson River Park",
- "lat": 40.7211424,
- "lon": -74.0130846,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://hudsonriverpark.org/",
- "categories": ["park", "nature"]
-},
-{
- "name": "Artists Space Books & Talks",
- "lat": 40.718826,
- "lon": -74.0033258,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://artistsspace.org/",
- "categories": ["art", "bookstore"]
-},
-{
- "name": "Alexander and Bonin",
- "lat": 40.723107,
- "lon": -74.002198,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://alexanderandbonin.com/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "Bortolami",
- "lat": 40.719151,
- "lon": -74.0039148,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://bortolami.com/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "Best Made Company",
- "lat": 40.7188181,
- "lon": -74.0045438,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://bestmadeco.com/",
- "categories": ["shopping"]
-},
-{
- "name": "Let There Be Neon Inc",
- "lat": 40.7187667,
- "lon": -74.0044694,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://lettherebeon.com/",
- "categories": ["art", "shopping"]
-},
-{
- "name": "Roxy Cinema New York",
- "lat": 40.7194085,
- "lon": -74.0049093,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://www.roxycinema.com/",
- "categories": ["cinema"]
-},
-{
- "name": "32 6th Ave",
- "lat": 40.7200627,
- "lon": -74.0047478,
- "icon": null,
- "imageURL": null,
- "description": "Hildreth Meiѐre was commissioned by Voorhees, Gmelin & Walker to design a ceiling mural depicting the \"Continents Linked by the Telephone and Wireless\" as a reflection of the purpose of the building. Using her imaginative Art Deco style, Meiѐre rendered allegorical personifications of Europe, Asia, Africa, and Australia connected by telephone and telegraph wires to each other and to the female messengers depicted in the center of the ceiling. Meiѐre also designed the wall map near the Sixth Avenue entrance using building tile. In 1991, the lobby was designated a landmark by the New York City Landmarks Preservation Commission.",
- "info": null,
- "url": null,
- "categories": ["historic", "art", "landmark"]
-},
-{
- "name": "56 HENRY",
- "lat": 40.712735,
- "lon": -73.995165,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://56henry.com/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "Fountain Pen Hospital",
- "lat": 40.7140841,
- "lon": -74.0072621,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://fountainpenhospital.com/",
- "categories": ["shopping"]
-},
-{
- "name": "Balloon Saloon",
- "lat": 40.7166708,
- "lon": -74.0080574,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://balloonsaloon.com/",
- "categories": ["shopping"]
-},
-{
- "name": "New Kam Man Market",
- "lat": 40.7168163,
- "lon": -73.9984181,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["market", "food"]
-},
-{
- "name": "Aesop Wall Street",
- "lat": 40.7056386,
- "lon": -74.0083564,
- "icon": null,
- "imageURL": null,
- "description": "On buzzing Wall Street, in what was once the main entrance lobby of a thirty-seven-story skyscraper, Aesop occupies a space of preserved Art-Deco grandeur. Designed with trusted collaborator Jakob Sprenger, the intention was to create something that feels like it might have always been there. Inspiration for this chic retail space came from the bold verticality of Manhattan and the building's history as the office of the Munson Steamship Line in the 1920s. <br><br>The magnificent pre-existing space was defined by soaring ceilings and walls clad in Fior di Pesco marble. Based on the classical Greek order, pilasters added rhythm to the walls while ornate crown moldings and a coffered ceiling gave the room a strong, opulent character. Developed with Aesop's in-house team, Sprenger's concept was to maintain the existing architectural splendor, restore integrity where needed, and to insert a layer of free-standing furniture that could be easily reused in a future location. <br><br>In the depths of the store, a petit chamber in soothing dark hues accommodates more intimate explorations of the brand's unconventional Eaux de Parfum, leaving the hubbub of Wall Street behind. Each fragrance can be sampled at the horizontal bay, where petri dishes containing fragments of scent-imbued muslin cloth allow one to understand the full body of the aroma.",
- "info": null,
- "url": "https://aesop.com/",
- "categories": ["shopping", "historic"]
-},
-{
- "name": "LILAC",
- "lat": 40.7204749,
- "lon": -74.0139407,
- "icon": null,
- "imageURL": null,
- "description": "oldest and most intact lighthouse tender in America",
- "info": null,
- "url": null,
- "categories": ["historic", "museum"]
-},
-{
- "name": "Gotham Park",
- "lat": 40.7113511,
- "lon": -74.0031943,
- "icon": null,
- "imageURL": null,
- "description": "Gotham Park is a grass-roots community effort reimagining how spaces under the iconic Brooklyn Bridge in Manhattan can become a new type of urban community park that nurtures connection, curiosity, wonder, and resilience. The bridge is a sleeping giant, a landmark recognized the world over, but it lands in a fenced-off, dark, underutilized parking lot. Gotham Park is transforming that space into a neighborhood nexus connecting and strengthening residents, businesses, and communities.<br><br>Built upon the spirit of the original Brooklyn Banks skate mecca, Gotham Park will restore the Banks while expanding public space and access to create a variety of flexible play spaces that inspire, engage and delight all ages. Woven together from the vaults, arches, and land beneath the Brooklyn Bridge, Gotham Park is building a hyper-urban, iconic public space for its communities, by its communities.",
- "info": null,
- "url": "https://gothampark.org/",
- "categories": ["park", "entertainment"]
-},
-{
- "name": "Perelman Performing Arts Center (PAC NYC)",
- "lat": 40.712439,
- "lon": -74.0123736,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://pacnyc.org/",
- "categories": ["theater", "music"]
-},
-{
- "name": "St Peter's Roman Catholic Church",
- "lat": 40.7124833,
- "lon": -74.0095306,
- "icon": null,
- "imageURL": null,
- "description": "St. Peters is pristine inside and out. Its classic early Greek Revival architecture is among the finest in the country. At the side of the church stands the huge steel-beam cross pulled from the wreckage of the World Trade Towers.",
- "info": null,
- "url": "https://stpetersnyc.org/",
- "categories": ["religious", "historic"]
-},
-{
- "name": "Hemingway African Gallery",
- "lat": 40.7169591,
- "lon": -74.004565,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["art", "gallery"]
-},
-{
- "name": "RE:ALABAYAN RE:AL",
- "lat": 40.7221645,
- "lon": -74.0085749,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["art", "gallery"]
-},
-{
- "name": "FishBridge Park Garden",
- "lat": 40.708976,
- "lon": -74.0012343,
- "icon": null,
- "imageURL": null,
- "description": "Tended by 50 volunteers and managed by the South-Water-Front Neighborhood Association, the garden is open to the public on Saturdays and Sundays, dawn to dusk, April to November",
- "info": null,
- "url": null,
- "categories": ["park", "nature"]
-},
-{
- "name": "apexart",
- "lat": 40.7190673,
- "lon": -74.004518,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://apexart.org/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "Joseph Carini Carpets",
- "lat": 40.717915,
- "lon": -74.0101959,
- "icon": null,
- "imageURL": null,
- "description": "Its been written that if Joe Carini was alive 700 years ago he would have been making hand made carpets for kings and queens.<br><br>His creations are inspired by water, space and animals and are coveted by the likes of Brad Pitt and Jay Z. Considered an impeccable colorist his works are bold and vibrant and made exclusively from natural dyes. As a self described \"process guy\" his hand touches every casino online aspect of the operation including concept, design and production – from Joes imagination to Nepal and ultimately to downtown Manhattan.<br><br>His design studio and storefront, Carini Lang, is located in a beautiful old bank on the corner of Jay and Greenwich Street",
- "info": null,
- "url": "https://carini-lang.com/",
- "categories": ["art", "shopping"]
-},
-{
- "name": "Soho Photo Gallery",
- "lat": 40.7190383,
- "lon": -74.0054941,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://sohophoto.com/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "St. Nicholas National Shrine",
- "lat": 40.7101341,
- "lon": -74.0132028,
- "icon": null,
- "imageURL": null,
- "description": "The original building housing the St. Nicholas Greek Orthodox Church was an 1832 converted rowhouse that was completely destroyed on 9/11. After years of uncertainty surrounding the church's location within the World Trade Center complex, financial difficulties, and construction delays, the new church building and National Shrine for the Greek Orthodox Church was completed and consecrated in 2022.<br><br>Conceived by Santiago Calatrava with the symbolic use of light, the church's lighting, designed and implemented by DLR Group, reinforces the spirit of rebirth and continuity for the Church and the city. The lighting design carefully balances the use of both daylight and electric light internally and externally.",
- "info": null,
- "url": "https://www.stnicholaswtc.org/",
- "categories": ["religious", "historic"]
-},
-{
- "name": "Shirley Fiterman Art Center",
- "lat": 40.7135356,
- "lon": -74.0112045,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://bmcc.cuny.edu/",
- "categories": ["art", "gallery"]
-},
-{
- "name": "Lin Ze Xu Monument",
- "lat": 40.7134139,
- "lon": -73.9981605,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["historic", "landmark"]
-},
-{
- "name": "First Shearith Israel Graveyard, Chatham Square Cemetery",
- "lat": 40.7128627,
- "lon": -73.9984251,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://www.shearithisrael.org/",
- "categories": ["historic", "religious"]
-},
-{
- "name": "Double Check by John Seward Johnson II",
- "lat": 40.709336,
- "lon": -74.0105832,
- "icon": null,
- "imageURL": null,
- "description": "This anonymous businessman sculpted in bronze became an enduring memorial after 9/11, and had been mistaken by rescue workers for a survivor in the rubble.",
- "info": null,
- "url": null,
- "categories": ["art", "historic"]
-},
-{
- "name": "Trinity Place",
- "lat": 40.708882,
- "lon": -74.0114326,
- "icon": null,
- "imageURL": null,
- "description": "This lower Manhattan bar is set up in an old bank vault that rests beneath a skyscraper that hides even more historic splendor.",
- "info": null,
- "url": "https://trinityplaceny.com/",
- "categories": ["food", "quirky"]
-},
-{
- "name": "Surrogate's Court | New York County",
- "lat": 40.7134361,
- "lon": -74.0043655,
- "icon": null,
- "imageURL": null,
- "description": "landmarked interior",
- "info": null,
- "url": "https://www.nycourts.gov/courts/1jd/surrogates/",
- "categories": ["historic", "landmark"]
-},
-{
- "name": "The Sphere",
- "lat": 40.7105181,
- "lon": -74.0138948,
- "icon": null,
- "imageURL": null,
- "description": "This sculpture by artist Fritz Keonig survived the 9/11 attacks and now stands as a monument to the victims.",
- "info": null,
- "url": null,
- "categories": ["art", "historic"]
-},
-{
- "name": "Wing On Wo & Co",
- "lat": 40.7145559,
- "lon": -73.9986708,
- "icon": null,
- "imageURL": null,
- "description": "oldest store in Chinatown",
- "info": null,
- "url": "https://wingonwo.com/",
- "categories": ["shopping", "historic"]
-},
-{
- "name": "Doyers Street",
- "lat": 40.7143521,
- "lon": -73.9979432,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["neighborhood", "historic"]
-},
-{
- "name": "Survivor Tree",
- "lat": 40.7112025,
- "lon": -74.0135394,
- "icon": null,
- "imageURL": null,
- "description": "The last living thing to come out of the rubble after 9/11 is now a symbol of hope and resilience.",
- "info": null,
- "url": null,
- "categories": ["nature", "historic", "landmark"]
-},
-{
- "name": "Edward Mooney House",
- "lat": 40.7146332,
- "lon": -73.9974643,
- "icon": null,
- "imageURL": null,
- "description": "Built just after the American Revolution, the oldest row house in New York City still stands in Chinatown.",
- "info": null,
- "url": null,
- "categories": ["historic", "landmark"]
-},
-{
- "name": "Church of The Transfiguration",
- "lat": 40.7148156,
- "lon": -73.9991216,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": "https://transfigurationnyc.org/",
- "categories": ["religious"]
-},
-{
- "name": "Foley Square",
- "lat": 40.7143512,
- "lon": -74.0029927,
- "icon": null,
- "imageURL": null,
- "description": "",
- "info": null,
- "url": null,
- "categories": ["park", "landmark"]
-},
-{
- "name": "60 Centre St",
- "lat": 40.7141981,
- "lon": -74.0016476,
- "icon": null,
- "imageURL": null,
- "description": "https://untappedcities.com/2019/06/27/lost-monument-returns-to-an-nyc-courthouse-after-70-years/",
- "info": null,
- "url": null,
- "categories": ["historic", "landmark"]
-},
-{
- "name": "Ting's Gift Shop",
- "lat": 40.7145739,
- "lon": -73.9980045,
- "icon": null,
- "imageURL": null,
- "description": "oldest gift shop in Chinatown",
- "info": null,
- "url": null,
- "categories": ["shopping", "historic"]
-}
+  {
+    "name": "100 Centre St",
+    "lat": 40.7158872,
+    "lon": -74.0012066,
+    "icon": null,
+    "imageURL": null,
+    "description": "night court",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "DCTV",
+    "lat": 40.7172875,
+    "lon": -74.0012227,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://dctv.org/",
+    "categories": ["art", "entertainment"]
+  },
+  {
+    "name": "60 Hudson Street",
+    "lat": 40.717729,
+    "lon": -74.0083059,
+    "icon": null,
+    "imageURL": null,
+    "description": "landmarked interior",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "Urban Archaeology",
+    "lat": 40.7193485,
+    "lon": -74.0081264,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://urbanarchaeology.com/",
+    "categories": ["shopping"]
+  },
+  {
+    "name": "Playing Mantis",
+    "lat": 40.7197395,
+    "lon": -74.0075705,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
+  },
+  {
+    "name": "Pier 26 at Hudson River Park",
+    "lat": 40.7211424,
+    "lon": -74.0130846,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://hudsonriverpark.org/",
+    "categories": ["park", "nature"]
+  },
+  {
+    "name": "Artists Space Books & Talks",
+    "lat": 40.718826,
+    "lon": -74.0033258,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://artistsspace.org/",
+    "categories": ["art", "bookstore"]
+  },
+  {
+    "name": "Alexander and Bonin",
+    "lat": 40.723107,
+    "lon": -74.002198,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://alexanderandbonin.com/",
+    "categories": ["art"]
+  },
+  {
+    "name": "Bortolami",
+    "lat": 40.719151,
+    "lon": -74.0039148,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://bortolami.com/",
+    "categories": ["art"]
+  },
+  {
+    "name": "Best Made Company",
+    "lat": 40.7188181,
+    "lon": -74.0045438,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://bestmadeco.com/",
+    "categories": ["shopping"]
+  },
+  {
+    "name": "Let There Be Neon Inc",
+    "lat": 40.7187667,
+    "lon": -74.0044694,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://lettherebeon.com/",
+    "categories": ["art", "shopping"]
+  },
+  {
+    "name": "Roxy Cinema New York",
+    "lat": 40.7194085,
+    "lon": -74.0049093,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://www.roxycinema.com/",
+    "categories": ["cinema"]
+  },
+  {
+    "name": "32 6th Ave",
+    "lat": 40.7200627,
+    "lon": -74.0047478,
+    "icon": null,
+    "imageURL": null,
+    "description": "Hildreth Meiѐre was commissioned by Voorhees, Gmelin & Walker to design a ceiling mural depicting the \"Continents Linked by the Telephone and Wireless\" as a reflection of the purpose of the building. Using her imaginative Art Deco style, Meiѐre rendered allegorical personifications of Europe, Asia, Africa, and Australia connected by telephone and telegraph wires to each other and to the female messengers depicted in the center of the ceiling. Meiѐre also designed the wall map near the Sixth Avenue entrance using building tile. In 1991, the lobby was designated a landmark by the New York City Landmarks Preservation Commission.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art", "landmark"]
+  },
+  {
+    "name": "56 HENRY",
+    "lat": 40.712735,
+    "lon": -73.995165,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://56henry.com/",
+    "categories": ["art"]
+  },
+  {
+    "name": "Fountain Pen Hospital",
+    "lat": 40.7140841,
+    "lon": -74.0072621,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://fountainpenhospital.com/",
+    "categories": ["shopping"]
+  },
+  {
+    "name": "Balloon Saloon",
+    "lat": 40.7166708,
+    "lon": -74.0080574,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://balloonsaloon.com/",
+    "categories": ["shopping"]
+  },
+  {
+    "name": "New Kam Man Market",
+    "lat": 40.7168163,
+    "lon": -73.9984181,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["market", "food"]
+  },
+  {
+    "name": "Aesop Wall Street",
+    "lat": 40.7056386,
+    "lon": -74.0083564,
+    "icon": null,
+    "imageURL": null,
+    "description": "On buzzing Wall Street, in what was once the main entrance lobby of a thirty-seven-story skyscraper, Aesop occupies a space of preserved Art-Deco grandeur. Designed with trusted collaborator Jakob Sprenger, the intention was to create something that feels like it might have always been there. Inspiration for this chic retail space came from the bold verticality of Manhattan and the building's history as the office of the Munson Steamship Line in the 1920s. <br><br>The magnificent pre-existing space was defined by soaring ceilings and walls clad in Fior di Pesco marble. Based on the classical Greek order, pilasters added rhythm to the walls while ornate crown moldings and a coffered ceiling gave the room a strong, opulent character. Developed with Aesop's in-house team, Sprenger's concept was to maintain the existing architectural splendor, restore integrity where needed, and to insert a layer of free-standing furniture that could be easily reused in a future location. <br><br>In the depths of the store, a petit chamber in soothing dark hues accommodates more intimate explorations of the brand's unconventional Eaux de Parfum, leaving the hubbub of Wall Street behind. Each fragrance can be sampled at the horizontal bay, where petri dishes containing fragments of scent-imbued muslin cloth allow one to understand the full body of the aroma.",
+    "info": null,
+    "url": "https://aesop.com/",
+    "categories": ["shopping", "historic"]
+  },
+  {
+    "name": "LILAC",
+    "lat": 40.7204749,
+    "lon": -74.0139407,
+    "icon": null,
+    "imageURL": null,
+    "description": "oldest and most intact lighthouse tender in America",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "museum"]
+  },
+  {
+    "name": "Gotham Park",
+    "lat": 40.7113511,
+    "lon": -74.0031943,
+    "icon": null,
+    "imageURL": null,
+    "description": "Gotham Park is a grass-roots community effort reimagining how spaces under the iconic Brooklyn Bridge in Manhattan can become a new type of urban community park that nurtures connection, curiosity, wonder, and resilience. The bridge is a sleeping giant, a landmark recognized the world over, but it lands in a fenced-off, dark, underutilized parking lot. Gotham Park is transforming that space into a neighborhood nexus connecting and strengthening residents, businesses, and communities.<br><br>Built upon the spirit of the original Brooklyn Banks skate mecca, Gotham Park will restore the Banks while expanding public space and access to create a variety of flexible play spaces that inspire, engage and delight all ages. Woven together from the vaults, arches, and land beneath the Brooklyn Bridge, Gotham Park is building a hyper-urban, iconic public space for its communities, by its communities.",
+    "info": null,
+    "url": "https://gothampark.org/",
+    "categories": ["park", "entertainment"]
+  },
+  {
+    "name": "Perelman Performing Arts Center (PAC NYC)",
+    "lat": 40.712439,
+    "lon": -74.0123736,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://pacnyc.org/",
+    "categories": ["theater", "music"]
+  },
+  {
+    "name": "St Peter's Roman Catholic Church",
+    "lat": 40.7124833,
+    "lon": -74.0095306,
+    "icon": null,
+    "imageURL": null,
+    "description": "St. Peters is pristine inside and out. Its classic early Greek Revival architecture is among the finest in the country. At the side of the church stands the huge steel-beam cross pulled from the wreckage of the World Trade Towers.",
+    "info": null,
+    "url": "https://stpetersnyc.org/",
+    "categories": ["religious", "historic"]
+  },
+  {
+    "name": "Hemingway African Gallery",
+    "lat": 40.7169591,
+    "lon": -74.004565,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["art"]
+  },
+  {
+    "name": "RE:ALABAYAN RE:AL",
+    "lat": 40.7221645,
+    "lon": -74.0085749,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["art"]
+  },
+  {
+    "name": "FishBridge Park Garden",
+    "lat": 40.708976,
+    "lon": -74.0012343,
+    "icon": null,
+    "imageURL": null,
+    "description": "Tended by 50 volunteers and managed by the South-Water-Front Neighborhood Association, the garden is open to the public on Saturdays and Sundays, dawn to dusk, April to November",
+    "info": null,
+    "url": null,
+    "categories": ["park", "nature"]
+  },
+  {
+    "name": "apexart",
+    "lat": 40.7190673,
+    "lon": -74.004518,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://apexart.org/",
+    "categories": ["art"]
+  },
+  {
+    "name": "Joseph Carini Carpets",
+    "lat": 40.717915,
+    "lon": -74.0101959,
+    "icon": null,
+    "imageURL": null,
+    "description": "Its been written that if Joe Carini was alive 700 years ago he would have been making hand made carpets for kings and queens.<br><br>His creations are inspired by water, space and animals and are coveted by the likes of Brad Pitt and Jay Z. Considered an impeccable colorist his works are bold and vibrant and made exclusively from natural dyes. As a self described \"process guy\" his hand touches every casino online aspect of the operation including concept, design and production – from Joes imagination to Nepal and ultimately to downtown Manhattan.<br><br>His design studio and storefront, Carini Lang, is located in a beautiful old bank on the corner of Jay and Greenwich Street",
+    "info": null,
+    "url": "https://carini-lang.com/",
+    "categories": ["art", "shopping"]
+  },
+  {
+    "name": "Soho Photo Gallery",
+    "lat": 40.7190383,
+    "lon": -74.0054941,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://sohophoto.com/",
+    "categories": ["art"]
+  },
+  {
+    "name": "St. Nicholas National Shrine",
+    "lat": 40.7101341,
+    "lon": -74.0132028,
+    "icon": null,
+    "imageURL": null,
+    "description": "The original building housing the St. Nicholas Greek Orthodox Church was an 1832 converted rowhouse that was completely destroyed on 9/11. After years of uncertainty surrounding the church's location within the World Trade Center complex, financial difficulties, and construction delays, the new church building and National Shrine for the Greek Orthodox Church was completed and consecrated in 2022.<br><br>Conceived by Santiago Calatrava with the symbolic use of light, the church's lighting, designed and implemented by DLR Group, reinforces the spirit of rebirth and continuity for the Church and the city. The lighting design carefully balances the use of both daylight and electric light internally and externally.",
+    "info": null,
+    "url": "https://www.stnicholaswtc.org/",
+    "categories": ["religious", "historic"]
+  },
+  {
+    "name": "Shirley Fiterman Art Center",
+    "lat": 40.7135356,
+    "lon": -74.0112045,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://bmcc.cuny.edu/",
+    "categories": ["art"]
+  },
+  {
+    "name": "Lin Ze Xu Monument",
+    "lat": 40.7134139,
+    "lon": -73.9981605,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "First Shearith Israel Graveyard, Chatham Square Cemetery",
+    "lat": 40.7128627,
+    "lon": -73.9984251,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://www.shearithisrael.org/",
+    "categories": ["historic", "religious"]
+  },
+  {
+    "name": "Double Check by John Seward Johnson II",
+    "lat": 40.709336,
+    "lon": -74.0105832,
+    "icon": null,
+    "imageURL": null,
+    "description": "This anonymous businessman sculpted in bronze became an enduring memorial after 9/11, and had been mistaken by rescue workers for a survivor in the rubble.",
+    "info": null,
+    "url": null,
+    "categories": ["art", "historic"]
+  },
+  {
+    "name": "Trinity Place",
+    "lat": 40.708882,
+    "lon": -74.0114326,
+    "icon": null,
+    "imageURL": null,
+    "description": "This lower Manhattan bar is set up in an old bank vault that rests beneath a skyscraper that hides even more historic splendor.",
+    "info": null,
+    "url": "https://trinityplaceny.com/",
+    "categories": ["food", "quirky"]
+  },
+  {
+    "name": "Surrogate's Court | New York County",
+    "lat": 40.7134361,
+    "lon": -74.0043655,
+    "icon": null,
+    "imageURL": null,
+    "description": "landmarked interior",
+    "info": null,
+    "url": "https://www.nycourts.gov/courts/1jd/surrogates/",
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "The Sphere",
+    "lat": 40.7105181,
+    "lon": -74.0138948,
+    "icon": null,
+    "imageURL": null,
+    "description": "This sculpture by artist Fritz Keonig survived the 9/11 attacks and now stands as a monument to the victims.",
+    "info": null,
+    "url": null,
+    "categories": ["art", "historic"]
+  },
+  {
+    "name": "Wing On Wo & Co",
+    "lat": 40.7145559,
+    "lon": -73.9986708,
+    "icon": null,
+    "imageURL": null,
+    "description": "oldest store in Chinatown",
+    "info": null,
+    "url": "https://wingonwo.com/",
+    "categories": ["shopping", "historic"]
+  },
+  {
+    "name": "Doyers Street",
+    "lat": 40.7143521,
+    "lon": -73.9979432,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["neighborhood", "historic"]
+  },
+  {
+    "name": "Survivor Tree",
+    "lat": 40.7112025,
+    "lon": -74.0135394,
+    "icon": null,
+    "imageURL": null,
+    "description": "The last living thing to come out of the rubble after 9/11 is now a symbol of hope and resilience.",
+    "info": null,
+    "url": null,
+    "categories": ["nature", "historic", "landmark"]
+  },
+  {
+    "name": "Edward Mooney House",
+    "lat": 40.7146332,
+    "lon": -73.9974643,
+    "icon": null,
+    "imageURL": null,
+    "description": "Built just after the American Revolution, the oldest row house in New York City still stands in Chinatown.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "Church of The Transfiguration",
+    "lat": 40.7148156,
+    "lon": -73.9991216,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://transfigurationnyc.org/",
+    "categories": ["religious"]
+  },
+  {
+    "name": "Foley Square",
+    "lat": 40.7143512,
+    "lon": -74.0029927,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["park", "landmark"]
+  },
+  {
+    "name": "60 Centre St",
+    "lat": 40.7141981,
+    "lon": -74.0016476,
+    "icon": null,
+    "imageURL": null,
+    "description": "https://untappedcities.com/2019/06/27/lost-monument-returns-to-an-nyc-courthouse-after-70-years/",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "Ting's Gift Shop",
+    "lat": 40.7145739,
+    "lon": -73.9980045,
+    "icon": null,
+    "imageURL": null,
+    "description": "oldest gift shop in Chinatown",
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "historic"]
+  }
 ]
