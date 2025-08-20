@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Gran Sasso e Monti della Laga National Park",
+    "lat": 42.4708,
+    "lon": 13.5464,
+    "icon": null,
+    "imageURL": null,
+    "description": "One of the largest protected areas in Europe, spanning Abruzzo, Lazio, and Marche. Features Corno Grande, the highest peak in the Apennines.",
+    "info": "Popular for hiking, skiing, and wildlife spotting.",
+    "category": "National Park Service",
+    "url": "https://www.parks.it/parco.nazionale.gran.sasso/"
+  },
+  {
+    "name": "Civitella del Tronto Fortress",
+    "lat": 42.7499,
+    "lon": 13.6786,
+    "icon": null,
+    "imageURL": null,
+    "description": "One of the largest and most impressive fortresses in Italy, perched dramatically over the town of Civitella del Tronto.",
+    "info": "A key site in the Bourbon resistance during Italian unification.",
+    "category": "Charming Towns",
+    "url": "https://www.fortedicivitelladeltronto.it/"
+  },
+  {
+    "name": "Santo Stefano di Sessanio",
+    "lat": 42.3504,
+    "lon": 13.6405,
+    "icon": null,
+    "imageURL": null,
+    "description": "A medieval hilltop village considered one of Italy's most beautiful villages (I Borghi più belli d’Italia).",
+    "info": "Renowned for lentils, stone houses, and boutique albergo diffuso.",
+    "category": "Charming Towns",
+    "url": "https://borghipiubelliditalia.it/borgo/santo-stefano-di-sessanio/"
+  },
+  {
+    "name": "Campo Imperatore",
+    "lat": 42.4453,
+    "lon": 13.5589,
+    "icon": null,
+    "imageURL": null,
+    "description": "Known as 'Little Tibet,' this high plateau in the Apennines is popular for skiing, hiking, and stargazing.",
+    "info": "Also famous for the hotel where Mussolini was imprisoned in 1943.",
+    "category": "Recreation",
+    "url": "https://www.abruzzoturismo.it/en/campo-imperatore"
+  },
+  {
+    "name": "Teramo Cathedral (Duomo di Teramo)",
+    "lat": 42.6607,
+    "lon": 13.698,
+    "icon": null,
+    "imageURL": null,
+    "description": "Romanesque-Gothic cathedral built in the 12th century, dedicated to St. Berardo.",
+    "info": "Houses silver frontal masterpiece by Nicola da Guardiagrele.",
+    "category": "Cultural",
+    "url": "https://www.cattedraleteramo.it/"
+  },
+  {
+    "name": "UNESCO L’Aquila and Gran Sasso Area",
+    "lat": 42.35,
+    "lon": 13.4,
+    "icon": null,
+    "imageURL": null,
+    "description": "Part of the UNESCO Global Geoparks network, highlighting the region's unique geology and cultural heritage.",
+    "info": "Promotes sustainable tourism and scientific research.",
+    "category": "UNESCO World Heritage Site",
+    "url": "https://en.unesco.org/global-geoparks/gran-sasso-e-monti-della-laga"
+  }
+]
