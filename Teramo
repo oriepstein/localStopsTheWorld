@@ -1,68 +1,152 @@
 [
   {
-    "name": "Gran Sasso e Monti della Laga National Park",
-    "lat": 42.4708,
-    "lon": 13.5464,
+    "name": "Campli",
+    "description": "IBPBdI",
+    "lat": 42.7282912,
+    "lon": 13.6881476,
     "icon": null,
     "imageURL": null,
-    "description": "One of the largest protected areas in Europe, spanning Abruzzo, Lazio, and Marche. Features Corno Grande, the highest peak in the Apennines.",
-    "info": "Popular for hiking, skiing, and wildlife spotting.",
-    "category": ["NPS"],
-    "url": "https://www.parks.it/parco.nazionale.gran.sasso/"
+    "url": null,
+    "categories": null
   },
   {
-    "name": "Civitella del Tronto Fortress",
-    "lat": 42.7499,
-    "lon": 13.6786,
+    "name": "Castelli",
+    "description": "IBPBdI; Access point to the Gran Sasso and Monti della Laga National Park, Castelli is a small medieval village, internationally known for its ceramics, a tradition dating back to the Renaissance period and most likely also from several centuries before. An art that became famous especially in the sixteenth century.",
+    "lat": 42.488763,
+    "lon": 13.7115816,
     "icon": null,
     "imageURL": null,
-    "description": "One of the largest and most impressive fortresses in Italy, perched dramatically over the town of Civitella del Tronto.",
-    "info": "A key site in the Bourbon resistance during Italian unification.",
-    "category": ["Towns"],
-    "url": "https://www.fortedicivitelladeltronto.it/"
+    "url": null,
+    "categories": null
   },
   {
-    "name": "Santo Stefano di Sessanio",
-    "lat": 42.3504,
-    "lon": 13.6405,
+    "name": "Civitella del Tronto",
+    "description": "IBPBdI",
+    "lat": 42.7734026,
+    "lon": 13.6702802,
     "icon": null,
     "imageURL": null,
-    "description": "A medieval hilltop village considered one of Italy's most beautiful villages (I Borghi più belli d’Italia).",
-    "info": "Renowned for lentils, stone houses, and boutique albergo diffuso.",
-    "category": ["Towns"],
-    "url": "https://borghipiubelliditalia.it/borgo/santo-stefano-di-sessanio/"
+    "url": null,
+    "categories": null
   },
   {
-    "name": "Campo Imperatore",
-    "lat": 42.4453,
-    "lon": 13.5589,
+    "name": "Fortress of Civitella del Tronto",
+    "description": "largest fortress in Italy",
+    "lat": 42.7730638,
+    "lon": 13.6665138,
     "icon": null,
     "imageURL": null,
-    "description": "Known as 'Little Tibet,' this high plateau in the Apennines is popular for skiing, hiking, and stargazing.",
-    "info": "Also famous for the hotel where Mussolini was imprisoned in 1943.",
-    "category": ["Recreation"],
-    "url": "https://www.abruzzoturismo.it/en/campo-imperatore"
+    "url": null,
+    "categories": null
   },
   {
-    "name": "Teramo Cathedral (Duomo di Teramo)",
-    "lat": 42.6607,
-    "lon": 13.698,
+    "name": "Pietracamela",
+    "description": "IBPBdI",
+    "lat": 42.5230897,
+    "lon": 13.5538206,
     "icon": null,
     "imageURL": null,
-    "description": "Romanesque-Gothic cathedral built in the 12th century, dedicated to St. Berardo.",
-    "info": "Houses silver frontal masterpiece by Nicola da Guardiagrele.",
-    "category": "Cultural",
-    "url": "https://www.cattedraleteramo.it/"
+    "url": null,
+    "categories": null
   },
   {
-    "name": "UNESCO L’Aquila and Gran Sasso Area",
-    "lat": 42.35,
-    "lon": 13.4,
+    "name": "Gran Sasso and Monti della Laga National Park",
+    "description": null,
+    "lat": 42.4886,
+    "lon": 13.7103,
     "icon": null,
     "imageURL": null,
-    "description": "Part of the UNESCO Global Geoparks network, highlighting the region's unique geology and cultural heritage.",
-    "info": "Promotes sustainable tourism and scientific research.",
-    "category": "UNESCO World Heritage Site",
-    "url": "https://en.unesco.org/global-geoparks/gran-sasso-e-monti-della-laga"
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Isola del Gran Sasso d'Italia",
+    "description": null,
+    "lat": 42.4957,
+    "lon": 13.6342,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Montorio al Vomano",
+    "description": null,
+    "lat": 42.6005,
+    "lon": 13.6397,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Roseto degli Abruzzi",
+    "description": null,
+    "lat": 42.6669,
+    "lon": 14.0133,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Teramo",
+    "description": null,
+    "lat": 42.6611,
+    "lon": 13.6987,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Tossicia",
+    "description": null,
+    "lat": 42.5412,
+    "lon": 13.6538,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Torricella Sicura",
+    "description": null,
+    "lat": 42.6702,
+    "lon": 13.6764,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Atri",
+    "description": null,
+    "lat": 42.5769,
+    "lon": 13.9852,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Colledara",
+    "description": null,
+    "lat": 42.5289,
+    "lon": 13.6333,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
+  },
+  {
+    "name": "Giulianova",
+    "description": null,
+    "lat": 42.7492,
+    "lon": 13.9492,
+    "icon": null,
+    "imageURL": null,
+    "url": null,
+    "categories": null
   }
 ]
