@@ -5,8 +5,10 @@
     "lon": -73.9364608,
     "icon": null,
     "imageURL": null,
-    "description": "Nondescript elevator doors open to reveal a stunning, surreal world. he erstwhile Macy’s warehouse building once catered to the art scene, and the elevator is what’s left of what used to be an entire building decorated in tart installments of the same surreal style. The current owners have remodeled the building to operate as a more typically conservative-looking office space, but the wonderfully bizarre elevator remains.",
-    "info": null
+    "description": "Nondescript elevator doors open to reveal a stunning, surreal world. The erstwhile Macy's warehouse building once catered to the art scene, and the elevator is what's left of what used to be an entire building decorated in tart installments of the same surreal style. The current owners have remodeled the building to operate as a more typically conservative-looking office space, but the wonderfully bizarre elevator remains.",
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
   },
   {
     "name": "84 07 Broadway",
@@ -15,7 +17,9 @@
     "icon": null,
     "imageURL": null,
     "description": "home to monthly Indonesian food bazaar",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["food", "market"]
   },
   {
     "name": "84-89 Wareham Pl",
@@ -24,7 +28,9 @@
     "icon": null,
     "imageURL": null,
     "description": "trump's birthplace",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "89-70 Cooper Ave",
@@ -33,7 +39,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["neighborhood"]
   },
   {
     "name": "Addisleigh Park Historic District",
@@ -42,7 +50,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Afrikan Poetry Theatre, Inc.",
@@ -51,16 +61,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
-  },
-  {
-    "name": "Afrikan Poetry Theatre, Inc.",
-    "lat": 40.708113,
-    "lon": -73.784098,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.afrikanpoetry.org/",
+    "categories": ["theater", "art"]
   },
   {
     "name": "Alley Pond Environmental Center",
@@ -69,7 +72,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.alleypond.com/",
+    "categories": ["nature"]
   },
   {
     "name": "Arts Org Top to Bottom Mural Project",
@@ -78,7 +83,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Bayside Historical Society",
@@ -86,8 +93,10 @@
     "lon": -73.7777605,
     "icon": null,
     "imageURL": null,
-    "description": "Completed in 1887, The Castle at Fort Totten served as the Base Officers’ Mess Hall and Club for the U.S. Army Corps of Engineers School of Application. The Castle is one of the finest surviving examples in New York City of the Gothic Revival castellated style architecture. This architectural style was developed in Great Britain in the mid-1700s and brought to the US in the early 1800s. The popularity of the Gothic Revival style marked a turning away from earlier classical styles based on the buildings of ancient Greece and Rome. In 1982, when the Army considered relinquishing parts of Fort Totten, then-Senator Frank Padavan, a retired US Army Corps of Engineer Officer who had served as Chief of Staff at Fort Totten, assisted the Bayside Historical Society (BHS) in leasing and beginning restoration of the building in 1984. The BHS has been caring for the Castle ever since.",
-    "info": null
+    "description": "Completed in 1887, The Castle at Fort Totten served as the Base Officers' Mess Hall and Club for the U.S. Army Corps of Engineers School of Application. The Castle is one of the finest surviving examples in New York City of the Gothic Revival castellated style architecture. This architectural style was developed in Great Britain in the mid-1700s and brought to the US in the early 1800s. The popularity of the Gothic Revival style marked a turning away from earlier classical styles based on the buildings of ancient Greece and Rome. In 1982, when the Army considered relinquishing parts of Fort Totten, then-Senator Frank Padavan, a retired US Army Corps of Engineer Officer who had served as Chief of Staff at Fort Totten, assisted the Bayside Historical Society (BHS) in leasing and beginning restoration of the building in 1984. The BHS has been caring for the Castle ever since.",
+    "info": null,
+    "url": "https://www.baysidehistorical.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Bowne House",
@@ -96,7 +105,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.bownehouse.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "BrickHouse Ceramic Art Center",
@@ -105,7 +116,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.brickhouseceramicartcenter.org/",
+    "categories": ["art"]
   },
   {
     "name": "Brooklyn Grange",
@@ -114,7 +127,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.brooklyngrangefarm.com/",
+    "categories": ["nature", "food"]
   },
   {
     "name": "Brookville Park",
@@ -123,7 +138,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/brookville-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Butala Emporium Inc",
@@ -132,7 +149,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Byzantion Woodworking",
@@ -141,7 +160,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "shopping"]
   },
   {
     "name": "Calvary Cemetery",
@@ -150,7 +171,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Holding the most bodies of any cemetery in the United States.",
-    "info": null
+    "info": null,
+    "url": "https://www.ccbklyn.org/calvary-cemetery",
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Carmel Grocery",
@@ -159,7 +182,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "food"]
   },
   {
     "name": "Celtic Cove",
@@ -168,7 +193,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "food"]
   },
   {
     "name": "Chocolate Factory Theater",
@@ -177,7 +204,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://chocolatefactorytheater.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Corona Plaza",
@@ -186,7 +215,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "neighborhood"]
   },
   {
     "name": "Creedmoor Psychiatric Center",
@@ -195,7 +226,9 @@
     "icon": null,
     "imageURL": null,
     "description": "living museum - art by patients, open by appointment",
-    "info": null
+    "info": null,
+    "url": "https://www.omh.ny.gov/omhweb/facilities/crpc/",
+    "categories": ["art", "museum", "quirky"]
   },
   {
     "name": "Crossing Art",
@@ -204,7 +237,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Culture Lab LIC at The Plaxall Gallery",
@@ -213,7 +248,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.culturelabjc.org/",
+    "categories": ["art"]
   },
   {
     "name": "Cunningham Park Southeast Preserve Trail - Trailhead",
@@ -222,7 +259,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The Natural Areas Conservancy is a New York City nonprofit organization that protects and stewards 20,000 acres of natural areas. Escape the hustle and bustle of city life and join NAC staff on a guided tour at Cunningham Park to explore the Southeast Preserve Trail. The 1.6 mile Orange and White trail meanders through a beautiful forest full of native Oaks, Hickories, Tulip trees, Cherry trees and vernal ponds; a landscape shaped by the long-ago receded Wisconsin glaciation.",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/cunningham-park",
+    "categories": ["nature", "park", "recreation"]
   },
   {
     "name": "Curtis \"50 Cent\" Jackson Community Garden",
@@ -231,7 +270,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
   },
   {
     "name": "Cypress Hills Taxidermy Studio",
@@ -240,7 +281,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "art"]
   },
   {
     "name": "Daiso",
@@ -249,7 +292,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.daisojapan.com/",
+    "categories": ["shopping"]
   },
   {
     "name": "Eddie's Sweet Shop",
@@ -258,7 +303,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["food", "historic"]
   },
   {
     "name": "Elmhurst Sculpture Garden",
@@ -267,7 +314,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "park"]
   },
   {
     "name": "Flushing Quaker Meeting House",
@@ -276,7 +325,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.flushingfriends.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Flushing Town Hall",
@@ -285,7 +336,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This landmark building is now a vibrant performing arts space with musical acts from around the world.",
-    "info": null
+    "info": null,
+    "url": "https://www.flushingtownhall.org/",
+    "categories": ["music", "theater", "historic"]
   },
   {
     "name": "Fort Tilden (Gateway National Recreation Area)",
@@ -294,7 +347,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A former seaside jewel built for the everyman is now simply a neglected art deco fortress.",
-    "info": null
+    "info": null,
+    "url": "https://www.nps.gov/gate/planyourvisit/fort-tilden.htm",
+    "categories": ["historic", "park", "art"]
   },
   {
     "name": "Fort Totten",
@@ -303,7 +358,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Read between the lines of the subway map to find the hidden abandoned Civil War fort.",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/fort-totten-park",
+    "categories": ["historic", "park"]
   },
   {
     "name": "Fort Totten Visitor Center",
@@ -312,7 +369,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Fort Totten is a former installation of the United States Army in Queens, NY. The Army Reserve is still on-site at Fort Totten, but the facility is no longer owned by the United States military and instead belongs to NYC. The vast majority of the fort and surrounding park is now open to the public to enjoy. The Fort Totten Visitor's Center is a restored museum with objects and exhibits highlighting the Fort's history.",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/fort-totten-park",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Free Synagogue of Flushing",
@@ -321,7 +380,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.freesynagogue.org/",
+    "categories": ["religious"]
   },
   {
     "name": "Gaming City",
@@ -330,7 +391,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["entertainment", "recreation"]
   },
   {
     "name": "Gantry Plaza State Park",
@@ -339,7 +402,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://parks.ny.gov/parks/149/details.aspx",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Gatcha",
@@ -348,7 +413,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "entertainment"]
   },
   {
     "name": "Geographic Center of New York City",
@@ -357,7 +424,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["landmark", "quirky"]
   },
   {
     "name": "Godwin-Ternbach Museum",
@@ -366,7 +435,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.qc.cuny.edu/academics/museums/godwin-ternbach/",
+    "categories": ["museum", "art"]
   },
   {
     "name": "Golden Shopping Mall",
@@ -375,7 +446,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "food"]
   },
   {
     "name": "Grace Episcopal Church",
@@ -384,7 +457,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked Gothic revival building w/ WPA murals",
-    "info": null
+    "info": null,
+    "url": "https://www.gracechurchjamaica.org/",
+    "categories": ["religious", "historic", "art"]
   },
   {
     "name": "Grave of Harry Houdini",
@@ -393,7 +468,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Greater Ridgewood Historical Society",
@@ -402,7 +479,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.ridgewoodhistorical.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Han Ma Um Zen Center of New York",
@@ -411,7 +490,9 @@
     "icon": "green",
     "imageURL": null,
     "description": "A temple belonging to the largest Buddhist order in South Korea nestled in the middle of New York City.",
-    "info": null
+    "info": null,
+    "url": "https://www.hanmaum.org/",
+    "categories": ["religious"]
   },
   {
     "name": "Harry Houdini Gravesite",
@@ -420,7 +501,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Himalaya Connection",
@@ -429,7 +512,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Idlewild Environmental Center",
@@ -438,7 +523,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["nature"]
   },
   {
     "name": "Isamu Noguchi Foundation Inc",
@@ -447,7 +534,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.noguchi.org/",
+    "categories": ["museum", "art"]
   },
   {
     "name": "Jacob Riis Park bathhouse",
@@ -456,7 +545,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A former seaside jewel built for the everyman is now simply a neglected art deco fortress.",
-    "info": null
+    "info": null,
+    "url": "https://www.nps.gov/gate/planyourvisit/jacob-riis-park.htm",
+    "categories": ["historic", "art", "recreation"]
   },
   {
     "name": "Jamaica Bay Wildlife Refuge Visitor Center",
@@ -465,7 +556,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nps.gov/gate/planyourvisit/jamaica-bay-wildlife-refuge.htm",
+    "categories": ["nature"]
   },
   {
     "name": "Jamaica Center for Arts and Learning (JCAL)",
@@ -474,7 +567,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.jcal.org/",
+    "categories": ["art"]
   },
   {
     "name": "Jamaica Performing Arts Center (JPAC)",
@@ -483,7 +578,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.jpaconline.org/",
+    "categories": ["theater", "music", "entertainment"]
   },
   {
     "name": "King Manor Museum",
@@ -492,7 +589,9 @@
     "icon": "green",
     "imageURL": null,
     "description": "interior landmark",
-    "info": null
+    "info": null,
+    "url": "https://www.kingmanor.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Kingsland Homestead",
@@ -501,7 +600,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.queenshistoricalsociety.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Kissena Velodrome",
@@ -510,7 +611,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/kissena-park",
+    "categories": ["sports", "recreation"]
   },
   {
     "name": "Knockdown Center",
@@ -519,7 +622,9 @@
     "icon": null,
     "imageURL": null,
     "description": "How a century-old glass factory in Queens became a concert venue and arts center.",
-    "info": null
+    "info": null,
+    "url": "https://knockdown.center/",
+    "categories": ["entertainment", "music", "art"]
   },
   {
     "name": "Krypton Neon",
@@ -528,7 +633,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "shopping"]
   },
   {
     "name": "Kupferberg Center for the Arts",
@@ -537,7 +644,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.kupferbergcenter.org/",
+    "categories": ["art", "theater", "music"]
   },
   {
     "name": "LaGuardia Landing Lights",
@@ -546,7 +655,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Nine nice parcels of land along a flight path offer a quiet respite... until a plane soars overhead.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "quirky"]
   },
   {
     "name": "Lavender Label- Little Soap Shop",
@@ -555,7 +666,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Lent-Riker-Smith Homestead (1656)",
@@ -564,7 +677,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The oldest private residence in New York City.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Lewis Howard Latimer House Museum",
@@ -572,8 +687,10 @@
     "lon": -73.8293949,
     "icon": null,
     "imageURL": null,
-    "description": "Explore the incredible life of Lewis Latimer, the son of emancipated Virginians, who became a self-taught expert draftsman, poet, artist, and innovator who worked with inventors like Thomas Edison and Alexander Graham Bell. Credited with seven patents, Latimer’s improvements to the lightbulb made electric lighting more practical and affordable. Brand new galleries and interactive displays in the museum will transport you through time as you discover how Latimer and his family navigated through several important time periods of U.S. and world history. Listen to Latimer’s poetry read aloud by cranking through the Poetry Machine, use the touchscreen Invention Machine to see how Latimer’s patents worked, and scroll through the “Together We Rise” wheel to learn more about the community effort to preserve Latimer’s story and save his historic Queens home.",
-    "info": null
+    "description": "Explore the incredible life of Lewis Latimer, the son of emancipated Virginians, who became a self-taught expert draftsman, poet, artist, and innovator who worked with inventors like Thomas Edison and Alexander Graham Bell. Credited with seven patents, Latimer's improvements to the lightbulb made electric lighting more practical and affordable. Brand new galleries and interactive displays in the museum will transport you through time as you discover how Latimer and his family navigated through several important time periods of U.S. and world history. Listen to Latimer's poetry read aloud by cranking through the Poetry Machine, use the touchscreen Invention Machine to see how Latimer's patents worked, and scroll through the \"Together We Rise\" wheel to learn more about the community effort to preserve Latimer's story and save his historic Queens home.",
+    "info": null,
+    "url": "https://www.latimerhouse.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "LIC Community Boathouse",
@@ -582,7 +699,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.licboathouse.org/",
+    "categories": ["recreation", "sports"]
   },
   {
     "name": "Louis Armstrong Home Museum",
@@ -591,7 +710,9 @@
     "icon": "green",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.louisarmstronghouse.org/",
+    "categories": ["historic", "museum", "music"]
   },
   {
     "name": "Low Cinema",
@@ -599,8 +720,10 @@
     "lon": -73.898538,
     "icon": "green",
     "imageURL": null,
-    "description": "he Theater Is Tiny, the Popcorn Is Fresh and the Crowd Is Devoted. A new micro-cinema draws film buffs to Queens",
-    "info": null
+    "description": "The Theater Is Tiny, the Popcorn Is Fresh and the Crowd Is Devoted. A new micro-cinema draws film buffs to Queens",
+    "info": null,
+    "url": null,
+    "categories": ["cinema", "entertainment"]
   },
   {
     "name": "Materials for the Arts",
@@ -608,8 +731,10 @@
     "lon": -73.9310466,
     "icon": null,
     "imageURL": null,
-    "description": "Founded in 1978, Materials for the Arts, is New York City’s largest Creative Reuse center dedicated to supporting arts and cultural organizations. Since its inclusion of public schools as members in 1998, MFTA is proud to be the largest provider of free materials to the NYC Department of Education, as well. Millions of students, audience members, choreographers, dancers, actors, set designers, art therapists, after-school providers, hospital staff, social justice organizations and senior citizens have been positively impacted by the work of Materials for the Arts. Today, MFTA’s donation cycle diverts over 1.7 million pounds of materials from landfills. These quality goods are redistributed and made available to our 7,000+ recipient organizations, such as non-profits and NYC schools, free-of-charge. The City of New York funds infrastructural and operational costs for MFTA, and it falls upon Friends of Materials for the Arts, MFTA’s nonprofit partner, to support other initiatives to reach a broader audience through our Education Center which hosts our Artists in Residence program, Designer in Residence program, Junior Designer in Residence program, Gallery program, Third Thursdays program, Outside Community programs, Professional Development program and Field Trip/In School Residency programs.",
-    "info": null
+    "description": "Founded in 1978, Materials for the Arts, is New York City's largest Creative Reuse center dedicated to supporting arts and cultural organizations. Since its inclusion of public schools as members in 1998, MFTA is proud to be the largest provider of free materials to the NYC Department of Education, as well. Millions of students, audience members, choreographers, dancers, actors, set designers, art therapists, after-school providers, hospital staff, social justice organizations and senior citizens have been positively impacted by the work of Materials for the Arts. Today, MFTA's donation cycle diverts over 1.7 million pounds of materials from landfills. These quality goods are redistributed and made available to our 7,000+ recipient organizations, such as non-profits and NYC schools, free-of-charge.",
+    "info": null,
+    "url": "https://www.nyc.gov/site/dcla/services/mfta.page",
+    "categories": ["art"]
   },
   {
     "name": "MoMA PS1",
@@ -618,7 +743,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.momaps1.org/",
+    "categories": ["museum", "art"]
   },
   {
     "name": "MoMA QNS",
@@ -627,7 +754,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
   },
   {
     "name": "Monster Aquarium Inc.",
@@ -636,7 +765,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "nature"]
   },
   {
     "name": "Museum of the Moving Image",
@@ -645,7 +776,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.movingimage.us/",
+    "categories": ["museum", "cinema"]
   },
   {
     "name": "New York Buddhist Vihara",
@@ -654,7 +787,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nybvihara.org/",
+    "categories": ["religious"]
   },
   {
     "name": "New York International Table Tennis Center",
@@ -663,7 +798,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nyttc.org/",
+    "categories": ["sports", "recreation"]
   },
   {
     "name": "Ohel Chabad Lubavitch",
@@ -672,7 +809,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Schneerson's grave",
-    "info": null
+    "info": null,
+    "url": "https://www.theohel.com/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Outpost Artists Resources",
@@ -681,7 +820,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Phil \"Scooter\" Rizzuto Park",
@@ -690,7 +831,9 @@
     "icon": null,
     "imageURL": null,
     "description": "home to \"bird racing\"",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/phil-rizzuto-park",
+    "categories": ["park", "quirky", "sports"]
   },
   {
     "name": "Poppenhusen Institute",
@@ -698,8 +841,10 @@
     "lon": -73.8528872,
     "icon": null,
     "imageURL": null,
-    "description": "Poppenhusen Institute is a historic building at 114-04 14th Road in College Point, Queens that housed the first free kindergarten in America. In addition, this institute provided the first free evening classes for adults (in America).[2] Currently, the Institute operates as a community cultural center. The institute building is five stories tall and was constructed in a stern Victorian style.[2] It was added to the New York City Landmarks Preservation Commission in 1970 and then added to the National Register of Historic Places in 1977",
-    "info": null
+    "description": "Poppenhusen Institute is a historic building at 114-04 14th Road in College Point, Queens that housed the first free kindergarten in America. In addition, this institute provided the first free evening classes for adults (in America). Currently, the Institute operates as a community cultural center. The institute building is five stories tall and was constructed in a stern Victorian style. It was added to the New York City Landmarks Preservation Commission in 1970 and then added to the National Register of Historic Places in 1977",
+    "info": null,
+    "url": "https://www.poppenhuseninstitute.org/",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Pro Line Archery Lanes",
@@ -708,7 +853,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["sports", "recreation"]
   },
   {
     "name": "Prop N Spoon",
@@ -717,7 +864,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Prospect Cemetery",
@@ -726,7 +875,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "Queens Archery",
@@ -735,7 +886,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["sports", "recreation"]
   },
   {
     "name": "Queens County Farm Museum",
@@ -744,7 +897,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.queensfarm.org/",
+    "categories": ["museum", "historic", "nature"]
   },
   {
     "name": "Queens Historical Society",
@@ -753,7 +908,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.queenshistoricalsociety.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "RESOBOX",
@@ -762,7 +919,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://resobox.com/",
+    "categories": ["art", "entertainment"]
   },
   {
     "name": "Ridgewood North Historic District",
@@ -770,8 +929,10 @@
     "lon": -73.9044066,
     "icon": null,
     "imageURL": null,
-    "description": "A collection of 96 buildings, mostly three-story brick rowhouses called \"Mathews Model Flats\", built in 1908–1914 by the G.X. Mathews Company.[11] Overlaps with the Woodbine–Palmetto–Gates Historic District, a U.S. historic district.",
-    "info": null
+    "description": "A collection of 96 buildings, mostly three-story brick rowhouses called \"Mathews Model Flats\", built in 1908–1914 by the G.X. Mathews Company. Overlaps with the Woodbine–Palmetto–Gates Historic District, a U.S. historic district.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "RKO Keith's Theatre",
@@ -779,8 +940,10 @@
     "lon": -73.8301898,
     "icon": null,
     "imageURL": null,
-    "description": "landmarked interior; Interior space of a Baroque theater built in 1927–1928 for the RKO Pictures chain.[99] Also on the National Register of Historic Places;[18] however, the exterior is not a city landmark.",
-    "info": null
+    "description": "landmarked interior; Interior space of a Baroque theater built in 1927–1928 for the RKO Pictures chain. Also on the National Register of Historic Places; however, the exterior is not a city landmark.",
+    "info": null,
+    "url": null,
+    "categories": ["theater", "historic", "landmark"]
   },
   {
     "name": "Rudy's Hobby & Art",
@@ -789,7 +952,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "art"]
   },
   {
     "name": "SculptureCenter",
@@ -798,7 +963,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.sculpture-center.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "Self-Taught Genius Gallery",
@@ -807,7 +974,9 @@
     "icon": null,
     "imageURL": null,
     "description": "An exhibition space dedicated to American outsider art created between the 18th and 21st centuries",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "museum"]
   },
   {
     "name": "Shree Divya Dham",
@@ -816,7 +985,9 @@
     "icon": null,
     "imageURL": null,
     "description": "shrine to Vaishno devi",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["religious"]
   },
   {
     "name": "Smiling Hogshead Ranch",
@@ -825,7 +996,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Guerilla gardeners reclaimed this abandoned railroad land literally putting down roots.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park", "quirky"]
   },
   {
     "name": "Socrates Sculpture Park",
@@ -834,7 +1007,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.socratessculpturepark.org/",
+    "categories": ["art", "park"]
   },
   {
     "name": "Soy Bean Chan Flower & Gift Shop",
@@ -843,7 +1018,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "St James Episcopal Church",
@@ -852,7 +1029,9 @@
     "icon": null,
     "imageURL": null,
     "description": "oldest church in NYC",
-    "info": null
+    "info": null,
+    "url": "https://www.stjameselm.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "St. John Cemetery",
@@ -861,7 +1040,9 @@
     "icon": null,
     "imageURL": null,
     "description": "look for Carlo Gambino's grave; other mafia graves here also",
-    "info": null
+    "info": null,
+    "url": "https://www.ccbklyn.org/st-john-cemetery-queens",
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "St. Nicholas Orthodox Church",
@@ -869,8 +1050,10 @@
     "lon": -73.8103058,
     "icon": null,
     "imageURL": null,
-    "description": "This Orthodox Church's exterior is rather unorthodox. BUILT A YEAR BEFORE THE first Apollo moon landing, St. Nicholas Orthodox Church’s peculiar architecture reflects society’s obsession with all things space travel at the beginning of the Space Age. One of the only features of the futuristic-looking church’s exterior that bears any resemblance to a church is the building’s blue onion dome and Orthodox cross. The church doesn’t have many right angles on the outside; instead its lines curve and arch in exaggerated fashion, lending the church a whimsical, futuristic feel. Completing the futuristic motif is the structure’s roof, which is composed of metallic silver tiles.",
-    "info": null
+    "description": "This Orthodox Church's exterior is rather unorthodox. BUILT A YEAR BEFORE THE first Apollo moon landing, St. Nicholas Orthodox Church's peculiar architecture reflects society's obsession with all things space travel at the beginning of the Space Age. One of the only features of the futuristic-looking church's exterior that bears any resemblance to a church is the building's blue onion dome and Orthodox cross. The church doesn't have many right angles on the outside; instead its lines curve and arch in exaggerated fashion, lending the church a whimsical, futuristic feel. Completing the futuristic motif is the structure's roof, which is composed of metallic silver tiles.",
+    "info": null,
+    "url": "https://www.stnicholaswhitestone.org/",
+    "categories": ["religious", "quirky", "art"]
   },
   {
     "name": "Station Square",
@@ -879,7 +1062,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["neighborhood"]
   },
   {
     "name": "Steinway & Sons",
@@ -888,7 +1073,9 @@
     "icon": null,
     "imageURL": null,
     "description": "reserve for tours",
-    "info": null
+    "info": null,
+    "url": "https://www.steinway.com/",
+    "categories": ["music", "historic"]
   },
   {
     "name": "Steinway Reformed Church",
@@ -896,8 +1083,10 @@
     "lon": -73.9048765,
     "icon": null,
     "imageURL": null,
-    "description": "he Steinway Reformed Church has a profound historical relationship with the Astoria community, deeply intertwined with the generosity and vision of the Steinway family. Their legendary piano factory, a few blocks away, has built 95% of the concert pianos in the past 150 years. The current building, completed in 1891, is built in traditional carpenter-gothic style, the extraordinary woodwork was, as legend claims, the work of craftspeople from the Steinway piano factory. The Steinway Reformed Church’s involvement in the community is both diverse and impactful. Through partnerships with local groups, the church addresses various needs and promotes well-being. This event is co-hosted by the Greater Astoria Historical Society, which is collaborating with Historic Districts Council and other city-wide preservation organizations to promote this sacred space as a vital community asset, to be a candidate for NYC Landmark Designation.",
-    "info": null
+    "description": "The Steinway Reformed Church has a profound historical relationship with the Astoria community, deeply intertwined with the generosity and vision of the Steinway family. Their legendary piano factory, a few blocks away, has built 95% of the concert pianos in the past 150 years. The current building, completed in 1891, is built in traditional carpenter-gothic style, the extraordinary woodwork was, as legend claims, the work of craftspeople from the Steinway piano factory. The Steinway Reformed Church's involvement in the community is both diverse and impactful. Through partnerships with local groups, the church addresses various needs and promotes well-being. This event is co-hosted by the Greater Astoria Historical Society, which is collaborating with Historic Districts Council and other city-wide preservation organizations to promote this sacred space as a vital community asset, to be a candidate for NYC Landmark Designation.",
+    "info": null,
+    "url": "https://www.steinwayreformed.org/",
+    "categories": ["religious", "historic", "art"]
   },
   {
     "name": "Stray Vintage",
@@ -906,7 +1095,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Sunnyside Gardens",
@@ -915,7 +1106,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["neighborhood", "historic"]
   },
   {
     "name": "Tabernacle of Prayer For All",
@@ -924,7 +1117,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["religious"]
   },
   {
     "name": "Terminal A",
@@ -932,8 +1127,10 @@
     "lon": -73.8845928,
     "icon": null,
     "imageURL": null,
-    "description": "Marine Air Terminal - landmarked interior; The Modernist style main floor of the Marine Air Terminal (an exterior landmark and National Registered Historic Place), which contains a mural and circular main room.[",
-    "info": null
+    "description": "Marine Air Terminal - landmarked interior; The Modernist style main floor of the Marine Air Terminal (an exterior landmark and National Registered Historic Place), which contains a mural and circular main room.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art", "landmark"]
   },
   {
     "name": "Terraza 7",
@@ -942,7 +1139,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.terraza7.com/",
+    "categories": ["music", "entertainment", "food"]
   },
   {
     "name": "Thalia Spanish Theatre",
@@ -951,7 +1150,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://thaliatheatre.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "The Alley Pond Giant",
@@ -960,7 +1161,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The oldest living organism in New York City. Maybe",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["nature", "quirky"]
   },
   {
     "name": "The Elevator Historical Society",
@@ -969,7 +1172,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.elevatorhistory.net/",
+    "categories": ["museum", "quirky"]
   },
   {
     "name": "The Hindu Temple Society of North America",
@@ -978,7 +1183,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This enormous Hindu temple in Queens serves incredible dosas in its basement canteen.",
-    "info": null
+    "info": null,
+    "url": "https://www.nyganeshtemple.org/",
+    "categories": ["religious", "food"]
   },
   {
     "name": "The Home of NYC Parks' Retired Playground Animals",
@@ -987,7 +1194,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A menagerie of concrete animals brought together from across New York City's parks.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "art"]
   },
   {
     "name": "The Living Museum",
@@ -996,7 +1205,9 @@
     "icon": "green",
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "museum"]
   },
   {
     "name": "The Ramp",
@@ -1005,7 +1216,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Where the four original members of the Ramones hung out and revolutionized punk rock.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["music", "historic"]
   },
   {
     "name": "The Secret Theatre",
@@ -1014,7 +1227,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "http://www.secrettheatre.com/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "The Somerset House",
@@ -1022,8 +1237,10 @@
     "lon": -73.9525929,
     "icon": null,
     "imageURL": null,
-    "description": "Owned by former fashion designer Alan Eckstein, this Long Island City showroom sells meticulously maintained, often rare vintage pieces, from a Eugenia Butler oak puzzle chair ($2,800), to a pink Fritz Hansen lamb-shearling three-legged stool ($395), to a bentwood Danish ottoman reupholstered in Schumacher leopard-print fabric ($850). The inventory goes far beyond seating, though: The two-story space has vases, couches, coffee tables, consoles, and photography prints. And Scott says the “inspiring” way Eckstein stages it all — for example, “sitting the colorful pieces that pop against worn, weathered woods that prevent it from feeling as kitschy, or ’90s-dorm-room-esque, as other stores” — has influenced his own apartment’s design. Plus the variety, Scott says, is just plain fun: He once spotted, in a single corner, a pattered grasshopper chair on a cowskin rug beside a white sofa with pink pillows. Jill Singer, editor of online design magazine Sight Unseen, who lives nearby, was struck on her first visit by the “entire vintage car in the showroom” (a BMW Isetta, situated between Snaka Waka sculptures).",
-    "info": null
+    "description": "Owned by former fashion designer Alan Eckstein, this Long Island City showroom sells meticulously maintained, often rare vintage pieces, from a Eugenia Butler oak puzzle chair ($2,800), to a pink Fritz Hansen lamb-shearling three-legged stool ($395), to a bentwood Danish ottoman reupholstered in Schumacher leopard-print fabric ($850). The inventory goes far beyond seating, though: The two-story space has vases, couches, coffee tables, consoles, and photography prints.",
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "art"]
   },
   {
     "name": "Tromaville",
@@ -1032,7 +1249,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.troma.com/",
+    "categories": ["entertainment", "cinema"]
   },
   {
     "name": "Tudor Park",
@@ -1041,7 +1260,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/tudor-park",
+    "categories": ["park"]
   },
   {
     "name": "TWA Hotel",
@@ -1050,7 +1271,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This futuristic airport terminal was abandoned for decades before reopening as a hotel—with a vintage plane of its own parked out back.",
-    "info": null
+    "info": null,
+    "url": "https://www.twahotel.com/",
+    "categories": ["historic", "art", "landmark"]
   },
   {
     "name": "Ukehut",
@@ -1059,7 +1282,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["music", "shopping"]
   },
   {
     "name": "Underpenny Antiques & Collectibles",
@@ -1067,8 +1292,10 @@
     "lon": -73.9538229,
     "icon": null,
     "imageURL": null,
-    "description": "Plane & Cast Iron Museum \"It may look like an antiques store—and indeed it is—until you express interest in one of the hundreds of cast-iron objects that line the wall behind the counter on the right side of the store. At that point, Underpenny owner and curator Sung Park will tell you that the piece you had your eye on—a sturdy black trivet, a horse-and-carriage toy, an ornate penny bank—is not for sale. The meticulously arranged display, which also includes a collection of hand planes, is the result of more than 15 years of collecting and represents only a portion of Park's total treasure trove. If you truly have your heart set on taking home some cast iron, however, the items on the left side of the shop are for sale.\"",
-    "info": null
+    "description": "Plane & Cast Iron Museum \"It may look like an antiques store—and indeed it is—until you express interest in one of the hundreds of cast-iron objects that line the wall behind the counter on the right side of the store. At that point, Underpenny owner and curator Sung Park will tell you that the piece you had your eye on—a sturdy black trivet, a horse-and-carriage toy, an ornate penny bank—is not for sale. The meticulously arranged display, which also includes a collection of hand planes, is the result of more than 15 years of collecting and represents only a portion of Park's total treasure trove.",
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "museum", "quirky"]
   },
   {
     "name": "United Sherpa Association (USA), Inc.",
@@ -1077,7 +1304,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Vander Ende–Onderdonk House",
@@ -1086,7 +1315,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The oldest Dutch colonial stone house in New York City is a hidden gem on the border of Brooklyn and Queens.",
-    "info": null
+    "info": null,
+    "url": "https://www.onderdonkhouse.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Vatican Pavilion Site",
@@ -1095,7 +1326,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "Voelker Orth Museum",
@@ -1104,7 +1337,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.vomuseum.org/",
+    "categories": ["historic", "museum", "nature"]
   },
   {
     "name": "Weekender Restaurant, Billiard & Bar INC",
@@ -1113,7 +1348,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["food", "recreation", "drinking"]
   },
   {
     "name": "Welling Court Mural Project",
@@ -1122,7 +1359,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://wellingcourtmuralproject.com/",
+    "categories": ["art"]
   },
   {
     "name": "Westinghouse Time Capsules",
@@ -1131,7 +1370,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Wise Clock",
@@ -1140,7 +1381,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This 19th-century clock has been restored to help withstand the harsh environment of its seaside home.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Zapateria Mexico",
@@ -1149,6 +1392,8 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   }
 ]
