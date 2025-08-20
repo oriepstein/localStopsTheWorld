@@ -6,7 +6,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.tomijazz.com/",
+    "categories": ["music", "entertainment"]
   },
   {
     "name": "Ford Foundation Building",
@@ -15,7 +17,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A miniature rainforest is growing inside of a Midtown Manhattan office building.",
-    "info": null
+    "info": null,
+    "url": "https://www.fordfoundation.org/",
+    "categories": ["nature", "landmark"]
   },
   {
     "name": "Overlook",
@@ -24,7 +28,9 @@
     "icon": null,
     "imageURL": null,
     "description": "In the back of a nondescript sports bar is a museum-worthy mural by legendary cartoonists.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "drinking"]
   },
   {
     "name": "220 E 42nd St",
@@ -33,7 +39,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Spinning silently in the lobby of an Art Deco masterwork is a massive vintage model of the Earth.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "Quest Bookshop",
@@ -42,7 +50,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://questbooks.net/",
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "420 Lexington Ave",
@@ -51,7 +61,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Rat sculptures try to infiltrate the Graybar Building in an architectural tribute to New York City's nautical history.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "historic", "quirky"]
   },
   {
     "name": "Grand Central Terminal",
@@ -59,8 +71,10 @@
     "lon": -73.9772294,
     "icon": null,
     "imageURL": null,
-    "description": "A dark patch of the ceiling at Grand Central Terminal which was not restored is still stained brown by tobacco.\u00a0\u00a0<br>Whisper secrets in a busy station only to be heard on the other side of this acoustic arch.<br>The famous facade of Grand Central Terminal hides a regulation tennis court, and it's not the first one. \u00a0home to city's steepest escalator",
-    "info": null
+    "description": "A dark patch of the ceiling at Grand Central Terminal which was not restored is still stained brown by tobacco. Whisper secrets in a busy station only to be heard on the other side of this acoustic arch. The famous facade of Grand Central Terminal hides a regulation tennis court, and it's not the first one. home to city's steepest escalator",
+    "info": null,
+    "url": "https://www.grandcentralterminal.com/",
+    "categories": ["landmark", "historic", "sports"]
   },
   {
     "name": "Paley Park",
@@ -69,7 +83,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A small peaceful park and waterfall tucked amid the urban grind of Midtown Manhattan.",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/paley-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Greenacre Park",
@@ -78,7 +94,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nycgovparks.org/parks/greenacre-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "William Lescaze House and Office",
@@ -86,8 +104,10 @@
     "lon": -73.9708852,
     "icon": null,
     "imageURL": null,
-    "description": "New York City's first Modernist house.\u00a0mid-century modern. first Modern resdience in NYC. designed by Lescaze who pioneered modernism in USA",
-    "info": null
+    "description": "New York City's first Modernist house. mid-century modern. first Modern residence in NYC. designed by Lescaze who pioneered modernism in USA",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "767 3rd Ave",
@@ -96,7 +116,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A Manhattan office building is home to the world's largest chess board.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "recreation"]
   },
   {
     "name": "The Norwegian Seamen's Church in New York",
@@ -105,7 +127,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.sjomannskirken.no/new-york/",
+    "categories": ["religious"]
   },
   {
     "name": "Waldorf-Astoria New York",
@@ -113,8 +137,10 @@
     "lon": -73.9728559,
     "icon": null,
     "imageURL": null,
-    "description": "cole porter's piano:\u00a0A famous songsmith's custom piano, dubbed \"High Society,\" is hidden just out of sight in one of New York's finest hotels.",
-    "info": null
+    "description": "cole porter's piano: A famous songsmith's custom piano, dubbed \"High Society,\" is hidden just out of sight in one of New York's finest hotels.",
+    "info": null,
+    "url": "https://www.waldorfastoria.com/",
+    "categories": ["historic", "music"]
   },
   {
     "name": "AKC Museum of the Dog",
@@ -123,7 +149,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://museumofthedog.org/",
+    "categories": ["museum"]
   },
   {
     "name": "Sniffen Court",
@@ -132,7 +160,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Saint Peter's Church",
@@ -141,7 +171,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Nevelson Chapel of Tranquility",
-    "info": null
+    "info": null,
+    "url": "https://saintpeters.org/",
+    "categories": ["religious", "art"]
   },
   {
     "name": "Seagram Building",
@@ -149,8 +181,10 @@
     "lon": -73.9719421,
     "icon": null,
     "imageURL": null,
-    "description": "landmarked interior<br>plaza in front: \"A sea of elegant, perfectly proportioned space carved out of a city of chaos\" \u2014Peter Marino",
-    "info": null
+    "description": "landmarked interior plaza in front: \"A sea of elegant, perfectly proportioned space carved out of a city of chaos\" —Peter Marino",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art", "landmark"]
   },
   {
     "name": "The Korea Society",
@@ -159,7 +193,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.koreasociety.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "Korean Cultural Center New York",
@@ -168,7 +204,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.koreanculture.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "PHILLIPS",
@@ -177,7 +215,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.phillips.com/",
+    "categories": ["art", "shopping"]
   },
   {
     "name": "Howard Greenberg Gallery",
@@ -186,7 +226,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.howardgreenberg.com/",
+    "categories": ["art"]
   },
   {
     "name": "500 Park Ave",
@@ -194,8 +236,10 @@
     "lon": -73.9705452,
     "icon": null,
     "imageURL": null,
-    "description": "old pepsico building \"It never fails to give me chill bumps. It\u2019s way better than the Lever Building down the road. There is not a bit of fat in the building, and its windows are perfectly proportioned. To me, it reflects peak modernism, peak power, peak New York\"",
-    "info": null
+    "description": "old pepsico building \"It never fails to give me chill bumps. It's way better than the Lever Building down the road. There is not a bit of fat in the building, and its windows are perfectly proportioned. To me, it reflects peak modernism, peak power, peak New York\"",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "59E59 Theaters",
@@ -204,7 +248,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://59e59.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Central Synagogue",
@@ -213,7 +259,9 @@
     "icon": null,
     "imageURL": null,
     "description": "every other tue, concerts by a master organist",
-    "info": null
+    "info": null,
+    "url": "https://www.centralsynagogue.org/",
+    "categories": ["religious", "music"]
   },
   {
     "name": "St. Bartholomew's Church",
@@ -221,8 +269,10 @@
     "lon": -73.9733474,
     "icon": null,
     "imageURL": null,
-    "description": "early 1900s church with famed organ\u00a0 National Historic Landmark designed by Bertram Goodhue in 1918. Combining Byzantine and Romanesque styles, the church often surprises visitors who mistake this Episcopal church for a Catholic or Eastern Orthodox parish.<br><br>See the impressive triple portal, commissioned by the Vanderbilt family and designed by McKim, Mead & White in 1903, as well as exquisite mosaics and stained glass by Hildreth Mei\u00e8re, and a magnificent 24-foot-wide Sanctus window designed by Reynolds, Francis and Rohnstock in 1943. Other highlights include a page from the Gutenberg Bible, a baptismal font by Bertel Thorvaldsen, and NYC\u2019s largest pipe organ, an \u00c6olian-Skinner with 12,422 pipes.<br><br>See how the welcoming and affirming community at St. Bartholomew\u2019s Church brings life to this historic space. Nestled among the city\u2019s high-rises, the church offers a quiet refuge in the heart of Manhattan. View how history, art, and faith come together in this peaceful setting.",
-    "info": null
+    "description": "early 1900s church with famed organ National Historic Landmark designed by Bertram Goodhue in 1918. Combining Byzantine and Romanesque styles, the church often surprises visitors who mistake this Episcopal church for a Catholic or Eastern Orthodox parish. See the impressive triple portal, commissioned by the Vanderbilt family and designed by McKim, Mead & White in 1903, as well as exquisite mosaics and stained glass by Hildreth Meière, and a magnificent 24-foot-wide Sanctus window designed by Reynolds, Francis and Rohnstock in 1943. Other highlights include a page from the Gutenberg Bible, a baptismal font by Bertel Thorvaldsen, and NYC's largest pipe organ, an Æolian-Skinner with 12,422 pipes.",
+    "info": null,
+    "url": "https://stbarts.org/",
+    "categories": ["religious", "music", "historic"]
   },
   {
     "name": "Charles Scribner's Sons Building",
@@ -231,7 +281,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "bookstore"]
   },
   {
     "name": "Church of Sweden",
@@ -240,7 +292,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://svenskakyrkan.se/new-york",
+    "categories": ["religious"]
   },
   {
     "name": "Amster Yard",
@@ -249,7 +303,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood"]
   },
   {
     "name": "Four Seasons Hotel New York",
@@ -257,8 +313,10 @@
     "lon": -73.9712653,
     "icon": null,
     "imageURL": null,
-    "description": "The Four Seasons Hotel New York stands out as the only hotel in the Western Hemisphere designed by I.M. Pei.\u00a0<br>With walls made of the same honey-colored French limestone Mr. Pei used at The Louvre, the 33-foot soaring lobby ceiling of the 52-story hotel resonates with the height of the building\u2019s surrounding skyscrapers. One flight up from the street is the lobby\u2019s rotunda, which is circled by eight pillars that accent a suspended, backlit onyx ceiling.",
-    "info": null
+    "description": "The Four Seasons Hotel New York stands out as the only hotel in the Western Hemisphere designed by I.M. Pei. With walls made of the same honey-colored French limestone Mr. Pei used at The Louvre, the 33-foot soaring lobby ceiling of the 52-story hotel resonates with the height of the building's surrounding skyscrapers. One flight up from the street is the lobby's rotunda, which is circled by eight pillars that accent a suspended, backlit onyx ceiling.",
+    "info": null,
+    "url": "https://www.fourseasons.com/newyork/",
+    "categories": ["historic", "art"]
   },
   {
     "name": "Lotte New York Palace",
@@ -266,8 +324,10 @@
     "lon": -73.9748712,
     "icon": null,
     "imageURL": null,
-    "description": "The spacious, bi-level marble lobby of the Lotte New York Palace not only evokes grandeur but also harmoniously blends the two elements of this storied 909-room property: the landmark Villard Mansion (on Madison Avenue) and its contemporary 55-story hotel tower.<br><br>The Madison Avenue courtyard entrance to the hotel, which once welcomed carriages, leads to the hotel\u2019s grand staircase and lower lobby below. Off the stately foyer are two event spaces, the oval Villard Ballroom and Reid Salon. One especially impressive feature is its restored red Verona marble fireplace, originally designed for the mansion by Augustus Saint-Gaudens. With classic columns, rich woods and warm carpeting, the reception area and private entranceway to The Towers are located in the lower lobby.<br><br>Take a peek: Visitors can enjoy cocktails and light snacks under the gilt ceilings of The Gold Room; located within the Villard Mansion; stop in at Troubles Trust, the bar tucked under the grand staircase; enjoy a personalized drinking experience by reservation at Rarities, or enjoy seasonal baked goods and other indulgences at Pomme Palais on the ground floor.",
-    "info": null
+    "description": "The spacious, bi-level marble lobby of the Lotte New York Palace not only evokes grandeur but also harmoniously blends the two elements of this storied 909-room property: the landmark Villard Mansion (on Madison Avenue) and its contemporary 55-story hotel tower. The Madison Avenue courtyard entrance to the hotel, which once welcomed carriages, leads to the hotel's grand staircase and lower lobby below. Off the stately foyer are two event spaces, the oval Villard Ballroom and Reid Salon. One especially impressive feature is its restored red Verona marble fireplace, originally designed for the mansion by Augustus Saint-Gaudens. With classic columns, rich woods and warm carpeting, the reception area and private entranceway to The Towers are located in the lower lobby.",
+    "info": null,
+    "url": "https://www.lottenypalace.com/",
+    "categories": ["historic", "art"]
   },
   {
     "name": "Austrian Cultural Forum New York",
@@ -276,7 +336,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.acfny.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "Chartwell Booksellers",
@@ -285,7 +347,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.chartwellbooksellers.com/",
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "St. Thomas Church",
@@ -294,7 +358,9 @@
     "icon": null,
     "imageURL": null,
     "description": "recently restored windows",
-    "info": null
+    "info": null,
+    "url": "https://www.saintthomaschurch.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Holy Family Roman Catholic Church",
@@ -303,16 +369,20 @@
     "icon": null,
     "imageURL": null,
     "description": "garden",
-    "info": null
+    "info": null,
+    "url": "https://holyfamilynyc.org/",
+    "categories": ["religious", "nature"]
   },
   {
-    "name": "Dag Hammarskj\u00f6ld Plaza",
+    "name": "Dag Hammarskjöld Plaza",
     "lat": 40.7522545,
     "lon": -73.9684986,
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park"]
   },
   {
     "name": "Japan Society",
@@ -321,7 +391,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.japansociety.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "Tudor City Greens",
@@ -330,7 +402,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "neighborhood"]
   },
   {
     "name": "Chanin Building",
@@ -338,8 +412,10 @@
     "lon": -73.9763628,
     "icon": null,
     "imageURL": null,
-    "description": "art deco building; exterior references Darwins theory of evolution; check out lobby",
-    "info": null
+    "description": "art deco building; exterior references Darwin's theory of evolution; check out lobby",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Bowery Savings Bank Building",
@@ -348,7 +424,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Red Caboose",
@@ -357,7 +435,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "quirky"]
   },
   {
     "name": "Private Passage Sculpture",
@@ -366,7 +446,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Wine bottle sculpture with a ship's stateroom inside.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
   },
   {
     "name": "Pier 96 at Hudson River Park",
@@ -375,7 +457,9 @@
     "icon": null,
     "imageURL": null,
     "description": "free kayaking",
-    "info": null
+    "info": null,
+    "url": "https://hudsonriverpark.org/",
+    "categories": ["recreation", "sports", "park"]
   },
   {
     "name": "Avevida 6 1/2",
@@ -384,7 +468,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Tucked away amidst some of the most famous addresses in the world is New York's only fraction of a street.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "neighborhood"]
   },
   {
     "name": "Nintendo",
@@ -393,7 +479,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Though the case is scorched and the buttons half-melted, this hardy handheld gaming device can still run a game of Tetris.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "entertainment"]
   },
   {
     "name": "The Actors' Temple",
@@ -402,7 +490,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A Hell's Kitchen synagogue that has counted stars of stage and screen among its congregation.",
-    "info": null
+    "info": null,
+    "url": "https://www.theactorstemple.org/",
+    "categories": ["religious", "theater"]
   },
   {
     "name": "Silver Towers Public Park",
@@ -411,7 +501,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This sculptural piece by the artist Tom Otterness doubles as a jungle gym.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "art", "recreation"]
   },
   {
     "name": "Spotlight on Broadway",
@@ -420,7 +512,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The 28-foot granite map plots the locations of 40 theaters in New York City.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["theater", "landmark"]
   },
   {
     "name": "1552 Broadway",
@@ -428,17 +522,21 @@
     "lon": -73.9848056,
     "icon": null,
     "imageURL": null,
-    "description": "Amid the marketing blitz of modern Times Square is an elegant holdover from its showbiz glory days.\u00a0THESE DAYS, IT\u2019S HARD TO find much of the original heart of old Times Square. But on the corner of Broadway and West 46th Street, above the crowds of tourists and neon signs, is the venerable facade of Israel Miller\u2019s shoe store, looking much as it did a hundred years ago.",
-    "info": null
+    "description": "Amid the marketing blitz of modern Times Square is an elegant holdover from its showbiz glory days. THESE DAYS, IT'S HARD TO find much of the original heart of old Times Square. But on the corner of Broadway and West 46th Street, above the crowds of tourists and neon signs, is the venerable facade of Israel Miller's shoe store, looking much as it did a hundred years ago.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "theater"]
   },
   {
-    "name": "Max Neuhaus, \u201cTimes Square\u201d",
+    "name": "Max Neuhaus, "Times Square"",
     "lat": 40.7571266,
     "lon": -73.9857111,
     "icon": null,
     "imageURL": null,
     "description": "A pedestrian island in the middle of world-famous Times Square emits a strange (and purposeful) humming noise.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
   },
   {
     "name": "Beast & Butterflies",
@@ -447,7 +545,9 @@
     "icon": null,
     "imageURL": null,
     "description": "great rooftop views",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["drinking", "food"]
   },
   {
     "name": "Delphinium Home",
@@ -456,7 +556,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "Olde Good Things",
@@ -465,7 +567,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.oldegoodthings.com/",
+    "categories": ["shopping", "historic"]
   },
   {
     "name": "Ars Nova",
@@ -474,7 +578,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://arsnovanyc.com/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "54 Below",
@@ -483,7 +589,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://54below.com/",
+    "categories": ["music", "entertainment", "drinking"]
   },
   {
     "name": "Christie's New York",
@@ -492,7 +600,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.christies.com/",
+    "categories": ["art", "shopping"]
   },
   {
     "name": "St. Mary the Virgin's Church",
@@ -500,8 +610,10 @@
     "lon": -73.9838294,
     "icon": null,
     "imageURL": null,
-    "description": "This Episcopal church was founded in 1868 for the neighborhood of Longacre Square, now called Times Square. Known for its heavy of use of incense, the church is sometimes called Smoky Mary\u2019s. The main attraction here is the well-preserved Gothic architecture\u2014with vaulting columns ideal for its famous booming organ pipes\u2014along with the splashes of blue and gold added during a \u201990s redecoration.",
-    "info": null
+    "description": "This Episcopal church was founded in 1868 for the neighborhood of Longacre Square, now called Times Square. Known for its heavy of use of incense, the church is sometimes called Smoky Mary's. The main attraction here is the well-preserved Gothic architecture—with vaulting columns ideal for its famous booming organ pipes—along with the splashes of blue and gold added during a '90s redecoration.",
+    "info": null,
+    "url": "https://www.stmvirgin.org/",
+    "categories": ["religious", "historic", "music"]
   },
   {
     "name": "Marilyn Monroe's subway grate.",
@@ -510,7 +622,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "landmark"]
   },
   {
     "name": "One Times Square",
@@ -519,16 +633,20 @@
     "icon": null,
     "imageURL": null,
     "description": "This historic address is home to the beloved ball and is an almost totally empty building among the most expensive real estate in the world.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["landmark", "historic", "quirky"]
   },
   {
-    "name": "Times Sq\u201342 St",
+    "name": "Times Sq–42 St",
     "lat": 40.7558611,
     "lon": -73.987061,
     "icon": null,
     "imageURL": null,
-    "description": "Fake subway tiles were installed to cover a design that resembled the Confederate flag\u2014it's unclear if the resemblance was intentional.",
-    "info": null
+    "description": "Fake subway tiles were installed to cover a design that resembled the Confederate flag—it's unclear if the resemblance was intentional.",
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "historic"]
   },
   {
     "name": "Bryant Park Public Restroom",
@@ -537,7 +655,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The fanciest public restroom in New York City boasts fresh flowers, art, and a classical music soundtrack.",
-    "info": null
+    "info": null,
+    "url": "https://bryantpark.org/",
+    "categories": ["quirky", "park"]
   },
   {
     "name": "Sutton Place Park South",
@@ -546,7 +666,9 @@
     "icon": null,
     "imageURL": null,
     "description": "famous from Woody Allen's Manhattan; replica of Florence's bronze boar statue",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "art", "cinema"]
   },
   {
     "name": "Peter Detmold Park",
@@ -555,7 +677,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park"]
   },
   {
     "name": "Rockefeller Guest House by Philip Johnson",
@@ -564,7 +688,9 @@
     "icon": null,
     "imageURL": null,
     "description": "mid-century modern. one of the first modernist homes in the city. Johnson's only nyc residence",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Modulightor Inc",
@@ -573,7 +699,9 @@
     "icon": null,
     "imageURL": null,
     "description": "first friday of every month they have wine & cheese receptions",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "art"]
   },
   {
     "name": "Marian Goodman Gallery",
@@ -582,7 +710,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.mariangoodman.com/",
+    "categories": ["art"]
   },
   {
     "name": "Lever House",
@@ -590,8 +720,10 @@
     "lon": -73.9727396,
     "icon": null,
     "imageURL": null,
-    "description": "Commercial office design was forever changed with the completion of SOM\u2019s Lever House in 1952 as the first International Style building in the United States. In a city characterized by masonry and brick, the blue-green glass and steel facade reimagined the potential of office buildings and demonstrated that successful office design could prioritize its community. Instead of designating the ground floor for retail, we created a public space. Rather than maximizing rentable floor area, we placed the office floors atop an elevated, horizontal base and set them perpendicular to Park Avenue. This design established a light and airy plaza and introduced a new relationship between the office and public realm.<br><br>Since then, the landmark has been under the care of SOM for more than 70 years, a level of stewardship that is rare in the architectural profession. SOM restored its facade in 2001, and returned again in 2023 to complete the building\u2019s restoration for the 21st century. Join Principal Frank Mahan of a tour of the completely updated plaza and outdoor spaces, a lovingly restored lobby, and new mechanical systems that improve energy efficiency; and witness how the project has recaptured this midcentury icon\u2019s original splendor as Park Avenue\u2019s premier boutique office.",
-    "info": null
+    "description": "Commercial office design was forever changed with the completion of SOM's Lever House in 1952 as the first International Style building in the United States. In a city characterized by masonry and brick, the blue-green glass and steel facade reimagined the potential of office buildings and demonstrated that successful office design could prioritize its community. Instead of designating the ground floor for retail, we created a public space. Rather than maximizing rentable floor area, we placed the office floors atop an elevated, horizontal base and set them perpendicular to Park Avenue. This design established a light and airy plaza and introduced a new relationship between the office and public realm.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art", "landmark"]
   },
   {
     "name": "Bauman Rare Books",
@@ -600,7 +732,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.baumanrarebooks.com/",
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "The Peninsula New York",
@@ -609,7 +743,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.peninsula.com/new-york/",
+    "categories": ["historic"]
   },
   {
     "name": "King Cole Bar",
@@ -618,7 +754,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["drinking", "historic"]
   },
   {
     "name": "Microsoft Experience Center",
@@ -627,7 +765,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.microsoft.com/en-us/store/locations/ny/new-york/flagship/",
+    "categories": ["shopping", "entertainment"]
   },
   {
     "name": "St. Thomas Church",
@@ -636,7 +776,9 @@
     "icon": null,
     "imageURL": null,
     "description": "recently restored windows",
-    "info": null
+    "info": null,
+    "url": "https://www.saintthomaschurch.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Laurie M Tisch Foundation",
@@ -644,8 +786,10 @@
     "lon": -73.9796886,
     "icon": null,
     "imageURL": null,
-    "description": "The Illumination Fund\u2019s office is an extension of the foundation\u2019s mission and values, with contemporary art, exhibits by our grantees, and furniture that supports community artisans and social enterprises. The space was designed by BKSK Architects to \u201cilluminate\u201d community and social justice issues and to spark creativity.",
-    "info": null
+    "description": "The Illumination Fund's office is an extension of the foundation's mission and values, with contemporary art, exhibits by our grantees, and furniture that supports community artisans and social enterprises. The space was designed by BKSK Architects to \"illuminate\" community and social justice issues and to spark creativity.",
+    "info": null,
+    "url": "https://www.lauriemtischilluminationfund.org/",
+    "categories": ["art"]
   },
   {
     "name": "Rose Museum",
@@ -654,7 +798,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["museum"]
   },
   {
     "name": "The Art Students League of New York",
@@ -663,7 +809,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.theartstudentsleague.org/",
+    "categories": ["art", "education"]
   },
   {
     "name": "Ensemble Studio Theatre",
@@ -672,7 +820,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.ensemblestudiotheatre.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Pier 84 at Hudson River Park",
@@ -681,7 +831,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://hudsonriverpark.org/",
+    "categories": ["park", "recreation"]
   },
   {
     "name": "Paramount Building",
@@ -690,7 +842,9 @@
     "icon": null,
     "imageURL": null,
     "description": "lobby modelled after Paris opera house",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Museum of Broadway",
@@ -699,7 +853,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.themuseumofbroadway.com/",
+    "categories": ["museum", "theater"]
   },
   {
     "name": "RiseNY",
@@ -708,7 +864,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://riseny.co/",
+    "categories": ["entertainment", "museum"]
   },
   {
     "name": "The Playroom Theater",
@@ -717,7 +875,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "General Society of Mechanics & Tradesmen of The City of New York",
@@ -725,8 +885,10 @@
     "lon": -73.9812086,
     "icon": null,
     "imageURL": null,
-    "description": "Hundreds of antique bank vault locks on display in New York City. Tucked away on the sixth floor of The General Society of Mechanics and Tradesmen, the Institute of Classical Architecture & Art\u2019s Cast Hall displays a collection of historical plaster casts of Classical and Renaissance architecture and sculpture (originally owned by the Metropolitan Museum of Art) alongside fragments of historical woodwork from significant buildings and country houses in the UK. The gallery now plays host to scores of visitors, ranging from students to practicing artists. Visit Cast Hall for open sketching and to learn about this historic art practice and collection.",
-    "info": null
+    "description": "Hundreds of antique bank vault locks on display in New York City. Tucked away on the sixth floor of The General Society of Mechanics and Tradesmen, the Institute of Classical Architecture & Art's Cast Hall displays a collection of historical plaster casts of Classical and Renaissance architecture and sculpture (originally owned by the Metropolitan Museum of Art) alongside fragments of historical woodwork from significant buildings and country houses in the UK. The gallery now plays host to scores of visitors, ranging from students to practicing artists. Visit Cast Hall for open sketching and to learn about this historic art practice and collection.",
+    "info": null,
+    "url": "https://www.generalsociety.org/",
+    "categories": ["museum", "historic", "art"]
   },
   {
     "name": "One Vanderbilt",
@@ -734,8 +896,10 @@
     "lon": -73.978528,
     "icon": null,
     "imageURL": null,
-    "description": "in lobby:\u00a0Generated by a computer program using data points influenced by the season, sunrise and sunset, \u201cContinuous Life and Death at the Now of Eternity II\u201d (free) is a digital garden of seasonal blossoms such as chrysanthemums, azaleas and hydrangeas. The evolving garden, which never repeats but echoes the real weather conditions outside, is displayed on a roughly 27-by-16-foot public screen in the lobby of 1 Vanderbilt, a skyscraper next door to Grand Central Terminal. The work, which dominates a route frequented by commuters, seems designed to be viewed consistently by the same people across seasons and years.",
-    "info": null
+    "description": "in lobby: Generated by a computer program using data points influenced by the season, sunrise and sunset, \"Continuous Life and Death at the Now of Eternity II\" (free) is a digital garden of seasonal blossoms such as chrysanthemums, azaleas and hydrangeas. The evolving garden, which never repeats but echoes the real weather conditions outside, is displayed on a roughly 27-by-16-foot public screen in the lobby of 1 Vanderbilt, a skyscraper next door to Grand Central Terminal. The work, which dominates a route frequented by commuters, seems designed to be viewed consistently by the same people across seasons and years.",
+    "info": null,
+    "url": "https://www.summit.nyc/",
+    "categories": ["art", "landmark", "entertainment"]
   },
   {
     "name": "New York Transit Museum",
@@ -744,7 +908,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.nytransitmuseum.org/",
+    "categories": ["museum"]
   },
   {
     "name": "Chrysler Building",
@@ -752,8 +918,10 @@
     "lon": -73.975502,
     "icon": null,
     "imageURL": null,
-    "description": "There are no tickets for the Chrysler Building. You may enter the lobby anytime the building is open, which is 8:00 am to 6 pm (18:00) on weekdays.<br><br>You can see the beautiful mural on the ceiling, the clock, and the beautiful elevators, each with its own custom-designed doors.",
-    "info": null
+    "description": "There are no tickets for the Chrysler Building. You may enter the lobby anytime the building is open, which is 8:00 am to 6 pm (18:00) on weekdays. You can see the beautiful mural on the ceiling, the clock, and the beautiful elevators, each with its own custom-designed doors.",
+    "info": null,
+    "url": null,
+    "categories": ["landmark", "historic", "art"]
   },
   {
     "name": "Delegates Dining Room",
@@ -762,7 +930,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["food"]
   },
   {
     "name": "adidas Flagship Store New York",
@@ -771,7 +941,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.adidas.com/",
+    "categories": ["shopping", "sports"]
   },
   {
     "name": "The Town Hall",
@@ -779,8 +951,10 @@
     "lon": -73.98453,
     "icon": null,
     "imageURL": null,
-    "description": "Six women suffragists built \u201cThe Peoples\u2019 Hall\u201d \u2013 a place open to all where people from all walks of life could gather and hear about the issues of the day in an open forum. The acoustically superior auditorium was designed using the most advanced design technology of its day by the nation\u2019s most revered architecture firm. Shortly after its dedication the hall hosted its first concert, kicking off a proud tradition of milestone musical performances by artists ranging from Billie Holiday to Bob Dylan.<br><br>The Town Hall also played host to millions of nationwide radio listeners from 1935-1955 on the public affairs program, \u201cAmerica\u2019s Town Meeting of the Air.\u201d",
-    "info": null
+    "description": "Six women suffragists built \"The Peoples' Hall\" – a place open to all where people from all walks of life could gather and hear about the issues of the day in an open forum. The acoustically superior auditorium was designed using the most advanced design technology of its day by the nation's most revered architecture firm. Shortly after its dedication the hall hosted its first concert, kicking off a proud tradition of milestone musical performances by artists ranging from Billie Holiday to Bob Dylan. The Town Hall also played host to millions of nationwide radio listeners from 1935-1955 on the public affairs program, \"America's Town Meeting of the Air.\"",
+    "info": null,
+    "url": "https://thetownhall.org/",
+    "categories": ["music", "historic", "entertainment"]
   },
   {
     "name": "510 Fifth Avenue",
@@ -789,7 +963,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "505 5th Ave",
@@ -798,7 +974,9 @@
     "icon": null,
     "imageURL": null,
     "description": "lobby a permanent art installation designed by James Turrell",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "historic"]
   },
   {
     "name": "Lantern's Keep",
@@ -807,7 +985,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["drinking"]
   },
   {
     "name": "St. Vartan Armenian Apostolic Cathedral",
@@ -816,7 +996,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A replica of a 7th-century church hides in plain sight in the middle of the concrete jungle.",
-    "info": null
+    "info": null,
+    "url": "https://www.stvartan.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Tannen's Magic",
@@ -825,7 +1007,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://tannens.com/",
+    "categories": ["shopping", "entertainment"]
   },
   {
     "name": "Bookmarks",
@@ -834,7 +1018,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["bookstore", "shopping"]
   },
   {
     "name": "Stavros Niarchos Foundation Library",
@@ -843,7 +1029,9 @@
     "icon": null,
     "imageURL": null,
     "description": "rooftop garden",
-    "info": null
+    "info": null,
+    "url": "https://www.nypl.org/locations/stavros-niarchos-foundation-library",
+    "categories": ["bookstore", "nature", "park"]
   },
   {
     "name": "James P. Grant Plaza",
@@ -852,7 +1040,9 @@
     "icon": null,
     "imageURL": null,
     "description": "look for the sculpture in honor of Audrey Hepburn",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["park", "art"]
   },
   {
     "name": "Reach New York",
@@ -861,7 +1051,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Hidden in plain sight on a pair of Manhattan subway tunnels are a pair of public instruments that sing to each other.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "music", "quirky"]
   },
   {
     "name": "300 W 38th St",
@@ -870,7 +1062,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Cheap pizza and all of your naughty bedroom needs housed in a stunning example of Art Nouveau architecture.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art", "quirky"]
   },
   {
     "name": "Signature Theatre Company",
@@ -879,7 +1073,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.signaturetheatre.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Hecht Sewing Machine & Motor",
@@ -888,7 +1084,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "historic"]
   },
   {
     "name": "Theaterlab",
@@ -897,7 +1095,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://theaterlab.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Chain Theatre",
@@ -906,7 +1106,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "The Tank",
@@ -915,7 +1117,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://thetanknyc.org/",
+    "categories": ["theater", "entertainment"]
   },
   {
     "name": "Good Housekeeping Ad Sales",
@@ -924,7 +1128,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic"]
   },
   {
     "name": "The New Yorker Hotel",
@@ -933,7 +1139,9 @@
     "icon": null,
     "imageURL": null,
     "description": "tiny Nikola Tesla museum in basement",
-    "info": null
+    "info": null,
+    "url": "https://www.newyorkerhotel.com/",
+    "categories": ["historic", "museum", "quirky"]
   },
   {
     "name": "The Horticultural Society of New York",
@@ -942,7 +1150,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.hsny.org/",
+    "categories": ["nature", "education"]
   },
   {
     "name": "1356 Broadway",
@@ -951,7 +1161,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "The Feather Place NYC",
@@ -960,7 +1172,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "art"]
   },
   {
     "name": "Astro Gallery of Gems, Minerals and Fossils",
@@ -969,7 +1183,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.astrogallery.com/",
+    "categories": ["museum", "shopping"]
   },
   {
     "name": "Girl Scout Central Shop",
@@ -978,7 +1194,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.girlscouts.org/",
+    "categories": ["shopping"]
   },
   {
     "name": "Scandinavia House",
@@ -987,7 +1205,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.scandinaviahouse.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "The Morgan Library & Museum",
@@ -996,7 +1216,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.themorgan.org/",
+    "categories": ["museum", "bookstore", "historic"]
   },
   {
     "name": "Amateur Comedy Club",
@@ -1005,7 +1227,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["entertainment", "historic"]
   },
   {
     "name": "James Gordon Bennett Memorial",
@@ -1014,7 +1238,9 @@
     "icon": null,
     "imageURL": null,
     "description": "There are owls with glowing eyes in Herald Square.",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
   },
   {
     "name": "The Rum House",
@@ -1023,7 +1249,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["drinking", "music"]
   },
   {
     "name": "Bergdorf Goodman",
@@ -1032,7 +1260,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.bergdorfgoodman.com/",
+    "categories": ["shopping"]
   },
   {
     "name": "Bucherer TimeMachine",
@@ -1041,7 +1271,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.bucherer.com/",
+    "categories": ["shopping"]
   },
   {
     "name": "Pasteur Pharmacy Inc",
@@ -1050,7 +1282,9 @@
     "icon": null,
     "imageURL": null,
     "description": "shaving store",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "American Indian Community House",
@@ -1058,8 +1292,10 @@
     "lon": -73.9799874,
     "icon": null,
     "imageURL": null,
-    "description": "Currently located on the 20th floor of a Midtown office building, the American Indian Community House is the oldest Native American non profit in the Tri-state area. Since its inception in 1969, AICH has provided a launchpad for many artists and cultural producers and provided healthcare and workforce services to thousands upon thousands of people. It continues to serve as a sanctuary for many Native communities in New York City. A gallery of Native American artwork features works from throughout AICH\u2019s history.",
-    "info": null
+    "description": "Currently located on the 20th floor of a Midtown office building, the American Indian Community House is the oldest Native American non profit in the Tri-state area. Since its inception in 1969, AICH has provided a launchpad for many artists and cultural producers and provided healthcare and workforce services to thousands upon thousands of people. It continues to serve as a sanctuary for many Native communities in New York City. A gallery of Native American artwork features works from throughout AICH's history.",
+    "info": null,
+    "url": "https://www.aichs.org/",
+    "categories": ["museum", "art"]
   },
   {
     "name": "East Midtown Greenway",
@@ -1067,8 +1303,10 @@
     "lon": -73.9595568,
     "icon": null,
     "imageURL": null,
-    "description": "The East Midtown Greenway is an in-water linear park from East 53rd to East 61st Streets that provides public access to Manhattan\u2019s East River where the FDR highway previously dominated the waterfront. Completed in 2023, the nearly half-mile pedestrian esplanade is built over the water, rising above 2100 sea level rise, and links to the larger esplanade system that encircles Manhattan. The design minimizes visual obstruction by utilizing structural interstitial spaces to conceal substantial soil volumes for a robust planting design and to allow large trees to anchor naturally against wind. Stormwater is captured and flows within the structure to passively irrigate plantings selected to withstand the harsh conditions of the location, including salts, winds, and periodic drought.<br><br>The park\u2019s design makes the most of variations in slope, elevation, and orientation between the pedestrian and cycling paths to create different kinds of spaces and take advantage of spectacular views along the narrow length of the park. Project features include overlooks, seating nooks, lush planting, and environmental integrated art from Stacy Levy.",
-    "info": null
+    "description": "The East Midtown Greenway is an in-water linear park from East 53rd to East 61st Streets that provides public access to Manhattan's East River where the FDR highway previously dominated the waterfront. Completed in 2023, the nearly half-mile pedestrian esplanade is built over the water, rising above 2100 sea level rise, and links to the larger esplanade system that encircles Manhattan. The design minimizes visual obstruction by utilizing structural interstitial spaces to conceal substantial soil volumes for a robust planting design and to allow large trees to anchor naturally against wind. Stormwater is captured and flows within the structure to passively irrigate plantings selected to withstand the harsh conditions of the location, including salts, winds, and periodic drought.",
+    "info": null,
+    "url": "https://www.eastmidtowngreenway.org/",
+    "categories": ["park", "nature"]
   },
   {
     "name": "EFA Project Space",
@@ -1077,7 +1315,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": "https://www.efanyc.org/",
+    "categories": ["art"]
   },
   {
     "name": "Fifth Avenue Presbyterian Church",
@@ -1085,8 +1325,10 @@
     "lon": -73.9750125,
     "icon": null,
     "imageURL": null,
-    "description": "one of New York\u2019s last remaining Gilded Age treasures. Completed in 1875, the church predates the nearby St. Patrick\u2019s Cathedral (1878) and Plaza Hotel (1907). The stunning ceiling of this Victorian Gothic masterwork rises six stories above the floor. The 1,800-seat Sanctuary contains no iconography (in keeping with early Presbyterian austerity) and no right angles; the curvature of the balcony and pews draws all eyes to the impressive pulpit.",
-    "info": null
+    "description": "one of New York's last remaining Gilded Age treasures. Completed in 1875, the church predates the nearby St. Patrick's Cathedral (1878) and Plaza Hotel (1907). The stunning ceiling of this Victorian Gothic masterwork rises six stories above the floor. The 1,800-seat Sanctuary contains no iconography (in keeping with early Presbyterian austerity) and no right angles; the curvature of the balcony and pews draws all eyes to the impressive pulpit.",
+    "info": null,
+    "url": "https://www.fapc.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "M & S Schmalberg",
@@ -1094,8 +1336,10 @@
     "lon": -73.991573,
     "icon": null,
     "imageURL": null,
-    "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women\u2019s and children\u2019s fashion apparel in the United States. By the 1940s, dozens of \u201cflower guys\u201d were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
-    "info": null
+    "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women's and children's fashion apparel in the United States. By the 1940s, dozens of \"flower guys\" were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
+    "info": null,
+    "url": "https://www.mschmalberg.com/",
+    "categories": ["shopping", "art", "historic"]
   },
   {
     "name": "PENN 2",
@@ -1103,8 +1347,10 @@
     "lon": -73.9922026,
     "icon": null,
     "imageURL": null,
-    "description": "The original Pennsylvania Station, designed by McKim, Mead & White, symbolized the lost beauty of rail travel and public space in the United States following its demolition in 1963. The office building that replaced it lacked a connection to the city, didn\u2019t accommodate the public, and was failing to provide for its tenants. MdeAS Architects and Vornado Realty Trust envisioned a new building on the site that embodied the most progressive ideals in the workplace typology today. After many studies, it was determined that preserving the existing structure could actually create the best environment while reducing carbon emissions and costs. <br><br>Today, PENN 2 has been transformed with a new high-performance fa\u00e7ade, an iconic free-spanning addition called The Bustle, a 288,000-diode LED art installation, 75,000 square feet of new outdoor area, and world class amenities and office space. The tour will go inside The Bustle, onto the terraces, and access exclusive amenities, including the 17,000 sq ft roof park.",
-    "info": null
+    "description": "The original Pennsylvania Station, designed by McKim, Mead & White, symbolized the lost beauty of rail travel and public space in the United States following its demolition in 1963. The office building that replaced it lacked a connection to the city, didn't accommodate the public, and was failing to provide for its tenants. MdeAS Architects and Vornado Realty Trust envisioned a new building on the site that embodied the most progressive ideals in the workplace typology today. After many studies, it was determined that preserving the existing structure could actually create the best environment while reducing carbon emissions and costs. Today, PENN 2 has been transformed with a new high-performance façade, an iconic free-spanning addition called The Bustle, a 288,000-diode LED art installation, 75,000 square feet of new outdoor area, and world class amenities and office space. The tour will go inside The Bustle, onto the terraces, and access exclusive amenities, including the 17,000 sq ft roof park.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "art"]
   },
   {
     "name": "Prime Produce",
@@ -1113,7 +1359,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "url": null,
+    "categories": ["art", "entertainment"]
   },
   {
     "name": "Ok UNIFORM Co.",
@@ -1121,7 +1369,9 @@
     "lon": -73.9796292,
     "icon": null,
     "imageURL": null,
-    "description": "*The* pitstop for chefs and construction workers, there\u2019s always something fun for civilians in this place. In Tribeca since 1938.",
-    "info": null
+    "description": "*The* pitstop for chefs and construction workers, there's always something fun for civilians in this place. In Tribeca since 1938.",
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "historic"]
   }
 ]
