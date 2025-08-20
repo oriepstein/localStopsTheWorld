@@ -7,7 +7,7 @@
     "imageURL": null,
     "description": "One of the largest protected areas in Europe, spanning Abruzzo, Lazio, and Marche. Features Corno Grande, the highest peak in the Apennines.",
     "info": "Popular for hiking, skiing, and wildlife spotting.",
-    "category": "National Park Service",
+    "category": ["NPS"],
     "url": "https://www.parks.it/parco.nazionale.gran.sasso/"
   },
   {
@@ -18,7 +18,7 @@
     "imageURL": null,
     "description": "One of the largest and most impressive fortresses in Italy, perched dramatically over the town of Civitella del Tronto.",
     "info": "A key site in the Bourbon resistance during Italian unification.",
-    "category": "Charming Towns",
+    "category": ["Towns"],
     "url": "https://www.fortedicivitelladeltronto.it/"
   },
   {
@@ -29,7 +29,7 @@
     "imageURL": null,
     "description": "A medieval hilltop village considered one of Italy's most beautiful villages (I Borghi più belli d’Italia).",
     "info": "Renowned for lentils, stone houses, and boutique albergo diffuso.",
-    "category": "Charming Towns",
+    "category": ["Towns"],
     "url": "https://borghipiubelliditalia.it/borgo/santo-stefano-di-sessanio/"
   },
   {
@@ -40,7 +40,7 @@
     "imageURL": null,
     "description": "Known as 'Little Tibet,' this high plateau in the Apennines is popular for skiing, hiking, and stargazing.",
     "info": "Also famous for the hotel where Mussolini was imprisoned in 1943.",
-    "category": "Recreation",
+    "category": ["Recreation"],
     "url": "https://www.abruzzoturismo.it/en/campo-imperatore"
   },
   {
