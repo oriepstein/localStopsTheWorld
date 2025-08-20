@@ -7,7 +7,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["charming_village", "historic", "neighborhood"]
   },
   {
     "name": "Castelli",
@@ -17,7 +17,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["charming_village", "park", "art", "historic", "nature"]
   },
   {
     "name": "Civitella del Tronto",
@@ -27,7 +27,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["charming_village", "historic", "neighborhood"]
   },
   {
     "name": "Fortress of Civitella del Tronto",
@@ -37,7 +37,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Pietracamela",
@@ -47,7 +47,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["charming_village", "nature", "neighborhood"]
   },
   {
     "name": "Gran Sasso and Monti della Laga National Park",
@@ -57,7 +57,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["park", "nature"]
   },
   {
     "name": "Isola del Gran Sasso d'Italia",
@@ -67,7 +67,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood", "landmark"]
   },
   {
     "name": "Montorio al Vomano",
@@ -77,7 +77,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Roseto degli Abruzzi",
@@ -87,7 +87,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Teramo",
@@ -97,7 +97,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood", "historic", "landmark"]
   },
   {
     "name": "Tossicia",
@@ -107,7 +107,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Torricella Sicura",
@@ -117,7 +117,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Atri",
@@ -127,7 +127,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Colledara",
@@ -137,7 +137,7 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   },
   {
     "name": "Giulianova",
@@ -147,6 +147,6 @@
     "icon": null,
     "imageURL": null,
     "url": null,
-    "categories": null
+    "categories": ["neighborhood"]
   }
 ]
