@@ -7,7 +7,10 @@
     "description": "An artist's cute bronze subway sculptures belie his violent artistic past.",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Union Square Metronome",
@@ -17,7 +20,11 @@
     "description": "The most confusing clock in New York.",
     "info": null,
     "url": null,
-    "categories": ["quirky", "landmark"]
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "Relics of the IRT 14th Street-Union Square Subway Local Platform",
@@ -27,7 +34,10 @@
     "description": "Red frames showcase remnants of one of New York's original subway stations.",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Tammany Hall",
@@ -37,7 +47,10 @@
     "description": "The notorious headquarters of a corrupt political machine.",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "The Players",
@@ -47,7 +60,11 @@
     "description": "A posh members-only club with a literally dramatic history. docdent lead tours",
     "info": null,
     "url": "https://theplayersnyc.org/",
-    "categories": ["theater", "historic"]
+    "categories": [
+      "theater",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Theodore Roosevelt Birthplace National Historic Site",
@@ -57,7 +74,11 @@
     "description": "The rough and tumble president's childhood home displays the shirt he was once shot in and the speech that saved him.",
     "info": null,
     "url": "https://www.nps.gov/thrb/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "7000 Oaks",
@@ -67,7 +88,11 @@
     "description": "Twenty-three trees, each paired with a basalt stone, line a street in Chelsea, continuing an urban project started by German Fluxus artist Joseph Beuys.",
     "info": null,
     "url": null,
-    "categories": ["art", "nature"]
+    "categories": [
+      "art",
+      "nature"
+    ],
+    "icon": null
   },
   {
     "name": "200 Madison Ave",
@@ -77,7 +102,10 @@
     "description": "interior landmark",
     "info": null,
     "url": null,
-    "categories": ["landmark"]
+    "categories": [
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "Frying Pan NYC",
@@ -87,7 +115,11 @@
     "description": "Rummage through this sunken ship, but leave your scuba gear at home.",
     "info": null,
     "url": "https://fryingpan.com/",
-    "categories": ["quirky", "drinking"]
+    "categories": [
+      "quirky",
+      "drinking"
+    ],
+    "icon": null
   },
   {
     "name": "New York State Appellate Division of the Supreme Court",
@@ -97,7 +129,11 @@
     "description": "landmark interior",
     "info": null,
     "url": null,
-    "categories": ["landmark", "historic"]
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "St. John the Baptist Catholic Church",
@@ -107,7 +143,11 @@
     "description": "Church in Manhattan holds the bloody sock of Padre Pio, among with many other unusual relics.",
     "info": null,
     "url": "https://www.sjbchurchnyc.org/",
-    "categories": ["religious", "quirky"]
+    "categories": [
+      "religious",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "23 St",
@@ -117,7 +157,10 @@
     "description": "Stunningly detailed mosaics in a New York subway station bring life to the Weimaraners of artist William Wegman's work—and to thousands of commutes.",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Livingston Library",
@@ -127,7 +170,11 @@
     "description": "A good place to research the Freemasons, esoterica, occultism, and hermeticism.",
     "info": null,
     "url": "https://www.livingstonlibrary.org/",
-    "categories": ["bookstore", "quirky"]
+    "categories": [
+      "bookstore",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Poster House",
@@ -137,7 +184,11 @@
     "description": "The first museum in the United States dedicated entirely to posters.",
     "info": null,
     "url": "https://www.posterhouse.org/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Holocaust Memorial",
@@ -147,7 +198,10 @@
     "description": "A Manhattan courthouse hides a small but scathing memorial to Holocaust injustice.",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Senator Roscoe Conkling Monument",
@@ -157,7 +211,11 @@
     "description": "A 19th-century politician who died after walking home in a blizzard is honored with this Manhattan statue.",
     "info": null,
     "url": null,
-    "categories": ["historic", "landmark"]
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "Bristol Basin",
@@ -167,7 +225,11 @@
     "description": "A small part of lower Manhattan is actually made from a bit of England.",
     "info": null,
     "url": null,
-    "categories": ["quirky", "historic"]
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Bellevue Hospital Center: Emergency Room",
@@ -177,7 +239,10 @@
     "description": "The name of this famed hospital was once a byword for the horrors of medical and psychiatric care.",
     "info": null,
     "url": "https://www.nychealthandhospitals.org/bellevue/",
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Holographic Studios",
@@ -187,7 +252,11 @@
     "description": "The world's oldest hologram gallery and the labyrinthine laser laboratory of a holography pioneer.",
     "info": null,
     "url": "https://www.holographicstudios.com/",
-    "categories": ["museum", "quirky"]
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Rose Hill Historic House",
@@ -197,7 +266,11 @@
     "description": "The origins of midtown Manhattan's anachronistic wooden farmhouse remain a mystery.",
     "info": null,
     "url": null,
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Chester A. Arthur Home",
@@ -207,7 +280,10 @@
     "description": "The only remaining building in New York to see the inauguration of a president is being slowly overtaken by a grocery store.",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Kalustyan's",
@@ -217,7 +293,11 @@
     "description": "Legendary spice and specialty food shop with ingredients from around the world.",
     "info": null,
     "url": "https://www.kalustyans.com/",
-    "categories": ["shopping", "food"]
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "icon": null
   },
   {
     "name": "Wizard of Park Ave Clock",
@@ -227,7 +307,11 @@
     "description": "A whimsical, but often overlooked clock in Park Avenue.",
     "info": null,
     "url": null,
-    "categories": ["art", "quirky"]
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "The Church of the Transfiguration",
@@ -237,7 +321,12 @@
     "description": "This Fifth Avenue church has long been the favored worshiping place of Broadway actors and vaudeville performers. Built in neo-Gothic style, Transfiguration has 14th century stained glass, elegant chapels and a picturesque garden. The church provided sanctuary to African-Americans during the Civil War and has a long-time association with the acting community. Thousands of couples were married at the church during World War II.",
     "info": null,
     "url": "https://www.littlechurch.org/",
-    "categories": ["religious", "theater", "historic"]
+    "categories": [
+      "religious",
+      "theater",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Museum of Sex",
@@ -247,7 +336,11 @@
     "description": "Museum exploring human sexuality, love, and the erotic arts.",
     "info": null,
     "url": "https://www.museumofsex.com/",
-    "categories": ["museum", "quirky"]
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "The Gilded Lady Mural by Tristan Eaton",
@@ -257,7 +350,10 @@
     "description": "A vibrant, 100-foot-tall mural dedicated to Evelyn Nesbit, the tragic icon of the Gilded Age.",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "45 W 28th St",
@@ -267,7 +363,11 @@
     "description": "Remnants of Tin Pan Alley The one-time epicenter of American songwriting is now a little remembered Manhattan commercial block.",
     "info": null,
     "url": null,
-    "categories": ["historic", "music"]
+    "categories": [
+      "historic",
+      "music"
+    ],
+    "icon": null
   },
   {
     "name": "Conjuring Arts Research Center",
@@ -277,7 +377,11 @@
     "description": "Unlock the secrets of the conjuring arts.",
     "info": null,
     "url": "https://www.conjuringarts.org/",
-    "categories": ["quirky", "theater"]
+    "categories": [
+      "quirky",
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "Gimbel's Bridge",
@@ -287,7 +391,11 @@
     "description": "A three-story copper skybridge connects two Manhattan buildings with Art Deco luxury.",
     "info": null,
     "url": null,
-    "categories": ["landmark", "historic"]
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Sony Wonder Technology Lab",
@@ -297,7 +405,10 @@
     "description": "Interactive technology museum and experience center.",
     "info": null,
     "url": null,
-    "categories": ["museum"]
+    "categories": [
+      "museum"
+    ],
+    "icon": null
   },
   {
     "name": "The Old Print Shop, Inc",
@@ -307,7 +418,11 @@
     "description": "Historic print and map dealer specializing in American art and antique prints.",
     "info": null,
     "url": "https://www.oldprintshop.com/",
-    "categories": ["shopping", "art"]
+    "categories": [
+      "shopping",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Sony Square NYC",
@@ -317,7 +432,10 @@
     "description": "Sony's flagship retail and experience space.",
     "info": null,
     "url": "https://www.sony.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "General William Jenkins Worth Monument",
@@ -327,7 +445,12 @@
     "description": "one of only 2 monuments (other is Grant's tomb) that also serves as a mausoleum",
     "info": null,
     "url": null,
-    "categories": ["historic", "landmark", "quirky"]
+    "categories": [
+      "historic",
+      "landmark",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "PORCELANOSA New York",
@@ -337,7 +460,10 @@
     "description": "Luxury tile and bath showroom.",
     "info": null,
     "url": "https://www.porcelanosa-usa.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Rizzoli Bookstore",
@@ -347,7 +473,10 @@
     "description": "Iconic independent bookstore specializing in art, architecture, and design books.",
     "info": null,
     "url": "https://www.rizzolibookstore.com/",
-    "categories": ["bookstore"]
+    "categories": [
+      "bookstore"
+    ],
+    "icon": null
   },
   {
     "name": "The Missing Link",
@@ -357,7 +486,11 @@
     "description": "Vintage and rare record store.",
     "info": null,
     "url": null,
-    "categories": ["shopping", "music"]
+    "categories": [
+      "shopping",
+      "music"
+    ],
+    "icon": null
   },
   {
     "name": "230 Fifth Rooftop Bar",
@@ -367,7 +500,10 @@
     "description": "Famous rooftop bar with views of the Empire State Building.",
     "info": null,
     "url": "https://www.230-fifth.com/",
-    "categories": ["drinking"]
+    "categories": [
+      "drinking"
+    ],
+    "icon": null
   },
   {
     "name": "Center For Book Arts",
@@ -377,7 +513,11 @@
     "description": "Non-profit organization dedicated to traditional and contemporary book arts.",
     "info": null,
     "url": "https://www.centerforbookarts.org/",
-    "categories": ["art", "bookstore"]
+    "categories": [
+      "art",
+      "bookstore"
+    ],
+    "icon": null
   },
   {
     "name": "M&J Trimming",
@@ -387,7 +527,10 @@
     "description": "Historic trimming and notions store in the Garment District.",
     "info": null,
     "url": "https://mjtrim.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Edge",
@@ -397,7 +540,10 @@
     "description": "Highest outdoor sky deck in the Western Hemisphere at Hudson Yards.",
     "info": null,
     "url": "https://www.edgenyc.com/",
-    "categories": ["landmark"]
+    "categories": [
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "Vessel",
@@ -407,7 +553,11 @@
     "description": "Interactive art installation at Hudson Yards with interconnected staircases.",
     "info": null,
     "url": "https://www.hudsonyardsnewyork.com/discover/vessel",
-    "categories": ["landmark", "art"]
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Printed Matter, Inc.",
@@ -417,7 +567,11 @@
     "description": "Non-profit bookstore dedicated to artists' books and independent publishing.",
     "info": null,
     "url": "https://www.printedmatter.org/",
-    "categories": ["bookstore", "art"]
+    "categories": [
+      "bookstore",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "The Painting Center",
@@ -427,7 +581,10 @@
     "description": "Artist-run gallery space dedicated to contemporary painting.",
     "info": null,
     "url": "https://www.thepaintingcenter.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Aperture",
@@ -437,7 +594,10 @@
     "description": "Photography foundation, publisher, and gallery.",
     "info": null,
     "url": "https://aperture.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "National Academy of Design",
@@ -447,7 +607,11 @@
     "description": "After eight decades on the Upper East Side, the National Academy of Design opened a new exhibition space in the heart of Chelsea in September 2023. Designed by Bade Stageberg Cox, the 7,800 sq ft space hosts changing exhibitions of contemporary art and architecture and is a hub for the Academy's community of Academicians, a group of 450 leading artists and architects.",
     "info": null,
     "url": "https://www.nationalacademy.org/",
-    "categories": ["art", "museum"]
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "icon": null
   },
   {
     "name": "Marlborough",
@@ -457,7 +621,10 @@
     "description": "Contemporary art gallery representing international artists.",
     "info": null,
     "url": "https://www.marlboroughnewyork.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Pace Gallery",
@@ -467,7 +634,10 @@
     "description": "Leading contemporary art gallery with global locations.",
     "info": null,
     "url": "https://www.pacegallery.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Luhring Augustine Gallery",
@@ -477,7 +647,10 @@
     "description": "Contemporary art gallery established in 1985.",
     "info": null,
     "url": "https://luhringaugustine.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Petzel Gallery",
@@ -487,7 +660,10 @@
     "description": "Contemporary art gallery representing emerging and established artists.",
     "info": null,
     "url": "https://www.petzel.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Yossi Milo Gallery",
@@ -497,7 +673,10 @@
     "description": "Gallery specializing in contemporary photography and video art.",
     "info": null,
     "url": "https://www.yossimilo.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Comme des Garcons Boutique",
@@ -507,7 +686,10 @@
     "description": "Avant-garde fashion boutique from Japanese designer Rei Kawakubo.",
     "info": null,
     "url": "https://www.comme-des-garcons.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "The General Theological Seminary",
@@ -517,7 +699,12 @@
     "description": "Historic Episcopal seminary with beautiful gothic architecture and gardens.",
     "info": null,
     "url": "https://www.gts.edu/",
-    "categories": ["landmark", "religious", "historic"]
+    "categories": [
+      "landmark",
+      "religious",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "kurimanzutto New York",
@@ -527,7 +714,10 @@
     "description": "Contemporary art gallery from Mexico City with New York location.",
     "info": null,
     "url": "https://kurimanzutto.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "David Zwirner",
@@ -537,7 +727,10 @@
     "description": "Major contemporary art gallery with multiple locations worldwide.",
     "info": null,
     "url": "https://www.davidzwirner.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Hauser & Wirth",
@@ -547,7 +740,10 @@
     "description": "International contemporary art gallery.",
     "info": null,
     "url": "https://www.hauserwirth.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Hudson River Park",
@@ -557,7 +753,11 @@
     "description": "Waterfront park stretching along the Hudson River.",
     "info": null,
     "url": "https://www.hudsonriverpark.org/",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "icon": null
   },
   {
     "name": "The Joyce Theater",
@@ -567,7 +767,10 @@
     "description": "Renowned dance theater presenting contemporary and classical dance.",
     "info": null,
     "url": "https://www.joyce.org/",
-    "categories": ["theater"]
+    "categories": [
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "Andrew Heiskell Braille and Talking Book Library",
@@ -577,7 +780,10 @@
     "description": "Library serving the blind and visually impaired community.",
     "info": null,
     "url": "https://www.nypl.org/locations/andrew-heiskell",
-    "categories": ["bookstore"]
+    "categories": [
+      "bookstore"
+    ],
+    "icon": null
   },
   {
     "name": "Casey Kaplan Inc",
@@ -587,7 +793,10 @@
     "description": "Contemporary art gallery representing international artists.",
     "info": null,
     "url": "https://www.caseykaplangallery.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Pippin Vintage Jewelry",
@@ -597,7 +806,10 @@
     "description": "Vintage and estate jewelry boutique.",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Ace Banner & Flag Co.",
@@ -607,7 +819,10 @@
     "description": "Custom flag and banner manufacturer since 1916.",
     "info": null,
     "url": "https://acebanner.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Space Billiard Pool Hall & Sports Bar | Koreatown NYC",
@@ -617,7 +832,11 @@
     "description": "Upscale billiards hall in Koreatown.",
     "info": null,
     "url": null,
-    "categories": ["drinking", "quirky"]
+    "categories": [
+      "drinking",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Patent Pending",
@@ -627,7 +846,11 @@
     "description": "Nikola Tesla's former home contains an homage hidden from plain sight.",
     "info": null,
     "url": null,
-    "categories": ["quirky", "historic"]
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Filson",
@@ -637,7 +860,10 @@
     "description": "Outdoor gear and workwear company.",
     "info": null,
     "url": "https://www.filson.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "SPIN New York Flatiron",
@@ -647,7 +873,11 @@
     "description": "Ping pong social club with restaurant and bar.",
     "info": null,
     "url": "https://wearespin.com/",
-    "categories": ["drinking", "quirky"]
+    "categories": [
+      "drinking",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Fishs Eddy",
@@ -657,7 +887,11 @@
     "description": "Quirky housewares and tableware store.",
     "info": null,
     "url": "https://www.fishseddy.com/",
-    "categories": ["shopping", "quirky"]
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "The 8th Floor",
@@ -667,7 +901,10 @@
     "description": "Contemporary art and culture space.",
     "info": null,
     "url": "https://www.the8thfloor.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "The New School",
@@ -677,7 +914,11 @@
     "description": "Camilo Egas Mural - After surviving abandonment, this powerful Latin American mural is alive again",
     "info": null,
     "url": "https://www.newschool.edu/",
-    "categories": ["art", "historic"]
+    "categories": [
+      "art",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Yeshe Nyingpo NYC",
@@ -687,7 +928,10 @@
     "description": "Tibetan Buddhist meditation center.",
     "info": null,
     "url": "https://yeshenyingpo.org/",
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Abracadabra",
@@ -697,7 +941,11 @@
     "description": "Costume and theatrical supply store.",
     "info": null,
     "url": "https://www.abracadabranyc.com/",
-    "categories": ["shopping", "theater"]
+    "categories": [
+      "shopping",
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "The Flatiron Room NoMad",
@@ -707,7 +955,11 @@
     "description": "Whiskey bar and lounge with live jazz.",
     "info": null,
     "url": "https://www.theflatironroom.com/",
-    "categories": ["drinking", "music"]
+    "categories": [
+      "drinking",
+      "music"
+    ],
+    "icon": null
   },
   {
     "name": "Henry Westpfal Co. Inc.",
@@ -717,7 +969,11 @@
     "description": "Religious articles and church goods supplier.",
     "info": null,
     "url": null,
-    "categories": ["shopping", "religious"]
+    "categories": [
+      "shopping",
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Kadampa Meditation Center New York City",
@@ -727,7 +983,10 @@
     "description": "Buddhist meditation center offering classes and retreats.",
     "info": null,
     "url": "https://meditationinnewyork.org/",
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Pier 57 Rooftop Park",
@@ -737,7 +996,11 @@
     "description": "Elevated park with Hudson River views and green space.",
     "info": null,
     "url": "https://www.hudsonriverpark.org/explore/pier-57",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "icon": null
   },
   {
     "name": "The Museum at FIT",
@@ -747,7 +1010,10 @@
     "description": "Fashion and design museum at the Fashion Institute of Technology.",
     "info": null,
     "url": "https://www.fitnyc.edu/museum/",
-    "categories": ["museum"]
+    "categories": [
+      "museum"
+    ],
+    "icon": null
   },
   {
     "name": "Third Cemetery of the Spanish- Portuguese Synagogue",
@@ -757,7 +1023,11 @@
     "description": "Historic Sephardic Jewish cemetery dating to the 1800s.",
     "info": null,
     "url": null,
-    "categories": ["historic", "religious"]
+    "categories": [
+      "historic",
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Tibet House US - NYC",
@@ -767,7 +1037,11 @@
     "description": "Cultural center dedicated to preserving Tibetan culture and Buddhism.",
     "info": null,
     "url": "https://tibethouse.us/",
-    "categories": ["museum", "religious"]
+    "categories": [
+      "museum",
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Babycastles",
@@ -777,7 +1051,10 @@
     "description": "Independent video game arcade and cultural center.",
     "info": null,
     "url": "https://babycastles.com/",
-    "categories": ["quirky"]
+    "categories": [
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "CHISHOLM LARSSON GALLERY",
@@ -787,7 +1064,10 @@
     "description": "Contemporary art gallery featuring emerging and established artists.",
     "info": null,
     "url": "https://www.chisholmlarsson.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Big Screen Plaza",
@@ -797,7 +1077,10 @@
     "description": "Public plaza with large outdoor screen for events and gatherings.",
     "info": null,
     "url": null,
-    "categories": ["landmark"]
+    "categories": [
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "St. Francis of Assisi Roman Catholic Church",
@@ -807,7 +1090,12 @@
     "description": "Located in the tourist-heavy Garment District, this Roman Catholic parish church was built in 1892 to cater to what was then a rapidly changing neighborhood. Constructed in the traditional Gothic Revival style, it's known for being home to one of the largest mosaics in the country, The Glorification of the Mother of Jesus. The church is also known for operating one of the country's longest-running breadlines, started during the Great Depression to feed the hungry.",
     "info": null,
     "url": "https://www.stfrancisnyc.org/",
-    "categories": ["religious", "historic", "art"]
+    "categories": [
+      "religious",
+      "historic",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Magnet Theater",
@@ -817,7 +1105,10 @@
     "description": "Improv comedy theater and training center.",
     "info": null,
     "url": "https://magnettheater.com/",
-    "categories": ["theater"]
+    "categories": [
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "abc carpet & home",
@@ -827,7 +1118,10 @@
     "description": "Eclectic home furnishings and design store.",
     "info": null,
     "url": "https://www.abchome.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Stuyvesant Square Park",
@@ -837,7 +1131,11 @@
     "description": "Historic square park in the East Village with gardens and pathways.",
     "info": null,
     "url": "https://www.nyc.gov/site/parks/parks/stuyvesant-square-park.page",
-    "categories": ["park", "historic"]
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "icon": null
   },
   {
     "name": "Stuyvesant Cove Park",
@@ -847,7 +1145,11 @@
     "description": "Waterfront park on the East River with environmental education center.",
     "info": null,
     "url": "https://www.stuyvesantcove.org/",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "icon": null
   },
   {
     "name": "The Stand NYC",
@@ -857,7 +1159,10 @@
     "description": "Comedy club featuring stand-up performances.",
     "info": null,
     "url": "https://thestandnyc.com/",
-    "categories": ["theater"]
+    "categories": [
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "Fotografiska Museum NYC",
@@ -867,7 +1172,11 @@
     "description": "Contemporary photography museum with rotating exhibitions.",
     "info": null,
     "url": "https://www.fotografiska.com/nyc/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "The National Arts Club",
@@ -877,7 +1186,12 @@
     "description": "Nestled in history-steeped Gramercy Park, the National Arts Club is a home for the arts in the heart of New York City. Since 1906, the Club has been based in the Samuel Tilden Mansion, a national historic landmark and beautifully preserved example of Victorian Gothic residential architecture. Today, the National Arts Club operates as a 501(c)(3) nonprofit and offers more than 150 free programs to the public, including exhibitions, theatrical and musical performances, lectures, and readings, attracting an audience of over 25,000 New Yorkers and visitors alike. Featured programs focus on all disciplines of the arts.",
     "info": null,
     "url": "https://www.nationalartsclub.org/",
-    "categories": ["art", "historic", "theater"]
+    "categories": [
+      "art",
+      "historic",
+      "theater"
+    ],
+    "icon": null
   },
   {
     "name": "Aronson's Floor Covering",
@@ -887,7 +1201,10 @@
     "description": "Family-owned flooring and carpet store since 1925.",
     "info": null,
     "url": "https://www.aronsonsfloor.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Rubin Museum of Art",
@@ -897,7 +1214,11 @@
     "description": "unrivaled collection of himalayan art, housed in one-time Barneys flagship store",
     "info": null,
     "url": "https://rubinmuseum.org/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Books of Wonder",
@@ -907,7 +1228,10 @@
     "description": "Independent children's bookstore with rare and collectible books.",
     "info": null,
     "url": "https://www.booksofwonder.com/",
-    "categories": ["bookstore"]
+    "categories": [
+      "bookstore"
+    ],
+    "icon": null
   },
   {
     "name": "Center for Jewish History",
@@ -917,7 +1241,11 @@
     "description": "Research center and museum dedicated to Jewish history and culture.",
     "info": null,
     "url": "https://www.cjh.org/",
-    "categories": ["museum", "bookstore"]
+    "categories": [
+      "museum",
+      "bookstore"
+    ],
+    "icon": null
   },
   {
     "name": "Yeshiva University Museum",
@@ -927,7 +1255,11 @@
     "description": "Museum showcasing Jewish art, culture, and history.",
     "info": null,
     "url": "https://www.yu.edu/about/museum",
-    "categories": ["museum", "religious"]
+    "categories": [
+      "museum",
+      "religious"
+    ],
+    "icon": null
   },
   {
     "name": "Moynihan Hall Amtrak Lounge",
@@ -937,7 +1269,10 @@
     "description": "Amtrak passenger lounge in the renovated Moynihan Train Hall.",
     "info": null,
     "url": "https://www.amtrak.com/",
-    "categories": ["landmark"]
+    "categories": [
+      "landmark"
+    ],
+    "icon": null
   },
   {
     "name": "The Burns Archive",
@@ -947,7 +1282,11 @@
     "description": "Private collection of historical photographs and medical imagery.",
     "info": null,
     "url": "https://burnsarchive.com/",
-    "categories": ["museum", "quirky"]
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Dover Street Market New York",
@@ -957,7 +1296,10 @@
     "description": "Avant-garde fashion concept store from Comme des Garçons.",
     "info": null,
     "url": "https://newyork.doverstreetmarket.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "CUE Art Foundation",
@@ -967,7 +1309,10 @@
     "description": "Non-profit arts organization supporting emerging artists.",
     "info": null,
     "url": "https://www.cueartfoundation.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "New York Flower Market",
@@ -977,7 +1322,10 @@
     "description": "Wholesale flower market in the Garment District.",
     "info": null,
     "url": null,
-    "categories": ["market"]
+    "categories": [
+      "market"
+    ],
+    "icon": null
   },
   {
     "name": "Kremer Pigments",
@@ -987,7 +1335,11 @@
     "description": "Historic pigment shop specializing in artist materials and rare colors.",
     "info": null,
     "url": "https://www.kremer-pigmente.com/",
-    "categories": ["shopping", "art"]
+    "categories": [
+      "shopping",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "City Papery",
@@ -997,7 +1349,10 @@
     "description": "Stationery and paper goods boutique.",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "NY Cake",
@@ -1007,7 +1362,11 @@
     "description": "Baking supply store with decorating tools and ingredients.",
     "info": null,
     "url": "https://nycake.com/",
-    "categories": ["shopping", "food"]
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "icon": null
   },
   {
     "name": "M & S Schmalberg",
@@ -1017,7 +1376,12 @@
     "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women's and children's fashion apparel in the United States. By the 1940s, dozens of flower guys were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
     "info": null,
     "url": "https://www.mschmalberg.com/",
-    "categories": ["historic", "art", "shopping"]
+    "categories": [
+      "historic",
+      "art",
+      "shopping"
+    ],
+    "icon": null
   },
   {
     "name": "Marble Collegiate Church",
@@ -1027,7 +1391,12 @@
     "description": "Opening its doors in 1854, Marble Collegiate Church is a beautiful example of Romanesque Revival architecture with Gothic influences, made world-famous by Dr. Norman Vincent Peale. This city landmark boasts an impressive marble exterior and bell tower. Once inside, visitors will discover a finely detailed interior featuring beautiful stained glass windows—two designed by Tiffany—and a newly designed pipe organ.",
     "info": null,
     "url": "https://www.marblechurch.org/",
-    "categories": ["religious", "historic", "art"]
+    "categories": [
+      "religious",
+      "historic",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Print Center New York",
@@ -1037,7 +1406,10 @@
     "description": "Gallery dedicated to contemporary printmaking and works on paper.",
     "info": null,
     "url": "https://www.printcenternewyork.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "The Film-Makers' Cooperative (NACG)",
@@ -1047,7 +1419,11 @@
     "description": "Archive and distribution center for independent and experimental films.",
     "info": null,
     "url": "https://film-makerscoop.com/",
-    "categories": ["cinema", "art"]
+    "categories": [
+      "cinema",
+      "art"
+    ],
+    "icon": null
   },
   {
     "name": "Friends Seminary",
@@ -1057,7 +1433,12 @@
     "description": "Located atop the Friend Seminary's 16th Street campus, James Turrell's Leading (2023) is a meeting room in the sky—a spiritual space for silence and contemplation and a physical manifestation of the K-12 Quaker school's mission. One of more than eighty-five Skyspaces—but the only one attached to a K-12 school—Leading is a specifically proportioned chamber where viewers have a unique and personal experience of the sky through a knife-edged aperture in the roof. A softly lit interior combined with the changing light of the sky above provides a dramatic experience for the viewer. Benches line the perimeter of the enclosed space, and LED lights, which surround the aperture inside and outside the chamber, shift colors to affect the viewer's perception of the sky. Based on the science of how humans perceive light, the individual experience is the actual work itself.",
     "info": null,
     "url": "https://www.friendsseminary.org/",
-    "categories": ["art", "religious", "quirky"]
+    "categories": [
+      "art",
+      "religious",
+      "quirky"
+    ],
+    "icon": null
   },
   {
     "name": "Baruch Performing Arts Center",
@@ -1067,7 +1448,11 @@
     "description": "Performing arts venue at Baruch College presenting theater, dance, and music.",
     "info": null,
     "url": "https://www.baruch.cuny.edu/bpac/",
-    "categories": ["theater", "music"]
+    "categories": [
+      "theater",
+      "music"
+    ],
+    "icon": null
   },
   {
     "name": "Official Ritual",
@@ -1077,6 +1462,10 @@
     "description": "Hidden behind a discreet black door in Chelsea is a little alleyway that leads to an 18th century home where you can partake in sound meditations, weekend workshops, and special wellness events. it's a dedicated sound meditation space",
     "info": null,
     "url": "https://www.officialritual.com/",
-    "categories": ["quirky", "religious"]
+    "categories": [
+      "quirky",
+      "religious"
+    ],
+    "icon": null
   }
 ]
