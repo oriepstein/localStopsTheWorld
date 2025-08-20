@@ -5,8 +5,9 @@
     "lon": -74.117875,
     "icon": null,
     "imageURL": null,
-    "description": "61 New Dorp Plz Staten Island, NY 10306 (718) 667-9696 more info \u00bb (http://maps.google.com/maps?f=q&hl=en&geocode=&q=andrew+%26+alan)",
+    "description": "61 New Dorp Plz Staten Island, NY 10306 (718) 667-9696",
     "info": null,
+    "url": null,
     "categories": ["food"]
   },
   {
@@ -17,7 +18,8 @@
     "imageURL": null,
     "description": "Featuring the the longest lift span of any vertical-lift bridge in the world.",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["landmark", "historic"]
   },
   {
     "name": "ArtSpace @ Staten Island Arts",
@@ -27,7 +29,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.statenislandarts.org/",
+    "categories": ["art"]
   },
   {
     "name": "Battery Weed",
@@ -35,9 +38,10 @@
     "lon": -74.0539375,
     "icon": null,
     "imageURL": null,
-    "description": "Fort Wadsworth is one of the oldest military installations in the nation. The site occupies 226 acres on the northeastern shore of Staten Island, along the Narrows of New York Harbor. Rich in history and natural beauty, Fort Wadsworth affords the opportunity to observe an important part of our nation's history, while offering magnificent views of New York Harbor. Fort Wadsworth contains a National Register Historic District that is characterized by resources primarily associated with the coastal defense system and its protection of New York Harbor for some 200 years. The site is remarkable for the conspicuous bluff that rises approximately 150 feet from the coastline. Battery Weed lies at the toe of the slope; Fort Tompkins is located at the highest point. Both complexes represent major third system fortifications listed on the National Register, and retain much of their historic character. Battery Weed, begun in 1847, is one of the earliest structures that remains intact at Fort Wadsworth. Battery Weed's construction involved the use of granite blocks in a half-hexagon shape and included a central parade ground. At the time of its completion (1861-1864) it included 116 cannons, three tiers of casemates, and a fourth barbette tier, each with gun emplacements. Battery Weed is also recognized as a Landmark Site by New York City for its \"special historical, aesthetic interest and value as part of the development, heritage and cultural characteristics of New York City.\"",
+    "description": "Fort Wadsworth is one of the oldest military installations in the nation. The site occupies 226 acres on the northeastern shore of Staten Island, along the Narrows of New York Harbor. Rich in history and natural beauty, Fort Wadsworth affords the opportunity to observe an important part of our nation's history, while offering magnificent views of New York Harbor. Fort Wadsworth contains a National Register Historic District that is characterized by resources primarily associated with the coastal defense system and its protection of New York Harbor for some 200 years. Battery Weed, begun in 1847, is one of the earliest structures that remains intact at Fort Wadsworth. Battery Weed's construction involved the use of granite blocks in a half-hexagon shape and included a central parade ground. At the time of its completion (1861-1864) it included 116 cannons, three tiers of casemates, and a fourth barbette tier, each with gun emplacements.",
     "info": null,
-    "categories": ["historic"]
+    "url": "https://www.nps.gov/gate/planyourvisit/fort-wadsworth.htm",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Bay Street murals",
@@ -47,7 +51,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Blue Heron Park Nature Center",
@@ -57,7 +62,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/blue-heron-park",
+    "categories": ["nature", "park"]
   },
   {
     "name": "Brookfield Park",
@@ -67,7 +73,8 @@
     "imageURL": null,
     "description": "built on a former toxic dump",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/brookfield-park",
+    "categories": ["park", "quirky"]
   },
   {
     "name": "Casa Belevedere, The Italian Cultural Foundation",
@@ -77,7 +84,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.casabelvedere.org/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "Cedar Grove Beach",
@@ -87,7 +95,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["nature", "recreation"]
   },
   {
     "name": "Center for the Arts",
@@ -97,7 +106,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["art", "entertainment"]
   },
   {
     "name": "Christ Episcopal Church",
@@ -107,7 +117,8 @@
     "imageURL": null,
     "description": "tiffanys windows",
     "info": null,
-    "categories": []
+    "url": "https://www.christchurchsi.org/",
+    "categories": ["religious", "art", "historic"]
   },
   {
     "name": "Clay Pit Ponds Interpretive Center",
@@ -117,7 +128,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/clay-pit-ponds-state-park-preserve",
+    "categories": ["nature", "park"]
   },
   {
     "name": "Clove Lakes Park",
@@ -127,7 +139,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/clove-lakes-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Conference House Park",
@@ -137,7 +150,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/conference-house-park",
+    "categories": ["park", "historic"]
   },
   {
     "name": "Creative Photographers Guild",
@@ -147,7 +161,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["art"]
   },
   {
     "name": "Crimson Beech",
@@ -157,8 +172,8 @@
     "imageURL": null,
     "description": "Only Frank Lloyd Wright house in NYC 48 Manor Rd Staten Island, NY 10310",
     "info": null,
-    "url": "https://lh3.googleusercontent.com/umsh/AN6v0v5VsKHIomLq72lDGo04dVb6xaEucMdmD3zlOl2eH85Y2AwUZtyYI6rBA55zSy2iFjV0dF0ugZAE1tRZsyOF1KuGnWwYJCv_i1nwZvWDub8EQi3IIxMk_OuKWeOelIks50Q9_-Kk5IsNstIjxZEYH7Y",
-    "categories": []
+    "url": null,
+    "categories": ["historic", "art", "landmark"]
   },
   {
     "name": "Eibs Pond Park",
@@ -168,7 +183,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": ["nature"]
+    "url": "https://www.nycgovparks.org/parks/eibs-pond-park",
+    "categories": ["nature", "park"]
   },
   {
     "name": "Empire Outlets",
@@ -178,6 +194,7 @@
     "imageURL": null,
     "description": "",
     "info": null,
+    "url": "https://empireoutlets.nyc/",
     "categories": ["shopping"]
   },
   {
@@ -188,7 +205,8 @@
     "imageURL": null,
     "description": "208 Victory Boulevard Staten Island, NY 10301 (718) 447-8256",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["bookstore", "theater", "food"]
   },
   {
     "name": "Fort Wadsworth - Gateway National Recreation Area",
@@ -198,7 +216,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": ["historic"]
+    "url": "https://www.nps.gov/gate/planyourvisit/fort-wadsworth.htm",
+    "categories": ["historic", "park"]
   },
   {
     "name": "Franklin D Roosevelt Boardwalk",
@@ -208,7 +227,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["recreation", "park"]
   },
   {
     "name": "Freshkills Park",
@@ -218,7 +238,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://freshkillspark.org/",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Garibaldi Meucci Museum",
@@ -228,7 +249,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.garibaldimeuccimuseum.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "Gateway National Recreation Area - Staten Island Unit",
@@ -238,7 +260,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nps.gov/gate/",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Great Kills Beach",
@@ -248,7 +271,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nps.gov/gate/planyourvisit/great-kills-park.htm",
+    "categories": ["nature", "recreation"]
   },
   {
     "name": "Greenbelt Nature Center",
@@ -258,7 +282,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.sigreenbelt.org/",
+    "categories": ["nature", "park"]
   },
   {
     "name": "High Rock Park",
@@ -268,7 +293,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/high-rock-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Historic Richmond Town",
@@ -278,7 +304,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.historicrichmondtown.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Hypno-Tronic Comics",
@@ -288,7 +315,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["shopping"]
   },
   {
     "name": "John Cardinal O'Connor Lighthouse",
@@ -298,7 +326,8 @@
     "imageURL": null,
     "description": "The 19th-century John Cardinal O'Connor Lighthouse, formerly known as Prince's Bay Lighthouse, is located at the New York State Department of Environmental Conservation (DEC)-owned flagship Mt. Loretto Unique Area property on Staten Island. The location is the highest ocean-facing bluff in New York State. For more than 100 years, the lighthouse served a critical role in guiding sailing ships along the coast of Staten Island bound for ports in New York and New Jersey. The New York State DEC currently manages the property as a nature preserve.",
     "info": null,
-    "categories": []
+    "url": "https://www.dec.ny.gov/lands/130447.html",
+    "categories": ["historic", "landmark", "nature"]
   },
   {
     "name": "kayak staten island",
@@ -308,7 +337,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.kayakstatenisland.org/",
+    "categories": ["recreation", "sports"]
   },
   {
     "name": "Kreischer House",
@@ -318,7 +348,8 @@
     "imageURL": null,
     "description": "NYCL & haunted house?",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "maker park",
@@ -328,7 +359,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["park", "recreation"]
   },
   {
     "name": "Midland Beach",
@@ -338,7 +370,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["nature", "recreation"]
   },
   {
     "name": "Miller's Launch Inc",
@@ -348,7 +381,8 @@
     "imageURL": null,
     "description": "tugboat parking lot",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["quirky", "recreation"]
   },
   {
     "name": "Mount Loretto Unique Area",
@@ -358,7 +392,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.dec.ny.gov/lands/130447.html",
+    "categories": ["nature", "park"]
   },
   {
     "name": "National Lighthouse Museum",
@@ -368,7 +403,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.lighthousemuseum.org/",
+    "categories": ["museum", "historic"]
   },
   {
     "name": "New York Chinese Scholar's Garden",
@@ -378,7 +414,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://snug-harbor.org/venues/new-york-chinese-scholars-garden/",
+    "categories": ["nature", "art", "park"]
   },
   {
     "name": "New York City Farm Colony",
@@ -388,7 +425,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["historic", "quirky"]
   },
   {
     "name": "New York City Police Department - 121st Precinct",
@@ -398,7 +436,8 @@
     "imageURL": null,
     "description": "Rafael Vinoly designed building",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["art", "historic"]
   },
   {
     "name": "New York Public Library Stapleton Branch",
@@ -408,7 +447,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nypl.org/locations/stapleton",
+    "categories": ["bookstore"]
   },
   {
     "name": "Newhouse Center Of Contemporary Art",
@@ -418,7 +458,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://snug-harbor.org/venues/newhouse-center-for-contemporary-art/",
+    "categories": ["art", "museum"]
   },
   {
     "name": "NY - Our Lady of Mt Carmel Grotto",
@@ -426,10 +467,10 @@
     "lon": -74.075082,
     "icon": null,
     "imageURL": null,
-    "description": "36 Amity St Staten Island, NY 10305 The city's most elaborate, hand-crafted yard shrine originates from 1937 when members of the Society of Our Lady of Mount Carmel volunteered their labor over several decades to construct the stone-studded grotto. Society members credit Vito Russo with starting the shrine as a way to grieve for his son, Vito Jr., who died of pneumonia in 1935. The Grotto is still an active religious site. In 2001, it was listed on the National Register of Historic Places. The building occupied by Guadalupe is a mid-nineteenth-century brownstone (interestingly, the former home of restauranteur Charles Delmonico) that has been masterfully converted from a posh rowhouse to a double-height sanctuary, complete with a monumental entrance, side chapel, tiny balcony, and clerestory. This transformation from residence to church, a form which makes Guadalupe extremely rare, if not unique in the city, spanned two decades and involved several notable architects, including George H. Streeton, Paul C. Hunter, and Gustave Steinback. Steinback, known for his work on religious projects, designed No. 229s classically proportioned Spanish Revival faade in 1921. The Spanish-like faade on No. 231 was added at a later date by a yet unknown architect. Although the church remained extremely popular, it was consolidated with nearby St. Bernards parish and closed in 2003. Today, Guadalupe is a rare architectural trace of Little Spain. From Staten Island Ferry, take S78 or S52 bus to corner of Chestnut and Tompkins Aves. Walk to St Mary's Ave and turn right. Make first left at White Plains Ave, ten quick right onto Amity St and proceed to end of block. more info \u00bb (http://maps.google.com/maps?hl=en&q=Our+Lady+of+Mt.+Carmel+Grotto+&ie=UTF8&num=10&sll=37.062500,-95.677068&sspn=23.875000,57.630033&latlng=40612415,-74075082,8613466851754838758&ei=u0BRSLaVOajEigGU-o25Cw&sig2=Hb2uBtrr499_ZGTcYOau2Q&cd=1)",
+    "description": "36 Amity St Staten Island, NY 10305 The city's most elaborate, hand-crafted yard shrine originates from 1937 when members of the Society of Our Lady of Mount Carmel volunteered their labor over several decades to construct the stone-studded grotto. Society members credit Vito Russo with starting the shrine as a way to grieve for his son, Vito Jr., who died of pneumonia in 1935. The Grotto is still an active religious site. In 2001, it was listed on the National Register of Historic Places.",
     "info": null,
-    "url": "http://maps.google.com/maps?hl=en&q=Our+Lady+of+Mt.+Carmel+Grotto+&ie=UTF8&num=10&sll=37.062500,-95.677068&sspn=23.875000,57.630033&latlng=40612415,-74075082,8613466851754838758&ei=u0BRSLaVOajEigGU-o25Cw&sig2=Hb2uBtrr499_ZGTcYOau2Q&cd=1)",
-    "categories": []
+    "url": null,
+    "categories": ["religious", "historic", "art"]
   },
   {
     "name": "NYC Arts Cypher",
@@ -439,7 +480,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["art", "entertainment"]
   },
   {
     "name": "Olmsted-Beil House Park",
@@ -447,9 +489,10 @@
     "lon": -74.1579797,
     "icon": null,
     "imageURL": null,
-    "description": "Visit the Olmsted-Beil House and Olmsted-Beil House Park to learn about the former owners, history, and exterior changes to the nationally landmarked 17th-century farmhouse once owned by Frederick Law Olmsted. Visitors can walk the grounds of Olmsted\u2019s former Tosomock Farm, now a New York City park, and view trees planted by Olmsted as early landscape architecture experiments, pre-dating his Central Park designs.",
+    "description": "Visit the Olmsted-Beil House and Olmsted-Beil House Park to learn about the former owners, history, and exterior changes to the nationally landmarked 17th-century farmhouse once owned by Frederick Law Olmsted. Visitors can walk the grounds of Olmsted's former Tosomock Farm, now a New York City park, and view trees planted by Olmsted as early landscape architecture experiments, pre-dating his Central Park designs.",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/olmsted-beil-house-park",
+    "categories": ["historic", "park", "nature"]
   },
   {
     "name": "Reformed Church on Staten Island",
@@ -459,7 +502,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.rcsi.org/",
+    "categories": ["religious", "historic"]
   },
   {
     "name": "Richmond Hood Company",
@@ -469,7 +513,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["shopping", "historic"]
   },
   {
     "name": "Rocket Fizz Staten Island",
@@ -479,7 +524,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://rocketfizz.com/",
+    "categories": ["shopping", "food"]
   },
   {
     "name": "Rossville Boat Yard",
@@ -487,10 +533,10 @@
     "lon": -74.217391,
     "icon": null,
     "imageURL": null,
-    "description": "Tugboat graveyard bbs.keyhole.com 1 of 17 placemarks in NYC Waterfront - Wrecks and Ruins.kmz (http://maps.google.com/maps?hl=en&ie=UTF8&q=http://bbs.keyhole.com/ubb/placemarks/278390-NYCWaterfront-WrecksandRuins.kmz&ftid=7FE5F49E3055CAE2) - 5k Beautifully phototgraphed by Shaun O' Boyle http://oboylephoto.com/boatyard/index2.htm Original Post (http://bbs.keyhole.com/ubb/showflat.php/Cat/0/Number/278390) more info \u00bb (http://maps.google.com/maps?hl=en&q=rossville+boatyard+in+staten+island&ie=UTF8&sll=37.062500,-95.677068&sspn=23.875000,57.630033&latlng=40556693,-74217391,8670124716301014895&ei=SgBsR7G2EJD-rAK4u9TkBg&cd=2) more info \u00bb (http://maps.google.com/maps?hl=en&q=rossville+boatyard&ie=UTF8&sll=37.062500,-95.677068&sspn=23.875000,57.630033&latlng=40556693,-74217391,17477525692993896142&ei=bUhRSJiiI5mgigHugYHICw&sig2=XMrpuFzIgh4J4ry18CXsow&cd=1)",
+    "description": "Tugboat graveyard",
     "info": null,
-    "url": "https://lh3.googleusercontent.com/umsh/AN6v0v6vCLLlWcjUb8YVqpURaWDiHWfkgMsA3ak9mDU5l18MQn27ywsQIFApydbbadalR-dUIkrsSJ3oJV7Ahs6xRKgNzjjcZoFHwgbKYMNRUktW",
-    "categories": []
+    "url": null,
+    "categories": ["quirky", "historic"]
   },
   {
     "name": "Sandy Ground Historical Inc",
@@ -500,7 +546,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.sandygroundhistoricalsociety.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "Seguine Mansion",
@@ -510,7 +557,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/seguine-mansion",
+    "categories": ["historic"]
   },
   {
     "name": "Snug Harbor Cultural Center & Botanical Garden Administrative Offices",
@@ -520,7 +568,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://snug-harbor.org/",
+    "categories": ["art", "nature"]
   },
   {
     "name": "Snug Harbor Cultural Center Inc",
@@ -528,10 +577,10 @@
     "lon": -74.10464,
     "icon": null,
     "imageURL": null,
-    "description": "1000 Richmond Ter # 11 Staten Island, NY 10301 (718) 448-2500 more info \u00bb (http://maps.google.com/maps?hl=en&q=snug+harbor+cultural+center&ie=UTF8&sll=37.062500,-95.677068&sspn=23.875000,57.630033&latlng=40645314,-74104640,4953621171060415375&ei=vElRSLamFY24jgGNi8jCCw&sig2=viQ6HCLuFEeXTCHz63sg3g&cd=1)",
+    "description": "1000 Richmond Ter # 11 Staten Island, NY 10301 (718) 448-2500",
     "info": null,
-    "url": "https://lh3.googleusercontent.com/umsh/AN6v0v69u6vg5qHd8gmQHP5rSNtHmA4rzg0o4GIcFkauwljUR8QJ_--r4x3g99rVmvV5XuPCLjqsUmJOh4PIHeHXEMC2AC-4PH5mq0J67KmBLftH3fVRIdaRAbDpP8mPoNmLCqqBotzUN7gKJ5UHatotqSrt8VaLnqyG2IKv9uiE6AVQJKtGxVjDoNclZXa5drae",
-    "categories": []
+    "url": "https://snug-harbor.org/",
+    "categories": ["art", "museum", "historic"]
   },
   {
     "name": "South Beach",
@@ -541,7 +590,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["nature", "recreation"]
   },
   {
     "name": "Sri Lankan Art & Cultural Museum NY",
@@ -551,7 +601,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": ["museum"]
+    "url": null,
+    "categories": ["museum", "art"]
   },
   {
     "name": "Staten Island Borough Hall",
@@ -561,7 +612,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nyc.gov/site/statenisland/index.page",
+    "categories": ["historic", "landmark"]
   },
   {
     "name": "Staten Island Botanical Garden",
@@ -569,10 +621,10 @@
     "lon": -74.10464,
     "icon": null,
     "imageURL": null,
-    "description": "1000 Richmond Ter Staten Island, NY 10301 (718) 273-8200 more info \u00bb (http://maps.google.com/maps?f=q&hl=en&geocode=&q=staten+island+botanical+gardens&jsv=115&sll=40.71453,-74.00713&sspn=0.743205,1.19751&ie=UTF8&latlng=40645314,-74104640,9341622447043183688&ei=iUdRSNzYFqjEigHJ-q25Cw&sig2=BCFAhaNAUw5zAV0Y7_QG3A&cd=1)",
+    "description": "1000 Richmond Ter Staten Island, NY 10301 (718) 273-8200",
     "info": null,
-    "url": "http://maps.google.com/maps?f=q&hl=en&geocode=&q=staten+island+botanical+gardens&jsv=115&sll=40.71453,-74.00713&sspn=0.743205,1.19751&ie=UTF8&latlng=40645314,-74104640,9341622447043183688&ei=iUdRSNzYFqjEigHJ-q25Cw&sig2=BCFAhaNAUw5zAV0Y7_QG3A&cd=1)",
-    "categories": []
+    "url": "https://snug-harbor.org/venues/staten-island-botanical-garden/",
+    "categories": ["nature", "park"]
   },
   {
     "name": "Staten Island Children's Museum",
@@ -582,7 +634,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.sichildrensmuseum.org/",
+    "categories": ["museum", "entertainment"]
   },
   {
     "name": "Staten Island Cricket Club",
@@ -592,7 +645,8 @@
     "imageURL": null,
     "description": "country's oldest cricket club",
     "info": null,
-    "categories": []
+    "url": "https://www.statenislandcc.com/",
+    "categories": ["sports", "historic"]
   },
   {
     "name": "Staten Island Museum",
@@ -602,7 +656,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.statenislandmuseum.org/",
+    "categories": ["museum"]
   },
   {
     "name": "Swinburne Island",
@@ -612,7 +667,8 @@
     "imageURL": null,
     "description": "seal colony",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["nature", "quirky"]
   },
   {
     "name": "The Conference House",
@@ -622,7 +678,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.conferencehouse.org/",
+    "categories": ["historic", "museum"]
   },
   {
     "name": "The Flagship Brewing Company",
@@ -632,7 +689,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.flagshipbrewery.nyc/",
+    "categories": ["drinking", "food"]
   },
   {
     "name": "The Historic Old Bermuda Inn",
@@ -642,7 +700,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["historic", "food"]
   },
   {
     "name": "The Jacques Marchais Museum of Tibetan Art",
@@ -652,7 +711,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.tibetanmuseum.org/",
+    "categories": ["museum", "art", "religious"]
   },
   {
     "name": "Todt Hill",
@@ -662,7 +722,8 @@
     "imageURL": null,
     "description": "8 mile hiking trail New York, NY",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["nature", "recreation", "park"]
   },
   {
     "name": "Tottenville Shore Park",
@@ -672,7 +733,8 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/tottenville-shore-park",
+    "categories": ["park", "nature"]
   },
   {
     "name": "Ward's Point Archaeological Site",
@@ -682,7 +744,8 @@
     "imageURL": null,
     "description": "NHL -- Archaeological site in Conference House Park containing prehistoric remains.",
     "info": null,
-    "categories": []
+    "url": null,
+    "categories": ["historic", "park"]
   },
   {
     "name": "Wolfe's Pond Beach",
@@ -692,6 +755,7 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": []
+    "url": "https://www.nycgovparks.org/parks/wolfes-pond-park",
+    "categories": ["nature", "recreation", "park"]
   }
 ]
