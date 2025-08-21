@@ -44,10 +44,7 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": [
-      "nature",
-      "park"
-    ]
+    "categories": ["nature","park"]
   },
   {
     "name": "Community Meditation Center",
