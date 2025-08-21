@@ -6,7 +6,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Unique antiquarian shop specializing in globes, maps, and prints.",
-    "info": null
+    "info": null,
+    "categories": ["shopping", "art"],
+    "url": "https://georgeglazer.com/"
   },
   {
     "name": "Venetian Room",
@@ -14,8 +16,10 @@
     "lon": -73.9636496,
     "icon": null,
     "imageURL": null,
-    "description": "This lavish room at NYC's French Embassy is a rare relic from the end of the Gilded Age.\u00a0<br>THIS GEM OF A ROOM at the French Embassy in New York City feels as though you\u2019ve landed in a Venetian palace. Mirrored panels lining the walls reflect 18th-century European furnishings and beautiful artwork. Delicate porcelain flowers sprout within intricately entwined metal latticework. A floral timepiece crowns the milky white fireplace.<br><br>The embassy\u2019s Venetian Room is a rare surviving piece of New York\u2019s Gilded Age. The lavish display, which was created in 1906, was finished by famous architect Stanford White less than a year before he was murdered. White spent years traveling to Europe to hunt for inspiration and decor to turn his vision into a reality.<br><br>The room was commissioned in 1902 by a businessman named Oliver Payne, as a wedding gift for his nephew. It was constructed in the former Payne Whitney Mansion, which now houses the Cultural Services of the French Embassy. The luxurious room was dismantled in 1948 and remained tucked away in storage until 1997, when it was donated to the French-American Foundation and reinstalled in its original place.<br><br>The gorgeous Gilded Age room was recently restored and spent months hidden from view as it was buffed, scrubbed, and returned to its original grandeur. It reopened to the public in June of 2018. Now, anyone can stop to catch a glimpse of the century-old reception room while passing through the embassy\u2019s lobby on their way to Albertine, its celestial-ceilinged bookstore.",
-    "info": null
+    "description": "This lavish room at NYC's French Embassy is a rare relic from the end of the Gilded Age. THIS GEM OF A ROOM at the French Embassy in New York City feels as though you've landed in a Venetian palace. Mirrored panels lining the walls reflect 18th-century European furnishings and beautiful artwork. Delicate porcelain flowers sprout within intricately entwined metal latticework. A floral timepiece crowns the milky white fireplace.<br><br>The embassy's Venetian Room is a rare surviving piece of New York's Gilded Age. The lavish display, which was created in 1906, was finished by famous architect Stanford White less than a year before he was murdered. White spent years traveling to Europe to hunt for inspiration and decor to turn his vision into a reality.",
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": null
   },
   {
     "name": "Albertine",
@@ -23,8 +27,10 @@
     "lon": -73.9637192,
     "icon": null,
     "imageURL": null,
-    "description": "Though its celestial ceiling is impressive, the true star is the vast collection of French books. bookstore in the French Consulate;<br>One of the few remaining urban mansions of the Gilded Age, the Payne Whitney Mansion was commissioned in 1902 by Oliver Hazard Payne, for his nephew, Payne Whitney, on the occasion of his marriage to Helen Hay. Stanford White, of the prominent architectural firm McKim, Mead & White, designed the mansion in the style of a high Italian Renaissance palazzo. A jealous husband assassinated him before construction was completed in 1909. Since 1952, France has owned the mansion. In 1970, it was deemed an official landmark of the City of New York. With a grand entrance hall and stairway and ornate marble reception halls, the mansion transports visitors to another epoch. Today, it is home to the Cultural Services of the French Embassy and Albertine bookstore.",
-    "info": null
+    "description": "Though its celestial ceiling is impressive, the true star is the vast collection of French books. bookstore in the French Consulate; One of the few remaining urban mansions of the Gilded Age, the Payne Whitney Mansion was commissioned in 1902 by Oliver Hazard Payne, for his nephew, Payne Whitney, on the occasion of his marriage to Helen Hay. Stanford White, of the prominent architectural firm McKim, Mead & White, designed the mansion in the style of a high Italian Renaissance palazzo. A jealous husband assassinated him before construction was completed in 1909.",
+    "info": null,
+    "categories": ["bookstore", "historic"],
+    "url": "https://albertine.com/"
   },
   {
     "name": "The New York Society Library",
@@ -33,7 +39,9 @@
     "icon": null,
     "imageURL": null,
     "description": "New York's oldest and possibly grandest keeper of books.",
-    "info": null
+    "info": null,
+    "categories": ["bookstore", "historic"],
+    "url": "https://www.nysoclib.org/"
   },
   {
     "name": "Bohemian National Hall",
@@ -41,8 +49,10 @@
     "lon": -73.9564808,
     "icon": null,
     "imageURL": null,
-    "description": "Dvorak Hall -\u00a0A small piece of the composer's New York home lives on in the center of Czech culture in Manhattan. The five-story building was designed by William C. Frohne in the Renaissance Revival style, and built in 1896. It is a rare survivor of the many social halls built in the nineteenth century for New York City\u2019s immigrant ethnic communities. <br><br>Bohemian National Hall has been an important center for Czech culture in New York City for more than one hundred years. Since its beginning it has served as a focal point for its community, offering ethnic food, Czech language and history classes, as well as space for the community to meet and hold various events. Today, Bohemian National Hall serves as a significant reminder of the major working-class ethnic enclave that once flourished in Yorkville.<br><br>In 2001, ownership of the Bohemian National Hall was transferred from the Bohemian Benevolent & Literary Association (BBLA) to the Czech Republic. To emphasize the building\u2019s link with the Czech Republic, it now shares its premises with the Consulate General of the Czech Republic and the Czech Center New York.",
-    "info": null
+    "description": "Dvorak Hall - A small piece of the composer's New York home lives on in the center of Czech culture in Manhattan. The five-story building was designed by William C. Frohne in the Renaissance Revival style, and built in 1896. It is a rare survivor of the many social halls built in the nineteenth century for New York City's immigrant ethnic communities. In 2001, ownership of the Bohemian National Hall was transferred from the Bohemian Benevolent & Literary Association (BBLA) to the Czech Republic.",
+    "info": null,
+    "categories": ["historic", "music", "art"],
+    "url": "https://www.bohemiannationalhall.com/"
   },
   {
     "name": "Urasenke Inc",
@@ -50,8 +60,10 @@
     "lon": -73.9628019,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional Japanese tea ceremony school and cultural center.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": "https://www.urasenke.org/"
   },
   {
     "name": "Day & Meyer, Murray & Young Corp.",
@@ -60,7 +72,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Storage warehouse of the rich and famous.",
-    "info": null
+    "info": null,
+    "categories": ["quirky"],
+    "url": null
   },
   {
     "name": "Grolier Club",
@@ -68,8 +82,10 @@
     "lon": -73.969862,
     "icon": null,
     "imageURL": null,
-    "description": "The oldest bibliophilia club in America, with exhibitions on historic books and graphic arts.\u00a0<br>The Grolier Club is a private NYC club with galleries that are free and open to members of the public. The club was established in 1884, making it the oldest North American bibliophilic club in existence. The Grolier Club aims to focus on \"the literary study of the arts pertaining to the production of books, including the occasional publication of books designed to illustrate, promote and encourage these arts; and the acquisition, furnishing and maintenance of a suitable club building for the safekeeping of its property, wherein meetings, lectures and exhibitions shall take place from time to time.\"<br><br>Highlights<br>Here are some of the \"must see\" items at The Grolier Club.<br><br>Peter Koch Printer: A Forty-five-year Retrospective at the Grolier Club Embodied Language and the Form of the Book<br>\"The A.B.C. of Alphabets\" from the Collection of Gretchen Adkins<br>Poet of the Body: New York's Walt Whitman",
-    "info": null
+    "description": "The oldest bibliophilia club in America, with exhibitions on historic books and graphic arts. The Grolier Club is a private NYC club with galleries that are free and open to members of the public. The club was established in 1884, making it the oldest North American bibliophilic club in existence.",
+    "info": null,
+    "categories": ["bookstore", "art", "historic"],
+    "url": "https://www.grolierclub.org/"
   },
   {
     "name": "Society of Illustrators",
@@ -77,8 +93,10 @@
     "lon": -73.9668335,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Professional society and museum dedicated to the art of illustration.",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://societyillustrators.org/"
   },
   {
     "name": "Explorers Club",
@@ -86,8 +104,10 @@
     "lon": -73.9656831,
     "icon": null,
     "imageURL": null,
-    "description": "A treasure trove of artifacts, books, and artwork from the \"golden age\" of exploration.",
-    "info": null
+    "description": "A treasure trove of artifacts, books, and artwork from the golden age of exploration.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.explorers.org/"
   },
   {
     "name": "Frick Madison",
@@ -95,8 +115,10 @@
     "lon": -73.9639915,
     "icon": null,
     "imageURL": null,
-    "description": "The Frick Collection is an art museum on Manhattan's Upper East Side that is home to Henry Clay Frick's collection of works. Frick began acquiring his personal collection in the 1800s after striking it big in the steel industry in Pennsylvania. The Frick is considered to have a small but extremely high quality and well-respected art collection, including pieces by Johannes Vermeer, Giovanni Bellini, and Rembrandt.<br><br>Highlights<br>Here are some of the \"must see\" items at The Frick Collection.<br><br>Nicolaes Ruts<br>Officer and a Laughing Girl<br>St. Francis in Ecstasy<br><br>also home to a secret bowlking alley",
-    "info": null
+    "description": "The Frick Collection is an art museum on Manhattan's Upper East Side that is home to Henry Clay Frick's collection of works. Frick began acquiring his personal collection in the 1800s after striking it big in the steel industry in Pennsylvania. The Frick is considered to have a small but extremely high quality and well-respected art collection, including pieces by Johannes Vermeer, Giovanni Bellini, and Rembrandt. Also home to a secret bowling alley.",
+    "info": null,
+    "categories": ["museum", "art", "quirky"],
+    "url": "https://www.frick.org/"
   },
   {
     "name": "Bemelmans Bar",
@@ -105,7 +127,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The walls are decorated with whimsical murals painted by the creator of the Madeline franchise.",
-    "info": null
+    "info": null,
+    "categories": ["drinking", "art"],
+    "url": "https://www.thecarlyle.com/dine/bemelmans-bar/"
   },
   {
     "name": "Park Avenue Armory",
@@ -113,8 +137,10 @@
     "lon": -73.9656313,
     "icon": null,
     "imageURL": null,
-    "description": "The Seventh Regiment Armory, or the Park Avenue Armory, is a National Guard armory building located on Park Avenue in Manhattan's Upper East Side neighborhood. The armory was designated a National Historic Landmark in 1986. The building is a Gothic Revival made of brick and stone, and was built in 1880.<br><br>Highlights<br>Here are some of the \"must see\" items at Park Avenue Armory.<br><br>Judgment Day<br>Interrogations of Form",
-    "info": null
+    "description": "The Seventh Regiment Armory, or the Park Avenue Armory, is a National Guard armory building located on Park Avenue in Manhattan's Upper East Side neighborhood. The armory was designated a National Historic Landmark in 1986. The building is a Gothic Revival made of brick and stone, and was built in 1880.",
+    "info": null,
+    "categories": ["historic", "art", "theater"],
+    "url": "https://www.armoryonpark.org/"
   },
   {
     "name": "Temple Emanu-El",
@@ -122,8 +148,10 @@
     "lon": -73.9697743,
     "icon": null,
     "imageURL": null,
-    "description": "Built in the Modern Romanesque-style popular in the late 1920s, Temple Emanu-El is one of the largest houses of worship in the world and the oldest Reform synagogue in New York City. The sanctuary features dazzling mosaics by noted muralist Hildreth Mei\u00e8re, an intricately painted ceiling, and towering stained glass windows. The building\u2019s meticulous decorative restoration by Beyer Blinder Belle received the New York Landmarks Conservancy\u2019s Lucy G. Moses Preservation Award in 2007.",
-    "info": null
+    "description": "Built in the Modern Romanesque-style popular in the late 1920s, Temple Emanu-El is one of the largest houses of worship in the world and the oldest Reform synagogue in New York City. The sanctuary features dazzling mosaics by noted muralist Hildreth Meière, an intricately painted ceiling, and towering stained glass windows.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://www.emanuelnyc.org/"
   },
   {
     "name": "Bernard Museum",
@@ -131,8 +159,10 @@
     "lon": -73.9699333,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Small museum housed within Temple Emanu-El focusing on Jewish art and artifacts.",
+    "info": null,
+    "categories": ["museum", "religious"],
+    "url": null
   },
   {
     "name": "Gracie Mansion Conservancy",
@@ -140,8 +170,10 @@
     "lon": -73.943113,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "The official residence of the Mayor of New York City, offering guided tours of this historic Federal-style mansion.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.nyc.gov/site/gracie/"
   },
   {
     "name": "Adam Baumgold Fine Art",
@@ -149,8 +181,10 @@
     "lon": -73.959024,
     "icon": null,
     "imageURL": null,
-    "description": "shows work from comics",
-    "info": null
+    "description": "Shows work from comics and illustration art.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://adambaumgoldgallery.com/"
   },
   {
     "name": "Neue Galerie New York",
@@ -158,8 +192,10 @@
     "lon": -73.9603267,
     "icon": null,
     "imageURL": null,
-    "description": "The Neue Galerie New York is an art gallery dedicated to German and Austrian art from the early 1900s. The Neue Galerie, translated from German as \"New Gallery\", is one of the more recent museums to join NYC's Museum Mile on Manhattan's Fifth Avenue. The museum's best known piece in its collection is Klimt's painting Portrait of Adele Bloch-Bauer I.<br><br>Highlights<br>Here are some of the \"must see\" items at Neue Galerie.<br><br>Klimt's Portrait of Adele Bloch-Bauer I<br>Madame D'Ora<br>The Self-Portrait, From Schiele to Beckmann",
-    "info": null
+    "description": "The Neue Galerie New York is an art gallery dedicated to German and Austrian art from the early 1900s. The Neue Galerie, translated from German as New Gallery, is one of the more recent museums to join NYC's Museum Mile on Manhattan's Fifth Avenue. The museum's best known piece in its collection is Klimt's painting Portrait of Adele Bloch-Bauer I.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.neuegalerie.org/"
   },
   {
     "name": "Cooper Hewitt, Smithsonian Design Museum",
@@ -167,8 +203,10 @@
     "lon": -73.9578732,
     "icon": null,
     "imageURL": null,
-    "description": "The Cooper Hewitt, Smithsonian Design Museum is a design museum on NYC's Miracle Mile. Cooper Hewitt is the only museum in the country that focuses on current day and historic design dating back more than 240 years. The museum has been home to items like a chair that Abraham Lincoln once sat in and a Rolls Royce that had been owned by The Beatles.<br><br>Highlights<br>Here are some of the \"must see\" items at The Cooper Hewitt Smithsonian Design Museum.<br><br>The first metal chair made in the United States<br>Views of the American War of Independence<br>The Diva is Dismissed<br>\u00a0the former home of Andrew Carnegie, who described the 64-room mansion as \u201cmodest and plain.",
-    "info": null
+    "description": "The Cooper Hewitt, Smithsonian Design Museum is a design museum on NYC's Museum Mile. Cooper Hewitt is the only museum in the country that focuses on current day and historic design dating back more than 240 years. The former home of Andrew Carnegie, who described the 64-room mansion as modest and plain.",
+    "info": null,
+    "categories": ["museum", "art", "historic"],
+    "url": "https://www.cooperhewitt.org/"
   },
   {
     "name": "Di Donna",
@@ -176,8 +214,10 @@
     "lon": -73.9690482,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Gallery specializing in Old Master and Impressionist paintings.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.didonnagalleries.com/"
   },
   {
     "name": "James Cummins Bookseller",
@@ -185,8 +225,10 @@
     "lon": -73.9696394,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Rare and antiquarian bookstore specializing in fine books and manuscripts.",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://www.jamescumminsbookseller.com/"
   },
   {
     "name": "Mount Vernon Hotel Museum & Garden",
@@ -194,8 +236,10 @@
     "lon": -73.959733,
     "icon": null,
     "imageURL": null,
-    "description": "The Mount Vernon Hotel Museum & Garden is a historic antebellum residential building near the East River that was once known as the Abigail Adams Smith Museum. The house is one of the last remaining buildings in Manhattan from the 17th century. It was meant for the Smith family, but ended up serving as a carriage house and stable instead. The building was converted into a hotel during the 1800s.",
-    "info": null
+    "description": "The Mount Vernon Hotel Museum & Garden is a historic antebellum residential building near the East River that was once known as the Abigail Adams Smith Museum. The house is one of the last remaining buildings in Manhattan from the 17th century. It was meant for the Smith family, but ended up serving as a carriage house and stable instead.",
+    "info": null,
+    "categories": ["museum", "historic", "nature"],
+    "url": "https://www.mvhm.org/"
   },
   {
     "name": "House of the Redeemer",
@@ -203,8 +247,10 @@
     "lon": -73.9552479,
     "icon": null,
     "imageURL": null,
-    "description": "Townhouse now owned by Epsicopal Church; has events & very affordable hotel",
-    "info": null
+    "description": "Townhouse now owned by Episcopal Church; has events & very affordable hotel.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://houseofredeemer.org/"
   },
   {
     "name": "The Jewish Museum",
@@ -212,8 +258,10 @@
     "lon": -73.957351,
     "icon": null,
     "imageURL": null,
-    "description": "The Jewish Museum, located on Manhattan's Museum Mile, is the oldest Jewish museum in the world. The museum has more than 30,000 objects on display and runs multiple temporary exhibits throughout the year. Some of the better known artists with pieces housed in the collection are Marc Chagall, George Segal, Eleanor Antin, and Deborah Kass.<br><br>Highlights<br>Here are some of the \"must see\" items at The Jewish Museum.<br><br>Self-Portrait with Camera<br>Ten Portraits of Jews of the 20th Century<br>Old Man with Beard",
-    "info": null
+    "description": "The Jewish Museum, located on Manhattan's Museum Mile, is the oldest Jewish museum in the world. The museum has more than 30,000 objects on display and runs multiple temporary exhibits throughout the year. Some of the better known artists with pieces housed in the collection are Marc Chagall, George Segal, Eleanor Antin, and Deborah Kass.",
+    "info": null,
+    "categories": ["museum", "religious", "art"],
+    "url": "https://thejewishmuseum.org/"
   },
   {
     "name": "The American Irish Historical Society",
@@ -221,8 +269,10 @@
     "lon": -73.962785,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Cultural institution dedicated to preserving Irish-American history and heritage.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://aihs.org/"
   },
   {
     "name": "Roosevelt House Public Policy Institute at Hunter College",
@@ -230,8 +280,10 @@
     "lon": -73.9676792,
     "icon": null,
     "imageURL": null,
-    "description": "Roosevelt House \u2014 the former double townhouse of Franklin, Eleanor and Sara Delano Roosevelt, and now owned by Hunter College \u2014 offers visitors a chance to get closer to a family as unique as the city they inhabited, and to explore the private spaces where some of the most iconic public policy of the 20th century was shaped.<br>tours for individuals on saturday",
-    "info": null
+    "description": "Roosevelt House — the former double townhouse of Franklin, Eleanor and Sara Delano Roosevelt, and now owned by Hunter College — offers visitors a chance to get closer to a family as unique as the city they inhabited, and to explore the private spaces where some of the most iconic public policy of the 20th century was shaped. Tours for individuals on Saturday.",
+    "info": null,
+    "categories": ["historic", "museum"],
+    "url": "https://www.roosevelthouse.hunter.cuny.edu/"
   },
   {
     "name": "Institute for Studies on Latin American Art (ISLAA)",
@@ -239,8 +291,10 @@
     "lon": -73.9622261,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Research institute and gallery focusing on Latin American art and culture.",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.islaa.org/"
   },
   {
     "name": "Carl Schurz Park",
@@ -248,8 +302,10 @@
     "lon": -73.9436973,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Waterfront park along the East River with stunning views and playgrounds.",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": "https://www.nycgovparks.org/parks/carl-schurz-park"
   },
   {
     "name": "Logos Bookstore",
@@ -257,8 +313,10 @@
     "lon": -73.9485114,
     "icon": null,
     "imageURL": null,
-    "description": "religious bookstore",
-    "info": null
+    "description": "Religious bookstore specializing in Christian and theological texts.",
+    "info": null,
+    "categories": ["bookstore", "religious"],
+    "url": null
   },
   {
     "name": "Kitchen Arts & Letters, books on food and drink",
@@ -266,8 +324,10 @@
     "lon": -73.9519732,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty bookstore devoted entirely to books about food and drink.",
+    "info": null,
+    "categories": ["bookstore", "food"],
+    "url": "https://www.kitchenartsandletters.com/"
   },
   {
     "name": "Schaller & Weber",
@@ -275,8 +335,10 @@
     "lon": -73.9517706,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional German delicatessen and butcher shop since 1937.",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": "https://www.schallerweber.com/"
   },
   {
     "name": "Brandy's Piano Bar",
@@ -284,8 +346,10 @@
     "lon": -73.9534479,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Intimate piano bar featuring live music and cabaret performances.",
+    "info": null,
+    "categories": ["drinking", "music"],
+    "url": "https://brandyspianobar.com/"
   },
   {
     "name": "Park Avenue Christian Church",
@@ -293,8 +357,10 @@
     "lon": -73.95809,
     "icon": null,
     "imageURL": null,
-    "description": "also used as a synagogue",
-    "info": null
+    "description": "Also used as a synagogue, this interfaith space serves multiple communities.",
+    "info": null,
+    "categories": ["religious"],
+    "url": "https://www.pacchurch.org/"
   },
   {
     "name": "Institute for the Study of the Ancient World",
@@ -302,8 +368,10 @@
     "lon": -73.9602626,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "NYU institute with exhibitions on ancient civilizations and cultures.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://isaw.nyu.edu/"
   },
   {
     "name": "Tiny Doll House",
@@ -311,8 +379,10 @@
     "lon": -73.9549243,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty shop selling miniature dollhouses and accessories.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": "https://www.tinydollhouse.com/"
   },
   {
     "name": "Webster Library",
@@ -320,8 +390,10 @@
     "lon": -73.9513239,
     "icon": null,
     "imageURL": null,
-    "description": "Book Cellar used bookstore",
-    "info": null
+    "description": "Book Cellar used bookstore housed within the library.",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": null
   },
   {
     "name": "John Finley Walk",
@@ -329,8 +401,10 @@
     "lon": -73.9496591,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Scenic esplanade along the East River with Manhattan skyline views.",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "Sotheby's New York",
@@ -338,8 +412,10 @@
     "lon": -73.9537935,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "World-renowned auction house with regular exhibitions and sales.",
+    "info": null,
+    "categories": ["art", "shopping"],
+    "url": "https://www.sothebys.com/"
   },
   {
     "name": "Theosophy Hall Library",
@@ -347,8 +423,10 @@
     "lon": -73.956636,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Library specializing in theosophical and spiritual texts.",
+    "info": null,
+    "categories": ["bookstore", "religious"],
+    "url": "https://www.theosophynyc.org/"
   },
   {
     "name": "St. Jean Baptiste Church",
@@ -357,7 +435,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Historically catering to the French-Canadian population of the Upper East Side, this Catholic parish church was designed by an award-winning Italian architect influenced by the styles of Mannerism. Named a city landmark in 1969, the church is distinguished as one of the only ones in NYC with a dome.",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://www.sjbnyc.org/"
   },
   {
     "name": "ZITOMER",
@@ -365,8 +445,10 @@
     "lon": -73.9635571,
     "icon": null,
     "imageURL": null,
-    "description": "Zitomer is the ultimate version of a uniquely Manhattan phenomenon: The fancy, retro pharmacy where you can get your prescriptions filled but also easily drop $600 on velvet headbands. This wacky three-story storefront on Madison Avenue is a microcosm of everything that's simultaneously appealing and vexatious about the Upper East Side. You'll find lots of old-school hair accessories, fancy European toothpaste, an extensive lineup of bath and body products from Molton Brown and Kiehl's, decorative compact mirrors, and zip pouches that say things like \"But First, Xanax.\"",
-    "info": null
+    "description": "Zitomer is the ultimate version of a uniquely Manhattan phenomenon: The fancy, retro pharmacy where you can get your prescriptions filled but also easily drop $600 on velvet headbands. This wacky three-story storefront on Madison Avenue is a microcosm of everything that's simultaneously appealing and vexatious about the Upper East Side.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": "https://zitomer.com/"
   },
   {
     "name": "Creel and Gow",
@@ -374,8 +456,10 @@
     "lon": -73.9635084,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Boutique specializing in natural history curiosities, fossils, and taxidermy.",
+    "info": null,
+    "categories": ["shopping", "nature", "quirky"],
+    "url": "https://www.creelandgow.com/"
   },
   {
     "name": "The Rockefeller University",
@@ -383,8 +467,10 @@
     "lon": -73.9556762,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Private research university known for biomedical sciences with beautiful campus architecture.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.rockefeller.edu/"
   },
   {
     "name": "The Met Breuer",
@@ -392,8 +478,10 @@
     "lon": -73.9638013,
     "icon": null,
     "imageURL": null,
-    "description": "look for 'Dwellings\" - This miniature village stays behind in the Breuer Building, even as the museums around it come and go. THE BREUER BUILDING HAS BEEN home to three different museums since its construction in 1966: first the Whitney, which still owns the property, then it was a branch of the Met for four years, and now it\u2019s the temporary home of the Frick Collection while that organization\u2019s own building undergoes renovations. But even as exhibits have rotated in and out, ranging from European masters to American sculpture to ephemeral performance art, one piece of sculpture has remained with the building, hidden away in the main stairwell.<br><br>On the landing between the first and second floors, just above the window that looks out onto Madison Avenue, there is a small sculpture of a village by Charles Simonds entitled \u201cDwellings.\u201d",
-    "info": null
+    "description": "Look for 'Dwellings' - This miniature village stays behind in the Breuer Building, even as the museums around it come and go. THE BREUER BUILDING HAS BEEN home to three different museums since its construction in 1966: first the Whitney, which still owns the property, then it was a branch of the Met for four years, and now it's the temporary home of the Frick Collection.",
+    "info": null,
+    "categories": ["museum", "art", "quirky"],
+    "url": "https://www.frick.org/"
   },
   {
     "name": "Acquavella",
@@ -401,8 +489,10 @@
     "lon": -73.962656,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "High-end gallery specializing in Impressionist and Modern art.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.acquavellagalleries.com/"
   },
   {
     "name": "Ukrainian Institute of America",
@@ -411,7 +501,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Harry F. Sinclair House (now The Ukrainian Institute), an elaborate mansion with most of the original design intact.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": "https://www.ukrainianinstitute.org/"
   },
   {
     "name": "Institute of Fine Arts, New York University",
@@ -419,8 +511,10 @@
     "lon": -73.9636387,
     "icon": null,
     "imageURL": null,
-    "description": "The James B. Duke House (today NYU Institute of Fine Arts) modeled after a French ch\u00e2teau, this was the home of Doris Duke, the \u201crichest girl in the world.\u201d",
-    "info": null
+    "description": "The James B. Duke House (today NYU Institute of Fine Arts) modeled after a French château, this was the home of Doris Duke, the richest girl in the world.",
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": "https://www.nyu.edu/gsas/dept/fineart/"
   },
   {
     "name": "86 St",
@@ -428,8 +522,10 @@
     "lon": -73.9515698,
     "icon": null,
     "imageURL": null,
-    "description": "Chuck Close murals",
-    "info": null
+    "description": "Chuck Close murals located in the subway station.",
+    "info": null,
+    "categories": ["art", "landmark"],
+    "url": null
   },
   {
     "name": "Church of the Heavenly Rest",
@@ -437,8 +533,10 @@
     "lon": -73.958182,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Episcopal church known for its beautiful Gothic Revival architecture.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.heavenlyrest.org/"
   },
   {
     "name": "La Casa Azul Bookstore",
@@ -446,8 +544,10 @@
     "lon": -73.947901,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Bilingual bookstore specializing in Spanish and Latino literature.",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://lacasaazulbooks.com/"
   },
   {
     "name": "The Poet's Den Theater",
@@ -455,8 +555,10 @@
     "lon": -73.9406194,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Intimate theater space featuring poetry readings and spoken word performances.",
+    "info": null,
+    "categories": ["theater"],
+    "url": "https://www.thepoetsden.com/"
   },
   {
     "name": "Ursus Books & Gallery",
@@ -464,8 +566,10 @@
     "lon": -73.962207,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Rare books and prints specializing in art, architecture, and photography.",
+    "info": null,
+    "categories": ["bookstore", "art"],
+    "url": "https://www.ursusbooks.com/"
   },
   {
     "name": "Gagosian",
@@ -473,8 +577,10 @@
     "lon": -73.9635069,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Major contemporary art gallery representing leading artists worldwide.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://gagosian.com/"
   },
   {
     "name": "Castelli Gallery",
@@ -482,8 +588,10 @@
     "lon": -73.963708,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic gallery that helped establish the careers of many major contemporary artists.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://castelligallery.com/"
   },
   {
     "name": "Herbert N. Straus House",
@@ -491,8 +599,10 @@
     "lon": -73.9664548,
     "icon": null,
     "imageURL": null,
-    "description": "Jeffrey Epstein home",
-    "info": null
+    "description": "Historic mansion with controversial recent history, originally built for the Straus family of Macy's fame.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Henderson Place",
@@ -500,26 +610,10 @@
     "lon": -73.9449495,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Museum of Comic and Cartoon Art",
-    "lat": 40.7647489,
-    "lon": -73.9668883,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Pasteur Pharmacy/Newton-Timmermann Pharmacy",
-    "lat": 40.7643053,
-    "lon": -73.9668735,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic row of Queen Anne-style houses from the 1880s.",
+    "info": null,
+    "categories": ["historic", "neighborhood", "landmark"],
+    "url": null
   },
   {
     "name": "The Pierre, A Taj Hotel, New York",
@@ -527,8 +621,10 @@
     "lon": -73.9718937,
     "icon": null,
     "imageURL": null,
-    "description": "afternoon tea",
-    "info": null
+    "description": "Luxury hotel offering elegant afternoon tea service.",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.tajhotels.com/en-in/the-pierre-new-york/"
   },
   {
     "name": "Roosevelt Island Visual Arts Association (RIVAA)",
@@ -536,8 +632,10 @@
     "lon": -73.950475,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Community arts organization featuring local artists and exhibitions.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.rivaa.org/"
   },
   {
     "name": "Blackwell House",
@@ -545,8 +643,10 @@
     "lon": -73.9511041,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic farmhouse on Roosevelt Island dating to 1796.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.rihs.us/blackwell-house"
   },
   {
     "name": "Lighthouse Park",
@@ -554,8 +654,10 @@
     "lon": -73.9409515,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Park on Roosevelt Island featuring ruins of a historic lighthouse.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
   },
   {
     "name": "El Museo del Barrio",
@@ -563,8 +665,10 @@
     "lon": -73.9514063,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Museum dedicated to Latino, Caribbean, and Latin American art and culture.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.elmuseo.org/"
   },
   {
     "name": "Graffiti Hall of Fame",
@@ -572,8 +676,10 @@
     "lon": -73.9480696,
     "icon": null,
     "imageURL": null,
-    "description": "For over 30 years the walls of this Harlem schoolyard have been a gallery of street art by \"Kings and better.\"",
-    "info": null
+    "description": "For over 30 years the walls of this Harlem schoolyard have been a gallery of street art by Kings and better.",
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "Saint Cecilia's Parish",
@@ -581,8 +687,10 @@
     "lon": -73.9470718,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic Catholic church in East Harlem.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.saintceciliaparish.org/"
   },
   {
     "name": "Museum of the City of New York",
@@ -590,8 +698,10 @@
     "lon": -73.9519089,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Museum dedicated to the history, culture, and future of New York City.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.mcny.org/"
   },
   {
     "name": "New York Academy of Medicine",
@@ -599,8 +709,10 @@
     "lon": -73.9523826,
     "icon": null,
     "imageURL": null,
-    "description": "The New York Academy of Medicine, a neo-Romanesque building by York and Sawyer, was constructed 1925\u20131926, and is an Art Deco interpretation of the Romanesque style of architecture. The Academy is also home to one of the largest history of medicine libraries in the country, a library that has been open to the public for use since 1878.",
-    "info": null
+    "description": "The New York Academy of Medicine, a neo-Romanesque building by York and Sawyer, was constructed 1925–1926, and is an Art Deco interpretation of the Romanesque style of architecture. The Academy is also home to one of the largest history of medicine libraries in the country, a library that has been open to the public for use since 1878.",
+    "info": null,
+    "categories": ["historic", "bookstore", "landmark"],
+    "url": "https://www.nyam.org/"
   },
   {
     "name": "Asphalt Green - Upper East Side campus",
@@ -608,8 +720,10 @@
     "lon": -73.9440973,
     "icon": null,
     "imageURL": null,
-    "description": "mid-century modern",
-    "info": null
+    "description": "Mid-century modern fitness and community center with pools and sports facilities.",
+    "info": null,
+    "categories": ["sports", "landmark"],
+    "url": "https://www.asphaltgreen.org/"
   },
   {
     "name": "Czech Center New York",
@@ -617,8 +731,10 @@
     "lon": -73.9564804,
     "icon": null,
     "imageURL": null,
-    "description": "One of many social halls built in the nineteenth century for the city's immigrant ethnic communities, the Bohemian National Hall is a rare survivor that has both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation. Today it is a vibrant cultural hub featuring art galleries, a Grand Ballroom, a rooftop terrace, cinema, library, and more. The Czech Center's five-story building was designed by William C. Frohne in the Renaissance Revival style, built in 1896 and renovated in 2008. It is a rare survivor of the many social halls built in the nineteenth century for New York City's immigrant ethnic communities, with both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation.<br><br>Bohemian National Hall hosts many cultural events and celebrates the arts, film, literature, music, education and more. It is also a monument to the history of immigrants in New York City and the United States. The building boasts five floors of modern surprises, including two art galleries, a Grand Ballroom, a rooftop terrace with great city views, a cinema, the Dvo\u0159\u00e1k Study, and the V\u00e1clav Havel Library Foundation. In the travel guide, 111 Places in New York That You Must Not Miss, Bohemian National Hall is described as \"a little-known treasure, a postmodern surprise, encouraging dynamic dialogue between American and Czech communities that has become a vibrant cultural venue for new generations of New Yorkers.\u201d",
-    "info": null
+    "description": "One of many social halls built in the nineteenth century for the city's immigrant ethnic communities, the Bohemian National Hall is a rare survivor that has both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during its renovation. Today it is a vibrant cultural hub featuring art galleries, a Grand Ballroom, a rooftop terrace, cinema, library, and more.",
+    "info": null,
+    "categories": ["historic", "art", "cinema"],
+    "url": "https://www.czechcenter.org/"
   },
   {
     "name": "Roosevelt Island Visitor Center Kiosk",
@@ -626,8 +742,10 @@
     "lon": -73.9547069,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Information center for Roosevelt Island visitors and tourists.",
+    "info": null,
+    "categories": ["landmark"],
+    "url": null
   },
   {
     "name": "Cornell Tech",
@@ -635,8 +753,10 @@
     "lon": -73.9562301,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Graduate school campus known for innovative technology education and modern architecture.",
+    "info": null,
+    "categories": ["landmark"],
+    "url": "https://www.tech.cornell.edu/"
   },
   {
     "name": "Smallpox Memorial Hospital",
@@ -645,7 +765,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A crumbling hospital from the 1850s on Roosevelt Island.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": null
   },
   {
     "name": "Wildlife Freedom Foundation",
@@ -653,8 +775,10 @@
     "lon": -73.9567731,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Organization dedicated to wildlife conservation and education.",
+    "info": null,
+    "categories": ["nature"],
+    "url": "https://wildlifefreedom.org/"
   },
   {
     "name": "Franklin D. Roosevelt Four Freedoms State Park",
@@ -662,8 +786,10 @@
     "lon": -73.960524,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Memorial park designed by Louis Kahn honoring FDR's Four Freedoms speech.",
+    "info": null,
+    "categories": ["park", "historic", "landmark"],
+    "url": "https://parks.ny.gov/parks/148/details.aspx"
   },
   {
     "name": "Saint Nicholas Russian Orthodox Cathedral",
@@ -671,8 +797,10 @@
     "lon": -73.9540639,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Beautiful Russian Orthodox cathedral with traditional onion domes.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.russianorthodoxcathedral.org/"
   },
   {
     "name": "Cultural Services of the French Embassy",
@@ -681,7 +809,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The Payne Whitney House (today Cultural Services, Embassy of France) where a statue by the teenage Michelangelo was rediscovered in the 1990s.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": "https://frenchculture.org/"
   },
   {
     "name": "Otto H. Kahn House",
@@ -689,17 +819,21 @@
     "lon": -73.9578464,
     "icon": null,
     "imageURL": null,
-    "description": "The home of Otto Kahn one of the most famous bon vivant of the 1920s who may have been the inspiration for \u201cMr. Monopoly.\u201d",
-    "info": null
+    "description": "The home of Otto Kahn one of the most famous bon vivant of the 1920s who may have been the inspiration for Mr. Monopoly.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
-    "name": "Tzu Chi Center \u6148\u6fdf\u5927\u611b\u4eba\u6587\u4e2d\u5fc3",
+    "name": "Tzu Chi Center 慈濟大愛人文中心",
     "lat": 40.761848,
     "lon": -73.964733,
     "icon": null,
     "imageURL": null,
-    "description": "The Tzu Chi Center for Compassionate Relief honors the history of global missions of humanitarianism and its trajectory into the 21st century. The Buddhist Tzu Chi Foundation has also played a major role in emergency response and relief work for minority groups in New York City for the past 33 years. Nestled in Midtown East, the Center is a welcoming space where visitors can learn about the impact of the Foundation both locally and globally through thematic exhibitions, reflect and connect with themselves and others through tea ceremonies and flower arrangement, and get inspired to participate in volunteer events in the future to help others in need.",
-    "info": null
+    "description": "The Tzu Chi Center for Compassionate Relief honors the history of global missions of humanitarianism and its trajectory into the 21st century. The Buddhist Tzu Chi Foundation has also played a major role in emergency response and relief work for minority groups in New York City for the past 33 years.",
+    "info": null,
+    "categories": ["religious", "museum"],
+    "url": "https://www.tzuchi.us/"
   },
   {
     "name": "AS/COA New York | Americas Society/Council of the Americas",
@@ -707,8 +841,10 @@
     "lon": -73.9659624,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Organization promoting understanding of the Western Hemisphere through cultural programs.",
+    "info": null,
+    "categories": ["art", "historic"],
+    "url": "https://www.as-coa.org/"
   },
   {
     "name": "The Africa Center",
@@ -716,8 +852,10 @@
     "lon": -73.9493248,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Cultural institution dedicated to African art, culture, and contemporary issues.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://theafricacenter.org/"
   },
   {
     "name": "Christ Church NYC",
@@ -725,7 +863,9 @@
     "lon": -73.9695583,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Episcopal church known for its community outreach and beautiful architecture.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.christchurchnyc.org/"
   }
 ]
