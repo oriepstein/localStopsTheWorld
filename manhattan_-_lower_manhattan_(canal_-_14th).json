@@ -5,8 +5,10 @@
     "lon": -73.9934843,
     "icon": null,
     "imageURL": null,
-    "description": "staircase is recreation of 5pointz",
-    "info": null
+    "description": "Modern hotel featuring a striking staircase that recreates the famous 5Pointz graffiti mecca",
+    "info": null,
+    "categories": ["landmark", "art"],
+    "url": "https://www.citizenm.com/hotels/new-york/bowery"
   },
   {
     "name": "Dixon Place",
@@ -14,8 +16,10 @@
     "lon": -73.9928199,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Experimental theater and performance space showcasing cutting-edge contemporary works",
+    "info": null,
+    "categories": ["theater", "art"],
+    "url": "https://www.dixonplace.org/"
   },
   {
     "name": "Freeman Alley - Graffiti",
@@ -23,8 +27,10 @@
     "lon": -73.9925588,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic alley transformed into an outdoor street art gallery with ever-changing murals",
+    "info": null,
+    "categories": ["art", "neighborhood"],
+    "url": null
   },
   {
     "name": "Bluestockings Cooperative Bookstore",
@@ -32,8 +38,10 @@
     "lon": -73.9859184,
     "icon": null,
     "imageURL": null,
-    "description": "New York City's only radical feminist independent bookstore.",
-    "info": null
+    "description": "New York City's only radical feminist independent bookstore and community space",
+    "info": null,
+    "categories": ["bookstore", "art"],
+    "url": "https://bluestockings.com/"
   },
   {
     "name": "New Museum",
@@ -41,8 +49,10 @@
     "lon": -73.9928905,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art museum in a striking Bowery building, dedicated to new art and new ideas",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.newmuseum.org/"
   },
   {
     "name": "Kehila Kedosha Janina Synagogue and Museum",
@@ -50,8 +60,10 @@
     "lon": -73.99118,
     "icon": null,
     "imageURL": null,
-    "description": "only Romaniote synagogue in the Western hemisphere;\u00a0the only Greek Romaniote synagogue in the Western Hemisphere. Learn about the history and traditions of Romaniote Jews, who date back over 2,000 years in Greece, and marvel at this nearly 100-year-old active synagogue building that was restored to its original beauty from 1927. The synagogue also houses a museum on the history of Greek Jews and stands as a testament to the Jewish immigrant history of the Lower East Side, especially families who immigrated from Greece, Turkey, and the Balkans.",
-    "info": null
+    "description": "The only Romaniote synagogue in the Western hemisphere and museum documenting Greek Jewish history",
+    "info": null,
+    "categories": ["religious", "museum", "historic"],
+    "url": "https://www.kkjsm.org/"
   },
   {
     "name": "Economy Candy",
@@ -59,8 +71,10 @@
     "lon": -73.987861,
     "icon": null,
     "imageURL": null,
-    "description": "Established in 1937, the oldest candy shop in New York City boasts a rainbow-colored inventory that would make Willy Wonka envious.",
-    "info": null
+    "description": "The oldest candy shop in New York City, established in 1937, with a rainbow-colored inventory",
+    "info": null,
+    "categories": ["food", "shopping", "historic"],
+    "url": "https://www.economycandy.com/"
   },
   {
     "name": "Tenement Museum",
@@ -68,8 +82,10 @@
     "lon": -73.9900876,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Preserved tenement building showcasing the immigrant experience in historic Lower East Side apartments",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.tenement.org/"
   },
   {
     "name": "Angel Orensanz Foundation",
@@ -77,8 +93,10 @@
     "lon": -73.9857196,
     "icon": null,
     "imageURL": null,
-    "description": "The oldest surviving synagogue in New York City is now a soaring art space.",
-    "info": null
+    "description": "The oldest surviving synagogue in New York City, now a soaring contemporary art space",
+    "info": null,
+    "categories": ["art", "historic", "religious"],
+    "url": "https://www.orensanz.org/"
   },
   {
     "name": "International Center of Photography Museum",
@@ -86,8 +104,10 @@
     "lon": -73.9886867,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Premier photography museum featuring contemporary and historical exhibitions",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.icp.org/"
   },
   {
     "name": "Museum at Eldridge Street",
@@ -95,8 +115,10 @@
     "lon": -73.9935561,
     "icon": null,
     "imageURL": null,
-    "description": "America's oldest Eastern European synagogue provided the immigrants of crowded Lower East Side tenements a space of sanctuary.",
-    "info": null
+    "description": "America's oldest Eastern European synagogue, a sanctuary for Lower East Side immigrants",
+    "info": null,
+    "categories": ["museum", "historic", "religious"],
+    "url": "https://www.eldridgestreet.org/"
   },
   {
     "name": "The Pickle Guys",
@@ -104,8 +126,10 @@
     "lon": -73.989062,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional pickle shop serving the Lower East Side community with authentic Jewish-style pickles",
+    "info": null,
+    "categories": ["food", "historic"],
+    "url": "https://www.picklestore.com/"
   },
   {
     "name": "Caveat",
@@ -113,8 +137,10 @@
     "lon": -73.984434,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Comedy club and performance space featuring nerdy comedy, science shows, and interactive entertainment",
+    "info": null,
+    "categories": ["theater", "music"],
+    "url": "https://www.caveat.nyc/"
   },
   {
     "name": "Abrons Arts Center",
@@ -122,8 +148,10 @@
     "lon": -73.9837917,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Multi-disciplinary arts center presenting theater, dance, music, and visual arts programming",
+    "info": null,
+    "categories": ["art", "theater", "music"],
+    "url": "https://www.henrystreet.org/abrons"
   },
   {
     "name": "Lower East Side Ecology Center",
@@ -131,17 +159,21 @@
     "lon": -73.9761295,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Environmental organization promoting sustainability through composting, recycling, and urban ecology programs",
+    "info": null,
+    "categories": ["nature", "art"],
+    "url": "https://www.lesecologycenter.org/"
   },
   {
-    "name": "M\u2019Finda Kalunga Garden",
+    "name": "M'Finda Kalunga Garden",
     "lat": 40.7211097,
     "lon": -73.991875,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Community garden dedicated to African diaspora culture and healing traditions",
+    "info": null,
+    "categories": ["nature", "park", "art"],
+    "url": null
   },
   {
     "name": "TEATRO SEA",
@@ -149,17 +181,21 @@
     "lon": -73.9862313,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Latino theater company presenting bilingual performances and educational programs",
+    "info": null,
+    "categories": ["theater", "art"],
+    "url": "https://www.sea-ny.org/"
   },
   {
-    "name": "The Clemente Soto V\u00e9lez Cultural & Educational Center",
+    "name": "The Clemente Soto Vélez Cultural & Educational Center",
     "lat": 40.7192633,
     "lon": -73.9861142,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Multi-use cultural center housed in a former public school, featuring theaters and galleries",
+    "info": null,
+    "categories": ["art", "theater", "historic"],
+    "url": "https://www.csvculturalcenter.org/"
   },
   {
     "name": "Shi Eurasia",
@@ -167,8 +203,10 @@
     "lon": -73.9916818,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Gallery and cultural space focusing on contemporary Asian and Eurasian art",
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "601Artspace",
@@ -176,8 +214,10 @@
     "lon": -73.992177,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery featuring emerging and established international artists",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.601artspace.com/"
   },
   {
     "name": "Pier 35",
@@ -185,8 +225,10 @@
     "lon": -73.9884141,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "East River waterfront pier offering stunning Manhattan skyline views and recreational activities",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "CW Pencil Enterprise",
@@ -194,8 +236,10 @@
     "lon": -73.9919334,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty shop dedicated entirely to pencils from around the world",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": "https://cwpencils.com/"
   },
   {
     "name": "Metrograph",
@@ -203,8 +247,10 @@
     "lon": -73.9911467,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Boutique cinema showing new releases, restored classics, and rare films with restaurant and bookstore",
+    "info": null,
+    "categories": ["cinema", "bookstore", "food"],
+    "url": "https://metrograph.com/"
   },
   {
     "name": "Daredevil Tattoo",
@@ -212,8 +258,10 @@
     "lon": -73.9908657,
     "icon": null,
     "imageURL": null,
-    "description": "This iconic tattoo shop has its own onsite museum with artifacts from the early history of modern body art.",
-    "info": null
+    "description": "Iconic tattoo shop with its own onsite museum featuring artifacts from early body art history",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.daredeviltattoo.com/"
   },
   {
     "name": "Aeon Bookstore",
@@ -221,8 +269,10 @@
     "lon": -73.9909233,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Independent bookstore specializing in philosophy, theory, and critical thought",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": null
   },
   {
     "name": "St Augustine's Episcopal Church",
@@ -230,8 +280,10 @@
     "lon": -73.9831808,
     "icon": null,
     "imageURL": null,
-    "description": "High above the pews, behind the balcony, at the very back of St. Augustine\u2019s Episcopal Church, there exists a physical reminder of a time in American history that most churches have chosen to erase. Located at 290 Henry Street in Manhattan\u2019s Lower East Side, St. Augustine\u2019s is one of the few remaining churches in the country to retain its \u201cslave galleries,\u201d small, hidden rooms at the back of the church designed in the 1820\u2019s as seating for enslaved African Americans. It was there that enslaved people were placed sit out of sight of the white congregation during church services.",
-    "info": null
+    "description": "Historic church preserving rare slave galleries, hidden rooms designed for enslaved African Americans in the 1820s",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.staugustineschurchnyc.org/"
   },
   {
     "name": "Bialystoker Synagogue",
@@ -239,8 +291,10 @@
     "lon": -73.9832028,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic Orthodox synagogue built in 1826, originally a Methodist church",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.bialystoker.org/"
   },
   {
     "name": "PERROTIN NEW YORK",
@@ -248,8 +302,10 @@
     "lon": -73.9892543,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery representing international emerging and established artists",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.perrotin.com/"
   },
   {
     "name": "Alexander DiJulio",
@@ -257,8 +313,10 @@
     "lon": -73.9893283,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery featuring innovative works by emerging artists",
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "56 HENRY",
@@ -266,8 +324,10 @@
     "lon": -73.995165,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery showcasing cutting-edge works by international artists",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.56henry.com/"
   },
   {
     "name": "Biggies Bodega",
@@ -275,8 +335,10 @@
     "lon": -73.990969,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Iconic neighborhood bodega serving the Lower East Side community",
+    "info": null,
+    "categories": ["food", "neighborhood"],
+    "url": null
   },
   {
     "name": "Meow Parlour",
@@ -284,8 +346,10 @@
     "lon": -73.9902572,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Cat cafe where visitors can enjoy coffee while socializing with adoptable cats",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": "https://www.meowparlour.com/"
   },
   {
     "name": "Koneko",
@@ -293,8 +357,10 @@
     "lon": -73.9841387,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese-inspired cat cafe offering matcha and the company of adoptable cats",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": "https://konekonyc.com/"
   },
   {
     "name": "Jackie Robinson Museum",
@@ -302,8 +368,10 @@
     "lon": -74.0068304,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Museum dedicated to the baseball legend and civil rights pioneer Jackie Robinson",
+    "info": null,
+    "categories": ["museum", "historic", "sports"],
+    "url": "https://jackierobinson.org/"
   },
   {
     "name": "The Drawing Center",
@@ -311,8 +379,10 @@
     "lon": -74.0028554,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Museum dedicated to the art of drawing, featuring historical and contemporary works",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://drawingcenter.org/"
   },
   {
     "name": "Spring Street Salt Shed",
@@ -320,8 +390,10 @@
     "lon": -74.0105148,
     "icon": null,
     "imageURL": null,
-    "description": "This simple Manhattan salt house is artfully shaped... well, like a giant granule of salt.",
-    "info": null
+    "description": "Architecturally striking salt storage facility shaped like a giant granule of salt",
+    "info": null,
+    "categories": ["landmark", "quirky"],
+    "url": null
   },
   {
     "name": "American Numismatic Society",
@@ -329,8 +401,10 @@
     "lon": -74.0064435,
     "icon": null,
     "imageURL": null,
-    "description": "The organization for coin lovers was established back in 1858. In 1908 the numismatics were gifted land at 155th and Broadway, on which they constructed their first building, which had doubled in size by 1929. In 2008 the Society moved to their new HQ in SoHo, from which they offer public conferences, lectures, exhibitions, a Graduate Seminar in Numismatics, and a variety of fellowships and grants. The museums\u2019 collection include a staggering 800,000 coins, paper money, and related objects\u2014from Ancient Greek and Far Eastern coins, to series from the Colonial and Federal United States, to more than 50,000 medals from around the world. The society\u2019s research library includes 100,000 books, and is the most comprehensive collection of numismatic literature in existence.",
-    "info": null
+    "description": "Museum with 800,000 coins, paper money, and medals showcasing numismatic history",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://numismatics.org/"
   },
   {
     "name": "New York City Fire Museum",
@@ -338,8 +412,10 @@
     "lon": -74.0069444,
     "icon": null,
     "imageURL": null,
-    "description": "A museum collection honoring the long history of the FDNY is held in a disused Manhattan fire house.",
-    "info": null
+    "description": "Fire department history museum housed in a disused Manhattan firehouse",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.nycfiremuseum.org/"
   },
   {
     "name": "The Broken Kilometer",
@@ -347,8 +423,10 @@
     "lon": -74.0021075,
     "icon": null,
     "imageURL": null,
-    "description": "One kilometer of thick brass rod laid out before your eyes.",
-    "info": null
+    "description": "Walter De Maria's minimalist installation featuring one kilometer of brass rods",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.diaart.org/"
   },
   {
     "name": "Color Factory - NYC Interactive Art Museum",
@@ -356,8 +434,10 @@
     "lon": -74.0053337,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Immersive art experience featuring interactive color-themed installations",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.colorfactory.co/"
   },
   {
     "name": "The Basilica of St. Patrick's Old Cathedral",
@@ -365,8 +445,10 @@
     "lon": -73.9954348,
     "icon": null,
     "imageURL": null,
-    "description": "check out the crypts; The original Cathedral of the Archdiocese of New York, the Basilica of St. Patrick's Old Cathedral was built 200 years ago in what is now Chinatown. Steeped in history, the building was attacked by anti-Catholic rioters in 1836. Along with its sister church, the nearby Shrine Church of Most Precious Blood, Old St. Patrick\u2019s is a must-visit when strolling through Chinatown. (Pro tip: Take a walk through history with a candlelit tour of the catacombs beneath the church.)",
-    "info": null
+    "description": "Historic cathedral with crypts and catacombs tours, the original Cathedral of New York",
+    "info": null,
+    "categories": ["religious", "historic", "museum"],
+    "url": "https://oldcathedral.org/"
   },
   {
     "name": "Prada New York Broadway",
@@ -374,8 +456,10 @@
     "lon": -73.9974984,
     "icon": null,
     "imageURL": null,
-    "description": "Designed by Rem Koolhaas, the store\u2019s interior is dominated by a giant wooden wave that is part skateboard half-pipe, part runway, connecting two floors. The store is punctuated by other fun features that will distract you from the fact that this is a snobbish temple of pretension, like an enormous all-glass elevator that will provide you with a panorama of the shopping spectacle below and translucent changing rooms that fog over when occupied.",
-    "info": null
+    "description": "Rem Koolhaas-designed flagship store featuring a giant wooden wave and glass elevator",
+    "info": null,
+    "categories": ["shopping", "landmark"],
+    "url": "https://www.prada.com/"
   },
   {
     "name": "Judd Foundation",
@@ -383,8 +467,10 @@
     "lon": -73.9993609,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Preserved studios and spaces of minimalist artist Donald Judd",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://juddfoundation.org/"
   },
   {
     "name": "SoHo Cast Iron Historic District",
@@ -392,8 +478,10 @@
     "lon": -73.9998959,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic district featuring the world's largest collection of cast-iron architecture",
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Sonos Store",
@@ -401,8 +489,10 @@
     "lon": -74.0001278,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Audio technology flagship store with immersive listening experiences",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.sonos.com/"
   },
   {
     "name": "McNally Jackson Books SoHo",
@@ -410,8 +500,10 @@
     "lon": -74.0006905,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Independent bookstore with carefully curated selection and on-site printing press",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://www.mcnallyjackson.com/"
   },
   {
     "name": "39 Charlton St",
@@ -419,8 +511,10 @@
     "lon": -74.0047875,
     "icon": null,
     "imageURL": null,
-    "description": "one of the best & best preserved examples of Federal style whose exquisitely detailed entrances with original doors and leaded glass sidelights convey many of the style\u2019s most distinctive qualities",
-    "info": null
+    "description": "Exceptionally preserved Federal-style house with original doors and leaded glass sidelights",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "37 Charlton St",
@@ -428,17 +522,21 @@
     "lon": -74.0046957,
     "icon": null,
     "imageURL": null,
-    "description": "one of the best & best preserved examples of Federal style whose exquisitely detailed entrances with original doors and leaded glass sidelights convey many of the style\u2019s most distinctive qualities",
-    "info": null
+    "description": "Remarkably preserved Federal-style architecture with authentic period details",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
-    "name": "Charlton\u2013King\u2013Vandam Historic District",
+    "name": "Charlton–King–Vandam Historic District",
     "lat": 40.7276731,
     "lon": -74.0032221,
     "icon": null,
     "imageURL": null,
-    "description": "NY's greatest display of Federal style of houses.",
-    "info": null
+    "description": "New York's greatest display of Federal-style houses from the early 19th century",
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Thompson Chemists",
@@ -446,8 +544,10 @@
     "lon": -74.001023,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic pharmacy serving the SoHo community since the early 20th century",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
   },
   {
     "name": "Ear Inn",
@@ -455,8 +555,10 @@
     "lon": -74.0094833,
     "icon": null,
     "imageURL": null,
-    "description": "One of the city\u2019s oldest watering holes was originally the home of a famous James Brown (not that one).",
-    "info": null
+    "description": "One of NYC's oldest bars, originally the home of Revolutionary War veteran James Brown",
+    "info": null,
+    "categories": ["drinking", "historic"],
+    "url": "https://www.earinn.com/"
   },
   {
     "name": "HERE",
@@ -464,8 +566,10 @@
     "lon": -74.0048398,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Experimental theater and arts center presenting avant-garde performances",
+    "info": null,
+    "categories": ["theater", "art"],
+    "url": "https://here.org/"
   },
   {
     "name": "Urban Glass House",
@@ -473,8 +577,10 @@
     "lon": -74.0096809,
     "icon": null,
     "imageURL": null,
-    "description": "Philip Johnson's last project AIA: \"clunky cube cares not for its quirky surroundings...Tone-deaf",
-    "info": null
+    "description": "Philip Johnson's final architectural project, a controversial glass cube in SoHo",
+    "info": null,
+    "categories": ["landmark"],
+    "url": null
   },
   {
     "name": "Ronald Feldman Gallery",
@@ -482,8 +588,10 @@
     "lon": -74.0017338,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery representing established and emerging artists since 1971",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.feldmangallery.com/"
   },
   {
     "name": "Performing Garage",
@@ -491,8 +599,10 @@
     "lon": -74.0028487,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Experimental theater space and home to The Wooster Group since 1975",
+    "info": null,
+    "categories": ["theater", "art"],
+    "url": "https://thewoostergroup.org/"
   },
   {
     "name": "Leslie-Lohman Museum of Art",
@@ -500,8 +610,10 @@
     "lon": -74.00309,
     "icon": null,
     "imageURL": null,
-    "description": "The Leslie-Lohman Museum of Art, which was formerly known as The Leslie-Lohman Museum of Gay and Lesbian Art, is an art museum in Lower Manhattan that has put together a collection of visual art created by LGBTQ artists or art that chronicles the LGBTQ experience. The museum's permanent collection has more than 22,000 objects, and, as of late 2019, was the world's only museum exclusively focused on art that showcases the LGBTQ experienc",
-    "info": null
+    "description": "World's only museum exclusively focused on LGBTQ art and experience",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.leslielohman.org/"
   },
   {
     "name": "Film Forum",
@@ -509,8 +621,10 @@
     "lon": -74.00433,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Independent cinema showcasing foreign, documentary, and avant-garde films",
+    "info": null,
+    "categories": ["cinema"],
+    "url": "https://www.filmforum.org/"
   },
   {
     "name": "Housing Works Bookstore",
@@ -518,8 +632,10 @@
     "lon": -73.9965755,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Charity bookstore and cafe supporting people living with HIV/AIDS",
+    "info": null,
+    "categories": ["bookstore", "food"],
+    "url": "https://www.housingworks.org/"
   },
   {
     "name": "110 Greene St",
@@ -527,8 +643,10 @@
     "lon": -73.9995236,
     "icon": null,
     "imageURL": null,
-    "description": "Sidewalk Submay Map Plot your trip through the city on the sidewalk.",
-    "info": null
+    "description": "Site of the sidewalk subway map installation for planning your NYC trip",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": null
   },
   {
     "name": "Ardea Arts / Family Opera Initiative",
@@ -536,8 +654,10 @@
     "lon": -74.001344,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Arts organization creating family-friendly opera and musical theater productions",
+    "info": null,
+    "categories": ["theater", "music"],
+    "url": "https://www.ardeaarts.org/"
   },
   {
     "name": "Saturdays NYC Crosby St",
@@ -545,8 +665,10 @@
     "lon": -73.9993478,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Surf-inspired lifestyle brand combining coffee, clothing, and beach culture",
+    "info": null,
+    "categories": ["shopping", "food"],
+    "url": "https://www.saturdaysnyc.com/"
   },
   {
     "name": "REI",
@@ -554,17 +676,21 @@
     "lon": -73.9952085,
     "icon": null,
     "imageURL": null,
-    "description": "has display of lithographs from the buildings original use",
-    "info": null
+    "description": "Outdoor gear store featuring lithographs from the building's original use",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": "https://www.rei.com/"
   },
   {
-    "name": "Courr\u00e8ges",
+    "name": "Courrèges",
     "lat": 40.7214103,
     "lon": -74.0014821,
     "icon": null,
     "imageURL": null,
-    "description": "an example of the uber-hip instagrammification of soho shopping: How can you tell that Nicolas Di Felice\u2019s rebrand of Courr\u00e8ges is white-hot? First came the Dua Lipa and Bella Hadid sightings. Then the Instagram takeover\u2014fashion types of all stripes posting selfies and street style pics of themselves in the vinyl Reedition jacket Di Felice modeled after Andr\u00e9 Courr\u00e8ges\u2019s 1971 original, or the vinyl mini, or the vinyl over-the-knee boots\u2014sometimes all three at once. Now, there\u2019s a new corner boutique at 104 Grand Street in Soho, the brand\u2019s first in the US since the founder\u2019s days.<br><br>Vogue Club logo <br> ACCESS. COMMUNITY. EVENTS. MEMBERS GET MORE <br> JOIN THE CLUB<br>With three weeks to go until his fourth Paris runway show for the label Di Felice was in New York yesterday to show off the new space. A riff on its Rue Fran\u00e7ois Premiere flagship, it\u2019s all white walls and fixtures and gleaming mirrored surfaces, the better to show off the rainbow of Reedition vinyl pieces on the racks\u2014don\u2019t let these pictures fool you, the store is popping off with color. Designed by the Belgian architect Bernard Dubois, a classmate of Di Felice\u2019s at La Cambre in Brussels, it makes ample use of Courr\u00e8ges\u2019s geometries: A circular console at the center of the square room is echoed by the circular rack that displays the clothes, and the entirely mirrored dressing rooms provide reflections from all angles. \u201cBernard has a radicality and an idea of minimalism that I love,\u201d Di Felice says of the architect. The store\u2019s press release points out the \u201cclub grade spotlights\u201d on the ceiling. Part of Courr\u00e8ges\u2019s ascent is down to its artistic director\u2019s penchant for putting on rave-like dance parties. Last night\u2019s was at Nowadays in Brooklyn with br0nz3_g0dd3ss, Sene, Big Gay Idiot, and Bearcat on the deejay tables.<br><br>WATCH<br><br><br>A Glimpse Inside John Galliano\u2019s Treasure-Filled Hideaway in Northern France<br><br>Alexander Wang and the Danish import Ganni are on opposite corners, and like his new neighbors, Di Felice makes a point of keeping prices on the accessible side of luxury. \u201cYou know, back in the day, Andr\u00e9 was speaking to the young generation. I knew from my first week that it was part of the house,\u201d he told Vogue Runway\u2019s Sarah Mower at his men\u2019s presentation in June. \u201cSo I really want young people to be able to afford the clothes; to make it, let\u2019s say, more accessible.\u201d There\u2019s equally as much menswear on display in the new boutique, including a vinyl trucker jacket. \u201cI was scared of the shiny aspect, \u201c Di Felice said, \u201cbut they really go for it.\u201d Yes, the Courr\u00e8ges hot streak seems likely to continue.",
-    "info": null
+    "description": "Ultra-modern fashion flagship showcasing the revitalized French designer brand",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.courreges.com/"
   },
   {
     "name": "Scent Bar NYC",
@@ -572,8 +698,10 @@
     "lon": -73.9937234,
     "icon": null,
     "imageURL": null,
-    "description": "Memorialize your time in SoHo with a customized cosmetic purchase. The Scent Bar by Lucky Scent lets you design your own perfume and signature fragrance.",
-    "info": null
+    "description": "Custom perfume boutique where you can design your own signature fragrance",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://luckyscent.com/"
   },
   {
     "name": "Jeffrey Deitch",
@@ -581,8 +709,10 @@
     "lon": -74.003056,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery known for provocative and cutting-edge exhibitions",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.deitch.com/"
   },
   {
     "name": "Mulberry Street Library",
@@ -590,8 +720,10 @@
     "lon": -73.9955922,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Branch of the New York Public Library serving the SoHo and Nolita communities",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://www.nypl.org/"
   },
   {
     "name": "Jersey Street",
@@ -599,8 +731,10 @@
     "lon": -73.9958753,
     "icon": null,
     "imageURL": null,
-    "description": "more alley then street",
-    "info": null
+    "description": "Narrow alley-like street showcasing SoHo's intimate urban scale",
+    "info": null,
+    "categories": ["neighborhood", "quirky"],
+    "url": null
   },
   {
     "name": "Triangle Shirtwaist Factory",
@@ -608,8 +742,10 @@
     "lon": -73.9954675,
     "icon": null,
     "imageURL": null,
-    "description": "The site of the deadly Triangle Shirtwaist Factory Fire.",
-    "info": null
+    "description": "Memorial site of the 1911 Triangle Shirtwaist Factory Fire that killed 146 workers",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Time Landscape",
@@ -617,8 +753,10 @@
     "lon": -73.9995168,
     "icon": null,
     "imageURL": null,
-    "description": "NW corner of W Houston & La Guardia Pl - \"living\" artwork/park - plot of land consisting of plants that would have existed on that site in pre-colonial times.",
-    "info": null
+    "description": "Living artwork featuring pre-colonial plants that would have existed on this site",
+    "info": null,
+    "categories": ["art", "nature", "park"],
+    "url": null
   },
   {
     "name": "The Evolution Store",
@@ -626,8 +764,10 @@
     "lon": -73.9947995,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Natural history store selling fossils, minerals, taxidermy, and scientific curiosities",
+    "info": null,
+    "categories": ["shopping", "nature"],
+    "url": "https://www.theevolutionstore.com/"
   },
   {
     "name": "Fales Library",
@@ -635,8 +775,10 @@
     "lon": -73.9971896,
     "icon": null,
     "imageURL": null,
-    "description": "home to the riot grrl collection:\u00a0A collection of fanzines, recordings, and documents detailing the rise and influence of the feminist punk movement.",
-    "info": null
+    "description": "NYU library housing the riot grrrl collection documenting the feminist punk movement",
+    "info": null,
+    "categories": ["bookstore", "museum"],
+    "url": "https://library.nyu.edu/"
   },
   {
     "name": "Sullivan Street Tea & Spice Company",
@@ -644,8 +786,10 @@
     "lon": -74.000276,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty shop offering exotic teas and spices from around the world",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": null
   },
   {
     "name": "Judson Memorial Church",
@@ -653,8 +797,10 @@
     "lon": -73.9983832,
     "icon": null,
     "imageURL": null,
-    "description": "Liberal & arts-oriented church with gorgeous stained glass windows; An Evangelical-Baptist church, Judson became a famous performing and visual arts space in the 1900s. It has since showcased works by everyone from painter Robert Rauschenberg to Yoko Ono and choreographer Trisha Brown, founder of Judson Dance Theater. Long dedicated to social outreach causes, including women\u2019s rights and AIDS resources for the LGBT community, the church now engages in the New Sanctuary Movement for immigrant rights.",
-    "info": null
+    "description": "Liberal arts-oriented church with gorgeous stained glass windows and rich performing arts history",
+    "info": null,
+    "categories": ["religious", "art", "historic"],
+    "url": "https://www.judson.org/"
   },
   {
     "name": "Hagop Kevorkian Center for Near Eastern Studies",
@@ -662,8 +808,10 @@
     "lon": -73.9988892,
     "icon": null,
     "imageURL": null,
-    "description": "NYU building - lobby is a reconstruction of an 18th century Damascus home",
-    "info": null
+    "description": "NYU building featuring a reconstructed 18th century Damascus home in the lobby",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://as.nyu.edu/kevorkian.html"
   },
   {
     "name": "West 4th Street Courts",
@@ -671,8 +819,10 @@
     "lon": -74.0008609,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Famous outdoor basketball courts known as The Cage, hosting legendary streetball games",
+    "info": null,
+    "categories": ["sports", "recreation"],
+    "url": null
   },
   {
     "name": "Hangman's Elm",
@@ -680,8 +830,10 @@
     "lon": -73.9986131,
     "icon": null,
     "imageURL": null,
-    "description": "oldest known living tree in nyc; The oldest living tree in Manhattan comes shrouded in sinister legend.",
-    "info": null
+    "description": "The oldest known living tree in Manhattan, shrouded in sinister legend",
+    "info": null,
+    "categories": ["nature", "historic", "quirky"],
+    "url": null
   },
   {
     "name": "Music Inn World Instruments",
@@ -689,8 +841,10 @@
     "lon": -74.0014381,
     "icon": null,
     "imageURL": null,
-    "description": "thursday night open mic",
-    "info": null
+    "description": "Global instrument shop featuring Thursday night open mic sessions",
+    "info": null,
+    "categories": ["music", "shopping"],
+    "url": "https://www.musicinn.com/"
   },
   {
     "name": "Vintage Thrift Shop",
@@ -698,8 +852,10 @@
     "lon": -73.9836457,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Longtime thrift store offering vintage clothing and unique finds",
+    "info": null,
+    "categories": ["shopping"],
+    "url": null
   },
   {
     "name": "Merchant's House Museum",
@@ -707,8 +863,10 @@
     "lon": -73.99234,
     "icon": null,
     "imageURL": null,
-    "description": "New York City's only preserved family home from the 19th century.",
-    "info": null
+    "description": "New York City's only preserved 19th-century family home with original furnishings",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://merchantshouse.org/"
   },
   {
     "name": "Gay Street",
@@ -716,8 +874,10 @@
     "lon": -74.0003972,
     "icon": null,
     "imageURL": null,
-    "description": "An aptly-named street near the birthplace of the modern LGBT rights movement.",
-    "info": null
+    "description": "Aptly-named historic street near the birthplace of the modern LGBT rights movement",
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "The Museum of Interesting Things (advance appt only)",
@@ -725,8 +885,10 @@
     "lon": -73.9930526,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Private collection of vintage technology and curiosities, viewable by appointment",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://themuseumofinterestingthings.com/"
   },
   {
     "name": "Center for Italian Modern Art",
@@ -734,8 +896,10 @@
     "lon": -73.9988414,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Gallery dedicated to post-war Italian art in an intimate SoHo setting",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.cima-nyc.com/"
   },
   {
     "name": "Posteritati Movie Poster Gallery",
@@ -743,8 +907,10 @@
     "lon": -73.99839,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Vintage movie poster gallery specializing in rare and collectible film memorabilia",
+    "info": null,
+    "categories": ["art", "cinema", "shopping"],
+    "url": "https://www.posteritati.com/"
   },
   {
     "name": "Pearl River Mart",
@@ -752,8 +918,10 @@
     "lon": -74.0005647,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Iconic store offering Chinese goods, gifts, home decor, and cultural items",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.pearlriver.com/"
   },
   {
     "name": "Magic Jewelry",
@@ -761,8 +929,10 @@
     "lon": -74.000059,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Jewelry store specializing in unique and custom pieces",
+    "info": null,
+    "categories": ["shopping"],
+    "url": null
   },
   {
     "name": "Rally - The Museum at 446 Broadway",
@@ -770,8 +940,10 @@
     "lon": -74.0007935,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art space featuring rotating exhibitions and installations",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": null
   },
   {
     "name": "Hudson River Park's River Project Wetlab",
@@ -779,8 +951,10 @@
     "lon": -74.0135025,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Educational facility showcasing Hudson River marine life and ecology",
+    "info": null,
+    "categories": ["nature", "museum"],
+    "url": "https://www.hudsonriverpark.org/"
   },
   {
     "name": "P.E. Guerin",
@@ -788,8 +962,10 @@
     "lon": -74.0032569,
     "icon": null,
     "imageURL": null,
-    "description": "oldest decorative hardware store in country",
-    "info": null
+    "description": "America's oldest decorative hardware store, serving architects since 1857",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": "https://www.peguerin.com/"
   },
   {
     "name": "Casa Magazines",
@@ -797,8 +973,10 @@
     "lon": -74.0045009,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "International newsstand offering magazines and publications from around the world",
+    "info": null,
+    "categories": ["bookstore", "shopping"],
+    "url": null
   },
   {
     "name": "Patchin Place",
@@ -806,8 +984,10 @@
     "lon": -73.9993057,
     "icon": null,
     "imageURL": null,
-    "description": "Iconic, pictaresque Village street, home to NYC's last working gas streetlamp",
-    "info": null
+    "description": "Iconic picturesque Village street featuring NYC's last working gas streetlamp",
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "223 W 10th St",
@@ -815,8 +995,10 @@
     "lon": -74.0051065,
     "icon": null,
     "imageURL": null,
-    "description": "art gallery that consists entirely of a storefront window",
-    "info": null
+    "description": "Unique art gallery consisting entirely of a storefront window display",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": null
   },
   {
     "name": "The End of History",
@@ -824,8 +1006,10 @@
     "lon": -74.0058319,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Vintage shop specializing in mid-century modern furniture and design objects",
+    "info": null,
+    "categories": ["shopping"],
+    "url": null
   },
   {
     "name": "Three Lives & Company",
@@ -833,8 +1017,10 @@
     "lon": -74.0015401,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Beloved independent bookstore serving the Village community since 1978",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://threelives.com/"
   },
   {
     "name": "Greenwich Letterpress",
@@ -842,8 +1028,10 @@
     "lon": -74.0005639,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional letterpress printing studio creating custom stationery and invitations",
+    "info": null,
+    "categories": ["art", "shopping"],
+    "url": "https://greenwichletterpress.com/"
   },
   {
     "name": "Stonewall National Monument",
@@ -851,8 +1039,10 @@
     "lon": -74.0023407,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "First national monument dedicated to LGBTQ rights and history",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.nps.gov/ston/"
   },
   {
     "name": "Grove Street",
@@ -860,8 +1050,10 @@
     "lon": -74.0037707,
     "icon": null,
     "imageURL": null,
-    "description": "\"quintessential west village\"",
-    "info": null
+    "description": "Quintessential West Village street lined with historic townhouses",
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "Greenwich Locksmiths",
@@ -869,17 +1061,21 @@
     "lon": -74.004262,
     "icon": null,
     "imageURL": null,
-    "description": "smallest freestanding building in nyc",
-    "info": null
+    "description": "The smallest freestanding building in NYC, housing a working locksmith shop",
+    "info": null,
+    "categories": ["quirky", "landmark"],
+    "url": null
   },
   {
-    "name": "Marie's Crisis Caf\u00e9",
+    "name": "Marie's Crisis Café",
     "lat": 40.733221,
     "lon": -74.0034023,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic piano bar where patrons sing Broadway show tunes around the piano",
+    "info": null,
+    "categories": ["drinking", "music", "historic"],
+    "url": null
   },
   {
     "name": "IFC Center peephole",
@@ -887,8 +1083,10 @@
     "lon": -74.0016722,
     "icon": null,
     "imageURL": null,
-    "description": "The best way to get a sneak peek at the movies.",
-    "info": null
+    "description": "Secret peephole offering sneak peeks at movies being shown inside",
+    "info": null,
+    "categories": ["cinema", "quirky"],
+    "url": "https://www.ifccenter.com/"
   },
   {
     "name": "Anna-Maria and Stephen Kellen Gallery | Parsons School of Design",
@@ -896,8 +1094,10 @@
     "lon": -73.9944671,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Contemporary art gallery showcasing student and faculty work at Parsons",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.newschool.edu/"
   },
   {
     "name": "Salmagundi Club",
@@ -905,8 +1105,10 @@
     "lon": -73.9945822,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Historic art club founded in 1871, featuring galleries and artist studios",
+    "info": null,
+    "categories": ["art", "historic"],
+    "url": "https://www.salmagundi.org/"
   },
   {
     "name": "The Meadow - Mulberry St.",
@@ -914,8 +1116,10 @@
     "lon": -73.9956975,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty shop focusing on artisanal salts, chocolates, and cocktail bitters",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": "https://www.themeadow.com/"
   },
   {
     "name": "Chess Forum",
@@ -923,8 +1127,10 @@
     "lon": -73.999299,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Chess shop and playing space where enthusiasts gather for games and lessons",
+    "info": null,
+    "categories": ["recreation", "shopping"],
+    "url": "https://www.chessforum.com/"
   },
   {
     "name": "The Uncommons",
@@ -932,8 +1138,10 @@
     "lon": -73.9987065,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Board game cafe with hundreds of games available for play",
+    "info": null,
+    "categories": ["recreation", "food"],
+    "url": "https://www.uncommonsnyc.com/"
   },
   {
     "name": "Jack H. Skirball Center For The Performing Arts",
@@ -941,8 +1149,10 @@
     "lon": -73.9977487,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "NYU's premier performing arts venue hosting theater, dance, and music",
+    "info": null,
+    "categories": ["theater", "music"],
+    "url": "https://www.skirballcenter.nyu.edu/"
   },
   {
     "name": "NYU broadway windows",
@@ -950,8 +1160,10 @@
     "lon": -73.9914637,
     "icon": null,
     "imageURL": null,
-    "description": "NYU art \"gallery\" - rotating art exhibits displayed in windows viewable from street",
-    "info": null
+    "description": "Rotating art exhibitions displayed in street-viewable windows",
+    "info": null,
+    "categories": ["art"],
+    "url": null
   },
   {
     "name": "Grace Church",
@@ -959,8 +1171,10 @@
     "lon": -73.990902,
     "icon": null,
     "imageURL": null,
-    "description": "free Bach concerts at noon Mon - Fri",
-    "info": null
+    "description": "Gothic Revival church offering free Bach concerts at noon Monday through Friday",
+    "info": null,
+    "categories": ["religious", "music", "historic"],
+    "url": "https://www.gracechurchnyc.org/"
   },
   {
     "name": "Gothic Renaissance",
@@ -968,8 +1182,10 @@
     "lon": -73.990493,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Gothic and alternative fashion and accessories boutique",
+    "info": null,
+    "categories": ["shopping"],
+    "url": null
   },
   {
     "name": "Halloween Adventure Shop",
@@ -977,8 +1193,10 @@
     "lon": -73.9904637,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Year-round costume and theatrical supplies store",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.halloweenadventure.com/"
   },
   {
     "name": "7 E 10th St",
@@ -986,8 +1204,10 @@
     "lon": -73.9946311,
     "icon": null,
     "imageURL": null,
-    "description": "unique house built in Indian style w/ distinct teak balcony; on a particularly pretty Village street full of character",
-    "info": null
+    "description": "Unique house built in Indian style with distinctive teak balcony on a charming Village street",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "120 E 12th St",
@@ -995,8 +1215,10 @@
     "lon": -73.9892975,
     "icon": null,
     "imageURL": null,
-    "description": "facade of St Ann's church, that NYU kept when destroying rest of church to build dorm",
-    "info": null
+    "description": "Preserved facade of St Ann's church, retained when NYU built a dormitory",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Strand Book Store",
@@ -1004,8 +1226,10 @@
     "lon": -73.9909532,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Legendary independent bookstore with 18 miles of books since 1927",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://www.strandbookstore.com/"
   },
   {
     "name": "Washington Mews",
@@ -1013,8 +1237,10 @@
     "lon": -73.9958273,
     "icon": null,
     "imageURL": null,
-    "description": "another pictaresque Village street evoking an older new york",
-    "info": null
+    "description": "Picturesque cobblestone street lined with former carriage houses",
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "The Alchemists Kitchen",
@@ -1022,8 +1248,10 @@
     "lon": -73.9964318,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Herbal apothecary and wellness shop specializing in natural remedies",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.thealchemistskitchen.com/"
   },
   {
     "name": "Company Gallery",
@@ -1031,134 +1259,10 @@
     "lon": -73.9952908,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Ochre Showroom",
-    "lat": 40.722568,
-    "lon": -74.0009312,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "247365",
-    "lat": 40.721839,
-    "lon": -73.9903,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Hannah Traore Gallery",
-    "lat": 40.7206744,
-    "lon": -73.9887405,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Di Palo's Fine Foods",
-    "lat": 40.7192277,
-    "lon": -73.9965371,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Museum of Chinese in America",
-    "lat": 40.7193785,
-    "lon": -73.9990506,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Live in Theater Productions",
-    "lat": 40.718292,
-    "lon": -73.990283,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Top Hat",
-    "lat": 40.717773,
-    "lon": -73.989768,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "bitforms gallery",
-    "lat": 40.7201012,
-    "lon": -73.9902367,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Fig. 19",
-    "lat": 40.7195451,
-    "lon": -73.9936649,
-    "icon": null,
-    "imageURL": null,
-    "description": "secret bar in back of art gallery",
-    "info": null
-  },
-  {
-    "name": "White Box",
-    "lat": 40.7217149,
-    "lon": -73.9834395,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Kamwo Herbal Pharmacy",
-    "lat": 40.7187961,
-    "lon": -73.9961892,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Malaysia Beef Jerky",
-    "lat": 40.7184352,
-    "lon": -73.9959506,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Piemonte Ravioli",
-    "lat": 40.7194226,
-    "lon": -73.9970056,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Roman and Williams Guild",
-    "lat": 40.7200804,
-    "lon": -74.00225,
-    "icon": null,
-    "imageURL": null,
-    "description": "Roman and Williams Guild, a furniture showroom, caf\u00e9, florist, and home decor shop in one, is the first retail outpost from architecture firm Roman and Williams (the team behind oft-instagrammed restaurant and hotel interiors like Le Coucou and the Freehand). Basically, if you've ever eaten or spent the night in one of the firm's spaces and thought to yourself, \"I'd like my house to be more like this,\" this is the store for you. If you stop in, take a moment to run your hands over the sheepskins draped over the display beds in the back, and to smell the in-house scented candles.",
-    "info": null
+    "description": "Contemporary art gallery featuring emerging and established artists",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://companygallery.us/"
   },
   {
     "name": "Little Island",
@@ -1166,224 +1270,10 @@
     "lon": -74.010299,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Bayard\u2013Condict Building",
-    "lat": 40.7263016,
-    "lon": -73.9950721,
-    "icon": null,
-    "imageURL": null,
-    "description": "NHL - NYC's only Louis Sullivan building; one of first steel skeleton skyscrapers",
-    "info": null
-  },
-  {
-    "name": "25 Bond St",
-    "lat": 40.7261542,
-    "lon": -73.9938152,
-    "icon": null,
-    "imageURL": null,
-    "description": "Ken Rock's illegal chiseled artwork on sidewalk",
-    "info": null
-  },
-  {
-    "name": "Dashwood Books",
-    "lat": 40.7261038,
-    "lon": -73.9935282,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Angelika Film Center & Cafe - New York",
-    "lat": 40.7259068,
-    "lon": -73.997169,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Adore Floral Inc.",
-    "lat": 40.7257228,
-    "lon": -73.9927478,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "La MaMa Galleria",
-    "lat": 40.7265165,
-    "lon": -73.9926187,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Hole",
-    "lat": 40.7251024,
-    "lon": -73.992701,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Renee and Chaim Gross Foundation",
-    "lat": 40.7285063,
-    "lon": -73.9989172,
-    "icon": null,
-    "imageURL": null,
-    "description": "In 1963, renowned American sculptor Chaim Gross and his wife Renee converted an art storage warehouse in Greenwich Village into their home and studio. They added a sculpture studio to the ground floor, which is illuminated by an enormous skylight that underwent extensive restoration work in 2017-18. The first floor showcases work spanning Gross\u2019s entire career in both the studio and the adjacent gallery. The second floor houses a temporary exhibition space. On the third floor, see how the Gross family lived surrounded by their global, world-class art collection in their historic, salon-style installation of African, American, European, and Pre-Columbian collections.",
-    "info": null
-  },
-  {
-    "name": "AIA New York | Center for Architecture",
-    "lat": 40.7288227,
-    "lon": -73.9986095,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Hudson River Greenway",
-    "lat": 40.7297305,
-    "lon": -74.0116403,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "17 St Lukes Pl",
-    "lat": 40.7302206,
-    "lon": -74.0053384,
-    "icon": null,
-    "imageURL": null,
-    "description": "look for coal hole covers on the street",
-    "info": null
-  },
-  {
-    "name": "Murray's Cheese",
-    "lat": 40.7309772,
-    "lon": -74.0030711,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Unoppressive Non-imperialist Bargain Books",
-    "lat": 40.730018,
-    "lon": -74.003083,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Monday Night Magic",
-    "lat": 40.7296284,
-    "lon": -74.0011607,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Out of the Box Theatrics",
-    "lat": 40.7325797,
-    "lon": -74.0081837,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mister Fahrenheit",
-    "lat": 40.7337552,
-    "lon": -74.0053783,
-    "icon": null,
-    "imageURL": null,
-    "description": "ENTRANCE AT GREEN HORSE WALK GATE",
-    "info": null
-  },
-  {
-    "name": "McNulty's Tea & Coffee Co",
-    "lat": 40.733499,
-    "lon": -74.005186,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "17 Grove St",
-    "lat": 40.7325949,
-    "lon": -74.0054362,
-    "icon": null,
-    "imageURL": null,
-    "description": "one of very few wooden homes in NYC; old, beautiful house",
-    "info": null
-  },
-  {
-    "name": "Village Vanguard",
-    "lat": 40.7360334,
-    "lon": -74.0016548,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "9/11 Tiles for America Memorial",
-    "lat": 40.7362204,
-    "lon": -74.0010987,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "McCarthy Square",
-    "lat": 40.7352042,
-    "lon": -74.0017594,
-    "icon": null,
-    "imageURL": null,
-    "description": "square where handmade birdhouses started appearing",
-    "info": null
-  },
-  {
-    "name": "The Lesbian, Gay, Bisexual & Transgender Community Center",
-    "lat": 40.7380411,
-    "lon": -74.0010832,
-    "icon": null,
-    "imageURL": null,
-    "description": "Keith Haring bathroom",
-    "info": null
-  },
-  {
-    "name": "Tea & Sympathy",
-    "lat": 40.738313,
-    "lon": -74.00193,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Samsung 837",
-    "lat": 40.7405942,
-    "lon": -74.0075211,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Innovative floating park and performance space designed by Thomas Heatherwick",
+    "info": null,
+    "categories": ["park", "art", "theater"],
+    "url": "https://littleisland.org/"
   },
   {
     "name": "Whitney Museum of American Art",
@@ -1391,260 +1281,21 @@
     "lon": -74.0088629,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Premier museum of American contemporary and modern art in the Meatpacking District",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://whitney.org/"
   },
   {
-    "name": "Rockwood Music Hall",
-    "lat": 40.7223045,
-    "lon": -73.9885815,
+    "name": "Village Vanguard",
+    "lat": 40.7360334,
+    "lon": -74.0016548,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Elizabeth Street Garden",
-    "lat": 40.7221885,
-    "lon": -73.9946104,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Stick With Me",
-    "lat": 40.7212691,
-    "lon": -73.9954858,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Most Precious Blood Church",
-    "lat": 40.7177778,
-    "lon": -73.9988889,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mahayana Temple Buddhist Association",
-    "lat": 40.7161406,
-    "lon": -73.9954181,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "18 W 11th St",
-    "lat": 40.7342767,
-    "lon": -73.9959145,
-    "icon": null,
-    "imageURL": null,
-    "description": "weatherman explosion house",
-    "info": null
-  },
-  {
-    "name": "New York Studio School",
-    "lat": 40.732455,
-    "lon": -73.997227,
-    "icon": null,
-    "imageURL": null,
-    "description": "the original Whitney museum. there are monthly public tours of the building",
-    "info": null
-  },
-  {
-    "name": "C.O. Bigelow Chemists",
-    "lat": 40.7338793,
-    "lon": -73.9990311,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Jefferson Market Garden",
-    "lat": 40.7344179,
-    "lon": -73.9995351,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Jefferson Market Library",
-    "lat": 40.7345909,
-    "lon": -73.9992165,
-    "icon": null,
-    "imageURL": null,
-    "description": "Named the fifth most beautiful building in America in 1885, this former courthouse boasts the best view in the Village.",
-    "info": null
-  },
-  {
-    "name": "Second Cemetery of Congregation Shearith Israel",
-    "lat": 40.7350733,
-    "lon": -73.9978706,
-    "icon": null,
-    "imageURL": null,
-    "description": "New York's unstoppable progress turned this cemetery into the smallest burial ground in the city.",
-    "info": null
-  },
-  {
-    "name": "Tenri Cultural Institute",
-    "lat": 40.7363801,
-    "lon": -73.9960877,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Stone",
-    "lat": 40.7366235,
-    "lon": -73.9963675,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "5C Cafe",
-    "lat": 40.7227447,
-    "lon": -73.9796795,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Grove Court",
-    "lat": 40.7318216,
-    "lon": -74.006064,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "St Luke in the Fields Garden",
-    "lat": 40.7319078,
-    "lon": -74.006915,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Stick Stone & Bone",
-    "lat": 40.7334052,
-    "lon": -74.0053397,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Pier 45 at Hudson River Park",
-    "lat": 40.7331485,
-    "lon": -74.0125074,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Caffe Reggio",
-    "lat": 40.7303079,
-    "lon": -74.0003706,
-    "icon": null,
-    "imageURL": null,
-    "description": "Sip a cappuccino in the historic cafe that introduced them to the United States.",
-    "info": null
-  },
-  {
-    "name": "Extra Butter",
-    "lat": 40.7196245,
-    "lon": -73.9898779,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Sweet Pickle Books",
-    "lat": 40.7164887,
-    "lon": -73.9912856,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Chop Suey Club",
-    "lat": 40.7161936,
-    "lon": -73.9913707,
-    "icon": null,
-    "imageURL": null,
-    "description": "\u201cWhen I\u2019m in Chinatown, I make sure to stop by Chop Suey Club to check out super-unique pieces by Chinese contemporary designers,\u201d says curator and writer Kiara Cristina Ventura. \u201cEach piece in here is a work of art \u2014 it\u2019s always a vibe.\u201d Located on the corner of Hester and Orchard, the second-floor space was known in pre-pandemic times for its packed Chinese New Year and Mooncake parties. Now, you can still shop for 3-D-printed plaster vases by artist Joey Yu (from $245), a pomelo-scented red-dragon candle by Shanghainese label Yueqi Qi ($70), and pieces by Chop Suey Club\u2019s own line, including a ceramic incense holder shaped to look like a lotus flower ($38). There\u2019s one wall, called the \u201cDollar Store,\u201d devoted to particularly inexpensive items, like classic Chinese-restaurant tip trays with gold \u201cThank You\u201d lettering ($5).",
-    "info": null
-  },
-  {
-    "name": "Coming Soon",
-    "lat": 40.7149913,
-    "lon": -73.9917124,
-    "icon": null,
-    "imageURL": null,
-    "description": "\u201cSo many stores learned how to do it from Coming Soon,\u201d says Singer of this Lower East Side spot founded in 2013 and known for its giftable home d\u00e9cor and custom furniture upholstery in bright colors and unorthodox shapes. (\u201cTotally bonkers\u201d was how one person described its inventory.) Even though its typical wares \u2014 which Zoe Report fashion editor Aemilia Madden tells us range from bright velvet chairs ($550) to crazy glass straws ($28) to a giant marbled-concrete bowl ($850) \u2014 aren\u2019t serious per se, bookstore owner Leigh Altshuler says they\u2019re all still adult (and that her customers keep trying to buy the water carafe she once bought there out from under her nose). And Todd Heim, who goes by the drag name Steak Diane, tells us that its recent move to the corner of Orchard and Canal, incrementally closer to Dimes Square, \u201chas made it a true \u2018clubhouse for the neighborhood.\u2019\u2009\u201d Speaking of its new location: It\u2019s slightly larger, meaning room for more of the vintage furniture, like a Milo Baughman love seat ($3,500) and a \u201970s Italian marble coffee table ($3,200) that it also sells in its fifth-floor showroom around the corner on Allen Street.",
-    "info": null
-  },
-  {
-    "name": "Master Kitchen",
-    "lat": 40.719855,
-    "lon": -73.9918366,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Pacific Aquarium & Plant",
-    "lat": 40.7198297,
-    "lon": -73.9914203,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Saved NY",
-    "lat": 40.7386489,
-    "lon": -74.0041675,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Global Table",
-    "lat": 40.7257577,
-    "lon": -74.0026816,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Forbidden Planet",
-    "lat": 40.733425,
-    "lon": -73.9907694,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Legendary jazz club operating since 1935, hosting the world's greatest musicians",
+    "info": null,
+    "categories": ["music", "drinking", "historic"],
+    "url": "https://villagevanguard.com/"
   },
   {
     "name": "The New York Earth Room",
@@ -1652,808 +1303,9 @@
     "lon": -73.9999441,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Centennial Memorial Temple",
-    "lat": 40.7376932,
-    "lon": -73.9980474,
-    "icon": null,
-    "imageURL": null,
-    "description": "The Centennial Memorial Temple (CMT), designed by noted architect Ralph Walker, was built in 1929 to honor the 100th anniversary of The Salvation Army\u2019s founder, William Booth. This state-of-the-art performance hall, designated a New York City landmark in 2017, has served as the heart of The Salvation Army gatherings for 95 years, as well as the host of many community events and performances.",
-    "info": null
-  },
-  {
-    "name": "Bond Street Theatre",
-    "lat": 40.7270283,
-    "lon": -73.9946262,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Artists Alliance Inc",
-    "lat": 40.7191552,
-    "lon": -73.9862627,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "IATI Theater",
-    "lat": 40.7265356,
-    "lon": -73.9905933,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Gene Frankel Theatre",
-    "lat": 40.726672,
-    "lon": -73.993638,
-    "icon": null,
-    "imageURL": null,
-    "description": "A unique collection of figures perform down the facade of the Gene Frankel Theatre. Like a cataract of sensuous gilded Wallendas, the Dreams of Hyperion figures at 24 Bond Street cascade down the NoHo building. Once owned by Robert DeNiro\u2019s mother and later the home of photographer Robert Mapplethorpe, 24 Bond Street now hosts the thriving off-Broadway Gene Frankel Theatre on the ground floor where it sits waiting, perhaps, to catch any wayward golden dancers.",
-    "info": null
-  },
-  {
-    "name": "Jean-Michel Basquiat Commemorative Plaque",
-    "lat": 40.7264846,
-    "lon": -73.9923079,
-    "icon": null,
-    "imageURL": null,
-    "description": "The artist and New York City icon lived, worked and died in this converted carriage house owned by another iconic artist, Andy Warhol.",
-    "info": null
-  },
-  {
-    "name": "Houston Bowery Art Wall",
-    "lat": 40.724539,
-    "lon": -73.993093,
-    "icon": null,
-    "imageURL": null,
-    "description": "This wall on a street corner in Lower Manhattan has been a blank canvas for a rotation of renowned artists since the 1980s.",
-    "info": null
-  },
-  {
-    "name": "Milton Resnick and Pat Passlof Foundation",
-    "lat": 40.717335,
-    "lon": -73.992622,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Mercer Street Books & Records",
-    "lat": 40.7266575,
-    "lon": -73.9967088,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "La Plaza Cultural",
-    "lat": 40.725329,
-    "lon": -73.978626,
-    "icon": null,
-    "imageURL": null,
-    "description": "This former crime corner has been turned into an eclectic community center. <br>WHETHER IT\u2019S WATCHING A PUPPET show under the giant weeping willows, or maybe a dance performance, or simply taking respite from the surrounding urban chaos, La Plaza Cultural provides a space for beauty and community. <br><br>The diverse range of activities that take place in the reclaimed corner lot are not surprising considering that the space was the brainchild of a group of local activists and a Latino group that cleaned up the former garbage dump. While the area was deteriorating in the 1970s, the empty corner lot simply collected trash and attracted all manner of unseemly activity. Local activists took a stand, however, and cleaned up the corner in 1976 and turned it into a community outlet for theater and cultural displays. Today, it is used to host a variety of events and continues to be a beacon of community among the anonymous disconnect of Manhattan life.",
-    "info": null
-  },
-  {
-    "name": "Museum of Reclaimed Urban Space (MoRUS)",
-    "lat": 40.725766,
-    "lon": -73.977946,
-    "icon": null,
-    "imageURL": null,
-    "description": "A living archive of urban activism and space reclaimed.",
-    "info": null
-  },
-  {
-    "name": "Slocum Memorial Fountain",
-    "lat": 40.726937,
-    "lon": -73.98136,
-    "icon": null,
-    "imageURL": null,
-    "description": "Monument to a forgotten NYC disaster that claimed the lives of 1,000",
-    "info": null
-  },
-  {
-    "name": "Temperance Fountain",
-    "lat": 40.727029,
-    "lon": -73.982466,
-    "icon": null,
-    "imageURL": null,
-    "description": "A reminder to choose water over wine since 1888.",
-    "info": null
-  },
-  {
-    "name": "Hare Krishna Tree",
-    "lat": 40.726072,
-    "lon": -73.981985,
-    "icon": null,
-    "imageURL": null,
-    "description": "One of the few remaining American elm trees in New York\u2019s Tompkins Square Park was the birthplace of a new religion.",
-    "info": null
-  },
-  {
-    "name": "Russian & Turkish Baths",
-    "lat": 40.728232,
-    "lon": -73.983586,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Church of the Most Holy Redeemer",
-    "lat": 40.723657,
-    "lon": -73.984243,
-    "icon": null,
-    "imageURL": null,
-    "description": "Relics given to a Manhattan church to avoid seizure by the Italian government.<br>THE RELICS OF OBSCURE ROMAN martyr St. Datian are encased in a wax effigy in the relic chapel to the right of the altar at the Church of the Most Holy Redeemer.<br><br>They were sent to the church in 1892 when a wealthy Italian woman could no longer afford to keep them in her private chapel. She donated them to avoid their seizure by the Italian government. There were rumors that the bones of the martyr were actually the bones of a policeman who was shot defending the church from burglars but the parish denies this.<br><br>The relic chapel also features small relics from over 150 other saints.",
-    "info": null
-  },
-  {
-    "name": "Connelly Theater",
-    "lat": 40.723525,
-    "lon": -73.983351,
-    "icon": null,
-    "imageURL": null,
-    "description": "This theater looks like what it once was: a 19th-century school auditorium. Painted a lovely Russian blue and still echoing slightly with teenagers past, the 99-seat Connelly has a pretty proscenium and pressed-tin ceiling\u2014a surprising jewel box well off the beaten track",
-    "info": null
-  },
-  {
-    "name": "St. Mark's Church in-the-Bowery",
-    "lat": 40.730393,
-    "lon": -73.987089,
-    "icon": null,
-    "imageURL": null,
-    "description": "home to the poetry project",
-    "info": null
-  },
-  {
-    "name": "44 Stuyvesant St",
-    "lat": 40.729839,
-    "lon": -73.987622,
-    "icon": null,
-    "imageURL": null,
-    "description": "This 220-year-old house is a reminder of New York City's Dutch past.<br>THE STUYVESANTS WERE THE FOUNDING family of New Amsterdam, so it follows that their 220-year-old house on a street named after them in the Bowery (which derives its name from the Old Dutch word for \u201cfarm\u201d) still stands today. <br><br>At No. 44 Stuyvesant stands a stately Federal-style house built for Nicholas William Stuyvesant, descendant of New Netherlands\u2019 first governor Peter Stuyvesant. It doesn\u2019t jump out from the surrounding buildings but those in the know will spot the building\u2019s age and import.<br><br>The house is crawling with stylistic signs of its era, including splayed lintels, Flemish Bond brickwork, and doorway proportions that are typical of that era. It was built in the same year that Nicholas Stuyvesant married Catherine Livingston Reade. The society couple lived there until 1818, but the house stayed in the Stuyvesant family for generations. In 1811, when the city laid out the grid system plan of streets for the quickly expanding city, diagonal Stuyvesant Street survived the restructuring, likely because of the family\u2019s and street\u2019s historical significance.<br><br>In 1969, the house was designated a landmark as part of the St. Mark\u2019s Historic District. At this time it was one of the oldest houses to be used continuously as a residence in Manhattan. It rivals the Jumel Mansion and the Dyckman farmhouse as one of the oldest homes in the city, but it is certainly the furthest downtown.",
-    "info": null
-  },
-  {
-    "name": "41 Cooper Square",
-    "lat": 40.72852,
-    "lon": -73.990211,
-    "icon": null,
-    "imageURL": null,
-    "description": "This exemplar of modernist architecture is meant to captivate and inspire students of the Cooper Union.",
-    "info": null
-  },
-  {
-    "name": "New York Marble Cemetery",
-    "lat": 40.725612,
-    "lon": -73.990946,
-    "icon": null,
-    "imageURL": null,
-    "description": "A hidden \"place of interment for gentlemen.\"",
-    "info": null
-  },
-  {
-    "name": "Bonnie Slotnick Cookbooks",
-    "lat": 40.725239,
-    "lon": -73.990719,
-    "icon": null,
-    "imageURL": null,
-    "description": "Spiral-bound community recipes and antiquarian gems mingle at this small East Village shop.",
-    "info": null
-  },
-  {
-    "name": "Toyota Children's Learning Garden",
-    "lat": 40.727604,
-    "lon": -73.978946,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "New York City Marble Cemetery",
-    "lat": 40.724578,
-    "lon": -73.98901,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Anthology Film Archives",
-    "lat": 40.724694,
-    "lon": -73.990166,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Ukrainian Museum",
-    "lat": 40.727667,
-    "lon": -73.989765,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Toy Tokyo",
-    "lat": 40.72708,
-    "lon": -73.989005,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "St Ann's Facade",
-    "lat": 40.732096,
-    "lon": -73.989251,
-    "icon": null,
-    "imageURL": null,
-    "description": "facade is all that remains, NYtimes called it \u201camong the most beautiful\u201d churches, but torn down to build NYU dorm Founders Hall",
-    "info": null
-  },
-  {
-    "name": "Ottendorfer Library",
-    "lat": 40.728886,
-    "lon": -73.987685,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "PERROTIN NEW YORK",
-    "lat": 40.719586,
-    "lon": -73.989254,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Red Room at KGB",
-    "lat": 40.726478,
-    "lon": -73.989886,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "RESOBOX East Village",
-    "lat": 40.724834,
-    "lon": -73.987757,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Village Works",
-    "lat": 40.728991,
-    "lon": -73.989316,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "First Street Green Cultural Park",
-    "lat": 40.723713,
-    "lon": -73.990471,
-    "icon": null,
-    "imageURL": null,
-    "description": "his vacant land became a local garden in the early 1980s. In 1999, the city attempted to repurchase the land and replace this lovely garden with condos, but the neighborhood came together, and with help from Green Thumb (the largest community gardening program in the nation), Garden 48 is now maintained exclusively by neighbors. When we visited for the first time, the theme of the stunning murals on the wall was \u201cwomen who made a difference in America.\u201d",
-    "info": null
-  },
-  {
-    "name": "Trash and Vaudeville",
-    "lat": 40.726598,
-    "lon": -73.985311,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Brant Foundation",
-    "lat": 40.726146,
-    "lon": -73.985046,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "6BC Botanical Garden",
-    "lat": 40.723815,
-    "lon": -73.980708,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Orchard Alley",
-    "lat": 40.721359,
-    "lon": -73.978441,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Parque de Tranquilidad",
-    "lat": 40.72177,
-    "lon": -73.979651,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Bullet Space",
-    "lat": 40.721082,
-    "lon": -73.979817,
-    "icon": null,
-    "imageURL": null,
-    "description": "one of the first legalized squats in New York City, is located in a tenement house built in the nineteenth century. It is a community access center for images, words, and sounds of the inner city.",
-    "info": null
-  },
-  {
-    "name": "Nuyorican Poets Cafe",
-    "lat": 40.721984,
-    "lon": -73.981785,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "2B&2C: The Ken Cro-Ken Memorial Foundation",
-    "lat": 40.721715,
-    "lon": -73.98344,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Kenkeleba House Garden",
-    "lat": 40.722344,
-    "lon": -73.982672,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Pageant Print Shop",
-    "lat": 40.726756,
-    "lon": -73.990556,
-    "icon": null,
-    "imageURL": null,
-    "description": "ageant Print Shop\u2019s entirely glass storefront bordered by light blue is instantly eye-catching and proudly displays the treasure within. Inside its bright, buttercream interior, an immense assortment of old prints and maps line every wall and fill neatly-labeled display racks.<br><br>This sanctuary of beautiful historical pieces was created by Sidney Solomon and Henry Chafetz in 1946. It was originally one of the many second-hand book stores on Fourth Avenue, an area that was then known as \u201cBook Row.\u201d Now under the leadership of Sidney\u2019s daughters, Shirley and Rebecca, Pageant Print Shop primarily sells old prints and is thriving at its current 4th Street location.<br><br>Having worked with historic pieces her whole life, Shirley knows how to get the best prints. She has amassed her impressive collection from antique book auctions as well as other various sources that she has built up over the years. Rodger, who has been working at Pageant Print Shop for over a decade, told Manhattan Sideways that \u201cwhat we are looking for are old books with the bindings broken that are really not in very good shape on the outside, but still have good quality prints, maps, or illustrations on the inside.\u201d Although they search for old books based on the contents within, the shop also sells the old bindings for creatives looking to make decoupage and other fun art projects.<br><br>Pageant Print Shop is definitely a fixture in the East Village, and in the words of Rodger, is \u201cone of those neighborhood jams.\u201d They enjoy \u201ca loyal group of people that have been coming here for eons,\" tourists looking for something authentically New York City, and neighborhood people walking by. Rodger told us that newcomers are often \u201csurprised that they are able to buy a piece of history,\u201d and return for more of their authentic, beautiful, and historic prints. Pageant Print Shop is unique in its extensive, high quality, and affordable selection. Rodger affirmed that \u201cIt\u2019s going to be hard for you to find someone who has this kind of a collection at these kinds of prices - it\u2019s just true.\u201d",
-    "info": null
-  },
-  {
-    "name": "Lower East Side Ecology Center",
-    "lat": 40.724627,
-    "lon": -73.979651,
-    "icon": null,
-    "imageURL": null,
-    "description": "What personality all of these community gardens have; no two are exactly the same. Here we entered under a short covered walkway made of coffee cans that have rusted over time. Once inside you cannot miss the majestic weeping willow that towers over half of the garden along with a variety of funky hand built structures arbitrarily placed throughout.",
-    "info": null
-  },
-  {
-    "name": "Casey Rubber Stamps",
-    "lat": 40.729786,
-    "lon": -73.985183,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Yiddish Walk of Fame",
-    "lat": 40.729614,
-    "lon": -73.986781,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Performance Space New York",
-    "lat": 40.728344,
-    "lon": -73.984544,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Enchantments",
-    "lat": 40.727062,
-    "lon": -73.979536,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Under St Marks Theater",
-    "lat": 40.727293,
-    "lon": -73.984965,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "SOS Chefs",
-    "lat": 40.724886,
-    "lon": -73.981545,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "6th Street and Avenue B",
-    "lat": 40.724272,
-    "lon": -73.982012,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Creative Little Garden",
-    "lat": 40.724699,
-    "lon": -73.98258,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "wild project",
-    "lat": 40.722924,
-    "lon": -73.983339,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Herb Lubalin Study Center of Design & Typography",
-    "lat": 40.728521,
-    "lon": -73.990259,
-    "icon": null,
-    "imageURL": null,
-    "description": "by appointment only",
-    "info": null
-  },
-  {
-    "name": "New York Theatre Workshop",
-    "lat": 40.726667,
-    "lon": -73.99,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "La MaMa Experimental Theatre Club",
-    "lat": 40.726413,
-    "lon": -73.990448,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "La Sirena Mexican folk Art",
-    "lat": 40.72595,
-    "lon": -73.990263,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "John Derian Company Inc",
-    "lat": 40.725562,
-    "lon": -73.991483,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Extra Place",
-    "lat": 40.724626,
-    "lon": -73.991609,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Liz Christy Garden",
-    "lat": 40.724096,
-    "lon": -73.99191,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "City Lore",
-    "lat": 40.723764,
-    "lon": -73.989388,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "East Village Postal",
-    "lat": 40.728534,
-    "lon": -73.98498,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Karma",
-    "lat": 40.7225454,
-    "lon": -73.9840627,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Shop at The Standard",
-    "lat": 40.7410765,
-    "lon": -74.0082854,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Swiss Institute",
-    "lat": 40.7284172,
-    "lon": -73.9875484,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Fabulous Fanny's",
-    "lat": 40.7286698,
-    "lon": -73.9856001,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Russian & Turkish Baths",
-    "lat": 40.728232,
-    "lon": -73.9835859,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "The Public Theater",
-    "lat": 40.7290672,
-    "lon": -73.9919033,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Hebrew Union College - Jewish Institute of Religion",
-    "lat": 40.7287795,
-    "lon": -73.9946946,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Stock Vintage",
-    "lat": 40.7328765,
-    "lon": -73.9880194,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Bust of Sylvette",
-    "lat": 40.7270547,
-    "lon": -73.9984426,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Bowery Poetry Club",
-    "lat": 40.7249359,
-    "lon": -73.9927509,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Edward Hopper Studio",
-    "lat": 40.730987,
-    "lon": -73.9955991,
-    "icon": null,
-    "imageURL": null,
-    "description": "Edward Hopper's studio - only open by appointment, but sometimes left unlocked. in NYU social work school building",
-    "info": null
-  },
-  {
-    "name": "Grey Art Museum",
-    "lat": 40.727869,
-    "lon": -73.9916013,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Colonnade Row",
-    "lat": 40.7294115,
-    "lon": -73.9923795,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "80WSE",
-    "lat": 40.729771,
-    "lon": -73.9961901,
-    "icon": null,
-    "imageURL": null,
-    "description": "similar to broadway windows",
-    "info": null
-  },
-  {
-    "name": "124 Old Rabbit Club",
-    "lat": 40.729905,
-    "lon": -74.000246,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "MacDougal Street",
-    "lat": 40.7299971,
-    "lon": -74.0005071,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Canal Rubber Supply Co. Inc",
-    "lat": 40.7204558,
-    "lon": -74.0030076,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Canal Plastics Center",
-    "lat": 40.7207763,
-    "lon": -74.0035137,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Goods For The Study",
-    "lat": 40.7331466,
-    "lon": -73.9987782,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Flower Power Herbs & Roots",
-    "lat": 40.7278371,
-    "lon": -73.9844492,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Random Accessories",
-    "lat": 40.726707,
-    "lon": -73.990128,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "niconeco zakkaya",
-    "lat": 40.7285048,
-    "lon": -73.9832338,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Wow Cafe Theater",
-    "lat": 40.7270219,
-    "lon": -73.9908285,
-    "icon": null,
-    "imageURL": null,
-    "description": "A volunteer, collectively run performance space for women and/or trans and/or non-binary artists.",
-    "info": null
-  },
-  {
-    "name": "Think!Chinatown",
-    "lat": 40.7142846,
-    "lon": -73.992356,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Fourth St Photo Gallery Inc",
-    "lat": 40.726766,
-    "lon": -73.990586,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Smilers",
-    "lat": 40.7259842,
-    "lon": -73.9847247,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Walter De Maria's installation featuring 280,000 pounds of dirt in a SoHo gallery",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.diaart.org/"
   }
 ]
