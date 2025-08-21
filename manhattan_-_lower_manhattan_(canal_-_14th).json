@@ -231,17 +231,6 @@
     "url": null
   },
   {
-    "name": "CW Pencil Enterprise",
-    "lat": 40.7152185,
-    "lon": -73.9919334,
-    "icon": null,
-    "imageURL": null,
-    "description": "Specialty shop dedicated entirely to pencils from around the world",
-    "info": null,
-    "categories": ["shopping", "quirky"],
-    "url": "https://cwpencils.com/"
-  },
-  {
     "name": "Metrograph",
     "lat": 40.715143,
     "lon": -73.9911467,
