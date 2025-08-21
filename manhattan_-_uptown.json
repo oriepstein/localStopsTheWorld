@@ -6,7 +6,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A curious fountain that has no water and includes Satan, a crab, and 9 giraffes.",
-    "info": null
+    "info": null,
+    "categories": ["art", "quirky", "landmark"],
+    "url": null
   },
   {
     "name": "The Cathedral Church of St. John the Divine",
@@ -15,7 +17,9 @@
     "icon": null,
     "imageURL": null,
     "description": "vertical tour; biblical garden; peacock hutch",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "nature"],
+    "url": "https://www.stjohndivine.org/"
   },
   {
     "name": "Biblical Garden at The Cathedral Church of St. John the Divine",
@@ -24,7 +28,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["nature", "religious", "park"],
+    "url": "https://www.stjohndivine.org/visit/biblical-garden/"
   },
   {
     "name": "Rat Rock",
@@ -33,7 +39,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This giant boulder is sandwiched between apartment complexes in upper Manhattan.",
-    "info": null
+    "info": null,
+    "categories": ["quirky", "landmark", "nature"],
+    "url": null
   },
   {
     "name": "Amiable Child Memorial",
@@ -42,7 +50,9 @@
     "icon": null,
     "imageURL": null,
     "description": "One of the only single-person private gravesites in New York City.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "quirky", "landmark"],
+    "url": null
   },
   {
     "name": "General Grant National Memorial",
@@ -51,7 +61,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "museum"],
+    "url": "https://www.nps.gov/gegr/"
   },
   {
     "name": "Church of Notre Dame",
@@ -60,7 +72,9 @@
     "icon": null,
     "imageURL": null,
     "description": "interior is recreation of the grotto of Lourdes; also can buy Lourdes water here",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": "https://www.notredameny.org/"
   },
   {
     "name": "Philosophy Hall",
@@ -69,7 +83,9 @@
     "icon": null,
     "imageURL": null,
     "description": "NHL",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.columbia.edu/"
   },
   {
     "name": "Arthur Ross Architecture Gallery, Columbia GSAPP",
@@ -78,7 +94,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.arch.columbia.edu/galleries"
   },
   {
     "name": "Postcrypt Coffeehouse",
@@ -87,7 +105,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music", "food"],
+    "url": "https://postcrypt.org/"
   },
   {
     "name": "LeRoy Neiman Gallery",
@@ -96,7 +116,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.columbia.edu/"
   },
   {
     "name": "Sakura Park",
@@ -105,7 +127,9 @@
     "icon": null,
     "imageURL": null,
     "description": "cherry blossoms",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "The Riverside Cathedral",
@@ -113,8 +137,10 @@
     "lon": -73.9630756,
     "icon": null,
     "imageURL": null,
-    "description": "carillion; stone labryinth on floor; Riverside Church, conceived as an ecumenical Christian center<br>and funded by John D. Rockefeller, features the tallest Gothicstyle tower in the United States at 392 feet. The church is clad<br>in Indiana limestone and its interiors are faced with Guastavino acoustical blocks. Though invisible, the church\u2019s most<br>marked feature is its steel structure, which used skyscraper<br>construction methods rather than medieval load-bearing wall<br>construction, like St. John the Divine. Harnessing this modern technology, Riverside Church<br>was completed in just three years. Consistent with its ecumenical mission, its entrance portal<br>bears the faces of scientists, philosophers and leaders of diverse religions.",
-    "info": null
+    "description": "carillion; stone labryinth on floor; Riverside Church, conceived as an ecumenical Christian center<br>and funded by John D. Rockefeller, features the tallest Gothicstyle tower in the United States at 392 feet. The church is clad<br>in Indiana limestone and its interiors are faced with Guastavino acoustical blocks. Though invisible, the church's most<br>marked feature is its steel structure, which used skyscraper<br>construction methods rather than medieval load-bearing wall<br>construction, like St. John the Divine. Harnessing this modern technology, Riverside Church<br>was completed in just three years. Consistent with its ecumenical mission, its entrance portal<br>bears the faces of scientists, philosophers and leaders of diverse religions.",
+    "info": null,
+    "categories": ["religious", "historic", "landmark", "music"],
+    "url": "https://www.trcnyc.org/"
   },
   {
     "name": "Corpus Christi Catholic Church.",
@@ -123,7 +149,9 @@
     "icon": null,
     "imageURL": null,
     "description": "gorgeous interior contains stained glass from Reims church bombed by Germans (is this true?); also home to music before 1800 music series",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "music"],
+    "url": "https://www.corpuschristinyc.org/"
   },
   {
     "name": "Havemeyer Hall",
@@ -132,7 +160,9 @@
     "icon": null,
     "imageURL": null,
     "description": "room 309 - most filmied classroom ever (?); Havemeyer Hall, a National Historic Chemical Landmark, is devoted to the study and<br>application of Chemistry, with a strong emphasis on research. Pioneering research conducted<br>here led to the discovery of deuterium, for which Harold Clayton Urey received the Nobel Prize<br>in 1934. Six others who did research here subsequently received the Nobel Prize, including<br>Irving Langmuir, the first industrial chemist to be so honored, in 1932. In front of Havemeyer<br>stands Scholars Lion sculpted by Columbia College graduate Greg Wyatt.<br>Havemeyer Room 309, the grand lecture hall in the center of Havemeyer, remains the signature 08<br>architectural feature of Charles McKim's original design. It has a 40-foot domed ceiling and skylight, 330<br>tiered seats, a brass-railed gallery and a 40-foot oak demonstration table. Room 309 has been prominently<br>featured in a number of films, including Awakenings, Malcolm X, The Mirror has Two Faces, Spider Man and<br>Ghostbusters.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "cinema"],
+    "url": "https://www.columbia.edu/"
   },
   {
     "name": "Columbia University Visitors Center",
@@ -141,7 +171,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["landmark"],
+    "url": "https://www.columbia.edu/content/visitors"
   },
   {
     "name": "The Baylander",
@@ -150,7 +182,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.baylander.org/"
   },
   {
     "name": "Cherry Walk",
@@ -159,7 +193,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "Morningside Park",
@@ -167,8 +203,10 @@
     "lon": -73.9585391,
     "icon": null,
     "imageURL": null,
-    "description": "Morningside Park was an early city initiative to create an amenity out of undevelopable land. It is<br>comprised of a narrow strip extending from West 110th to 123rd Streets and encompasses the<br>dramatic escarpment which gives credence to \u201cThe Heights.\u201d The park\u2019s tiered design incorporates<br>the land\u2019s natural topography with a mix of picturesque and pastoral landscapes. The promenade<br>on Morningside Drive features observation platforms, imposing stone steps and a statue of social<br>reformer Carl Schurz.",
-    "info": null
+    "description": "Morningside Park was an early city initiative to create an amenity out of undevelopable land. It is<br>comprised of a narrow strip extending from West 110th to 123rd Streets and encompasses the<br>dramatic escarpment which gives credence to "The Heights." The park's tiered design incorporates<br>the land's natural topography with a mix of picturesque and pastoral landscapes. The promenade<br>on Morningside Drive features observation platforms, imposing stone steps and a statue of social<br>reformer Carl Schurz.",
+    "info": null,
+    "categories": ["park", "historic", "nature"],
+    "url": "https://www.nyc.gov/site/parks/parks/morningside-park.page"
   },
   {
     "name": "Low Memorial Library",
@@ -176,8 +214,10 @@
     "lon": -73.9618416,
     "icon": null,
     "imageURL": null,
-    "description": "Charles McKim designed the campus in the Beaux-Arts style<br>popularized at the 1893 World\u2019s Columbian Exposition. Its<br>focal point is Low Library, designed in the Roman Classical<br>style, with Italian Renaissance\u2013inspired classroom buildings<br>flanking it in the forecourt and rear. Fashioned after the Baths<br>of Caracalla and the Pantheon, the library\u2019s granite dome is<br>the country\u2019s largest. The university outgrew Low Library in the 1920s,<br>and a new library named for then president Nicholas Murray Butler was<br>built on the campus\u2019 southern end",
-    "info": null
+    "description": "Charles McKim designed the campus in the Beaux-Arts style<br>popularized at the 1893 World's Columbian Exposition. Its<br>focal point is Low Library, designed in the Roman Classical<br>style, with Italian Renaissance–inspired classroom buildings<br>flanking it in the forecourt and rear. Fashioned after the Baths<br>of Caracalla and the Pantheon, the library's granite dome is<br>the country's largest. The university outgrew Low Library in the 1920s,<br>and a new library named for then president Nicholas Murray Butler was<br>built on the campus' southern end",
+    "info": null,
+    "categories": ["historic", "landmark", "bookstore"],
+    "url": "https://www.columbia.edu/"
   },
   {
     "name": "Italian Academy, Columbia University",
@@ -186,7 +226,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://italianacademy.columbia.edu/"
   },
   {
     "name": "St. Paul's Chapel",
@@ -194,8 +236,10 @@
     "lon": -73.9609459,
     "icon": null,
     "imageURL": null,
-    "description": "d. A highlight of the campus is St. Paul\u2019s<br>Chapel, designed in a Lombardic style using the red brick and limestone<br>motif of the campus classroom buildings<br>The interior of St. Paul's Chapel features furniture carved in Florence and stained glass 13 designed by<br>Maitland Armstrong and John La Farge. The Peace Altar was designed by George Nakashima. The entire<br>floor of the building is paved with marble terrazzo in which are set fragments of porphyry, verd antique, and<br>yellow marble. Three windows in the apse, the work of American artist John LaFarge, depict St. Paul<br>preaching to the Athenians.<br>Perhaps most striking is the chapel's vaulting and dome, executed in salmon Guastavino tiles. St. Paul's<br>church uses Guastavino structural vaulting, a patented system of tiles created by Spanish builder Rafael<br>Guastavino, who immigrated to the United States in the late nineteenth century. Guastavino tiles can be<br>found in more than 1,000 buildings worldwide, including Grand Central Terminal, Carnegie Hall and the<br>13<br>3<br>14<br>Cathedral of St. John the Divine",
-    "info": null
+    "description": "d. A highlight of the campus is St. Paul's<br>Chapel, designed in a Lombardic style using the red brick and limestone<br>motif of the campus classroom buildings<br>The interior of St. Paul's Chapel features furniture carved in Florence and stained glass 13 designed by<br>Maitland Armstrong and John La Farge. The Peace Altar was designed by George Nakashima. The entire<br>floor of the building is paved with marble terrazzo in which are set fragments of porphyry, verd antique, and<br>yellow marble. Three windows in the apse, the work of American artist John LaFarge, depict St. Paul<br>preaching to the Athenians.<br>Perhaps most striking is the chapel's vaulting and dome, executed in salmon Guastavino tiles. St. Paul's<br>church uses Guastavino structural vaulting, a patented system of tiles created by Spanish builder Rafael<br>Guastavino, who immigrated to the United States in the late nineteenth century. Guastavino tiles can be<br>found in more than 1,000 buildings worldwide, including Grand Central Terminal, Carnegie Hall and the<br>13<br>3<br>14<br>Cathedral of St. John the Divine",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://www.columbia.edu/"
   },
   {
     "name": "Union Theological Seminary",
@@ -203,8 +247,10 @@
     "lon": -73.9617713,
     "icon": null,
     "imageURL": null,
-    "description": "This English Gothic complex was inspired by the<br>institutions of Oxford and Cambridge, England and<br>was widely praised by architecture critics and the media. The James Memorial Chapel is the architectural crown of the campus. Its fa\u00e7ades are clad in Manhattan schist quarried directly from<br>the foundation, a novel but lauded concept at the time. Its architects designed many institutional<br>buildings in the neighborhood.",
-    "info": null
+    "description": "This English Gothic complex was inspired by the<br>institutions of Oxford and Cambridge, England and<br>was widely praised by architecture critics and the media. The James Memorial Chapel is the architectural crown of the campus. Its façades are clad in Manhattan schist quarried directly from<br>the foundation, a novel but lauded concept at the time. Its architects designed many institutional<br>buildings in the neighborhood.",
+    "info": null,
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://utsnyc.edu/"
   },
   {
     "name": "The Jewish Theological Seminary",
@@ -212,8 +258,10 @@
     "lon": -73.9606149,
     "icon": null,
     "imageURL": null,
-    "description": "The Jewish Theological Seminary building is made up of<br>three interconnected wings in the Colonial Revival style. The<br>building\u2019s most pronounced feature is its tall entry tower,<br>which features a Lee Lawrie\u2013sculpted representation of the<br>burning bush above its grand arched entryway",
-    "info": null
+    "description": "The Jewish Theological Seminary building is made up of<br>three interconnected wings in the Colonial Revival style. The<br>building's most pronounced feature is its tall entry tower,<br>which features a Lee Lawrie–sculpted representation of the<br>burning bush above its grand arched entryway",
+    "info": null,
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://www.jtsa.edu/"
   },
   {
     "name": "Miller Theatre",
@@ -222,7 +270,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["theater", "music"],
+    "url": "https://millertheatre.com/"
   },
   {
     "name": "Silvana",
@@ -231,7 +281,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music", "food"],
+    "url": "https://www.silvana-nyc.com/"
   },
   {
     "name": "Minton's Playhouse",
@@ -240,7 +292,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music", "historic", "food"],
+    "url": "https://mintonsharlem.com/"
   },
   {
     "name": "The Wallach Art Gallery at Columbia University Lenfest Center of the Arts",
@@ -249,7 +303,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://wallach.columbia.edu/"
   },
   {
     "name": "First Corinthian Baptist Church",
@@ -258,7 +314,9 @@
     "icon": null,
     "imageURL": null,
     "description": "ornate church, resembling Doges palace in Venice",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://fcbcnyc.org/"
   },
   {
     "name": "Collyer Brothers Park",
@@ -267,7 +325,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Harlem park dedicated to compulsive hoarders killed by their own junk.",
-    "info": null
+    "info": null,
+    "categories": ["park", "quirky", "historic"],
+    "url": null
   },
   {
     "name": "Bill's Place",
@@ -276,7 +336,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This speakeasy continues the Prohibition-era legacy of Harlem's jazzy Swing Street.",
-    "info": null
+    "info": null,
+    "categories": ["music", "drinking", "historic"],
+    "url": "https://www.billsplaceharlem.com/"
   },
   {
     "name": "Schomburg Center for Research in Black Culture",
@@ -285,7 +347,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A memorial marks the library lobby where Langston Hughes' ashes are buried.",
-    "info": null
+    "info": null,
+    "categories": ["bookstore", "museum", "historic"],
+    "url": "https://www.nypl.org/locations/schomburg"
   },
   {
     "name": "Hamilton Grange National Memorial",
@@ -294,7 +358,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The only home that Alexander Hamilton ever owned has a history almost as troubled as his own.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "museum", "nps"],
+    "url": "https://www.nps.gov/hagr/"
   },
   {
     "name": "Trinity Church Cemetery and Mausoleum",
@@ -302,8 +368,10 @@
     "lon": -73.9491194,
     "icon": null,
     "imageURL": null,
-    "description": "You must take the A train... to the last active cemetery in Manhattan.\u00a0<br>n 1842, with the city rapidly growing and new burials banned from lower Manhattan, Trinity Church constructed a second cemetery, way, way out of town upon property owned by naturalist John James Audubon (1785\u20131851). It was a spot for quiet contemplation\u2014until they plowed Broadway through it in 1871, splitting Trinity\u2019s peaceful cemetery in two (and disinterring dozens of bodies in the process). Eliza Jumel, John Jacob Astor, Ed Koch and Clement Clarke Moore (the author of 'A Visit from St. Nicholas') are buried here.",
-    "info": null
+    "description": "You must take the A train... to the last active cemetery in Manhattan. <br>n 1842, with the city rapidly growing and new burials banned from lower Manhattan, Trinity Church constructed a second cemetery, way, way out of town upon property owned by naturalist John James Audubon (1785–1851). It was a spot for quiet contemplation—until they plowed Broadway through it in 1871, splitting Trinity's peaceful cemetery in two (and disinterring dozens of bodies in the process). Eliza Jumel, John Jacob Astor, Ed Koch and Clement Clarke Moore (the author of 'A Visit from St. Nicholas') are buried here.",
+    "info": null,
+    "categories": ["historic", "religious", "landmark"],
+    "url": "https://www.trinitywallstreet.org/about/trinity-cemetery"
   },
   {
     "name": "American Legion Post 398",
@@ -312,7 +380,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic"],
+    "url": null
   },
   {
     "name": "American Academy of Arts and Letters",
@@ -321,7 +391,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The studio of influential composer Charles Ives is perfectly reconstructed, hidden in the back of the American Academy of Arts and Letters.",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum", "music"],
+    "url": "https://artsandletters.org/"
   },
   {
     "name": "Hispanic Society Museum & Library",
@@ -330,7 +402,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This Manhattan museum houses one of the largest collections of Spanish art and manuscripts outside of Spain.",
-    "info": null
+    "info": null,
+    "categories": ["museum", "art", "bookstore"],
+    "url": "https://www.hispanicsociety.org/"
   },
   {
     "name": "Church of the Intercession",
@@ -338,8 +412,10 @@
     "lon": -73.9449908,
     "icon": null,
     "imageURL": null,
-    "description": "A Manhattan Episcopal church with an eerie underground crypt.\u00a0<br>The Church of the Intercession in the City and Diocese of New York is a house of prayer for all people with many tongues and talents. It is a shining example of 19th Century American Church architecture in the English Gothic Style. As a testament to this fact the building was placed in the National Register of Historic Places. The parish complex was designed by the renowned architect Bertram Grosvenor Goodhue and he selected this location to be his final resting place because he considered it his finest work. His remains lay in a beautiful mausoleum inside the nave of the church, on the north ambulatory.<br><br>Entrusted with the care and maintenance of Bertram Grosvenor Goodhue\u2019s national Gothic revival landmark building, our church and church family aims to provide members and visitors with a place whose open doors welcome everyone. This architectural marvel is also the home to several community based organizations (including a chapter of the Girl Scouts of America, a community based Sports and Recreation program, The Native American Cultural Museum and Alcoholic Anonymous) and the holiday reading of \u2018Twas the Night Before Christmas (A Visit from Saint Nicholas) by Clement Clarke Moore. This event is considered New York\u2019s Oldest Christmas tradition. It is also home to the Uptown Brass Quintet \u2013 a chamber ensemble of five professional brass musicians\u2014and it is often chosen by filmmakers and photographers alike because of the building\u2019s architectural beauty.",
-    "info": null
+    "description": "A Manhattan Episcopal church with an eerie underground crypt. <br>The Church of the Intercession in the City and Diocese of New York is a house of prayer for all people with many tongues and talents. It is a shining example of 19th Century American Church architecture in the English Gothic Style. As a testament to this fact the building was placed in the National Register of Historic Places. The parish complex was designed by the renowned architect Bertram Grosvenor Goodhue and he selected this location to be his final resting place because he considered it his finest work. His remains lay in a beautiful mausoleum inside the nave of the church, on the north ambulatory.<br><br>Entrusted with the care and maintenance of Bertram Grosvenor Goodhue's national Gothic revival landmark building, our church and church family aims to provide members and visitors with a place whose open doors welcome everyone. This architectural marvel is also the home to several community based organizations (including a chapter of the Girl Scouts of America, a community based Sports and Recreation program, The Native American Cultural Museum and Alcoholic Anonymous) and the holiday reading of 'Twas the Night Before Christmas (A Visit from Saint Nicholas) by Clement Clarke Moore. This event is considered New York's Oldest Christmas tradition. It is also home to the Uptown Brass Quintet – a chamber ensemble of five professional brass musicians—and it is often chosen by filmmakers and photographers alike because of the building's architectural beauty.",
+    "info": null,
+    "categories": ["religious", "historic", "music"],
+    "url": "https://www.intercessionnyc.org/"
   },
   {
     "name": "Shrine",
@@ -348,7 +424,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music", "drinking"],
+    "url": "https://shrinenyc.com/"
   },
   {
     "name": "Crack Is Wack Mural",
@@ -357,7 +435,9 @@
     "icon": null,
     "imageURL": null,
     "description": "In 1986, Keith Haring was arrested for painting this anti-drug mural on a Harlem handball court.",
-    "info": null
+    "info": null,
+    "categories": ["art", "historic", "sports"],
+    "url": null
   },
   {
     "name": "Holcombe Rucker Park",
@@ -366,7 +446,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The legendary court where emerging basketball players gain their street cred.",
-    "info": null
+    "info": null,
+    "categories": ["sports", "historic", "park"],
+    "url": null
   },
   {
     "name": "Revolution Books",
@@ -375,7 +457,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://revbooks.org/"
   },
   {
     "name": "Bushman Steps",
@@ -384,7 +468,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A crumbling staircase in upper Manhattan is all that remains of one of the most important sites in sports history.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "sports", "quirky"],
+    "url": null
   },
   {
     "name": "Morris-Jumel Mansion",
@@ -392,8 +478,10 @@
     "lon": -73.9385727,
     "icon": null,
     "imageURL": null,
-    "description": "The oldest house in Manhattan is now a museum that remembers the home's sordid history of scandals, vice-presidents, and ghosts.\u00a0<br>\u00a0Built in 1765, the Morris-Jumel Mansion is the oldest surviving house in New York, and was the home of British sympathizer Roger Morris, who wisely decided to bid New York adieu during the war. But it\u2019s the tales of Eliza Jumel that give its Colonial hallways a jolt of scandal. She married former vice president Aaron Burr, but his squandering of her estate led to a quick divorce. When she died in 1865, she was regarded as one of the most notorious women in the city\u2019s history. Some say her ghost still inhabits the house (now a fascinating museum, well worth a visit). If you see her, say hello from us.",
-    "info": null
+    "description": "The oldest house in Manhattan is now a museum that remembers the home's sordid history of scandals, vice-presidents, and ghosts.  <br> Built in 1765, the Morris-Jumel Mansion is the oldest surviving house in New York, and was the home of British sympathizer Roger Morris, who wisely decided to bid New York adieu during the war. But it's the tales of Eliza Jumel that give its Colonial hallways a jolt of scandal. She married former vice president Aaron Burr, but his squandering of her estate led to a quick divorce. When she died in 1865, she was regarded as one of the most notorious women in the city's history. Some say her ghost still inhabits the house (now a fascinating museum, well worth a visit). If you see her, say hello from us.",
+    "info": null,
+    "categories": ["historic", "museum", "quirky"],
+    "url": "https://morrisjumel.org/"
   },
   {
     "name": "Sylvan Terrace",
@@ -402,7 +490,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A discreet little stairway on St. Nicholas Avenue leads to a quaint and unexpected cobblestone street of 19th century wooden rowhouses.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood", "quirky"],
+    "url": null
   },
   {
     "name": "United Palace",
@@ -410,8 +500,10 @@
     "lon": -73.9379235,
     "icon": null,
     "imageURL": null,
-    "description": "One of the last Jazz Age \"Wonder Theaters\" in New York City.\u00a0\u00a0<br>Just up the street from the Audubon Ballroom sits another Thomas Lamb movie palace -- the equally dazzling Loew's 175th Street Theatre, one of New York City's original 'Wonder Theatres' that took movie going to a new level of luxury. It took a decidedly Evangelical direction in 1969 when the television preacher Reverend Ike transformed it into the Palace Cathedral. While it still retains religious ties, the venue is frequently opened to concerts and film revivals -- and frequently hosts tours of the site.",
-    "info": null
+    "description": "One of the last Jazz Age \"Wonder Theaters\" in New York City.  <br>Just up the street from the Audubon Ballroom sits another Thomas Lamb movie palace -- the equally dazzling Loew's 175th Street Theatre, one of New York City's original 'Wonder Theatres' that took movie going to a new level of luxury. It took a decidedly Evangelical direction in 1969 when the television preacher Reverend Ike transformed it into the Palace Cathedral. While it still retains religious ties, the venue is frequently opened to concerts and film revivals -- and frequently hosts tours of the site.",
+    "info": null,
+    "categories": ["theater", "historic", "religious", "music"],
+    "url": "https://unitedpalace.org/"
   },
   {
     "name": "Apollo Theater",
@@ -420,7 +512,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["theater", "music", "historic"],
+    "url": "https://www.apollotheater.org/"
   },
   {
     "name": "Dwyer Cultural Center",
@@ -429,7 +523,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://dwyerculturalcenter.org/"
   },
   {
     "name": "Flamekeepers Hat Club",
@@ -438,7 +534,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://flamekeepershatclub.com/"
   },
   {
     "name": "Mt. Olivet Baptist Church",
@@ -447,7 +545,9 @@
     "icon": null,
     "imageURL": null,
     "description": "gospel services, but not on tour bus route",
-    "info": null
+    "info": null,
+    "categories": ["religious", "music"],
+    "url": "https://www.mtolivetbaptist.org/"
   },
   {
     "name": "St Martin's Episcopal Church",
@@ -456,7 +556,9 @@
     "icon": null,
     "imageURL": null,
     "description": "one of 2 carillions in NY; one of handsomest Romanesque buildings in NYC; also, for some reason, popular with Japanese tourists to get married in",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "music"],
+    "url": "https://www.stmartinharlem.org/"
   },
   {
     "name": "The Studio Museum in Harlem",
@@ -465,7 +567,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The Studio Museum in Harlem is a spot for African artists to share their work about culture, tradition, and society. The museum has several temporary exhibits, including Projects 110: Michael Armitage and Dozie Kanu: Functions.<br><br>Highlights<br>Here are some of the \"must see\" items at Studio Museum in Harlem.<br><br>Dozie Kanu: Function<br>Black Refractions<br>Projects 110: Michael Armitage",
-    "info": null
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://studiomuseum.org/"
   },
   {
     "name": "Sisyphus Stones",
@@ -474,7 +578,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Hordes of precariously balanced stone figures crowd the shores of the Hudson River.",
-    "info": null
+    "info": null,
+    "categories": ["art", "quirky", "nature"],
+    "url": null
   },
   {
     "name": "The Little Red Lighthouse",
@@ -482,8 +588,10 @@
     "lon": -73.946979,
     "icon": null,
     "imageURL": null,
-    "description": "Dwarfed by the might of the George Washington Bridge, tiny as a peg as you drive past it into Manhattan, is the quiet red Jeffrey\u2019s Hook Light far below. Manhattan\u2019s only operational lighthouse when it was placed here in 1921, it was quickly made obsolete by the very bright new bridge that opened high above it in 1931\u2014 the new structure cast plenty of light down to help guide vessels along the Hudson. Fortunately for the lighthouse, it became the subject of a popular 1942 children\u2019s book, The Little Red Lighthouse and the Great Gray Bridge by Hildegarde Swift. Demolishing it would have been like killing off Pinocchio, and so it remains to this day.",
-    "info": null
+    "description": "Dwarfed by the might of the George Washington Bridge, tiny as a peg as you drive past it into Manhattan, is the quiet red Jeffrey's Hook Light far below. Manhattan's only operational lighthouse when it was placed here in 1921, it was quickly made obsolete by the very bright new bridge that opened high above it in 1931— the new structure cast plenty of light down to help guide vessels along the Hudson. Fortunately for the lighthouse, it became the subject of a popular 1942 children's book, The Little Red Lighthouse and the Great Gray Bridge by Hildegarde Swift. Demolishing it would have been like killing off Pinocchio, and so it remains to this day.",
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": "https://www.nyc.gov/site/parks/parks/little-red-lighthouse.page"
   },
   {
     "name": "Bennett Park",
@@ -491,8 +599,10 @@
     "lon": -73.9380028,
     "icon": null,
     "imageURL": null,
-    "description": "The highest point on Manhattan Island was, unsurprisingly, also the site of Fort Washington, a Revolutionary War fort. Nothing remains of it; the spot, now surrounded by apartment buildings, instead holds Bennett Park today, named for news paper publisher James Gordon Bennett, Sr. because he happened to own this land when he died in 1872. A decorative cannon still adorning the park is a stern reminder of the day, November 16, 1776, when the fort fell into British hands. And nearby, to commemorate the bicentennial of Washington\u2019s birth in 1732, grows an American elm, planted in 1932",
-    "info": null
+    "description": "The highest point on Manhattan Island was, unsurprisingly, also the site of Fort Washington, a Revolutionary War fort. Nothing remains of it; the spot, now surrounded by apartment buildings, instead holds Bennett Park today, named for news paper publisher James Gordon Bennett, Sr. because he happened to own this land when he died in 1872. A decorative cannon still adorning the park is a stern reminder of the day, November 16, 1776, when the fort fell into British hands. And nearby, to commemorate the bicentennial of Washington's birth in 1732, grows an American elm, planted in 1932",
+    "info": null,
+    "categories": ["park", "historic", "landmark"],
+    "url": "https://www.nyc.gov/site/parks/parks/bennett-park.page"
   },
   {
     "name": "St Frances Cabrini Shrine",
@@ -500,8 +610,10 @@
     "lon": -73.9351772,
     "icon": null,
     "imageURL": null,
-    "description": "The mummified relics of an American missionary.\u00a0<br>\u00a0In 1899 Mother Frances Cabrini, who founded hospitals and orphanages throughout the United States, bought a remote piece of property on Fort Washington Avenue and founded a high school here. When she died in 1917, her remains were kept in the high school chapel. But her canonization in 1946 required a larger quarters for visitors and she was moved to this newly constructed shrine in 1959. You can visit Cabrini to this day; she's contained in a glass coffin beneath the altar.",
-    "info": null
+    "description": "The mummified relics of an American missionary. <br> In 1899 Mother Frances Cabrini, who founded hospitals and orphanages throughout the United States, bought a remote piece of property on Fort Washington Avenue and founded a high school here. When she died in 1917, her remains were kept in the high school chapel. But her canonization in 1946 required a larger quarters for visitors and she was moved to this newly constructed shrine in 1959. You can visit Cabrini to this day; she's contained in a glass coffin beneath the altar.",
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": "https://www.cabrinishine.org/"
   },
   {
     "name": "The Met Cloisters",
@@ -509,8 +621,10 @@
     "lon": -73.9317274,
     "icon": null,
     "imageURL": null,
-    "description": "West Terrace:\u00a0This hidden oasis features a stunning view of the Hudson River and the Palisades from a castle-like museum.<br> Parts of the Cloisters are among the oldest structures standing in the United States\u2014although of course, they weren\u2019t made here. They were brought over, stone by stone, in an ambitious scavenger hunt that could only have been the pet project of one of the richest New Yorkers who ever lived: John D. Rockefeller, Jr.",
-    "info": null
+    "description": "West Terrace: This hidden oasis features a stunning view of the Hudson River and the Palisades from a castle-like museum.<br> Parts of the Cloisters are among the oldest structures standing in the United States—although of course, they weren't made here. They were brought over, stone by stone, in an ambitious scavenger hunt that could only have been the pet project of one of the richest New Yorkers who ever lived: John D. Rockefeller, Jr.",
+    "info": null,
+    "categories": ["museum", "art", "historic"],
+    "url": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters"
   },
   {
     "name": "Dyckman Farmhouse Museum",
@@ -518,8 +632,10 @@
     "lon": -73.9229408,
     "icon": null,
     "imageURL": null,
-    "description": "This Dutch Colonial home is the oldest remaining farmhouse in Manhattan.\u00a0\u00a0<br>Not all of the surviving Colonial-era homes in New York are elegant mansions. The Dyckman Farmhouse, built in 1784, wouldn\u2019t look out of place on the Midwestern prairie. However, it could not be farther from an actual farm today, as it is boxed in by apartment buildings and locked into place by the traffic of Broadway. Two additional features set it apart from the urban reality that surrounds it: 1) It has a backyard, blooming with flowers, and 2) that backyard also has rugged Hessian barracks. The excavated hut\u2014thrillingly rebuilt in 1916, when the home became a museum\u2014predates the house",
-    "info": null
+    "description": "This Dutch Colonial home is the oldest remaining farmhouse in Manhattan.  <br>Not all of the surviving Colonial-era homes in New York are elegant mansions. The Dyckman Farmhouse, built in 1784, wouldn't look out of place on the Midwestern prairie. However, it could not be farther from an actual farm today, as it is boxed in by apartment buildings and locked into place by the traffic of Broadway. Two additional features set it apart from the urban reality that surrounds it: 1) It has a backyard, blooming with flowers, and 2) that backyard also has rugged Hessian barracks. The excavated hut—thrillingly rebuilt in 1916, when the home became a museum—predates the house",
+    "info": null,
+    "categories": ["historic", "museum"],
+    "url": "https://www.dyckmanfarmhouse.org/"
   },
   {
     "name": "Isham Park",
@@ -528,7 +644,9 @@
     "icon": null,
     "imageURL": null,
     "description": "This extraordinarily peaceful spot also has deep Revolutionary roots but it also has a unique connection to another aspect of Inwood history. Until the early 20th century, mansions of elite New Yorkers dotted this rugged landscape, and it was on this exact spot that banker William Bradley Isham built a summer home. Believe it or not, the home and many surrounding structures were actually a part of the park when it opened in the 1910s. Parks commissioner Robert Moses had these structures ripped down in the 1940s.",
-    "info": null
+    "info": null,
+    "categories": ["park", "historic", "nature"],
+    "url": "https://www.nyc.gov/site/parks/parks/isham-park.page"
   },
   {
     "name": "Seaman-Drake Arch",
@@ -537,7 +655,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Surrounded by low rise buildings and partially converted into an auto body shop, this marble archway is the only vestige of a forgotten Manhattan estate.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": null
   },
   {
     "name": "Shorakkopoch Rock",
@@ -546,7 +666,9 @@
     "icon": null,
     "imageURL": null,
     "description": "A large boulder marks the place where the island of Manhattan was purportedly \"sold\" to the Dutch.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": null
   },
   {
     "name": "Indian Caves",
@@ -555,7 +677,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "nature", "quirky"],
+    "url": null
   },
   {
     "name": "The Greater Refuge Temple",
@@ -564,7 +688,9 @@
     "icon": null,
     "imageURL": null,
     "description": "mid-century modern, Googie architecture",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://www.grtemple.org/"
   },
   {
     "name": "The National Jazz Museum in Harlem",
@@ -573,7 +699,9 @@
     "icon": null,
     "imageURL": null,
     "description": "The National Jazz Museum in Harlem is a museum focused on Harlem's jazz history and traditions. The museum has hosted exhibits like The Ghosts of Harlem, weekly programs to include lecture series, and events at other locations like museums around the city. The focal point of the museum's collection is 1,000 discs of recorded radio broadcasts that includes performances by icons like Louis Armstrong and Billie Holiday.<br><br>Highlights<br>Here are some of the \"must see\" items at National Jazz Museum in Harlem.<br><br>Ralph Ellison: A Man and His Records<br>Afrolatinidad by Carlos Mateu",
-    "info": null
+    "info": null,
+    "categories": ["museum", "music", "historic"],
+    "url": "https://jazzmuseuminharlem.org/"
   },
   {
     "name": "Harlem Rose Garden",
@@ -582,7 +710,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "Sugar Hill Children's Museum of Art & Storytelling",
@@ -591,7 +721,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.sugarhillmuseum.org/"
   },
   {
     "name": "Marjorie Eliot's Parlor Entertainment Harlem",
@@ -600,7 +732,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["music"],
+    "url": null
   },
   {
     "name": "Swindler Cove",
@@ -609,7 +743,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["nature", "park"],
+    "url": null
   },
   {
     "name": "191st Street Station Entrance Tunnel & Elevator",
@@ -618,7 +754,9 @@
     "icon": null,
     "imageURL": null,
     "description": "deepest subway station; has live elevator operators",
-    "info": null
+    "info": null,
+    "categories": ["landmark", "quirky"],
+    "url": null
   },
   {
     "name": "Hudson River Community Sailing Inwood",
@@ -627,7 +765,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["recreation", "nature"],
+    "url": "https://www.hudsonsailing.org/"
   },
   {
     "name": "Inwood Hill Nature Center",
@@ -636,7 +776,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["nature", "museum"],
+    "url": "https://www.nyc.gov/site/parks/parks/inwood-hill-park.page"
   },
   {
     "name": "Inwood Hill Park",
@@ -644,8 +786,10 @@
     "lon": -73.924776,
     "icon": null,
     "imageURL": null,
-    "description": "only old growth forest in Manhattan<br>This majestic park is quite possibly New York City\u2019s most under-appreciated treasure, a series of breathtaking postcards come to life, where earth, foliage, and water return Manhattan to \u201cMannahatta.\u201d Made a park in 1916, its woods are naturally wild and rugged, as if no European had ever crossed this forested landscape. Who knows what ancient secrets lurk along the banks of the Spuyten Duyvil? Nearly 400 years ago, in 1626, next to a tulip tree here, Peter Minuit, the director-general of New Amsterdam, reportedly purchased the island from the Lenape for a grand total of 60 guilders. Today you can find the location of the old tulip tree near a boulder named Shorakkopoch Rock.",
-    "info": null
+    "description": "only old growth forest in Manhattan<br>This majestic park is quite possibly New York City's most under-appreciated treasure, a series of breathtaking postcards come to life, where earth, foliage, and water return Manhattan to "Mannahatta." Made a park in 1916, its woods are naturally wild and rugged, as if no European had ever crossed this forested landscape. Who knows what ancient secrets lurk along the banks of the Spuyten Duyvil? Nearly 400 years ago, in 1626, next to a tulip tree here, Peter Minuit, the director-general of New Amsterdam, reportedly purchased the island from the Lenape for a grand total of 60 guilders. Today you can find the location of the old tulip tree near a boulder named Shorakkopoch Rock.",
+    "info": null,
+    "categories": ["park", "nature", "historic"],
+    "url": "https://www.nyc.gov/site/parks/parks/inwood-hill-park.page"
   },
   {
     "name": "Inwood Canoe Club",
@@ -654,7 +798,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["recreation", "nature"],
+    "url": "https://inwoodcanoe.org/"
   },
   {
     "name": "Heather Garden",
@@ -663,7 +809,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "Hudson View Gardens",
@@ -672,7 +820,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "Moscow on the Hudson",
@@ -681,7 +831,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "George Washington Bridge Bus Station",
@@ -690,7 +842,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["landmark"],
+    "url": null
   },
   {
     "name": "The High Bridge",
@@ -699,7 +853,9 @@
     "icon": null,
     "imageURL": null,
     "description": "No monument to freshwater dominates quite like the High Bridge, the Romanesque wonder linking Manhattan to the Bronx over the Harlem River. For many decades this majestic artifact, seemingly plucked from the hills of ancient Gaul, was a vital link in that great engineering triumph: the Croton Aqueduct.<br><br>Completed in 1848, it not only brought the Croton water into the city, but it also made one heck of a statement noticed around the world. In 1872, as masses of new arrivals from far-off lands crammed into tenements, an attractive water tower was constructed near the High Bridge to help increase the water pressure into the city.<br><br>The water has long been turned off, but the bridge still beckons pedestrians onto its expanse over the Harlem.",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark", "park"],
+    "url": "https://www.nyc.gov/site/parks/parks/high-bridge-park.page"
   },
   {
     "name": "The Nike Track & Field Center at The Armory",
@@ -708,7 +864,9 @@
     "icon": null,
     "imageURL": null,
     "description": "National track and field hall of fame<br>Manhattan once had over twenty armories, built to store military ammunition and sometimes house troops. This armory, named for the old Revolutionary War fort, was built in 1911 and became home to a regiment of the Army Corp of Engineers. Today it's more associated with another sort of endurance -- track and field. The Armory Track is one of the most important sites in America for the sport, and the National Track and Field Hall of Fame shares space here with dozens of yearly track events. (216 Fort Washington Avenue)",
-    "info": null
+    "info": null,
+    "categories": ["sports", "museum", "historic"],
+    "url": "https://armorytrack.com/"
   },
   {
     "name": "The Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
@@ -717,16 +875,20 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://theshabazzcenter.net/"
   },
   {
-    "name": "Word Up Community Bookshop/Librer\u00eda Comunitaria",
+    "name": "Word Up Community Bookshop/Librería Comunitaria",
     "lat": 40.837733,
     "lon": -73.9382687,
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["bookstore"],
+    "url": "https://wordupbooks.com/"
   },
   {
     "name": "Church of Our Lady of Esperanza",
@@ -735,7 +897,9 @@
     "icon": null,
     "imageURL": null,
     "description": "richly decorated w. religious art & stained glass; has lamp donated by king alfonso of Spain",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://ourladyofesperanza.org/"
   },
   {
     "name": "85 Bradhurst Ave.",
@@ -744,7 +908,9 @@
     "icon": null,
     "imageURL": null,
     "description": "landmarked interior",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   },
   {
     "name": "Mishkin's Drug Store",
@@ -753,7 +919,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "shopping"],
+    "url": null
   },
   {
     "name": "Shepard Hall",
@@ -762,7 +930,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.ccny.cuny.edu/"
   },
   {
     "name": "The City College of New York",
@@ -771,7 +941,9 @@
     "icon": null,
     "imageURL": null,
     "description": "beautiful main building",
-    "info": null
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.ccny.cuny.edu/"
   },
   {
     "name": "St. Nicholas Park",
@@ -780,7 +952,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": "https://www.nyc.gov/site/parks/parks/st-nicholas-park.page"
   },
   {
     "name": "Strivers' Row",
@@ -789,7 +963,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "The Abyssinian Baptist Church",
@@ -798,7 +974,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["religious", "historic", "music"],
+    "url": "https://www.abyssinian.org/"
   },
   {
     "name": "Astor Row Houses",
@@ -807,7 +985,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["historic", "neighborhood"],
+    "url": null
   },
   {
     "name": "Caribbean Cultural Center African Diaspora Institute (CCCADI)",
@@ -816,7 +996,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.cccadi.org/"
   },
   {
     "name": "I, Too, Arts Collective",
@@ -825,7 +1007,9 @@
     "icon": null,
     "imageURL": null,
     "description": "art collective in Langston Hughes house",
-    "info": null
+    "info": null,
+    "categories": ["art", "historic"],
+    "url": "https://www.itooarts.org/"
   },
   {
     "name": "National Black Theatre Inc",
@@ -834,7 +1018,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["theater"],
+    "url": "https://nationalblacktheatre.org/"
   },
   {
     "name": "17 E 128th St",
@@ -843,7 +1029,9 @@
     "icon": null,
     "imageURL": null,
     "description": "Civil War era home",
-    "info": null
+    "info": null,
+    "categories": ["historic"],
+    "url": null
   },
   {
     "name": "Demolition Depot and Irreplaceable Artifacts",
@@ -852,7 +1040,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": "https://www.demolitiondepot.com/"
   },
   {
     "name": "Marcus Garvey Park",
@@ -861,7 +1051,9 @@
     "icon": null,
     "imageURL": null,
     "description": "harlem fire watchtower",
-    "info": null
+    "info": null,
+    "categories": ["park", "historic", "landmark"],
+    "url": "https://www.nyc.gov/site/parks/parks/marcus-garvey-park.page"
   },
   {
     "name": "Maysles Documentary Center",
@@ -870,7 +1062,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["cinema", "art"],
+    "url": "https://maysles.org/"
   },
   {
     "name": "La Casa De Las Velas",
@@ -879,7 +1073,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["shopping", "religious"],
+    "url": null
   },
   {
     "name": "Hunter East Harlem Gallery",
@@ -888,7 +1084,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.hunter.cuny.edu/"
   },
   {
     "name": "Harlem Art Park",
@@ -897,7 +1095,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "art"],
+    "url": null
   },
   {
     "name": "Sylvan Place",
@@ -906,7 +1106,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
   },
   {
     "name": "The Home Depot Children's Garden",
@@ -915,7 +1117,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
   },
   {
     "name": "La Marqueta",
@@ -924,7 +1128,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["market", "food"],
+    "url": "https://lamarqueta.org/"
   },
   {
     "name": "The Bridge Golf Learning Center",
@@ -933,7 +1139,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["sports", "recreation"],
+    "url": "https://www.bridgegolf.com/"
   },
   {
     "name": "Masjid Malcolm Shabazz",
@@ -942,7 +1150,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["religious"],
+    "url": "https://masjidmalcolmshabazz.net/"
   },
   {
     "name": "Malcolm Shabazz Harlem Market",
@@ -951,7 +1161,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["market", "shopping"],
+    "url": null
   },
   {
     "name": "Audubon Terrace Historic District",
@@ -959,8 +1171,10 @@
     "lon": -73.9459303,
     "icon": null,
     "imageURL": null,
-    "description": "This pocket of majestic Beaux-Arts palaces surrounds a sculpture garden that would look at home in the Metropolitan Museum of Art or the Frick Collection. The Audubon Terrace\u2019s remoteness is a big part of its charm. Audubon owned twenty acres of rolling hills, ideal for his naturalistic obsessions, and when he died in 1851, the land was parceled off into a shaded neighborhood named Audubon Park. Philanthropist Archer Milton Huntington developed several institutions here including the Hispanic Society of America and the original Museum of the American Indian.",
-    "info": null
+    "description": "This pocket of majestic Beaux-Arts palaces surrounds a sculpture garden that would look at home in the Metropolitan Museum of Art or the Frick Collection. The Audubon Terrace's remoteness is a big part of its charm. Audubon owned twenty acres of rolling hills, ideal for his naturalistic obsessions, and when he died in 1851, the land was parceled off into a shaded neighborhood named Audubon Park. Philanthropist Archer Milton Huntington developed several institutions here including the Hispanic Society of America and the original Museum of the American Indian.",
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": null
   },
   {
     "name": "Fort Tryon Park",
@@ -968,8 +1182,10 @@
     "lon": -73.9312995,
     "icon": null,
     "imageURL": null,
-    "description": "This captivating public park not only hosts the renowned Cloisters museum, but it\u2019s also one of the lushest and most romantic spots in Manhattan, with dramatic outlooks over the Hudson River and sweeping views of the Palisades. Curiously, the name refers to Sir William Tryon (1729\u20131788), one of the last governors of the Province of New York, who led British forces to burn and plunder civilian outposts throughout New England during the Revolutionary War. He was a debonair monster. And yet the name has, by tradition, stuck. Wander the meandering paths and you\u2019ll come across several other mementos of long-ago times, including a bronze plaque to the memory of Margaret Corbin (1751\u20131800), considered the first woman to see active battle in the Revolutionary War and the first to receive a military pension after the war.",
-    "info": null
+    "description": "This captivating public park not only hosts the renowned Cloisters museum, but it's also one of the lushest and most romantic spots in Manhattan, with dramatic outlooks over the Hudson River and sweeping views of the Palisades. Curiously, the name refers to Sir William Tryon (1729–1788), one of the last governors of the Province of New York, who led British forces to burn and plunder civilian outposts throughout New England during the Revolutionary War. He was a debonair monster. And yet the name has, by tradition, stuck. Wander the meandering paths and you'll come across several other mementos of long-ago times, including a bronze plaque to the memory of Margaret Corbin (1751–1800), considered the first woman to see active battle in the Revolutionary War and the first to receive a military pension after the war.",
+    "info": null,
+    "categories": ["park", "historic", "nature"],
+    "url": "https://www.nyc.gov/site/parks/parks/fort-tryon-park.page"
   },
   {
     "name": "The Victoria Theater Restaurant",
@@ -977,8 +1193,10 @@
     "lon": -73.9496005,
     "icon": null,
     "imageURL": null,
-    "description": "he Apollo Stages at the Victoria Theater marks the first physical expansion in the Apollo\u2019s 90-year history. Featuring two flexible, state-of-the-art black box theaters, gathering spaces, exhibition space, and administrative offices all within what was Lowe\u2019s Victoria Theater (designed by architect Thomas Lamb and opened in 1918), The Apollo Stages at the Victoria Theater advances the non-profit organization\u2019s mission to support emerging and established artists of color across disciplines, and further solidifies it as an artistic, educational, and civic resource and cultural anchor within the community.<br><br>The two purpose-built theaters have a custom built, retractable seating system to allow for multiple configurations. With a flexible 199-seat and 99-seat capacity, the performance spaces are designed to accommodate both traditional and non-traditional stagings. Several detail portions of the historic Victoria Theater were preserved and have been restored, including its original terra cotta fa\u00e7ade, the grand staircase in the ornate entrance lobby, detailed tile floors, and marquee, which have been incorporated into the new design in order to honor its significance in Harlem\u2019s history.",
-    "info": null
+    "description": "he Apollo Stages at the Victoria Theater marks the first physical expansion in the Apollo's 90-year history. Featuring two flexible, state-of-the-art black box theaters, gathering spaces, exhibition space, and administrative offices all within what was Lowe's Victoria Theater (designed by architect Thomas Lamb and opened in 1918), The Apollo Stages at the Victoria Theater advances the non-profit organization's mission to support emerging and established artists of color across disciplines, and further solidifies it as an artistic, educational, and civic resource and cultural anchor within the community.<br><br>The two purpose-built theaters have a custom built, retractable seating system to allow for multiple configurations. With a flexible 199-seat and 99-seat capacity, the performance spaces are designed to accommodate both traditional and non-traditional stagings. Several detail portions of the historic Victoria Theater were preserved and have been restored, including its original terra cotta façade, the grand staircase in the ornate entrance lobby, detailed tile floors, and marquee, which have been incorporated into the new design in order to honor its significance in Harlem's history.",
+    "info": null,
+    "categories": ["theater", "historic", "food"],
+    "url": "https://www.apollotheater.org/"
   },
   {
     "name": "GWB North Sidewalk",
@@ -987,7 +1205,9 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null
+    "info": null,
+    "categories": ["landmark", "recreation"],
+    "url": null
   },
   {
     "name": "Mount Morris Fire Watchtower",
@@ -995,7 +1215,9 @@
     "lon": -73.9436751,
     "icon": null,
     "imageURL": null,
-    "description": "The 1857 tower, the last of its kind and one of the oldest standalone cast-iron structures in an urban context was designated a New York City Landmark in 1967 and was listed on the National Register of Historic Places in 1976. While the fire tower network, which at its peak included 11 towers, fell into disuse in the 1870s, the bell atop the Mount Morris tower continued to sound for timekeeping and churchgoing purposes until about 1909. In 2000, architect and preservationist Angel Ay\u00f3n, Principal of AYON Studio, began and continued advising stakeholders, including the Mt. Morris Park Community Improvement Association and the Marcus Garvey Park Alliance, in their campaign to save the tower. As a result of their collective advocacy, the tower\u2019s rehabilitation was completed by the City.",
-    "info": null
+    "description": "The 1857 tower, the last of its kind and one of the oldest standalone cast-iron structures in an urban context was designated a New York City Landmark in 1967 and was listed on the National Register of Historic Places in 1976. While the fire tower network, which at its peak included 11 towers, fell into disuse in the 1870s, the bell atop the Mount Morris tower continued to sound for timekeeping and churchgoing purposes until about 1909. In 2000, architect and preservationist Angel Ayón, Principal of AYON Studio, began and continued advising stakeholders, including the Mt. Morris Park Community Improvement Association and the Marcus Garvey Park Alliance, in their campaign to save the tower. As a result of their collective advocacy, the tower's rehabilitation was completed by the City.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
   }
 ]
