@@ -1303,16 +1303,7 @@
     "categories": [
       "bookstore"
     ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.6986516,
-    "lon": -73.9342599,
-    "name": "Mellow Pages Library",
-    "url": null
-  },
-  {
+   {
     "categories": [
       "religious"
     ],
@@ -2285,8 +2276,8 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "lat": 40.718844,
-    "lon": -73.9495801,
+    "lat": 40.7035,
+    "lon": -73.9917,
     "name": "Museum of Food and Drink (MOFAD) Lab",
     "url": "https://www.mofad.org/"
   },
@@ -2342,20 +2333,6 @@
     "lat": 40.7006193,
     "lon": -73.9237572,
     "name": "Molasses Books",
-    "url": null
-  },
-  {
-    "categories": [
-      "music",
-      "art"
-    ],
-    "description": "DIY music venue and artist collective space.",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.69863,
-    "lon": -73.934307,
-    "name": "Silent Barn",
     "url": null
   },
   {
