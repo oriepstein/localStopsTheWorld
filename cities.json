@@ -103,5 +103,10 @@
     "name": "Curacao",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Curacao",
     "imageURL": "https://images.unsplash.com/photo-1539681607322-8e907b3682aa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y3VyYWNhb3xlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "name": "Baghadad",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Baghdad",
+    "imageURL": "https://images.unsplash.com/photo-1737314417275-92a2657112c8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJhZ2hkYWR8ZW58MHx8MHx8fDA%3D"
   }
 ]
