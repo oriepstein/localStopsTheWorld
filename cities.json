@@ -108,5 +108,10 @@
     "name": "Baghadad",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Baghdad",
     "imageURL": "https://images.unsplash.com/photo-1737314417275-92a2657112c8?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJhZ2hkYWR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "name": "Boston",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/boston_eastern_ma_places_categorized.json",
+    "imageURL": "https://plus.unsplash.com/premium_photo-1694475434235-12413ec38b3e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9zdG9ufGVufDB8fDB8fHww"
   }
 ]
