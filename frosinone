@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Atina",
+    "lat": 41.6192298,
+    "lon": 13.8016224,
+    "icon": null,
+    "imageURL": null,
+    "description": "iBPBdI - Historic hilltop town known for its medieval architecture and stunning mountain views in the Comino Valley.",
+    "info": null,
+    "categories": ["historic", "towns"],
+    "url": "https://www.comune.atina.fr.it/"
+  },
+  {
+    "name": "Boville Ernica",
+    "lat": 41.6410687,
+    "lon": 13.4752612,
+    "icon": null,
+    "imageURL": null,
+    "description": "iBPBdI - Ancient town with well-preserved medieval walls and gates, offering panoramic views of the Sacco Valley.",
+    "info": null,
+    "categories": ["historic", "towns"],
+    "url": "https://www.comune.bovilleernica.fr.it/"
+  },
+  {
+    "name": "Castro dei Volsci",
+    "lat": 41.5080714,
+    "lon": 13.404803,
+    "icon": null,
+    "imageURL": null,
+    "description": "iBPBdI - Charming medieval village perched on a hilltop with ancient Volscian origins and beautiful stone architecture.",
+    "info": null,
+    "categories": ["historic", "towns"],
+    "url": "https://www.comune.castrodeivolsci.fr.it/"
+  },
+  {
+    "name": "Pico",
+    "lat": 41.4513253,
+    "lon": 13.5579283,
+    "icon": null,
+    "imageURL": null,
+    "description": "iBPBdI -Small hilltop town known for its castle ruins and traditional architecture in the heart of Ciociaria.",
+    "info": null,
+    "categories": ["historic", "towns"],
+    "url": "https://www.comune.pico.fr.it/"
+  },
+  {
+    "name": "Arpino",
+    "lat": 41.6478561,
+    "lon": 13.6096161,
+    "icon": null,
+    "imageURL": null,
+    "description": "Birthplace of Cicero and Marius, featuring impressive Cyclopean walls and medieval architecture.",
+    "info": null,
+    "categories": ["historic", "towns", "archaeological"],
+    "url": "https://www.comune.arpino.fr.it/"
+  },
+  {
+    "name": "Collepardo",
+    "lat": 41.7636575,
+    "lon": 13.3674287,
+    "icon": null,
+    "imageURL": null,
+    "description": "Mountain village known for the nearby Certosa di Trisulti monastery and natural caves.",
+    "info": null,
+    "categories": ["historic", "towns", "nature", "religious"],
+    "url": "https://www.comune.collepardo.fr.it/"
+  },
+  {
+    "name": "San Donato Val di Comino",
+    "lat": 41.7088236,
+    "lon": 13.8125952,
+    "icon": null,
+    "imageURL": null,
+    "description": "Picturesque mountain town in the Comino Valley, surrounded by the Abruzzo National Park.",
+    "info": null,
+    "categories": ["historic", "towns", "nature"],
+    "url": "https://www.comune.sandonatovaldicomino.fr.it/"
+  },
+  {
+    "name": "Trevi nel Lazio",
+    "lat": 41.8629761,
+    "lon": 13.2462377,
+    "icon": null,
+    "imageURL": null,
+    "description": "Medieval hilltop village in the Simbruini Mountains with ancient Roman origins and beautiful churches.",
+    "info": null,
+    "categories": ["historic", "towns", "religious"],
+    "url": "https://www.comune.trevinellazio.fr.it/"
+  },
+  {
+    "name": "Fasti Verulani",
+    "lat": 41.6913443,
+    "lon": 13.417798,
+    "icon": null,
+    "imageURL": null,
+    "description": "A Roman calendar dating to the first century is tucked away in a small town alley. Set against a wall in the courtyard of Casa Reali, a late medieval house in the town of Veroli, in the Italian region of Lazio, is an exceptional archaeological find: the Roman calendar known as Fasti Verolani.",
+    "info": null,
+    "categories": ["archaeological", "historic", "museum"],
+    "url": "https://www.comune.veroli.fr.it/"
+  },
+  {
+    "name": "Pozzo d'Antullo",
+    "lat": 41.7706281,
+    "lon": 13.3683155,
+    "icon": null,
+    "imageURL": null,
+    "description": "An enormous sinkhole that local lore attributes to the anger of the Virgin Mary.",
+    "info": null,
+    "categories": ["nature", "quirky"],
+    "url": "https://www.parcoregionalesiinbruini.it/"
+  },
+  {
+    "name": "Arco di Trevi",
+    "lat": 41.8328013,
+    "lon": 13.2653012,
+    "icon": null,
+    "imageURL": null,
+    "description": "This mysterious ancient arch is hidden in the forest of Simbruini Mountains Regional Park.",
+    "info": null,
+    "categories": ["archaeological", "historic", "nature"],
+    "url": "https://www.parcoregionalesiinbruini.it/"
+  },
+  {
+    "name": "Cripta di San Magno",
+    "lat": 41.7428509,
+    "lon": 13.1619181,
+    "icon": null,
+    "imageURL": null,
+    "description": "The Sistine Chapel of the Middle Ages merges 11th-century science and religion in wondrous hues.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://www.comune.anagni.fr.it/"
+  },
+  {
+    "name": "Palazzo Bonifacio VIII",
+    "lat": 41.7426108,
+    "lon": 13.1605405,
+    "icon": null,
+    "imageURL": null,
+    "description": "This former papal residence was the site of an infamous incident known as the slap of Anagni.",
+    "info": null,
+    "categories": ["historic", "museum", "religious"],
+    "url": "https://www.palazzobonifacioviii.it/"
+  },
+  {
+    "name": "Barnekow Palace",
+    "lat": 41.743786,
+    "lon": 13.1545193,
+    "icon": null,
+    "imageURL": null,
+    "description": "A medieval house with mysterious alchemical inscriptions on its facade",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": "https://www.comune.anagni.fr.it/"
+  },
+  {
+    "name": "Antiche Fornaci Giorgi - cotto fatto a mano",
+    "lat": 41.699007,
+    "lon": 13.243203,
+    "icon": null,
+    "imageURL": null,
+    "description": "Production site for handmade clay bricks",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.fornacigiorgi.it/"
+  },
+  {
+    "name": "Eremo di San Michele Arcangelo",
+    "lat": 41.8441188,
+    "lon": 13.1056551,
+    "icon": null,
+    "imageURL": null,
+    "description": "This small hermitage on Mount Scalambra was built near what some believe is the miraculous imprint of Saint Benedict's hand.",
+    "info": null,
+    "categories": ["religious", "historic", "nature"],
+    "url": "https://www.comune.subiaco.rm.it/"
+  }
+]
