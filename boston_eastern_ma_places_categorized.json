@@ -1,0 +1,2022 @@
+[
+  {
+    "name": "Wolf Hollow - North American Wolf Foundation",
+    "lat": 42.6561407,
+    "lon": -70.815038,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Halibut Point State Park",
+    "lat": 42.689018,
+    "lon": -70.632564,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Mary Baker Eddy Library",
+    "lat": 42.344981,
+    "lon": -71.086029,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": null
+  },
+  {
+    "name": "Adams National Historical Park",
+    "lat": 42.256378,
+    "lon": -71.0117588,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Frederick Law Olmsted National Historic Site",
+    "lat": 42.325362,
+    "lon": -71.1323369,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "John Fitzgerald Kennedy National Historic Site",
+    "lat": 42.346965,
+    "lon": -71.123267,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Lowell National Historical Park",
+    "lat": 42.6459878,
+    "lon": -71.3204567,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Lowell National Historical Park Visitor Center",
+    "lat": 42.6445498,
+    "lon": -71.3126814,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Boott Cotton Mills Museum",
+    "lat": 42.6476031,
+    "lon": -71.3074327,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "The New England Quilt Museum",
+    "lat": 42.6454111,
+    "lon": -71.3120889,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "National Streetcar Museum at Lowell",
+    "lat": 42.6451182,
+    "lon": -71.312804,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Patrick J Mogan Cultural Center",
+    "lat": 42.64764,
+    "lon": -71.3089159,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Mill Girls and Immigrants Exhibit (Lowell NHP)",
+    "lat": 42.6476801,
+    "lon": -71.3089874,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Minute Man National Historical Park",
+    "lat": 42.4573132,
+    "lon": -71.3182347,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "North Bridge Visitor Center",
+    "lat": 42.4709282,
+    "lon": -71.3525461,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Major John Buttrick House",
+    "lat": 42.4722842,
+    "lon": -71.3534286,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Hartwell Tavern",
+    "lat": 42.4538493,
+    "lon": -71.2932308,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "drinking"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Wayside Home of Authors",
+    "lat": 42.4590564,
+    "lon": -71.3330264,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "New Bedford Whaling National Historical Park",
+    "lat": 41.6357425,
+    "lon": -70.9239793,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Faneuil Hall Visitor Center",
+    "lat": 42.3600124,
+    "lon": -71.0562767,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Old South Meeting House",
+    "lat": 42.3571796,
+    "lon": -71.0584927,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Old State House",
+    "lat": 42.3587352,
+    "lon": -71.057454,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Paul Revere House",
+    "lat": 42.363739,
+    "lon": -71.0537,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Old North Church",
+    "lat": 42.3663259,
+    "lon": -71.0543944,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Bunker Hill Monument",
+    "lat": 42.3763541,
+    "lon": -71.0607764,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Charlestown Navy Yard",
+    "lat": 42.3731478,
+    "lon": -71.0574887,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "USS Constitution",
+    "lat": 42.3724612,
+    "lon": -71.056583,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "USS Constitution Museum",
+    "lat": 42.3739796,
+    "lon": -71.0554239,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "USS Cassin Young",
+    "lat": 42.3722164,
+    "lon": -71.054468,
+    "imageURL": null,
+    "description": "Built in 1943 in San Pedro, California, USS Cassin Young is one of 175 Fletcher-class destroyers built during World War II. She engaged in seven Pacific battles during World War II, survived two Kamikaze hits, and served another full decade beyond her expected lifetime.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Dorchester Heights",
+    "lat": 42.3328617,
+    "lon": -71.0457531,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Museum of African American History",
+    "lat": 42.3599917,
+    "lon": -71.0652196,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Black Heritage Trail",
+    "lat": 42.3599907,
+    "lon": -71.065214,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Georges Island Visitor Center",
+    "lat": 42.3195313,
+    "lon": -70.9298798,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Spectacle Island",
+    "lat": 42.3244907,
+    "lon": -70.985886,
+    "imageURL": null,
+    "description": "check out sea glass beaches and collection in the visitors center. Trash escaped from a landfill to fill beaches with all kinds of treasure.",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Peddocks Island",
+    "lat": 42.2952335,
+    "lon": -70.9352025,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Thompson Island",
+    "lat": 42.315962,
+    "lon": -71.0089175,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Longfellow House-Washington's Headquarters National Historic Site",
+    "lat": 42.3769885,
+    "lon": -71.1263695,
+    "imageURL": null,
+    "description": "One of America's most historic homes also holds a startling literary legacy.",
+    "info": null,
+    "categories": [
+      "art",
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Salem Maritime National Historic Site",
+    "lat": 42.5204336,
+    "lon": -70.8864089,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Saugus Iron Works National Historic Site",
+    "lat": 42.4679503,
+    "lon": -71.0081272,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Institute of Contemporary Art",
+    "lat": 42.3528151,
+    "lon": -71.0432778,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "deCordova Sculpture Park and Museum",
+    "lat": 42.4303119,
+    "lon": -71.3108056,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Garden in the Woods",
+    "lat": 42.340735,
+    "lon": -71.426078,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Parker River National Wildlife Refuge",
+    "lat": 42.7908312,
+    "lon": -70.8099287,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Madonna Queen of the Universe Shrine",
+    "lat": 42.3901911,
+    "lon": -71.0056998,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Vose Galleries LLC",
+    "lat": 42.3495808,
+    "lon": -71.0816952,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Bodega",
+    "lat": 42.3454991,
+    "lon": -71.0864707,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Copley Society of Art",
+    "lat": 42.3505059,
+    "lon": -71.0782439,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "E.R. Butler & Co.",
+    "lat": 42.357104,
+    "lon": -71.070211,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "MIT Museum",
+    "lat": 42.3621419,
+    "lon": -71.0866278,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Boston Public Library Courtyard",
+    "lat": 42.3493414,
+    "lon": -71.077958,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "food"
+    ],
+    "url": null
+  },
+  {
+    "name": "Condor Street Urban Wild",
+    "lat": 42.3829122,
+    "lon": -71.0296202,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "ICA Watershed",
+    "lat": 42.3639107,
+    "lon": -71.0331956,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Wally's Cafe Jazz Club",
+    "lat": 42.3407074,
+    "lon": -71.082233,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "music"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Cantab Lounge",
+    "lat": 42.3661153,
+    "lon": -71.1053054,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Aviary",
+    "lat": 42.3081495,
+    "lon": -71.1152895,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Lilypad",
+    "lat": 42.3737381,
+    "lon": -71.1000776,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "MIT Chapel",
+    "lat": 42.3583155,
+    "lon": -71.0941349,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "MIT List Visual Arts Center",
+    "lat": 42.3610052,
+    "lon": -71.0878262,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Isabella Stewart Gardner Museum",
+    "lat": 42.3381442,
+    "lon": -71.0990577,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Harvard Art Museums",
+    "lat": 42.3740898,
+    "lon": -71.1143582,
+    "imageURL": null,
+    "description": "forbes pigment collection - The thousands of shades on display \u2014 some toxic, others impossibly rare \u2014 are a library of more than just color.",
+    "info": null,
+    "categories": [
+      "art",
+      "bookstore",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Paul S. Russell, MD Museum of Medical History and Innovation at Massachusetts General Hospital",
+    "lat": 42.3613056,
+    "lon": -71.0690472,
+    "imageURL": null,
+    "description": "The Paul S. Russell, MD Museum of Medical History and Innovation presents the 200-year evolution of health care and medicine at Massachusetts General Hospital. The museum's exhibits cover various topics including the evolution of health care, laboratory and clinical research, and patient and family support. Highlights Here are some of the \"must see\" items at Russell Museum of Medical History and Innovation. MGH Nurse's Charm 1937 Richardson, M. H., MD, Scalpel Set Amputatiion Kit, Hayward, George, M.D.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Kendall Square Roof Garden",
+    "lat": 42.36315,
+    "lon": -71.0865638,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Warren Anatomical Museum",
+    "lat": 42.33522,
+    "lon": -71.1035841,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Norman B. Leventhal Map & Education Center",
+    "lat": 42.3494163,
+    "lon": -71.0788285,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Underground at Ink Block",
+    "lat": 42.344015,
+    "lon": -71.0617783,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Union Press",
+    "lat": 42.381748,
+    "lon": -71.102381,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Forest Hills Cemetery",
+    "lat": 42.2948239,
+    "lon": -71.105659,
+    "imageURL": null,
+    "description": "A beautiful Victorian-era cemetery, complete with a miniature village.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Boston Athenaeum",
+    "lat": 42.3579151,
+    "lon": -71.0620802,
+    "imageURL": null,
+    "description": "look for the skin book",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Brook Farm Historic Site",
+    "lat": 42.2909589,
+    "lon": -71.1754324,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Ether Dome",
+    "lat": 42.3634637,
+    "lon": -71.0679234,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "James P. Kelleher Rose Garden",
+    "lat": 42.3419564,
+    "lon": -71.0949218,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Franklin Park - Overlook Ruins",
+    "lat": 42.3081224,
+    "lon": -71.0969456,
+    "imageURL": null,
+    "description": "The often-overlooked ruins of one of the first buildings designed by famous landscape architect Frederick Olmsted.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Pawtucket Dam",
+    "lat": 42.6487022,
+    "lon": -71.3314501,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Museum of Science",
+    "lat": 42.367452,
+    "lon": -71.0711201,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Winthrop Lane",
+    "lat": 42.3549996,
+    "lon": -71.0579766,
+    "imageURL": null,
+    "description": "check for bricks - These whimsical works of art tell the story of the city's past and present.",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "King's Chapel",
+    "lat": 42.3580116,
+    "lon": -71.0601562,
+    "imageURL": null,
+    "description": "visit the crypt",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Creek Square",
+    "lat": 42.3613292,
+    "lon": -71.0565184,
+    "imageURL": null,
+    "description": "This historic patch of real estate offers a glimpse of colonial Boston",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Jack Kerouac's Grave",
+    "lat": 42.6160091,
+    "lon": -71.3067878,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Harvard Museum of Natural History",
+    "lat": 42.3784626,
+    "lon": -71.1155576,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Modica Way",
+    "lat": 42.3648969,
+    "lon": -71.1024837,
+    "imageURL": null,
+    "description": "An alley way dedicated to graffiti and street art is a constantly changing street gallery.",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "lat": 42.360091,
+    "lon": -71.09416,
+    "imageURL": null,
+    "description": "infinite corridor",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Museum Of Bad Art",
+    "lat": 42.3966524,
+    "lon": -71.1230653,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Somerville Theatre",
+    "lat": 42.3966407,
+    "lon": -71.123001,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sky Bar",
+    "lat": 42.3619726,
+    "lon": -71.4162695,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "drinking",
+      "food"
+    ],
+    "url": null
+  },
+  {
+    "name": "Assabet River National Wildlife Refuge",
+    "lat": 42.4078524,
+    "lon": -71.4714928,
+    "imageURL": null,
+    "description": "In the middle of a New England forest sit the crumbling ruins of World War II-era ammunition storage bunkers.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Ford's Folly",
+    "lat": 42.3540626,
+    "lon": -71.4603016,
+    "imageURL": null,
+    "description": "This dam in the woods, built by Henry Ford with only manpower and oxen, holds no water and serves no purpose.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Redstone Schoolhouse",
+    "lat": 42.3586368,
+    "lon": -71.4712297,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Newton City Hall",
+    "lat": 42.3374612,
+    "lon": -71.2087993,
+    "imageURL": null,
+    "description": "Battle dioramas in the Veterans Wing - These impressively detailed battle scenes depict the violence and tragedy of war in miniature.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Echo Bridge",
+    "lat": 42.3145041,
+    "lon": -71.2273649,
+    "imageURL": null,
+    "description": "A historic bridge with a lovely acoustic anomaly.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Quincy Quarries Reservation",
+    "lat": 42.243293,
+    "lon": -71.034186,
+    "imageURL": null,
+    "description": "From economic backbone of a community to deadly diving hole, these former stone quarries are now a park for rock climbers and graffiti artists.",
+    "info": null,
+    "categories": [
+      "art",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Brattle Book Shop",
+    "lat": 42.3546652,
+    "lon": -71.0619981,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null
+  },
+  {
+    "name": "Metropolitan Waterworks Museum",
+    "lat": 42.3317473,
+    "lon": -71.1555548,
+    "imageURL": null,
+    "description": "Beautiful steampunk ghosts of early Massachusetts.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "American Heritage Museum",
+    "lat": 42.3916108,
+    "lon": -71.5048688,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Arthur & Elizabeth Schlesinger Library",
+    "lat": 42.3757717,
+    "lon": -71.1231265,
+    "imageURL": null,
+    "description": "huge culinary collection",
+    "info": null,
+    "categories": [
+      "art",
+      "bookstore"
+    ],
+    "url": null
+  },
+  {
+    "name": "Harvard Film Archive",
+    "lat": 42.3736458,
+    "lon": -71.1142609,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Powderhouse Park",
+    "lat": 42.4003697,
+    "lon": -71.1163813,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Charles River Museum of Industry & Innovation",
+    "lat": 42.373122,
+    "lon": -71.2335277,
+    "imageURL": null,
+    "description": "A steampunk wonderland that preserves America's history of industrial innovation.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Club Passim",
+    "lat": 42.3742524,
+    "lon": -71.1200383,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Boston Cyberarts Gallery",
+    "lat": 42.3103945,
+    "lon": -71.1075532,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Reflecting Pool at the Christian Science Plaza",
+    "lat": 42.3444346,
+    "lon": -71.0839025,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Washington Tower",
+    "lat": 42.3696185,
+    "lon": -71.1440773,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Vilna Shul",
+    "lat": 42.3601032,
+    "lon": -71.0672119,
+    "imageURL": null,
+    "description": "The Vilna Shul, originally an Orthodox synagogue, was built in 1919 by immigrants primarily from Vilna, Lithuania. Today it is a historic landmark building located in historic Beacon Hill and home to a cultural center, community center, and living museum. Highlights Here are some of the \"must see\" items at Vilna Shul. The cultural center",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Nichols House Museum",
+    "lat": 42.3584347,
+    "lon": -71.0659533,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "William Hickling Prescott House",
+    "lat": 42.356717,
+    "lon": -71.068233,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Nichols House Museum",
+    "lat": 42.3584347,
+    "lon": -71.0659533,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "The West End Museum",
+    "lat": 42.3647699,
+    "lon": -71.0640615,
+    "imageURL": null,
+    "description": "The West End Museum is a neighborhood museum dedicated to the collection, preservation, and interpretation of the history and culture of the West End of Boston. The history of the West End is one of a largely immigrant neighborhood displaced or destroyed by the 1958 and 1960 \u2018Urban Renewal\u2018 campaigns. Highlights Here are some of the \"must see\" items at West End Museum. The Last Tenement The Middlesex Canal: Boston's First Big Dig Leaving the River",
+    "info": null,
+    "categories": [
+      "museum",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "MassArt Art Museum",
+    "lat": 42.3365554,
+    "lon": -71.0993854,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Larz Anderson Auto Museum",
+    "lat": 42.3104986,
+    "lon": -71.1347948,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Coolidge Corner Theatre",
+    "lat": 42.3426766,
+    "lon": -71.1224952,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "Langone Park",
+    "lat": 42.3687623,
+    "lon": -71.0561545,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "SIMMONS Trustman Art Gallery",
+    "lat": 42.3392107,
+    "lon": -71.0999823,
+    "imageURL": null,
+    "description": "Trustman Art Gallery is the gallery space for the Simmons College students of Art and Music. The gallery exhibits the work of professional artists and has a yearly exhibition of student work from the Department of Art and Music. Highlights Here are some of the \"must see\" items at Trustman Art Gallery at Simmons College. The Painted Place: Mia Cross 20 Years of the Art of Grace Lin All Good Things: Greg Lamarche",
+    "info": null,
+    "categories": [
+      "art",
+      "museum",
+      "music"
+    ],
+    "url": null
+  },
+  {
+    "name": "Roxbury Heritage State Park",
+    "lat": 42.3304235,
+    "lon": -71.0904653,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Shirley-Eustis House",
+    "lat": 42.3235442,
+    "lon": -71.0717948,
+    "imageURL": null,
+    "description": "The Shirley\u2013Eustis House was built between 1747 and 1751 on 33 acres in Roxbury by William Shirley, Royal Governor of the Province of Massachusetts Bay. The orchards, gardens, and grounds are free and open to the public year-round, from dawn until dusk.",
+    "info": null,
+    "categories": [
+      "food",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Pierce House",
+    "lat": 42.422726,
+    "lon": -71.304052,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Otis House Museum",
+    "lat": 42.3614633,
+    "lon": -71.0645735,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "American Repertory Theater",
+    "lat": 42.3748457,
+    "lon": -71.1229902,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "The VU",
+    "lat": 42.3124674,
+    "lon": -71.1018095,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Berlin Wall Segment at Hult International School",
+    "lat": 42.3697385,
+    "lon": -71.07088,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "BSA Space",
+    "lat": 42.3530803,
+    "lon": -71.0527226,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Rose Fitzgerald Kennedy Greenway",
+    "lat": 42.353441,
+    "lon": -71.0545553,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Lechmere Canal Park",
+    "lat": 42.3695046,
+    "lon": -71.0756902,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Democracy Donkey Statue",
+    "lat": 42.3578268,
+    "lon": -71.0594904,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Pi Alley",
+    "lat": 42.358129,
+    "lon": -71.0583955,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Fort Hill Tower",
+    "lat": 42.3253252,
+    "lon": -71.0945712,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Printing Office Of Edes And Gill",
+    "lat": 42.3660609,
+    "lon": -71.0542571,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Dorchester Art Project",
+    "lat": 42.2999113,
+    "lon": -71.0601255,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Emerson Cutler Majestic Theatre",
+    "lat": 42.3515364,
+    "lon": -71.0649768,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "Church of the Covenant",
+    "lat": 42.3521193,
+    "lon": -71.0739954,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Gibson House Museum",
+    "lat": 42.3547464,
+    "lon": -71.0740765,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Herter Park Amphitheater",
+    "lat": 42.366519,
+    "lon": -71.1345059,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "You-do-it Electronics Center",
+    "lat": 42.305098,
+    "lon": -71.224385,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Tremont Temple Baptist Church",
+    "lat": 42.357601,
+    "lon": -71.060689,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "SoWa Open Market",
+    "lat": 42.3422399,
+    "lon": -71.0637921,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null
+  },
+  {
+    "name": "Singing Beach",
+    "lat": 42.5701765,
+    "lon": -70.7603999,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Revere Beach",
+    "lat": 42.4255431,
+    "lon": -70.9814627,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Puppet Free Library",
+    "lat": 42.3527481,
+    "lon": -71.0723667,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": null
+  },
+  {
+    "name": "Plumbing Museum",
+    "lat": 42.3689631,
+    "lon": -71.1990106,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "New England Historic Genealogical Society",
+    "lat": 42.351727,
+    "lon": -71.0753009,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Embrace",
+    "lat": 42.3549641,
+    "lon": -71.0643822,
+    "imageURL": null,
+    "description": "This bronze sculpture was inspired by a photograph of Martin Luther King Jr. and his wife embracing after he won the Nobel Peace Prize.",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Statue of Mary Dyer",
+    "lat": 42.3580131,
+    "lon": -71.0628781,
+    "imageURL": null,
+    "description": "Dedicated to a colonial woman who was hanged for being a Quaker.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Liberty, a Luxury Collection Hotel, Boston",
+    "lat": 42.3620711,
+    "lon": -71.0700948,
+    "imageURL": null,
+    "description": "A luxury hotel constructed out of a former jail.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The BYTE Shop",
+    "lat": 42.3081444,
+    "lon": -71.1153404,
+    "imageURL": null,
+    "description": "This electronics repair store celebrates the history of computers.",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null
+  },
+  {
+    "name": "Salada Tea Headquarters",
+    "lat": 42.3495934,
+    "lon": -71.071716,
+    "imageURL": null,
+    "description": "The history of the tea trade is told in bas-relief on this historic pair of Boston doors.",
+    "info": null,
+    "categories": [
+      "art",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Hincman\u2019s Bench",
+    "lat": 42.3170299,
+    "lon": -71.1171818,
+    "imageURL": null,
+    "description": "From bench to vandalism to art, this silly prank seat was funny enough to become permanent.",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "The First Church of Christ, Scientist",
+    "lat": 42.344458,
+    "lon": -71.084986,
+    "imageURL": null,
+    "description": "This impressive Boston holy house is the American mecca for Christian scientists.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "All Saints Way",
+    "lat": 42.366351,
+    "lon": -71.0524958,
+    "imageURL": null,
+    "description": "\"Mock all and sundry things, but leave the saints alone.\"",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Dutch House",
+    "lat": 42.3360385,
+    "lon": -71.1123834,
+    "imageURL": null,
+    "description": "This Dutch-styled residential building was originally a cocoa company's World's Fair showpiece.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Sports Museum",
+    "lat": 42.3663097,
+    "lon": -71.0622259,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Schoolmaster Hill",
+    "lat": 42.3032337,
+    "lon": -71.0955173,
+    "imageURL": null,
+    "description": "Ralph Waldo Emerson spent two years living here decades before it became a Frederick Law Olmsted-designed park",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null
+  },
+  {
+    "name": "Calf Pasture Sewage Pumping Station",
+    "lat": 42.316031,
+    "lon": -71.0374911,
+    "imageURL": null,
+    "description": "This beautiful architectural gem was the first waste treatment facility in Boston.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "John F. Kennedy Presidential Library and Museum",
+    "lat": 42.316274,
+    "lon": -71.0342146,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Purple House",
+    "lat": 42.3628449,
+    "lon": -71.1027535,
+    "imageURL": null,
+    "description": "One man's psychedelic fence is painted with his cacophonous folk art musings on the world.",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Longfellow Bridge Trophy Room",
+    "lat": 42.3617913,
+    "lon": -71.0789372,
+    "imageURL": null,
+    "description": "An anonymous art project beneath Longfellow Bridge where hundreds of trophies line the steel support beams.",
+    "info": null,
+    "categories": [
+      "art",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Brattle Theatre",
+    "lat": 42.3735927,
+    "lon": -71.1213969,
+    "imageURL": null,
+    "description": "One of the last remaining movie theatres in the country that features a rear-projection system.",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": null
+  },
+  {
+    "name": "Kendall Band",
+    "lat": 42.3623144,
+    "lon": -71.0863494,
+    "imageURL": null,
+    "description": "A three-piece musical sculpture installed between the subway tracks at Kendall Station near MIT.",
+    "info": null,
+    "categories": [
+      "art",
+      "music"
+    ],
+    "url": null
+  },
+  {
+    "name": "John Harvard Statue",
+    "lat": 42.3744665,
+    "lon": -71.1172096,
+    "imageURL": null,
+    "description": "The statue of John Harvard isn't actually John Harvard\u2014or even, technically, the founder of the school.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "The Collection of Historical Scientific Instruments at the Putnam Gallery",
+    "lat": 42.3766442,
+    "lon": -71.1161887,
+    "imageURL": null,
+    "description": "contains massive World War II calculator that hearkens back to the days when \"computer\" was a job title.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Cambridge Spite House",
+    "lat": 42.3832096,
+    "lon": -71.1329542,
+    "imageURL": null,
+    "description": "This is the house that spite built.",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Skinny House (Spite House) Boston, MA",
+    "lat": 42.3668968,
+    "lon": -71.0561781,
+    "imageURL": null,
+    "description": "Narrowest house in Boston.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Mount Auburn Cemetery",
+    "lat": 42.375208,
+    "lon": -71.144974,
+    "imageURL": null,
+    "description": "This peaceful Massachusetts graveyard was one of the first \"garden-style\" cemeteries in America.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Old Burial Ground",
+    "lat": 42.3750122,
+    "lon": -71.1198663,
+    "imageURL": null,
+    "description": "This cemetery served as the only official burial grounds in Cambridge for nearly 200 years.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "MIT Edgerton Center",
+    "lat": 42.3592444,
+    "lon": -71.0931389,
+    "imageURL": null,
+    "description": "MIT students continue the legacy of beloved professor \"Doc\" Edgerton through learning by doing.",
+    "info": null,
+    "categories": [],
+    "url": null
+  },
+  {
+    "name": "Lyman Estate Greenhouses, Historic New England",
+    "lat": 42.3839263,
+    "lon": -71.2289505,
+    "imageURL": null,
+    "description": "These beautiful garden buildings are among the oldest surviving greenhouses in the United States.",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Metropolitan State Hospital",
+    "lat": 42.4054684,
+    "lon": -71.2135913,
+    "imageURL": null,
+    "description": "Once the largest public hospital for the mentally ill was also surrounded by controversy.",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null
+  },
+  {
+    "name": "Armenian Museum of America",
+    "lat": 42.3663555,
+    "lon": -71.1857242,
+    "imageURL": null,
+    "description": "Large Massachusetts museum dedicated to Armenian history and culture.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Museum of Modern Renaissance",
+    "lat": 42.3998124,
+    "lon": -71.1179052,
+    "imageURL": null,
+    "description": "This former Masonic hall has been turned into an art project that uses even more metaphysical iconography.",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark",
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Old Powder House",
+    "lat": 42.400085,
+    "lon": -71.1162144,
+    "imageURL": null,
+    "description": "Rising 30 feet in the air atop Quarry Hill, the Old Powder House is the oldest stone building in the state of Massachusetts.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Friend Smithsonian Museum",
+    "lat": 42.3880584,
+    "lon": -71.1015878,
+    "imageURL": null,
+    "description": "A home decorated by its owner with eye-catching and captivating assemblages of found objects",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Shrine of Our Lady of Good Voyage",
+    "lat": 42.3528183,
+    "lon": -71.0482576,
+    "imageURL": null,
+    "description": "Built in the 1950s to serve fishermen, longshoremen, and their families, the Chapel moved to a new site this year to better serve local workers. The new chapel retains much of its nautical heritage with a ceiling patterned after the hull of a ship and walls inscribed with the prayer \u201cThey that go down to the sea in ships, that do business in great waters\u2026\u201d It is a beautiful house of prayer, intimate in size, but majestic in its elements",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "First Baptist Church of Boston",
+    "lat": 42.3519068,
+    "lon": -71.0762403,
+    "imageURL": null,
+    "description": "Originally built for the Brattle Square Unitarian congregation, this site demonstrates H. H. Richardson\u2019s first use of Romanesque forms. The First Baptist Church purchased the building in 1880. Built of Roxbury puddingstone laid in random ashlar, the church features a monumental tower topped by a decorative frieze and corbelled arches. Notable are the tower sculptures by Frederic Auguste Bartholdi; Hook and Hastings Organ Opus 727, which includes pipework from an English organ of 1792; and Louis Comfort Tiffany's window \u201cSaint John the Divine.\u201d",
+    "info": null,
+    "categories": [
+      "art",
+      "drinking",
+      "food",
+      "historic",
+      "landmark",
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Gropius House",
+    "lat": 42.427058,
+    "lon": -71.326379,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  }
+]
