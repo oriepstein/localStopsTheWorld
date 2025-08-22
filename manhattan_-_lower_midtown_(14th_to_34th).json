@@ -75,6 +75,7 @@
     "info": null,
     "url": "https://www.nps.gov/thrb/",
     "categories": [
+      "NPS", 
       "museum",
       "historic"
     ],
@@ -1377,8 +1378,6 @@
     "info": null,
     "url": "https://www.mschmalberg.com/",
     "categories": [
-      "historic",
-      "art",
       "shopping"
     ],
     "icon": null
@@ -1463,8 +1462,7 @@
     "info": null,
     "url": "https://www.officialritual.com/",
     "categories": [
-      "quirky",
-      "religious"
+      "quirky"
     ],
     "icon": null
   }
