@@ -4211,7 +4211,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "This museum dedicated to the history of the medical bone trade and human osteology.",
     "icon": null,
     "imageURL": null,
@@ -4222,7 +4222,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["religious"],
     "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many \"770s\" around the world.",
     "icon": null,
     "imageURL": null,
@@ -4233,7 +4233,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's \"Automobile Row.\"",
     "icon": null,
     "imageURL": null,
