@@ -98,5 +98,10 @@
     "name": "Frosinone Province",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/frosinone",
     "imageURL": "https://github.com/oriepstein/localStopsTheWorld/blob/main/images/Boville-Ernica-FR-Facebook-@prolocodibovilleernica.jpg?raw=true"
+  },
+  {
+    "name": "Curacao",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Curacao",
+    "imageURL": "https://unsplash.com/photos/a-row-of-colorful-buildings-on-the-side-of-a-body-of-water-cKbKFQa32Q4"
   }
 ]
