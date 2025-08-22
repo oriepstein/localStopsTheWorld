@@ -3185,7 +3185,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3196,7 +3196,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3251,7 +3251,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "NHL",
     "icon": null,
     "imageURL": null,
@@ -3262,7 +3262,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3317,7 +3317,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
