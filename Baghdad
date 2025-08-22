@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Iraqi Martyr Monument",
+    "lat": 33.3432,
+    "lon": 44.4461627,
+    "icon": null,
+    "imageURL": null,
+    "description": "A giant bisected onion dome remembers the Iraqis who died in the Iran-Iraq War",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Iraqi National Museum",
+    "lat": 33.3280838,
+    "lon": 44.3850193,
+    "icon": null,
+    "imageURL": null,
+    "description": "In 1938 a number of small jars were found in the collection of the National Museum of Iraq. These jars, previously overlooked, were found to be quite unique. Each contained copper and iron, and was sealed with asphalt. It was hypothesized based on the various components, that they were a type of battery, possibly used to electroplate metals. Since they were noticed long after they had been taken from outside of their archeological context, not much else is known about them.",
+    "info": null,
+    "categories": ["museum", "archaeological", "historic"],
+    "url": "https://www.facebook.com/IraqNationalMuseum"
+  },
+  {
+    "name": "Saving Iraqi Culture Monument",
+    "lat": 33.3151047,
+    "lon": 44.3677785,
+    "icon": null,
+    "imageURL": null,
+    "description": "A surreal monument depicting a five-armed giant supporting a toppling cylinder seal.",
+    "info": null,
+    "categories": ["landmark", "art", "historic"],
+    "url": null
+  },
+  {
+    "name": "Victory Over America Palace",
+    "lat": 33.2500305,
+    "lon": 44.2687755,
+    "icon": null,
+    "imageURL": null,
+    "description": "This former monument to an invented Iraqi victory was turned into a military camp during the subsequent invasion.",
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Victory Over Iran Palace",
+    "lat": 33.2506331,
+    "lon": 44.2688495,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Mustansiriyah Madrasah",
+    "lat": 33.3382741,
+    "lon": 44.390135,
+    "icon": null,
+    "imageURL": null,
+    "description": "On the left bank of the River Tigris, Al-Mustansiriya Madrasa is from 1227, making it one of the worlds oldest universities. Its a gorgeous building, a stunning example of Islamic architecture. Intricate tiles, beautiful, flowing calligraphy, calm courtyards; all a delight for the eyes.",
+    "info": null,
+    "categories": ["historic", "religious", "unesco"],
+    "url": "https://www.mustansiriyah.edu.iq/"
+  },
+  {
+    "name": "Shabandar Café",
+    "lat": 33.3403125,
+    "lon": 44.3880625,
+    "icon": null,
+    "imageURL": null,
+    "description": "At the end of Al-Mutanabbi Street is Shabandar Café (Maqha al-Shabander), Baghdads intellectual watering hole since 1917, in what was once a printing house. The cafe even had a library. Many a discussion has taken place here over the last 100 years — of politics, culture, philosophy, trade, literature, poetry, art… oh, to be a fly on the wall through the ages! But Shabandar is also a place with scars. In 2007, during the US war, a car bomb on Al-Mutanabbi Street destroyed the cafe and library, killing more than 100 people, including four of the owners sons and one grandson. Their mother died months later, as a result of the shock. The owner, Muhammad al-Khashali, vowed to keep going, to preserve the cafes old identity, and he has succeeded. Its a wonderfully atmospheric place to sit with a glass of tea, people watching.",
+    "info": null,
+    "categories": ["food", "historic", "bookstore"],
+    "url": null
+  },
+  {
+    "name": "Al-Mutanabbi Street",
+    "lat": 33.3406877,
+    "lon": 44.3886734,
+    "icon": null,
+    "imageURL": null,
+    "description": "Al Rashid Street, Al Mutanabi Street or Book Street, Abu Nawas Street These are the three main walking streets. Al- Mutanabi is by far the most interesting. Known as Book Street it really comes alive at night as all the vendors display their wares.",
+    "info": null,
+    "categories": ["bookstore", "market", "neighborhood"],
+    "url": null
+  },
+  {
+    "name": "Haji Zabala Juice Shop",
+    "lat": 33.3362172,
+    "lon": 44.4071835,
+    "icon": null,
+    "imageURL": null,
+    "description": "They have been serving fresh made juice for well over 100 years. The grape is the staple (or raisin). But sour apricot is also great.",
+    "info": null,
+    "categories": ["food", "historic"],
+    "url": null
+  },
+  {
+    "name": "Imam al-Kazim & Imam al-Jawad Shrine",
+    "lat": 33.3801122,
+    "lon": 44.3443397,
+    "icon": null,
+    "imageURL": null,
+    "description": "One of the most important Shia Islamic shrines in Baghdad, housing the tombs of two revered Imams.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": null
+  },
+  {
+    "name": "17th of Ramadan Mosque",
+    "lat": 33.3146351,
+    "lon": 44.4219695,
+    "icon": null,
+    "imageURL": null,
+    "description": "Also known as the Mother of All Battles Mosque, this distinctive mosque features blue domes and minarets shaped like rockets and Scud missiles.",
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Copper Market (Safafeer)",
+    "lat": 33.3398552,
+    "lon": 44.3917812,
+    "icon": null,
+    "imageURL": null,
+    "description": "Traditional souk specializing in handcrafted copper items, part of Baghdad's historic market district.",
+    "info": null,
+    "categories": ["market", "shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Baghdadi Cultural Center",
+    "lat": 33.3398487,
+    "lon": 44.3877174,
+    "icon": null,
+    "imageURL": null,
+    "description": "Cultural center showcasing Iraqi arts, literature, and heritage in the heart of old Baghdad.",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": null
+  },
+  {
+    "name": "Abbasid Palace",
+    "lat": 33.3429128,
+    "lon": 44.3835298,
+    "icon": null,
+    "imageURL": null,
+    "description": "Remains of a medieval palace from the Abbasid Caliphate period, representing Baghdad's golden age of Islamic civilization.",
+    "info": null,
+    "categories": ["historic", "archaeological", "unesco"],
+    "url": null
+  },
+  {
+    "name": "Qishla Building",
+    "lat": 33.340552,
+    "lon": 44.3869626,
+    "icon": null,
+    "imageURL": null,
+    "description": "The tentative site focuses on the monumental buildings in the area. The first one we entered was Al-Qishleh, a former Ottoman military headquarters. Its a fine building in itself, you can walk the upper corridors as a coffee shop has opened up there. The main attraction lies in the garden though, a Clock Tower known as a gift to the King of Iraq by the British in 1927 (the inner clockwork was) but the tower itself was built 50 years before by the Ottomans to alarm military troops in the base in the morning for the time of training.",
+    "info": null,
+    "categories": ["historic", "unesco", "food"],
+    "url": null
+  },
+  {
+    "name": "Qishla Clock Tower",
+    "lat": 33.340375,
+    "lon": 44.3866418,
+    "icon": null,
+    "imageURL": null,
+    "description": "Historic Ottoman-era clock tower, later modified by the British, serving as a landmark in Baghdad's heritage district.",
+    "info": null,
+    "categories": ["historic", "landmark", "unesco"],
+    "url": null
+  },
+  {
+    "name": "Dur-Kurigalzu (Aqar Quf Ziggurat)",
+    "lat": 33.3535625,
+    "lon": 44.2020625,
+    "icon": null,
+    "imageURL": null,
+    "description": "The Archaeological site of Aqar Quf (ancient Dur-Kurigalzu) features the remains of a city from the Kassite Dynasty (circa 16th-12th centuries BCE). These include a massive ziggurat, palaces and temples.",
+    "info": null,
+    "categories": ["archaeological", "historic", "unesco"],
+    "url": null
+  }
+]
