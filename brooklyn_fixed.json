@@ -2511,7 +2511,7 @@
     "url": "https://www.green-wood.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2530,7 +2530,7 @@
     "lat": 40.6998833,
     "lon": -73.9987987,
     "name": "Brooklyn Bridge Park Boathouse, Pier 2",
-    "url": null
+    "url": "https://www.brooklynbridgepark.org/"
   },
   {
     "categories": ["sports"],
@@ -2541,10 +2541,10 @@
     "lat": 40.5748057,
     "lon": -73.9844943,
     "name": "Brooklyn Cyclones at MCU Park",
-    "url": null
+    "url": "https://www.milb.com/brooklyn"
   },
   {
-    "categories": [],
+    "categories": ["nature", "quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2555,7 +2555,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2563,10 +2563,10 @@
     "lat": 40.6741953,
     "lon": -74.011412,
     "name": "She-Weld",
-    "url": null
+    "url": "https://she-weld.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2574,10 +2574,10 @@
     "lat": 40.699218,
     "lon": -73.929546,
     "name": "Bushwick Community Darkroom",
-    "url": null
+    "url": "https://www.bushwickcommunitydarkroom.com/"
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2588,7 +2588,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2599,7 +2599,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2610,7 +2610,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2621,7 +2621,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2629,10 +2629,10 @@
     "lat": 40.6768345,
     "lon": -73.985221,
     "name": "Textile Arts Center",
-    "url": null
+    "url": "https://textileartscenter.com/"
   },
   {
-    "categories": [],
+    "categories": ["sports"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2643,7 +2643,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["sports"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2654,9 +2654,7 @@
     "url": null
   },
   {
-    "categories": [
-      "food"
-    ],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2664,10 +2662,10 @@
     "lat": 40.6771821,
     "lon": -73.9566243,
     "name": "Crown Finish Caves",
-    "url": null
+    "url": "https://www.crownfinishcaves.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2686,10 +2684,10 @@
     "lat": 40.6501539,
     "lon": -73.9589433,
     "name": "Flatbush Reformed Church",
-    "url": null
+    "url": "https://www.flatbushchurch.org/"
   },
   {
-    "categories": [],
+    "categories": ["recreation"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2697,10 +2695,10 @@
     "lat": 40.6791092,
     "lon": -73.9836161,
     "name": "Kick Axe Throwing BROOKLYN",
-    "url": null
+    "url": "https://www.kickaxe.com/"
   },
   {
-    "categories": [],
+    "categories": ["museum", "historic"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2708,10 +2706,10 @@
     "lat": 40.6618645,
     "lon": -73.9803428,
     "name": "Lesbian Herstory Archives",
-    "url": null
+    "url": "https://lesbianherstoryarchives.org/"
   },
   {
-    "categories": [],
+    "categories": ["museum", "historic"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2719,10 +2717,10 @@
     "lat": 40.573839,
     "lon": -73.979541,
     "name": "Coney Island History Project",
-    "url": null
+    "url": "https://www.coneyislandhistory.org/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "78 pieces foraged from old buildings in the station's mezzanine",
     "icon": null,
     "imageURL": null,
@@ -2733,8 +2731,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "Ditmas Victorian \"japanese house\"",
+    "categories": ["historic", "landmark"],
+    "description": "Ditmas Victorian japanese house",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -2744,8 +2742,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "Ditmas Victorian<br>Sophie's Choice house",
+    "categories": ["historic", "landmark"],
+    "description": "Ditmas Victorian Sophie's Choice house",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -2755,7 +2753,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2766,7 +2764,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2777,7 +2775,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2785,10 +2783,10 @@
     "lat": 40.6734904,
     "lon": -74.0100937,
     "name": "Van Brunt Stillhouse",
-    "url": null
+    "url": "https://www.vanbruntstillhouse.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2799,7 +2797,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["theater"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2807,10 +2805,10 @@
     "lat": 40.7111031,
     "lon": -73.9429092,
     "name": "Then She Fell",
-    "url": null
+    "url": "https://www.thenshefell.com/"
   },
   {
-    "categories": [],
+    "categories": ["historic"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2821,7 +2819,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2829,10 +2827,10 @@
     "lat": 40.6773529,
     "lon": -74.0153869,
     "name": "Widow Jane Distillery",
-    "url": null
+    "url": "https://www.widowjane.com/"
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2840,10 +2838,10 @@
     "lat": 40.6814367,
     "lon": -74.0071505,
     "name": "Raaka Chocolate",
-    "url": null
+    "url": "https://www.raakachocolate.com/"
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2851,10 +2849,10 @@
     "lat": 40.6725717,
     "lon": -74.0087895,
     "name": "Red Hook Community Farms",
-    "url": null
+    "url": "https://www.rhcf.org/"
   },
   {
-    "categories": [],
+    "categories": ["religious"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2862,21 +2860,21 @@
     "lat": 40.6768146,
     "lon": -73.9983507,
     "name": "St. Mary Star of the Sea",
-    "url": null
+    "url": "https://www.stmarystarnyc.org/"
   },
   {
-    "categories": [],
-    "description": "In 2007, as part of a PlaNYC initiative to create regional destination parks in all five boroughs, the comprehensive master plan design for the 72-acre Calvert Vaux Park was unveiled. Central to this plan was the construction of a Park Pavilion and Maintenance Facility, designed by 1100 Architect. The concept was developed based on the requirement that five distinct programs (athletic storage, public restroom, staff office, work area, and vehicle storage) be located within one site.<br><br>One of the design challenges was to build a single facility that worked both as a hospitable environment for park visitors, but also as a durable facility for the heavy use of park vehicles and maintenance equipment. To cohesively serve those two very different user groups, the design creates an innovative footprint that merges three connected wings. The building doubles as a gateway to the park, providing a sense of arrival. On track for LEED Silver Certification, the design also includes an array of measures for sustainability and energy efficiency.",
+    "categories": ["park"],
+    "description": "In 2007, as part of a PlaNYC initiative to create regional destination parks in all five boroughs, the comprehensive master plan design for the 72-acre Calvert Vaux Park was unveiled. Central to this plan was the construction of a Park Pavilion and Maintenance Facility, designed by 1100 Architect. The concept was developed based on the requirement that five distinct programs (athletic storage, public restroom, staff office, work area, and vehicle storage) be located within one site. One of the design challenges was to build a single facility that worked both as a hospitable environment for park visitors, but also as a durable facility for the heavy use of park vehicles and maintenance equipment. To cohesively serve those two very different user groups, the design creates an innovative footprint that merges three connected wings. The building doubles as a gateway to the park, providing a sense of arrival. On track for LEED Silver Certification, the design also includes an array of measures for sustainability and energy efficiency.",
     "icon": null,
     "imageURL": null,
     "info": null,
     "lat": 40.5843671,
     "lon": -73.9952563,
     "name": "Calvert Vaux Park",
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/parks/calvert-vaux-park.page"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2884,10 +2882,10 @@
     "lat": 40.706314,
     "lon": -73.921075,
     "name": "Microscope Gallery",
-    "url": null
+    "url": "https://microscopegallery.com/"
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2898,7 +2896,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["sports"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2909,7 +2907,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2920,7 +2918,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["cinema"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2928,10 +2926,10 @@
     "lat": 40.7016474,
     "lon": -73.9272448,
     "name": "Peephole Cinema",
-    "url": null
+    "url": "https://peepholecinema.info/"
   },
   {
-    "categories": [],
+    "categories": ["recreation"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2942,7 +2940,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2953,7 +2951,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "One Brooklyn man's collection of life-size fiberglass statues has taken over his entire yard.",
     "icon": null,
     "imageURL": null,
@@ -2964,7 +2962,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "offers free weekly tours",
     "icon": null,
     "imageURL": null,
@@ -2972,10 +2970,10 @@
     "lat": 40.6750448,
     "lon": -73.9886778,
     "name": "Gotham Greens",
-    "url": null
+    "url": "https://www.gothamgreens.com/"
   },
   {
-    "categories": [],
+    "categories": ["historic"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2986,7 +2984,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2994,10 +2992,10 @@
     "lat": 40.6430089,
     "lon": -73.8754301,
     "name": "Shirley Chisholm State Park",
-    "url": null
+    "url": "https://parks.ny.gov/parks/shirleychisholm/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3008,7 +3006,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["religious"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3019,7 +3017,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3030,7 +3028,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["cinema", "quirky"],
     "description": "world's smallest cinema off of lobby",
     "icon": null,
     "imageURL": null,
@@ -3038,10 +3036,10 @@
     "lat": 40.7208251,
     "lon": -73.9587909,
     "name": "The Hoxton, Williamsburg",
-    "url": null
+    "url": "https://thehoxton.com/williamsburg/"
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3049,10 +3047,10 @@
     "lat": 40.6594154,
     "lon": -74.0044891,
     "name": "Brooklyn Grange Sunset Park",
-    "url": null
+    "url": "https://www.brooklyngrangefarm.com/"
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3063,7 +3061,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "neighborhood"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3074,7 +3072,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3085,7 +3083,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic"],
     "description": "nearly every grave marker is made of tin or copper",
     "icon": null,
     "imageURL": null,
@@ -3096,7 +3094,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3107,7 +3105,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3118,7 +3116,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3129,7 +3127,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3140,7 +3138,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3151,7 +3149,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature", "nps"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3159,10 +3157,10 @@
     "lat": 40.583293,
     "lon": -73.9209991,
     "name": "Plumb Beach (Gateway National Recreation Area)",
-    "url": null
+    "url": "https://www.nps.gov/gate/"
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3170,7 +3168,7 @@
     "lat": 40.6040464,
     "lon": -73.9306319,
     "name": "Marine Park Salt Marsh Nature Center",
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page"
   },
   {
     "categories": [],
