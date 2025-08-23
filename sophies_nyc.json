@@ -5,8 +5,10 @@
     "lon": -74.0083916,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Modern floral design studio and plant shop in Tribeca",
+    "info": null,
+    "categories": ["shopping", "art"],
+    "url": null
   },
   {
     "name": "Cha-An",
@@ -14,17 +16,21 @@
     "lon": -73.9881681,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional Japanese tea house serving matcha and traditional sweets",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.cha-an.com/"
   },
   {
-    "name": "\u0102njelly",
+    "name": "Ànjelly",
     "lat": 40.7273529,
     "lon": -73.9842226,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty dessert shop known for colorful, Instagram-worthy treats",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Prince Tea House",
@@ -32,8 +38,10 @@
     "lon": -73.9864067,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Asian-style bubble tea and dessert cafe",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Sweets Laboratory by Hanamizuki",
@@ -41,8 +49,10 @@
     "lon": -73.9916158,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese-inspired confectionery creating artistic desserts",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "MOD Desserts",
@@ -50,8 +60,10 @@
     "lon": -74.0027216,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Modern dessert shop specializing in creative sweet treats",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Golden Steamer",
@@ -59,35 +71,32 @@
     "lon": -73.996815,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic dim sum and Chinese steamed buns",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
-    "name": "Golden Steamer",
-    "lat": 40.6396397,
-    "lon": -74.0056033,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Morgenstern\u2019s Finest Ice Cream",
+    "name": "Morgenstern's Finest Ice Cream",
     "lat": 40.7272498,
     "lon": -73.9998678,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Artisanal ice cream shop with unique flavors and old-fashioned charm",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://morgensternsnyc.com/"
   },
   {
-    "name": "Original Cake \u6e90\u5473\u672c\u92ea",
+    "name": "Original Cake 源味本鋪",
     "lat": 40.7571727,
     "lon": -73.8293161,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional Chinese bakery in Flushing",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Croffle House",
@@ -95,8 +104,10 @@
     "lon": -73.8148305,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean dessert shop specializing in croissant waffles",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Lady Wong Pastry & Cakes",
@@ -104,8 +115,10 @@
     "lon": -73.9861516,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Chinese bakery known for traditional pastries and cakes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Bakery 1988",
@@ -113,8 +126,10 @@
     "lon": -74.0083428,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean bakery offering fresh breads and pastries",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Gnocchi on 9th",
@@ -122,8 +137,10 @@
     "lon": -73.9863386,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Casual Italian spot specializing in handmade gnocchi",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Butterdose",
@@ -131,8 +148,10 @@
     "lon": -73.9862697,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Trendy dessert cafe with creative pastries and coffee",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Spot Dessert Bar",
@@ -140,8 +159,10 @@
     "lon": -73.988927,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Upscale dessert bar with Asian-fusion sweets and cocktails",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.spotdessertbar.com/"
   },
   {
     "name": "ELOREA",
@@ -149,17 +170,21 @@
     "lon": -73.995935,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Artisanal pastry shop with French-inspired desserts",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
-    "name": "Softbite | Souffl\u00e9 Pancakes",
+    "name": "Softbite | Soufflé Pancakes",
     "lat": 40.7491627,
     "lon": -73.9421105,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese-style fluffy soufflé pancakes and desserts",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Sweet Rehab",
@@ -167,8 +192,10 @@
     "lon": -74.0020075,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Creative dessert shop with unique sweet creations",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Dominique Ansel Bakery",
@@ -176,17 +203,10 @@
     "lon": -74.0028734,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Umi Hotpot Sushi & Seafood Buffet",
-    "lat": 40.6224324,
-    "lon": -74.1694566,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Famous bakery known for the Cronut and innovative pastries",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://dominiqueansel.com/"
   },
   {
     "name": "East Harbor Seafood Palace",
@@ -194,8 +214,10 @@
     "lon": -74.0143293,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Upscale Chinese restaurant specializing in seafood and dim sum",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.eastharborseafood.com/"
   },
   {
     "name": "HHD (Heuk Hwa Dang)",
@@ -203,8 +225,10 @@
     "lon": -73.9873339,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean dessert cafe known for black sesame treats",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Matcha Cafe Maiko",
@@ -212,8 +236,10 @@
     "lon": -73.9948757,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese matcha cafe with traditional tea ceremony and sweets",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.matchacafemaiko.com/"
   },
   {
     "name": "Unregular Bakery",
@@ -221,17 +247,21 @@
     "lon": -73.9902141,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Innovative bakery with unique flavor combinations and artistic presentation",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
-    "name": "Eggcellent souffl\u00e9s pancake",
+    "name": "Eggcellent soufflé pancake",
     "lat": 40.7587356,
     "lon": -73.8310286,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specializing in Japanese-style fluffy soufflé pancakes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Gatcha",
@@ -239,17 +269,21 @@
     "lon": -73.8339633,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Asian fusion cafe with bubble tea and trendy desserts",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
-    "name": "Lys\u00e9e",
+    "name": "Lysée",
     "lat": 40.7391283,
     "lon": -73.9881953,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "French-inspired patisserie with elegant pastries and desserts",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Mango Mango Dessert",
@@ -257,26 +291,32 @@
     "lon": -73.9980467,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Hong Kong-style dessert chain specializing in mango-based treats",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.mangomangodessert.com/"
   },
   {
-    "name": "Nana\u2019s Green Tea",
+    "name": "Nana's Green Tea",
     "lat": 40.7479306,
     "lon": -73.9879491,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese tea house chain with matcha drinks and traditional sweets",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.nanasgreentea.com/"
   },
   {
-    "name": "Good Coconut \u597d\u597d\u6930",
+    "name": "Good Coconut 好好椰",
     "lat": 40.7572028,
     "lon": -73.8294161,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Specialty shop focusing on fresh coconut drinks and treats",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Anime Claw (Flushing)",
@@ -284,8 +324,10 @@
     "lon": -73.833689,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Arcade with claw machines featuring anime and pop culture prizes",
+    "info": null,
+    "categories": ["recreation"],
+    "url": null
   },
   {
     "name": "L.A. Burdick Handmade Chocolates",
@@ -293,8 +335,10 @@
     "lon": -74.0013032,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Artisanal chocolate shop with handcrafted confections and hot chocolate",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.burdickchocolate.com/"
   },
   {
     "name": "Sundaes Best",
@@ -302,8 +346,10 @@
     "lon": -73.9851018,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Ice cream parlor specializing in creative sundaes and milkshakes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Momoya SoHo",
@@ -311,17 +357,21 @@
     "lon": -73.9957854,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese restaurant known for sushi and modern Japanese cuisine",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
-    "name": "JUQI \u5c40\u6c14",
+    "name": "JUQI 局气",
     "lat": 40.7602825,
     "lon": -73.8337137,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Northern Chinese restaurant with authentic Beijing-style dishes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Class",
@@ -329,8 +379,10 @@
     "lon": -73.9850116,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Upscale restaurant and lounge with modern American cuisine",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Khaosan",
@@ -338,8 +390,10 @@
     "lon": -73.9942802,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Thai street food restaurant in Brooklyn Heights",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Postcard",
@@ -347,8 +401,10 @@
     "lon": -74.0031537,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Trendy cafe with Australian-inspired coffee and brunch",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Qahwah House W Village",
@@ -356,8 +412,10 @@
     "lon": -74.0023402,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Yemeni coffee house serving traditional coffee and Middle Eastern treats",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://qahwahhouse.com/"
   },
   {
     "name": "Glace NY",
@@ -365,8 +423,10 @@
     "lon": -73.9568862,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Premium ice cream shop with artisanal flavors",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Ferox Ninja Park - Trampolines, Ninja gym, Parkour",
@@ -374,8 +434,10 @@
     "lon": -73.9578051,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Indoor adventure park with ninja warrior courses and trampolines",
+    "info": null,
+    "categories": ["recreation", "sports"],
+    "url": "https://www.feroxninjapark.com/"
   },
   {
     "name": "Tokyo Taiyaki",
@@ -383,8 +445,10 @@
     "lon": -73.9891322,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese fish-shaped pastries filled with sweet and savory ingredients",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "8-Bit Bites",
@@ -392,8 +456,10 @@
     "lon": -73.9551546,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Video game-themed cafe with retro gaming and creative dishes",
+    "info": null,
+    "categories": ["food", "recreation"],
+    "url": null
   },
   {
     "name": "SALSWEE",
@@ -401,8 +467,10 @@
     "lon": -73.9901094,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean dessert shop specializing in salted caramel treats",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Top of The Rock",
@@ -410,17 +478,10 @@
     "lon": -73.9794087,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "WildPlay Jones Beach",
-    "lat": 40.5945444,
-    "lon": -73.5073777,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Observation deck offering panoramic views of Manhattan",
+    "info": null,
+    "categories": ["landmark"],
+    "url": "https://www.topoftherocknyc.com/"
   },
   {
     "name": "Round K by Sol",
@@ -428,8 +489,10 @@
     "lon": -73.9931521,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean karaoke bar with private rooms and cocktails",
+    "info": null,
+    "categories": ["music", "drinking"],
+    "url": null
   },
   {
     "name": "Laghman Express",
@@ -437,8 +500,10 @@
     "lon": -73.9840389,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Central Asian restaurant specializing in hand-pulled noodles",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "ICHIRAN Ramen NY Times Square",
@@ -446,8 +511,10 @@
     "lon": -73.9833246,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese ramen chain famous for tonkotsu ramen and individual dining booths",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://en.ichiran.com/"
   },
   {
     "name": "Sup Thai Kitchen",
@@ -455,8 +522,10 @@
     "lon": -73.7892891,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Thai restaurant with traditional flavors and fresh ingredients",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Anixi",
@@ -464,8 +533,10 @@
     "lon": -73.9974449,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Modern Greek restaurant with contemporary Mediterranean cuisine",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.anixinyc.com/"
   },
   {
     "name": "Studio Sukoon",
@@ -473,8 +544,10 @@
     "lon": -73.7439972,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Pakistani restaurant serving authentic South Asian cuisine",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Witch Topokki",
@@ -482,8 +555,10 @@
     "lon": -73.8201954,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean street food specializing in spicy rice cakes (tteokbokki)",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Mimisa",
@@ -491,8 +566,10 @@
     "lon": -73.8293434,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Vietnamese pho restaurant with authentic broths and fresh ingredients",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Roosevelt Island Tramway",
@@ -500,8 +577,10 @@
     "lon": -73.9641664,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Aerial tramway offering scenic views of Manhattan and East River",
+    "info": null,
+    "categories": ["landmark", "recreation"],
+    "url": "https://www.rioc.ny.gov/302/Tram"
   },
   {
     "name": "Gelatoville Gelataria & Coffee",
@@ -509,8 +588,10 @@
     "lon": -73.9845719,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Italian gelato shop with authentic flavors and espresso",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Brooklyn Dumpling Shop",
@@ -518,8 +599,10 @@
     "lon": -73.9856935,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Automated dumpling shop with creative fusion flavors",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": "https://brooklyndumplingshop.com/"
   },
   {
     "name": "TONCHIN BROOKLYN",
@@ -527,26 +610,10 @@
     "lon": -73.9616957,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "WildPlay Jones Beach",
-    "lat": 40.5945444,
-    "lon": -73.5073777,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "L.A. Burdick Handmade Chocolates",
-    "lat": 40.7258666,
-    "lon": -74.0013032,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese ramen restaurant specializing in tonkotsu and creative bowls",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://tonchin.com/"
   },
   {
     "name": "Nemesis",
@@ -554,8 +621,10 @@
     "lon": -73.9889086,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Coffee bar and roastery with specialty drinks and pastries",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Yingtao",
@@ -563,8 +632,10 @@
     "lon": -73.987724,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Chinese restaurant specializing in Sichuan cuisine and hot pot",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "CHILI",
@@ -572,8 +643,10 @@
     "lon": -73.9820676,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Szechuan restaurant with authentic spicy Chinese dishes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Buddakan",
@@ -581,8 +654,10 @@
     "lon": -74.0049692,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Upscale Asian fusion restaurant with theatrical ambiance",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.buddakannyc.com/"
   },
   {
     "name": "Qahwah House",
@@ -590,17 +665,10 @@
     "lon": -73.9571869,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
-  },
-  {
-    "name": "Meadow Dessert-Take out & Delivery only",
-    "lat": 40.7617674,
-    "lon": -73.9183543,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Yemeni coffee house with traditional coffee ceremonies",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://qahwahhouse.com/"
   },
   {
     "name": "El Churro",
@@ -608,8 +676,10 @@
     "lon": -73.988472,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Spanish churro shop with traditional and creative flavors",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Zhu Ji Dumpling House",
@@ -617,8 +687,10 @@
     "lon": -73.8299576,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Chinese dumpling house in Flushing",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Max & Mina's Ice Cream",
@@ -626,8 +698,10 @@
     "lon": -73.822421,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Ice cream shop famous for over 100 unique flavors including bizarre combinations",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": "https://maxandminasicecream.com/"
   },
   {
     "name": "Messy Donuts",
@@ -635,8 +709,10 @@
     "lon": -73.9859043,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Gourmet donut shop with creative toppings and fillings",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "La Churreria",
@@ -644,8 +720,10 @@
     "lon": -73.9950076,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Spanish churro shop with traditional recipes and chocolate dipping sauce",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Fumo Kips Bay",
@@ -653,8 +731,10 @@
     "lon": -73.9800928,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Italian restaurant with wood-fired pizzas and modern Italian cuisine",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Diner 24 NYC",
@@ -662,8 +742,10 @@
     "lon": -73.98336,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "24-hour diner serving classic American comfort food",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Mikado",
@@ -671,8 +753,10 @@
     "lon": -73.997412,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese restaurant specializing in sushi and traditional dishes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Jing Feng Fish Ball Inc.",
@@ -680,17 +764,21 @@
     "lon": -73.8291611,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Chinese restaurant specializing in fish balls and seafood dishes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
-    "name": "Northern King Dumpling \ub178\ub358 \uc655\ub9cc\ub450 \u5317\u65b9\u5305\u5b50\u738b - Handmade dumplings",
+    "name": "Northern King Dumpling 노던 왕만두 北方包子王 - Handmade dumplings",
     "lat": 40.765126,
     "lon": -73.815544,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Chinese dumpling house with handmade dumplings and Northern Chinese cuisine",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Super Taste",
@@ -698,8 +786,10 @@
     "lon": -73.9933358,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Hand-pulled noodle restaurant with authentic Chinese noodle soups",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Sweet Moment",
@@ -707,8 +797,10 @@
     "lon": -73.997147,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Dessert cafe with Asian-inspired sweets and bubble tea",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Limosneros",
@@ -716,8 +808,10 @@
     "lon": -73.9510229,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Mexican restaurant with authentic tacos and traditional dishes",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Wong Kwong Hop",
@@ -725,8 +819,10 @@
     "lon": -73.8814826,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Traditional Chinese bakery and tea house",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Bad Roman",
@@ -734,8 +830,10 @@
     "lon": -73.9831866,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Modern Italian restaurant with creative pasta dishes and cocktails",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.badromannyc.com/"
   },
   {
     "name": "Twin Tails",
@@ -743,8 +841,10 @@
     "lon": -73.9831866,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Seafood restaurant specializing in lobster rolls and raw bar",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Pochana Thai Kitchen",
@@ -752,8 +852,10 @@
     "lon": -73.9193187,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Thai restaurant with traditional recipes and fresh ingredients",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Fushimi Market",
@@ -761,8 +863,10 @@
     "lon": -73.9897585,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese market and prepared food shop with sushi and bento boxes",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": null
   },
   {
     "name": "Kaiten Zushi Nomad | AYCE Conveyor Belt Sushi, Japanese Restaurant in NYC",
@@ -770,8 +874,10 @@
     "lon": -73.9869095,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "All-you-can-eat conveyor belt sushi restaurant with fresh selections",
+    "info": null,
+    "categories": ["food"],
+    "url": "https://www.kaitenzushi.com/"
   },
   {
     "name": "Hashi Market",
@@ -779,17 +885,21 @@
     "lon": -73.9854991,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese convenience store and prepared food market",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": null
   },
   {
-    "name": "\u7076\u95e8\u7b7e Zao Men Qian Hot Pot",
+    "name": "灶门前 Zao Men Qian Hot Pot",
     "lat": 40.7505031,
     "lon": -73.8186957,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Chinese hot pot restaurant with premium ingredients",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "6ix Donutz",
@@ -797,8 +907,10 @@
     "lon": -73.9860442,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Artisanal donut shop with creative flavors and seasonal offerings",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Complete Playground",
@@ -806,8 +918,10 @@
     "lon": -74.0113952,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Indoor playground and activity center for families with children",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://www.completeplayground.com/"
   },
   {
     "name": "Hello, Yam!",
@@ -815,8 +929,10 @@
     "lon": -73.9829468,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean restaurant specializing in sweet potato dishes and comfort food",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Himawari",
@@ -824,8 +940,10 @@
     "lon": -73.9972861,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Japanese restaurant with traditional cuisine and fresh sushi",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Golden Diner",
@@ -833,8 +951,10 @@
     "lon": -73.9941045,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Modern American diner with elevated comfort food and cocktails",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.goldendiner.com/"
   },
   {
     "name": "Sugarcane Daddy",
@@ -842,17 +962,21 @@
     "lon": -73.9996012,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Taiwanese dessert shop specializing in shaved ice and bubble tea",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
-    "name": "Caff\u00e8 Panna",
+    "name": "Caffè Panna",
     "lat": 40.7243071,
     "lon": -73.9548368,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Italian gelato shop with authentic flavors and artisanal coffee",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://www.caffepanna.com/"
   },
   {
     "name": "Boongs Cafe",
@@ -860,8 +984,10 @@
     "lon": -73.9845718,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean cafe with specialty coffee and Korean-inspired pastries",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Complete Cafe",
@@ -869,8 +995,10 @@
     "lon": -74.0117187,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Family-friendly cafe with coffee, light meals, and kids play area",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Queens Night Market",
@@ -878,8 +1006,10 @@
     "lon": -73.8505135,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Outdoor night market featuring diverse food vendors and artisans (seasonal)",
+    "info": null,
+    "categories": ["market", "food"],
+    "url": "https://queensnightmarket.com/"
   },
   {
     "name": "Monster DIY Studio",
@@ -887,17 +1017,21 @@
     "lon": -73.8279173,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Creative workshop space for DIY crafts, art projects, and customization",
+    "info": null,
+    "categories": ["art", "recreation"],
+    "url": null
   },
   {
-    "name": "Mala Panda \u9ebb\u8fa3\u718a\u732b",
+    "name": "Mala Panda 麻辣熊猫",
     "lat": 40.745818,
     "lon": -73.9913532,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Sichuan restaurant specializing in spicy Chinese dishes and hot pot",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Sip & Play",
@@ -905,8 +1039,10 @@
     "lon": -73.9869454,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Board game cafe where you can drink coffee and play hundreds of games",
+    "info": null,
+    "categories": ["drinking", "recreation"],
+    "url": "https://www.sipnplaynyc.com/"
   },
   {
     "name": "Fouquet's New York",
@@ -914,17 +1050,21 @@
     "lon": -74.0097526,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Upscale French brasserie with classic French cuisine and elegant atmosphere",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://fouchetnyc.com/"
   },
   {
-    "name": "MOKAF\u00c9",
+    "name": "MOKAFÉ",
     "lat": 40.7582851,
     "lon": -73.9894356,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean coffee shop with specialty drinks and Korean desserts",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Sugar Factory New York - Time Square",
@@ -932,8 +1072,10 @@
     "lon": -73.9888008,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Candy store and restaurant famous for oversized desserts and colorful cocktails",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": "https://sugarfactory.com/"
   },
   {
     "name": "Yunnan Rice Noodle House",
@@ -941,8 +1083,10 @@
     "lon": -73.9976579,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Authentic Yunnan Chinese restaurant specializing in rice noodle soups",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Wooga NYC",
@@ -950,8 +1094,10 @@
     "lon": -73.9919104,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean chicken restaurant with Korean fried chicken and sides",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   },
   {
     "name": "Mr. Bear",
@@ -959,8 +1105,10 @@
     "lon": -73.8322844,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Taiwanese dessert shop with shaved ice and bubble tea",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "Spa Castle New York",
@@ -968,17 +1116,21 @@
     "lon": -73.8369663,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Large Korean-style spa with multiple pools, saunas, and wellness facilities",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://www.spacastleny.com/"
   },
   {
-    "name": "L\u00c0 L\u00c1 Bakeshop NYC",
+    "name": "LÀ LÁ Bakeshop NYC",
     "lat": 40.726465,
     "lon": -73.9894466,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Vietnamese-inspired bakery with creative pastries and coffee",
+    "info": null,
+    "categories": ["food", "drinking"],
+    "url": null
   },
   {
     "name": "SoJo Spa Club",
@@ -986,8 +1138,10 @@
     "lon": -73.9793129,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Korean spa and wellness center with pools, saunas, and spa treatments",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://sojospa.com/"
   },
   {
     "name": "Mr P's Homemade Ice Cream",
@@ -995,7 +1149,8 @@
     "lon": -73.9495675,
     "icon": null,
     "imageURL": null,
-    "description": "",
-    "info": null
+    "description": "Family-owned ice cream shop with homemade flavors and generous portions",
+    "info": null,
+    "categories": ["food"],
+    "url": null
   }
-]
