@@ -1082,19 +1082,6 @@
   },
   {
     "categories": [
-      "food"
-    ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.6984774,
-    "lon": -73.977732,
-    "name": "Rooftop Reds",
-    "url": null
-  },
-  {
-    "categories": [
       "religious",
       "historic"
     ],
