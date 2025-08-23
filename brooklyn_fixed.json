@@ -3921,8 +3921,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "This seemingly unremarkable boulder is said to bear the hoofprint of the devil himself. The rock can be viewed from 5th Avenue and 36th Street through the fence of the cemetery or you can enter the cemetery from 4th Avenue and follow Maple Avenue under the bridge. Once on the other side of the bridge turn right off the path and climb the hill; the rock is partially obscured by bushes.",
+    "categories": ["quirky", "historic"],
+    "description": "This seemingly unremarkable boulder is said to bear the hoofprint of the devil himself. The rock can be viewed from 5th Avenue and 36th Street through the fence of the cemetery or you can enter the cemetery from 4th Avenue and follow Maple Avenue under the bridge. Once on the other side of the bridge turn right off the path and climb the hill; the rock is partially obscured by bushes.",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -3932,7 +3932,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art", "museum"],
     "description": "warehouse housing private art collection",
     "icon": null,
     "imageURL": null,
@@ -3940,10 +3940,10 @@
     "lat": 40.7335909,
     "lon": -73.9556203,
     "name": "Faurschou New York",
-    "url": null
+    "url": "https://www.faurschou.com/"
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3954,7 +3954,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark", "neighborhood"],
     "description": "most instagrammed spot in NYC",
     "icon": null,
     "imageURL": null,
@@ -3965,7 +3965,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature", "food"],
     "description": "Underneath the bustling city streets, a hydroponic farm grows unique herbs in an urban oasis.",
     "icon": null,
     "imageURL": null,
@@ -3973,10 +3973,10 @@
     "lat": 40.679678,
     "lon": -73.9689121,
     "name": "Farm.One",
-    "url": null
+    "url": "https://farm.one/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3984,10 +3984,10 @@
     "lat": 40.7033589,
     "lon": -73.9909737,
     "name": "Janet Borden Inc",
-    "url": null
+    "url": "https://www.janetbordengallery.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3995,10 +3995,10 @@
     "lat": 40.6945365,
     "lon": -73.9613927,
     "name": "e-flux",
-    "url": null
+    "url": "https://www.e-flux.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4009,7 +4009,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4020,7 +4020,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum", "historic"],
     "description": "Brownsville Heritage House, Inc. (BHH), a hidden gem nestled on the second floor of the Brooklyn Public Library's Stone Avenue branch. BHH is an extension of the community, a place that provides a platform for the arts, entertainment, and culture and is a resource to enhance quality of life. BHH promotes Brownsville's historical significance, while aligning with today's technology to pave the way for future generations.",
     "icon": null,
     "imageURL": null,
@@ -4031,7 +4031,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum", "quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4042,7 +4042,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "Powerhouse Arts is a nonprofit organization committed to creative expression housed in a purpose-built facility that was once the Brooklyn Rapid Transit Company's central power station. Meet the extended network of art and fabrication professionals and educators who work together to co-create and share artistic practices vital to the well-being of artists and the communities to which they belong.",
     "icon": null,
     "imageURL": null,
@@ -4050,10 +4050,10 @@
     "lat": 40.6764243,
     "lon": -73.9885252,
     "name": "Powerhouse Arts",
-    "url": null
+    "url": "https://www.powerhousearts.org/"
   },
   {
-    "categories": [],
+    "categories": ["nature"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4064,7 +4064,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4075,7 +4075,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4086,7 +4086,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4097,8 +4097,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "landmarked interior. Also an exterior landmark and a National Registered Historic Place",
+    "categories": ["historic", "landmark"],
+    "description": "landmarked interior. Also an exterior landmark and a National Registered Historic Place",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -4108,7 +4108,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4119,7 +4119,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4130,7 +4130,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4141,7 +4141,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "neighborhood"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4152,7 +4152,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "neighborhood"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4163,7 +4163,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4171,10 +4171,10 @@
     "lat": 40.6760881,
     "lon": -73.9810057,
     "name": "The Ripped Bodice",
-    "url": null
+    "url": "https://www.theripppedbodice.com/"
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4193,13 +4193,10 @@
     "lat": 40.7038431,
     "lon": -73.9870756,
     "name": "A.I.R.",
-    "url": null
+    "url": "https://www.airnyc.org/"
   },
   {
-    "categories": [
-      "park",
-      "art"
-    ],
+    "categories": ["park", "art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4207,7 +4204,7 @@
     "lat": 40.6907367,
     "lon": -73.9639907,
     "name": "Pratt Institute Sculpture Park",
-    "url": null
+    "url": "https://www.pratt.edu/"
   },
   {
     "categories": ["museum"],
@@ -4222,7 +4219,7 @@
   },
   {
     "categories": ["religious"],
-    "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many \"770s\" around the world.",
+    "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many 770s around the world.",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -4233,7 +4230,7 @@
   },
   {
     "categories": ["landmark"],
-    "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's \"Automobile Row.\"",
+    "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's Automobile Row.",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -4243,7 +4240,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park", "quirky"],
     "description": "A miniature version of a legendary Dutch boulder.",
     "icon": null,
     "imageURL": null,
@@ -4254,7 +4251,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "quirky"],
     "description": "This recently uncovered ad for Lindsay's run at Mayor in 1965 had been hiding for decades underneath a billboard.",
     "icon": null,
     "imageURL": null,
@@ -4265,7 +4262,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "A mosaic made of materials gathered from this Brooklyn community adorns the walls of this tunnel.",
     "icon": null,
     "imageURL": null,
@@ -4276,7 +4273,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "This unusual subway stop was originally a real estate office.",
     "icon": null,
     "imageURL": null,
@@ -4287,8 +4284,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "The Father of the Erie Canal has a magnificent grave marker that redefines the term \"final resting place.\"",
+    "categories": ["historic"],
+    "description": "The Father of the Erie Canal has a magnificent grave marker that redefines the term final resting place.",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -4298,7 +4295,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "A way to take your secrets to someone else's grave.",
     "icon": null,
     "imageURL": null,
@@ -4309,8 +4306,8 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "The factory that helped produce a dominant form of lighting before Thomas Edison. <br><br>The three-kiln factory, which began producing clay retorts and fire bricks in 1859, continued production until the early 1930s. It was later bought and restored by Greg O'Connell, a Red Hook developer. The space now houses the Carvart Glass Company, which creates architectural glass products for noteworthy New York City buildings.",
+    "categories": ["historic"],
+    "description": "The factory that helped produce a dominant form of lighting before Thomas Edison. The three-kiln factory, which began producing clay retorts and fire bricks in 1859, continued production until the early 1930s. It was later bought and restored by Greg O'Connell, a Red Hook developer. The space now houses the Carvart Glass Company, which creates architectural glass products for noteworthy New York City buildings.",
     "icon": null,
     "imageURL": null,
     "info": null,
@@ -4320,7 +4317,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["drinking", "historic"],
     "description": "Once a popular watering hole among longshoremen and shipyard workers, this neighborhood treasure spans more than 100 years of Red Hook history.",
     "icon": null,
     "imageURL": null,
@@ -4328,10 +4325,10 @@
     "lat": 40.6756944,
     "lon": -74.0168722,
     "name": "Sunny's",
-    "url": null
+    "url": "https://www.sunnyredhook.com/"
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4342,7 +4339,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4353,7 +4350,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4364,7 +4361,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4375,7 +4372,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4386,7 +4383,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4397,7 +4394,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "Their Bushwick tasting room / bottle shop has vinyl nights and live music multiple nights a week, food pop-ups and more.",
     "icon": null,
     "imageURL": null,
@@ -4405,10 +4402,10 @@
     "lat": 40.70597,
     "lon": -73.9237799,
     "name": "Kato Sake Works",
-    "url": null
+    "url": "https://katosake.com/"
   },
   {
-    "categories": [],
+    "categories": ["drinking", "music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4419,7 +4416,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "Allison Eden Studios is a custom glass art house for all mosaic tile. This one- of-a-kind art studio, which has been manufacturing creative custom tile in NYC for over 30 years, makes some of the most intricate and beautiful tile and mosaic art on the market. The studio also serves as a kind of glass mosaic museum featuring the pop art culture of the city's past and present.",
     "icon": null,
     "imageURL": null,
@@ -4430,7 +4427,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art", "nature"],
     "description": "Carroll Hall is a hidden botanical walled garden and series of buildings that explore material reuse ...",
     "icon": null,
     "imageURL": null,
@@ -4441,7 +4438,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "New York Sign Museum",
     "icon": null,
     "imageURL": null,
@@ -4452,7 +4449,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4460,10 +4457,10 @@
     "lat": 40.6856169,
     "lon": -73.9807735,
     "name": "Roulette Intermedium",
-    "url": null
+    "url": "https://roulette.org/"
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "offers tours once a month",
     "icon": null,
     "imageURL": null,
@@ -4474,7 +4471,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4485,7 +4482,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4496,7 +4493,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4504,10 +4501,10 @@
     "lat": 40.674967,
     "lon": -73.9760077,
     "name": "ShapeShifter Lab",
-    "url": null
+    "url": "https://www.shapeshifterlab.com/"
   },
   {
-    "categories": [],
+    "categories": ["religious"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4518,7 +4515,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["theater"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4529,7 +4526,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4540,7 +4537,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["nature", "museum"],
     "description": "This 7,000-square-foot learning center in Bergen Beach, Brooklyn, is home to over 200 living organisms...",
     "icon": null,
     "imageURL": null,
@@ -4551,7 +4548,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4562,7 +4559,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art", "nature"],
     "description": "a new cultural center in the heart of the industrial zone of Greenpoint, Brooklyn, that focuses on the intersection of art and ecology...",
     "icon": null,
     "imageURL": null,
@@ -4573,7 +4570,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "The newly-opened 65,000 square-foot space houses space for multiple institutions...",
     "icon": null,
     "imageURL": null,
@@ -4584,7 +4581,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4595,7 +4592,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4606,7 +4603,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4617,9 +4614,7 @@
     "url": null
   },
   {
-    "categories": [
-      "art"
-    ],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
