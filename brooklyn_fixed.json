@@ -3215,7 +3215,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3226,7 +3226,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3237,7 +3237,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3270,7 +3270,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3281,7 +3281,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3289,10 +3289,10 @@
     "lat": 40.7037407,
     "lon": -73.9897595,
     "name": "Smack Mellon",
-    "url": null
+    "url": "https://www.smackmellon.org/"
   },
   {
-    "categories": [],
+    "categories": ["recreation"],
     "description": "home for independently made arcade games",
     "icon": null,
     "imageURL": null,
@@ -3300,10 +3300,10 @@
     "lat": 40.6923719,
     "lon": -73.9274634,
     "name": "Wonderville",
-    "url": null
+    "url": "https://www.wonderville.nyc/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3311,7 +3311,7 @@
     "lat": 40.7033588,
     "lon": -73.9908596,
     "name": "MINUS SPACE",
-    "url": null
+    "url": "https://www.minusspace.com/"
   },
   {
     "categories": ["art"],
@@ -3325,7 +3325,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "Greenpoint Library and Environmental Education Center is a 15,000-square-foot community library and hub for environmental awareness, activism, and education in the Brooklyn Public Library system. Program elements include reading rooms, dry/wet eco-labs, community event space and meeting rooms, staff spaces, and an extensive outdoor space. Landscapes are integrated into the building on three levels – bioswale and rock outcroppings at the street, a reading garden on the second, and a green roof on the third.",
     "icon": null,
     "imageURL": null,
@@ -3333,10 +3333,10 @@
     "lat": 40.7259813,
     "lon": -73.9506651,
     "name": "Greenpoint Library",
-    "url": null
+    "url": "https://www.bklynlibrary.org/locations/greenpoint"
   },
   {
-    "categories": [],
+    "categories": ["art", "quirky"],
     "description": "quirky sculpture garden (private)",
     "icon": null,
     "imageURL": null,
@@ -3347,7 +3347,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["cinema"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3355,10 +3355,10 @@
     "lat": 40.7273005,
     "lon": -73.9515454,
     "name": "Film Noir Cinema",
-    "url": null
+    "url": "https://www.filmnoircinema.com/"
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3369,7 +3369,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["neighborhood"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3380,7 +3380,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3391,7 +3391,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3402,7 +3402,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3410,10 +3410,10 @@
     "lat": 40.689612,
     "lon": -73.946732,
     "name": "Herbert Von King Park",
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/parks/herbert-von-king-park.page"
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3424,7 +3424,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3435,7 +3435,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3446,7 +3446,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["food"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3457,7 +3457,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["drinking", "theater"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3465,10 +3465,10 @@
     "lat": 40.7048388,
     "lon": -73.9330082,
     "name": "Syndicated Bar Theater Kitchen",
-    "url": null
+    "url": "https://syndicatedbk.com/"
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3479,7 +3479,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["neighborhood"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3490,7 +3490,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["music", "shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3498,10 +3498,10 @@
     "lat": 40.711305,
     "lon": -73.963079,
     "name": "Williamsburg Music Center",
-    "url": null
+    "url": "https://www.wmcnyc.com/"
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3509,10 +3509,10 @@
     "lat": 40.732808,
     "lon": -73.955144,
     "name": "Archestratus Books + Foods",
-    "url": null
+    "url": "https://www.archestratus.com/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3523,7 +3523,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3534,7 +3534,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3545,7 +3545,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "NYC Landmark",
     "icon": null,
     "imageURL": null,
@@ -3556,7 +3556,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "description": "NYC Landmark; landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -3567,7 +3567,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3578,7 +3578,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3589,7 +3589,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3597,10 +3597,10 @@
     "lat": 40.5768049,
     "lon": -73.942583,
     "name": "Manhattan Beach Park",
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/parks/manhattan-beach-park.page"
   },
   {
-    "categories": [],
+    "categories": ["recreation"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3611,7 +3611,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3619,10 +3619,10 @@
     "lat": 40.5786707,
     "lon": -73.9351016,
     "name": "Kingsborough Community College",
-    "url": null
+    "url": "https://www.kbcc.cuny.edu/"
   },
   {
-    "categories": [],
+    "categories": ["bookstore"],
     "description": "go in back for views of the canal through the windows",
     "icon": null,
     "imageURL": null,
@@ -3630,10 +3630,10 @@
     "lat": 40.5913977,
     "lon": -73.9239955,
     "name": "Brooklyn Public Library - Gerritsen Beach Branch",
-    "url": null
+    "url": "https://www.bklynlibrary.org/locations/gerritsen-beach"
   },
   {
-    "categories": [],
+    "categories": ["drinking"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3644,7 +3644,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["park"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3652,10 +3652,10 @@
     "lat": 40.6534111,
     "lon": -74.0201023,
     "name": "Bush Terminal Piers Park",
-    "url": null
+    "url": "https://www.nyc.gov/site/parks/parks/bush-terminal-piers-park.page"
   },
   {
-    "categories": [],
+    "categories": ["shopping"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3666,7 +3666,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["theater", "cinema"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3677,7 +3677,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["religious"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3688,7 +3688,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["landmark"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3699,7 +3699,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["theater"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3707,10 +3707,10 @@
     "lat": 40.6851473,
     "lon": -73.9735043,
     "name": "Alliance of Resident Theatres",
-    "url": null
+    "url": "https://www.a-r-t.org/"
   },
   {
-    "categories": [],
+    "categories": ["theater"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3718,10 +3718,10 @@
     "lat": 40.6826399,
     "lon": -73.9608721,
     "name": "JACK",
-    "url": null
+    "url": "https://jackny.org/"
   },
   {
-    "categories": [],
+    "categories": ["art", "museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3729,10 +3729,10 @@
     "lat": 40.700149,
     "lon": -73.9942743,
     "name": "Asia Art Archive in America",
-    "url": null
+    "url": "https://aaa-a.org/"
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3740,10 +3740,10 @@
     "lat": 40.709411,
     "lon": -73.923169,
     "name": "Elsewhere",
-    "url": null
+    "url": "https://elsewheremuseum.org/"
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3751,10 +3751,10 @@
     "lat": 40.7140289,
     "lon": -73.9626,
     "name": "El Museo de Los Sures",
-    "url": null
+    "url": "https://www.elmuseo.org/"
   },
   {
-    "categories": [],
+    "categories": ["museum", "quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3762,10 +3762,10 @@
     "lat": 40.6560789,
     "lon": -74.0078174,
     "name": "The Morbid Anatomy Library and Gift Shop",
-    "url": null
+    "url": "https://www.morbidanatomymuseum.org/"
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3776,7 +3776,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3784,10 +3784,10 @@
     "lat": 40.6929116,
     "lon": -73.9874613,
     "name": "Clive Davis Institute of Recorded Music",
-    "url": null
+    "url": "https://tisch.nyu.edu/clive-davis-institute"
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3795,10 +3795,10 @@
     "lat": 40.6815763,
     "lon": -73.9469889,
     "name": "BrownstoneJAZZ",
-    "url": null
+    "url": "https://www.brownstonejazz.org/"
   },
   {
-    "categories": [],
+    "categories": ["music"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3809,7 +3809,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["art"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3820,7 +3820,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["food", "quirky"],
     "description": "century old soda fountain",
     "icon": null,
     "imageURL": null,
@@ -3831,18 +3831,18 @@
     "url": null
   },
   {
-    "categories": [],
-    "description": "Founded in 2019, Amant is a non-collecting contemporary art institution that fosters artistic research, experimentation, and dialogue through exhibitions, live programs, publications, and artist residencies in Brooklyn, NY, and Siena, Italy. The core of Amant's mission is to advance the presentation of contemporary art with an emphasis on innovative formats and ideas.<br><br>Amant's 21,000-square-foot, four-building campus, designed by SO-IL, includes a multipurpose screening and performance space, a café, and a bookshop. The organization supports both established and mid-career international and local artists who work across diverse creative fields, and is committed to building cultural partnerships with like-minded organizations in the U.S. and abroad while activating new and ongoing conversations with local communities.",
+    "categories": ["art", "museum"],
+    "description": "Founded in 2019, Amant is a non-collecting contemporary art institution that fosters artistic research, experimentation, and dialogue through exhibitions, live programs, publications, and artist residencies in Brooklyn, NY, and Siena, Italy. The core of Amant's mission is to advance the presentation of contemporary art with an emphasis on innovative formats and ideas. Amant's 21,000-square-foot, four-building campus, designed by SO-IL, includes a multipurpose screening and performance space, a café, and a bookshop. The organization supports both established and mid-career international and local artists who work across diverse creative fields, and is committed to building cultural partnerships with like-minded organizations in the U.S. and abroad while activating new and ongoing conversations with local communities.",
     "icon": null,
     "imageURL": null,
     "info": null,
     "lat": 40.7123133,
     "lon": -73.9370549,
     "name": "Amant",
-    "url": null
+    "url": "https://amant.org/"
   },
   {
-    "categories": [],
+    "categories": ["art", "museum"],
     "description": "BioBAT Art Space is a non-profit gallery dedicated to the intersection of art and science. The gallery features cutting-edge bio-art, where artists and scientists create works that push the boundaries of both fields. Exhibitions explore themes like sustainability, ecology, and the intricate workings of life, providing visitors with a thought-provoking experience",
     "icon": null,
     "imageURL": null,
@@ -3850,10 +3850,10 @@
     "lat": 40.6455096,
     "lon": -74.0238947,
     "name": "BioBAT, Inc.",
-    "url": null
+    "url": "https://biobat.org/"
   },
   {
-    "categories": [],
+    "categories": ["historic", "museum", "nps"],
     "description": "The home of aviation trailblazers, in a remote corner of the big city.",
     "icon": null,
     "imageURL": null,
@@ -3861,10 +3861,10 @@
     "lat": 40.5881603,
     "lon": -73.8969745,
     "name": "Ryan Visitor Center - Floyd Bennett Field",
-    "url": null
+    "url": "https://www.nps.gov/gate/"
   },
   {
-    "categories": [],
+    "categories": ["recreation"],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3872,10 +3872,10 @@
     "lat": 40.6769483,
     "lon": -73.990036,
     "name": "Gowanus Dredgers Canoe Club Boathouse",
-    "url": null
+    "url": "https://www.gowanuscanoe.org/"
   },
   {
-    "categories": [],
+    "categories": ["market"],
     "description": "For over 20 years, the Flatbush Caton Market has served as the bustling center of a vibrant Caribbean community, connecting residents with local vendors and products from all over the globe. A five-year renovation and expansion project is now complete and the market has returned with a new name: the Flatbush Central Caribbean Marketplace!",
     "icon": null,
     "imageURL": null,
@@ -3886,7 +3886,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["museum"],
     "description": "Genspace is the world's first community biology lab — a place where people of all backgrounds and identities can learn, create, and grow with the life sciences.",
     "icon": null,
     "imageURL": null,
@@ -3894,10 +3894,10 @@
     "lat": 40.6565705,
     "lon": -74.0026065,
     "name": "Genspace",
-    "url": null
+    "url": "https://www.genspace.org/"
   },
   {
-    "categories": [],
+    "categories": ["landmark", "historic"],
     "description": "a war memorial at Fort Greene Park that commemorates more than 11,500 American prisoners of war who died in captivity aboard British prison ships during the American Revolutionary War. The remains of a small fraction of those who died on the ships are interred in a crypt beneath its base",
     "icon": null,
     "imageURL": null,
@@ -3908,7 +3908,7 @@
     "url": null
   },
   {
-    "categories": [],
+    "categories": ["quirky"],
     "description": "",
     "icon": null,
     "imageURL": null,
