@@ -1460,5 +1460,16 @@
     "info": null,
     "url": null,
     "categories": ["shopping", "historic"]
+  },
+  {
+    "name": "Library180",
+    "lat": 40.705398,
+    "lon": -74.005322,
+    "icon": null,
+    "imageURL": null,
+    "description": "Magazine reference library open by appointment",
+    "info": null,
+    "url": null,
+    "categories": ["bookstore"]
   }
 ]
