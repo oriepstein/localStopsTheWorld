@@ -18,7 +18,7 @@
     "imageURL": null,
     "description": "Traditional Japanese tea house serving matcha and traditional sweets",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["cafe"],
     "url": "https://www.cha-an.com/"
   },
   {
@@ -40,7 +40,7 @@
     "imageURL": null,
     "description": "Asian-style bubble tea and dessert cafe",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["cafe"],
     "url": null
   },
   {
@@ -150,7 +150,7 @@
     "imageURL": null,
     "description": "Trendy dessert cafe with creative pastries and coffee",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -227,7 +227,7 @@
     "imageURL": null,
     "description": "Korean dessert cafe known for black sesame treats",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -238,7 +238,7 @@
     "imageURL": null,
     "description": "Japanese matcha cafe with traditional tea ceremony and sweets",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["cafe"],
     "url": "https://www.matchacafemaiko.com/"
   },
   {
@@ -271,7 +271,7 @@
     "imageURL": null,
     "description": "Asian fusion cafe with bubble tea and trendy desserts",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -304,7 +304,7 @@
     "imageURL": null,
     "description": "Japanese tea house chain with matcha drinks and traditional sweets",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["cafe"],
     "url": "https://www.nanasgreentea.com/"
   },
   {
@@ -315,7 +315,7 @@
     "imageURL": null,
     "description": "Specialty shop focusing on fresh coconut drinks and treats",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -403,7 +403,7 @@
     "imageURL": null,
     "description": "Trendy cafe with Australian-inspired coffee and brunch",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["cafe", "food"],
     "url": null
   },
   {
