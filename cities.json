@@ -113,5 +113,10 @@
     "name": "Boston",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/boston_eastern_ma_places_categorized.json",
     "imageURL": "https://plus.unsplash.com/premium_photo-1694475434235-12413ec38b3e?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Ym9zdG9ufGVufDB8fDB8fHww"
+  },
+  {
+    "name": "NYC Pizza",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/nyc_pizza.json",
+    "imageURL": "https://images.unsplash.com/photo-1622880833523-7cf1c0bd4296?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
