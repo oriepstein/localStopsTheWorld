@@ -4,9 +4,9 @@
     "lat": 36.163251,
     "lon": -86.775518,
     "imageURL": null,
-    "description": "This alleyway was named to honor the memory of a beloved local dog.\u00a0",
+    "description": "This alleyway was named to honor the memory of a beloved local dog.",
     "info": null,
-    "categories": [],
+    "categories": ["quirky"],
     "url": null
   },
   {
@@ -14,19 +14,19 @@
     "lat": 36.1609872,
     "lon": -86.7780462,
     "imageURL": null,
-    "description": "Fuel your honky-tonking with this venue's unbeatable \u201cRecession Special.\u201d\u00a0",
+    "description": "Fuel your honky-tonking with this venue's unbeatable Recession Special.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "food", "drinking"],
+    "url": "https://www.robertswesternworld.com/"
   },
   {
     "name": "Nashville Clayscape",
     "lat": 36.1535871,
     "lon": -86.7257229,
     "imageURL": null,
-    "description": "An ode to iconic Nashville locations.\u00a0\u00a0",
+    "description": "An ode to iconic Nashville locations.",
     "info": null,
-    "categories": [],
+    "categories": ["art", "landmark"],
     "url": null
   },
   {
@@ -36,19 +36,17 @@
     "imageURL": null,
     "description": "At this Nashville restaurant, cheese and charcuterie arrive via conveyor belt.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food"],
+    "url": "https://www.cultureandcompany.com/"
   },
   {
     "name": "Nashville 8th Ave Reservoir",
     "lat": 36.1394322,
     "lon": -86.7807531,
     "imageURL": null,
-    "description": "In 1912, a broken section of the reservoir wall released millions of gallons of water and destroyed many homes downhill.\u00a0",
+    "description": "In 1912, a broken section of the reservoir wall released millions of gallons of water and destroyed many homes downhill.",
     "info": null,
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "url": null
   },
   {
@@ -58,20 +56,18 @@
     "imageURL": null,
     "description": "This beloved cheeseburger-slinging trailer holds Nashville's oldest beer license.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["food", "historic"],
+    "url": "https://www.brownsdiner.com/"
   },
   {
     "name": "Santa's Pub",
     "lat": 36.1274383,
     "lon": -86.7672367,
     "imageURL": null,
-    "description": "Flaunt your karaoke chops at this pitch-perfect dive bar.\u00a0\u00a0",
+    "description": "Flaunt your karaoke chops at this pitch-perfect dive bar.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "drinking", "music"],
+    "url": "https://www.santaspub.com/"
   },
   {
     "name": "Honeytree Meadery",
@@ -80,22 +76,18 @@
     "imageURL": null,
     "description": "Sip mead from an East Nashville apiary while snacking on barbacoa tacos.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "drinking"],
+    "url": "https://www.honeytreemeadery.com/"
   },
   {
     "name": "Dino's Bar & Grill",
     "lat": 36.1811464,
     "lon": -86.7492939,
     "imageURL": null,
-    "description": "East Nashville's oldest dive bar will bring you back to life with animal-style bar fare.\u00a0",
+    "description": "East Nashville's oldest dive bar will bring you back to life with animal-style bar fare.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "drinking"],
+    "url": "https://www.dinosbarandgrill.com/"
   },
   {
     "name": "Chopper",
@@ -104,35 +96,28 @@
     "imageURL": null,
     "description": "Feast on award-winning birria tacos from a food truck inside this neon robo-tiki bar.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "drinking", "quirky"],
+    "url": "https://www.chopperbar.com/"
   },
   {
     "name": "Lane Motor Museum",
     "lat": 36.1401967,
     "lon": -86.7345798,
     "imageURL": null,
-    "description": "Located inside a former bread factory, this museum explores a century of transportation history through innovations that were extraordinary or failures\u2014sometimes both.\u00a0",
+    "description": "Located inside a former bread factory, this museum explores a century of transportation history through innovations that were extraordinary or failures—sometimes both.",
     "info": null,
-    "categories": [
-      "museum"
-    ],
-    "url": null
+    "categories": ["museum"],
+    "url": "https://www.lanemotormuseum.org/"
   },
   {
     "name": "St. Mary of the Seven Sorrows",
     "lat": 36.1658117,
     "lon": -86.7815621,
     "imageURL": null,
-    "description": "This church houses the \u201cincorrupt\u201d body of its founding Bishop.\u00a0",
+    "description": "This church houses the incorrupt body of its founding Bishop.",
     "info": null,
-    "categories": [
-      "religious",
-      "shopping"
-    ],
-    "url": null
+    "categories": ["religious", "historic"],
+    "url": "https://www.stmarysevensorows.org/"
   },
   {
     "name": "The Downtown Presbyterian Church",
@@ -141,19 +126,17 @@
     "imageURL": null,
     "description": "Victorian-era Egyptomania left its mark on this Nashville landmark.",
     "info": null,
-    "categories": [
-      "religious"
-    ],
-    "url": null
+    "categories": ["religious", "historic", "landmark"],
+    "url": "https://www.dpchurch.org/"
   },
   {
     "name": "President James K. Polk Tomb",
     "lat": 36.1665791,
     "lon": -86.7839179,
     "imageURL": null,
-    "description": "The grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital.\u00a0",
+    "description": "The grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital.",
     "info": null,
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "url": null
   },
   {
@@ -161,11 +144,9 @@
     "lat": 36.136866,
     "lon": -86.8062805,
     "imageURL": null,
-    "description": "The grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital.\u00a0",
+    "description": "The grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital.",
     "info": null,
-    "categories": [
-      "park"
-    ],
+    "categories": ["park"],
     "url": null
   },
   {
@@ -173,10 +154,10 @@
     "lat": 36.1637611,
     "lon": -86.7823611,
     "imageURL": null,
-    "description": "The award-winning men's bathroom was just too beautiful to not allow women to see.\u00a0",
+    "description": "The award-winning men's bathroom was just too beautiful to not allow women to see.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["historic", "landmark"],
+    "url": "https://www.thehermitagehotel.com/"
   },
   {
     "name": "George Boedecker's Sculpture Garden",
@@ -185,9 +166,7 @@
     "imageURL": null,
     "description": "Dinosaurs invade a suburban Nashville neighborhood.",
     "info": null,
-    "categories": [
-      "park"
-    ],
+    "categories": ["park", "art", "quirky"],
     "url": null
   },
   {
@@ -195,33 +174,29 @@
     "lat": 36.1577547,
     "lon": -86.7763954,
     "imageURL": null,
-    "description": "At 135 years old and counting, this historic print shop is heaven for poster nerds and music buffs.\u00a0",
+    "description": "At 135 years old and counting, this historic print shop is heaven for poster nerds and music buffs.",
     "info": null,
-    "categories": [
-      "historic",
-      "music",
-      "shopping"
-    ],
-    "url": null
+    "categories": ["historic", "music", "shopping", "art"],
+    "url": "https://hatchshowprint.com/"
   },
   {
     "name": "The Parthenon",
     "lat": 36.1496737,
     "lon": -86.8133467,
     "imageURL": null,
-    "description": "This replica of the Greek structure is in the heart of Nashville.\u00a0\u00a0",
+    "description": "This replica of the Greek structure is in the heart of Nashville.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["landmark", "museum", "art"],
+    "url": "https://www.nashville.gov/departments/parks/parthenon"
   },
   {
     "name": "Pinckney's Tomb",
     "lat": 35.560281,
     "lon": -87.8172599,
     "imageURL": null,
-    "description": "A house built specifically to shelter the dead.\u00a0",
+    "description": "A house built specifically to shelter the dead.",
     "info": null,
-    "categories": [],
+    "categories": ["historic", "quirky"],
     "url": null
   },
   {
@@ -231,7 +206,7 @@
     "imageURL": null,
     "description": "This simple, broken column marks the final resting place of one of America's most famous explorers.",
     "info": null,
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "url": null
   },
   {
@@ -239,9 +214,9 @@
     "lat": 35.778586,
     "lon": -87.4667273,
     "imageURL": null,
-    "description": "In the hometown of the Grand Ole Opry star is a larger-than-life memorial statue made entirely from chicken wire.\u00a0",
+    "description": "In the hometown of the Grand Ole Opry star is a larger-than-life memorial statue made entirely from chicken wire.",
     "info": null,
-    "categories": [],
+    "categories": ["art", "music", "quirky"],
     "url": null
   },
   {
@@ -249,9 +224,9 @@
     "lat": 35.9533686,
     "lon": -87.3271328,
     "imageURL": null,
-    "description": "A fictional Coupe DeVille built by hand and gifted to the Man in Black himself.\u00a0\u00a0",
+    "description": "A fictional Coupe DeVille built by hand and gifted to the Man in Black himself.",
     "info": null,
-    "categories": [],
+    "categories": ["art", "music", "quirky"],
     "url": null
   },
   {
@@ -259,9 +234,9 @@
     "lat": 36.1469857,
     "lon": -87.1234639,
     "imageURL": null,
-    "description": "The first full-scale tunnel built in America is short but scenic.\u00a0",
+    "description": "The first full-scale tunnel built in America is short but scenic.",
     "info": null,
-    "categories": [],
+    "categories": ["historic", "landmark"],
     "url": null
   },
   {
@@ -269,11 +244,9 @@
     "lat": 36.5564812,
     "lon": -86.2508435,
     "imageURL": null,
-    "description": "This tiny 19th-century tunnel was built so a man could move his cows from one field to another.\u00a0",
+    "description": "This tiny 19th-century tunnel was built so a man could move his cows from one field to another.",
     "info": null,
-    "categories": [
-      "park"
-    ],
+    "categories": ["park", "historic", "quirky"],
     "url": null
   },
   {
@@ -281,47 +254,40 @@
     "lat": 36.5907628,
     "lon": -87.056771,
     "imageURL": null,
-    "description": "Home of an evil witch famous within southern folklore.\u00a0",
+    "description": "Home of an evil witch famous within southern folklore.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["quirky", "historic"],
+    "url": "https://www.bellwitchcave.com/"
   },
   {
     "name": "Cedars of Lebanon State Park",
     "lat": 36.0831487,
     "lon": -86.3191532,
     "imageURL": null,
-    "description": "This park contains one of the largest concentrations of cedar glades, a unique and rare ecosystem.\u00a0",
+    "description": "This park contains one of the largest concentrations of cedar glades, a unique and rare ecosystem.",
     "info": null,
-    "categories": [
-      "park"
-    ],
-    "url": null
+    "categories": ["park", "nature"],
+    "url": "https://tnstateparks.com/parks/cedars-lebanon"
   },
   {
     "name": "Old Stone Fort State Archaeological Park",
     "lat": 35.4862509,
     "lon": -86.1026944,
     "imageURL": null,
-    "description": "This limestone outcropping was once a ceremonial site for ancient Native Americans.\u00a0",
+    "description": "This limestone outcropping was once a ceremonial site for ancient Native Americans.",
     "info": null,
-    "categories": [
-      "park",
-      "historic"
-    ],
-    "url": null
+    "categories": ["park", "historic", "archaeological"],
+    "url": "https://tnstateparks.com/parks/old-stone-fort"
   },
   {
     "name": "The Caverns",
     "lat": 35.3316993,
     "lon": -85.8249739,
     "imageURL": null,
-    "description": "An ancient cave system in Tennessee\u2019s Appalachian foothills converted to a 1,200-person music venue.",
+    "description": "An ancient cave system in Tennessee's Appalachian foothills converted to a 1,200-person music venue.",
     "info": null,
-    "categories": [
-      "music"
-    ],
-    "url": null
+    "categories": ["music", "nature"],
+    "url": "https://www.thecaverns.com/"
   },
   {
     "name": "Third Man Records",
@@ -330,152 +296,127 @@
     "imageURL": null,
     "description": "Jack White's record store is the only place in the world that records live shows direct-to-acetate.",
     "info": null,
-    "categories": [
-      "shopping"
-    ],
-    "url": null
+    "categories": ["shopping", "music"],
+    "url": "https://thirdmanrecords.com/"
   },
   {
     "name": "Ryman Auditorium",
     "lat": 36.1612481,
     "lon": -86.7784714,
     "imageURL": null,
-    "description": null,
+    "description": "The Mother Church of Country Music, this former gospel tabernacle became the original home of the Grand Ole Opry.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "historic", "landmark"],
+    "url": "https://www.ryman.com/"
   },
   {
     "name": "Country Music Hall of Fame and Museum",
     "lat": 36.1582632,
     "lon": -86.7761258,
     "imageURL": null,
-    "description": null,
+    "description": "The world's largest museum and research center dedicated to the preservation and interpretation of American vernacular music.",
     "info": null,
-    "categories": [
-      "museum",
-      "music"
-    ],
-    "url": null
+    "categories": ["museum", "music"],
+    "url": "https://www.countrymusichalloffame.org/"
   },
   {
     "name": "The Fontanel Mansion",
     "lat": 36.2549427,
     "lon": -86.817393,
     "imageURL": null,
-    "description": "\u201c Music and nature come together at the former home of Barbara Mandrell, now a museum and music venue with acres of hiking trails\u201d",
+    "description": "Music and nature come together at the former home of Barbara Mandrell, now a museum and music venue with acres of hiking trails",
     "info": null,
-    "categories": [
-      "museum",
-      "historic",
-      "music",
-      "food"
-    ],
-    "url": null
+    "categories": ["museum", "historic", "music", "food"],
+    "url": "https://www.fontanelmansion.com/"
   },
   {
     "name": "Grand Ole Opry",
     "lat": 36.2068571,
     "lon": -86.6921085,
     "imageURL": null,
-    "description": null,
+    "description": "The show that made country music famous, broadcasting live from Nashville since 1925.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "historic", "landmark"],
+    "url": "https://www.opry.com/"
   },
   {
     "name": "The Bluebird Cafe",
     "lat": 36.1020761,
     "lon": -86.8168645,
     "imageURL": null,
-    "description": null,
+    "description": "This intimate listening room has launched the careers of countless country music stars through its famous songwriter nights.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "music"],
+    "url": "https://www.bluebirdcafe.com/"
   },
   {
     "name": "McGregor Park & Cumberland Riverwalk",
     "lat": 36.534912,
     "lon": -87.367364,
     "imageURL": null,
-    "description": "\u201cThere\u2019s no better way to see Clarksville\u2019s gems than to stroll around this 15-acre park along the banks of the Cumberland \u201d",
+    "description": "There's no better way to see Clarksville's gems than to stroll around this 15-acre park along the banks of the Cumberland",
     "info": null,
-    "categories": [
-      "park"
-    ],
-    "url": null
+    "categories": ["park", "nature"],
+    "url": "https://www.cityofclarksville.com/298/McGregor-Park"
   },
   {
-    "name": "Andrew Jackson\u2019s Hermitage",
+    "name": "Andrew Jackson's Hermitage",
     "lat": 36.2137573,
     "lon": -86.6153097,
     "imageURL": null,
-    "description": "\u201cThe home of America\u2019s seventh president is also one of Tennessee\u2019s finest historic homes and gardens, preserving not only the story of Andrew Jackson, but also that of his family, paid staff, and slaves\u201d",
+    "description": "The home of America's seventh president is also one of Tennessee's finest historic homes and gardens, preserving not only the story of Andrew Jackson, but also that of his family, paid staff, and slaves",
     "info": null,
-    "categories": [
-      "park",
-      "historic"
-    ],
-    "url": null
+    "categories": ["park", "historic", "museum"],
+    "url": "https://www.thehermitage.com/"
   },
   {
     "name": "The Franklin Theatre",
     "lat": 35.9241232,
     "lon": -86.8708418,
     "imageURL": null,
-    "description": "\u201cThis 1937 movie theater underwent an extensive restoration that brought it back to its original glory\u201d",
+    "description": "This 1937 movie theater underwent an extensive restoration that brought it back to its original glory",
     "info": null,
-    "categories": [
-      "music"
-    ],
-    "url": null
+    "categories": ["music", "theater", "historic"],
+    "url": "https://www.franklintheatre.com/"
   },
   {
     "name": "Carnton Plantation",
     "lat": 35.9031197,
     "lon": -86.858334,
     "imageURL": null,
-    "description": "\u201cLet your imagination run free at this mansion, which served as a Confederate field hospital during the Battle of Franklin. It is the fictional setting of the novel The Widow of the South\u201d",
+    "description": "Let your imagination run free at this mansion, which served as a Confederate field hospital during the Battle of Franklin. It is the fictional setting of the novel The Widow of the South",
     "info": null,
-    "categories": [
-      "historic"
-    ],
-    "url": null
+    "categories": ["historic", "museum"],
+    "url": "https://www.battleoffranklin.org/"
   },
   {
     "name": "Cascade Hollow Distilling Co. (George Dickel Distillery)",
     "lat": 35.4383782,
     "lon": -86.246101,
     "imageURL": null,
-    "description": null,
+    "description": "Tennessee whisky distillery offering tours and tastings in the scenic hills of Coffee County.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "drinking"],
+    "url": "https://www.georgedickel.com/"
   },
   {
     "name": "Dunbar Cave Visitor Center",
     "lat": 36.5503038,
     "lon": -87.3057358,
     "imageURL": null,
-    "description": null,
+    "description": "Explore Tennessee's largest cave entrance and learn about the site's rich history from Native American settlements to Big Band era performances.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["park", "historic", "nature"],
+    "url": "https://tnstateparks.com/parks/dunbar-cave"
   },
   {
     "name": "Bear Spring Furnace",
     "lat": 36.4759449,
     "lon": -87.7526355,
     "imageURL": null,
-    "description": "A key producer of charcoal iron in the early 1800s, the structure still stands today.\u00a0",
+    "description": "A key producer of charcoal iron in the early 1800s, the structure still stands today.",
     "info": null,
-    "categories": [],
+    "categories": ["historic"],
     "url": null
   },
   {
@@ -483,23 +424,19 @@
     "lat": 36.0892572,
     "lon": -87.2783758,
     "imageURL": null,
-    "description": null,
+    "description": "Named after the iron master who shaped Middle Tennessee's early industry, this park offers hiking trails, fishing, and historic iron works sites.",
     "info": null,
-    "categories": [
-      "park"
-    ],
-    "url": null
+    "categories": ["park", "nature", "historic"],
+    "url": "https://tnstateparks.com/parks/montgomery-bell"
   },
   {
     "name": "Willie Nelson and Friends Museum and Nashville Souvenirs",
     "lat": 36.2175651,
     "lon": -86.698197,
     "imageURL": null,
-    "description": null,
+    "description": "A quirky museum dedicated to Willie Nelson and country music memorabilia.",
     "info": null,
-    "categories": [
-      "museum"
-    ],
+    "categories": ["museum", "music", "shopping"],
     "url": null
   },
   {
@@ -507,9 +444,9 @@
     "lat": 36.2057046,
     "lon": -86.7360047,
     "imageURL": null,
-    "description": null,
+    "description": "Historic veterans organization meeting hall in Nashville's Inglewood neighborhood.",
     "info": null,
-    "categories": [],
+    "categories": ["historic"],
     "url": null
   },
   {
@@ -517,21 +454,19 @@
     "lat": 36.1707184,
     "lon": -86.7888787,
     "imageURL": null,
-    "description": null,
+    "description": "A year-round market featuring local produce, international cuisine, and artisan goods in a historic building.",
     "info": null,
-    "categories": [
-      "shopping"
-    ],
-    "url": null
+    "categories": ["shopping", "food", "market"],
+    "url": "https://www.nashvillefarmersmarket.org/"
   },
   {
     "name": "John Seigenthaler Pedestrian Bridge",
     "lat": 36.1620022,
     "lon": -86.7724744,
     "imageURL": null,
-    "description": null,
+    "description": "This former railroad bridge offers spectacular views of the Nashville skyline and Cumberland River.",
     "info": null,
-    "categories": [],
+    "categories": ["landmark"],
     "url": null
   },
   {
@@ -539,74 +474,70 @@
     "lat": 36.1620155,
     "lon": -86.7744129,
     "imageURL": null,
-    "description": null,
+    "description": "Multi-level honky-tonk and restaurant with rooftop bar overlooking the Cumberland River.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "food", "drinking"],
+    "url": "https://www.acmenashville.com/"
   },
   {
     "name": "Nudie's Honky Tonk",
     "lat": 36.160693,
     "lon": -86.7774455,
     "imageURL": null,
-    "description": null,
+    "description": "Honky-tonk bar named after the famous rhinestone suit maker to country music stars.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "drinking"],
+    "url": "https://www.nudieshonkytonk.com/"
   },
   {
     "name": "Tootsies Orchid Lounge",
     "lat": 36.1609016,
     "lon": -86.7782923,
     "imageURL": null,
-    "description": null,
+    "description": "Legendary honky-tonk bar that has been a launching pad for country music careers since 1960.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music", "drinking", "historic"],
+    "url": "https://www.tootsies.net/"
   },
   {
     "name": "3rd & Lindsley Bar & Grill",
     "lat": 36.1522106,
     "lon": -86.7698586,
     "imageURL": null,
-    "description": null,
+    "description": "Live music venue and restaurant known for showcasing both established and emerging artists.",
     "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null
+    "categories": ["food", "music"],
+    "url": "https://www.3rdandlindsley.com/"
   },
   {
     "name": "Cannery Hall",
     "lat": 36.1529728,
     "lon": -86.7804979,
     "imageURL": null,
-    "description": null,
+    "description": "Historic music venue in a converted cannery building featuring intimate concerts and events.",
     "info": null,
-    "categories": [
-      "music"
-    ],
-    "url": null
+    "categories": ["music", "historic"],
+    "url": "https://www.canneryhall.com/"
   },
   {
     "name": "The Station Inn",
     "lat": 36.152532,
     "lon": -86.784533,
     "imageURL": null,
-    "description": null,
+    "description": "Legendary bluegrass venue where the best pickers in Nashville come to jam and perform.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["music"],
+    "url": "https://www.stationinn.com/"
   },
   {
     "name": "Stones River National Battlefield",
     "lat": 35.8760842,
     "lon": -86.4307835,
     "imageURL": null,
-    "description": null,
+    "description": "Site of one of the bloodiest battles of the Civil War, now preserved as a national battlefield park.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["historic", "park", "nps"],
+    "url": "https://www.nps.gov/stri/"
   },
   {
     "name": "The Nations Silo",
@@ -615,7 +546,7 @@
     "imageURL": null,
     "description": "An enormous mural of a local Nashville resident adorns this abandoned silo.",
     "info": null,
-    "categories": [],
+    "categories": ["art", "quirky"],
     "url": null
   },
   {
@@ -623,11 +554,9 @@
     "lat": 36.1282872,
     "lon": -86.7535268,
     "imageURL": null,
-    "description": null,
+    "description": "Authentic Asian grocery store and deli serving the Nashville community with hard-to-find ingredients and prepared foods.",
     "info": null,
-    "categories": [
-      "shopping"
-    ],
+    "categories": ["shopping", "food"],
     "url": null
   },
   {
@@ -635,29 +564,29 @@
     "lat": 36.151469,
     "lon": -86.7966026,
     "imageURL": null,
-    "description": null,
+    "description": "Nashville's famous hot chicken served with varying levels of heat that will test your spice tolerance.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["food"],
+    "url": "https://hattieb.com/"
   },
   {
     "name": "Monell's",
     "lat": 36.1758242,
     "lon": -86.7902572,
     "imageURL": null,
-    "description": null,
+    "description": "Family-style Southern dining where strangers become friends around communal tables loaded with comfort food.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["food"],
+    "url": "https://www.monellstn.com/"
   },
   {
     "name": "Peg Leg Porker BBQ",
     "lat": 36.1517647,
     "lon": -86.7811177,
     "imageURL": null,
-    "description": null,
+    "description": "Award-winning barbecue joint serving dry-rubbed ribs and pulled pork in downtown Nashville.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": ["food"],
+    "url": "https://www.peglegporker.com/"
   }
 ]
