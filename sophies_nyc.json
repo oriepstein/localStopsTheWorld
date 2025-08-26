@@ -414,7 +414,7 @@
     "imageURL": null,
     "description": "Yemeni coffee house serving traditional coffee and Middle Eastern treats",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": "https://qahwahhouse.com/"
   },
   {
@@ -590,7 +590,7 @@
     "imageURL": null,
     "description": "Italian gelato shop with authentic flavors and espresso",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -623,7 +623,7 @@
     "imageURL": null,
     "description": "Coffee bar and roastery with specialty drinks and pastries",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -667,7 +667,7 @@
     "imageURL": null,
     "description": "Yemeni coffee house with traditional coffee ceremonies",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": "https://qahwahhouse.com/"
   },
   {
@@ -799,7 +799,7 @@
     "imageURL": null,
     "description": "Dessert cafe with Asian-inspired sweets and bubble tea",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -821,7 +821,7 @@
     "imageURL": null,
     "description": "Traditional Chinese bakery and tea house",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -997,7 +997,7 @@
     "imageURL": null,
     "description": "Family-friendly cafe with coffee, light meals, and kids play area",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -1041,7 +1041,7 @@
     "imageURL": null,
     "description": "Board game cafe where you can drink coffee and play hundreds of games",
     "info": null,
-    "categories": ["drinking", "recreation"],
+    "categories": ["cafe", "recreation"],
     "url": "https://www.sipnplaynyc.com/"
   },
   {
@@ -1052,7 +1052,7 @@
     "imageURL": null,
     "description": "Upscale French brasserie with classic French cuisine and elegant atmosphere",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": "https://fouchetnyc.com/"
   },
   {
@@ -1063,7 +1063,7 @@
     "imageURL": null,
     "description": "Korean coffee shop with specialty drinks and Korean desserts",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
@@ -1129,7 +1129,7 @@
     "imageURL": null,
     "description": "Vietnamese-inspired bakery with creative pastries and coffee",
     "info": null,
-    "categories": ["food", "drinking"],
+    "categories": ["food", "cafe"],
     "url": null
   },
   {
