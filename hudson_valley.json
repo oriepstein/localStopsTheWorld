@@ -5,7 +5,7 @@
     "lon": -73.867494,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "food"],
     "url": "https://www.glynwood.org/"
@@ -16,7 +16,7 @@
     "lon": -73.868174,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "art"],
     "url": "https://www.stonecrop.org/"
@@ -27,7 +27,7 @@
     "lon": -73.9890837,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "nature"],
     "url": null
@@ -38,7 +38,7 @@
     "lon": -73.8790386,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://parks.ny.gov/parks/83/details.aspx"
@@ -49,7 +49,7 @@
     "lon": -73.8247691,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/133/details.aspx"
@@ -60,7 +60,7 @@
     "lon": -73.7940243,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": "https://www.baus.org/"
@@ -71,7 +71,7 @@
     "lon": -73.981682,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.gomezmillhouse.org/"
@@ -82,7 +82,7 @@
     "lon": -73.929373,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nature"],
     "url": "https://www.lgny.org/"
@@ -93,7 +93,7 @@
     "lon": -73.9548606,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "landmark", "recreation"],
     "url": "https://walkway.org/"
@@ -104,7 +104,7 @@
     "lon": -73.810363,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "food"],
     "url": "https://www.sproutcreekfarm.org/"
@@ -115,7 +115,7 @@
     "lon": -73.7489177,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "art"],
     "url": "https://www.innisfreegarden.org/"
@@ -126,7 +126,7 @@
     "lon": -73.733878,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "museum"],
     "url": "https://www.caryinstitute.org/"
@@ -137,7 +137,7 @@
     "lon": -74.0590528,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.thepurplehearthall.org/"
@@ -148,7 +148,7 @@
     "lon": -74.0497559,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic"],
     "url": "https://parks.ny.gov/historic-sites/34/details.aspx"
@@ -159,7 +159,7 @@
     "lon": -74.0086111,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious", "historic"],
     "url": null
@@ -170,7 +170,7 @@
     "lon": -73.97764,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -181,7 +181,7 @@
     "lon": -73.8378852,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/129/details.aspx"
@@ -192,7 +192,7 @@
     "lon": -73.6601898,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://parks.ny.gov/historic-sites/33/details.aspx"
@@ -203,7 +203,7 @@
     "lon": -73.9648791,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "theater"],
     "url": "https://www.howlandculturalcenter.org/"
@@ -214,7 +214,7 @@
     "lon": -73.7669075,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "landmark"],
     "url": "https://parks.westchestergov.com/kensico-dam-plaza"
@@ -236,7 +236,7 @@
     "lon": -73.7060756,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.jayheritagecenter.org/"
@@ -247,7 +247,7 @@
     "lon": -73.5849679,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://nywolf.org/"
@@ -258,7 +258,7 @@
     "lon": -73.5888575,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.westchestergov.com/ward-pound-ridge-reservation"
@@ -269,7 +269,7 @@
     "lon": -73.6732169,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.katonahmuseum.org/"
@@ -280,7 +280,7 @@
     "lon": -73.6223177,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.mianus.org/"
@@ -291,7 +291,7 @@
     "lon": -73.6929144,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "nature"],
     "url": "https://www.pepsicosculpturegarden.org/"
@@ -302,7 +302,7 @@
     "lon": -73.7029617,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.neuberger.org/"
@@ -324,7 +324,7 @@
     "lon": -73.8289536,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food"],
     "url": "https://www.bluehillfarm.com/food/blue-hill-at-stone-barns"
@@ -335,7 +335,7 @@
     "lon": -73.91797,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art", "historic"],
     "url": "https://www.edwardhopperhouse.org/"
@@ -346,7 +346,7 @@
     "lon": -73.8627488,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "art"],
     "url": "https://www.hudsonvalley.org/historic-sites/kykuit/"
@@ -357,7 +357,7 @@
     "lon": -73.9123248,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/145/details.aspx"
@@ -368,7 +368,7 @@
     "lon": -73.826881,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.teatown.org/"
@@ -379,7 +379,7 @@
     "lon": -73.8291124,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature"],
     "url": null
@@ -390,7 +390,7 @@
     "lon": -73.8765067,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.hudsonvalley.org/historic-sites/van-cortlandt-manor/"
@@ -401,7 +401,7 @@
     "lon": -73.8554137,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["landmark", "historic"],
     "url": null
@@ -412,7 +412,7 @@
     "lon": -73.8573437,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature"],
     "url": "https://parks.westchestergov.com/croton-gorge-park"
@@ -423,7 +423,7 @@
     "lon": -73.8687041,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.hudsonvalley.org/historic-sites/washington-irvings-sunnyside/"
@@ -434,7 +434,7 @@
     "lon": -73.938424,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.audubon.org/get-outside/audubons-constitution-marsh"
@@ -445,7 +445,7 @@
     "lon": -74.0099251,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://parks.ny.gov/historic-sites/17/details.aspx"
@@ -456,7 +456,7 @@
     "lon": -73.9299229,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://parks.ny.gov/historic-sites/29/details.aspx"
@@ -467,7 +467,7 @@
     "lon": -73.9026203,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["theater", "music"],
     "url": "https://fishercenter.bard.edu/"
@@ -478,7 +478,7 @@
     "lon": -73.9141883,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.bard.edu/ccs/museum/"
@@ -489,7 +489,7 @@
     "lon": -73.9170059,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "nature"],
     "url": "https://www.bard.edu/blithewood/"
@@ -500,7 +500,7 @@
     "lon": -73.9189633,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "nature"],
     "url": "https://www.hudsonvalley.org/historic-sites/montgomery-place/"
@@ -511,7 +511,7 @@
     "lon": -73.9025617,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": null
@@ -522,7 +522,7 @@
     "lon": -73.9209079,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.dec.ny.gov/outdoor/24426.html"
@@ -533,7 +533,7 @@
     "lon": -73.819928,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["recreation"],
     "url": "https://www.eomega.org/"
@@ -544,7 +544,7 @@
     "lon": -74.031778,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "landmark"],
     "url": "https://www.opus40.org/"
@@ -555,7 +555,7 @@
     "lon": -74.3133595,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["shopping", "quirky"],
     "url": null
@@ -566,7 +566,7 @@
     "lon": -74.2636222,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["shopping"],
     "url": null
@@ -577,7 +577,7 @@
     "lon": -73.5153643,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/83/details.aspx"
@@ -599,7 +599,7 @@
     "lon": -74.0271781,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["cinema"],
     "url": "https://www.greenvilledrivein.com/"
@@ -610,7 +610,7 @@
     "lon": -74.1225886,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -621,7 +621,7 @@
     "lon": -74.277209,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": "https://zmm.org/"
@@ -632,7 +632,7 @@
     "lon": -74.2871618,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["shopping"],
     "url": null
@@ -643,7 +643,7 @@
     "lon": -74.1237052,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": "https://www.kagyu.org/"
@@ -665,7 +665,7 @@
     "lon": -74.2161,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food"],
     "url": null
@@ -676,7 +676,7 @@
     "lon": -73.973114,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "nature"],
     "url": "https://www.johnburroughsassociation.org/"
@@ -687,7 +687,7 @@
     "lon": -73.9423869,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nps"],
     "url": "https://www.nps.gov/vama/"
@@ -698,7 +698,7 @@
     "lon": -73.9340591,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.fdrlibrary.org/"
@@ -709,7 +709,7 @@
     "lon": -73.8990976,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nps"],
     "url": "https://www.nps.gov/elro/"
@@ -720,7 +720,7 @@
     "lon": -73.929223,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["cinema"],
     "url": "https://hydeparkdrivein.com/"
@@ -731,7 +731,7 @@
     "lon": -73.933346,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food"],
     "url": "https://www.ciachef.edu/"
@@ -742,7 +742,7 @@
     "lon": -73.8768109,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "recreation"],
     "url": "https://parks.ny.gov/parks/121/details.aspx"
@@ -753,7 +753,7 @@
     "lon": -73.8859748,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "art"],
     "url": "https://untermyergardens.org/"
@@ -764,7 +764,7 @@
     "lon": -73.896349,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.hrm.org/"
@@ -775,7 +775,7 @@
     "lon": -73.9040637,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "quirky"],
     "url": "https://www.groundworkhv.org/"
@@ -786,7 +786,7 @@
     "lon": -73.79781,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["quirky", "historic"],
     "url": "https://www.hartsdalesemeteryhp.com/"
@@ -797,7 +797,7 @@
     "lon": -73.7838,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "recreation"],
     "url": "https://parks.westchestergov.com/glen-island-park"
@@ -808,7 +808,7 @@
     "lon": -73.82577,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious", "historic", "nps"],
     "url": "https://www.nps.gov/sapa/"
@@ -830,7 +830,7 @@
     "lon": -73.861663,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "landmark"],
     "url": "https://www.sleepyhollowcemetery.org/"
@@ -841,7 +841,7 @@
     "lon": -73.8626311,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.hudsonvalley.org/historic-sites/philipsburg-manor/"
@@ -852,7 +852,7 @@
     "lon": -73.906759,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.hvcca.org/"
@@ -863,7 +863,7 @@
     "lon": -73.987363,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "park"],
     "url": "https://parks.ny.gov/historic-sites/16/details.aspx"
@@ -874,7 +874,7 @@
     "lon": -73.9537591,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "art", "historic"],
     "url": "https://www.visitmanitoga.org/"
@@ -885,7 +885,7 @@
     "lon": -74.187006,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.mohonkpreserve.org/"
@@ -896,7 +896,7 @@
     "lon": -74.2391091,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/127/details.aspx"
@@ -918,7 +918,7 @@
     "lon": -73.6290606,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food"],
     "url": "https://crownmaple.com/"
@@ -929,7 +929,7 @@
     "lon": -73.581457,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "landmark"],
     "url": null
@@ -940,7 +940,7 @@
     "lon": -73.5868174,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "landmark"],
     "url": null
@@ -951,7 +951,7 @@
     "lon": -73.942136,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.wilderstein.org/"
@@ -962,7 +962,7 @@
     "lon": -73.9298129,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "landmark"],
     "url": "https://www.saugertieslighthouse.com/"
@@ -973,7 +973,7 @@
     "lon": -73.8614998,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "art"],
     "url": "https://www.thomascole.org/"
@@ -984,7 +984,7 @@
     "lon": -73.7041742,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nps"],
     "url": "https://www.nps.gov/mava/"
@@ -995,7 +995,7 @@
     "lon": -73.686054,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["drinking", "food"],
     "url": "https://www.harvestspirits.com/"
@@ -1006,7 +1006,7 @@
     "lon": -73.6724681,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://www.artomi.org/"
@@ -1017,7 +1017,7 @@
     "lon": -73.648052,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "food"],
     "url": "https://www.kinderhookfarm.com/"
@@ -1028,7 +1028,7 @@
     "lon": -73.6967851,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": "https://www.wondharma.org/"
@@ -1039,7 +1039,7 @@
     "lon": -73.8292848,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "art"],
     "url": "https://olana.org/"
@@ -1050,7 +1050,7 @@
     "lon": -73.9269233,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "recreation"],
     "url": null
@@ -1061,7 +1061,7 @@
     "lon": -73.9183391,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation", "art"],
     "url": "https://www.scenichudson.org/parks/poetswalk"
@@ -1072,7 +1072,7 @@
     "lon": -73.6298903,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "food"],
     "url": null
@@ -1083,7 +1083,7 @@
     "lon": -74.209128,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.fws.gov/refuge/shawangunk-grasslands"
@@ -1105,7 +1105,7 @@
     "lon": -74.059384,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "nature"],
     "url": "https://stormking.org/"
@@ -1116,7 +1116,7 @@
     "lon": -74.044279,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["shopping"],
     "url": null
@@ -1127,7 +1127,7 @@
     "lon": -73.988746,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "landmark"],
     "url": "https://www.bannermancastle.org/"
@@ -1138,7 +1138,7 @@
     "lon": -73.939243,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nature"],
     "url": "https://www.boscobel.org/"
@@ -1149,7 +1149,7 @@
     "lon": -73.9573587,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic"],
     "url": null
@@ -1160,7 +1160,7 @@
     "lon": -73.9600188,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious", "historic"],
     "url": "https://www.westpoint.edu/"
@@ -1171,7 +1171,7 @@
     "lon": -73.9517955,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious", "recreation"],
     "url": "https://www.garrisoninstitute.org/"
@@ -1182,7 +1182,7 @@
     "lon": -73.9255895,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": "https://www.atonementfriars.org/"
@@ -1193,7 +1193,7 @@
     "lon": -74.1232619,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1204,7 +1204,7 @@
     "lon": -74.3804165,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["cinema"],
     "url": "https://www.warwickdrivein.com/"
@@ -1215,7 +1215,7 @@
     "lon": -74.1752018,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["drinking"],
     "url": "https://www.tuthilltowndistillery.com/"
@@ -1226,7 +1226,7 @@
     "lon": -74.1679394,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature"],
     "url": "https://woodstocksanctuary.org/"
@@ -1237,7 +1237,7 @@
     "lon": -73.6807028,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature"],
     "url": "https://parks.ny.gov/parks/111/details.aspx"
@@ -1248,7 +1248,7 @@
     "lon": -74.0178702,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://parks.ny.gov/parks/129/details.aspx"
@@ -1259,7 +1259,7 @@
     "lon": -73.7691565,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/lewis-a-swyer-preserve/"
@@ -1270,7 +1270,7 @@
     "lon": -73.8333483,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1281,7 +1281,7 @@
     "lon": -73.961354,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.scenichudson.org/parks/blackcreekpreserve"
@@ -1292,7 +1292,7 @@
     "lon": -73.5581096,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/pawling-nature-reserve/"
@@ -1303,7 +1303,7 @@
     "lon": -73.8424435,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1314,7 +1314,7 @@
     "lon": -73.474924,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "quirky"],
     "url": null
@@ -1325,7 +1325,7 @@
     "lon": -73.4431954,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.steepletop.org/"
@@ -1336,7 +1336,7 @@
     "lon": -74.8776143,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["music", "theater"],
     "url": "https://www.bethelwoodscenter.org/"
@@ -1347,7 +1347,7 @@
     "lon": -74.8807741,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "music"],
     "url": "https://www.bethelwoodscenter.org/museum/"
@@ -1358,7 +1358,7 @@
     "lon": -73.947782,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://www.rocklandartcenter.org/"
@@ -1380,7 +1380,7 @@
     "lon": -73.8817459,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "historic"],
     "url": "https://www.newingtoncropsey.com/"
@@ -1391,7 +1391,7 @@
     "lon": -73.8957002,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic"],
     "url": "https://www.vassar.edu/"
@@ -1402,7 +1402,7 @@
     "lon": -73.8974678,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.vassar.edu/artcenter/"
@@ -1413,7 +1413,7 @@
     "lon": -73.5605022,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://wassaicproject.org/"
@@ -1424,7 +1424,7 @@
     "lon": -73.5579192,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["cinema"],
     "url": "https://www.4brothersdrivein.com/"
@@ -1435,7 +1435,7 @@
     "lon": -73.8722527,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["quirky"],
     "url": "https://www.nevis.columbia.edu/"
@@ -1468,7 +1468,7 @@
     "lon": -73.672084,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://www.artomi.org/"
@@ -1479,7 +1479,7 @@
     "lon": -73.7987319,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "music"],
     "url": "https://basilicahudson.org/"
@@ -1490,7 +1490,7 @@
     "lon": -73.7013068,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://jackshainman.com/"
@@ -1501,7 +1501,7 @@
     "lon": -73.914816,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.magazzino.art/"
@@ -1512,7 +1512,7 @@
     "lon": -73.679278,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "quirky"],
     "url": "https://www.wingscastle.com/"
@@ -1523,7 +1523,7 @@
     "lon": -73.9191692,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://parks.ny.gov/historic-sites/8/details.aspx"
@@ -1534,7 +1534,7 @@
     "lon": -73.8994713,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://parks.ny.gov/historic-sites/21/details.aspx"
@@ -1545,7 +1545,7 @@
     "lon": -74.3505338,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1556,7 +1556,7 @@
     "lon": -74.3465087,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": "https://icecaves.com/"
@@ -1567,7 +1567,7 @@
     "lon": -73.9469829,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "historic"],
     "url": null
@@ -1578,7 +1578,7 @@
     "lon": -73.9218347,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["recreation"],
     "url": null
@@ -1589,7 +1589,7 @@
     "lon": -73.9018426,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "museum"],
     "url": "https://www.sarahlawrence.edu/student-life/slc-community/beczak/"
@@ -1600,7 +1600,7 @@
     "lon": -73.9565551,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature"],
     "url": "https://parks.ny.gov/parks/177/details.aspx"
@@ -1611,7 +1611,7 @@
     "lon": -73.9899501,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://garnerartscenter.org/"
@@ -1622,7 +1622,7 @@
     "lon": -73.9184083,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["quirky"],
     "url": null
@@ -1633,7 +1633,7 @@
     "lon": -73.9556941,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1644,7 +1644,7 @@
     "lon": -73.9656583,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1655,7 +1655,7 @@
     "lon": -74.361649,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1666,7 +1666,7 @@
     "lon": -73.865418,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "quirky"],
     "url": "https://oldrhinebeck.org/"
@@ -1677,7 +1677,7 @@
     "lon": -74.2638714,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art", "nature"],
     "url": null
@@ -1688,7 +1688,7 @@
     "lon": -74.4034468,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1699,7 +1699,7 @@
     "lon": -74.428284,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1710,7 +1710,7 @@
     "lon": -74.4545266,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature", "recreation"],
     "url": null
@@ -1721,7 +1721,7 @@
     "lon": -74.6469737,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food", "market"],
     "url": null
@@ -1732,7 +1732,7 @@
     "lon": -74.1540874,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["theater", "music"],
     "url": "https://bearsvilletheater.com/"
@@ -1743,7 +1743,7 @@
     "lon": -74.0006445,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/13/details.aspx"
@@ -1754,7 +1754,7 @@
     "lon": -74.1181578,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["food"],
     "url": "https://www.colonymoodstock.com/"
@@ -1765,7 +1765,7 @@
     "lon": -75.0614097,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["bookstore"],
     "url": null
@@ -1776,7 +1776,7 @@
     "lon": -75.0569868,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum"],
     "url": "https://www.fortdelaware.org/"
@@ -1798,7 +1798,7 @@
     "lon": -73.996643,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["drinking"],
     "url": "https://badseedcider.com/"
@@ -1809,7 +1809,7 @@
     "lon": -74.0979461,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic"],
     "url": null
@@ -1820,7 +1820,7 @@
     "lon": -74.8318634,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["drinking"],
     "url": "https://upwardbrewing.com/"
@@ -1831,7 +1831,7 @@
     "lon": -74.9582109,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["religious"],
     "url": null
@@ -1842,7 +1842,7 @@
     "lon": -74.2568942,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/106/details.aspx"
@@ -1853,7 +1853,7 @@
     "lon": -73.8283622,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["park", "nature", "recreation"],
     "url": "https://parks.ny.gov/parks/133/details.aspx"
@@ -1864,7 +1864,7 @@
     "lon": -73.9825664,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["museum", "art"],
     "url": "https://www.diaart.org/visit/visit-our-locations-sites/dia-beacon"
@@ -1875,7 +1875,7 @@
     "lon": -73.8992628,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nps"],
     "url": "https://www.nps.gov/elro/"
@@ -1886,7 +1886,7 @@
     "lon": -73.935295,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "museum", "nps"],
     "url": "https://www.nps.gov/hofr/"
@@ -1919,7 +1919,7 @@
     "lon": -74.1184379,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "nature"],
     "url": "https://www.mohonkpreserve.org/"
@@ -1941,7 +1941,7 @@
     "lon": -74.9760123,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["nature"],
     "url": null
@@ -1952,7 +1952,7 @@
     "lon": -74.8310804,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["historic", "landmark"],
     "url": null
@@ -1963,7 +1963,7 @@
     "lon": -74.8281059,
     "icon": null,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "categories": ["art"],
     "url": "https://www.catskillartspace.org/"
