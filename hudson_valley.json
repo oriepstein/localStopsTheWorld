@@ -1,0 +1,1450 @@
+[
+  {
+    "name": "Glynwood",
+    "lat": 41.453639,
+    "lon": -73.867494,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Stonecrop Gardens",
+    "lat": 41.440627,
+    "lon": -73.868174,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Pollepel Island",
+    "lat": 41.4551278,
+    "lon": -73.9890837,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Taconic Outdoor Education Center",
+    "lat": 41.4227618,
+    "lon": -73.8790386,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Clarence Fahnestock State Park",
+    "lat": 41.462791,
+    "lon": -73.8247691,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Chuang Yen Monastery",
+    "lat": 41.4851972,
+    "lon": -73.7940243,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Gomez Mill House",
+    "lat": 41.586566,
+    "lon": -73.981682,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Locust Grove Estate",
+    "lat": 41.672735,
+    "lon": -73.929373,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Walkway Over the Hudson State Historic Park",
+    "lat": 41.7105555,
+    "lon": -73.9548606,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Sprout Creek Farm",
+    "lat": 41.647733,
+    "lon": -73.810363,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Innisfree Garden",
+    "lat": 41.7617937,
+    "lon": -73.7489177,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Cary Institute of Ecosystem Studies",
+    "lat": 41.785189,
+    "lon": -73.733878,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "National Purple Heart Hl-Honor",
+    "lat": 41.4714709,
+    "lon": -74.0590528,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Knox Headquarters",
+    "lat": 41.4551149,
+    "lon": -74.0497559,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Dutch Reformed Church",
+    "lat": 41.5041667,
+    "lon": -74.0086111,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Anthony's Nose",
+    "lat": 41.319538,
+    "lon": -73.97764,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Rockefeller State Park Preserve",
+    "lat": 41.1079787,
+    "lon": -73.8378852,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "John Jay Homestead",
+    "lat": 41.2515668,
+    "lon": -73.6601898,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Howland Cultural Center",
+    "lat": 41.5017498,
+    "lon": -73.9648791,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Kensico Dam Plaza",
+    "lat": 41.0725986,
+    "lon": -73.7669075,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Reformed Church-The Tarrytowns",
+    "lat": 41.0773803,
+    "lon": -73.8574376,
+    "imageURL": null,
+    "description": "oldest church in NY",
+    "info": null
+  },
+  {
+    "name": "Jay Heritage Center",
+    "lat": 40.9572986,
+    "lon": -73.7060756,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Wolf Conservation Center",
+    "lat": 41.279522,
+    "lon": -73.5849679,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Ward Pound Ridge Reservation",
+    "lat": 41.2440106,
+    "lon": -73.5888575,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Katonah Museum of Art",
+    "lat": 41.262727,
+    "lon": -73.6732169,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Mianus River Gorge Preserve",
+    "lat": 41.1852784,
+    "lon": -73.6223177,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Donald M. Kendall Sculpture Gardens",
+    "lat": 41.03451,
+    "lon": -73.6929144,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Neuberger Museum of Art",
+    "lat": 41.0480531,
+    "lon": -73.7029617,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Union Church of Pocantico Hills",
+    "lat": 41.095642,
+    "lon": -73.832357,
+    "imageURL": null,
+    "description": "matisse & chagall windows - This tiny church near Sleepy Hollow contains Henri Matisse's last work, a rose window, and nine windows by Marc Chagall.",
+    "info": null
+  },
+  {
+    "name": "Blue Hill At Stone Barns",
+    "lat": 41.1040104,
+    "lon": -73.8289536,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Edward Hopper House Art Center",
+    "lat": 41.09328,
+    "lon": -73.91797,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Kykuit, the Rockefeller Estate",
+    "lat": 41.0878885,
+    "lon": -73.8627488,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hook Mountain State Park",
+    "lat": 41.12789,
+    "lon": -73.9123248,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Teatown Lake Reservation",
+    "lat": 41.211256,
+    "lon": -73.826881,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Wildflower Island",
+    "lat": 41.2122211,
+    "lon": -73.8291124,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Van Cortlandt Manor",
+    "lat": 41.1916537,
+    "lon": -73.8765067,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "New Croton Dam",
+    "lat": 41.2264833,
+    "lon": -73.8554137,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Croton Gorge Park",
+    "lat": 41.225969,
+    "lon": -73.8573437,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Washington Irving's Sunnyside",
+    "lat": 41.047827,
+    "lon": -73.8687041,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Constitution Marsh Audubon Center and Sanctuary",
+    "lat": 41.402064,
+    "lon": -73.938424,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Washington's Headquarters State Historic Site",
+    "lat": 41.4977159,
+    "lon": -74.0099251,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Staatsburgh State Historic Site",
+    "lat": 41.8566447,
+    "lon": -73.9299229,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Richard B. Fisher Center for the Performing Arts",
+    "lat": 42.0314381,
+    "lon": -73.9026203,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hessel Museum of Art",
+    "lat": 42.0202817,
+    "lon": -73.9141883,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Blithewood",
+    "lat": 42.0208155,
+    "lon": -73.9170059,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Montgomery Place Historic Estate",
+    "lat": 42.0145766,
+    "lon": -73.9189633,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Olafur Eliasson: The Parliament of Reality",
+    "lat": 42.0294759,
+    "lon": -73.9025617,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Tivoli Bays Wildlife Management Area",
+    "lat": 42.041899,
+    "lon": -73.9209079,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Omega Institute for Holistic Studies",
+    "lat": 41.885514,
+    "lon": -73.819928,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Opus 40",
+    "lat": 42.050597,
+    "lon": -74.031778,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Mystery Spot Antiques",
+    "lat": 42.0832153,
+    "lon": -74.3133595,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Fabulous Furniture",
+    "lat": 41.9947451,
+    "lon": -74.2636222,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Taconic State Park",
+    "lat": 42.1220502,
+    "lon": -73.5153643,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Beebe Hill State Forest",
+    "lat": 42.335364,
+    "lon": -73.4745571,
+    "imageURL": null,
+    "description": "nice views from fire tower",
+    "info": null
+  },
+  {
+    "name": "Greenville Drive In",
+    "lat": 42.3991925,
+    "lon": -74.0271781,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Overlook Mountain Trailhead",
+    "lat": 42.0711516,
+    "lon": -74.1225886,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Zen Mountain Monastery",
+    "lat": 42.048224,
+    "lon": -74.277209,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Kaleidostore",
+    "lat": 42.049797,
+    "lon": -74.2871618,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Karma Triyana Dharmachakra",
+    "lat": 42.070934,
+    "lon": -74.1237052,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Little Deep",
+    "lat": 42.0383066,
+    "lon": -74.0874268,
+    "imageURL": null,
+    "description": "swimming hole",
+    "info": null
+  },
+  {
+    "name": "Lyonsville Sugarhouse",
+    "lat": 41.8576,
+    "lon": -74.2161,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "John Burroughs Slabsides",
+    "lat": 41.797567,
+    "lon": -73.973114,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Vanderbilt Mansion National Historic Site",
+    "lat": 41.7963461,
+    "lon": -73.9423869,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Franklin D. Roosevelt Presidential Library and Museum",
+    "lat": 41.7686956,
+    "lon": -73.9340591,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Eleanor Roosevelt Center-Val-Kill",
+    "lat": 41.7631389,
+    "lon": -73.8990976,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hyde Park Drive In Theatre",
+    "lat": 41.772794,
+    "lon": -73.929223,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "The Culinary Institute of America (CIA)",
+    "lat": 41.745685,
+    "lon": -73.933346,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Old Croton Trailway State Park",
+    "lat": 41.0117137,
+    "lon": -73.8768109,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Untermyer Park and Gardens",
+    "lat": 40.9659926,
+    "lon": -73.8859748,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hudson River Museum",
+    "lat": 40.954123,
+    "lon": -73.896349,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Groundwork Hudson Valley Science Barge",
+    "lat": 40.9361213,
+    "lon": -73.9040637,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hartsdale Pet Cemetery & Hartsdale Crematory",
+    "lat": 41.021627,
+    "lon": -73.79781,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Glen Island Park",
+    "lat": 40.8852,
+    "lon": -73.7838,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Saint Paul's Church National Historic Site",
+    "lat": 40.893383,
+    "lon": -73.82577,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Lyndhurst Mansion",
+    "lat": 41.054009,
+    "lon": -73.8673462,
+    "imageURL": null,
+    "description": "One of the earliest bowling lanes in the U.S. doubled as a sewing school during a time when women had little job opportunity.",
+    "info": null
+  },
+  {
+    "name": "Sleepy Hollow Cemetery",
+    "lat": 41.097027,
+    "lon": -73.861663,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Philipsburg Manor",
+    "lat": 41.0879787,
+    "lon": -73.8626311,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hudson Valley Center for Contemporary Art",
+    "lat": 41.293297,
+    "lon": -73.906759,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Fort Montgomery",
+    "lat": 41.323883,
+    "lon": -73.987363,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Manitoga",
+    "lat": 41.3484996,
+    "lon": -73.9537591,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Mohonk Preserve Visitors Center",
+    "lat": 41.7347935,
+    "lon": -74.187006,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Minnewaska State Park Preserve",
+    "lat": 41.7350279,
+    "lon": -74.2391091,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Rainbow's End Farm",
+    "lat": 41.6240098,
+    "lon": -73.5848671,
+    "imageURL": null,
+    "description": "Butterfly farm",
+    "info": null
+  },
+  {
+    "name": "Crown Maple",
+    "lat": 41.6999165,
+    "lon": -73.6290606,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Dover Stone Church",
+    "lat": 41.7396235,
+    "lon": -73.581457,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Stone Church",
+    "lat": 41.7390689,
+    "lon": -73.5868174,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Wilderstein Historic Site",
+    "lat": 41.894036,
+    "lon": -73.942136,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Saugerties Lighthouse",
+    "lat": 42.0719942,
+    "lon": -73.9298129,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Thomas Cole National Historic Site",
+    "lat": 42.2257737,
+    "lon": -73.8614998,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Martin Van Buren National Historic Site",
+    "lat": 42.3697825,
+    "lon": -73.7041742,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Harvest Spirits LLC",
+    "lat": 42.439405,
+    "lon": -73.686054,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Omi International Arts Center",
+    "lat": 42.3311718,
+    "lon": -73.6724681,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Kinderhook Farm",
+    "lat": 42.354167,
+    "lon": -73.648052,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Won Dharma Center",
+    "lat": 42.2202338,
+    "lon": -73.6967851,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Olana State Historic Site",
+    "lat": 42.2171454,
+    "lon": -73.8292848,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Ferncliff Fire Tower",
+    "lat": 41.9565514,
+    "lon": -73.9269233,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Poets Walk",
+    "lat": 41.9818514,
+    "lon": -73.9183391,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Wethersfield Farm",
+    "lat": 41.8856751,
+    "lon": -73.6298903,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Shawangunk Grasslands National Wildlife Refuge",
+    "lat": 41.6378065,
+    "lon": -74.209128,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Drayton Grant Park at Burger Hill",
+    "lat": 41.9215794,
+    "lon": -73.87572,
+    "imageURL": null,
+    "description": "short hike to a great view; popular sledding site",
+    "info": null
+  },
+  {
+    "name": "Storm King Art Center",
+    "lat": 41.425063,
+    "lon": -74.059384,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "The Shops at Jones Farm",
+    "lat": 41.422776,
+    "lon": -74.044279,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Bannerman Castle",
+    "lat": 41.455346,
+    "lon": -73.988746,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Boscobel House and Gardens",
+    "lat": 41.411731,
+    "lon": -73.939243,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "The Plain",
+    "lat": 41.3928814,
+    "lon": -73.9573587,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Cadet Chapel",
+    "lat": 41.3902697,
+    "lon": -73.9600188,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Garrison Institute",
+    "lat": 41.3693082,
+    "lon": -73.9517955,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Graymoor-Franciscan Sisters of the Atonement",
+    "lat": 41.3456658,
+    "lon": -73.9255895,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Pine Meadow Lake",
+    "lat": 41.1743246,
+    "lon": -74.1232619,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Warwick Drive-In Theater",
+    "lat": 41.2346204,
+    "lon": -74.3804165,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Tuthilltown",
+    "lat": 41.6868644,
+    "lon": -74.1752018,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Woodstock Farm Sanctuary",
+    "lat": 41.8091924,
+    "lon": -74.1679394,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Peebles Island State Park Visitor Center",
+    "lat": 42.7839862,
+    "lon": -73.6807028,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Indian Ladder Trail",
+    "lat": 42.6563037,
+    "lon": -74.0178702,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Lewis A. Swyer Preserve",
+    "lat": 42.4179804,
+    "lon": -73.7691565,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Cohotate Preserve",
+    "lat": 42.2540348,
+    "lon": -73.8333483,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Black Creek Preserve",
+    "lat": 41.822384,
+    "lon": -73.961354,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Pawling Nature Reserve",
+    "lat": 41.6071917,
+    "lon": -73.5581096,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hunter Brook Preserve",
+    "lat": 41.2694263,
+    "lon": -73.8424435,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Circle Museum",
+    "lat": 42.2684518,
+    "lon": -73.474924,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Steepletop",
+    "lat": 42.3211479,
+    "lon": -73.4431954,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Bethel Woods Center for the Arts",
+    "lat": 41.6971535,
+    "lon": -74.8776143,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Museum At Bethel Woods",
+    "lat": 41.6976931,
+    "lon": -74.8807741,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Rockland Center For the Arts",
+    "lat": 41.090622,
+    "lon": -73.947782,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "14 Riverside Ave",
+    "lat": 41.1800453,
+    "lon": -73.9470788,
+    "imageURL": null,
+    "description": "private residence, but there should be an interesting outdoor exhibit",
+    "info": null
+  },
+  {
+    "name": "Newington Cropsey Foundation",
+    "lat": 40.9931007,
+    "lon": -73.8817459,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Vassar College",
+    "lat": 41.6867992,
+    "lon": -73.8957002,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Frances Lehman Loeb Art Center",
+    "lat": 41.6860506,
+    "lon": -73.8974678,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "The Wassaic Project",
+    "lat": 41.8056568,
+    "lon": -73.5605022,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Four Brothers Drive-in",
+    "lat": 41.8506721,
+    "lon": -73.5579192,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Nevis Labs Columbia University",
+    "lat": 41.0273124,
+    "lon": -73.8722527,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Armour-Stiner House",
+    "lat": 41.0308215,
+    "lon": -73.8704066,
+    "imageURL": null,
+    "description": "\"octagon\" house - private residence?",
+    "info": null
+  },
+  {
+    "name": "Irvington Public Library",
+    "lat": 41.0394438,
+    "lon": -73.8726728,
+    "imageURL": null,
+    "description": "Tiffany reading room",
+    "info": null
+  },
+  {
+    "name": "Art Omi",
+    "lat": 42.330543,
+    "lon": -73.672084,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Basilica Hudson",
+    "lat": 42.251969,
+    "lon": -73.7987319,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Jack Shainman Gallery: The School",
+    "lat": 42.3929896,
+    "lon": -73.7013068,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Magazzino Italian Art",
+    "lat": 41.429749,
+    "lon": -73.914816,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Wing's Castle",
+    "lat": 41.840964,
+    "lon": -73.679278,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Clermont State Historic Site",
+    "lat": 42.0859285,
+    "lon": -73.9191692,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Martin Van Buren National Historic Site",
+    "lat": 42.3697825,
+    "lon": -73.7041742,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Thomas Cole National Historic Site",
+    "lat": 42.2257737,
+    "lon": -73.8614998,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Philipse Manor Hall State",
+    "lat": 40.9356751,
+    "lon": -73.8994713,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Verkeerderkill Falls Trail",
+    "lat": 41.6741745,
+    "lon": -74.3505338,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Ice Caves",
+    "lat": 41.6722139,
+    "lon": -74.3465087,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Arden Point and Glenclyffe",
+    "lat": 41.3797904,
+    "lon": -73.9469829,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Malouf's Mountain Campground",
+    "lat": 41.5074786,
+    "lon": -73.9218347,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Sarah Lawrence College Center for the Urban River at Beczak",
+    "lat": 40.9381994,
+    "lon": -73.9018426,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Franny Reese State Park",
+    "lat": 41.7041395,
+    "lon": -73.9565551,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Garner Arts Center",
+    "lat": 41.2089024,
+    "lon": -73.9899501,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Hickory Dickory Dock",
+    "lat": 41.0892712,
+    "lon": -73.9184083,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Bull Hill",
+    "lat": 41.4384271,
+    "lon": -73.9556941,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Cornish Estate Trail Loop",
+    "lat": 41.4274913,
+    "lon": -73.9656583,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Sam's Point Trailhead",
+    "lat": 41.669963,
+    "lon": -74.361649,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Old Rhinebeck Aerodrome",
+    "lat": 41.9696427,
+    "lon": -73.865418,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Brunel Sculpture Garden",
+    "lat": 42.00016,
+    "lon": -74.2638714,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Giant Ledge Trailhead",
+    "lat": 42.0264268,
+    "lon": -74.4034468,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Slide Mountain Trailhead Parking Lot",
+    "lat": 42.0080241,
+    "lon": -74.428284,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Slide Mountain Forest House",
+    "lat": 42.0555252,
+    "lon": -74.4545266,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Le Petit Marché",
+    "lat": 42.1491441,
+    "lon": -74.6469737,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Bearsville Theater",
+    "lat": 42.0398032,
+    "lon": -74.1540874,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Bear Mountain State Park",
+    "lat": 41.2846114,
+    "lon": -74.0006445,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Colony",
+    "lat": 42.0424802,
+    "lon": -74.1181578,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "One Grand Books",
+    "lat": 41.6082457,
+    "lon": -75.0614097,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Fort Delaware Museum",
+    "lat": 41.6144425,
+    "lon": -75.0569868,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Stoppel Point",
+    "lat": 42.2250879,
+    "lon": -74.0651364,
+    "imageURL": null,
+    "description": "plane crash ruins",
+    "info": null
+  },
+  {
+    "name": "Bad Seed Cider Taproom",
+    "lat": 41.68544,
+    "lon": -73.996643,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Widow Jane Mine",
+    "lat": 41.841156,
+    "lon": -74.0979461,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Upward Brewing Company",
+    "lat": 41.8923416,
+    "lon": -74.8318634,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "St Nektarios Orthodox Monastery",
+    "lat": 41.8726277,
+    "lon": -74.9582109,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Sterling Forest State Park",
+    "lat": 41.1990305,
+    "lon": -74.2568942,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Pelton Pond - Fahnestock State Park",
+    "lat": 41.4621529,
+    "lon": -73.8283622,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Dia Beacon",
+    "lat": 41.5000753,
+    "lon": -73.9825664,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Eleanor Roosevelt National Historic Site",
+    "lat": 41.7618313,
+    "lon": -73.8992628,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Home of Franklin D. Roosevelt National Historic Site",
+    "lat": 41.7675539,
+    "lon": -73.935295,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Mohonk Preserve West Trapps Trailhead",
+    "lat": 41.7361392,
+    "lon": -74.2000525,
+    "imageURL": null,
+    "description": "parking lot fills up early on weekends",
+    "info": null
+  },
+  {
+    "name": "St. Cabrini Novitiate",
+    "lat": 41.008626,
+    "lon": -73.8790746,
+    "imageURL": null,
+    "description": "This dilapidated castle-like structure overlooks the Hudson River at one of its widest points and was once home to nuns.",
+    "info": null
+  },
+  {
+    "name": "Mohonk Preserve Testimonial Gateway",
+    "lat": 41.7448319,
+    "lon": -74.1184379,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "The Reher Center For Immigrant Culture and History",
+    "lat": 41.9201884,
+    "lon": -73.9859643,
+    "imageURL": null,
+    "description": "Housed in a former kosher bakery, this museum shares intimate oral histories, recipes, artifacts, and photos of immigrant life in Rondout. Occasionally offers guided tours and storytelling about the Reher family’s legacy.",
+    "info": null
+  },
+  {
+    "name": "Buck Brook Alpacas",
+    "lat": 41.8629431,
+    "lon": -74.9760123,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Livingston Manor Covered Bridge",
+    "lat": 41.9139104,
+    "lon": -74.8310804,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  },
+  {
+    "name": "Catskill Art Space",
+    "lat": 41.9008934,
+    "lon": -74.8281059,
+    "imageURL": null,
+    "description": null,
+    "info": null
+  }
+]
