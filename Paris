@@ -1,0 +1,2032 @@
+[
+  {
+    "name": "Catacombs of Paris",
+    "lat": 48.8338325,
+    "lon": 2.3324222,
+    "imageURL": null,
+    "description": "Underground ossuary holding the remains of over six million people in a fascinating network of tunnels beneath Paris.",
+    "info": null,
+    "categories": ["historic", "quirky", "landmark"],
+    "url": "https://www.catacombes.paris.fr/"
+  },
+  {
+    "name": "Jeannot's Floor",
+    "lat": 48.8305106,
+    "lon": 2.3382914,
+    "imageURL": null,
+    "description": "The floorboard scrawling of a tragic madman is on public display outside a Paris hospital, much to the dismay of its opponents.",
+    "info": null,
+    "categories": ["quirky", "art"],
+    "url": null
+  },
+  {
+    "name": "Père Lachaise Cemetery",
+    "lat": 48.861472,
+    "lon": 2.3934725,
+    "imageURL": null,
+    "description": "World's most visited cemetery, final resting place of Jim Morrison, Oscar Wilde, Édith Piaf, and countless other famous figures.",
+    "info": null,
+    "categories": ["historic", "landmark", "nature"],
+    "url": "https://pere-lachaise.com/"
+  },
+  {
+    "name": "Petite Ceinture du 12ème",
+    "lat": 48.8329998,
+    "lon": 2.3993023,
+    "imageURL": null,
+    "description": "Abandoned railway line circling the city of Paris.",
+    "info": null,
+    "categories": ["historic", "nature", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Mundolingua",
+    "lat": 48.8500359,
+    "lon": 2.3346923,
+    "imageURL": null,
+    "description": "A museum dedicated to linguistics, from how babies learn to talk to endangered and extinct languages.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.mundolingua.org/"
+  },
+  {
+    "name": "Pont Neuf",
+    "lat": 48.85705,
+    "lon": 2.3413252,
+    "imageURL": null,
+    "description": "If you look closely at the oldest bridge in Paris, you might notice hundreds of ugly faces leering from its sides.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Palais-Royal Garden",
+    "lat": 48.8649723,
+    "lon": 2.3378061,
+    "imageURL": null,
+    "description": "Check out Small Cannon of the Palais Royal: This small, ingenious cannon once helped regulate Parisian life.",
+    "info": null,
+    "categories": ["park", "historic", "landmark"],
+    "url": "https://www.palais-royal.monuments-nationaux.fr/"
+  },
+  {
+    "name": "Monnaie de Paris",
+    "lat": 48.8566831,
+    "lon": 2.3390526,
+    "imageURL": null,
+    "description": "The oldest continuously operating mint in the world that has been making coins since the 9th century.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.monnaiedeparis.fr/"
+  },
+  {
+    "name": "Cabinet des Médailles Paris",
+    "lat": 48.856614,
+    "lon": 2.3522219,
+    "imageURL": null,
+    "description": "Coin collection of Bibliotheque National which includes the heaviest gold coin ever minted.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.bnf.fr/"
+  },
+  {
+    "name": "Wall The Drunken Boat Rimbaud",
+    "lat": 48.8499521,
+    "lon": 2.3339865,
+    "imageURL": null,
+    "description": "A poem by Arthur Rimbaud is inscribed on the wall of a street that, while it is only one block long, plays a key role in multiple novels.",
+    "info": null,
+    "categories": ["art", "historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Gobelins Manufactory",
+    "lat": 48.8349548,
+    "lon": 2.3527276,
+    "imageURL": null,
+    "description": "This facility has manufactured stunning tapestries for France's royalty ever since the 17th century. Tours are held Wednesdays at 1 p.m. and tickets must be purchased online at least one day in advance.",
+    "info": null,
+    "categories": ["museum", "art", "historic"],
+    "url": "https://www.mobiliernational.culture.gouv.fr/"
+  },
+  {
+    "name": "Église Saint-Sulpice",
+    "lat": 48.8510095,
+    "lon": 2.3350091,
+    "imageURL": null,
+    "description": "This 18th-century sundial was designed to calculate the date of Easter each year.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.paroisse-saint-sulpice-paris.org/"
+  },
+  {
+    "name": "El Clan Destino",
+    "lat": 48.8718031,
+    "lon": 2.3867421,
+    "imageURL": null,
+    "description": "The storefront of a ramshackle Parisian puppet theater.",
+    "info": null,
+    "categories": ["theater", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Belvédère de Belleville",
+    "lat": 48.8715762,
+    "lon": 2.3849792,
+    "imageURL": null,
+    "description": "Elevated park offering panoramic views over Paris, including the Eiffel Tower.",
+    "info": null,
+    "categories": ["park", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Maison de Victor Hugo",
+    "lat": 48.8548256,
+    "lon": 2.3661911,
+    "imageURL": null,
+    "description": "A museum dedicated to one of Paris's most famous residents, tucked into a corner of one of the city's most famous squares.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.maisonsvictorhugo.paris.fr/"
+  },
+  {
+    "name": "Cinémathèque Française",
+    "lat": 48.8372222,
+    "lon": 2.3825,
+    "imageURL": null,
+    "description": "This lesser-known Frank Gehry building houses a treasure trove of cinema history.",
+    "info": null,
+    "categories": ["museum", "cinema", "art"],
+    "url": "https://www.cinematheque.fr/"
+  },
+  {
+    "name": "Notre-Dame-de-Lorette, Paris",
+    "lat": 48.8763919,
+    "lon": 2.3390267,
+    "imageURL": null,
+    "description": "Claude Monet was baptized in this lavishly ornate Paris church.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": null
+  },
+  {
+    "name": "Passy Cemetery",
+    "lat": 48.8625,
+    "lon": 2.28528,
+    "imageURL": null,
+    "description": "A short distance from the Eiffel Tower is the final resting place of several of the city's more well-known and interesting characters.",
+    "info": null,
+    "categories": ["historic", "nature"],
+    "url": null
+  },
+  {
+    "name": "Tombe de Georges Méliès",
+    "lat": 48.8633189,
+    "lon": 2.3907059,
+    "imageURL": null,
+    "description": "The final resting place of the father of special effects.",
+    "info": null,
+    "categories": ["historic", "cinema"],
+    "url": null
+  },
+  {
+    "name": "Musée de la préfecture de police",
+    "lat": 48.849446,
+    "lon": 2.3483397,
+    "imageURL": null,
+    "description": "A museum which takes visitors to the côté obscure of Paris.",
+    "info": null,
+    "categories": ["museum", "historic", "quirky"],
+    "url": "https://www.prefecturedepolice.interieur.gouv.fr/"
+  },
+  {
+    "name": "Charcot Library",
+    "lat": 48.8353737,
+    "lon": 2.364217,
+    "imageURL": null,
+    "description": "Doctor Charcot's Library - The personal library of the founder of modern neurology is open to visitors.",
+    "info": null,
+    "categories": ["museum", "historic", "bookstore"],
+    "url": "https://www.ghu-paris.fr/"
+  },
+  {
+    "name": "Museum of Relief Maps",
+    "lat": 48.8564754,
+    "lon": 2.3132981,
+    "imageURL": null,
+    "description": "The Sun King's military models, saved from the Louvre.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.musee-plans-reliefs.fr/"
+  },
+  {
+    "name": "Grévin Museum",
+    "lat": 48.8718378,
+    "lon": 2.3422204,
+    "imageURL": null,
+    "description": "A magical, macabre wax museum, beloved by locals, uses real artifacts to depict an assassination from the French Revolution. Check out the Palais des mirages.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.grevin-paris.com/"
+  },
+  {
+    "name": "145 Rue La Fayette",
+    "lat": 48.8792204,
+    "lon": 2.3561355,
+    "imageURL": null,
+    "description": "What looks like a normal building is really a hollow facade hiding a subway vent.",
+    "info": null,
+    "categories": ["quirky", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Basilica of Notre-Dame des Victoires",
+    "lat": 48.8667928,
+    "lon": 2.3409215,
+    "imageURL": null,
+    "description": "A 400-year-old church covered floor to ceiling in ex-voto offerings from the faithful.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.notredamedesvictoires.com/"
+  },
+  {
+    "name": "Saint-Étienne-du-Mont",
+    "lat": 48.8465392,
+    "lon": 2.3480897,
+    "imageURL": null,
+    "description": "The remaining relics of the patroness of Paris lie in a chapel under a striking double spiral staircase.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": "https://www.saintetiennedumont.fr/"
+  },
+  {
+    "name": "Saint-Eustache, Paris",
+    "lat": 48.8633903,
+    "lon": 2.3451211,
+    "imageURL": null,
+    "description": "With a history of slaughter, feast, and famine, remnants of the pork industry decorate this area--even its church.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.saint-eustache.org/"
+  },
+  {
+    "name": "Bourse de Commerce - Pinault Collection",
+    "lat": 48.8629044,
+    "lon": 2.3423792,
+    "imageURL": null,
+    "description": "Contemporary art in stock exchange.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.pinaultcollection.com/"
+  },
+  {
+    "name": "Museum of Smoking",
+    "lat": 48.8586174,
+    "lon": 2.3821919,
+    "imageURL": null,
+    "description": "Dedicated to the history and culture of smoking, this small museum now includes a vape lounge.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Saint-Jacques Tower",
+    "lat": 48.8580685,
+    "lon": 2.3489072,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Routes of Santiago de Compostela in France.",
+    "info": null,
+    "categories": ["historic", "landmark", "unesco", "religious"],
+    "url": null
+  },
+  {
+    "name": "Colonne Médicis",
+    "lat": 48.8625261,
+    "lon": 2.3429954,
+    "imageURL": null,
+    "description": "The spiral staircase hidden inside this giant Parisian column was likely built for Catherine de Medici's astrologer.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Église Saint-Leu-Saint-Gilles",
+    "lat": 48.862902,
+    "lon": 2.3500294,
+    "imageURL": null,
+    "description": "This little-known relic crypt holds stolen parts of a Roman Empress.",
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Musée du quai Branly - Jacques Chirac",
+    "lat": 48.8608889,
+    "lon": 2.297894,
+    "imageURL": null,
+    "description": "Museum of indigenous art and cultures from Africa, Asia, Oceania and the Americas.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.quaibranly.fr/"
+  },
+  {
+    "name": "Cimetière du Calvaire",
+    "lat": 48.8868433,
+    "lon": 2.3419011,
+    "imageURL": null,
+    "description": "The oldest and smallest cemetery in Paris is only open to the public twice a year.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Museum of Hunting and Nature",
+    "lat": 48.8614056,
+    "lon": 2.3587005,
+    "imageURL": null,
+    "description": "Dedicated to the art of hunting, with juxtapositions of contemporary art.",
+    "info": null,
+    "categories": ["museum", "art", "nature"],
+    "url": "https://www.chassenature.org/"
+  },
+  {
+    "name": "Villa La Roche",
+    "lat": 48.8518257,
+    "lon": 2.2653624,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Works of Le Corbusier.",
+    "info": null,
+    "categories": ["museum", "art", "historic", "unesco"],
+    "url": "https://www.fondationlecorbusier.fr/"
+  },
+  {
+    "name": "Church of Our Lady of Labour",
+    "lat": 48.8361258,
+    "lon": 2.3169237,
+    "imageURL": null,
+    "description": "The industrial architecture honors the laborers who brought the Exposition Universelle of 1900 to life.",
+    "info": null,
+    "categories": ["religious", "historic", "art"],
+    "url": null
+  },
+  {
+    "name": "The Grand Lodge of France",
+    "lat": 48.8831952,
+    "lon": 2.3219946,
+    "imageURL": null,
+    "description": "Historic Masonic lodge and meeting place.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.gldf.org/"
+  },
+  {
+    "name": "Musée de la Contrefaçon",
+    "lat": 48.8701843,
+    "lon": 2.2767783,
+    "imageURL": null,
+    "description": "An odd museum dedicated to French fakes.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.unifab.com/"
+  },
+  {
+    "name": "Pont de la Concorde",
+    "lat": 48.863398,
+    "lon": 2.3196264,
+    "imageURL": null,
+    "description": "This bridge was constructed from the rubble of the infamous Bastille.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Sainte-Chapelle",
+    "lat": 48.855375,
+    "lon": 2.3449609,
+    "imageURL": null,
+    "description": "Gothic chapel renowned for its stunning stained glass windows depicting biblical scenes.",
+    "info": null,
+    "categories": ["religious", "historic", "art", "landmark", "unesco"],
+    "url": "https://www.sainte-chapelle.fr/"
+  },
+  {
+    "name": "Saint Vincent of Paul Chapel",
+    "lat": 48.8488565,
+    "lon": 2.3216405,
+    "imageURL": null,
+    "description": "Saintly bones pressed into a wax effigy of a Catholic superstar.",
+    "info": null,
+    "categories": ["religious", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Alpine Garden",
+    "lat": 48.84395,
+    "lon": 2.358571,
+    "imageURL": null,
+    "description": "This recessed garden protects thousands of mountain plants by creating its own microclimates.",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": "https://www.mnhn.fr/"
+  },
+  {
+    "name": "Musée Marmottan Monet",
+    "lat": 48.8592628,
+    "lon": 2.2672324,
+    "imageURL": null,
+    "description": "Former hunting lodge of a duke who was an avid collector of impressionist works.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.marmottan.fr/"
+  },
+  {
+    "name": "Tombe de Antoine Augustin Parmentier",
+    "lat": 48.8601188,
+    "lon": 2.3956291,
+    "imageURL": null,
+    "description": "The tomb of history's greatest potato promoter is surrounded by tubers.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Argonaute Submarine",
+    "lat": 48.894588,
+    "lon": 2.3895842,
+    "imageURL": null,
+    "description": "The Argonaute submarine was the French navy's pride and joy in the 1950s.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.cite-sciences.fr/"
+  },
+  {
+    "name": "Arènes de Lutèce",
+    "lat": 48.845116,
+    "lon": 2.3528366,
+    "imageURL": null,
+    "description": "Remains of Roman amphitheater hidden in a sleepy quarter of Paris.",
+    "info": null,
+    "categories": ["historic", "archaeological", "park"],
+    "url": null
+  },
+  {
+    "name": "Chapel of Our Lady of the Miraculous Medal",
+    "lat": 48.8507859,
+    "lon": 2.3229912,
+    "imageURL": null,
+    "description": "A popular shrine where the Blessed Virgin allegedly appeared in 1830, displaying a holy armchair and two incorruptible remains of Lady Saints.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://www.chapellenotredamedelamedaillemiraculeuse.com/"
+  },
+  {
+    "name": "Temple de la Sybille",
+    "lat": 48.8811039,
+    "lon": 2.3829587,
+    "imageURL": null,
+    "description": "This structure atop a craggy cliff in one of the most beautiful parks in Paris boasts an unbeatable view.",
+    "info": null,
+    "categories": ["park", "landmark", "historic"],
+    "url": null
+  },
+  {
+    "name": "Parc des Buttes-Chaumont",
+    "lat": 48.8809496,
+    "lon": 2.3827609,
+    "imageURL": null,
+    "description": "City-owned vineyard in a dramatic hillside park with cliffs, bridges and waterfalls.",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
+  },
+  {
+    "name": "Hôtel de Ville",
+    "lat": 48.8564826,
+    "lon": 2.3524135,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Paris and the banks of the Seine.",
+    "info": null,
+    "categories": ["historic", "landmark", "unesco"],
+    "url": "https://www.paris.fr/"
+  },
+  {
+    "name": "Les Invalides",
+    "lat": 48.856529,
+    "lon": 2.3127059,
+    "imageURL": null,
+    "description": "Complex of buildings containing museums and monuments relating to French military history, including Napoleon's tomb.",
+    "info": null,
+    "categories": ["museum", "historic", "landmark"],
+    "url": "https://www.musee-armee.fr/"
+  },
+  {
+    "name": "Petit Palais",
+    "lat": 48.8660479,
+    "lon": 2.3145896,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Paris and the banks of the Seine. Fine arts museum.",
+    "info": null,
+    "categories": ["museum", "art", "historic", "unesco"],
+    "url": "https://www.petitpalais.paris.fr/"
+  },
+  {
+    "name": "Grand Palais",
+    "lat": 48.8661091,
+    "lon": 2.3124544,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Paris and the banks of the Seine. Historic exhibition hall.",
+    "info": null,
+    "categories": ["museum", "art", "historic", "unesco"],
+    "url": "https://www.grandpalais.fr/"
+  },
+  {
+    "name": "Tuileries Garden",
+    "lat": 48.8634916,
+    "lon": 2.3274943,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Paris and the banks of the Seine. Historic formal garden.",
+    "info": null,
+    "categories": ["park", "historic", "unesco"],
+    "url": null
+  },
+  {
+    "name": "Champ de Mars",
+    "lat": 48.8556475,
+    "lon": 2.2986304,
+    "imageURL": null,
+    "description": "UNESCO World Heritage Site - Paris and the banks of the Seine. Large field in front of the Eiffel Tower.",
+    "info": null,
+    "categories": ["park", "landmark", "unesco"],
+    "url": null
+  },
+  {
+    "name": "Fontaine des Innocents",
+    "lat": 48.860647,
+    "lon": 2.3480327,
+    "imageURL": null,
+    "description": "A 16th-century fountain marks the site of a lost medieval cemetery once filled with mass graves.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Picpus Cemetery",
+    "lat": 48.8440439,
+    "lon": 2.4001834,
+    "imageURL": null,
+    "description": "The headless bodies of more than 1,300 guillotined victims of the Reign of Terror are buried here in mass graves. Entrance through church across from gas station.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Jardin d'Acclimatation",
+    "lat": 48.8777822,
+    "lon": 2.2697649,
+    "imageURL": null,
+    "description": "In this Parisian garden's grotesque former life as a zoo it fed exotic animals to the bourgeois and put humans on exhibit.",
+    "info": null,
+    "categories": ["park", "recreation"],
+    "url": "https://www.jardindacclimatation.fr/"
+  },
+  {
+    "name": "National Marine Museum",
+    "lat": 48.8621823,
+    "lon": 2.2873228,
+    "imageURL": null,
+    "description": "Museum on French naval history, with magnificent figureheads, a historic diving suit, and a boat used by Napoleon.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.musee-marine.fr/"
+  },
+  {
+    "name": "Aurouze",
+    "lat": 48.8594306,
+    "lon": 2.3472377,
+    "imageURL": null,
+    "description": "A Parisian exterminator's shop whose storefront displays stuffed rats hanging from traps.",
+    "info": null,
+    "categories": ["quirky", "shopping"],
+    "url": "https://www.aurouze.fr/"
+  },
+  {
+    "name": "Maison historique de Serge Gainsbourg",
+    "lat": 48.8571557,
+    "lon": 2.3317788,
+    "imageURL": null,
+    "description": "The former home of France's controversial pop maestro is almost completely covered in ever-changing tributes and graffiti.",
+    "info": null,
+    "categories": ["historic", "music", "landmark"],
+    "url": null
+  },
+  {
+    "name": "38 Rue Geoffroy-Saint-Hilaire",
+    "lat": 48.8426689,
+    "lon": 2.3558514,
+    "imageURL": null,
+    "description": "Cabinet of Joseph Bonnier de La Mosson - Hidden away in a modern library are the remains of one of the 18th century's most celebrated wunderkammers.",
+    "info": null,
+    "categories": ["museum", "quirky", "historic"],
+    "url": null
+  },
+  {
+    "name": "Stravinsky Fountain",
+    "lat": 48.859478,
+    "lon": 2.351546,
+    "imageURL": null,
+    "description": "A series of abstract, silly sculptures represent the works of a great modern classical composer.",
+    "info": null,
+    "categories": ["art", "landmark"],
+    "url": null
+  },
+  {
+    "name": "L'Atelier des Lumières",
+    "lat": 48.861615,
+    "lon": 2.380813,
+    "imageURL": null,
+    "description": "An immersive projection art installation uses sound, scale, and light to take visitors inside classic works of art.",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.atelier-lumieres.com/"
+  },
+  {
+    "name": "119 Rue Saint-Lazare",
+    "lat": 48.875234,
+    "lon": 2.3255811,
+    "imageURL": null,
+    "description": "Once a 19th-century brasserie, this McDonald's exterior celebrates Alsatian design and the King of Beer.",
+    "info": null,
+    "categories": ["quirky", "food"],
+    "url": null
+  },
+  {
+    "name": "Rue du Chat-qui-Pêche",
+    "lat": 48.853069,
+    "lon": 2.3461112,
+    "imageURL": null,
+    "description": "Narrowest street in Paris.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Grande Galerie de l'Évolution",
+    "lat": 48.8416561,
+    "lon": 2.3560035,
+    "imageURL": null,
+    "description": "On third floor: Natural history museum celebrating biodiversity with a parade of taxidermy animals. The Room of Endangered and Extinct Species - A haunting collection of the vanished and disappearing natural world.",
+    "info": null,
+    "categories": ["museum", "nature"],
+    "url": "https://www.mnhn.fr/"
+  },
+  {
+    "name": "Flame of Liberty",
+    "lat": 48.8641901,
+    "lon": 2.3008979,
+    "imageURL": null,
+    "description": "This life-size replica of the Statue of Liberty's flame is also a tribute to Princess Diana by default.",
+    "info": null,
+    "categories": ["landmark", "historic"],
+    "url": null
+  },
+  {
+    "name": "Conciergerie",
+    "lat": 48.8560114,
+    "lon": 2.3454953,
+    "imageURL": null,
+    "description": "This former ante-chamber to the guillotine has been refurbished to illustrate the brutal history of French justice.",
+    "info": null,
+    "categories": ["museum", "historic", "unesco"],
+    "url": "https://www.paris-conciergerie.fr/"
+  },
+  {
+    "name": "Palais de Tokyo",
+    "lat": 48.8645866,
+    "lon": 2.2966748,
+    "imageURL": null,
+    "description": "Contemporary art center with experimental exhibitions and events.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://palaisdetokyo.com/"
+  },
+  {
+    "name": "Paris Sewer Museum",
+    "lat": 48.862538,
+    "lon": 2.3024832,
+    "imageURL": null,
+    "description": "Underground museum exploring Paris's sewer system and water management history.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.paris.fr/"
+  },
+  {
+    "name": "Chapelle expiatoire",
+    "lat": 48.8737387,
+    "lon": 2.3233374,
+    "imageURL": null,
+    "description": "Neoclassical chapel built to commemorate Louis XVI and Marie Antoinette.",
+    "info": null,
+    "categories": ["religious", "historic"],
+    "url": "https://chapelle-expiatoire.monuments-nationaux.fr/"
+  },
+  {
+    "name": "LaBeL RéCuP'",
+    "lat": 48.862745,
+    "lon": 2.3731994,
+    "imageURL": null,
+    "description": "An off-the-beaten-path boutique stuffed with an eclectic collection of upcycled goods.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Musée des Moulages",
+    "lat": 48.8723121,
+    "lon": 2.3681001,
+    "imageURL": null,
+    "description": "A unrivaled and rather horrifying collection of wax dermatological models.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.ghu-paris.fr/"
+  },
+  {
+    "name": "Musée de Montmartre",
+    "lat": 48.887709,
+    "lon": 2.3406731,
+    "imageURL": null,
+    "description": "Museum dedicated to the history of Montmartre district and its artists.",
+    "info": null,
+    "categories": ["museum", "art", "historic"],
+    "url": "https://museedemontmartre.fr/"
+  },
+  {
+    "name": "Tomb of Napoleon Bonaparte",
+    "lat": 48.8550614,
+    "lon": 2.3125393,
+    "imageURL": null,
+    "description": "Twelve grave-faced marble angels guard the emperor's tomb at Les Invalides.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.musee-armee.fr/"
+  },
+  {
+    "name": "Tombe de Victor Noir",
+    "lat": 48.860826,
+    "lon": 2.396593,
+    "imageURL": null,
+    "description": "Victor Noir's effigy gets more action than the man himself ever did.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Palais Garnier",
+    "lat": 48.8719697,
+    "lon": 2.3316014,
+    "imageURL": null,
+    "description": "Opulent 19th-century opera house, home to the Paris Opera.",
+    "info": null,
+    "categories": ["theater", "music", "historic", "landmark"],
+    "url": "https://www.operadeparis.fr/"
+  },
+  {
+    "name": "Mètre étalon",
+    "lat": 48.8493073,
+    "lon": 2.3355182,
+    "imageURL": null,
+    "description": "An overlooked marble is the only surviving in-place 18th century example of the measurement that changed how we define distance.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Funiculaire de Montmartre",
+    "lat": 48.885644,
+    "lon": 2.3425126,
+    "imageURL": null,
+    "description": "The water-powered carriages are long gone, but for over a century this funicular railway has been the fastest route to the highest point in Paris.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": "https://www.ratp.fr/"
+  },
+  {
+    "name": "Place du Tertre",
+    "lat": 48.8865032,
+    "lon": 2.3408022,
+    "imageURL": null,
+    "description": "Historic square in Montmartre where artists display their work.",
+    "info": null,
+    "categories": ["art", "historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Deyrolle",
+    "lat": 48.8565331,
+    "lon": 2.3264245,
+    "imageURL": null,
+    "description": "Paris's fabled purveyor of exotic taxidermy and natural history curios.",
+    "info": null,
+    "categories": ["shopping", "quirky", "nature"],
+    "url": "https://www.deyrolle.com/"
+  },
+  {
+    "name": "La Promenade Plantée",
+    "lat": 48.8411376,
+    "lon": 2.3974857,
+    "imageURL": null,
+    "description": "The first green space constructed on an elevated viaduct.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
+  },
+  {
+    "name": "Dodo Manège",
+    "lat": 48.8430956,
+    "lon": 2.3616996,
+    "imageURL": null,
+    "description": "Carousel of Extinct and Endangered Animals - Known as the Dodo Manège, this carousel features a herd of animals that have disappeared—or may be gone soon.",
+    "info": null,
+    "categories": ["recreation", "nature", "quirky"],
+    "url": "https://www.mnhn.fr/"
+  },
+  {
+    "name": "Flower & Fish Market",
+    "lat": 48.8556343,
+    "lon": 2.3480935,
+    "imageURL": null,
+    "description": "For one day a week (Sunday) a famed French flower district turns into an avian bazaar.",
+    "info": null,
+    "categories": ["market", "nature"],
+    "url": null
+  },
+  {
+    "name": "Carnavalet Museum",
+    "lat": 48.8573008,
+    "lon": 2.3625906,
+    "imageURL": null,
+    "description": "A museum on the history of Paris, including a set of Napoleon's toiletries, Proust's room, and relics of the Revolution.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.carnavalet.paris.fr/"
+  },
+  {
+    "name": "Curie Museum",
+    "lat": 48.844234,
+    "lon": 2.3448273,
+    "imageURL": null,
+    "description": "The history of radiation is on safe display at the foot of a radiation science laboratory.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://musee.curie.fr/"
+  },
+  {
+    "name": "Parc Monceau",
+    "lat": 48.8796835,
+    "lon": 2.308955,
+    "imageURL": null,
+    "description": "The ruins of a Duke's bucolic dream, where camels once roamed alongside Dutch windmills and faux-Italian vineyards.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
+  },
+  {
+    "name": "Montparnasse Cemetery",
+    "lat": 48.83791,
+    "lon": 2.3276208,
+    "imageURL": null,
+    "description": "A Parisian cemetery where the elite and artistic are interred beneath an eccentric collection of tombs.",
+    "info": null,
+    "categories": ["historic", "art"],
+    "url": null
+  },
+  {
+    "name": "Cluny Museum - National Museum of the Middle Ages",
+    "lat": 48.8504833,
+    "lon": 2.3440808,
+    "imageURL": null,
+    "description": "Medieval museum built over Roman baths that features famous tapestries of a lady and a unicorn.",
+    "info": null,
+    "categories": ["museum", "historic", "art"],
+    "url": "https://www.musee-moyenage.fr/"
+  },
+  {
+    "name": "Musée de la Vie romantique",
+    "lat": 48.8810917,
+    "lon": 2.3335524,
+    "imageURL": null,
+    "description": "Down a cobblestone alleyway is a museum dedicated to Romanticism, with a secret garden.",
+    "info": null,
+    "categories": ["museum", "art", "park"],
+    "url": "https://www.vie-romantique.paris.fr/"
+  },
+  {
+    "name": "Galerie Au Bonheur du Jour",
+    "lat": 48.8669931,
+    "lon": 2.3365559,
+    "imageURL": null,
+    "description": "Behind the pink curtain, Au Bonheur du Jour, an art gallery of erotic archives.",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Remnants of the Paris Guillotine",
+    "lat": 48.8589624,
+    "lon": 2.3852763,
+    "imageURL": null,
+    "description": "Indents in the pavement are all that remain from a grisly death machine in Paris.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Le Louxor",
+    "lat": 48.8835568,
+    "lon": 2.3498578,
+    "imageURL": null,
+    "description": "Egyptian Revival movie palace abandoned for decades and restored in 2013.",
+    "info": null,
+    "categories": ["cinema", "historic", "art"],
+    "url": "https://www.lelouxor.fr/"
+  },
+  {
+    "name": "Panthéon",
+    "lat": 48.8462218,
+    "lon": 2.3464138,
+    "imageURL": null,
+    "description": "Neoclassical mausoleum containing the remains of distinguished French citizens like Voltaire, Rousseau, and Marie Curie.",
+    "info": null,
+    "categories": ["historic", "landmark", "religious"],
+    "url": "https://www.paris-pantheon.fr/"
+  },
+  {
+    "name": "Musée de la Magie",
+    "lat": 48.8531897,
+    "lon": 2.3610875,
+    "imageURL": null,
+    "description": "A museum of magic with a sadist past.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": "https://www.museedelamagie.com/"
+  },
+  {
+    "name": "Place des Vosges",
+    "lat": 48.8556114,
+    "lon": 2.3655266,
+    "imageURL": null,
+    "description": "The oldest planned square in Paris, surrounded by beautiful arcaded buildings.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Galerie de Paléontologie et d'Anatomie comparée",
+    "lat": 48.8432748,
+    "lon": 2.3634754,
+    "imageURL": null,
+    "description": "This museum houses an imposing skeleton army comprised of creatures great and small.",
+    "info": null,
+    "categories": ["museum", "nature"],
+    "url": "https://www.mnhn.fr/"
+  },
+  {
+    "name": "The Centre Pompidou",
+    "lat": 48.860642,
+    "lon": 2.352245,
+    "imageURL": null,
+    "description": "Modern art museum in iconic high-tech architecture building.",
+    "info": null,
+    "categories": ["museum", "art", "landmark"],
+    "url": "https://www.centrepompidou.fr/"
+  },
+  {
+    "name": "La REcyclerie",
+    "lat": 48.8976115,
+    "lon": 2.3440232,
+    "imageURL": null,
+    "description": "This Parisian café sticks almost exclusively to an ethos of reuse.",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": "https://www.larecyclerie.com/"
+  },
+  {
+    "name": "Lavirotte Building",
+    "lat": 48.8591387,
+    "lon": 2.3010079,
+    "imageURL": null,
+    "description": "A scandalous Art Nouveau collaboration that set Paris all atwitter at the turn of the century.",
+    "info": null,
+    "categories": ["historic", "art", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Un Regard Moderne",
+    "lat": 48.8536133,
+    "lon": 2.3423768,
+    "imageURL": null,
+    "description": "A counter-culture bookstore like no other hides in plain sight in the streets of Paris.",
+    "info": null,
+    "categories": ["bookstore", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Musée d'histoire de la médecine",
+    "lat": 48.8513528,
+    "lon": 2.3408333,
+    "imageURL": null,
+    "description": "One of the oldest medical collections in Europe focusing on rare surgical instruments.",
+    "info": null,
+    "categories": ["museum", "historic", "quirky"],
+    "url": "https://www.biusante.parisdescartes.fr/"
+  },
+  {
+    "name": "Colonne de Juillet",
+    "lat": 48.8531912,
+    "lon": 2.3691477,
+    "imageURL": null,
+    "description": "July Column commemorating the Revolution of 1830 in Place de la Bastille.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Coulée Verte René-Dumont",
+    "lat": 48.8494492,
+    "lon": 2.3714874,
+    "imageURL": null,
+    "description": "Linear park built on former railway viaduct, precursor to New York's High Line.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
+  },
+  {
+    "name": "Wall of Love",
+    "lat": 48.8848037,
+    "lon": 2.338578,
+    "imageURL": null,
+    "description": "Paris's linguistic guide to the international language of love.",
+    "info": null,
+    "categories": ["art", "landmark", "quirky"],
+    "url": null
+  },
+  {
+    "name": "The Pavillons of Bercy - Museum of Fairground Arts",
+    "lat": 48.8327568,
+    "lon": 2.3888992,
+    "imageURL": null,
+    "description": "Museum of vintage carnival rides and fairground arts.",
+    "info": null,
+    "categories": ["museum", "recreation", "quirky"],
+    "url": "https://www.arts-forains.com/"
+  },
+  {
+    "name": "Rue Crémieux",
+    "lat": 48.8470401,
+    "lon": 2.3711248,
+    "imageURL": null,
+    "description": "This charming cobbled backstreet is the most Instagramable street in Paris, much to the residents' annoyance.",
+    "info": null,
+    "categories": ["neighborhood", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Montmartre Cemetery",
+    "lat": 48.8879078,
+    "lon": 2.3298844,
+    "imageURL": null,
+    "description": "A horde of stray cats rule in this secluded Parisian cemetery under a bridge.",
+    "info": null,
+    "categories": ["historic", "nature", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Hôtel de la Marine",
+    "lat": 48.8665119,
+    "lon": 2.3233736,
+    "imageURL": null,
+    "description": "Restored 18th-century naval ministry with opulent apartments and naval history.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.hotel-de-la-marine.paris/"
+  },
+  {
+    "name": "Shakespeare and Company",
+    "lat": 48.8525632,
+    "lon": 2.3471303,
+    "imageURL": null,
+    "description": "Legendary English-language bookstore and literary gathering place.",
+    "info": null,
+    "categories": ["bookstore", "historic"],
+    "url": "https://shakespeareandcompany.com/"
+  },
+  {
+    "name": "59 Rivoli",
+    "lat": 48.8592184,
+    "lon": 2.3456696,
+    "imageURL": null,
+    "description": "Notorious artist squat renovated into legal studios.",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": "https://www.59rivoli.org/"
+  },
+  {
+    "name": "François-Mitterrand Library",
+    "lat": 48.8335842,
+    "lon": 2.3757659,
+    "imageURL": null,
+    "description": "Massive modern library designed to look like four open books.",
+    "info": null,
+    "categories": ["bookstore", "landmark"],
+    "url": "https://www.bnf.fr/"
+  },
+  {
+    "name": "Domaine National du Palais-Royal",
+    "lat": 48.8637569,
+    "lon": 2.3371261,
+    "imageURL": null,
+    "description": "Historic palace complex with gardens, galleries, and contemporary art installations.",
+    "info": null,
+    "categories": ["historic", "park", "art", "landmark"],
+    "url": "https://www.palais-royal.monuments-nationaux.fr/"
+  },
+  {
+    "name": "Villa Léandre",
+    "lat": 48.8883776,
+    "lon": 2.3350573,
+    "imageURL": null,
+    "description": "Cute street with charming houses in Montmartre.",
+    "info": null,
+    "categories": ["neighborhood", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Passage des Panoramas",
+    "lat": 48.8715109,
+    "lon": 2.341904,
+    "imageURL": null,
+    "description": "First covered walkway in Paris.",
+    "info": null,
+    "categories": ["historic", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Musée des Arts et Métiers",
+    "lat": 48.8666392,
+    "lon": 2.3554383,
+    "imageURL": null,
+    "description": "Museum of science, technology & industry.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.arts-et-metiers.net/"
+  },
+  {
+    "name": "Tour Jean-sans-Peur",
+    "lat": 48.8643222,
+    "lon": 2.3480631,
+    "imageURL": null,
+    "description": "Medieval tower offering insight into 15th-century Parisian life.",
+    "info": null,
+    "categories": ["historic", "museum"],
+    "url": "https://www.tourjeansanspeur.com/"
+  },
+  {
+    "name": "Papier Tigre",
+    "lat": 48.8624094,
+    "lon": 2.3650461,
+    "imageURL": null,
+    "description": "Independent design store specializing in notebooks and stationery.",
+    "info": null,
+    "categories": ["shopping", "art"],
+    "url": "https://www.papiertigre.fr/"
+  },
+  {
+    "name": "Point zéro des routes de France",
+    "lat": 48.8535643,
+    "lon": 2.3480958,
+    "imageURL": null,
+    "description": "Bronze plaque marking the point from which all distances in France are measured.",
+    "info": null,
+    "categories": ["historic", "landmark", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Marché des Enfants Rouges",
+    "lat": 48.862755,
+    "lon": 2.3620004,
+    "imageURL": null,
+    "description": "Paris's oldest covered market, dating from 1628.",
+    "info": null,
+    "categories": ["market", "food", "historic"],
+    "url": null
+  },
+  {
+    "name": "Galerie Vivienne",
+    "lat": 48.8663533,
+    "lon": 2.3394854,
+    "imageURL": null,
+    "description": "Covered passageway with elegant mosaic floors and boutique shopping.",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Parasolerie Heurtault",
+    "lat": 48.872314,
+    "lon": 2.3421619,
+    "imageURL": null,
+    "description": "Handmade umbrella shop.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Rue Dejean",
+    "lat": 48.8875539,
+    "lon": 2.3500246,
+    "imageURL": null,
+    "description": "African street market.",
+    "info": null,
+    "categories": ["market", "food"],
+    "url": null
+  },
+  {
+    "name": "Jardin de l'Archipel des Berges de Seine Niki de Saint-Phalle",
+    "lat": 48.8630811,
+    "lon": 2.3046713,
+    "imageURL": null,
+    "description": "Floating garden on the Seine featuring sculptures by Niki de Saint-Phalle.",
+    "info": null,
+    "categories": ["park", "art"],
+    "url": null
+  },
+  {
+    "name": "Homme Museum",
+    "lat": 48.861166,
+    "lon": 2.2868264,
+    "imageURL": null,
+    "description": "Museum of anthropology and human evolution.",
+    "info": null,
+    "categories": ["museum", "nature"],
+    "url": "https://www.museedelhomme.fr/"
+  },
+  {
+    "name": "Rodin Museum",
+    "lat": 48.8553072,
+    "lon": 2.3158354,
+    "imageURL": null,
+    "description": "Museum dedicated to Auguste Rodin's sculptures in beautiful gardens.",
+    "info": null,
+    "categories": ["museum", "art", "park"],
+    "url": "https://www.musee-rodin.fr/"
+  },
+  {
+    "name": "Les Caves du Louvre",
+    "lat": 48.8609143,
+    "lon": 2.3426621,
+    "imageURL": null,
+    "description": "Wine cellar and tasting experience in historic vaults beneath the Louvre.",
+    "info": null,
+    "categories": ["drinking", "historic"],
+    "url": "https://www.lescavesdulouvre.com/"
+  },
+  {
+    "name": "Passage du Grand Cerf",
+    "lat": 48.8649679,
+    "lon": 2.3485014,
+    "imageURL": null,
+    "description": "Covered passage with artisan shops and galleries.",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Passage du Caire",
+    "lat": 48.8679725,
+    "lon": 2.3499469,
+    "imageURL": null,
+    "description": "Historic covered passage in the textile district.",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Passage Jouffroy",
+    "lat": 48.8718559,
+    "lon": 2.3419322,
+    "imageURL": null,
+    "description": "Covered passage with antique shops and the Grévin Museum entrance.",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Passage du Bourg l'Abbé",
+    "lat": 48.8645451,
+    "lon": 2.3506676,
+    "imageURL": null,
+    "description": "Historic covered passage.",
+    "info": null,
+    "categories": ["shopping", "historic"],
+    "url": null
+  },
+  {
+    "name": "Passage Verdeau",
+    "lat": 48.8734638,
+    "lon": 2.3423251,
+    "imageURL": null,
+    "description": "Covered passage with antique shops and book dealers.",
+    "info": null,
+    "categories": ["shopping", "historic", "bookstore"],
+    "url": null
+  },
+  {
+    "name": "Pain d'Épices",
+    "lat": 48.8723596,
+    "lon": 2.3419756,
+    "imageURL": null,
+    "description": "Fancy toy store.",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.paindepices.fr/"
+  },
+  {
+    "name": "Cirque d'Hiver Bouglione",
+    "lat": 48.863308,
+    "lon": 2.367233,
+    "imageURL": null,
+    "description": "World's oldest circus.",
+    "info": null,
+    "categories": ["theater", "historic"],
+    "url": "https://www.cirquedhiver.com/"
+  },
+  {
+    "name": "Musée de l'Orangerie",
+    "lat": 48.8637884,
+    "lon": 2.3226724,
+    "imageURL": null,
+    "description": "Located in the Tuileries Gardens, l'Orangerie was the former greenhouse for the Tuileries Palace. Today, it is an intimate space for viewing eight of Monet's magnificent Nymphéas.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.musee-orangerie.fr/"
+  },
+  {
+    "name": "Louis Vuitton Foundation",
+    "lat": 48.8766453,
+    "lon": 2.2635239,
+    "imageURL": null,
+    "description": "Designed by Frank Gehry to resemble a sailing ship on an artificial lake in the Bois de Boulogne, Fondation Louis Vuitton is a striking contemporary art center known for its superb temporary exhibitions and a permanent collection that features artists like Basquiat, Koons, Abramovic and Klein.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.fondationlouisvuitton.fr/"
+  },
+  {
+    "name": "Musée national des arts asiatiques Guimet",
+    "lat": 48.8651008,
+    "lon": 2.2936899,
+    "imageURL": null,
+    "description": "The Guimet Museum, famous for its Asian art collection, is home to a 450m² Japanese garden.",
+    "info": null,
+    "categories": ["museum", "art", "park"],
+    "url": "https://www.guimet.fr/"
+  },
+  {
+    "name": "Ballon de Paris Generali",
+    "lat": 48.8417975,
+    "lon": 2.2742236,
+    "imageURL": null,
+    "description": "Tethered helium balloon offering panoramic views of Paris.",
+    "info": null,
+    "categories": ["recreation", "landmark"],
+    "url": "https://www.ballondeparis.com/"
+  },
+  {
+    "name": "Puzzles Michèle Wilson",
+    "lat": 48.8634943,
+    "lon": 2.3723724,
+    "imageURL": null,
+    "description": "Workshop of hand cut puzzles.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": "https://www.michele-wilson.com/"
+  },
+  {
+    "name": "St Francis Xavier's Church",
+    "lat": 48.8508785,
+    "lon": 2.3138696,
+    "imageURL": null,
+    "description": "Ordinary church from outside but beautiful inside, with last supper painting by Tintoretto.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": null
+  },
+  {
+    "name": "Le Tampographe Sardon",
+    "lat": 48.8581374,
+    "lon": 2.3919666,
+    "imageURL": null,
+    "description": "Rubber stamp boutique only open on Saturdays.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Les Frigos",
+    "lat": 48.8311385,
+    "lon": 2.3790057,
+    "imageURL": null,
+    "description": "Studios of 200 artists in former squat in former refrigerated railway depot.",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": "https://www.les-frigos.com/"
+  },
+  {
+    "name": "Hôtel Dieu Hospital",
+    "lat": 48.8546953,
+    "lon": 2.3486633,
+    "imageURL": null,
+    "description": "Paris's oldest hospital is also a beautiful building with glorious French garden and Italian galleries.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Passage de la Petite Ceinture",
+    "lat": 48.831274,
+    "lon": 2.2960195,
+    "imageURL": null,
+    "description": "Abandoned railway converted to walking path.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
+  },
+  {
+    "name": "Montparnasse Tower",
+    "lat": 48.8421379,
+    "lon": 2.3219514,
+    "imageURL": null,
+    "description": "Second tallest building in Paris after Eiffel tower - nothing special about building itself except great views from top.",
+    "info": null,
+    "categories": ["landmark"],
+    "url": "https://www.tourmontparnasse56.com/"
+  },
+  {
+    "name": "Île des Cygnes",
+    "lat": 48.8506039,
+    "lon": 2.2805827,
+    "imageURL": null,
+    "description": "Uninhabited island with nice views and replica Statue of Liberty.",
+    "info": null,
+    "categories": ["park", "landmark"],
+    "url": null
+  },
+  {
+    "name": "The Candy Palace",
+    "lat": 48.8477014,
+    "lon": 2.3510283,
+    "imageURL": null,
+    "description": "Candy shop.",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Marin D'Eau Douce",
+    "lat": 48.8857495,
+    "lon": 2.3734762,
+    "imageURL": null,
+    "description": "Rent an electric boat.",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://www.marineaudouce.fr/"
+  },
+  {
+    "name": "Canal Saint-Martin",
+    "lat": 48.8689404,
+    "lon": 2.3671263,
+    "imageURL": null,
+    "description": "Picturesque canal with locks and tree-lined waterway popular for picnics.",
+    "info": null,
+    "categories": ["park", "landmark"],
+    "url": null
+  },
+  {
+    "name": "AFAC association de modelisme ferroviaire",
+    "lat": 48.8772886,
+    "lon": 2.3581195,
+    "imageURL": null,
+    "description": "Room of model trains underneath Gare-de-l'Est station.",
+    "info": null,
+    "categories": ["quirky", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Place Dauphine",
+    "lat": 48.8565422,
+    "lon": 2.3425083,
+    "imageURL": null,
+    "description": "Square with pétanque court surrounded by pretty cafes.",
+    "info": null,
+    "categories": ["landmark", "food", "sports"],
+    "url": null
+  },
+  {
+    "name": "Les Voiliers du Luxembourg",
+    "lat": 48.8465611,
+    "lon": 2.3374489,
+    "imageURL": null,
+    "description": "Toy sailboats for rent in Luxembourg Gardens pond.",
+    "info": null,
+    "categories": ["recreation", "park"],
+    "url": null
+  },
+  {
+    "name": "Église du Saint-Esprit",
+    "lat": 48.8384434,
+    "lon": 2.3980562,
+    "imageURL": null,
+    "description": "Beautiful church, replica of Hagia Sophia.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": null
+  },
+  {
+    "name": "Grand Rex",
+    "lat": 48.8705543,
+    "lon": 2.3477768,
+    "imageURL": null,
+    "description": "Grand cinema and historic monument.",
+    "info": null,
+    "categories": ["cinema", "historic"],
+    "url": "https://www.legrandrex.com/"
+  },
+  {
+    "name": "Cabaret Au Lapin Agile",
+    "lat": 48.8886367,
+    "lon": 2.3399956,
+    "imageURL": null,
+    "description": "Historic cabaret in Montmartre, frequented by Picasso and other artists.",
+    "info": null,
+    "categories": ["theater", "music", "historic"],
+    "url": "https://www.au-lapin-agile.com/"
+  },
+  {
+    "name": "Cathédrale de la Sainte-Trinité",
+    "lat": 48.8619251,
+    "lon": 2.3010086,
+    "imageURL": null,
+    "description": "Russian Orthodox cathedral with traditional onion domes.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": "https://www.cathedrale-russe.com/"
+  },
+  {
+    "name": "Eugène Delacroix Museum",
+    "lat": 48.8544557,
+    "lon": 2.3355825,
+    "imageURL": null,
+    "description": "Former studio and apartment of the Romantic painter.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.musee-delacroix.fr/"
+  },
+  {
+    "name": "Musée du Luxembourg",
+    "lat": 48.848857,
+    "lon": 2.334168,
+    "imageURL": null,
+    "description": "Exhibition space for temporary art shows in Luxembourg Gardens.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://museeduluxembourg.fr/"
+  },
+  {
+    "name": "Le Musée en Herbe",
+    "lat": 48.8601518,
+    "lon": 2.3421137,
+    "imageURL": null,
+    "description": "Intergenerational space for cultural discovery and artistic practice.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.musee-en-herbe.com/"
+  },
+  {
+    "name": "Polka Galerie",
+    "lat": 48.8579001,
+    "lon": 2.3665004,
+    "imageURL": null,
+    "description": "Photography gallery specializing in contemporary work.",
+    "info": null,
+    "categories": ["art"],
+    "url": "https://www.polkagalerie.com/"
+  },
+  {
+    "name": "Arab World Institute",
+    "lat": 48.8489257,
+    "lon": 2.3572313,
+    "imageURL": null,
+    "description": "Cultural center dedicated to Arab civilization with museum and library.",
+    "info": null,
+    "categories": ["museum", "art"],
+    "url": "https://www.imarabe.org/"
+  },
+  {
+    "name": "Grande Mosquée de Paris",
+    "lat": 48.8423851,
+    "lon": 2.3546895,
+    "imageURL": null,
+    "description": "Beautiful mosque with Islamic architecture, tea room, and hammam.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": "https://www.mosquee-de-paris.org/"
+  },
+  {
+    "name": "Passerelle Simone-de-Beauvoir",
+    "lat": 48.8352638,
+    "lon": 2.3780574,
+    "imageURL": null,
+    "description": "Modern pedestrian bridge across the Seine.",
+    "info": null,
+    "categories": ["landmark"],
+    "url": null
+  },
+  {
+    "name": "Marché Barbès",
+    "lat": 48.8839147,
+    "lon": 2.3522529,
+    "imageURL": null,
+    "description": "Vibrant North African market.",
+    "info": null,
+    "categories": ["market", "food"],
+    "url": null
+  },
+  {
+    "name": "Parc Georges-Brassens",
+    "lat": 48.8315212,
+    "lon": 2.2997888,
+    "imageURL": null,
+    "description": "Park built on former slaughterhouse site with weekend book market.",
+    "info": null,
+    "categories": ["park", "market"],
+    "url": null
+  },
+  {
+    "name": "La Villette",
+    "lat": 48.8938489,
+    "lon": 2.39026,
+    "imageURL": null,
+    "description": "Large park complex with science museum, concert venues, and cultural activities.",
+    "info": null,
+    "categories": ["park", "museum", "music"],
+    "url": "https://lavillette.com/"
+  },
+  {
+    "name": "Saint Ouen flea market",
+    "lat": 48.9026177,
+    "lon": 2.3418083,
+    "imageURL": null,
+    "description": "World's largest antique market.",
+    "info": null,
+    "categories": ["market", "shopping"],
+    "url": "https://www.marcheauxpuces-saintouen.com/"
+  },
+  {
+    "name": "The Oldest Tree in Paris",
+    "lat": 48.8521736,
+    "lon": 2.3473092,
+    "imageURL": null,
+    "description": "Black locust tree planted in 1601, the oldest tree in Paris.",
+    "info": null,
+    "categories": ["nature", "historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Place du Marché Sainte-Catherine",
+    "lat": 48.855461,
+    "lon": 2.3627038,
+    "imageURL": null,
+    "description": "Cobblestone piazza.",
+    "info": null,
+    "categories": ["landmark", "food"],
+    "url": null
+  },
+  {
+    "name": "Ruches du jardin du Luxembourg",
+    "lat": 48.8451803,
+    "lon": 2.3332674,
+    "imageURL": null,
+    "description": "Beekeeping operation in Luxembourg Gardens.",
+    "info": null,
+    "categories": ["nature", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Librairie Jousseaume",
+    "lat": 48.8669609,
+    "lon": 2.3398861,
+    "imageURL": null,
+    "description": "Historic bookstore in Galerie Vivienne.",
+    "info": null,
+    "categories": ["bookstore", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Design & Nature",
+    "lat": 48.865996,
+    "lon": 2.3422003,
+    "imageURL": null,
+    "description": "Taxidermy shop.",
+    "info": null,
+    "categories": ["shopping", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Librairie Alain Brieux",
+    "lat": 48.8559395,
+    "lon": 2.3329326,
+    "imageURL": null,
+    "description": "Cabinet of curiosities specializing in medical & rare anatomy ephemera.",
+    "info": null,
+    "categories": ["bookstore", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Square Saint-Gilles - Grand-Veneur - Pauline-Roland",
+    "lat": 48.8592912,
+    "lon": 2.3653761,
+    "imageURL": null,
+    "description": "Hidden away square in the Marais.",
+    "info": null,
+    "categories": ["park", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Garden of the botanical school",
+    "lat": 48.8436409,
+    "lon": 2.3594409,
+    "imageURL": null,
+    "description": "Botanical garden for educational purposes.",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
+  },
+  {
+    "name": "Jardin de la Nouvelle France",
+    "lat": 48.8651953,
+    "lon": 2.3108891,
+    "imageURL": null,
+    "description": "Small garden commemorating French colonial history.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": null
+  },
+  {
+    "name": "Chalet des Îles Landing",
+    "lat": 48.8630244,
+    "lon": 2.2614455,
+    "imageURL": null,
+    "description": "Restaurant on an island in Bois de Boulogne.",
+    "info": null,
+    "categories": ["food", "nature"],
+    "url": "https://www.chaletdesiles.net/"
+  },
+  {
+    "name": "Montparnasse Cemetery",
+    "lat": 48.83791,
+    "lon": 2.3276208,
+    "imageURL": null,
+    "description": "Cemetery where many famous artists and intellectuals are buried.",
+    "info": null,
+    "categories": ["historic"],
+    "url": null
+  },
+  {
+    "name": "Rue du Faubourg Saint-Honoré",
+    "lat": 48.8703503,
+    "lon": 2.3176547,
+    "imageURL": null,
+    "description": "One of the world's most fashionable streets, home to luxury brands and foreign diplomat homes.",
+    "info": null,
+    "categories": ["shopping", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Butte-aux-Cailles",
+    "lat": 48.8271912,
+    "lon": 2.3490795,
+    "imageURL": null,
+    "description": "Old-world ambiance still prevails in its labyrinthine cobbled streets and toy-town houses, draped in ivy and Nemo's street-art.",
+    "info": null,
+    "categories": ["neighborhood", "art"],
+    "url": null
+  },
+  {
+    "name": "Trocadéro Square",
+    "lat": 48.8628748,
+    "lon": 2.2873248,
+    "imageURL": null,
+    "description": "Best view of the Eiffel Tower.",
+    "info": null,
+    "categories": ["landmark", "park"],
+    "url": null
+  },
+  {
+    "name": "Le Piano Vache",
+    "lat": 48.8473114,
+    "lon": 2.3477453,
+    "imageURL": null,
+    "description": "Boho jazz bar.",
+    "info": null,
+    "categories": ["drinking", "music"],
+    "url": null
+  },
+  {
+    "name": "rue des Thermopyles",
+    "lat": 48.8327643,
+    "lon": 2.3187789,
+    "imageURL": null,
+    "description": "Charming cobblestone street with quaint houses.",
+    "info": null,
+    "categories": ["neighborhood", "quirky"],
+    "url": null
+  },
+  {
+    "name": "La campagne à Paris",
+    "lat": 48.8660203,
+    "lon": 2.4077503,
+    "imageURL": null,
+    "description": "Charming neighborhood that's like an untouristy Montmartre.",
+    "info": null,
+    "categories": ["neighborhood"],
+    "url": null
+  },
+  {
+    "name": "Quartier de la Mouzaïa",
+    "lat": 48.8810751,
+    "lon": 2.3938225,
+    "imageURL": null,
+    "description": "Quiet residential area with small houses and gardens.",
+    "info": null,
+    "categories": ["neighborhood"],
+    "url": null
+  },
+  {
+    "name": "Le Bon Marché",
+    "lat": 48.8511354,
+    "lon": 2.3243648,
+    "imageURL": null,
+    "description": "Super fancy department store.",
+    "info": null,
+    "categories": ["shopping"],
+    "url": "https://www.lebonmarche.com/"
+  },
+  {
+    "name": "G. Detou Paris",
+    "lat": 48.8648727,
+    "lon": 2.346198,
+    "imageURL": null,
+    "description": "French spices, mustards, and gourmet ingredients.",
+    "info": null,
+    "categories": ["food", "shopping"],
+    "url": "https://www.g-detou.com/"
+  },
+  {
+    "name": "La paroisse Saint-Serge-de-Radonège",
+    "lat": 48.8836396,
+    "lon": 2.3841346,
+    "imageURL": null,
+    "description": "Charming church with beautiful interiors.",
+    "info": null,
+    "categories": ["religious", "art"],
+    "url": null
+  },
+  {
+    "name": "Pont Crimée",
+    "lat": 48.8860992,
+    "lon": 2.382194,
+    "imageURL": null,
+    "description": "Last drawbridge in Paris, designed by same firm who designed Eiffel Tower elevators.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "L'église de la Madeleine",
+    "lat": 48.8700435,
+    "lon": 2.3245502,
+    "imageURL": null,
+    "description": "At base of the church is the world's fanciest bathroom.",
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": "https://eglise-lamadeleine.com/"
+  },
+  {
+    "name": "Le Lavatory Madeleine",
+    "lat": 48.869975,
+    "lon": 2.3248009,
+    "imageURL": null,
+    "description": "World's fanciest bathroom.",
+    "info": null,
+    "categories": ["quirky"],
+    "url": null
+  },
+  {
+    "name": "Studio Galande",
+    "lat": 48.8516324,
+    "lon": 2.347113,
+    "imageURL": null,
+    "description": "Weekend showings of Rocky Horror Picture Show.",
+    "info": null,
+    "categories": ["cinema", "theater"],
+    "url": "https://www.studiosgalande.fr/"
+  },
+  {
+    "name": "La Maison du Pastel",
+    "lat": 48.8610111,
+    "lon": 2.3546833,
+    "imageURL": null,
+    "description": "Oldest pastel manufacturer in the world, only open on Thursday afternoons.",
+    "info": null,
+    "categories": ["shopping", "art", "quirky"],
+    "url": "https://www.maison-du-pastel.com/"
+  },
+  {
+    "name": "Observatory of the Sorbonne",
+    "lat": 48.8487784,
+    "lon": 2.3436006,
+    "imageURL": null,
+    "description": "Occasionally open to the public.",
+    "info": null,
+    "categories": ["historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Rue de la Montagne Sainte Geneviève",
+    "lat": 48.8481228,
+    "lon": 2.3485311,
+    "imageURL": null,
+    "description": "Picturesque cobblestoned street with great view at top of hill.",
+    "info": null,
+    "categories": ["neighborhood", "historic"],
+    "url": null
+  },
+  {
+    "name": "Lanzani",
+    "lat": 48.8546387,
+    "lon": 2.3795099,
+    "imageURL": null,
+    "description": "Cinema prop house.",
+    "info": null,
+    "categories": ["shopping", "cinema", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Maison de Balzac",
+    "lat": 48.8554541,
+    "lon": 2.2809102,
+    "imageURL": null,
+    "description": "Literary house museum.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.maisondebalzac.paris.fr/"
+  },
+  {
+    "name": "Jardin Bergeyre",
+    "lat": 48.8771833,
+    "lon": 2.3756749,
+    "imageURL": null,
+    "description": "Climb 100 steps for great view.",
+    "info": null,
+    "categories": ["park", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Floral City, Paris",
+    "lat": 48.8227065,
+    "lon": 2.3453748,
+    "imageURL": null,
+    "description": "Residential area with flower-lined streets.",
+    "info": null,
+    "categories": ["neighborhood", "nature"],
+    "url": null
+  },
+  {
+    "name": "Musée Nissim de Camondo",
+    "lat": 48.8789982,
+    "lon": 2.3127546,
+    "imageURL": null,
+    "description": "Mansion/museum of wealthy family from 1900s.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.lesartsdecoratifs.fr/"
+  },
+  {
+    "name": "Musée Jacquemart-André",
+    "lat": 48.875553,
+    "lon": 2.310422,
+    "imageURL": null,
+    "description": "Mansion/museum with gardens and tearoom.",
+    "info": null,
+    "categories": ["museum", "historic", "art"],
+    "url": "https://www.musee-jacquemart-andre.com/"
+  }
+]
