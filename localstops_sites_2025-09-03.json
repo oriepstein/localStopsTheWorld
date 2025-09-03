@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Nassau County Museum of Art",
+    "lat": 40.8081504,
+    "lon": -73.6432389
+  },
+  {
+    "name": "Planting Fields Arboretum",
+    "lat": 40.8625134,
+    "lon": -73.5577167
+  },
+  {
+    "name": "Stillwell Woods Park",
+    "lat": 40.8335048,
+    "lon": -73.4754729
+  },
+  {
+    "name": "Target Rock National Wildlife Refuge",
+    "lat": 40.926366,
+    "lon": -73.4334904
+  },
+  {
+    "name": "The Heckscher Museum of Art",
+    "lat": 40.874886,
+    "lon": -73.421719
+  },
+  {
+    "name": "Uplands Farm Sanctuary",
+    "lat": 40.8573518,
+    "lon": -73.4533419
+  },
+  {
+    "name": "Sagamore Hill National Historic Site",
+    "lat": 40.8855293,
+    "lon": -73.5010296
+  },
+  {
+    "name": "The WaterFront Center",
+    "lat": 40.875699,
+    "lon": -73.539744
+  },
+  {
+    "name": "Raynham Hall Museum",
+    "lat": 40.8724113,
+    "lon": -73.5316101
+  },
+  {
+    "name": "Cold Spring Harbor Laboratory",
+    "lat": 40.8580545,
+    "lon": -73.4669315
+  },
+  {
+    "name": "Cold Spring Harbor Fish Hatchery & Aquarium",
+    "lat": 40.8573597,
+    "lon": -73.4647715
+  },
+  {
+    "name": "Connetquot River State Park Preserve",
+    "lat": 40.748231,
+    "lon": -73.1523758
+  },
+  {
+    "name": "Prosser Pines County Park",
+    "lat": 40.871341,
+    "lon": -72.9351679
+  },
+  {
+    "name": "Robert Cushman Murphy County Park",
+    "lat": 40.8844509,
+    "lon": -72.8075024
+  },
+  {
+    "name": "Briermere Farms",
+    "lat": 40.967593,
+    "lon": -72.657346
+  },
+  {
+    "name": "Custer Institute Inc",
+    "lat": 41.0519702,
+    "lon": -72.4347142
+  },
+  {
+    "name": "Lavender By the Bay",
+    "lat": 41.1237616,
+    "lon": -72.3436555
+  },
+  {
+    "name": "Cedar Island Light",
+    "lat": 41.0407802,
+    "lon": -72.2609676,
+    "description": "hike"
+  },
+  {
+    "name": "LongHouse Reserve",
+    "lat": 40.9811557,
+    "lon": -72.2007551
+  },
+  {
+    "name": "Hither Hills State Park",
+    "lat": 41.0152975,
+    "lon": -72.0212278
+  },
+  {
+    "name": "Camp Hero State Park",
+    "lat": 41.0610832,
+    "lon": -71.8778854
+  },
+  {
+    "name": "Montauk Lighthouse Museum",
+    "lat": 41.0709571,
+    "lon": -71.8569479
+  },
+  {
+    "name": "Parrish Art Museum",
+    "lat": 40.9047087,
+    "lon": -72.3654797
+  },
+  {
+    "name": "Hampton Ocean Resort",
+    "lat": 40.8255916,
+    "lon": -72.5356047
+  },
+  {
+    "name": "The Dan Flavin Art Institute",
+    "lat": 40.9366643,
+    "lon": -72.3049307
+  },
+  {
+    "name": "DNA Learning Center",
+    "lat": 40.873017,
+    "lon": -73.4515739
+  },
+  {
+    "name": "St James General Store",
+    "lat": 40.8877717,
+    "lon": -73.1618593
+  },
+  {
+    "name": "Pollock-Krasner House",
+    "lat": 41.023834,
+    "lon": -72.154919
+  },
+  {
+    "name": "Long Island Maritime Museum",
+    "lat": 40.7228492,
+    "lon": -73.0952716
+  },
+  {
+    "name": "Wardenclyffe",
+    "lat": 40.9472688,
+    "lon": -72.8982782
+  },
+  {
+    "name": "Saint Johnland Cemetery",
+    "lat": 40.9046746,
+    "lon": -73.2402669
+  },
+  {
+    "name": "Vanderbilt Museum and Planetarium",
+    "lat": 40.9056914,
+    "lon": -73.3684403
+  },
+  {
+    "name": "The Whaling Museum & Education Center of Cold Spring Harbor",
+    "lat": 40.8725752,
+    "lon": -73.4541433
+  },
+  {
+    "name": "Old Whalers Church of Sag",
+    "lat": 40.997463,
+    "lon": -72.293763,
+    "description": "NHL"
+  },
+  {
+    "name": "Downs Farm Preserve",
+    "lat": 41.0032042,
+    "lon": -72.4976011,
+    "description": "former Indian fort (NHL?)"
+  },
+  {
+    "name": "Mitchell Park & Marina",
+    "lat": 41.101656,
+    "lon": -72.36074
+  },
+  {
+    "name": "Bear Rock Studio",
+    "lat": 41.1502651,
+    "lon": -72.3026991,
+    "description": "approximate location"
+  },
+  {
+    "name": "The David Weld Sanctuary",
+    "lat": 40.9076702,
+    "lon": -73.2079716
+  },
+  {
+    "name": "Caumsett State Park",
+    "lat": 40.9289618,
+    "lon": -73.4680765
+  },
+  {
+    "name": "Walking Dunes Trail",
+    "lat": 41.0167373,
+    "lon": -72.042607
+  },
+  {
+    "name": "Seal Haulout Trail",
+    "lat": 41.0768361,
+    "lon": -71.8804618
+  },
+  {
+    "name": "Money Pond",
+    "lat": 41.0722596,
+    "lon": -71.8706593
+  },
+  {
+    "name": "Jaynes Hill Elevation 401 Feet",
+    "lat": 40.8153107,
+    "lon": -73.425252
+  },
+  {
+    "name": "Muttontown Preserve",
+    "lat": 40.8374616,
+    "lon": -73.5375204
+  },
+  {
+    "name": "The Fire Fighter",
+    "lat": 41.1016156,
+    "lon": -72.3595491,
+    "description": "NHL"
+  },
+  {
+    "name": "Sea Cliff Beach",
+    "lat": 40.8513132,
+    "lon": -73.6501812
+  },
+  {
+    "name": "Memorial Park",
+    "lat": 40.8492351,
+    "lon": -73.6505255
+  },
+  {
+    "name": "Morgan Memorial Park",
+    "lat": 40.8638711,
+    "lon": -73.6520956
+  },
+  {
+    "name": "Welwyn Preserve",
+    "lat": 40.881674,
+    "lon": -73.6412071
+  },
+  {
+    "name": "Sands Point Preserve",
+    "lat": 40.8594637,
+    "lon": -73.6984
+  },
+  {
+    "name": "67 Steps Beach & Parking",
+    "lat": 41.1187088,
+    "lon": -72.3722756
+  },
+  {
+    "name": "Victor DAmico Institute of Art",
+    "lat": 40.9995633,
+    "lon": -72.0498159
+  },
+  {
+    "name": "Custer Institute Inc.",
+    "lat": 41.0519444,
+    "lon": -72.4347222
+  },
+  {
+    "name": "Gardiners Island",
+    "lat": 41.0944371,
+    "lon": -72.1001434
+  },
+  {
+    "name": "John P. Humes Japanese Stroll Garden",
+    "lat": 40.8746466,
+    "lon": -73.5748988
+  },
+  {
+    "name": "John Coltrane Home",
+    "lat": 40.79977,
+    "lon": -73.3242146
+  },
+  {
+    "name": "Sag Harbor Variety Store",
+    "lat": 41.0000838,
+    "lon": -72.2955805
+  },
+  {
+    "name": "Sag Harbor Whaling & Historical Museum",
+    "lat": 40.9975912,
+    "lon": -72.2971191
+  },
+  {
+    "name": "South Fork Natural History Museum & Nature Center",
+    "lat": 40.947775,
+    "lon": -72.298729
+  },
+  {
+    "name": "St Andrews Dune Church",
+    "lat": 40.8687246,
+    "lon": -72.3928011
+  },
+  {
+    "name": "Sailors Haven Visitor Center",
+    "lat": 40.6568596,
+    "lon": -73.1044422
+  },
+  {
+    "name": "Carrington House",
+    "lat": 40.6619207,
+    "lon": -73.0775081
+  },
+  {
+    "name": "William Floyd Estate",
+    "lat": 40.7703745,
+    "lon": -72.8348131
+  },
+  {
+    "name": "Fire Island Lighthouse",
+    "lat": 40.6321234,
+    "lon": -73.2184199
+  },
+  {
+    "name": "The Gallery of Shorthand",
+    "lat": 40.7594706,
+    "lon": -73.1909642,
+    "description": "A museum that houses a collection of stenography machines plus dozens of books, photographs, and guides to shorthand languages from around the world."
+  },
+  {
+    "name": "Pilgrim Psychiatric Center",
+    "lat": 40.7944522,
+    "lon": -73.2827545,
+    "description": "A formerly abandoned mental institute, now back in business."
+  },
+  {
+    "name": "Walt Whitman Birthplace Association",
+    "lat": 40.8170952,
+    "lon": -73.4117932,
+    "description": "The famed poet was born in 1819 in a farmhouse built by his father."
+  }
+]
