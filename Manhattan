@@ -231,17 +231,6 @@
     "url": "https://italianacademy.columbia.edu/"
   },
   {
-    "name": "St. Paul's Chapel",
-    "lat": 40.8078521,
-    "lon": -73.9609459,
-    "icon": null,
-    "imageURL": null,
-    "description": "d. A highlight of the campus is St. Paul's Chapel, designed in a Lombardic style using the red brick and limestone motif of the campus classroom buildings The interior of St. Paul's Chapel features furniture carved in Florence and stained glass 13 designed by Maitland Armstrong and John La Farge. The Peace Altar was designed by George Nakashima. The entire floor of the building is paved with marble terrazzo in which are set fragments of porphyry, verd antique, and yellow marble. Three windows in the apse, the work of American artist John LaFarge, depict St. Paul preaching to the Athenians. Perhaps most striking is the chapel's vaulting and dome, executed in salmon Guastavino tiles. St. Paul's church uses Guastavino structural vaulting, a patented system of tiles created by Spanish builder Rafael Guastavino, who immigrated to the United States in the late nineteenth century. Guastavino tiles can be found in more than 1,000 buildings worldwide, including Grand Central Terminal, Carnegie Hall and the 13 3 14 Cathedral of St. John the Divine",
-    "info": null,
-    "categories": ["religious", "historic", "art"],
-    "url": "https://www.columbia.edu/"
-  },
-  {
     "name": "Union Theological Seminary",
     "lat": 40.8113544,
     "lon": -73.9617713,
@@ -5334,17 +5323,6 @@
     "categories": ["historic", "art", "landmark"]
   },
   {
-    "name": "56 HENRY",
-    "lat": 40.712735,
-    "lon": -73.995165,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": "https://56henry.com/",
-    "categories": ["art"]
-  },
-  {
     "name": "Fountain Pen Hospital",
     "lat": 40.7140841,
     "lon": -74.0072621,
@@ -5906,17 +5884,6 @@
     "url": "https://www.601artspace.com/"
   },
   {
-    "name": "Pier 35",
-    "lat": 40.7094517,
-    "lon": -73.9884141,
-    "icon": null,
-    "imageURL": null,
-    "description": "East River waterfront pier offering stunning Manhattan skyline views and recreational activities",
-    "info": null,
-    "categories": ["park", "nature"],
-    "url": null
-  },
-  {
     "name": "Metrograph",
     "lat": 40.715143,
     "lon": -73.9911467,
@@ -5937,17 +5904,6 @@
     "info": null,
     "categories": ["museum", "quirky"],
     "url": "https://www.daredeviltattoo.com/"
-  },
-  {
-    "name": "Aeon Bookstore",
-    "lat": 40.7138286,
-    "lon": -73.9909233,
-    "icon": null,
-    "imageURL": null,
-    "description": "Independent bookstore specializing in philosophy, theory, and critical thought",
-    "info": null,
-    "categories": ["bookstore"],
-    "url": null
   },
   {
     "name": "St Augustine's Episcopal Church",
@@ -7657,19 +7613,6 @@
     "categories": [
       "shopping",
       "food"
-    ],
-    "icon": null
-  },
-  {
-    "name": "M & S Schmalberg",
-    "lat": 40.752825,
-    "lon": -73.991573,
-    "imageURL": null,
-    "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women's and children's fashion apparel in the United States. By the 1940s, dozens of flower guys were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
-    "info": null,
-    "url": "https://www.mschmalberg.com/",
-    "categories": [
-      "shopping"
     ],
     "icon": null
   },
