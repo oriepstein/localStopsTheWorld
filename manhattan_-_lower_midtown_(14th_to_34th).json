@@ -1208,20 +1208,6 @@
     "icon": null
   },
   {
-    "name": "Rubin Museum of Art",
-    "lat": 40.7400671,
-    "lon": -73.9977244,
-    "imageURL": null,
-    "description": "unrivaled collection of himalayan art, housed in one-time Barneys flagship store",
-    "info": null,
-    "url": "https://rubinmuseum.org/",
-    "categories": [
-      "museum",
-      "art"
-    ],
-    "icon": null
-  },
-  {
     "name": "Books of Wonder",
     "lat": 40.7386956,
     "lon": -73.9943253,
