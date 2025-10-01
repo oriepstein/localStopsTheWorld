@@ -1787,20 +1787,6 @@
   },
   {
     "categories": [
-      "drinking",
-      "music"
-    ],
-    "description": "Heavy metal bar and music venue with craft beer and live shows.",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.7367758,
-    "lon": -73.9551337,
-    "name": "Saint Vitus Bar",
-    "url": "https://saintvitusbar.com/"
-  },
-  {
-    "categories": [
       "art",
       "shopping"
     ],
