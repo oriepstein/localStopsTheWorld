@@ -1273,20 +1273,6 @@
   },
   {
     "categories": [
-      "food",
-      "museum"
-    ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.6748299,
-    "lon": -74.0156844,
-    "name": "Ample Hills Factory and Museum",
-    "url": null
-  },
-  {
-    "categories": [
       "religious"
     ],
     "description": "one of 60 basilicas in the US",
