@@ -5,9 +5,12 @@
     "lon": -86.775518,
     "icon": null,
     "imageURL": null,
-    "description": "This alleyway was named to honor the memory of a beloved local dog. ",
+    "description": "This alleyway was named to honor the memory of a beloved local dog. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
     "url": null
   },
   {
@@ -16,10 +19,14 @@
     "lon": -86.7780462,
     "icon": null,
     "imageURL": null,
-    "description": "Fuel your honky-tonking with this venue's unbeatable “Recession Special.” ",
+    "description": "Fuel your honky-tonking with this venue's unbeatable \"Recession Special.\" ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "music",
+      "food"
+    ],
+    "url": "https://robertswesternworld.com/"
   },
   {
     "name": "Nashville Clayscape",
@@ -27,9 +34,12 @@
     "lon": -86.7257229,
     "icon": null,
     "imageURL": null,
-    "description": "An ode to iconic Nashville locations.  ",
+    "description": "An ode to iconic Nashville locations.  ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "landmark"
+    ],
     "url": null
   },
   {
@@ -40,8 +50,11 @@
     "imageURL": null,
     "description": "At this Nashville restaurant, cheese and charcuterie arrive via conveyor belt.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "url": "https://www.cultureandcompany.com/"
   },
   {
     "name": "Nashville 8th Ave Reservoir",
@@ -49,9 +62,12 @@
     "lon": -86.7807531,
     "icon": null,
     "imageURL": null,
-    "description": "In 1912, a broken section of the reservoir wall released millions of gallons of water and destroyed many homes downhill. ",
+    "description": "In 1912, a broken section of the reservoir wall released millions of gallons of water and destroyed many homes downhill. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "url": null
   },
   {
@@ -62,7 +78,12 @@
     "imageURL": null,
     "description": "This beloved cheeseburger-slinging trailer holds Nashville's oldest beer license.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "food",
+      "restaurant",
+      "bar",
+      "historic"
+    ],
     "url": null
   },
   {
@@ -73,7 +94,11 @@
     "imageURL": null,
     "description": "Cash-only karaoke dive bar in a glorified trailer",
     "info": null,
-    "categories": [],
+    "categories": [
+      "bar",
+      "music",
+      "quirky"
+    ],
     "url": null
   },
   {
@@ -84,8 +109,11 @@
     "imageURL": null,
     "description": "Sip mead from an East Nashville apiary while snacking on barbacoa tacos.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "food"
+    ],
+    "url": "https://honeytreemeadery.com/"
   },
   {
     "name": "Dino's Bar & Grill",
@@ -93,10 +121,14 @@
     "lon": -86.7492939,
     "icon": null,
     "imageURL": null,
-    "description": "East Nashville's oldest dive bar will bring you back to life with animal-style bar fare. ",
+    "description": "East Nashville's oldest dive bar will bring you back to life with animal-style bar fare. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "food",
+      "historic"
+    ],
+    "url": "https://dinosnashville.com/"
   },
   {
     "name": "Chopper",
@@ -106,7 +138,11 @@
     "imageURL": null,
     "description": "Feast on award-winning birria tacos from a food truck inside this neon robo-tiki bar.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "bar",
+      "food",
+      "quirky"
+    ],
     "url": null
   },
   {
@@ -115,10 +151,13 @@
     "lon": -86.7345798,
     "icon": null,
     "imageURL": null,
-    "description": "Located inside a former bread factory, this museum explores a century of transportation history through innovations that were extraordinary or failures—sometimes both. ",
+    "description": "Located inside a former bread factory, this museum explores a century of transportation history through innovations that were extraordinary or failures\u2014sometimes both. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.lanemotormuseum.org/"
   },
   {
     "name": "St. Mary of the Seven Sorrows",
@@ -126,10 +165,14 @@
     "lon": -86.7815621,
     "icon": null,
     "imageURL": null,
-    "description": "This church houses the “incorrupt” body of its founding Bishop. ",
+    "description": "This church houses the \"incorrupt\" body of its founding Bishop. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "religious",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.stmaryoftw.org/"
   },
   {
     "name": "The Downtown Presbyterian Church",
@@ -139,8 +182,12 @@
     "imageURL": null,
     "description": "Victorian-era Egyptomania left its mark on this Nashville landmark.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "religious",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.dpchurch.com/"
   },
   {
     "name": "President James K. Polk Tomb",
@@ -148,9 +195,12 @@
     "lon": -86.7839179,
     "icon": null,
     "imageURL": null,
-    "description": "The third, and perhaps final, resting place for our 11th president. Soon after leaving office, Polk succumbed to cholera and was quarantined with other similarly-stricken bodies in a city cemetery. Later, in June 1849, his remains were returned to his family home, Polk Place, where  his remains were to remain forever. And forever lasted about 44 years, at which point Polk Place was sold and demolished. Finally, to honor the former president and Tennessee governor, the legislature built a humble memorial and tomb for Polk in a quiet corner on the grounds of the state capital.  After James K. Polk may not be our most remembered or esteemed presidentThe grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital. ",
+    "description": "The third, and perhaps final, resting place for our 11th president. Soon after leaving office, Polk succumbed to cholera and was quarantined with other similarly-stricken bodies in a city cemetery. Later, in June 1849, his remains were returned to his family home, Polk Place, where  his remains were to remain forever. And forever lasted about 44 years, at which point Polk Place was sold and demolished. Finally, to honor the former president and Tennessee governor, the legislature built a humble memorial and tomb for Polk in a quiet corner on the grounds of the state capital.  After James K. Polk may not be our most remembered or esteemed presidentThe grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "url": null
   },
   {
@@ -159,10 +209,14 @@
     "lon": -86.7823611,
     "icon": null,
     "imageURL": null,
-    "description": "The award-winning men's bathroom was just too beautiful to not allow women to see. ",
+    "description": "The award-winning men's bathroom was just too beautiful to not allow women to see. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "hotel",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.thehermitagehotel.com/"
   },
   {
     "name": "George Boedecker's Sculpture Garden",
@@ -172,7 +226,11 @@
     "imageURL": null,
     "description": "Dinosaurs invade a suburban Nashville neighborhood.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "quirky",
+      "park"
+    ],
     "url": null
   },
   {
@@ -181,10 +239,14 @@
     "lon": -86.7763954,
     "icon": null,
     "imageURL": null,
-    "description": "At 135 years old and counting, this historic print shop is heaven for poster nerds and music buffs. ",
+    "description": "At 135 years old and counting, this historic print shop is heaven for poster nerds and music buffs. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "art",
+      "historic",
+      "shopping"
+    ],
+    "url": "https://hatchshowprint.com/"
   },
   {
     "name": "The Parthenon",
@@ -192,10 +254,15 @@
     "lon": -86.8133467,
     "icon": null,
     "imageURL": null,
-    "description": "To celebrate, a bit belatedly,  the state's 100th birthday, Nashville hosted the Tennessee Centennial Exposition in 1897 - 101 years after Tennessee's entry into the Union. As a centerpiece to the expo, and to mark the city's self-styled status as \"The Athens of the South,\" city fathers decided to build a full-scale replica of the most famous building from Greek antiquity. ",
+    "description": "To celebrate, a bit belatedly,  the state's 100th birthday, Nashville hosted the Tennessee Centennial Exposition in 1897 - 101 years after Tennessee's entry into the Union. As a centerpiece to the expo, and to mark the city's self-styled status as \"The Athens of the South,\" city fathers decided to build a full-scale replica of the most famous building from Greek antiquity. ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "museum",
+      "historic",
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nashvilleparthenon.com/"
   },
   {
     "name": "Third Man Records",
@@ -205,8 +272,12 @@
     "imageURL": null,
     "description": "Jack White's record store is the only place in the world that records live shows direct-to-acetate.",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://thirdmanrecords.com/"
   },
   {
     "name": "Ryman Auditorium",
@@ -214,10 +285,14 @@
     "lon": -86.7784714,
     "icon": null,
     "imageURL": null,
-    "description": "Thomas Ryman was a local businessman and owner of a fleet of riverboats and numerous saloons, earning a fortune from the drinking, gambling and other sordid appetites of his fellow Nashvillians. Famed Southern evangelical preacher Sam Jones came to Nashville in May, 1885 to  sermonize and denounce the sinful excesses of Ryman and his ilk. Ryman attended the revival, expecting to rile himself up and lash out against the preacher. Instead, he found himself moved by the sermon and inspired to denounce his former business dealings. So that others could experience a similar reawakening, he opened the Union Gospel Tabernacle in 1892.  ",
+    "description": "Thomas Ryman was a local businessman and owner of a fleet of riverboats and numerous saloons, earning a fortune from the drinking, gambling and other sordid appetites of his fellow Nashvillians. Famed Southern evangelical preacher Sam Jones came to Nashville in May, 1885 to  sermonize and denounce the sinful excesses of Ryman and his ilk. Ryman attended the revival, expecting to rile himself up and lash out against the preacher. Instead, he found himself moved by the sermon and inspired to denounce his former business dealings. So that others could experience a similar reawakening, he opened the Union Gospel Tabernacle in 1892.  ",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.ryman.com/"
   },
   {
     "name": "Country Music Hall of Fame and Museum",
@@ -227,8 +302,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "museum",
+      "music"
+    ],
+    "url": "https://countrymusichalloffame.org/"
   },
   {
     "name": "The Fontanel Mansion",
@@ -236,10 +314,15 @@
     "lon": -86.817393,
     "icon": null,
     "imageURL": null,
-    "description": "“ Music and nature come together at the former home of Barbara Mandrell, now a museum and music venue with acres of hiking trails”",
+    "description": "Music and nature come together at the former home of Barbara Mandrell, now a museum and music venue with acres of hiking trails",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "museum",
+      "music",
+      "park",
+      "historic"
+    ],
+    "url": "https://fontanel.com/"
   },
   {
     "name": "Grand Ole Opry",
@@ -249,8 +332,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.opry.com/"
   },
   {
     "name": "The Bluebird Cafe",
@@ -260,8 +347,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "food"
+    ],
+    "url": "https://www.bluebirdcafe.com/"
   },
   {
     "name": "Willie Nelson and Friends Museum and Nashville Souvenirs",
@@ -271,7 +361,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "music",
+      "shopping"
+    ],
     "url": null
   },
   {
@@ -282,7 +376,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic"
+    ],
     "url": null
   },
   {
@@ -293,8 +389,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": "https://www.nashvillefarmersmarket.org/"
   },
   {
     "name": "John Seigenthaler Pedestrian Bridge",
@@ -304,7 +403,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "park"
+    ],
     "url": null
   },
   {
@@ -315,8 +417,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "food",
+      "music"
+    ],
+    "url": "https://www.theacmenashville.com/"
   },
   {
     "name": "Nudie's Honky Tonk",
@@ -326,8 +432,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "music"
+    ],
+    "url": "https://www.nudieshonkytonk.com/"
   },
   {
     "name": "Tootsies Orchid Lounge",
@@ -337,8 +446,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "music",
+      "historic"
+    ],
+    "url": "https://www.tootsies.net/"
   },
   {
     "name": "3rd & Lindsley Bar & Grill",
@@ -348,8 +461,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "bar",
+      "food",
+      "music"
+    ],
+    "url": "https://www.3rdandlindsley.com/"
   },
   {
     "name": "Cannery Hall",
@@ -359,8 +476,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "historic"
+    ],
+    "url": "https://www.canneryhall.com/"
   },
   {
     "name": "The Station Inn",
@@ -370,8 +490,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "music",
+      "bar"
+    ],
+    "url": "https://www.stationinn.com/"
   },
   {
     "name": "The Nations Silo",
@@ -381,7 +504,10 @@
     "imageURL": null,
     "description": "An enormous mural of a local Nashville resident adorns this abandoned silo.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "landmark"
+    ],
     "url": null
   },
   {
@@ -392,7 +518,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "food",
+      "market",
+      "shopping"
+    ],
     "url": null
   },
   {
@@ -403,8 +533,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "url": "https://hattieb.com/"
   },
   {
     "name": "Monell's",
@@ -414,8 +547,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "url": "https://www.monellstn.com/"
   },
   {
     "name": "Peg Leg Porker BBQ",
@@ -425,8 +561,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null
+    "categories": [
+      "food",
+      "restaurant"
+    ],
+    "url": "https://peglegporker.com/"
   },
   {
     "name": "Hail - Dark Aesthetics",
@@ -436,7 +575,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
     "url": null
   },
   {
@@ -447,7 +589,11 @@
     "imageURL": null,
     "description": "Lower Broadway, or \"Honky Tonk Highway,\" was considered the essential part of the city to experience the best in local music. Today, it is more like Nashville's answer to Bourbon Street, filled with drunken tourists and bachelorette parties buying overpriced drinks and listening to classic rock cover bands in corporate-owned, celebrity-branded megabars. But there are still diamonds in the rough to be discovered, independent and musician-owned places that showcase authentic and local artists. A few to check out: Robert's Western World, Nudie's and Acme Feed & Seed.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "entertainment",
+      "music",
+      "bar"
+    ],
     "url": null
   },
   {
