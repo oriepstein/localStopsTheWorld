@@ -473,46 +473,6 @@
     "url": null
   },
   {
-    "name": "Pinckney's Tomb",
-    "lat": 35.560281,
-    "lon": -87.8172599,
-    "imageURL": null,
-    "description": "A house built specifically to shelter the dead.",
-    "info": null,
-    "categories": [
-      "historic",
-      "quirky"
-    ],
-    "url": null
-  },
-  {
-    "name": "Meriwether Lewis Monument",
-    "lat": 35.5112071,
-    "lon": -87.4605217,
-    "imageURL": null,
-    "description": "This simple, broken column marks the final resting place of one of America's most famous explorers.",
-    "info": null,
-    "categories": [
-      "historic",
-      "landmark"
-    ],
-    "url": null
-  },
-  {
-    "name": "Minnie Pearl Statue",
-    "lat": 35.778586,
-    "lon": -87.4667273,
-    "imageURL": null,
-    "description": "In the hometown of the Grand Ole Opry star is a larger-than-life memorial statue made entirely from chicken wire.",
-    "info": null,
-    "categories": [
-      "art",
-      "music",
-      "quirky"
-    ],
-    "url": null
-  },
-  {
     "name": "Andrew Jackson's Hermitage",
     "lat": 36.2137573,
     "lon": -86.6153097,
