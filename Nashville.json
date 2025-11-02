@@ -154,17 +154,6 @@
     "url": null
   },
   {
-    "name": "Fannie Mae Dees Park",
-    "lat": 36.136866,
-    "lon": -86.8062805,
-    "icon": null,
-    "imageURL": null,
-    "description": "The grave of America's 11th president is not in some grand monument but instead it's hidden away on the grounds of the Tennessee Capital. ",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
     "name": "The Hermitage Hotel",
     "lat": 36.1637611,
     "lon": -86.7823611,
@@ -270,17 +259,6 @@
     "icon": null,
     "imageURL": null,
     "description": "",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
-    "name": "Andrew Jackson’s Hermitage",
-    "lat": 36.2137573,
-    "lon": -86.6153097,
-    "icon": null,
-    "imageURL": null,
-    "description": "“The home of America’s seventh president is also one of Tennessee’s finest historic homes and gardens, preserving not only the story of Andrew Jackson, but also that of his family, paid staff, and slaves”",
     "info": null,
     "categories": [],
     "url": null
