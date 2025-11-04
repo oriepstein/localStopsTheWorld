@@ -524,20 +524,7 @@
     ],
     "url": null
   },
-  {
-    "name": "Hattie B's Hot Chicken - Nashville - Midtown",
-    "lat": 36.151469,
-    "lon": -86.7966026,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "food",
-      "restaurant"
-    ],
-    "url": "https://hattieb.com/"
-  },
+  
   {
     "name": "Monell's",
     "lat": 36.1758242,
