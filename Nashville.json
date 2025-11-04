@@ -1,5 +1,18 @@
 [
   {
+    "name": "Brave Idiot",
+    "lat": 36.176404,
+    "lon": -86.755249,
+    "icon": null,
+    "imageURL": null,
+    "description": "Perhaps the best hot chicken in Nashville ",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.braveidiot.com/"
+  },
+  {
     "name": "Butlers Run LLC",
     "lat": 36.163251,
     "lon": -86.775518,
