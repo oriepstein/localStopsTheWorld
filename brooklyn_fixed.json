@@ -82,19 +82,7 @@
     "name": "Dead Horse Bay",
     "url": null
   },
-  {
-    "categories": [
-      "art"
-    ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.712045,
-    "lon": -73.936328,
-    "name": "CB I Hate Perfume - Olfactory Art Gallery",
-    "url": "https://www.cbihateperfume.com/"
-  },
+ 
   {
     "categories": [
       "art"
@@ -842,15 +830,6 @@
     "categories": [
       "art"
     ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.7246841,
-    "lon": -73.9548224,
-    "name": "A/D/O",
-    "url": null
-  },
   {
     "categories": [
       "religious",
@@ -1010,20 +989,6 @@
     "lat": 40.6923023,
     "lon": -73.9274769,
     "name": "Secret Project Robot",
-    "url": null
-  },
-  {
-    "categories": [
-      "entertainment",
-      "music"
-    ],
-    "description": "",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.6740825,
-    "lon": -73.9960189,
-    "name": "The Gowanus Ballroom",
     "url": null
   },
   {
