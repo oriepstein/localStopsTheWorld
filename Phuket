@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Raya Restaurant",
+    "lat": 7.8858515,
+    "lon": 98.3909338,
+    "imageURL": null,
+    "description": "touristy restaurant, but know for its crab curry",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "Old Phuket Town",
+    "lat": 7.8858652,
+    "lon": 98.3876197,
+    "imageURL": null,
+    "description": "A charming historic district featuring colorful Sino-Portuguese shophouses, ornate architecture, vibrant street art, and traditional coffee shops. Sunday walking street market showcases local crafts, street food, and cultural performances.",
+    "info": null,
+    "categories": ["historic", "architecture", "neighborhood", "art", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Saphan Hin Park",
+    "lat": 7.8654194,
+    "lon": 98.3981332,
+    "imageURL": null,
+    "description": "A scenic waterfront park popular with locals for jogging, cycling, and evening walks. Features a long pier extending into the sea, exercise equipment, food stalls, and beautiful sunset views over Phuket Bay.",
+    "info": null,
+    "categories": ["park", "nature", "viewpoint", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Krua Baan Platong",
+    "lat": 7.9966981,
+    "lon": 98.3557698,
+    "imageURL": null,
+    "description": "home style restaurant - reservations a must",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  }
+]
