@@ -1,0 +1,412 @@
+[
+  {
+    "name": "The Grand Palace",
+    "lat": 13.7498558,
+    "lon": 100.4915765,
+    "imageURL": null,
+    "description": "Bangkok's most famous landmark featuring stunning Thai architecture, ornate throne halls, and the revered Emerald Buddha. The former royal residence showcases 200 years of Thai craftsmanship and history.",
+    "info": null,
+    "categories": ["landmark", "historic", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Wat Phra Chetuphon (Wat Pho)",
+    "lat": 13.7466078,
+    "lon": 100.4931179,
+    "imageURL": null,
+    "description": "Home to the massive 46-meter-long Reclining Buddha covered in gold leaf. This temple complex is also the birthplace of traditional Thai massage and houses the largest collection of Buddha images in Thailand.",
+    "info": null,
+    "categories": ["religious", "landmark", "historic"],
+    "url": null
+  },
+  {
+    "name": "Wat Arun Ratchawararam Ratchaworamahawihan (Wat Chaeng)",
+    "lat": 13.7437,
+    "lon": 100.4889265,
+    "imageURL": null,
+    "description": "The Temple of Dawn rises majestically along the Chao Phraya River with its iconic spire covered in colorful porcelain. Climb the steep steps for stunning river views, especially at sunset.",
+    "info": null,
+    "categories": ["religious", "landmark", "architecture", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "Ratchawong",
+    "lat": 13.738548,
+    "lon": 100.504599,
+    "imageURL": null,
+    "description": "A vibrant neighborhood in Chinatown where gold shops glitter alongside street food vendors. This area pulses with energy, especially during Chinese New Year celebrations.",
+    "info": null,
+    "categories": ["neighborhood", "shopping", "food"],
+    "url": null
+  },
+  {
+    "name": "Wat Saket (Phu Khao Thong)",
+    "lat": 13.7538637,
+    "lon": 100.5065459,
+    "imageURL": null,
+    "description": "The Golden Mount temple sits atop an artificial hill offering 360-degree panoramic views of Bangkok. Climb the 344 steps past bells and shrines for one of the city's best viewpoints.",
+    "info": null,
+    "categories": ["religious", "viewpoint", "historic"],
+    "url": null
+  },
+  {
+    "name": "Wat Benchamabophit Dusitwanaram",
+    "lat": 13.7665623,
+    "lon": 100.5141391,
+    "imageURL": null,
+    "description": "The Marble Temple showcases Thai architecture at its finest with Italian marble walls, European-style stained glass, and a courtyard of 52 Buddha statues representing different styles.",
+    "info": null,
+    "categories": ["religious", "architecture", "art"],
+    "url": null
+  },
+  {
+    "name": "Wat Paknam Phasi Charoen",
+    "lat": 13.7217182,
+    "lon": 100.4704142,
+    "imageURL": null,
+    "description": "A stunning contemporary temple featuring an enormous emerald-green glass stupa and a mesmerizing cosmic meditation hall with glowing galaxies painted on the ceiling.",
+    "info": null,
+    "categories": ["religious", "art", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Khaosan Road",
+    "lat": 13.7587937,
+    "lon": 100.4974622,
+    "imageURL": null,
+    "description": "The legendary backpacker street that never sleeps, packed with budget hostels, street food stalls, bars, and souvenir shops. A rite of passage for travelers exploring Southeast Asia.",
+    "info": null,
+    "categories": ["neighborhood", "drinking", "food", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Siriraj Medical Museum",
+    "lat": 13.7587943,
+    "lon": 100.4851128,
+    "imageURL": null,
+    "description": "A treasure trove of pathological, forensic, parasitological, and anatomical specimens.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Amulet Market",
+    "lat": 13.7554495,
+    "lon": 100.4893269,
+    "imageURL": null,
+    "description": "Bangkok's men with dangerous jobs come here in search of protective talismans.",
+    "info": null,
+    "categories": ["market", "quirky", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Airplane Graveyard",
+    "lat": 13.7648881,
+    "lon": 100.6523253,
+    "imageURL": null,
+    "description": "A surreal collection of abandoned Boeing 747s and MD-82s slowly decomposing in a field. Urban explorers can climb through the fuselages for an eerie, post-apocalyptic photo opportunity.",
+    "info": null,
+    "categories": ["quirky", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "Temple of the Emerald Buddha - Wat Phra Si Rattana Satsadaram / Wat Phra Kaew",
+    "lat": 13.7516435,
+    "lon": 100.4927041,
+    "imageURL": null,
+    "description": "Thailand's most sacred Buddhist temple houses the revered Emerald Buddha carved from a single block of jade. The temple complex within the Grand Palace features dazzling gold mosaics and intricate murals.",
+    "info": null,
+    "categories": ["religious", "landmark", "art"],
+    "url": null
+  },
+  {
+    "name": "Wat Prayun Wongsawat Worawihan",
+    "lat": 13.7373733,
+    "lon": 100.4954672,
+    "imageURL": null,
+    "description": "A charming temple on the Thonburi side featuring a hill-like white chedi and a turtle-filled pond where locals come to make merit by feeding hundreds of terrapins.",
+    "info": null,
+    "categories": ["religious", "nature"],
+    "url": null
+  },
+  {
+    "name": "Sathon Unique Tower",
+    "lat": 13.7172856,
+    "lon": 100.5152178,
+    "imageURL": null,
+    "description": "Bangkok's most famous abandoned skyscraper, known as the Ghost Tower. This unfinished 49-story building offers urban explorers breathtaking (and slightly dangerous) rooftop views.",
+    "info": null,
+    "categories": ["quirky", "viewpoint", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Wat Khrua Wan Worawihan",
+    "lat": 13.7462246,
+    "lon": 100.4855007,
+    "imageURL": null,
+    "description": "A peaceful riverside temple in Thonburi known for its traditional Thai architecture and serene atmosphere, away from the tourist crowds.",
+    "info": null,
+    "categories": ["religious"],
+    "url": null
+  },
+  {
+    "name": "Wat Yannawa",
+    "lat": 13.7170256,
+    "lon": 100.5143215,
+    "imageURL": null,
+    "description": "Founded during the Ayutthaya era, this unique Buddhist temple remains shipshape to this day.",
+    "info": null,
+    "categories": ["religious", "quirky", "historic"],
+    "url": null
+  },
+  {
+    "name": "Wat Traimit Withayaram Worawihan",
+    "lat": 13.7379703,
+    "lon": 100.5137418,
+    "imageURL": null,
+    "description": "This enormous gold Buddha statue was hidden inside a stucco decoy for centuries.",
+    "info": null,
+    "categories": ["religious", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Queen Saovabha Memorial Institute",
+    "lat": 13.7323537,
+    "lon": 100.5327024,
+    "imageURL": null,
+    "description": "A collection of venomous snakes and reptiles for the whole family to enjoy.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Terminal 21 (BKK Original Bag)",
+    "lat": 13.7379508,
+    "lon": 100.5603819,
+    "imageURL": null,
+    "description": "A themed shopping mall where each floor represents a different world city, from Tokyo to London. The bathrooms are Instagram-famous and the food court offers excellent value.",
+    "info": null,
+    "categories": ["shopping", "food"],
+    "url": null
+  },
+  {
+    "name": "Erawan Shrine",
+    "lat": 13.7441994,
+    "lon": 100.5407094,
+    "imageURL": null,
+    "description": "A Hindu shrine dedicated to the four-faced Brahma, perpetually surrounded by worshippers making offerings and traditional Thai dancers performing in gratitude for answered prayers.",
+    "info": null,
+    "categories": ["religious", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Wat Mahathat Yuwararangsarit Royal Palace",
+    "lat": 13.7551337,
+    "lon": 100.4908919,
+    "imageURL": null,
+    "description": "A major meditation center in Bangkok offering free courses in Vipassana meditation. The temple's Sunday market is also famous for amulets and Buddhist artifacts.",
+    "info": null,
+    "categories": ["religious", "market"],
+    "url": null
+  },
+  {
+    "name": "Hai Som Tam Convent",
+    "lat": 13.7273414,
+    "lon": 100.533286,
+    "imageURL": null,
+    "description": "Isaan street food staples are in spectacular form at this no-frills institution",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "Polo Fried Chicken (Soi Polo)",
+    "lat": 13.7322268,
+    "lon": 100.545961,
+    "imageURL": null,
+    "description": "Bangkok's most beloved fried chicken spot lets its garlic-burrowed birds do the talking.",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "Tilleke Gibbins Museum of Counterfeit Goods",
+    "lat": 13.6827329,
+    "lon": 100.5475955,
+    "imageURL": null,
+    "description": "A museum in a law office, filled with authentic and counterfeit goods.",
+    "info": null,
+    "categories": ["museum", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Wat Intharawihan",
+    "lat": 13.7666595,
+    "lon": 100.5029667,
+    "imageURL": null,
+    "description": "Wat Intharawihan is not among the most famous Bangkok temples. However, inside the Wat Intharawihan temple, visitors can see a giant and shining golden Buddha with more than 100 years of history. The 104-foot Buddha that took 60 years to build. The construction started in 1867 during the reign of King Rama IV and was completed in 1927 under the reign of King Rama VII. The standing Buddha is using a Ushnisha (relic crown/hat), which was given as a gift by the Government of Sri Lanka.",
+    "info": null,
+    "categories": ["religious", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Kid Mai Death Awareness Cafe",
+    "lat": 13.7784367,
+    "lon": 100.5438983,
+    "imageURL": null,
+    "description": "An immersive exhibition that meditates on death and life.",
+    "info": null,
+    "categories": ["cafe", "quirky", "art"],
+    "url": null
+  },
+  {
+    "name": "Suan Luang Rama IX",
+    "lat": 13.688319,
+    "lon": 100.6641942,
+    "imageURL": null,
+    "description": "park not visited by many tourists",
+    "info": null,
+    "categories": ["park", "nature"],
+    "url": null
+  },
+  {
+    "name": "Wat Mangkon Kamalawat (Wat Leng Noei Yi)",
+    "lat": 13.7430288,
+    "lon": 100.5091598,
+    "imageURL": null,
+    "description": "Known as Wat Leng Noei Yi or the Dragon Lotus Temple, this grand and historic site is one of the most significant Chinese Buddhist temples in Bangkok.Why go? For a visual feast that reveals the city's cultural depth, this temple awaits discovery beyond typical tourist routes. Its classic southern Chinese architecture boasts sweeping green-tiled roofs, dramatic upturned eaves and intricate carvings of dragons and lotus flowers. Inside, richly decorated halls with red columns and gold-leaf altars house a pantheon of Buddhist, Taoist and Confucian deities, inviting visitors to witness authentic rituals or simply soak in its spiritual energy.Time Out tip: Try your luck with Seam-Si, a traditional form of fortune telling. Grab a bamboo tube, give it a shake and see which red-tipped stick falls out – each number reveals a different fortune that locals take to heart.",
+    "info": null,
+    "categories": ["religious", "architecture", "historic"],
+    "url": null
+  },
+  {
+    "name": "Bangkokian Museum",
+    "lat": 13.7281433,
+    "lon": 100.5182074,
+    "imageURL": null,
+    "description": "A charming house museum showcasing traditional Thai middle-class life in the early 20th century, with original furnishings and family heirlooms in a preserved wooden home.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": null
+  },
+  {
+    "name": "Huai Khwang Market",
+    "lat": 13.7778763,
+    "lon": 100.5686049,
+    "imageURL": null,
+    "description": "A bustling local market popular with Bangkok residents for fresh produce, street food, and everyday goods at non-tourist prices.",
+    "info": null,
+    "categories": ["market", "food"],
+    "url": null
+  },
+  {
+    "name": "Royal Barges National Museum",
+    "lat": 13.761947,
+    "lon": 100.4845944,
+    "imageURL": null,
+    "description": "An impressive collection of ornately carved royal barges used in ceremonial processions, including the stunning 46-meter-long Suphannahong, decorated in gold and black lacquer.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": null
+  },
+  {
+    "name": "Soi Ban Bat - Monks Bowl Village",
+    "lat": 13.7512657,
+    "lon": 100.5070392,
+    "imageURL": null,
+    "description": "Tucked into narrow lanes near the Golden Mount lies Baan Bat, a community that has kept alive the centuries-old craft of making alms bowls for monks. Each bowl begins as strips of steel or brass, hammered and welded together, then polished until gleaming. The rhythm of the hammering echoes through the alleyways, a living soundtrack of tradition.What makes Baan Bat remarkable is its endurance. As mass-produced bowls have flooded the market, many villages have abandoned the painstaking work. Here, families have continued, passing the skill from one generation to the next. Travellers can watch artisans at work, speak with them about the process, and even purchase a bowl as a meaningful souvenir.Location: Soi Baan Bat, off Bamrung Mueang Road.Access: From BTS Ratchathewi, take a tuk-tuk or taxi, around 10 minutes.Opening Hours: 0900 to 1700, Monday to Saturday.Traveller Tip: Visit mid-morning when artisans are most active. Buying a bowl directly supports the families and preserves the tradition.",
+    "info": null,
+    "categories": ["neighborhood", "art", "historic", "shopping"],
+    "url": null
+  },
+  {
+    "name": "The Artist House Bangkok",
+    "lat": 13.7312448,
+    "lon": 100.4632993,
+    "imageURL": null,
+    "description": "On a quiet canal in Thonburi stands a 200-year-old wooden home known as The Artist's House. Part gallery, part café, part performance space, it offers a glimpse of the creative soul of Bangkok. Inside, walls are decorated with paintings, masks, and sculptures, while the open terrace looks out onto the canal where long-tail boats glide by.The highlight is the traditional puppet theatre, staged on weekends. Puppeteers, dressed in black, manipulate ornate figures to re-enact tales from Thai mythology. The performance is accompanied by live music and, though informal, carries an authenticity that large theatre shows can never match.Equally rewarding is simply lingering by the canal, sipping a coffee, sketching, or watching children feed the fish. It is Bangkok at its most intimate, life lived at the water's edge.",
+    "info": null,
+    "categories": ["art", "cafe", "theater", "historic"],
+    "url": null
+  },
+  {
+    "name": "Neilson Hays Library",
+    "lat": 13.7270247,
+    "lon": 100.5231542,
+    "imageURL": null,
+    "description": "UNESCO Asia Pacific Heritage Award winner",
+    "info": null,
+    "categories": ["bookstore", "architecture", "historic"],
+    "url": null
+  },
+  {
+    "name": "Bangkok City Library",
+    "lat": 13.7576371,
+    "lon": 100.4988876,
+    "imageURL": null,
+    "description": "A modern public library with an extensive collection of Thai and English books, free WiFi, and a peaceful reading environment near the Democracy Monument.",
+    "info": null,
+    "categories": ["bookstore"],
+    "url": null
+  },
+  {
+    "name": "ChangChui Creative Park",
+    "lat": 13.7892227,
+    "lon": 100.470725,
+    "imageURL": null,
+    "description": "A sprawl of stalls and open-air ease where canvases lean against concrete and incense mingles with fried things on sticks. You come here to shop, but not really. You come to loiter, to lose track of time between zines, ceramics and a boy playing Radiohead on a flute. Art, sure. But also space to breathe. Why go? The market resists easy definition. It's part sculpture, part park. Wander long enough and you'll pass a giant aircraft parked like it belongs there, flanked by rusted robots, shadowy corners, and food that tastes best eaten standing. At the centre, a hulking airplane looms like a dream misplaced – ghostly, grand, oddly serene amid the clutter. Reclaimed wood meets industrial sprawl, installations crop up without warning, and everything hums with the kind of offbeat charm you can't manufacture. It's a place that feels lived-in yet slightly unreal, where you might catch a film screening next to a flea market or stumble across a poetry reading beside a tattoo booth.Time Out tip: Across the year, the space shapeshifts – hosting festivals that pulse with live sets, makeshift galleries, and pop-up chaos masquerading as markets. Somewhere in the noise, you'll find Transport, a quiet rebellion of house and disco heads who gather a few times annually beneath the bones of a plane to dance like no one's documenting it.",
+    "info": null,
+    "categories": ["art", "market", "quirky", "food"],
+    "url": null
+  },
+  {
+    "name": "Blueprint Livehouse",
+    "lat": 13.7204737,
+    "lon": 100.567219,
+    "imageURL": null,
+    "description": "Tucked above the chlorine-soaked chaos of Flow House BKK, on the second floor of A Square, is a space that hums with something quieter, warmer. This live venue isn't about crowd-pleasing covers or curated cool. It's about giving musicians room to try, fail, play louder, or softer, and be heard either way. A place where the audience leans in, not back.Why go? The stage sits low, the space is tight, and that's exactly the point. It brings you close – to the music, to the moment, to the people who made it. Some nights, it's one act quietly holding the room. Other times, it's four or five, each with their own rhythm, their own noise. The lineups aren't curated for consistency but curiosity. New artists mix with the more familiar, and no two evenings feel quite the same. Tickets stay kind – to students, to wallets, to anyone who just wants to listen without needing to explain why.",
+    "info": null,
+    "categories": ["music", "drinking"],
+    "url": null
+  },
+  {
+    "name": "BANGKOK CITYCITY GALLERY",
+    "lat": 13.7235779,
+    "lon": 100.5446466,
+    "imageURL": null,
+    "description": "An offbeat spot showcasing contemporary art, featuring a mix of emerging talent and established artists, all presented in a stylish, modern setting.Why go? If you want to experience the city's creative pulse beyond the usual tourist spots, this gallery ticks all the boxes. Intimate and inviting, the gallery presents thought-provoking exhibitions that explore Thai culture, society, and identity through a wide range of mediums – from installations and video art to illustration and design. It's a space that encourages slow looking and meaningful conversation, making it a top choice among Bangkok's creative crowd.Time Out tip: Check out Bookshop Library, where you'll find a selection of art books, independent publications and locally sourced design pieces.",
+    "info": null,
+    "categories": ["art", "bookstore"],
+    "url": null
+  },
+  {
+    "name": "Phutthamonthon",
+    "lat": 13.7768069,
+    "lon": 100.3210139,
+    "imageURL": null,
+    "description": "A sprawling, serene park in Nakhon Pathom, just west of Bangkok, known for its peaceful walking paths, manicured gardens and a towering 15-metre standing Buddha statue at its centre.Why go? If you're looking for a peaceful escape that most tourists haven't discovered, this massive park is a true local go-to. It's where residents from the city's quieter western neighbourhoods come to cycle, jog or simply unwind under the trees. With wide-open lawns, quiet ponds and tucked-away corners perfect for meditation, it's the kind of place where you'll see families picnicking, monks on their morning walks and regulars who treat it like their own green sanctuary.Time Out tip: The park is especially beautiful in the early morning or late afternoon. At sunset, the towering Buddha statue is often silhouetted against a soft 'vanilla sky' that makes the scene feel almost surreal.",
+    "info": null,
+    "categories": ["park", "nature", "religious"],
+    "url": null
+  },
+  {
+    "name": "Aunt Lek restaurant Samsen 4",
+    "lat": 13.7633668,
+    "lon": 100.5002227,
+    "imageURL": null,
+    "description": "A beloved local restaurant serving authentic home-style Thai food in a no-frills setting. Known for generous portions and flavors that remind locals of their grandmother's cooking.",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "Trok Mor Morning Market",
+    "lat": 13.7495696,
+    "lon": 100.4992209,
+    "imageURL": null,
+    "description": "An authentic local morning market near the Democracy Monument where residents shop for fresh ingredients, ready-to-eat meals, and traditional Thai sweets.",
+    "info": null,
+    "categories": ["market", "food"],
+    "url": null
+  }
+]
