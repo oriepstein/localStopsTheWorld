@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bangkok",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Bangkok",
+    "imageURL": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=400"
+  },
+  {
+    "name": "Phuket",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Phuket",
+    "imageURL": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?w=400"
+  },
+  {
+    "name": "Krabi",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Krabi",
+    "imageURL": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=400"
+  },
+  {
+    "name": "Kanchanaburi",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Kanchanaburi",
+    "imageURL": "https://images.unsplash.com/photo-1563492065-1ec6f8b1e7b2?w=400"
+  }
+]
