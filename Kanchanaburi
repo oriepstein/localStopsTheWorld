@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Erawan Waterfall (Level 7)",
+    "lat": 14.3589673,
+    "lon": 99.1410374,
+    "imageURL": null,
+    "description": "A limestone wonderland of water and subterranean secrets.",
+    "info": null,
+    "categories": ["nature", "hiking", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "Hellfire Pass Interpretive Centre",
+    "lat": 14.3527213,
+    "lon": 98.9547228,
+    "imageURL": null,
+    "description": "A memorial museum commemorating the Allied POWs who built the Death Railway during WWII. The museum features artifacts, photos, and personal stories, with a trail through the infamous Hellfire Pass cutting.",
+    "info": null,
+    "categories": ["museum", "historic", "hiking"],
+    "url": null
+  },
+  {
+    "name": "Underwater Temple",
+    "lat": 15.1251307,
+    "lon": 98.4678596,
+    "imageURL": null,
+    "description": "During the rainy season, this temple is almost entirely submerged, accessible only by boat.",
+    "info": null,
+    "categories": ["religious", "quirky", "nature"],
+    "url": null
+  },
+  {
+    "name": "RIVER KWAI BRIDGE",
+    "lat": 14.0398812,
+    "lon": 99.5033566,
+    "imageURL": null,
+    "description": "The famous Death Railway bridge built by Allied POWs during WWII. A powerful symbol of sacrifice and resilience, the bridge now carries trains and offers a sobering reminder of history.",
+    "info": null,
+    "categories": ["landmark", "historic"],
+    "url": null
+  },
+  {
+    "name": "Thungyai Naresuan Wildlife Sanctuary",
+    "lat": 15.3333647,
+    "lon": 98.9164846,
+    "imageURL": null,
+    "description": "WHS - The Thungyai and Huai Kha Khaeng Wildlife Sanctuaries hold an unusual mix of species from four different biogeographic zones: Sundaic, Indo-Chinese, Indo-Burmese and Sino-Himalayan. These two contiguous parks are located in the northwest of Thailand along the Burmese border. Thungyai is predominantly mountainous, with rivers and a central grassland plain. Huai Kha Khaeng is hilly and has five types of forests. The area is large and undisturbed enough to support the survival of elephants and tiger. The presence of mineral licks also is profitable for wildlife.",
+    "info": null,
+    "categories": ["unesco", "nature", "nps", "hiking"],
+    "url": null
+  },
+  {
+    "name": "Mueang Sing Historical Park",
+    "lat": 14.0388411,
+    "lon": 99.2435012,
+    "imageURL": null,
+    "description": "Mueang Sing is a historical park in Sai Yok District, Kanchanaburi Province, Thailand. It protects the remains of two Khmer temples dating to the 13th and 14th centuries.",
+    "info": null,
+    "categories": ["archaeological", "historic", "religious"],
+    "url": null
+  },
+  {
+    "name": "Wat Ban Tham",
+    "lat": 13.9706566,
+    "lon": 99.5783176,
+    "imageURL": null,
+    "description": "A unique cave temple complex featuring a giant golden Buddha statue and intricate Buddhist shrines inside natural limestone caves. The floating nun meditation is a popular attraction.",
+    "info": null,
+    "categories": ["religious", "quirky", "nature"],
+    "url": null
+  },
+  {
+    "name": "Pakprak Heritage Street",
+    "lat": 14.022853,
+    "lon": 99.528215,
+    "imageURL": null,
+    "description": "Displaying and often blending elements of Chinese, European and Thai styles, more than 20 heritage buildings feature information boards detailing some of the history along Pak Prak Road in the heart of Kanchanaburi.",
+    "info": null,
+    "categories": ["historic", "architecture", "neighborhood"],
+    "url": null
+  },
+  {
+    "name": "Chaloem Rattanakosin National Park",
+    "lat": 14.6619625,
+    "lon": 99.3122969,
+    "imageURL": null,
+    "description": "The park, featuring mountains, caves and waterfalls, is part of the Western Forest Complex protected area.",
+    "info": null,
+    "categories": ["nps", "nature", "hiking", "viewpoint"],
+    "url": null
+  }
+]
