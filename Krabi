@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Ko Phi Phi Lee",
+    "lat": 7.6804638,
+    "lon": 98.7687699000001,
+    "imageURL": null,
+    "description": "The stunning uninhabited island made famous by the movie 'The Beach'. Maya Bay's turquoise waters and towering limestone cliffs create one of Thailand's most iconic landscapes.",
+    "info": null,
+    "categories": ["beaches", "nature", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "หน่วยพิทักษ์เกาะรอก (Ko Rok Islands)",
+    "lat": 7.2178573,
+    "lon": 99.0668843999999,
+    "imageURL": null,
+    "description": "A pristine marine national park featuring crystal-clear waters, vibrant coral reefs, and powdery white sand beaches. Perfect for snorkeling and diving with abundant tropical fish.",
+    "info": null,
+    "categories": ["beaches", "nature", "nps", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Morakot Cave (Emerald Cave)",
+    "lat": 7.369089,
+    "lon": 99.2837460000001,
+    "imageURL": null,
+    "description": "Swim through a pitch-black 80-meter limestone tunnel to discover a hidden lagoon surrounded by towering cliffs and lush jungle. One of Thailand's most magical natural wonders.",
+    "info": null,
+    "categories": ["nature", "beaches", "quirky", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Ko Muk",
+    "lat": 7.370857,
+    "lon": 99.2979640999999,
+    "imageURL": null,
+    "description": "A peaceful island known for its laid-back atmosphere, local fishing villages, and the famous Emerald Cave. Less developed than other Andaman islands, offering authentic Thai island life.",
+    "info": null,
+    "categories": ["beaches", "nature", "towns"],
+    "url": null
+  },
+  {
+    "name": "Chicken Island (Koh Poda Nok)",
+    "lat": 7.953495,
+    "lon": 98.8070310000001,
+    "imageURL": null,
+    "description": "A distinctive rock formation resembling a chicken's head rising from the sea. Popular day-trip destination with excellent snorkeling and a sandbar connecting to nearby Tup Island at low tide.",
+    "info": null,
+    "categories": ["beaches", "nature", "quirky", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Tup Island",
+    "lat": 7.9607852,
+    "lon": 98.8120551,
+    "imageURL": null,
+    "description": "Famous for its stunning sandbar that appears at low tide, creating a natural walkway between islands. Crystal-clear waters and excellent snorkeling make this a must-visit spot.",
+    "info": null,
+    "categories": ["beaches", "nature", "quirky", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Khao Sok National Park",
+    "lat": 8.9154549,
+    "lon": 98.5284041,
+    "imageURL": null,
+    "description": "Ancient rainforest covering 739 square kilometers, featuring towering limestone karsts, the stunning Cheow Lan Lake, and incredible biodiversity including wild elephants, gibbons, and rare hornbills.",
+    "info": null,
+    "categories": ["nps", "nature", "hiking", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Ao Nang",
+    "lat": 8.0414921,
+    "lon": 98.8366162,
+    "imageURL": null,
+    "description": "mass tourism holiday resort town",
+    "info": null,
+    "categories": ["beaches", "neighborhood", "food", "shopping"],
+    "url": null
+  },
+  {
+    "name": "Wat Tham Suea",
+    "lat": 8.1239259,
+    "lon": 98.925131,
+    "imageURL": null,
+    "description": "steep trek to tiger cave temple",
+    "info": null,
+    "categories": ["religious", "hiking", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "Railay Beach",
+    "lat": 8.011711,
+    "lon": 98.837776,
+    "imageURL": null,
+    "description": "A peninsula paradise accessible only by boat, world-renowned for rock climbing on towering limestone cliffs. Four stunning beaches, crystal-clear waters, and a laid-back vibe make this one of Thailand's most beautiful destinations.",
+    "info": null,
+    "categories": ["beaches", "sports", "viewpoint", "hiking"],
+    "url": null
+  },
+  {
+    "name": "Phra nang Cave Beach",
+    "lat": 8.0059287,
+    "lon": 98.8374807,
+    "imageURL": null,
+    "description": "Arguably Thailand's most beautiful beach, featuring powdery sand, turquoise waters, and dramatic limestone cliffs. The sacred princess cave shrine is adorned with offerings and surrounded by climbing routes.",
+    "info": null,
+    "categories": ["beaches", "religious", "nature", "sports"],
+    "url": null
+  },
+  {
+    "name": "Ko Rang Nok",
+    "lat": 8.0044444,
+    "lon": 98.8347222,
+    "imageURL": null,
+    "description": "The uninhabited karst island of Ko Rang Non juts out above the blue and provides a very photogenic backdrop. It's possible to walk across to it from the beach at low tide (beware the sharp rocks), or swim if you're confident in your abilities. However, a more popular option is to rent a kayak to visit it and navigate the rest of Railay. Sunsets are also meant to be pretty dramatic on this side.",
+    "info": null,
+    "categories": ["beaches", "viewpoint", "recreation"],
+    "url": null
+  },
+  {
+    "name": "Emerald Lagoon Railay hike",
+    "lat": 8.0048365,
+    "lon": 98.8423681,
+    "imageURL": null,
+    "description": "More like a combination of canyoning, scrambling, and rock climbing, the route down to the lagoon involves a series steep rope descents over sharp rocks, slick muddy terrain, and is a bit more of a challenge than many will wish for on their paradise beach day trip!",
+    "info": null,
+    "categories": ["hiking", "nature", "sports", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "NongJoke Restaurant",
+    "lat": 8.0504182,
+    "lon": 98.9165851,
+    "imageURL": null,
+    "description": "A beloved local restaurant serving authentic Southern Thai cuisine in a casual, family-run setting. Known for fresh seafood and traditional Krabi dishes at reasonable prices.",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "Huay To Waterfall",
+    "lat": 8.2378119,
+    "lon": 98.9187832,
+    "imageURL": null,
+    "description": "A refreshing multi-tiered waterfall cascading through the jungle, perfect for swimming in natural pools. Less crowded than other waterfalls in Krabi, offering a peaceful escape into nature.",
+    "info": null,
+    "categories": ["nature", "hiking", "recreation"],
+    "url": null
+  }
+]
