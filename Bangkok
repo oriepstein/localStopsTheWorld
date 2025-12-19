@@ -550,5 +550,1029 @@
       "food"
     ],
     "url": null
+  },
+  {
+    "name": "PAPAYA Design Furniture & Studio",
+    "lat": 13.7942132,
+    "lon": 100.5974021,
+    "imageURL": null,
+    "description": "Vintage furniture and art share space with all manner of collectibles at this quirky shop in Bangkok.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Mahabut (Mae Nak, Phra Khanong)",
+    "lat": 13.7148723,
+    "lon": 100.606661,
+    "imageURL": null,
+    "description": "A shrine honoring a legendary ghost bride lies within this vibrant temple.",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Siam Paragon",
+    "lat": 13.7462411,
+    "lon": 100.5347402,
+    "imageURL": null,
+    "description": "Siam Paragon in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The shrine of goddess Tabtim",
+    "lat": 13.7482406,
+    "lon": 100.5464975,
+    "imageURL": null,
+    "description": "The shrine of goddess Tabtim in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Nai Lert Park Heritage Home",
+    "lat": 13.7466044,
+    "lon": 100.5462675,
+    "imageURL": null,
+    "description": "Nai Lert Park Heritage Home in Bangkok",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Jim Thompson House Museum",
+    "lat": 13.7493205,
+    "lon": 100.5282095,
+    "imageURL": null,
+    "description": "Jim Thompson House Museum in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Democracy Monument",
+    "lat": 13.7567046,
+    "lon": 100.5018897,
+    "imageURL": null,
+    "description": "Bangkok celebrated its shifting monarchy with a militaristic homage to democracy.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "MBK Center",
+    "lat": 13.7447109,
+    "lon": 100.5299944,
+    "imageURL": null,
+    "description": "MBK Center in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Nightingale-Olympic",
+    "lat": 13.7454408,
+    "lon": 100.4992442,
+    "imageURL": null,
+    "description": "Time-frozen department store of dangerous and dusty relics.",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Giant Swing",
+    "lat": 13.7518078,
+    "lon": 100.5012832,
+    "imageURL": null,
+    "description": "For centuries young Thai men used this Giant Swing as a slingshot to heaven.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Sam Phran",
+    "lat": 13.7353954,
+    "lon": 100.2154421,
+    "imageURL": null,
+    "description": "Wat Sam Phran in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Phra Pathom Chedi",
+    "lat": 13.8197278,
+    "lon": 100.060057,
+    "imageURL": null,
+    "description": "Phra Pathom Chedi in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "New Lumpinee Boxing Stadium",
+    "lat": 13.8670502,
+    "lon": 100.6087762,
+    "imageURL": null,
+    "description": "New Lumpinee Boxing Stadium in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Rajadamnern Boxing Stadium",
+    "lat": 13.7610311,
+    "lon": 100.5087911,
+    "imageURL": null,
+    "description": "Rajadamnern Boxing Stadium in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Phai Rong Wua",
+    "lat": 14.1598838,
+    "lon": 100.1604944,
+    "imageURL": null,
+    "description": "Wat Phai Rong Wua in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Studio Nino Sarabutra",
+    "lat": 13.8065997,
+    "lon": 100.646874,
+    "imageURL": null,
+    "description": "Studio Nino Sarabutra in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Jam Factory",
+    "lat": 13.7293698,
+    "lon": 100.5100673,
+    "imageURL": null,
+    "description": "The Jam Factory in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Chatuchak Market",
+    "lat": 13.8011905,
+    "lon": 100.5520222,
+    "imageURL": null,
+    "description": "Chatuchak Market in Bangkok",
+    "info": null,
+    "categories": [
+      "market"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Suthat Thepwararam Ratchaworahawihan",
+    "lat": 13.751068,
+    "lon": 100.5010391,
+    "imageURL": null,
+    "description": "Despite being one of Bangkok’s most historically significant temples, Wat Suthat remains oddly overlooked. Its ordination hall is among the city’s grandest, filled with detailed murals that seem to stretch endlessly and centred on a massive bronze Buddha brought from Sukhothai. The atmosphere inside is solemn, spiritual, and timeless. Early in the morning, the sound of monks chanting fills the air, a moving experience for any visitor. Step outside, and you find the Giant Swing, once used in daring Brahmin ceremonies. Young men would swing to dizzying heights, attempting to catch a bag of coins suspended from a pole, a ritual now banned for safety but still remembered in Bangkok lore.",
+    "info": null,
+    "categories": [
+      "religious",
+      "art",
+      "historic",
+      "viewpoint"
+    ],
+    "url": null
+  },
+  {
+    "name": "Ko Kret",
+    "lat": 13.9114455,
+    "lon": 100.4761897,
+    "imageURL": null,
+    "description": "Ko Kret in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sri Nakhon Khuean Khan Park and Botanical Garden",
+    "lat": 13.6969043,
+    "lon": 100.5643836,
+    "imageURL": null,
+    "description": "\"Bangkok's Green Lung,\" a large park on an island, feels worlds away from traffic-choked Sukhumvit Road.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Ratchanatdaram Worawihan (Loha Prasat)",
+    "lat": 13.7548169,
+    "lon": 100.5041554,
+    "imageURL": null,
+    "description": "Wat Ratchanatdaram Worawihan (Loha Prasat) in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sri Maha Mariamman Temple",
+    "lat": 13.7242482,
+    "lon": 100.5229171,
+    "imageURL": null,
+    "description": "Sri Maha Mariamman Temple in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Bangkok Art and Culture Centre",
+    "lat": 13.7467249,
+    "lon": 100.5301588,
+    "imageURL": null,
+    "description": "Bangkok Art and Culture Centre in Bangkok",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "National Museum Bangkok",
+    "lat": 13.7575132,
+    "lon": 100.4925344,
+    "imageURL": null,
+    "description": "National Museum Bangkok in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Calypso Cabaret",
+    "lat": 13.7039688,
+    "lon": 100.5036413,
+    "imageURL": null,
+    "description": "Calypso Cabaret in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Red Boardwalk Bridge",
+    "lat": 13.4874599,
+    "lon": 100.3627096,
+    "imageURL": null,
+    "description": "Red Boardwalk Bridge in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Phra Samut Chedi",
+    "lat": 13.6004709,
+    "lon": 100.5849115,
+    "imageURL": null,
+    "description": "Wat Phra Samut Chedi in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Ancient City",
+    "lat": 13.540073,
+    "lon": 100.623031,
+    "imageURL": null,
+    "description": "Ancient City in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "ถนน เยาวราช",
+    "lat": 13.7373927,
+    "lon": 100.5129381,
+    "imageURL": null,
+    "description": "ถนน เยาวราช in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Local Museum of Bangkok Thon Buri",
+    "lat": 13.7364502,
+    "lon": 100.4959118,
+    "imageURL": null,
+    "description": "Local Museum of Bangkok Thon Buri in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "The So Heng Tai Mansion",
+    "lat": 13.7336292,
+    "lon": 100.5120163,
+    "imageURL": null,
+    "description": "This heritage mansion is an architectural marvel in Bangkok and a timeless embodiment of cultural heritage.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Tropic City",
+    "lat": 13.7306835,
+    "lon": 100.5153099,
+    "imageURL": null,
+    "description": "Tropic City in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Khlong Ong Ang (Ong Ang Canal)",
+    "lat": 13.7466252,
+    "lon": 100.5037437,
+    "imageURL": null,
+    "description": "Khlong Ong Ang (Ong Ang Canal) in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Chao Phraya Skypark",
+    "lat": 13.7396072,
+    "lon": 100.4990167,
+    "imageURL": null,
+    "description": "Bangkok's take on the High Line is a park on a traffic bridge above the iconic Chao Phraya River.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Museum Siam",
+    "lat": 13.744147,
+    "lon": 100.494137,
+    "imageURL": null,
+    "description": "Museum Siam in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "LHONG 1919",
+    "lat": 13.7343611,
+    "lon": 100.5076162,
+    "imageURL": null,
+    "description": "LHONG 1919 in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Bangkok Art and Culture Centre",
+    "lat": 13.7467249,
+    "lon": 100.5301588,
+    "imageURL": null,
+    "description": "Bangkok Art and Culture Centre in Bangkok",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Pariwat Ratchasongkram",
+    "lat": 13.6737121,
+    "lon": 100.5331924,
+    "imageURL": null,
+    "description": "Wat Pariwat Ratchasongkram in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Kope Hya Tai Kee",
+    "lat": 13.753171,
+    "lon": 100.502257,
+    "imageURL": null,
+    "description": "Kope Hya Tai Kee in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Jack's Bar",
+    "lat": 13.7223976,
+    "lon": 100.5135821,
+    "imageURL": null,
+    "description": "Jack's Bar in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Authors' Lounge",
+    "lat": 13.7240523,
+    "lon": 100.514224,
+    "imageURL": null,
+    "description": "Authors' Lounge in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sabai Jai Gai Yang",
+    "lat": 13.7198994,
+    "lon": 100.604025,
+    "imageURL": null,
+    "description": "Sabai Jai Gai Yang in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Channel 7 Boxing Stadium",
+    "lat": 13.8031669,
+    "lon": 100.5569078,
+    "imageURL": null,
+    "description": "Channel 7 Boxing Stadium in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Lumphini Park",
+    "lat": 13.7314029,
+    "lon": 100.5414396,
+    "imageURL": null,
+    "description": "Lumphini Park in Bangkok",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Dhammakaya Temple",
+    "lat": 14.0673081,
+    "lon": 100.6474858,
+    "imageURL": null,
+    "description": "Dhammakaya Temple in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Golden Jubilee Museum of Agriculture",
+    "lat": 14.1188285,
+    "lon": 100.6193584,
+    "imageURL": null,
+    "description": "The Golden Jubilee Museum of Agriculture in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat San Chao Market",
+    "lat": 14.0029001,
+    "lon": 100.5411663,
+    "imageURL": null,
+    "description": "Wat San Chao Market in Bangkok",
+    "info": null,
+    "categories": [
+      "religious",
+      "market"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Artist's House",
+    "lat": 13.7312977,
+    "lon": 100.4632778,
+    "imageURL": null,
+    "description": "The Artist's House in Bangkok",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Rung Rueang, Pork Noodles",
+    "lat": 13.7284371,
+    "lon": 100.5706724,
+    "imageURL": null,
+    "description": "The porky tom yum soup at this Sukhumvit Road institution has a cult following.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Nai Ek Roll Noodle",
+    "lat": 13.7401837,
+    "lon": 100.5099661,
+    "imageURL": null,
+    "description": "This old-timey Chinatown institution specializes in one of the city’s best Thai-Chinese fusion dishes.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "TEP BAR - Cultural Bar of Thailand",
+    "lat": 13.7396749,
+    "lon": 100.5144313,
+    "imageURL": null,
+    "description": "Sidle up for this Chinatown watering hole for Thai moonshine accompanied by traditional live tunes.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Suthiwararam Temple",
+    "lat": 13.7124649,
+    "lon": 100.5130812,
+    "imageURL": null,
+    "description": "Displaying religious art made almost exclusively in modern styles helps set this Buddhist temple apart from the myriad others in Bangkok.",
+    "info": null,
+    "categories": [
+      "religious",
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Charmgang",
+    "lat": 13.7327791,
+    "lon": 100.515087,
+    "imageURL": null,
+    "description": "This neon-lit back-alley spot deals in good vibes and curries that pack a punch.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Haoma Bangkok",
+    "lat": 13.7430038,
+    "lon": 100.5676651,
+    "imageURL": null,
+    "description": "An on-site urban farm and fish pond supply some of the produce for this upscale restaurant.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wattana Panich",
+    "lat": 13.7341825,
+    "lon": 100.5876467,
+    "imageURL": null,
+    "description": "At a Bangkok bistro, one pot of beef stew has been cooking non-stop for more than 45 years.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Mahachulalongkornrajavidyalaya University",
+    "lat": 14.1913916,
+    "lon": 100.6345306,
+    "imageURL": null,
+    "description": "Buddhist university that allows English-language speakers the opportunity to study with monks in Thailand.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Erawan Museum",
+    "lat": 13.6285625,
+    "lon": 100.5889375,
+    "imageURL": null,
+    "description": "The elephant is the largest free-standing statue in the country! The three-headed elephant stands atop an elegant pink building with a lavish, jeweled staircase inside. The museum is full of antiquities and Thai cultural objects, as well as a serene and colorful atmosphere. The bottom floor is supposed to represent the underworld, the second floor the earth, and the top – heaven, shown by the world map and zodiac symbols on the stained glass ceiling. The inside of the elephant is even home to a colorful, artistic temple housing ancient Buddhist relics, which you reach by climbing inside one of the elephant’s legs. It doesn’t stop there, however. The whole space of the museum is stunning, with manicured gardens, running water, and bedazzled creatures. There’s even ethereal music playing over the speakers as well as colorful elephants over the walking tracks that make a sound when you pass by. Make an offering to different hindu gods at smaller temples as you walk around, or enjoy the space that seems miles from civilization.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Bangkok City Pillar Shrine",
+    "lat": 13.7525651,
+    "lon": 100.4940402,
+    "imageURL": null,
+    "description": "The pillars inside this small, ornate shrine hold Bangkok's horoscope within them.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Pig Memorial",
+    "lat": 13.7498718,
+    "lon": 100.4962242,
+    "imageURL": null,
+    "description": "This ambiguous pig shrine is actually a monument to a beloved queen",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "K. Panich Sticky Rice",
+    "lat": 13.7520958,
+    "lon": 100.4983613,
+    "imageURL": null,
+    "description": "Visit a century-old sweet shop serving gold-standard mango sticky rice.",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Coin Museum",
+    "lat": 13.7590235,
+    "lon": 100.4947399,
+    "imageURL": null,
+    "description": "Chronicling the history of Thailand’s unique currencies, from the silver “bullet money” to porcelain gambling tokens of various shapes.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "quirky"
+    ],
+    "url": null
+  },
+  {
+    "name": "Soi Ban Bat - Monk's Bowl Village",
+    "lat": 13.7512657,
+    "lon": 100.5070392,
+    "imageURL": null,
+    "description": "Tucked into narrow lanes near the Golden Mount lies Baan Bat, a community that has kept alive the centuries-old craft of making alms bowls for monks. Each bowl begins as strips of steel or brass, hammered and welded together, then polished until gleaming. The rhythm of the hammering echoes through the alleyways, a living soundtrack of tradition. What makes Baan Bat remarkable is its endurance. As mass-produced bowls have flooded the market, many villages have abandoned the painstaking work. Here, families have continued, passing the skill from one generation to the next. Travellers can watch artisans at work, speak with them about the process, and even purchase a bowl as a meaningful souvenir. Location: Soi Baan Bat, off Bamrung Mueang Road. Access: From BTS Ratchathewi, take a tuk-tuk or taxi, around 10 minutes. Opening Hours: 0900 to 1700, Monday to Saturday. Traveller Tip: Visit mid-morning when artisans are most active. Buying a bowl directly supports the families and preserves the tradition.",
+    "info": null,
+    "categories": [
+      "art",
+      "historic",
+      "quirky"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Sommanat Ratchaworawihan",
+    "lat": 13.7606427,
+    "lon": 100.5105183,
+    "imageURL": null,
+    "description": "Wat Sommanat Ratchaworawihan in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "The Ancient City",
+    "lat": 13.5386026,
+    "lon": 100.6225741,
+    "imageURL": null,
+    "description": "open air museum",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Chana Songkhram Ratchaworamahawihan",
+    "lat": 13.7603838,
+    "lon": 100.4955741,
+    "imageURL": null,
+    "description": "Wat Chana Songkhram Ratchaworamahawihan in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Museum of Contemporary Art (MOCA BANGKOK)",
+    "lat": 13.8523198,
+    "lon": 100.5630092,
+    "imageURL": null,
+    "description": "Museum of Contemporary Art (MOCA BANGKOK) in Bangkok",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Bangkok Local Museum Phra Nakorn District",
+    "lat": 13.764146,
+    "lon": 100.4990666,
+    "imageURL": null,
+    "description": "small free museum",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Art Centre, Silpakorn University",
+    "lat": 13.752794,
+    "lon": 100.4899753,
+    "imageURL": null,
+    "description": "contemporary art gallery",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Royal Thai Air Force and National Aviation Museum",
+    "lat": 13.9197513,
+    "lon": 100.6219748,
+    "imageURL": null,
+    "description": "Royal Thai Air Force and National Aviation Museum in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "ICONSIAM",
+    "lat": 13.7264814,
+    "lon": 100.509947,
+    "imageURL": null,
+    "description": "grand mall",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sri Trat Restaurant and Bar",
+    "lat": 13.7368037,
+    "lon": 100.5680964,
+    "imageURL": null,
+    "description": "pork curry",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null
+  },
+  {
+    "name": "Sai Suddha Nobhadol Building",
+    "lat": 13.7752147,
+    "lon": 100.5079064,
+    "imageURL": null,
+    "description": "mansion museum",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Phaya Thai Palace",
+    "lat": 13.7686261,
+    "lon": 100.5329005,
+    "imageURL": null,
+    "description": "palace only open sat & sun",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark",
+      "historic"
+    ],
+    "url": null
+  },
+  {
+    "name": "Museum Siam",
+    "lat": 13.744147,
+    "lon": 100.494137,
+    "imageURL": null,
+    "description": "Museum Siam in Bangkok",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null
+  },
+  {
+    "name": "Benchakitti Park",
+    "lat": 13.7292483,
+    "lon": 100.5585653,
+    "imageURL": null,
+    "description": "Benchakitti Park in Bangkok",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null
+  },
+  {
+    "name": "Talat Noi",
+    "lat": 13.7346704,
+    "lon": 100.5134411,
+    "imageURL": null,
+    "description": "one of bangkok's coolest neighborhoods",
+    "info": null,
+    "categories": [
+      "neighborhood"
+    ],
+    "url": null
+  },
+  {
+    "name": "Antique Turtle car",
+    "lat": 13.7339244,
+    "lon": 100.512055,
+    "imageURL": null,
+    "description": "Antique Turtle car in Bangkok",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null
+  },
+  {
+    "name": "Santa Cruz Church",
+    "lat": 13.7391169,
+    "lon": 100.4938326,
+    "imageURL": null,
+    "description": "Santa Cruz Church in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Siri Guru Singh Sabha Gurdwara",
+    "lat": 13.7437345,
+    "lon": 100.5015825,
+    "imageURL": null,
+    "description": "Siri Guru Singh Sabha Gurdwara in Bangkok",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Kamphaeng Bangchak",
+    "lat": 13.730167,
+    "lon": 100.4632946,
+    "imageURL": null,
+    "description": "AI - A hidden temple complex with exceptional murals and virtually zero visitors. The bot (ordination hall) contains beautiful Rattanakosin-era paintings. Peaceful, authentic, overlooked.",
+    "info": null,
+    "categories": [
+      "religious",
+      "art",
+      "quirky",
+      "viewpoint"
+    ],
+    "url": null
+  },
+  {
+    "name": "Wat Suwannaram Ratchaworawihan",
+    "lat": 13.7633017,
+    "lon": 100.4768254,
+    "imageURL": null,
+    "description": "AI An often-empty royal temple with exceptional Rattanakosin-period murals depicting Thai life, hell realms, and Buddhist cosmology. The artistry is museum-quality, but you'll likely be alone. The bot's interior paintings are among Bangkok's finest.",
+    "info": null,
+    "categories": [
+      "religious",
+      "art"
+    ],
+    "url": null
+  },
+  {
+    "name": "Taling Chan Floating Market",
+    "lat": 13.7762674,
+    "lon": 100.4565979,
+    "imageURL": null,
+    "description": "Taling Chan Floating Market",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": null
   }
 ]
