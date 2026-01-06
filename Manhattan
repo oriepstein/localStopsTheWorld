@@ -5697,17 +5697,6 @@
     "url": null
   },
   {
-    "name": "Bluestockings Cooperative Bookstore",
-    "lat": 40.7189325,
-    "lon": -73.9859184,
-    "icon": null,
-    "imageURL": null,
-    "description": "New York City's only radical feminist independent bookstore and community space",
-    "info": null,
-    "categories": ["bookstore"],
-    "url": "https://bluestockings.com/"
-  },
-  {
     "name": "New Museum",
     "lat": 40.7223376,
     "lon": -73.9928905,
