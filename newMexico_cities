@@ -1,22 +1,10 @@
 [
   {
     "name": "Santa Fe",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Bangkok"
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/SantaFe"
   },
   {
-    "name": "Phuket",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Phuket"
-  },
-  {
-    "name": "Krabi",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Krabi"
-  },
-  {
-    "name": "Kanchanaburi",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Kanchanaburi"
-  },
-  {
-    "name": "Chiang Mai",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/ChiangMai.json"
+    "name": "Albuquerque",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Albuquerque"
   }
 ]
