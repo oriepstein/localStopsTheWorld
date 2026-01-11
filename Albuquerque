@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Telephone Museum of New Mexico",
+    "lat": 35.0851098,
+    "lon": -106.6514026,
+    "imageURL": null,
+    "description": "An ode to the history of telephones inside a telephone building.  ",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "quirky"]
+  },
+  {
+    "name": "New Mexico Steam Locomotive",
+    "lat": 35.103397,
+    "lon": -106.6547259,
+    "imageURL": null,
+    "description": "Volunteers spent years restoring a vintage steam locomotive to operating condition. ",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "Turquoise Museum",
+    "lat": 35.0807475,
+    "lon": -106.6497666,
+    "imageURL": null,
+    "description": "houses A 6,888-carat piece of turquoise that bears a striking resemblance to the first President of the United States.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "quirky"]
+  },
+  {
+    "name": "Auto Hawk Sculpture",
+    "lat": 35.0814518,
+    "lon": -106.6486281,
+    "imageURL": null,
+    "description": "A sculpture of a flying hawk made from colorful car doors. ",
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
+  },
+  {
+    "name": "Ernie Pyle Public Library",
+    "lat": 35.0702422,
+    "lon": -106.6131625,
+    "imageURL": null,
+    "description": "The home of famed war correspondent Ernie Pyle is now a library and museum dedicated to his memory.",
+    "info": null,
+    "url": null,
+    "categories": ["bookstore", "historic", "museum"]
+  },
+  {
+    "name": "Spaceship Ufo House",
+    "lat": 35.084873,
+    "lon": -106.6066896,
+    "imageURL": null,
+    "description": "It's easy to see why this eclectic architectural wonder has been dubbed the \"Spaceship House.\"",
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "architecture"]
+  },
+  {
+    "name": "Sandia National Laboratories",
+    "lat": 35.0606231,
+    "lon": -106.5349498,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["landmark"]
+  },
+  {
+    "name": "National Museum of Nuclear Science & History",
+    "lat": 35.0659855,
+    "lon": -106.5338919,
+    "imageURL": null,
+    "description": "The official atomic museum of the United States explores the explosive and productive history of a much maligned energy source. ",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "historic"]
+  },
+  {
+    "name": "The Center of the Universe",
+    "lat": 35.0841103,
+    "lon": -106.6220462,
+    "imageURL": null,
+    "description": "Apparently, the whole cosmos emanates from this plain concrete tower. ",
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "landmark"]
+  },
+  {
+    "name": "Kimo Theatre",
+    "lat": 35.0847734,
+    "lon": -106.6525825,
+    "imageURL": null,
+    "description": "This opulent Pueblo Deco movie palace melds Art Deco and Native American motifs. ",
+    "info": null,
+    "url": null,
+    "categories": ["theater", "historic", "architecture"]
+  },
+  {
+    "name": "Petroglyph National Monument",
+    "lat": 35.124381,
+    "lon": -106.7525097,
+    "imageURL": null,
+    "description": "Thousands of pieces of art have been carved into the rock at the site of an ancient volcanic eruption. ",
+    "info": null,
+    "url": null,
+    "categories": ["nps", "archaeological", "historic", "art"]
+  },
+  {
+    "name": "Pueblo Montaño Picnic Area and Trailhead",
+    "lat": 35.147886,
+    "lon": -106.6841742,
+    "imageURL": null,
+    "description": "When life gave this firefighter a forest fire, he made a rough-hewn sculpture park using a chainsaw. ",
+    "info": null,
+    "url": null,
+    "categories": ["art", "park", "hiking"]
+  },
+  {
+    "name": "Rattlesnake Museum & Gift Shop",
+    "lat": 35.0954181,
+    "lon": -106.6692678,
+    "imageURL": null,
+    "description": "A museum devoted entirely to the rattlesnakes and snake-related art. ",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "quirky"]
+  },
+  {
+    "name": "Indian Pueblo Kitchen",
+    "lat": 35.1107639,
+    "lon": -106.6585376,
+    "imageURL": null,
+    "description": "Eat like pre-Columbian Native Americans in this New Mexico restaurant within the Indian Pueblo Cultural Center. ",
+    "info": null,
+    "url": null,
+    "categories": ["food"]
+  },
+  {
+    "name": "Tinkertown Museum",
+    "lat": 35.1691237,
+    "lon": -106.3671434,
+    "imageURL": null,
+    "description": "\"I did this all while you were watching TV.\" ",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "quirky"]
+  },
+  {
+    "name": "TWA Flight 260",
+    "lat": 35.1949263,
+    "lon": -106.4426008,
+    "imageURL": null,
+    "description": "Deadly airliner crash preserved for those willing to climb and pay respects. The 3.5-mile trail to the site is a moderate-to-strenuous climb through the Cibola National Forest. Sections of the trail are difficult to follow, so a map or directions are recommended. A small creek flows along the trail route in some months.<br><br>Know Before You Go<br>From Elena Gallegos Open Space in Albuquerque, take the Domingo Baca/TWA Canyon trail up the mountain. ",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "hiking"]
+  },
+  {
+    "name": "Sandia Peak Tramway",
+    "lat": 35.1907104,
+    "lon": -106.479402,
+    "imageURL": null,
+    "description": "One of the world's longest aerial trams. The 15-minute ride up gives you the entire Rio Grande Valley spread below. At the top, you're at 10,378 feet with genuinely spectacular views. ",
+    "info": null,
+    "url": null,
+    "categories": ["viewpoint", "recreation"]
+  },
+  {
+    "name": "Albuquerque Museum",
+    "lat": 35.097595,
+    "lon": -106.668247,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["museum"]
+  },
+  {
+    "name": "Rio Grande Nature Center State Park",
+    "lat": 35.1304753,
+    "lon": -106.6828452,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
+  },
+  {
+    "name": "Indian Pueblo Cultural Center",
+    "lat": 35.1104409,
+    "lon": -106.6587547,
+    "imageURL": null,
+    "description": "ocated at the heart of nearly 80 acres of land owned by the 19 Pueblos and governed by the 19 Pueblos District (a sovereign government formed by the Tribal Councils of the 19 New Mexico Pueblo Communities) at the former location of the Albuquerque Indian School (1881-1982). The Center is comprised of museum and gallery space, a collection of murals and other Native arts and artifacts, a library, archives, an education department, a teaching kitchen/restaurant, and cultural programming and events – each celebrating the Pueblo culture of New Mexico.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
+  },
+  {
+    "name": "Old Town Plaza",
+    "lat": 35.09608,
+    "lon": -106.6699146,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["landmark", "historic", "neighborhood"]
+  },
+  {
+    "name": "Through the Flower Art Space",
+    "lat": 34.6594895,
+    "lon": -106.7691021,
+    "imageURL": null,
+    "description": "A home base for Judy Chicago, one of America's leading radical feminist artists.  ",
+    "info": null,
+    "url": null,
+    "categories": ["art", "museum"]
+  },
+  {
+    "name": "Saint Augustine Catholic Church, Isleta Pueblo",
+    "lat": 34.9089781,
+    "lon": -106.6933343,
+    "imageURL": null,
+    "description": "This centuries-old pueblo church houses the body of a Franciscan friar who is said to be a rare \"incorruptible\" corpse. ",
+    "info": null,
+    "url": null,
+    "categories": ["religious", "historic"]
+  },
+  {
+    "name": "Los Poblanos Historic Inn & Organic Farm",
+    "lat": 35.1475317,
+    "lon": -106.6650973,
+    "imageURL": null,
+    "description": "AI: 1930s John Gaw Meem designed ranch; working lavender farm, organic fields, stunning architecture<br>You don't need to stay—visit the farm shop, walk the grounds, dine at Campo (reservation needed)<br>Context: Exemplifies New Mexico Territorial Revival architecture and the acequia (irrigation ditch) system brought by Spanish settlers",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "nature", "architecture"]
+  },
+  {
+    "name": "National Hispanic Cultural Center",
+    "lat": 35.0682068,
+    "lon": -106.6556455,
+    "imageURL": null,
+    "description": "AI: Undervisited gem with rotating art exhibits, genealogy center, Roy E. Disney Center for Performing Arts<br>The Torreon fresco by Frederico Vigil is astounding<br>Context: Barelas is one of Albuquerque's oldest neighborhoods, settled in the 1660s",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "theater"]
+  },
+  {
+    "name": "Maxwell Museum of Anthropology",
+    "lat": 35.0849754,
+    "lon": -106.6250756,
+    "imageURL": null,
+    "description": "AI: Free, excellent Southwest archaeological collections",
+    "info": null,
+    "url": null,
+    "categories": ["museum"]
+  },
+  {
+    "name": "Tingley Beach",
+    "lat": 35.085512,
+    "lon": -106.6735525,
+    "imageURL": null,
+    "description": "AI: Quiet lakes in the bosque (riverside forest), rent kayaks, bike the trails",
+    "info": null,
+    "url": null,
+    "categories": ["recreation", "nature", "park"]
+  }
+]
