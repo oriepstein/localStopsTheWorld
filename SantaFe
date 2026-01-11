@@ -1,0 +1,332 @@
+[
+  {
+    "name": "New Mexico Heritage Arts Museum",
+    "lat": 35.6660204,
+    "lon": -105.9241452,
+    "imageURL": null,
+    "description": "This century-old museum showcases New Mexico's history through arts and crafts.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art", "historic"]
+  },
+  {
+    "name": "Santa Fe Botanical Garden",
+    "lat": 35.6656347,
+    "lon": -105.9270284,
+    "imageURL": null,
+    "description": "This high desert botanical garden is a unique display of New Mexico's ecology and culture.",
+    "info": null,
+    "url": null,
+    "categories": ["nature", "park"]
+  },
+  {
+    "name": "Museum of International Folk Art",
+    "lat": 35.6640586,
+    "lon": -105.9265002,
+    "imageURL": null,
+    "description": "A sprawling collection of over 106,000 toys from around the world.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
+  },
+  {
+    "name": "Wheelwright Museum of the American Indian",
+    "lat": 35.662755,
+    "lon": -105.927002,
+    "imageURL": null,
+    "description": "The country's largest collection of southwestern jewelry, along with contemporary Native American art.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
+  },
+  {
+    "name": "El Rancho de las Golondrinas",
+    "lat": 35.5742749,
+    "lon": -106.111647,
+    "imageURL": null,
+    "description": "Step back in time at an outdoor living history museum where New Mexico's cultural traditions come alive.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "museum"]
+  },
+  {
+    "name": "Sky Railway",
+    "lat": 35.6843447,
+    "lon": -105.9466481,
+    "imageURL": null,
+    "description": "The railroad turning train travel into a cinematic, highly immersive experience has a fascinating connection to Game of Thrones.",
+    "info": null,
+    "url": null,
+    "categories": ["quirky", "historic"]
+  },
+  {
+    "name": "The House at Otowi Bridge",
+    "lat": 35.8758438,
+    "lon": -106.1416836,
+    "imageURL": null,
+    "description": "This old ruin once served as a post office, a train station, a restaurant, and a bridge to the Atomic Age.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "landmark"]
+  },
+  {
+    "name": "Palace of the Governors at New Mexico History Museum",
+    "lat": 35.6878285,
+    "lon": -105.938226,
+    "imageURL": null,
+    "description": "The oldest continuously occupied public building in the United States.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "museum", "landmark"]
+  },
+  {
+    "name": "Pecos National Historical Park",
+    "lat": 35.5479603,
+    "lon": -105.6844245,
+    "imageURL": null,
+    "description": "Pecos is a natural and cultural crossroads through which hunters, gatherers, traders, missionaries, immigrants, soldiers, ranchers, and other travelers passed and lived. Follow in their footsteps and imagine Pecos through the centuries. Visit sites where cultural demonstrations and traditional practices continue today - a living legacy of the people who passed this way. At Pecos, past is present.",
+    "info": null,
+    "url": null,
+    "categories": ["nps", "historic", "archaeological"]
+  },
+  {
+    "name": "The Cathedral Basilica of St. Francis of Assisi",
+    "lat": 35.6866031,
+    "lon": -105.9364754,
+    "imageURL": null,
+    "description": "A small side chapel in Santa Fe's basilica is home to the oldest statute of the Virgin Mary in North America.",
+    "info": null,
+    "url": null,
+    "categories": ["religious", "historic", "architecture"]
+  },
+  {
+    "name": "Oldest House Museum",
+    "lat": 35.6836088,
+    "lon": -105.9373314,
+    "imageURL": null,
+    "description": "This southwest-styled home in Santa Fe claims to be the oldest house in America thanks to an ancient bit of foundation.",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "museum", "landmark"]
+  },
+  {
+    "name": "Santa Fe Reptile and Bug Museum",
+    "lat": 35.6107001,
+    "lon": -106.031829,
+    "imageURL": null,
+    "description": "Thousands of mounted insects, and some live ones, hide within an otherwise ordinary shopping mall.",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "quirky"]
+  },
+  {
+    "name": "Haiku Pathway",
+    "lat": 35.6053603,
+    "lon": -105.998085,
+    "imageURL": null,
+    "description": "A serene garden path lined with 36 haiku stamped into clay stones.",
+    "info": null,
+    "url": null,
+    "categories": ["nature", "art", "park"]
+  },
+  {
+    "name": "Loretto Chapel Museum",
+    "lat": 35.6856277,
+    "lon": -105.9374917,
+    "imageURL": null,
+    "description": "Wedding chapel's mysterious spiral staircase said to be miraculously constructed.",
+    "info": null,
+    "url": null,
+    "categories": ["religious", "historic", "quirky", "architecture"]
+  },
+  {
+    "name": "The Crow's Nest",
+    "lat": 35.6808578,
+    "lon": -105.938572,
+    "imageURL": null,
+    "description": "oddities store",
+    "info": null,
+    "url": null,
+    "categories": ["shopping", "quirky"]
+  },
+  {
+    "name": "Ethyl the Whale",
+    "lat": 35.6071608,
+    "lon": -105.9954607,
+    "imageURL": null,
+    "description": "Life-sized sculpture of a blue whale made of hand-recycled plastic trash.",
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
+  },
+  {
+    "name": "La Cieneguilla Petroglyphs",
+    "lat": 35.6046886,
+    "lon": -106.124064,
+    "imageURL": null,
+    "description": "These Pre-Columbian petroglyphs contain representations of birds, deer, hunters, and even some early Native flute players.",
+    "info": null,
+    "url": null,
+    "categories": ["archaeological", "historic", "art"]
+  },
+  {
+    "name": "Meow Wolf Santa Fe's House of Eternal Return",
+    "lat": 35.6547192,
+    "lon": -105.9965909,
+    "imageURL": null,
+    "description": "An immersive environment that is part haunted house, part choose-your-own-adventure, and part jungle gym.",
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky"]
+  },
+  {
+    "name": "SITE SANTA FE",
+    "lat": 35.6814624,
+    "lon": -105.9496077,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["art", "museum"]
+  },
+  {
+    "name": "Highgarden Entertainment",
+    "lat": 35.6849094,
+    "lon": -105.9466251,
+    "imageURL": null,
+    "description": "George RR Martin arts/culture center",
+    "info": null,
+    "url": null,
+    "categories": ["art", "quirky", "cinema"]
+  },
+  {
+    "name": "Canyon Road District",
+    "lat": 35.6820101,
+    "lon": -105.9288586,
+    "imageURL": null,
+    "description": "More than a Hundred Galleries, Boutiques, and Restaurants in One Half Mile",
+    "info": null,
+    "url": null,
+    "categories": ["art", "shopping", "neighborhood"]
+  },
+  {
+    "name": "Santa Fe Plaza",
+    "lat": 35.6874369,
+    "lon": -105.9385238,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["landmark", "historic", "neighborhood"]
+  },
+  {
+    "name": "Barrio de Analco Historic District",
+    "lat": 35.6836609,
+    "lon": -105.9379281,
+    "imageURL": null,
+    "description": "Historic district including the oldest house in the state of New Mexico, and the oldest Catholic church in the continental United States",
+    "info": null,
+    "url": null,
+    "categories": ["historic", "neighborhood", "landmark"]
+  },
+  {
+    "name": "Fort Union National Monument",
+    "lat": 35.904966,
+    "lon": -105.0113797,
+    "imageURL": null,
+    "description": "Exposed to the wind, within a sweeping valley of short grass prairie, and along the eroded Santa Fe Trail, lie the adobe walled ruins of the largest 19th century military fort in the region. From 1851 to 1891, Fort Union functioned as an agent of change, desired or not, in the New Mexico Territory and throughout the Southwest.",
+    "info": null,
+    "url": null,
+    "categories": ["nps", "historic", "landmark"]
+  },
+  {
+    "name": "Bandelier National Monument",
+    "lat": 35.7875796,
+    "lon": -106.3301132,
+    "imageURL": null,
+    "description": "Bandelier National Monument protects over 33,000 acres of ruggedly beautiful canyon and mesa country. Petroglyphs, dwellings carved into the soft rock cliffs, and standing masonry walls pay tribute to the early days of a culture that still survives in the surrounding communities",
+    "info": null,
+    "url": null,
+    "categories": ["nps", "archaeological", "historic", "hiking"]
+  },
+  {
+    "name": "Museum of Indian Arts & Culture",
+    "lat": 35.6649182,
+    "lon": -105.9249207,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
+  },
+  {
+    "name": "The Rainbow Man",
+    "lat": 35.6875348,
+    "lon": -105.9372513,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["art", "landmark"]
+  },
+  {
+    "name": "Kakawa Chocolate House",
+    "lat": 35.681666,
+    "lon": -105.934625,
+    "imageURL": null,
+    "description": "It functions as a \"chocolate anthropology\" center, specializing in the re-creation of historical drinking chocolate elixirs from around the world.",
+    "info": null,
+    "url": null,
+    "categories": ["food", "cafe"]
+  },
+  {
+    "name": "Tia Sophia's",
+    "lat": 35.6874265,
+    "lon": -105.9410184,
+    "imageURL": null,
+    "description": "breakfast burritos",
+    "info": null,
+    "url": null,
+    "categories": ["food"]
+  },
+  {
+    "name": "Santa Fe Railyard Arts District",
+    "lat": 35.6822356,
+    "lon": -105.948426,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["art", "neighborhood", "market"]
+  },
+  {
+    "name": "San Miguel Chapel",
+    "lat": 35.6835081,
+    "lon": -105.9376984,
+    "imageURL": null,
+    "description": "oldest church in the US",
+    "info": null,
+    "url": null,
+    "categories": ["religious", "historic", "landmark"]
+  },
+  {
+    "name": "Cross of the Martyrs",
+    "lat": 35.6895016,
+    "lon": -105.9329236,
+    "imageURL": null,
+    "description": "Sweeping Santa Fe views from a hilltop park reached by a path lined with city history plaques.",
+    "info": null,
+    "url": null,
+    "categories": ["viewpoint", "historic", "landmark", "park"]
+  },
+  {
+    "name": "Georgia O'Keeffe Museum",
+    "lat": 35.6891517,
+    "lon": -105.9412918,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": ["museum", "art"]
+  }
+]
