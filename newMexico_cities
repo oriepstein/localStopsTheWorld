@@ -6,5 +6,9 @@
   {
     "name": "Albuquerque",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Albuquerque"
+  },
+  {
+    "name": "Downtown Manhattan",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json"
   }
 ]
