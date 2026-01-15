@@ -2,16 +2,16 @@
   {
     "name": "Santa Fe",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/SantaFe",
-"imageURL": "https://images.unsplash.com/photo-1731699579486-98fc30cbfb6a?w=600&h=400&fit=crop&q=80"
+    "imageURL": "https://images.unsplash.com/photo-1731699579486-98fc30cbfb6a?w=600&h=400&fit=crop&q=80"
   },
- {
-  "name": "Albuquerque",
-  "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Albuquerque",
-  "imageURL": "https://images.unsplash.com/photo-1507608443039-bfde4fbcd142?w=600&h=400&fit=crop&q=80"
-},
-{
-  "name": "Downtown Manhattan",
-  "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json",
-  "imageURL": "https://images.unsplash.com/photo--H75TefslbA?w=600&h=400&fit=crop&q=80"
-}
+  {
+    "name": "Albuquerque",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Albuquerque",
+    "imageURL": "https://images.unsplash.com/photo-1507608443039-bfde4fbcd142?w=600&h=400&fit=crop&q=80"
+  },
+  {
+    "name": "Downtown Manhattan",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json",
+    "imageURL": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=600&h=400&fit=crop&q=80"
+  }
 ]
