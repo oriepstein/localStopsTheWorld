@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Taos Art Museum at Fechin House",
+    "lat": 36.4104515,
+    "lon": -105.5694437,
+    "imageURL": null,
+    "description": "" In the early 1930s, Russian artist Nicolai Fechin designed his home in a fusion of Tartar, Spanish, and American Indian styles. His and other artists' paintings hang inside"",
+    "info": null,
+    "categories": ["museum", "art", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Mabel Dodge Luhan House",
+    "lat": 36.4085158,
+    "lon": -105.5648566,
+    "imageURL": null,
+    "description": ""This idiosyncratic home once hummed with artists drawn to Taos by a freethinking woman from New York City, birthing a thriving counterculture"",
+    "info": null,
+    "categories": ["historic", "art", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Taos Pueblo",
+    "lat": 36.438638,
+    "lon": -105.5444545,
+    "imageURL": null,
+    "description": "WHS - Taos Pueblo is a traditional settlement from the pre-Hispanic period, that has been in continuous use until now.The walled village consists of two five-storey adobe structures, kivas (underground ceremonial chambers), ruins of previous structures and a present-day Catholic church. It gives testimony to the culture of Pueblo Indians, that developed around 1400 after the disappearance of the Anasazi tribes in the region.Community Perspective: an entrance fee is levied and many places in town are restricted areas, but most visitors find it an interesting experience. Joining a local tour and the bakery come recommended. Be aware that the pueblo can 'close' on short notice due to a funeral for example.",
+    "info": null,
+    "categories": ["unesco", "historic", "religious", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Tiwa Kitchen",
+    "lat": 36.4352851,
+    "lon": -105.5534163,
+    "imageURL": null,
+    "description": "Taos Pueblo recipes, foraged ingredients, and outdoor ovens define the menu at this eatery.",
+    "info": null,
+    "categories": ["food"],
+    "url": null
+  },
+  {
+    "name": "D H Lawrence Ranch University of New Mexico Historical Marker",
+    "lat": 36.5832017,
+    "lon": -105.5947335,
+    "imageURL": null,
+    "description": "The purpose of the Ranch Initiatives is to preserve the legacy of novelist D.H. Lawrence and his wife, Frieda Lawrence. Widely considered one of the most important writers of the twentieth century, the British novelist owned only one piece of property in his lifetime, a 160-acre ranch located some fifteen miles outside of Taos, New Mexico which was bequeathed to the University of New Mexico by Frieda Lawrence. Fundamental to the mission of the D. H. Lawrence Ranch Initiatives is preservation of the property and historic buildings.",
+    "info": null,
+    "categories": ["historic", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Hotel La Fonda de Taos",
+    "lat": 36.406918,
+    "lon": -105.5745736,
+    "imageURL": null,
+    "description": "D.H. Lawrence Forbidden ArtReproductions of nine banned oil paintings coyly hidden behind a curtain in a New Mexico conference room. To view the reproduction paintings and listen to a pre-recorded tour, youll need to pay the front-desk staff $5 per person. Depending on your timing, there could be a wait or the conference room could be in use, so consider calling ahead. Dont pull the curtain on your own",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": null
+  },
+  {
+    "name": "San Francisco de Asís Catholic Mission Church",
+    "lat": 36.3584534,
+    "lon": -105.6083796,
+    "imageURL": null,
+    "description": ""With its massive adobe buttresses and rich earthy glow, this 350-year-old Franciscan mission is one of the most recognizable in the world, thanks to its frequent depiction in paintings and photograph"",
+    "info": null,
+    "categories": ["religious", "historic", "architecture", "landmark"],
+    "url": null
+  },
+  {
+    "name": "Rio Grande Gorge Bridge",
+    "lat": 36.4762244,
+    "lon": -105.7330458,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["landmark", "viewpoint", "nature"],
+    "url": null
+  },
+  {
+    "name": "Las Trampas Historic District",
+    "lat": 36.1307836,
+    "lon": -105.7601588,
+    "imageURL": null,
+    "description": "AI: A genuine hidden gem that most tourists skip. This entire village, founded in 1751 by twelve Spanish families, feels frozen in time. The San José de Gracia Church here is stunning—less famous than its Ranchos de Taos cousin but equally beautiful and far more atmospheric without the tour buses. The surrounding village maintains an authentic, lived-in quality that you wont find in more touristy spots. Feels like stumbling into the 18th century.",
+    "info": null,
+    "categories": ["historic", "religious", "architecture", "towns"],
+    "url": null
+  },
+  {
+    "name": "Kit Carson House & Museum",
+    "lat": 36.407009,
+    "lon": -105.572561,
+    "imageURL": null,
+    "description": "AI: The legendary mountain man and frontier scout lived here from 1843-1868, and the museum does a solid job telling his complex story—both his frontier exploits and his controversial role in Native American conflicts. That said, its essentially a modest adobe house with period furnishings and interpretive displays. History buffs and Western enthusiasts will appreciate the context, but casual visitors might find it underwhelming compared to Taoss more visually dramatic attractions.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": null
+  },
+  {
+    "name": "Ernest L. Blumenschein House",
+    "lat": 36.4057724,
+    "lon": -105.5763905,
+    "imageURL": null,
+    "description": "AI: The co-founder of the Taos Art Colonys home and studio, filled with original furnishings and artworks. Valuable for understanding how Taos became an art mecca, but this is really for dedicated art history enthusiasts. The house itself is pleasant but not extraordinary, and unless youre already fascinated by early Taos Modernism, you might leave feeling you could have spent your time better elsewhere. Skip if youre short on time; visit if youre doing a deep dive into Taoss artistic heritage.",
+    "info": null,
+    "categories": ["museum", "art", "historic"],
+    "url": null
+  },
+  {
+    "name": "Couse-Sharp Historic Site",
+    "lat": 36.4059507,
+    "lon": -105.5714146,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["historic", "art"],
+    "url": null
+  },
+  {
+    "name": "Earthship Visitor Center",
+    "lat": 36.4953778,
+    "lon": -105.7529855,
+    "imageURL": null,
+    "description": "These aggressively sustainable art homes look like something out of 1970s science fiction. Make right off of Route 64 just west of Rio Grande Gorge Bridge. You can get a small self-guided tour with limited access for walk-ins, however for the full tour that includes seeing the interior of several Earthships, you should book online in advance.",
+    "info": null,
+    "categories": ["quirky", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Manby Hot Springs",
+    "lat": 36.5083168,
+    "lon": -105.7242545,
+    "imageURL": null,
+    "description": "Secluded springs in the Rio Grande Gorge offer hot bathing beside the haunted ruins of a stagecoach stop.",
+    "info": null,
+    "categories": ["nature", "recreation", "quirky"],
+    "url": null
+  }
+]
