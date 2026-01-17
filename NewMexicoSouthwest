@@ -1,0 +1,342 @@
+[
+  {
+    "name": "City of Rocks State Park",
+    "lat": 32.5904888,
+    "lon": -107.9751101,
+    "imageURL": null,
+    "description": "Has observatory for stargazing",
+    "info": null,
+    "categories": ["park", "nature", "viewpoint"],
+    "url": "https://www.emnrd.nm.gov/spd/find-a-park/city-of-rocks-state-park/"
+  },
+  {
+    "name": "Gila Cliff Dwellings National Monument",
+    "lat": 33.2271524,
+    "lon": -108.2706705,
+    "imageURL": null,
+    "description": "For thousands of years, groups of nomads used the caves above Cliff Dweller Creek as temporary shelter. In the late 1200s, people of the agricultural Mogollon (Southern Ancestral Pueblo) culture made it a home. They built rooms, crafted pottery and raised children in the cliff dwellings for one or two generations. By approximately 1300, the Mogollon had moved on, leaving the walls behind.",
+    "info": null,
+    "categories": ["nps", "historic", "archaeological", "hiking"],
+    "url": "https://www.nps.gov/gicl/"
+  },
+  {
+    "name": "White Sands National Park",
+    "lat": 32.7872403,
+    "lon": -106.3256816,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["nps", "nature", "landmark", "recreation"],
+    "url": "https://www.nps.gov/whsa/"
+  },
+  {
+    "name": "The Chiricahua Desert Museum",
+    "lat": 31.870339,
+    "lon": -109.0348488,
+    "imageURL": null,
+    "description": "This rural museum is home to more than 50 local desert reptiles and the worlds largest snake bite kit collection.",
+    "info": null,
+    "categories": ["museum", "nature", "quirky"],
+    "url": "https://www.chiricahuadesertmuseum.org/"
+  },
+  {
+    "name": "SHAKESPEARE GHOST TOWN",
+    "lat": 32.3253423,
+    "lon": -108.7383405,
+    "imageURL": null,
+    "description": "Some of the Old Wests most notorious outlaws frequented this mining town.",
+    "info": null,
+    "categories": ["historic", "towns", "quirky"],
+    "url": "http://www.shakespeareghosttown.com/"
+  },
+  {
+    "name": "St. Catherine of Siena Catholic Mission Church",
+    "lat": 31.9144621,
+    "lon": -108.3193032,
+    "imageURL": null,
+    "description": "This abandoned church dominates the landscape of a former mining boomtown",
+    "info": null,
+    "categories": ["religious", "historic", "architecture"],
+    "url": null
+  },
+  {
+    "name": "Frontera Sculpture Oasis",
+    "lat": 31.824108,
+    "lon": -107.6506614,
+    "imageURL": null,
+    "description": "This roadside sculpture garden in New Mexico venerates Mother Earth and outsider art.",
+    "info": null,
+    "categories": ["art", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Pancho Villa State Park",
+    "lat": 31.8242731,
+    "lon": -107.6408135,
+    "imageURL": null,
+    "description": "Located near the U.S.-Mexico border, this park remembers the famous raid of General Francisco â€œPanchoâ€ Villa and his soldiers.",
+    "info": null,
+    "categories": ["park", "historic"],
+    "url": "https://www.emnrd.nm.gov/spd/find-a-park/pancho-villa-state-park/"
+  },
+  {
+    "name": "NRAO Very Large Array",
+    "lat": 34.0733674,
+    "lon": -107.6225253,
+    "imageURL": null,
+    "description": "â€œ Spread across the plains west of Socorro, 27 giant radio telescopes gaze into deep space. See the massive white structures up close on a guided tour led by the knowledgeable staffâ€",
+    "info": null,
+    "categories": ["landmark", "quirky"],
+    "url": "https://public.nrao.edu/telescopes/vla/"
+  },
+  {
+    "name": "The Lightning Field by Walter De Maria",
+    "lat": 34.3429447,
+    "lon": -108.4951467,
+    "imageURL": null,
+    "description": "â€œAn equally innovative, yet completely different, use of these central plains, Walter de Mariaâ€™s mesmerizing sculpture requires a long drive and a 24-hour time commitmentâ€",
+    "info": null,
+    "categories": ["art", "landmark", "quirky"],
+    "url": "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-lightning-field"
+  },
+  {
+    "name": "Bosque del Apache National Wildlife Refuge Visitor Center",
+    "lat": 33.8045085,
+    "lon": -106.8909954,
+    "imageURL": null,
+    "description": "â€œNothing quite prepares you for the sight of thousands of sandhill cranes suddenly taking flight against the backdrop of a burnt orange sky at one of North Americaâ€™s premier birding destinations â€",
+    "info": null,
+    "categories": ["nature", "park"],
+    "url": "https://www.fws.gov/refuge/bosque-del-apache"
+  },
+  {
+    "name": "New Mexico Farm & Ranch Heritage Museum",
+    "lat": 32.2999926,
+    "lon": -106.7206138,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.nmfarmandranchmuseum.org/"
+  },
+  {
+    "name": "Catwalk Recreation Area",
+    "lat": 33.3730097,
+    "lon": -108.8416956,
+    "imageURL": null,
+    "description": "Explore a misty river canyon from a metal bridge system.",
+    "info": null,
+    "categories": ["nature", "hiking", "recreation"],
+    "url": "https://www.fs.usda.gov/recarea/gila/recarea/?recid=1964"
+  },
+  {
+    "name": "Pie Town Pie Co.",
+    "lat": 34.2992036,
+    "lon": -108.1304127,
+    "imageURL": null,
+    "description": "This popular pitstop lives up to its name.",
+    "info": null,
+    "categories": ["food", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Bracewell Radio Sundial",
+    "lat": 34.0740833,
+    "lon": -107.6227486,
+    "imageURL": null,
+    "description": "A one-of-a-kind sundial at the Very Large Array honors a radio astronomy pioneer, incorporating the original piers from his breakthrough radio telescope.",
+    "info": null,
+    "categories": ["art", "landmark"],
+    "url": "https://public.nrao.edu/telescopes/vla/"
+  },
+  {
+    "name": "San Lorenzo Canyon",
+    "lat": 34.2442477,
+    "lon": -106.9932814,
+    "imageURL": null,
+    "description": "One of the few slot canyons in New Mexico, this area is fantastic for hiking, camping, and stargazing.",
+    "info": null,
+    "categories": ["nature", "hiking", "viewpoint"],
+    "url": null
+  },
+  {
+    "name": "Bernardo Wildlife Area",
+    "lat": 34.4398047,
+    "lon": -106.8217581,
+    "imageURL": null,
+    "description": "The winter home of thousands of beautiful snow geese and sandhill cranes.",
+    "info": null,
+    "categories": ["nature", "park"],
+    "url": "https://www.wildlife.state.nm.us/fishing/where-to-fish/bernardo-waterfowl-area/"
+  },
+  {
+    "name": "Through the Flower Art Space",
+    "lat": 34.6594895,
+    "lon": -106.7691021,
+    "imageURL": null,
+    "description": "A home base for Judy Chicago, one of Americas leading radical feminist artists.",
+    "info": null,
+    "categories": ["art", "museum"],
+    "url": "https://www.throughtheflower.org/"
+  },
+  {
+    "name": "Faywood Hot Springs",
+    "lat": 32.5548043,
+    "lon": -107.9955914,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["recreation", "nature"],
+    "url": "https://faywood.com/"
+  },
+  {
+    "name": "Saint Augustine Catholic Church, Isleta Pueblo",
+    "lat": 34.9089781,
+    "lon": -106.6933343,
+    "imageURL": null,
+    "description": "This centuries-old pueblo church houses the body of a Franciscan friar who is said to be a rare incorruptible corpse.",
+    "info": null,
+    "categories": ["religious", "historic", "quirky"],
+    "url": null
+  },
+  {
+    "name": "Organ Mountains-Desert Peaks National Monument",
+    "lat": 32.3225625,
+    "lon": -106.5739375,
+    "imageURL": null,
+    "description": "â€œvast and rugged wilderness encompassing parts of the Chihuahuan Desert up to peaks that rise over 9,000 ft (2,700 m). Its foothills are home to the most accessible and spectacular day hikes in the area.â€",
+    "info": null,
+    "categories": ["nature", "hiking", "landmark"],
+    "url": "https://www.blm.gov/programs/national-conservation-lands/new-mexico/organ-mountains-desert-peaks"
+  },
+  {
+    "name": "Blackstone Hotsprings",
+    "lat": 33.1274798,
+    "lon": -107.2546822,
+    "imageURL": null,
+    "description": "AI: renovated, claw-foot tubs, river views",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://www.blackstonehotsprings.com/"
+  },
+  {
+    "name": "Riverbend Hot Springs",
+    "lat": 33.1275546,
+    "lon": -107.2505196,
+    "imageURL": null,
+    "description": "AI: outdoor pools by Rio Grande, locals favorite",
+    "info": null,
+    "categories": ["recreation"],
+    "url": "https://www.riverbendhotsprings.com/"
+  },
+  {
+    "name": "Geronimo Springs Museum",
+    "lat": 33.1300049,
+    "lon": -107.2527038,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.geronimospringmuseum.com/"
+  },
+  {
+    "name": "Pioneer Store Museum",
+    "lat": 33.3387734,
+    "lon": -107.6811691,
+    "imageURL": null,
+    "description": "Visiting Chloride is like time travelling to the 1800s. The tiny town is amazingly well preserved, complete with a bank/cafe, a museum, an art gallery, several pioneer cabins and silver mining equipment on display.",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": null
+  },
+  {
+    "name": "Chloride",
+    "lat": 33.338681,
+    "lon": -107.6778146,
+    "imageURL": null,
+    "description": "AI: Barely-alive mining town. Pioneer Store Museum (weekends only), surreal Chloride Murals on cliffs",
+    "info": null,
+    "categories": ["historic", "towns", "quirky", "art"],
+    "url": null
+  },
+  {
+    "name": "Mesilla Plaza",
+    "lat": 32.2743252,
+    "lon": -106.7954417,
+    "imageURL": null,
+    "description": "NHL; AI: This is where the Gadsden Purchase was signed (1854). Authentic adobe plaza where Billy the Kid was tried and sentenced (1881)",
+    "info": null,
+    "categories": ["historic", "landmark", "shopping"],
+    "url": "https://www.mesillanewmexico.com/"
+  },
+  {
+    "name": "White Sands Missile Range Museum",
+    "lat": 32.3850906,
+    "lon": -106.4784809,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["museum", "historic"],
+    "url": "https://www.wsmr.army.mil/Trinity/Pages/Museum.aspx"
+  },
+  {
+    "name": "Rockhound State Park",
+    "lat": 32.1859751,
+    "lon": -107.61223,
+    "imageURL": null,
+    "description": "AI: Only state park in the US where you can keep rocks you collect (up to 15 lbs). Jasper, agate, quartz",
+    "info": null,
+    "categories": ["park", "nature", "quirky"],
+    "url": "https://www.emnrd.nm.gov/spd/find-a-park/rockhound-state-park/"
+  },
+  {
+    "name": "Salinas Pueblo Missions National Monument - Quarai Unit and Visitor Center",
+    "lat": 34.595119,
+    "lon": -106.2974641,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["nps", "historic", "religious", "archaeological"],
+    "url": "https://www.nps.gov/sapu/"
+  },
+  {
+    "name": "Salinas Pueblo Missions National Monument - Mountainair Headquarters Visitor Center",
+    "lat": 34.5198961,
+    "lon": -106.2421794,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["nps", "historic", "religious", "archaeological"],
+    "url": "https://www.nps.gov/sapu/"
+  },
+  {
+    "name": "Salinas Pueblo Missions National Monument - AbÃ³ Unit and Visitor Center",
+    "lat": 34.4501181,
+    "lon": -106.3745416,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["nps", "historic", "religious", "archaeological"],
+    "url": "https://www.nps.gov/sapu/"
+  },
+  {
+    "name": "The Box Recreation Area",
+    "lat": 34.0072326,
+    "lon": -106.9923561,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": ["nature", "recreation", "hiking"],
+    "url": null
+  },
+  {
+    "name": "Sevilleta National Wildlife Refuge Visitor Center",
+    "lat": 34.3516536,
+    "lon": -106.882481,
+    "imageURL": null,
+    "description": "f you have 15-minutes: Explore the visitor center and hike our Wildflower Loop Trail. If you have one hour:Explore our visitor center and hike our Nature Loop Trail. If you have half a day or more:Explore our visitor center and journey to San Lorenzo Canyon or Wetland Units.",
+    "info": null,
+    "categories": ["nature", "park", "hiking"],
+    "url": "https://www.fws.gov/refuge/sevilleta"
+  }
+]
