@@ -15,8 +15,8 @@
     "imageURL": "https://media.istockphoto.com/id/499435665/photo/taos-pueblo-in-new-mexico-usa.jpg?s=1024x1024&w=is&k=20&c=OuDNbuZHb8aGPKe5on1oqZLIkakiLhbkJe-xU2iBeV4="
   },
   {
-    "name": "Downtown Manhattan",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_downtown.json",
-    "imageURL": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=600&h=400&fit=crop&q=80"
+    "name": "Southwest New Mexico",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/NewMexicoSouthwest",
+    "imageURL": "https://images.unsplash.com/photo-1662613508901-bcc8e45c5a9d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGFzJTIwY3J1Y2VzfGVufDB8fDB8fHww"
   }
 ]
