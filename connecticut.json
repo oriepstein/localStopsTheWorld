@@ -8,7 +8,9 @@
     "imageURL": null,
     "info": null,
     "url": "http://www.windsorctcemeteries.org/palisado-cemetery.html",
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ]
   },
   {
     "name": "Vintage Radio & Communications Museum of CT",
@@ -19,7 +21,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.vrcmct.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Matianuck Natural Area Preserve",
@@ -29,8 +34,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://www.windsorct.org/departments/parks_and_recreation/parks/matianuck_natural_area.php",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "State House Square",
@@ -40,8 +48,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["historic", "neighborhood"]
+    "url": "https://www.hartford.gov/",
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
     "name": "Connecticut's Old State House",
@@ -52,7 +63,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://wp.cga.ct.gov/osh/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Ancient Burial Ground",
@@ -62,8 +76,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["historic"]
+    "url": "https://www.hartford.gov/government/departments/dpm/historical-properties/ancient-burying-ground",
+    "categories": [
+      "historic"
+    ]
   },
   {
     "name": "Horace Wells Statue",
@@ -73,8 +89,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["monument", "historic"]
+    "url": "https://www.hartford.gov/",
+    "categories": [
+      "monument",
+      "historic"
+    ]
   },
   {
     "name": "Statue of Rover",
@@ -84,8 +103,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["monument"]
+    "url": "https://hartfordhospital.org/",
+    "categories": [
+      "monument"
+    ]
   },
   {
     "name": "Wadsworth Atheneum Museum of Art",
@@ -96,7 +117,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://thewadsworth.org/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
     "name": "The Mark Twain House & Museum",
@@ -107,7 +131,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://marktwainhouse.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Harriet Beecher Stowe Center",
@@ -118,7 +145,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.harrietbeecherstowecenter.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Cathedral of Saint Joseph",
@@ -129,7 +159,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://stjosephcathedral.org/",
-    "categories": ["religious", "art"]
+    "categories": [
+      "religious",
+      "art"
+    ]
   },
   {
     "name": "A. Everett Austin House",
@@ -139,8 +172,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["historic"]
+    "url": "https://thewadsworth.org/austin-house/",
+    "categories": [
+      "historic"
+    ]
   },
   {
     "name": "Connecticut Museum of Culture and History",
@@ -151,7 +186,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://connecticuthistory.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Chapel by the sea",
@@ -161,8 +199,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["religious", "historic"]
+    "url": "https://www.stoneingtonhistory.org/",
+    "categories": [
+      "religious",
+      "historic"
+    ]
   },
   {
     "name": "Mystic Seaport Museum",
@@ -173,7 +214,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://mysticseaport.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Gungywamp",
@@ -183,8 +227,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["historic", "nature"]
+    "url": "https://www.gungywamp.com/",
+    "categories": [
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "Submarine Force Library & Museum",
@@ -195,7 +242,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ussnautilus.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Seaside Sanatorium",
@@ -205,8 +255,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["historic", "nature"]
+    "url": "https://www.waterfordct.org/",
+    "categories": [
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "The Book Barn",
@@ -217,7 +270,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://bookbarn.com/",
-    "categories": ["bookstore", "shopping"]
+    "categories": [
+      "bookstore",
+      "shopping"
+    ]
   },
   {
     "name": "SoNo Switch Tower Museum",
@@ -228,7 +284,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://sonoswitch.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Well's Dinosaur Haven",
@@ -239,7 +298,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art", "entertainment"]
+    "categories": [
+      "art",
+      "entertainment"
+    ]
   },
   {
     "name": "American Clock & Watch Museum",
@@ -250,7 +312,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://clockandwatchmuseum.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "The Carousel Museum",
@@ -261,7 +326,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://thecarouselmuseum.org/",
-    "categories": ["museum", "entertainment"]
+    "categories": [
+      "museum",
+      "entertainment"
+    ]
   },
   {
     "name": "Horseshoe Falls-the Ted Knight bridge",
@@ -272,7 +340,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "park"]
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Witch's Dungeon Classic Movie Museum",
@@ -283,7 +354,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.witchsdungeon.com/",
-    "categories": ["museum", "entertainment", "cinema"]
+    "categories": [
+      "museum",
+      "entertainment",
+      "cinema"
+    ]
   },
   {
     "name": "Shade Swamp",
@@ -294,7 +369,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "nature"]
+    "categories": [
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "PEZ Visitor Center",
@@ -305,7 +383,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://us.pez.com/pages/pez-visitor-center-hours-and-location",
-    "categories": ["museum", "entertainment"]
+    "categories": [
+      "museum",
+      "entertainment"
+    ]
   },
   {
     "name": "Hill-Stead Museum",
@@ -316,7 +397,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://hillstead.org/",
-    "categories": ["museum", "art", "historic"]
+    "categories": [
+      "museum",
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "William Kent Charitable Foundation",
@@ -327,7 +412,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art", "historic"]
+    "categories": [
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "Silvermine Arts Center",
@@ -338,7 +426,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://silvermineart.org/",
-    "categories": ["art", "gallery"]
+    "categories": [
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "Warehouse Point Library",
@@ -349,7 +440,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Silver Sands State Park",
@@ -360,7 +454,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/silver-sands-state-park",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
     "name": "Charles Island",
@@ -371,7 +468,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "historic"]
+    "categories": [
+      "nature",
+      "historic"
+    ]
   },
   {
     "name": "Connecticut Trolley Museum",
@@ -382,7 +482,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ct-trolley.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Cogswell Memorial Fountain",
@@ -393,7 +496,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["monument", "historic"]
+    "categories": [
+      "monument",
+      "historic"
+    ]
   },
   {
     "name": "John Oliver \"Balls of Steel\" Memorial",
@@ -404,7 +510,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["monument", "entertainment"]
+    "categories": [
+      "monument",
+      "entertainment"
+    ]
   },
   {
     "name": "HADDAM SHAD MUSEUM",
@@ -415,7 +524,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "nature"]
+    "categories": [
+      "museum",
+      "nature"
+    ]
   },
   {
     "name": "Machimoodus State Park",
@@ -426,7 +538,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/machimoodus-state-park",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
     "name": "Boothe Memorial Park",
@@ -437,7 +552,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.stratfordct.gov/content/153/328/1568/default.aspx",
-    "categories": ["park", "historic"]
+    "categories": [
+      "park",
+      "historic"
+    ]
   },
   {
     "name": "Biology Physics Building",
@@ -448,7 +566,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
     "name": "EEB Biodiversity Education & Research Greenhouses",
@@ -459,7 +580,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "museum"]
+    "categories": [
+      "nature",
+      "museum"
+    ]
   },
   {
     "name": "Ballard Institute and Museum of Puppetry",
@@ -470,7 +594,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://bimp.uconn.edu/",
-    "categories": ["museum", "art", "theater"]
+    "categories": [
+      "museum",
+      "art",
+      "theater"
+    ]
   },
   {
     "name": "Thread City Crossing",
@@ -481,7 +609,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art", "historic"]
+    "categories": [
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "Garden on the Bridge",
@@ -492,7 +623,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "park"]
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Best Video Film & Cultural Center",
@@ -503,7 +637,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://bestvideo.com/",
-    "categories": ["cinema", "entertainment"]
+    "categories": [
+      "cinema",
+      "entertainment"
+    ]
   },
   {
     "name": "Pirelli Building",
@@ -514,7 +651,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "art"]
+    "categories": [
+      "historic",
+      "art"
+    ]
   },
   {
     "name": "Meriden Traffic Control Tower",
@@ -525,7 +665,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "monument"]
+    "categories": [
+      "historic",
+      "monument"
+    ]
   },
   {
     "name": "Ingalls Ice Rink",
@@ -536,7 +679,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://bulldogs.yalebulldogs.com/facilities/ingalls-rink/10",
-    "categories": ["entertainment", "art"]
+    "categories": [
+      "entertainment",
+      "art"
+    ]
   },
   {
     "name": "Henry Whitfield State Museum",
@@ -547,7 +693,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Henry-Whitfield-State-Museum",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "The American Museum of Tort Law",
@@ -558,7 +707,9 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.tortmuseum.org/",
-    "categories": ["museum"]
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Connecticut Air & Space Center",
@@ -569,7 +720,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctairandspace.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Davison Art Center, Wesleyan University",
@@ -580,7 +734,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.wesleyan.edu/dac/",
-    "categories": ["art", "gallery", "historic"]
+    "categories": [
+      "art",
+      "gallery",
+      "historic"
+    ]
   },
   {
     "name": "The Institute Library",
@@ -591,7 +749,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.institutelibrary.org/",
-    "categories": ["bookstore", "historic"]
+    "categories": [
+      "bookstore",
+      "historic"
+    ]
   },
   {
     "name": "Woolsey Hall",
@@ -602,7 +763,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://music.yale.edu/facilities/woolsey-hall",
-    "categories": ["music", "historic"]
+    "categories": [
+      "music",
+      "historic"
+    ]
   },
   {
     "name": "Connecticut River Museum",
@@ -613,7 +777,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctrivermuseum.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Heublein Tower",
@@ -624,7 +791,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/talcott-mountain-state-park",
-    "categories": ["historic", "park"]
+    "categories": [
+      "historic",
+      "park"
+    ]
   },
   {
     "name": "Dividend Pond And Ruins",
@@ -635,7 +805,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "historic"]
+    "categories": [
+      "nature",
+      "historic"
+    ]
   },
   {
     "name": "Nathan Hale Schoolhouse East Haddam",
@@ -646,7 +819,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Curioporium",
@@ -657,7 +833,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "entertainment"]
+    "categories": [
+      "museum",
+      "entertainment"
+    ]
   },
   {
     "name": "Tidal Marsh Trail",
@@ -668,7 +847,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "historic"]
+    "categories": [
+      "nature",
+      "historic"
+    ]
   },
   {
     "name": "Goodspeed Opera House",
@@ -679,7 +861,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://goodspeed.org/",
-    "categories": ["theater", "music"]
+    "categories": [
+      "theater",
+      "music"
+    ]
   },
   {
     "name": "Long Wharf Theatre",
@@ -690,7 +875,9 @@
     "imageURL": null,
     "info": null,
     "url": "https://longwharf.org/",
-    "categories": ["theater"]
+    "categories": [
+      "theater"
+    ]
   },
   {
     "name": "Essex Steam Train & Riverboat",
@@ -701,7 +888,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://essexsteamtrain.com/",
-    "categories": ["entertainment", "historic"]
+    "categories": [
+      "entertainment",
+      "historic"
+    ]
   },
   {
     "name": "Sleeping Giant Observation Tower",
@@ -712,7 +902,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/sleeping-giant-state-park",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
     "name": "Remington Shot Tower",
@@ -723,7 +916,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "monument"]
+    "categories": [
+      "historic",
+      "monument"
+    ]
   },
   {
     "name": "Lock 12",
@@ -734,7 +930,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "park"]
+    "categories": [
+      "historic",
+      "park"
+    ]
   },
   {
     "name": "Exley Science Center",
@@ -745,7 +944,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.wesleyan.edu/earthenv/peoples_museum.html",
-    "categories": ["museum", "nature"]
+    "categories": [
+      "museum",
+      "nature"
+    ]
   },
   {
     "name": "Danbury Railway Museum",
@@ -756,7 +958,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://danburyrail.org/",
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "The Griswold Inn",
@@ -767,7 +972,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://griswoldinn.com/",
-    "categories": ["food", "historic"]
+    "categories": [
+      "food",
+      "historic"
+    ]
   },
   {
     "name": "Mine Hill Preserve",
@@ -778,7 +986,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.weantinoge.org/mine-hill-preserve",
-    "categories": ["historic", "nature"]
+    "categories": [
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "Harvey Cushing/John Hay Whitney Medical Library at Yale",
@@ -789,7 +1000,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://library.medicine.yale.edu/",
-    "categories": ["bookstore", "museum", "historic"]
+    "categories": [
+      "bookstore",
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Barker Character Comic and Cartoon Museum",
@@ -800,7 +1015,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://barkermuseum.com/",
-    "categories": ["museum", "entertainment"]
+    "categories": [
+      "museum",
+      "entertainment"
+    ]
   },
   {
     "name": "Judges Cave",
@@ -811,7 +1029,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/west-rock-ridge-state-park",
-    "categories": ["historic", "nature"]
+    "categories": [
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "Yale Collection of Musical Instruments",
@@ -822,7 +1043,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://music.yale.edu/about/facilities/yale-collection-musical-instruments",
-    "categories": ["museum", "music"]
+    "categories": [
+      "museum",
+      "music"
+    ]
   },
   {
     "name": "Castle Craig",
@@ -833,7 +1057,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/hubbard-park",
-    "categories": ["monument", "park"]
+    "categories": [
+      "monument",
+      "park"
+    ]
   },
   {
     "name": "Iglesia Ni Cristo - Johnsonville Extension",
@@ -844,7 +1071,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "neighborhood"]
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
     "name": "Abbey of Regina Laudis",
@@ -855,7 +1085,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.abbeyofreginalaudis.org/",
-    "categories": ["religious", "food"]
+    "categories": [
+      "religious",
+      "food"
+    ]
   },
   {
     "name": "Hogpen Hill Farms",
@@ -866,7 +1099,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art", "nature"]
+    "categories": [
+      "art",
+      "nature"
+    ]
   },
   {
     "name": "The Glass House, National Trust for Historic Preservation",
@@ -877,7 +1113,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://theglasshouse.org/",
-    "categories": ["art", "historic"]
+    "categories": [
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "Hearthstone Castle",
@@ -888,7 +1127,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "art"]
+    "categories": [
+      "historic",
+      "art"
+    ]
   },
   {
     "name": "Cinestudio",
@@ -899,7 +1141,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.cinestudio.org/",
-    "categories": ["cinema", "entertainment"]
+    "categories": [
+      "cinema",
+      "entertainment"
+    ]
   },
   {
     "name": "Artists Collective Inc",
@@ -910,7 +1155,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://artistscollective.org/",
-    "categories": ["art", "music"]
+    "categories": [
+      "art",
+      "music"
+    ]
   },
   {
     "name": "East Rock Park",
@@ -921,7 +1169,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/east-rock-park",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
     "name": "Supercharged Indoor Karting and Axe Throwing",
@@ -932,7 +1183,9 @@
     "imageURL": null,
     "info": null,
     "url": "https://superchargedentertainment.com/",
-    "categories": ["entertainment"]
+    "categories": [
+      "entertainment"
+    ]
   },
   {
     "name": "Old New-Gate Prison & Copper Mine - Seasonal",
@@ -943,7 +1196,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://portal.ct.gov/DEEP/State-Parks/Historic-Preserves/Old-New-Gate-Prison-and-Copper-Mine",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
     "name": "Center Church On The Green",
@@ -954,7 +1210,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://centerchurchnewhaven.org/",
-    "categories": ["religious", "historic"]
+    "categories": [
+      "religious",
+      "historic"
+    ]
   },
   {
     "name": "Hygienic Art",
@@ -965,7 +1224,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://hygienicart.org/",
-    "categories": ["art", "gallery"]
+    "categories": [
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "The Barnum Museum",
@@ -976,7 +1238,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://barnummuseum.org/",
-    "categories": ["museum", "entertainment"]
+    "categories": [
+      "museum",
+      "entertainment"
+    ]
   },
   {
     "name": "Dinosaur State Park",
@@ -987,7 +1252,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/dinosaur-state-park",
-    "categories": ["park", "museum", "nature"]
+    "categories": [
+      "park",
+      "museum",
+      "nature"
+    ]
   },
   {
     "name": "Gay City State Park",
@@ -998,7 +1267,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/gay-city-state-park",
-    "categories": ["park", "historic", "nature"]
+    "categories": [
+      "park",
+      "historic",
+      "nature"
+    ]
   },
   {
     "name": "Gillette Castle State Park",
@@ -1009,7 +1282,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctparks.com/parks/gillette-castle-state-park",
-    "categories": ["park", "historic", "theater"]
+    "categories": [
+      "park",
+      "historic",
+      "theater"
+    ]
   },
   {
     "name": "Yale University Art Gallery",
@@ -1020,7 +1297,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://artgallery.yale.edu/",
-    "categories": ["museum", "art", "gallery"]
+    "categories": [
+      "museum",
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "The Cushing Center",
@@ -1031,7 +1312,9 @@
     "imageURL": null,
     "info": null,
     "url": "https://library.medicine.yale.edu/cushing",
-    "categories": ["museum"]
+    "categories": [
+      "museum"
+    ]
   },
   {
     "name": "Abandoned Fairy Village",
@@ -1042,7 +1325,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["art", "nature", "entertainment"]
+    "categories": [
+      "art",
+      "nature",
+      "entertainment"
+    ]
   },
   {
     "name": "Beinecke Rare Book and Manuscript Library",
@@ -1053,7 +1340,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://beinecke.library.yale.edu/",
-    "categories": ["bookstore", "museum", "historic"]
+    "categories": [
+      "bookstore",
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Holy Land USA Waterbury",
@@ -1064,7 +1355,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["religious", "art", "historic"]
+    "categories": [
+      "religious",
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "Pinchot Sycamore Tree Park",
@@ -1075,7 +1370,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "park"]
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Coltsville Historic District",
@@ -1086,7 +1384,10 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.nps.gov/colt/index.htm",
-    "categories": ["historic", "neighborhood"]
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
     "name": "Weir Farm National Historical Park",
@@ -1097,7 +1398,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://www.nps.gov/wefa/index.htm",
-    "categories": ["art", "historic", "park"]
+    "categories": [
+      "art",
+      "historic",
+      "park"
+    ]
   },
   {
     "name": "CT Audubon Birdcraft Museum",
@@ -1108,7 +1413,11 @@
     "imageURL": null,
     "info": null,
     "url": "https://ctaudubon.org/centers/birdcraft-museum-sanctuary/",
-    "categories": ["museum", "nature", "historic"]
+    "categories": [
+      "museum",
+      "nature",
+      "historic"
+    ]
   },
   {
     "name": "OrchardWorks Magic Wands",
@@ -1119,7 +1428,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["shopping", "entertainment"]
+    "categories": [
+      "shopping",
+      "entertainment"
+    ]
   },
   {
     "name": "Bulls Covered Bridge",
@@ -1130,7 +1442,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["historic", "neighborhood"]
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
     "name": "High Rollers Luxury Lanes & Sports Lounge",
@@ -1141,7 +1456,9 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["entertainment"]
+    "categories": [
+      "entertainment"
+    ]
   },
   {
     "name": "The Brewery at Maple View Farm",
@@ -1152,7 +1469,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["brewery", "food"]
+    "categories": [
+      "brewery",
+      "food"
+    ]
   },
   {
     "name": "Terrain",
@@ -1163,7 +1483,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["shopping", "nature"]
+    "categories": [
+      "shopping",
+      "nature"
+    ]
   },
   {
     "name": "Mashantucket Pequot Museum & Research Center",
@@ -1174,7 +1497,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Bunker Hill Trailhead Parking",
@@ -1185,7 +1511,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["nature", "park"]
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "MoCA CT",
@@ -1196,7 +1525,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "art", "gallery"]
+    "categories": [
+      "museum",
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "Eric Sloane Museum",
@@ -1207,7 +1540,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "art", "historic"]
+    "categories": [
+      "museum",
+      "art",
+      "historic"
+    ]
   },
   {
     "name": "Housatonic Museum of Art",
@@ -1218,7 +1555,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "art", "gallery"]
+    "categories": [
+      "museum",
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "William Benton Museum of Art",
@@ -1229,7 +1570,11 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "art", "gallery"]
+    "categories": [
+      "museum",
+      "art",
+      "gallery"
+    ]
   },
   {
     "name": "Tapping Reeve House and Law School",
@@ -1240,7 +1585,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Museum of Connecticut History",
@@ -1251,7 +1599,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "New England Civil War Museum",
@@ -1262,7 +1613,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Ruby & Calvin Fletcher African American History Museum",
@@ -1273,7 +1627,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Prudence Crandall Museum",
@@ -1284,7 +1641,10 @@
     "imageURL": null,
     "info": null,
     "url": null,
-    "categories": ["museum", "historic"]
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Custom House Maritime Museum - New London Maritime Society",
@@ -1294,8 +1654,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://nlmaritimesociety.org/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "The Genius Museum at Nature's Art Village",
@@ -1305,8 +1668,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://naturesartvillage.com/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "National Helicopter Museum Inc",
@@ -1316,8 +1682,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://www.helicoptermuseum.org/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "New England Motorcycle Museum",
@@ -1327,8 +1696,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://www.motorcyclemuseum.org/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Connecticut Eastern Railroad Museum",
@@ -1338,8 +1710,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://cteastrrmuseum.org/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Railroad Museum of New England",
@@ -1349,8 +1724,12 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic", "entertainment"]
+    "url": "https://rmne.org/",
+    "categories": [
+      "museum",
+      "historic",
+      "entertainment"
+    ]
   },
   {
     "name": "Sharon Land Trust",
@@ -1360,8 +1739,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://sharonlandtrust.org/",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Putnam",
@@ -1371,8 +1753,12 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["neighborhood", "art", "entertainment"]
+    "url": "https://www.putnamct.us/",
+    "categories": [
+      "neighborhood",
+      "art",
+      "entertainment"
+    ]
   },
   {
     "name": "Peoples State Forest",
@@ -1382,8 +1768,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://portal.ct.gov/DEEP/State-Parks/Forests/Peoples-State-Forest",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Pleasure Beach",
@@ -1393,8 +1782,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://www.bridgeportct.gov/",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Steep Rock Preserve",
@@ -1404,8 +1796,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://steeprockassoc.org/",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "The Judy Black Memorial Park & Gardens / Seasonal Farmers Market",
@@ -1415,8 +1810,12 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["park", "market", "food"]
+    "url": "https://washingtonct.org/",
+    "categories": [
+      "park",
+      "market",
+      "food"
+    ]
   },
   {
     "name": "Ocean Beach Park",
@@ -1426,8 +1825,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["park", "nature"]
+    "url": "https://ocean-beach-park.com/",
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
     "name": "The Preserve",
@@ -1437,8 +1839,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "park"]
+    "url": "https://thepreservect.org/",
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
     "name": "Hosmer Mountain Bottling Co",
@@ -1448,8 +1853,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["food", "historic"]
+    "url": "https://www.hosmersoda.com/",
+    "categories": [
+      "food",
+      "historic"
+    ]
   },
   {
     "name": "Tolland Jail Museum",
@@ -1459,8 +1867,11 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["museum", "historic"]
+    "url": "https://tollandhistoricalsociety.org/",
+    "categories": [
+      "museum",
+      "historic"
+    ]
   },
   {
     "name": "Coogan Farm Nature and Heritage Center",
@@ -1470,8 +1881,12 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["nature", "historic", "park"]
+    "url": "https://coogannaturecenter.org/",
+    "categories": [
+      "nature",
+      "historic",
+      "park"
+    ]
   },
   {
     "name": "Auerfarm State Park Scenic Reserve",
@@ -1481,7 +1896,10 @@
     "icon": null,
     "imageURL": null,
     "info": null,
-    "url": null,
-    "categories": ["park", "nature"]
+    "url": "https://portal.ct.gov/DEEP/State-Parks/",
+    "categories": [
+      "park",
+      "nature"
+    ]
   }
 ]
