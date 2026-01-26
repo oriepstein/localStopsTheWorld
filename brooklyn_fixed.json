@@ -10,7 +10,8 @@
     "lat": 40.609084,
     "lon": -74.032499,
     "name": "Harbor Defense Museum",
-    "url": "https://www.harbordefensemuseum.com/"
+    "url": "https://www.harbordefensemuseum.com/",
+    "id": "brooklyn_harbor_defense_museum"
   },
   {
     "categories": [
@@ -24,7 +25,8 @@
     "lat": 40.6372374,
     "lon": -74.0367631,
     "name": "Narrows Botanical Gardens",
-    "url": "https://narrowsbg.org/"
+    "url": "https://narrowsbg.org/",
+    "id": "brooklyn_narrows_botanical_gardens"
   },
   {
     "categories": [
@@ -38,7 +40,8 @@
     "lat": 40.6401377,
     "lon": -74.0322522,
     "name": "Owl's Head Park",
-    "url": "https://www.nyc.gov/site/parks/parks/owls-head-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/owls-head-park.page",
+    "id": "brooklyn_owls_head_park"
   },
   {
     "categories": [
@@ -52,7 +55,8 @@
     "lat": 40.6393213,
     "lon": -74.0376877,
     "name": "American Veterans Memorial Pier",
-    "url": null
+    "url": null,
+    "id": "brooklyn_american_veterans_memorial_pier"
   },
   {
     "categories": [
@@ -66,7 +70,8 @@
     "lat": 40.6739761,
     "lon": -73.9253119,
     "name": "Weeksville Heritage Center",
-    "url": "https://www.weeksvillesociety.org/"
+    "url": "https://www.weeksvillesociety.org/",
+    "id": "brooklyn_weeksville_heritage_center"
   },
   {
     "categories": [
@@ -80,9 +85,9 @@
     "lat": 40.584376,
     "lon": -73.8999741,
     "name": "Dead Horse Bay",
-    "url": null
+    "url": null,
+    "id": "brooklyn_dead_horse_bay"
   },
- 
   {
     "categories": [
       "art"
@@ -94,7 +99,8 @@
     "lat": 40.7230252,
     "lon": -73.9562924,
     "name": "Big Sky Works",
-    "url": null
+    "url": null,
+    "id": "brooklyn_big_sky_works"
   },
   {
     "categories": [
@@ -107,7 +113,8 @@
     "lat": 40.7058963,
     "lon": -73.9332806,
     "name": "NURTUREart Non-Profit Inc",
-    "url": "https://www.nurtureart.org/"
+    "url": "https://www.nurtureart.org/",
+    "id": "brooklyn_nurtureart_non_profit_inc"
   },
   {
     "categories": [
@@ -120,7 +127,8 @@
     "lat": 40.704465,
     "lon": -73.9304578,
     "name": "Vandervoort Place",
-    "url": null
+    "url": null,
+    "id": "brooklyn_vandervoort_place"
   },
   {
     "categories": [
@@ -134,7 +142,8 @@
     "lat": 40.702043,
     "lon": -73.9245569,
     "name": "Angel's Fruit Market",
-    "url": null
+    "url": null,
+    "id": "brooklyn_angels_fruit_market"
   },
   {
     "categories": [
@@ -147,7 +156,8 @@
     "lat": 40.684419,
     "lon": -73.873741,
     "name": "Norte Maar",
-    "url": "https://nortemaar.org/"
+    "url": "https://nortemaar.org/",
+    "id": "brooklyn_norte_maar"
   },
   {
     "categories": [
@@ -160,7 +170,8 @@
     "lat": 40.707305,
     "lon": -73.931251,
     "name": "Luhring Augustine Gallery",
-    "url": "https://luhringaugustine.com/"
+    "url": "https://luhringaugustine.com/",
+    "id": "brooklyn_luhring_augustine_gallery"
   },
   {
     "categories": [
@@ -173,7 +184,8 @@
     "lat": 40.7057243,
     "lon": -73.9331652,
     "name": "56 Bogart St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_56_bogart_st"
   },
   {
     "categories": [
@@ -186,7 +198,8 @@
     "lat": 40.705089,
     "lon": -73.9234806,
     "name": "The Bushwick Starr",
-    "url": "https://www.thebushwickstarr.org/"
+    "url": "https://www.thebushwickstarr.org/",
+    "id": "brooklyn_the_bushwick_starr"
   },
   {
     "categories": [
@@ -200,7 +213,8 @@
     "lat": 40.6996921,
     "lon": -73.927463,
     "name": "Low Brow Artique",
-    "url": null
+    "url": null,
+    "id": "brooklyn_low_brow_artique"
   },
   {
     "categories": [
@@ -214,7 +228,8 @@
     "lat": 40.6851993,
     "lon": -73.974308,
     "name": "Museum of Contemporary African Diasporan Arts",
-    "url": "https://mocada.org/"
+    "url": "https://mocada.org/",
+    "id": "brooklyn_museum_of_contemporary_african_diasporan_arts"
   },
   {
     "categories": [
@@ -228,7 +243,8 @@
     "lat": 40.6870381,
     "lon": -73.9732706,
     "name": "Lafayette Avenue Presbyterian Church",
-    "url": "https://www.lafayetteave.org/"
+    "url": "https://www.lafayetteave.org/",
+    "id": "brooklyn_lafayette_avenue_presbyterian_church"
   },
   {
     "categories": [
@@ -242,7 +258,8 @@
     "lat": 40.6870381,
     "lon": -73.9732706,
     "name": "Irondale Center",
-    "url": "https://irondale.org/"
+    "url": "https://irondale.org/",
+    "id": "brooklyn_irondale_center"
   },
   {
     "categories": [
@@ -256,7 +273,8 @@
     "lat": 40.6886419,
     "lon": -73.9791298,
     "name": "BRIC",
-    "url": "https://www.bricartsmedia.org/"
+    "url": "https://www.bricartsmedia.org/",
+    "id": "brooklyn_bric"
   },
   {
     "categories": [
@@ -270,7 +288,8 @@
     "lat": 40.684223,
     "lon": -73.965559,
     "name": "Brown Memorial Baptist Church",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brown_memorial_baptist_church"
   },
   {
     "categories": [
@@ -283,7 +302,8 @@
     "lat": 40.6441587,
     "lon": -74.0249671,
     "name": "Brooklyn Army Terminal",
-    "url": "https://brooklynarmyterminal.com/"
+    "url": "https://brooklynarmyterminal.com/",
+    "id": "brooklyn_brooklyn_army_terminal"
   },
   {
     "categories": [
@@ -297,7 +317,8 @@
     "lat": 40.6443368,
     "lon": -73.9207731,
     "name": "The Wyckoff House Museum",
-    "url": "https://wyckoffmuseum.org/"
+    "url": "https://wyckoffmuseum.org/",
+    "id": "brooklyn_the_wyckoff_house_museum"
   },
   {
     "categories": [
@@ -311,7 +332,8 @@
     "lat": 40.6040464,
     "lon": -73.9306319,
     "name": "Salt Marsh Nature Center",
-    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page"
+    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page",
+    "id": "brooklyn_salt_marsh_nature_center"
   },
   {
     "categories": [
@@ -325,7 +347,8 @@
     "lat": 40.628993,
     "lon": -74.0314,
     "name": "7901 Ridge Blvd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_7901_ridge_blvd"
   },
   {
     "categories": [
@@ -339,7 +362,8 @@
     "lat": 40.5753293,
     "lon": -73.979783,
     "name": "The Coney Island Museum",
-    "url": "https://coneyislandmuseum.org/"
+    "url": "https://coneyislandmuseum.org/",
+    "id": "brooklyn_the_coney_island_museum"
   },
   {
     "categories": [
@@ -352,7 +376,8 @@
     "lat": 40.5752703,
     "lon": -73.9797856,
     "name": "Sideshows by the Seashore",
-    "url": "https://www.coneyisland.com/"
+    "url": "https://www.coneyisland.com/",
+    "id": "brooklyn_sideshows_by_the_seashore"
   },
   {
     "categories": [
@@ -366,7 +391,8 @@
     "lat": 40.6103011,
     "lon": -73.9325837,
     "name": "Hendrick I. Lott House",
-    "url": null
+    "url": null,
+    "id": "brooklyn_hendrick_i_lott_house"
   },
   {
     "categories": [
@@ -380,7 +406,8 @@
     "lat": 40.675219,
     "lon": -74.0183687,
     "name": "Waterfront Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_waterfront_museum"
   },
   {
     "categories": [
@@ -393,7 +420,8 @@
     "lat": 40.6781878,
     "lon": -73.989156,
     "name": "Carroll Street Bridge",
-    "url": null
+    "url": null,
+    "id": "brooklyn_carroll_street_bridge"
   },
   {
     "categories": [
@@ -406,7 +434,8 @@
     "lat": 40.67288,
     "lon": -73.9532399,
     "name": "Gridspace",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gridspace"
   },
   {
     "categories": [
@@ -419,7 +448,8 @@
     "lat": 40.703789,
     "lon": -73.9928,
     "name": "St. Ann's Warehouse",
-    "url": null
+    "url": null,
+    "id": "brooklyn_st_anns_warehouse"
   },
   {
     "categories": [
@@ -433,7 +463,8 @@
     "lat": 40.6643449,
     "lon": -73.9637644,
     "name": "Lefferts Historic House",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lefferts_historic_house"
   },
   {
     "categories": [
@@ -448,7 +479,8 @@
     "lat": 40.6729885,
     "lon": -73.9846023,
     "name": "Old Stone House & Washington Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_old_stone_house_washington_park"
   },
   {
     "categories": [
@@ -461,11 +493,13 @@
     "lat": 40.714288,
     "lon": -73.9497617,
     "name": "Brick Theatre",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brick_theatre"
   },
   {
     "categories": [
-      "recreation", "sports"
+      "recreation",
+      "sports"
     ],
     "description": "",
     "icon": null,
@@ -474,7 +508,8 @@
     "lat": 40.652779,
     "lon": -74.002944,
     "name": "Melody Lanes Bowling Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_melody_lanes_bowling_center"
   },
   {
     "categories": [
@@ -487,7 +522,8 @@
     "lat": 40.6799694,
     "lon": -73.9456848,
     "name": "The Billie Holiday Theatre",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_billie_holiday_theatre"
   },
   {
     "categories": [
@@ -500,7 +536,8 @@
     "lat": 40.687245,
     "lon": -73.9911963,
     "name": "The Invisible Dog Art Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_invisible_dog_art_center"
   },
   {
     "categories": [
@@ -514,7 +551,8 @@
     "lat": 40.6908467,
     "lon": -73.9897215,
     "name": "ISSUE Project Room",
-    "url": null
+    "url": null,
+    "id": "brooklyn_issue_project_room"
   },
   {
     "categories": [
@@ -527,7 +565,8 @@
     "lat": 40.7031305,
     "lon": -73.9952668,
     "name": "Bargemusic",
-    "url": null
+    "url": null,
+    "id": "brooklyn_bargemusic"
   },
   {
     "categories": [
@@ -541,7 +580,8 @@
     "lat": 40.6947959,
     "lon": -73.9924082,
     "name": "Brooklyn Historical Society",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_historical_society"
   },
   {
     "categories": [
@@ -555,7 +595,8 @@
     "lat": 40.6940583,
     "lon": -73.9964117,
     "name": "Grace Court Alley",
-    "url": null
+    "url": null,
+    "id": "brooklyn_grace_court_alley"
   },
   {
     "categories": [
@@ -569,7 +610,8 @@
     "lat": 40.7224421,
     "lon": -73.9485191,
     "name": "Warsaw",
-    "url": null
+    "url": null,
+    "id": "brooklyn_warsaw"
   },
   {
     "categories": [
@@ -583,7 +625,8 @@
     "lat": 40.717634,
     "lon": -73.947659,
     "name": "The Brooklyn Kitchen",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_brooklyn_kitchen"
   },
   {
     "categories": [
@@ -596,7 +639,8 @@
     "lat": 40.7254473,
     "lon": -73.956479,
     "name": "Acme Smoked Fish Corporation",
-    "url": null
+    "url": null,
+    "id": "brooklyn_acme_smoked_fish_corporation"
   },
   {
     "categories": [
@@ -609,7 +653,8 @@
     "lat": 40.6562028,
     "lon": -74.0073766,
     "name": "Coral & Tusk",
-    "url": null
+    "url": null,
+    "id": "brooklyn_coral_tusk"
   },
   {
     "categories": [
@@ -623,7 +668,8 @@
     "lat": 40.5782174,
     "lon": -73.9592266,
     "name": "Brighton Bazaar",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brighton_bazaar"
   },
   {
     "categories": [
@@ -637,7 +683,8 @@
     "lat": 40.6804785,
     "lon": -74.0124708,
     "name": "MARY A. WHALEN",
-    "url": null
+    "url": null,
+    "id": "brooklyn_mary_a_whalen"
   },
   {
     "categories": [
@@ -650,7 +697,8 @@
     "lat": 40.7189016,
     "lon": -73.9613395,
     "name": "National Sawdust",
-    "url": null
+    "url": null,
+    "id": "brooklyn_national_sawdust"
   },
   {
     "categories": [
@@ -663,7 +711,8 @@
     "lat": 40.6824532,
     "lon": -73.986126,
     "name": "Gotham Archery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gotham_archery"
   },
   {
     "categories": [
@@ -677,7 +726,8 @@
     "lat": 40.7105986,
     "lon": -73.9635467,
     "name": "Williamsburg Art & Historical Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_williamsburg_art_historical_center"
   },
   {
     "categories": [
@@ -691,7 +741,8 @@
     "lat": 40.670388,
     "lon": -73.985844,
     "name": "Interference Archive",
-    "url": null
+    "url": null,
+    "id": "brooklyn_interference_archive"
   },
   {
     "categories": [
@@ -704,7 +755,8 @@
     "lat": 40.6839938,
     "lon": -73.9920653,
     "name": "Books Are Magic",
-    "url": null
+    "url": null,
+    "id": "brooklyn_books_are_magic"
   },
   {
     "categories": [
@@ -718,7 +770,8 @@
     "lat": 40.6645909,
     "lon": -73.9577832,
     "name": "Former site of Ebbets Field",
-    "url": null
+    "url": null,
+    "id": "brooklyn_former_site_of_ebbets_field"
   },
   {
     "categories": [
@@ -731,7 +784,8 @@
     "lat": 40.6746019,
     "lon": -73.9880992,
     "name": "Lite Brite Neon Studio LLC",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lite_brite_neon_studio_llc"
   },
   {
     "categories": [
@@ -744,7 +798,8 @@
     "lat": 40.6908759,
     "lon": -73.9828655,
     "name": "House of Wax",
-    "url": null
+    "url": null,
+    "id": "brooklyn_house_of_wax"
   },
   {
     "categories": [
@@ -758,7 +813,8 @@
     "lat": 40.6779777,
     "lon": -73.9445838,
     "name": "The THNK1994 Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_thnk1994_museum"
   },
   {
     "categories": [
@@ -772,7 +828,8 @@
     "lat": 40.6271391,
     "lon": -73.9040646,
     "name": "Sebago Canoe Club Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_sebago_canoe_club_inc"
   },
   {
     "categories": [
@@ -785,7 +842,8 @@
     "lat": 40.6784075,
     "lon": -74.0181413,
     "name": "Louis Valentino, Jr. Park and Pier",
-    "url": null
+    "url": null,
+    "id": "brooklyn_louis_valentino_jr_park_and_pier"
   },
   {
     "categories": [
@@ -798,7 +856,8 @@
     "lat": 40.6691314,
     "lon": -73.9939402,
     "name": "Brooklyn Glass",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_glass"
   },
   {
     "categories": [
@@ -811,7 +870,8 @@
     "lat": 40.6878252,
     "lon": -73.9847697,
     "name": "Saint Nicholas Antiochian Orthodox Cathedral",
-    "url": null
+    "url": null,
+    "id": "brooklyn_saint_nicholas_antiochian_orthodox_cathedral"
   },
   {
     "categories": [
@@ -824,7 +884,8 @@
     "lat": 40.6572748,
     "lon": -74.0075161,
     "name": "The City Foundry",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_city_foundry"
   },
   {
     "categories": [
@@ -838,7 +899,8 @@
     "lat": 40.682702,
     "lon": -73.9672458,
     "name": "Church of St. Luke & St. Matthew",
-    "url": null
+    "url": null,
+    "id": "brooklyn_church_of_st_luke_st_matthew"
   },
   {
     "categories": [
@@ -852,7 +914,8 @@
     "lat": 40.714349,
     "lon": -73.9547487,
     "name": "Church of the Annunciation",
-    "url": null
+    "url": null,
+    "id": "brooklyn_church_of_the_annunciation"
   },
   {
     "categories": [
@@ -866,7 +929,8 @@
     "lat": 40.68389,
     "lon": -73.9011979,
     "name": "The Evergreens Cemetery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_evergreens_cemetery"
   },
   {
     "categories": [
@@ -879,7 +943,8 @@
     "lat": 40.650597,
     "lon": -74.014486,
     "name": "Five Boroughs Brewing Co.",
-    "url": null
+    "url": null,
+    "id": "brooklyn_five_boroughs_brewing_co"
   },
   {
     "categories": [
@@ -892,7 +957,8 @@
     "lat": 40.6995644,
     "lon": -73.9801965,
     "name": "Kings County Distillery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_kings_county_distillery"
   },
   {
     "categories": [
@@ -905,7 +971,8 @@
     "lat": 40.7345393,
     "lon": -73.9432776,
     "name": "Kingsland Wildflowers Green Roof & Community Engagement Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_kingsland_wildflowers_green_roof_community_engagement_center"
   },
   {
     "categories": [
@@ -918,7 +985,8 @@
     "lat": 40.6996055,
     "lon": -73.9895276,
     "name": "Urban Post-Disaster Housing Prototype",
-    "url": null
+    "url": null,
+    "id": "brooklyn_urban_post_disaster_housing_prototype"
   },
   {
     "categories": [
@@ -932,7 +1000,8 @@
     "lat": 40.7149298,
     "lon": -73.9619704,
     "name": "Fool's Gold Records",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fools_gold_records"
   },
   {
     "categories": [
@@ -946,7 +1015,8 @@
     "lat": 40.6877751,
     "lon": -73.9582771,
     "name": "Jane Bailey Memorial Garden",
-    "url": null
+    "url": null,
+    "id": "brooklyn_jane_bailey_memorial_garden"
   },
   {
     "categories": [
@@ -959,7 +1029,8 @@
     "lat": 40.6806183,
     "lon": -73.966431,
     "name": "Co-Cathedral of St. Joseph",
-    "url": null
+    "url": null,
+    "id": "brooklyn_co_cathedral_of_st_joseph"
   },
   {
     "categories": [
@@ -972,7 +1043,8 @@
     "lat": 40.716174,
     "lon": -73.9633205,
     "name": "Cloud City",
-    "url": null
+    "url": null,
+    "id": "brooklyn_cloud_city"
   },
   {
     "categories": [
@@ -985,7 +1057,8 @@
     "lat": 40.6923023,
     "lon": -73.9274769,
     "name": "Secret Project Robot",
-    "url": null
+    "url": null,
+    "id": "brooklyn_secret_project_robot"
   },
   {
     "categories": [
@@ -998,7 +1071,8 @@
     "lat": 40.7005824,
     "lon": -73.9881456,
     "name": "Etsy",
-    "url": null
+    "url": null,
+    "id": "brooklyn_etsy"
   },
   {
     "categories": [
@@ -1011,7 +1085,8 @@
     "lat": 40.6984759,
     "lon": -73.9904687,
     "name": "Cadman Plaza Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_cadman_plaza_park"
   },
   {
     "categories": [
@@ -1025,7 +1100,8 @@
     "lat": 40.6905805,
     "lon": -73.9468209,
     "name": "679 Lafayette Ave",
-    "url": null
+    "url": null,
+    "id": "brooklyn_679_lafayette_ave"
   },
   {
     "categories": [
@@ -1039,7 +1115,8 @@
     "lat": 40.6942202,
     "lon": -73.9941115,
     "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
-    "url": null
+    "url": null,
+    "id": "brooklyn_our_lady_of_lebanon_maronite_catholic_cathedral"
   },
   {
     "categories": [
@@ -1053,7 +1130,8 @@
     "lat": 40.6219355,
     "lon": -74.0346561,
     "name": "Brooklyn Visitation Monastery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_visitation_monastery"
   },
   {
     "categories": [
@@ -1066,7 +1144,8 @@
     "lat": 40.6368074,
     "lon": -74.0345172,
     "name": "The Barkaloo Cemetery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_barkaloo_cemetery"
   },
   {
     "categories": [
@@ -1080,7 +1159,8 @@
     "lat": 40.6638721,
     "lon": -73.968746,
     "name": "Prospect Park - Ravine",
-    "url": null
+    "url": null,
+    "id": "brooklyn_prospect_park_ravine"
   },
   {
     "categories": [
@@ -1095,7 +1175,8 @@
     "lat": 40.6577778,
     "lon": -73.9719444,
     "name": "Lookout Hill",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lookout_hill"
   },
   {
     "categories": [
@@ -1109,7 +1190,8 @@
     "lat": 40.6905275,
     "lon": -73.9898178,
     "name": "New York Transit Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_new_york_transit_museum"
   },
   {
     "categories": [
@@ -1122,7 +1204,8 @@
     "lat": 40.691317,
     "lon": -73.987861,
     "name": "372 Fulton St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_372_fulton_st"
   },
   {
     "categories": [
@@ -1136,7 +1219,8 @@
     "lat": 40.6608215,
     "lon": -73.9652444,
     "name": "Prospect Park Boathouse + Audubon Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_prospect_park_boathouse_audubon_center"
   },
   {
     "categories": [
@@ -1149,7 +1233,8 @@
     "lat": 40.6334879,
     "lon": -73.9882162,
     "name": "Pacifier Tree",
-    "url": null
+    "url": null,
+    "id": "brooklyn_pacifier_tree"
   },
   {
     "categories": [
@@ -1162,7 +1247,8 @@
     "lat": 40.7029749,
     "lon": -73.9889864,
     "name": "Gleason's Gym",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gleasons_gym"
   },
   {
     "categories": [
@@ -1176,7 +1262,8 @@
     "lat": 40.6593127,
     "lon": -73.9726639,
     "name": "Quaker Cemetery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_quaker_cemetery"
   },
   {
     "categories": [
@@ -1190,7 +1277,8 @@
     "lat": 40.6359665,
     "lon": -73.9778183,
     "name": "TRAINWORLD",
-    "url": null
+    "url": null,
+    "id": "brooklyn_trainworld"
   },
   {
     "categories": [
@@ -1203,7 +1291,8 @@
     "lat": 40.714231,
     "lon": -73.9346977,
     "name": "International Studio & Curatorial Program",
-    "url": null
+    "url": null,
+    "id": "brooklyn_international_studio_curatorial_program"
   },
   {
     "categories": [
@@ -1216,7 +1305,8 @@
     "lat": 40.6711264,
     "lon": -74.012936,
     "name": "Erie Basin Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_erie_basin_park"
   },
   {
     "categories": [
@@ -1229,7 +1319,8 @@
     "lat": 40.6396319,
     "lon": -74.0154736,
     "name": "Our Lady of Perpetual Help Church",
-    "url": null
+    "url": null,
+    "id": "brooklyn_our_lady_of_perpetual_help_church"
   },
   {
     "categories": [
@@ -1242,7 +1333,8 @@
     "lat": 40.6765256,
     "lon": -73.9975637,
     "name": "Dennet Place",
-    "url": null
+    "url": null,
+    "id": "brooklyn_dennet_place"
   },
   {
     "categories": [
@@ -1255,7 +1347,8 @@
     "lat": 40.6692899,
     "lon": -74.0076108,
     "name": "GBX Gowanus Bay Terminal",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gbx_gowanus_bay_terminal"
   },
   {
     "categories": [
@@ -1269,7 +1362,8 @@
     "lat": 40.678311,
     "lon": -74.0105985,
     "name": "Amorphic Robot Works",
-    "url": null
+    "url": null,
+    "id": "brooklyn_amorphic_robot_works"
   },
   {
     "categories": [
@@ -1283,7 +1377,8 @@
     "lat": 40.6879362,
     "lon": -73.9984861,
     "name": "Warren Place",
-    "url": null
+    "url": null,
+    "id": "brooklyn_warren_place"
   },
   {
     "categories": [
@@ -1296,7 +1391,8 @@
     "lat": 40.6354863,
     "lon": -73.9804474,
     "name": "Torah Animal World",
-    "url": null
+    "url": null,
+    "id": "brooklyn_torah_animal_world"
   },
   {
     "categories": [
@@ -1310,7 +1406,8 @@
     "lat": 40.6108391,
     "lon": -73.9513319,
     "name": "Wyckoff-Bennet Homestead",
-    "url": null
+    "url": null,
+    "id": "brooklyn_wyckoff_bennet_homestead"
   },
   {
     "categories": [
@@ -1324,7 +1421,8 @@
     "lat": 40.6945037,
     "lon": -73.9924631,
     "name": "St. Ann & the Holy Trinity Church",
-    "url": null
+    "url": null,
+    "id": "brooklyn_st_ann_the_holy_trinity_church"
   },
   {
     "categories": [
@@ -1338,7 +1436,8 @@
     "lat": 40.7023868,
     "lon": -73.980335,
     "name": "Commandant's House",
-    "url": null
+    "url": null,
+    "id": "brooklyn_commandants_house"
   },
   {
     "categories": [
@@ -1351,7 +1450,8 @@
     "lat": 40.6580779,
     "lon": -73.9948493,
     "name": "500 25th St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_500_25th_st"
   },
   {
     "categories": [
@@ -1364,7 +1464,8 @@
     "lat": 40.659115,
     "lon": -73.996076,
     "name": "Weir J Ebb & Co Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_weir_j_ebb_co_inc"
   },
   {
     "categories": [
@@ -1378,7 +1479,8 @@
     "lat": 40.6570104,
     "lon": -73.9897067,
     "name": "Minerva Statue",
-    "url": null
+    "url": null,
+    "id": "brooklyn_minerva_statue"
   },
   {
     "categories": [
@@ -1392,7 +1494,8 @@
     "lat": 40.6889501,
     "lon": -73.8864839,
     "name": "Ridgewood Reservoir",
-    "url": null
+    "url": null,
+    "id": "brooklyn_ridgewood_reservoir"
   },
   {
     "categories": [
@@ -1405,7 +1508,8 @@
     "lat": 40.676488,
     "lon": -73.888919,
     "name": "2840 Atlantic Ave",
-    "url": null
+    "url": null,
+    "id": "brooklyn_2840_atlantic_ave"
   },
   {
     "categories": [
@@ -1419,7 +1523,8 @@
     "lat": 40.5910174,
     "lon": -73.8906091,
     "name": "Floyd Bennett Field",
-    "url": null
+    "url": null,
+    "id": "brooklyn_floyd_bennett_field"
   },
   {
     "categories": [
@@ -1432,7 +1537,8 @@
     "lat": 40.6108083,
     "lon": -74.0340919,
     "name": "John Paul Jones Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_john_paul_jones_park"
   },
   {
     "categories": [
@@ -1445,7 +1551,8 @@
     "lat": 40.693169,
     "lon": -73.961144,
     "name": "Outside Space NYC Landscape and Garden Design",
-    "url": null
+    "url": null,
+    "id": "brooklyn_outside_space_nyc_landscape_and_garden_design"
   },
   {
     "categories": [
@@ -1459,7 +1566,8 @@
     "lat": 40.705377,
     "lon": -73.933755,
     "name": "FINE & RAW Chocolate",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fine_raw_chocolate"
   },
   {
     "categories": [
@@ -1472,7 +1580,8 @@
     "lat": 40.6431954,
     "lon": -73.9153159,
     "name": "Brooklyn Terminal Market Merchants Association",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_terminal_market_merchants_association"
   },
   {
     "categories": [
@@ -1485,7 +1594,8 @@
     "lat": 40.6914551,
     "lon": -73.9024229,
     "name": "The Muse",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_muse"
   },
   {
     "categories": [
@@ -1499,7 +1609,8 @@
     "lat": 40.7384101,
     "lon": -73.9531242,
     "name": "North Brooklyn Boat Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_north_brooklyn_boat_club"
   },
   {
     "categories": [
@@ -1513,7 +1624,8 @@
     "lat": 40.6792081,
     "lon": -74.0121513,
     "name": "Pioneer Works",
-    "url": null
+    "url": null,
+    "id": "brooklyn_pioneer_works"
   },
   {
     "categories": [
@@ -1527,7 +1639,8 @@
     "lat": 40.6558582,
     "lon": -73.9625246,
     "name": "Drummer's Grove",
-    "url": null
+    "url": null,
+    "id": "brooklyn_drummers_grove"
   },
   {
     "categories": [
@@ -1540,7 +1653,8 @@
     "lat": 40.6868022,
     "lon": -73.9785744,
     "name": "The Center for Fiction",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_center_for_fiction"
   },
   {
     "categories": [
@@ -1553,7 +1667,8 @@
     "lat": 40.7229747,
     "lon": -73.9511741,
     "name": "High Valley Books",
-    "url": null
+    "url": null,
+    "id": "brooklyn_high_valley_books"
   },
   {
     "categories": [
@@ -1566,7 +1681,8 @@
     "lat": 40.7292358,
     "lon": -73.9592967,
     "name": "Stuart Cinema & Cafe",
-    "url": null
+    "url": null,
+    "id": "brooklyn_stuart_cinema_cafe"
   },
   {
     "categories": [
@@ -1580,7 +1696,8 @@
     "lat": 40.6864565,
     "lon": -73.9940737,
     "name": "Staubitz Market",
-    "url": null
+    "url": null,
+    "id": "brooklyn_staubitz_market"
   },
   {
     "categories": [
@@ -1593,7 +1710,8 @@
     "lat": 40.68924,
     "lon": -73.994332,
     "name": "Metropolitan Rod & Gun Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_metropolitan_rod_gun_club"
   },
   {
     "categories": [
@@ -1606,7 +1724,8 @@
     "lat": 40.6677603,
     "lon": -73.9838642,
     "name": "Barbès",
-    "url": null
+    "url": null,
+    "id": "brooklyn_barb_s"
   },
   {
     "categories": [
@@ -1619,7 +1738,8 @@
     "lat": 40.6822675,
     "lon": -73.9863983,
     "name": "Public Records",
-    "url": null
+    "url": null,
+    "id": "brooklyn_public_records"
   },
   {
     "categories": [
@@ -1632,7 +1752,8 @@
     "lat": 40.7043658,
     "lon": -73.98619,
     "name": "Melville House Publishing and Bookstore",
-    "url": "https://www.mhpbooks.com/"
+    "url": "https://www.mhpbooks.com/",
+    "id": "brooklyn_melville_house_publishing_and_bookstore"
   },
   {
     "categories": [
@@ -1646,7 +1767,8 @@
     "lat": 40.7035539,
     "lon": -73.9916217,
     "name": "Empire Stores",
-    "url": "https://empireoutlet.nyc/"
+    "url": "https://empireoutlet.nyc/",
+    "id": "brooklyn_empire_stores"
   },
   {
     "categories": [
@@ -1660,7 +1782,8 @@
     "lat": 40.7029566,
     "lon": -73.9888366,
     "name": "POWERHOUSE Arena",
-    "url": "https://www.powerhousearena.com/"
+    "url": "https://www.powerhousearena.com/",
+    "id": "brooklyn_powerhouse_arena"
   },
   {
     "categories": [
@@ -1674,7 +1797,8 @@
     "lat": 40.6991711,
     "lon": -73.9931456,
     "name": "Plymouth Church",
-    "url": "http://www.plymouthchurch.org/"
+    "url": "http://www.plymouthchurch.org/",
+    "id": "brooklyn_plymouth_church"
   },
   {
     "categories": [
@@ -1688,7 +1812,8 @@
     "lat": 40.6959876,
     "lon": -73.9950959,
     "name": "Brooklyn Women's Exchange Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_womens_exchange_inc"
   },
   {
     "categories": [
@@ -1702,7 +1827,8 @@
     "lat": 40.6934007,
     "lon": -73.9974105,
     "name": "58 Joralemon St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_58_joralemon_st"
   },
   {
     "categories": [
@@ -1716,7 +1842,8 @@
     "lat": 40.6882642,
     "lon": -73.9892243,
     "name": "Urban Folk Art",
-    "url": null
+    "url": null,
+    "id": "brooklyn_urban_folk_art"
   },
   {
     "categories": [
@@ -1730,7 +1857,8 @@
     "lat": 40.7077721,
     "lon": -73.966749,
     "name": "Autonomedia",
-    "url": "https://www.autonomedia.org/"
+    "url": "https://www.autonomedia.org/",
+    "id": "brooklyn_autonomedia"
   },
   {
     "categories": [
@@ -1744,7 +1872,8 @@
     "lat": 40.6887464,
     "lon": -73.9920688,
     "name": "Flavor Paper",
-    "url": "https://flavorpaper.com/"
+    "url": "https://flavorpaper.com/",
+    "id": "brooklyn_flavor_paper"
   },
   {
     "categories": [
@@ -1758,7 +1887,8 @@
     "lat": 40.6789851,
     "lon": -73.9866028,
     "name": "Gowanus Souvenir Shop",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gowanus_souvenir_shop"
   },
   {
     "categories": [
@@ -1772,7 +1902,8 @@
     "lat": 40.6781264,
     "lon": -73.9852363,
     "name": "keur djembe African Drums Shop",
-    "url": null
+    "url": null,
+    "id": "brooklyn_keur_djembe_african_drums_shop"
   },
   {
     "categories": [
@@ -1786,7 +1917,8 @@
     "lat": 40.6813194,
     "lon": -74.0042257,
     "name": "Jalopy Theatre and School of Music",
-    "url": "https://jalopy.biz/"
+    "url": "https://jalopy.biz/",
+    "id": "brooklyn_jalopy_theatre_and_school_of_music"
   },
   {
     "categories": [
@@ -1800,7 +1932,8 @@
     "lat": 40.6833508,
     "lon": -73.9503228,
     "name": "Sistas' Place",
-    "url": "https://sistasplace.org/"
+    "url": "https://sistasplace.org/",
+    "id": "brooklyn_sistas_place"
   },
   {
     "categories": [
@@ -1814,7 +1947,8 @@
     "lat": 40.6809175,
     "lon": -73.9511572,
     "name": "Arlington Place",
-    "url": null
+    "url": null,
+    "id": "brooklyn_arlington_place"
   },
   {
     "categories": [
@@ -1827,7 +1961,8 @@
     "lat": 40.672629,
     "lon": -73.959636,
     "name": "Five Myles",
-    "url": "http://fivemyles.org/"
+    "url": "http://fivemyles.org/",
+    "id": "brooklyn_five_myles"
   },
   {
     "categories": [
@@ -1841,7 +1976,8 @@
     "lat": 40.664259,
     "lon": -73.9434144,
     "name": "The Betzalel Gallery & Picture Framing",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_betzalel_gallery_picture_framing"
   },
   {
     "categories": [
@@ -1855,7 +1991,8 @@
     "lat": 40.687607,
     "lon": -73.9897317,
     "name": "Micro Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_micro_museum"
   },
   {
     "categories": [
@@ -1869,7 +2006,8 @@
     "lat": 40.6854419,
     "lon": -73.9896727,
     "name": "108 Wyckoff St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_108_wyckoff_st"
   },
   {
     "categories": [
@@ -1882,7 +2020,8 @@
     "lat": 40.7229231,
     "lon": -73.955229,
     "name": "The Boiler | Pierogi",
-    "url": "https://pierogi2000.com/"
+    "url": "https://pierogi2000.com/",
+    "id": "brooklyn_the_boiler_pierogi"
   },
   {
     "categories": [
@@ -1896,7 +2035,8 @@
     "lat": 40.7298447,
     "lon": -73.9607685,
     "name": "WNYC Transmitter Park",
-    "url": "https://www.nyc.gov/site/parks/parks/wnyc-transmitter-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/wnyc-transmitter-park.page",
+    "id": "brooklyn_wnyc_transmitter_park"
   },
   {
     "categories": [
@@ -1909,7 +2049,8 @@
     "lat": 40.7315714,
     "lon": -73.9469037,
     "name": "Newtown Creek Wastewater Treatment Plant",
-    "url": "https://www.nyc.gov/site/dep/water/newtown-creek-wastewater-treatment-plant.page"
+    "url": "https://www.nyc.gov/site/dep/water/newtown-creek-wastewater-treatment-plant.page",
+    "id": "brooklyn_newtown_creek_wastewater_treatment_plant"
   },
   {
     "categories": [
@@ -1923,7 +2064,8 @@
     "lat": 40.736267,
     "lon": -73.948846,
     "name": "Newtown Creek Nature Walk",
-    "url": null
+    "url": null,
+    "id": "brooklyn_newtown_creek_nature_walk"
   },
   {
     "categories": [
@@ -1937,7 +2079,8 @@
     "lat": 40.734637,
     "lon": -73.955648,
     "name": "Light Industry",
-    "url": "http://lightindustry.org/"
+    "url": "http://lightindustry.org/",
+    "id": "brooklyn_light_industry"
   },
   {
     "categories": [
@@ -1951,7 +2094,8 @@
     "lat": 40.733263,
     "lon": -73.9550435,
     "name": "The Thing",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_thing"
   },
   {
     "categories": [
@@ -1964,7 +2108,8 @@
     "lat": 40.7307422,
     "lon": -73.9542059,
     "name": "Green Farms Super Market",
-    "url": null
+    "url": null,
+    "id": "brooklyn_green_farms_super_market"
   },
   {
     "categories": [
@@ -1978,7 +2123,8 @@
     "lat": 40.7293483,
     "lon": -73.9535391,
     "name": "Sunshine Laundromat",
-    "url": "https://www.sunshinelaundromat.com/"
+    "url": "https://www.sunshinelaundromat.com/",
+    "id": "brooklyn_sunshine_laundromat"
   },
   {
     "categories": [
@@ -1991,7 +2137,8 @@
     "lat": 40.7076388,
     "lon": -73.9218185,
     "name": "The Bushwick Collective",
-    "url": "https://thebushwickcollective.com/"
+    "url": "https://thebushwickcollective.com/",
+    "id": "brooklyn_the_bushwick_collective"
   },
   {
     "categories": [
@@ -2004,7 +2151,8 @@
     "lat": 40.706795,
     "lon": -73.9212834,
     "name": "Green Village Used Clothing",
-    "url": null
+    "url": null,
+    "id": "brooklyn_green_village_used_clothing"
   },
   {
     "categories": [
@@ -2018,7 +2166,8 @@
     "lat": 40.7068169,
     "lon": -73.9236004,
     "name": "House of Yes",
-    "url": "https://houseofyes.org/"
+    "url": "https://houseofyes.org/",
+    "id": "brooklyn_house_of_yes"
   },
   {
     "categories": [
@@ -2031,7 +2180,8 @@
     "lat": 40.7045416,
     "lon": -73.92967,
     "name": "Human Relations",
-    "url": null
+    "url": null,
+    "id": "brooklyn_human_relations"
   },
   {
     "categories": [
@@ -2045,7 +2195,8 @@
     "lat": 40.710973,
     "lon": -73.9363036,
     "name": "The Paper Box",
-    "url": "https://www.paperboxnyc.com/"
+    "url": "https://www.paperboxnyc.com/",
+    "id": "brooklyn_the_paper_box"
   },
   {
     "categories": [
@@ -2059,7 +2210,8 @@
     "lat": 40.7038146,
     "lon": -73.9410897,
     "name": "Moore Street Market",
-    "url": null
+    "url": null,
+    "id": "brooklyn_moore_street_market"
   },
   {
     "categories": [
@@ -2072,7 +2224,8 @@
     "lat": 40.7223295,
     "lon": -73.9613074,
     "name": "Bushwick Inlet Park",
-    "url": "https://www.nyc.gov/site/parks/parks/bushwick-inlet-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/bushwick-inlet-park.page",
+    "id": "brooklyn_bushwick_inlet_park"
   },
   {
     "categories": [
@@ -2085,7 +2238,8 @@
     "lat": 40.7214081,
     "lon": -73.9620691,
     "name": "State of New York- East River State Park",
-    "url": "https://parks.ny.gov/parks/148/details.aspx"
+    "url": "https://parks.ny.gov/parks/148/details.aspx",
+    "id": "brooklyn_state_of_new_york_east_river_state_park"
   },
   {
     "categories": [
@@ -2098,7 +2252,8 @@
     "lat": 40.716365,
     "lon": -73.966639,
     "name": "Grand Ferry Park",
-    "url": "https://www.nyc.gov/site/parks/parks/grand-ferry-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/grand-ferry-park.page",
+    "id": "brooklyn_grand_ferry_park"
   },
   {
     "categories": [
@@ -2111,7 +2266,8 @@
     "lat": 40.7149544,
     "lon": -73.966198,
     "name": "indieScreen",
-    "url": null
+    "url": null,
+    "id": "brooklyn_indiescreen"
   },
   {
     "categories": [
@@ -2125,7 +2281,8 @@
     "lat": 40.7159891,
     "lon": -73.9594278,
     "name": "Whisk",
-    "url": "https://whisk.com/"
+    "url": "https://whisk.com/",
+    "id": "brooklyn_whisk"
   },
   {
     "categories": [
@@ -2138,7 +2295,8 @@
     "lat": 40.7165843,
     "lon": -73.9619363,
     "name": "Book Thug Nation",
-    "url": "https://bookthug.ca/"
+    "url": "https://bookthug.ca/",
+    "id": "brooklyn_book_thug_nation"
   },
   {
     "categories": [
@@ -2152,7 +2310,8 @@
     "lat": 40.713963,
     "lon": -73.955746,
     "name": "The City Reliquary Museum",
-    "url": "https://cityreliquary.org/"
+    "url": "https://cityreliquary.org/",
+    "id": "brooklyn_the_city_reliquary_museum"
   },
   {
     "categories": [
@@ -2166,7 +2325,8 @@
     "lat": 40.715273,
     "lon": -73.953158,
     "name": "The Arm Letterpress",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_arm_letterpress"
   },
   {
     "categories": [
@@ -2180,7 +2340,8 @@
     "lat": 40.703747,
     "lon": -73.992537,
     "name": "Museum of Food and Drink (MOFAD) Lab",
-    "url": "https://www.mofad.org/"
+    "url": "https://www.mofad.org/",
+    "id": "brooklyn_museum_of_food_and_drink_mofad_lab"
   },
   {
     "categories": [
@@ -2194,7 +2355,8 @@
     "lat": 40.7125413,
     "lon": -73.9628444,
     "name": "Spectacle",
-    "url": "http://spectacletheater.com/"
+    "url": "http://spectacletheater.com/",
+    "id": "brooklyn_spectacle"
   },
   {
     "categories": [
@@ -2207,7 +2369,8 @@
     "lat": 40.6941285,
     "lon": -73.9306532,
     "name": "The Living Gallery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_living_gallery"
   },
   {
     "categories": [
@@ -2221,7 +2384,8 @@
     "lat": 40.6893275,
     "lon": -73.933321,
     "name": "Do The Right Thing Way",
-    "url": null
+    "url": null,
+    "id": "brooklyn_do_the_right_thing_way"
   },
   {
     "categories": [
@@ -2234,7 +2398,8 @@
     "lat": 40.7006193,
     "lon": -73.9237572,
     "name": "Molasses Books",
-    "url": null
+    "url": null,
+    "id": "brooklyn_molasses_books"
   },
   {
     "categories": [
@@ -2247,7 +2412,8 @@
     "lat": 40.7008259,
     "lon": -73.9424803,
     "name": "Woodhull Medical Center",
-    "url": "https://www.nychealthandhospitals.org/woodhull/"
+    "url": "https://www.nychealthandhospitals.org/woodhull/",
+    "id": "brooklyn_woodhull_medical_center"
   },
   {
     "categories": [
@@ -2260,7 +2426,8 @@
     "lat": 40.6306627,
     "lon": -73.9665767,
     "name": "Brooklyn Table Tennis Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_table_tennis_club"
   },
   {
     "categories": [
@@ -2273,7 +2440,8 @@
     "lat": 40.6314406,
     "lon": -73.9544488,
     "name": "Brooklyn College",
-    "url": "https://www.brooklyn.cuny.edu/"
+    "url": "https://www.brooklyn.cuny.edu/",
+    "id": "brooklyn_brooklyn_college"
   },
   {
     "categories": [
@@ -2287,7 +2455,8 @@
     "lat": 40.635547,
     "lon": -73.9805466,
     "name": "Living Torah Museum",
-    "url": "https://www.livingtorahmuseum.org/"
+    "url": "https://www.livingtorahmuseum.org/",
+    "id": "brooklyn_living_torah_museum"
   },
   {
     "categories": [
@@ -2301,7 +2470,8 @@
     "lat": 40.6485601,
     "lon": -73.978833,
     "name": "Brancaccio's Food Shop",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brancaccios_food_shop"
   },
   {
     "categories": [
@@ -2314,7 +2484,8 @@
     "lat": 40.6424018,
     "lon": -73.9807003,
     "name": "Buzz-A-Rama",
-    "url": null
+    "url": null,
+    "id": "brooklyn_buzz_a_rama"
   },
   {
     "categories": [
@@ -2327,7 +2498,8 @@
     "lat": 40.6395941,
     "lon": -73.9684007,
     "name": "Brooklyn ARTery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_artery"
   },
   {
     "categories": [
@@ -2341,7 +2513,8 @@
     "lat": 40.6400252,
     "lon": -73.9662255,
     "name": "Sacred Vibes Apothecary",
-    "url": null
+    "url": null,
+    "id": "brooklyn_sacred_vibes_apothecary"
   },
   {
     "categories": [
@@ -2355,7 +2528,8 @@
     "lat": 40.6495813,
     "lon": -73.9581967,
     "name": "Erasmus Hall High School",
-    "url": null
+    "url": null,
+    "id": "brooklyn_erasmus_hall_high_school"
   },
   {
     "categories": [
@@ -2369,7 +2543,8 @@
     "lat": 40.6485612,
     "lon": -73.959662,
     "name": "Albemarle Terrace",
-    "url": null
+    "url": null,
+    "id": "brooklyn_albemarle_terrace"
   },
   {
     "categories": [
@@ -2383,7 +2558,8 @@
     "lat": 40.6491736,
     "lon": -73.9594277,
     "name": "Kenmore Terrace",
-    "url": null
+    "url": null,
+    "id": "brooklyn_kenmore_terrace"
   },
   {
     "categories": [
@@ -2398,7 +2574,8 @@
     "lat": 40.6491593,
     "lon": -73.9938053,
     "name": "Niblo Mausoleum",
-    "url": "https://www.green-wood.com/"
+    "url": "https://www.green-wood.com/",
+    "id": "brooklyn_niblo_mausoleum"
   },
   {
     "categories": [
@@ -2414,10 +2591,13 @@
     "lat": 40.6580779,
     "lon": -73.9948493,
     "name": "van ness mausoleum",
-    "url": "https://www.green-wood.com/"
+    "url": "https://www.green-wood.com/",
+    "id": "brooklyn_van_ness_mausoleum"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2425,10 +2605,13 @@
     "lat": 40.705467,
     "lon": -73.932367,
     "name": "Better Than Jam's STORE & STUDIO",
-    "url": null
+    "url": null,
+    "id": "brooklyn_better_than_jams_store_studio"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2436,10 +2619,13 @@
     "lat": 40.6998833,
     "lon": -73.9987987,
     "name": "Brooklyn Bridge Park Boathouse, Pier 2",
-    "url": "https://www.brooklynbridgepark.org/"
+    "url": "https://www.brooklynbridgepark.org/",
+    "id": "brooklyn_brooklyn_bridge_park_boathouse_pier_2"
   },
   {
-    "categories": ["sports"],
+    "categories": [
+      "sports"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2447,10 +2633,14 @@
     "lat": 40.5748057,
     "lon": -73.9844943,
     "name": "Brooklyn Cyclones at MCU Park",
-    "url": "https://www.milb.com/brooklyn"
+    "url": "https://www.milb.com/brooklyn",
+    "id": "brooklyn_brooklyn_cyclones_at_mcu_park"
   },
   {
-    "categories": ["nature", "quirky"],
+    "categories": [
+      "nature",
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2458,10 +2648,13 @@
     "lat": 40.5815181,
     "lon": -73.8961059,
     "name": "Glass Bottle Beach",
-    "url": null
+    "url": null,
+    "id": "brooklyn_glass_bottle_beach"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2469,10 +2662,13 @@
     "lat": 40.6741953,
     "lon": -74.011412,
     "name": "She-Weld",
-    "url": "https://she-weld.com/"
+    "url": "https://she-weld.com/",
+    "id": "brooklyn_she_weld"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2480,10 +2676,13 @@
     "lat": 40.699218,
     "lon": -73.929546,
     "name": "Bushwick Community Darkroom",
-    "url": "https://www.bushwickcommunitydarkroom.com/"
+    "url": "https://www.bushwickcommunitydarkroom.com/",
+    "id": "brooklyn_bushwick_community_darkroom"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2491,10 +2690,14 @@
     "lat": 40.707737,
     "lon": -73.9247634,
     "name": "Brooklyn Film Camera",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_film_camera"
   },
   {
-    "categories": ["park", "landmark"],
+    "categories": [
+      "park",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2502,10 +2705,14 @@
     "lat": 40.660643,
     "lon": -73.9658835,
     "name": "Lullwater Bridge",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lullwater_bridge"
   },
   {
-    "categories": ["nature", "landmark"],
+    "categories": [
+      "nature",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2513,10 +2720,13 @@
     "lat": 40.6604439,
     "lon": -73.9650484,
     "name": "Camperdown Elm",
-    "url": null
+    "url": null,
+    "id": "brooklyn_camperdown_elm"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2524,10 +2734,13 @@
     "lat": 40.643811,
     "lon": -73.915038,
     "name": "Brooklyn Plantology by Lapide",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_plantology_by_lapide"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2535,10 +2748,13 @@
     "lat": 40.6768345,
     "lon": -73.985221,
     "name": "Textile Arts Center",
-    "url": "https://textileartscenter.com/"
+    "url": "https://textileartscenter.com/",
+    "id": "brooklyn_textile_arts_center"
   },
   {
-    "categories": ["sports"],
+    "categories": [
+      "sports"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2546,10 +2762,13 @@
     "lat": 40.606658,
     "lon": -73.9357984,
     "name": "Marine Park Cricket Field",
-    "url": null
+    "url": null,
+    "id": "brooklyn_marine_park_cricket_field"
   },
   {
-    "categories": ["sports"],
+    "categories": [
+      "sports"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2557,10 +2776,13 @@
     "lat": 40.6257282,
     "lon": -73.8993055,
     "name": "Canarsie Park Cricket Ground 1",
-    "url": null
+    "url": null,
+    "id": "brooklyn_canarsie_park_cricket_ground_1"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2568,10 +2790,13 @@
     "lat": 40.6771821,
     "lon": -73.9566243,
     "name": "Crown Finish Caves",
-    "url": "https://www.crownfinishcaves.com/"
+    "url": "https://www.crownfinishcaves.com/",
+    "id": "brooklyn_crown_finish_caves"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2579,10 +2804,13 @@
     "lat": 40.6824672,
     "lon": -73.9798588,
     "name": "Espo's Art World",
-    "url": null
+    "url": null,
+    "id": "brooklyn_espos_art_world"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2590,10 +2818,13 @@
     "lat": 40.6501539,
     "lon": -73.9589433,
     "name": "Flatbush Reformed Church",
-    "url": "https://www.flatbushchurch.org/"
+    "url": "https://www.flatbushchurch.org/",
+    "id": "brooklyn_flatbush_reformed_church"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2601,10 +2832,14 @@
     "lat": 40.6791092,
     "lon": -73.9836161,
     "name": "Kick Axe Throwing BROOKLYN",
-    "url": "https://www.kickaxe.com/"
+    "url": "https://www.kickaxe.com/",
+    "id": "brooklyn_kick_axe_throwing_brooklyn"
   },
   {
-    "categories": ["museum", "historic"],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2612,10 +2847,14 @@
     "lat": 40.6618645,
     "lon": -73.9803428,
     "name": "Lesbian Herstory Archives",
-    "url": "https://lesbianherstoryarchives.org/"
+    "url": "https://lesbianherstoryarchives.org/",
+    "id": "brooklyn_lesbian_herstory_archives"
   },
   {
-    "categories": ["museum", "historic"],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2623,10 +2862,13 @@
     "lat": 40.573839,
     "lon": -73.979541,
     "name": "Coney Island History Project",
-    "url": "https://www.coneyislandhistory.org/"
+    "url": "https://www.coneyislandhistory.org/",
+    "id": "brooklyn_coney_island_history_project"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "78 pieces foraged from old buildings in the station's mezzanine",
     "icon": null,
     "imageURL": null,
@@ -2634,10 +2876,14 @@
     "lat": 40.6719938,
     "lon": -73.9642065,
     "name": "Eastern Parkway Brooklyn Museum Station",
-    "url": null
+    "url": null,
+    "id": "brooklyn_eastern_parkway_brooklyn_museum_station"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "Ditmas Victorian japanese house",
     "icon": null,
     "imageURL": null,
@@ -2645,10 +2891,14 @@
     "lat": 40.6473457,
     "lon": -73.9645954,
     "name": "131 Buckingham Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_131_buckingham_rd"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "Ditmas Victorian Sophie's Choice house",
     "icon": null,
     "imageURL": null,
@@ -2656,10 +2906,14 @@
     "lat": 40.6473788,
     "lon": -73.9662439,
     "name": "101 Rugby Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_101_rugby_rd"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2667,10 +2921,14 @@
     "lat": 40.6472798,
     "lon": -73.9667719,
     "name": "100 Rugby Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_100_rugby_rd"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2678,10 +2936,13 @@
     "lat": 40.636427,
     "lon": -73.964653,
     "name": "1320 Ditmas Ave",
-    "url": null
+    "url": null,
+    "id": "brooklyn_1320_ditmas_ave"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2689,10 +2950,13 @@
     "lat": 40.6734904,
     "lon": -74.0100937,
     "name": "Van Brunt Stillhouse",
-    "url": "https://www.vanbruntstillhouse.com/"
+    "url": "https://www.vanbruntstillhouse.com/",
+    "id": "brooklyn_van_brunt_stillhouse"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2700,10 +2964,13 @@
     "lat": 40.6961538,
     "lon": -73.9847737,
     "name": "Miss Brooklyn & Miss Manhattan",
-    "url": null
+    "url": null,
+    "id": "brooklyn_miss_brooklyn_miss_manhattan"
   },
   {
-    "categories": ["theater"],
+    "categories": [
+      "theater"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2711,10 +2978,13 @@
     "lat": 40.7111031,
     "lon": -73.9429092,
     "name": "Then She Fell",
-    "url": "https://www.thenshefell.com/"
+    "url": "https://www.thenshefell.com/",
+    "id": "brooklyn_then_she_fell"
   },
   {
-    "categories": ["historic"],
+    "categories": [
+      "historic"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2722,10 +2992,13 @@
     "lat": 40.6777249,
     "lon": -73.9732782,
     "name": "Park Slope Plane Crash site",
-    "url": null
+    "url": null,
+    "id": "brooklyn_park_slope_plane_crash_site"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2733,10 +3006,13 @@
     "lat": 40.6773529,
     "lon": -74.0153869,
     "name": "Widow Jane Distillery",
-    "url": "https://www.widowjane.com/"
+    "url": "https://www.widowjane.com/",
+    "id": "brooklyn_widow_jane_distillery"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2744,10 +3020,13 @@
     "lat": 40.6814367,
     "lon": -74.0071505,
     "name": "Raaka Chocolate",
-    "url": "https://www.raakachocolate.com/"
+    "url": "https://www.raakachocolate.com/",
+    "id": "brooklyn_raaka_chocolate"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2755,10 +3034,13 @@
     "lat": 40.6725717,
     "lon": -74.0087895,
     "name": "Red Hook Community Farms",
-    "url": "https://www.rhcf.org/"
+    "url": "https://www.rhcf.org/",
+    "id": "brooklyn_red_hook_community_farms"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2766,10 +3048,13 @@
     "lat": 40.6768146,
     "lon": -73.9983507,
     "name": "St. Mary Star of the Sea",
-    "url": "https://www.stmarystarnyc.org/"
+    "url": "https://www.stmarystarnyc.org/",
+    "id": "brooklyn_st_mary_star_of_the_sea"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "In 2007, as part of a PlaNYC initiative to create regional destination parks in all five boroughs, the comprehensive master plan design for the 72-acre Calvert Vaux Park was unveiled. Central to this plan was the construction of a Park Pavilion and Maintenance Facility, designed by 1100 Architect. The concept was developed based on the requirement that five distinct programs (athletic storage, public restroom, staff office, work area, and vehicle storage) be located within one site. One of the design challenges was to build a single facility that worked both as a hospitable environment for park visitors, but also as a durable facility for the heavy use of park vehicles and maintenance equipment. To cohesively serve those two very different user groups, the design creates an innovative footprint that merges three connected wings. The building doubles as a gateway to the park, providing a sense of arrival. On track for LEED Silver Certification, the design also includes an array of measures for sustainability and energy efficiency.",
     "icon": null,
     "imageURL": null,
@@ -2777,10 +3062,13 @@
     "lat": 40.5843671,
     "lon": -73.9952563,
     "name": "Calvert Vaux Park",
-    "url": "https://www.nyc.gov/site/parks/parks/calvert-vaux-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/calvert-vaux-park.page",
+    "id": "brooklyn_calvert_vaux_park"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2788,10 +3076,13 @@
     "lat": 40.706314,
     "lon": -73.921075,
     "name": "Microscope Gallery",
-    "url": "https://microscopegallery.com/"
+    "url": "https://microscopegallery.com/",
+    "id": "brooklyn_microscope_gallery"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2799,10 +3090,13 @@
     "lat": 40.708338,
     "lon": -73.941333,
     "name": "Lions Roar Karaoke",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lions_roar_karaoke"
   },
   {
-    "categories": ["sports"],
+    "categories": [
+      "sports"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2810,10 +3104,13 @@
     "lat": 40.647842,
     "lon": -73.963455,
     "name": "Knickerbocker Field Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_knickerbocker_field_club"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2821,10 +3118,13 @@
     "lat": 40.5771617,
     "lon": -73.9648664,
     "name": "National Bakery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_national_bakery"
   },
   {
-    "categories": ["cinema"],
+    "categories": [
+      "cinema"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2832,10 +3132,13 @@
     "lat": 40.7016474,
     "lon": -73.9272448,
     "name": "Peephole Cinema",
-    "url": "https://peepholecinema.info/"
+    "url": "https://peepholecinema.info/",
+    "id": "brooklyn_peephole_cinema"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2843,10 +3146,13 @@
     "lat": 40.6701876,
     "lon": -73.9858765,
     "name": "Fifth Avenue Bingo",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fifth_avenue_bingo"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2854,10 +3160,13 @@
     "lat": 40.7042318,
     "lon": -73.9870246,
     "name": "Sorted Library",
-    "url": null
+    "url": null,
+    "id": "brooklyn_sorted_library"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "One Brooklyn man's collection of life-size fiberglass statues has taken over his entire yard.",
     "icon": null,
     "imageURL": null,
@@ -2865,10 +3174,13 @@
     "lat": 40.6042365,
     "lon": -73.9963288,
     "name": "Bensonhurst statue house",
-    "url": null
+    "url": null,
+    "id": "brooklyn_bensonhurst_statue_house"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "offers free weekly tours",
     "icon": null,
     "imageURL": null,
@@ -2876,10 +3188,13 @@
     "lat": 40.6750448,
     "lon": -73.9886778,
     "name": "Gotham Greens",
-    "url": "https://www.gothamgreens.com/"
+    "url": "https://www.gothamgreens.com/",
+    "id": "brooklyn_gotham_greens"
   },
   {
-    "categories": ["historic"],
+    "categories": [
+      "historic"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2887,10 +3202,13 @@
     "lat": 40.6992601,
     "lon": -73.9630928,
     "name": "Naval Cemetery Landscape",
-    "url": null
+    "url": null,
+    "id": "brooklyn_naval_cemetery_landscape"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2898,10 +3216,13 @@
     "lat": 40.6430089,
     "lon": -73.8754301,
     "name": "Shirley Chisholm State Park",
-    "url": "https://parks.ny.gov/parks/shirleychisholm/"
+    "url": "https://parks.ny.gov/parks/shirleychisholm/",
+    "id": "brooklyn_shirley_chisholm_state_park"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2909,10 +3230,13 @@
     "lat": 40.6727944,
     "lon": -74.0176183,
     "name": "Brooklyn Waterfront Artists",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_waterfront_artists"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2920,10 +3244,13 @@
     "lat": 40.684426,
     "lon": -73.890315,
     "name": "Carmelite Monastery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_carmelite_monastery"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2931,10 +3258,14 @@
     "lat": 40.70384,
     "lon": -73.9379809,
     "name": "Wendy's Subway",
-    "url": null
+    "url": null,
+    "id": "brooklyn_wendys_subway"
   },
   {
-    "categories": ["cinema", "quirky"],
+    "categories": [
+      "cinema",
+      "quirky"
+    ],
     "description": "world's smallest cinema off of lobby",
     "icon": null,
     "imageURL": null,
@@ -2942,10 +3273,13 @@
     "lat": 40.7208251,
     "lon": -73.9587909,
     "name": "The Hoxton, Williamsburg",
-    "url": "https://thehoxton.com/williamsburg/"
+    "url": "https://thehoxton.com/williamsburg/",
+    "id": "brooklyn_the_hoxton_williamsburg"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2953,10 +3287,13 @@
     "lat": 40.6594154,
     "lon": -74.0044891,
     "name": "Brooklyn Grange Sunset Park",
-    "url": "https://www.brooklyngrangefarm.com/"
+    "url": "https://www.brooklyngrangefarm.com/",
+    "id": "brooklyn_brooklyn_grange_sunset_park"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2964,10 +3301,14 @@
     "lat": 40.6679726,
     "lon": -73.943198,
     "name": "Friends of Refugees of Eastern Europe",
-    "url": null
+    "url": null,
+    "id": "brooklyn_friends_of_refugees_of_eastern_europe"
   },
   {
-    "categories": ["historic", "neighborhood"],
+    "categories": [
+      "historic",
+      "neighborhood"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2975,10 +3316,13 @@
     "lat": 40.6676959,
     "lon": -73.9435885,
     "name": "mansions of president street",
-    "url": null
+    "url": null,
+    "id": "brooklyn_mansions_of_president_street"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -2986,10 +3330,13 @@
     "lat": 40.6770318,
     "lon": -73.985069,
     "name": "Blue: The Tatter Textile Library",
-    "url": null
+    "url": null,
+    "id": "brooklyn_blue_the_tatter_textile_library"
   },
   {
-    "categories": ["historic"],
+    "categories": [
+      "historic"
+    ],
     "description": "nearly every grave marker is made of tin or copper",
     "icon": null,
     "imageURL": null,
@@ -2997,10 +3344,13 @@
     "lat": 40.6886665,
     "lon": -73.9028772,
     "name": "Most Holy Trinity Cemetery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_most_holy_trinity_cemetery"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3008,10 +3358,13 @@
     "lat": 40.7025762,
     "lon": -73.9874484,
     "name": "Berl's Brooklyn Poetry Shop",
-    "url": null
+    "url": null,
+    "id": "brooklyn_berls_brooklyn_poetry_shop"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3019,10 +3372,14 @@
     "lat": 40.6443269,
     "lon": -73.8855623,
     "name": "Fresh Creek Nature Preserve",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fresh_creek_nature_preserve"
   },
   {
-    "categories": ["park", "landmark"],
+    "categories": [
+      "park",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3030,10 +3387,13 @@
     "lat": 40.6710577,
     "lon": -73.9690506,
     "name": "Endale Arch",
-    "url": null
+    "url": null,
+    "id": "brooklyn_endale_arch"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3041,10 +3401,13 @@
     "lat": 40.6973722,
     "lon": -73.9679774,
     "name": "Recess",
-    "url": null
+    "url": null,
+    "id": "brooklyn_recess"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3052,10 +3415,14 @@
     "lat": 40.6939265,
     "lon": -73.9626766,
     "name": "Hadas Gallery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_hadas_gallery"
   },
   {
-    "categories": ["nature", "nps"],
+    "categories": [
+      "nature",
+      "nps"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3063,10 +3430,13 @@
     "lat": 40.583293,
     "lon": -73.9209991,
     "name": "Plumb Beach (Gateway National Recreation Area)",
-    "url": "https://www.nps.gov/gate/"
+    "url": "https://www.nps.gov/gate/",
+    "id": "brooklyn_plumb_beach_gateway_national_recreation_area"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3074,7 +3444,8 @@
     "lat": 40.6040464,
     "lon": -73.9306319,
     "name": "Marine Park Salt Marsh Nature Center",
-    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page"
+    "url": "https://www.nyc.gov/site/parks/parks/salt-marsh-nature-center.page",
+    "id": "brooklyn_marine_park_salt_marsh_nature_center"
   },
   {
     "categories": [],
@@ -3085,10 +3456,13 @@
     "lat": 40.7030725,
     "lon": -73.9811206,
     "name": "Hudson Avenue",
-    "url": null
+    "url": null,
+    "id": "brooklyn_hudson_avenue"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3096,10 +3470,13 @@
     "lat": 40.6463726,
     "lon": -73.9656929,
     "name": "1440 Albemarle Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_1440_albemarle_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3107,10 +3484,13 @@
     "lat": 40.6464586,
     "lon": -73.965073,
     "name": "1510 Albemarle Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_1510_albemarle_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "best halloween decorations",
     "icon": null,
     "imageURL": null,
@@ -3118,10 +3498,13 @@
     "lat": 40.6462459,
     "lon": -73.9669786,
     "name": "1306 Albemarle Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_1306_albemarle_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3129,10 +3512,13 @@
     "lat": 40.6474062,
     "lon": -73.9646778,
     "name": "125 Buckingham Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_125_buckingham_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3140,10 +3526,13 @@
     "lat": 40.6482838,
     "lon": -73.9644851,
     "name": "85 Buckingham Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_85_buckingham_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3151,10 +3540,13 @@
     "lat": 40.6420382,
     "lon": -73.9652572,
     "name": "317 Rugby Rd",
-    "url": null
+    "url": null,
+    "id": "brooklyn_317_rugby_rd"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "NHL",
     "icon": null,
     "imageURL": null,
@@ -3162,10 +3554,13 @@
     "lat": 40.6481035,
     "lon": -73.927264,
     "name": "The Jackie Robinson House",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_jackie_robinson_house"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3173,10 +3568,13 @@
     "lat": 40.6028756,
     "lon": -73.9535492,
     "name": "Enrico Caruso Museum of America",
-    "url": null
+    "url": null,
+    "id": "brooklyn_enrico_caruso_museum_of_america"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3184,10 +3582,13 @@
     "lat": 40.6278614,
     "lon": -74.0383897,
     "name": "Gingerbread House",
-    "url": null
+    "url": null,
+    "id": "brooklyn_gingerbread_house"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3195,10 +3596,13 @@
     "lat": 40.7037407,
     "lon": -73.9897595,
     "name": "Smack Mellon",
-    "url": "https://www.smackmellon.org/"
+    "url": "https://www.smackmellon.org/",
+    "id": "brooklyn_smack_mellon"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "home for independently made arcade games",
     "icon": null,
     "imageURL": null,
@@ -3206,10 +3610,13 @@
     "lat": 40.6923719,
     "lon": -73.9274634,
     "name": "Wonderville",
-    "url": "https://www.wonderville.nyc/"
+    "url": "https://www.wonderville.nyc/",
+    "id": "brooklyn_wonderville"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3217,10 +3624,13 @@
     "lat": 40.7033588,
     "lon": -73.9908596,
     "name": "MINUS SPACE",
-    "url": "https://www.minusspace.com/"
+    "url": "https://www.minusspace.com/",
+    "id": "brooklyn_minus_space"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3228,10 +3638,13 @@
     "lat": 40.6974469,
     "lon": -73.9589178,
     "name": "Shtetl Art Gallery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_shtetl_art_gallery"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "Greenpoint Library and Environmental Education Center is a 15,000-square-foot community library and hub for environmental awareness, activism, and education in the Brooklyn Public Library system. Program elements include reading rooms, dry/wet eco-labs, community event space and meeting rooms, staff spaces, and an extensive outdoor space. Landscapes are integrated into the building on three levels – bioswale and rock outcroppings at the street, a reading garden on the second, and a green roof on the third.",
     "icon": null,
     "imageURL": null,
@@ -3239,10 +3652,14 @@
     "lat": 40.7259813,
     "lon": -73.9506651,
     "name": "Greenpoint Library",
-    "url": "https://www.bklynlibrary.org/locations/greenpoint"
+    "url": "https://www.bklynlibrary.org/locations/greenpoint",
+    "id": "brooklyn_greenpoint_library"
   },
   {
-    "categories": ["art", "quirky"],
+    "categories": [
+      "art",
+      "quirky"
+    ],
     "description": "quirky sculpture garden (private)",
     "icon": null,
     "imageURL": null,
@@ -3250,10 +3667,13 @@
     "lat": 40.6859643,
     "lon": -74.0037775,
     "name": "82 Degraw St",
-    "url": null
+    "url": null,
+    "id": "brooklyn_82_degraw_st"
   },
   {
-    "categories": ["cinema"],
+    "categories": [
+      "cinema"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3261,10 +3681,13 @@
     "lat": 40.7273005,
     "lon": -73.9515454,
     "name": "Film Noir Cinema",
-    "url": "https://www.filmnoircinema.com/"
+    "url": "https://www.filmnoircinema.com/",
+    "id": "brooklyn_film_noir_cinema"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3272,10 +3695,13 @@
     "lat": 40.5913495,
     "lon": -73.9999153,
     "name": "BJ's Park and Rest Area",
-    "url": null
+    "url": null,
+    "id": "brooklyn_bjs_park_and_rest_area"
   },
   {
-    "categories": ["neighborhood"],
+    "categories": [
+      "neighborhood"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3283,10 +3709,13 @@
     "lat": 40.720844,
     "lon": -73.9649124,
     "name": "North Williamsburg",
-    "url": null
+    "url": null,
+    "id": "brooklyn_north_williamsburg"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3294,10 +3723,13 @@
     "lat": 40.6742795,
     "lon": -73.9672186,
     "name": "Underhill Walls",
-    "url": null
+    "url": null,
+    "id": "brooklyn_underhill_walls"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3305,10 +3737,13 @@
     "lat": 40.6897711,
     "lon": -73.9510959,
     "name": "Harold and Maude Vintage",
-    "url": null
+    "url": null,
+    "id": "brooklyn_harold_and_maude_vintage"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3316,10 +3751,13 @@
     "lat": 40.689612,
     "lon": -73.946732,
     "name": "Herbert Von King Park",
-    "url": "https://www.nyc.gov/site/parks/parks/herbert-von-king-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/herbert-von-king-park.page",
+    "id": "brooklyn_herbert_von_king_park"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3327,10 +3765,13 @@
     "lat": 40.6809646,
     "lon": -73.9532796,
     "name": "Star Perfumes & Gift Co",
-    "url": null
+    "url": null,
+    "id": "brooklyn_star_perfumes_gift_co"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3338,10 +3779,14 @@
     "lat": 40.5822162,
     "lon": -73.949363,
     "name": "Ocean Avenue Pedestrian Bridge",
-    "url": null
+    "url": null,
+    "id": "brooklyn_ocean_avenue_pedestrian_bridge"
   },
   {
-    "categories": ["historic", "park"],
+    "categories": [
+      "historic",
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3349,10 +3794,13 @@
     "lat": 40.5824506,
     "lon": -73.953694,
     "name": "Holocaust Memorial Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_holocaust_memorial_park"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3360,10 +3808,14 @@
     "lat": 40.5838861,
     "lon": -73.9487833,
     "name": "Cherry Hill Gourmet Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_cherry_hill_gourmet_inc"
   },
   {
-    "categories": ["drinking", "theater"],
+    "categories": [
+      "drinking",
+      "theater"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3371,10 +3823,13 @@
     "lat": 40.7048388,
     "lon": -73.9330082,
     "name": "Syndicated Bar Theater Kitchen",
-    "url": "https://syndicatedbk.com/"
+    "url": "https://syndicatedbk.com/",
+    "id": "brooklyn_syndicated_bar_theater_kitchen"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3382,10 +3837,13 @@
     "lat": 40.6660201,
     "lon": -73.9820273,
     "name": "Leroy's Place BROOKLYN",
-    "url": null
+    "url": null,
+    "id": "brooklyn_leroys_place_brooklyn"
   },
   {
-    "categories": ["neighborhood"],
+    "categories": [
+      "neighborhood"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3393,10 +3851,14 @@
     "lat": 40.663437,
     "lon": -73.986655,
     "name": "Webster Place",
-    "url": null
+    "url": null,
+    "id": "brooklyn_webster_place"
   },
   {
-    "categories": ["music", "shopping"],
+    "categories": [
+      "music",
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3404,10 +3866,13 @@
     "lat": 40.711305,
     "lon": -73.963079,
     "name": "Williamsburg Music Center",
-    "url": "https://www.wmcnyc.com/"
+    "url": "https://www.wmcnyc.com/",
+    "id": "brooklyn_williamsburg_music_center"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3415,10 +3880,13 @@
     "lat": 40.732808,
     "lon": -73.955144,
     "name": "Archestratus Books + Foods",
-    "url": "https://www.archestratus.com/"
+    "url": "https://www.archestratus.com/",
+    "id": "brooklyn_archestratus_books_foods"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3426,10 +3894,14 @@
     "lat": 40.6871329,
     "lon": -73.9508047,
     "name": "Swivel Gallery",
-    "url": null
+    "url": null,
+    "id": "brooklyn_swivel_gallery"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3437,10 +3909,14 @@
     "lat": 40.6813792,
     "lon": -73.9500051,
     "name": "Alhambra Apartments",
-    "url": null
+    "url": null,
+    "id": "brooklyn_alhambra_apartments"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3448,10 +3924,14 @@
     "lat": 40.6821433,
     "lon": -73.9500973,
     "name": "488 Nostrand Ave.",
-    "url": null
+    "url": null,
+    "id": "brooklyn_488_nostrand_ave"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "NYC Landmark",
     "icon": null,
     "imageURL": null,
@@ -3459,10 +3939,14 @@
     "lat": 40.6822935,
     "lon": -73.9501148,
     "name": "480 Nostrand Ave.",
-    "url": null
+    "url": null,
+    "id": "brooklyn_480_nostrand_ave"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "NYC Landmark; landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -3470,10 +3954,13 @@
     "lat": 40.6469924,
     "lon": -74.0021546,
     "name": "Sunset Play Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_sunset_play_center"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3481,10 +3968,13 @@
     "lat": 40.6695466,
     "lon": -73.9421846,
     "name": "Eastern Parkway Pedestrian Mall",
-    "url": null
+    "url": null,
+    "id": "brooklyn_eastern_parkway_pedestrian_mall"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3492,10 +3982,13 @@
     "lat": 40.6137386,
     "lon": -73.9684303,
     "name": "Ocean Parkway",
-    "url": null
+    "url": null,
+    "id": "brooklyn_ocean_parkway"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3503,10 +3996,13 @@
     "lat": 40.5768049,
     "lon": -73.942583,
     "name": "Manhattan Beach Park",
-    "url": "https://www.nyc.gov/site/parks/parks/manhattan-beach-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/manhattan-beach-park.page",
+    "id": "brooklyn_manhattan_beach_park"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3514,10 +4010,13 @@
     "lat": 40.5839556,
     "lon": -73.9459804,
     "name": "Sheepshead Bay Piers",
-    "url": null
+    "url": null,
+    "id": "brooklyn_sheepshead_bay_piers"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3525,10 +4024,13 @@
     "lat": 40.5786707,
     "lon": -73.9351016,
     "name": "Kingsborough Community College",
-    "url": "https://www.kbcc.cuny.edu/"
+    "url": "https://www.kbcc.cuny.edu/",
+    "id": "brooklyn_kingsborough_community_college"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "go in back for views of the canal through the windows",
     "icon": null,
     "imageURL": null,
@@ -3536,10 +4038,13 @@
     "lat": 40.5913977,
     "lon": -73.9239955,
     "name": "Brooklyn Public Library - Gerritsen Beach Branch",
-    "url": "https://www.bklynlibrary.org/locations/gerritsen-beach"
+    "url": "https://www.bklynlibrary.org/locations/gerritsen-beach",
+    "id": "brooklyn_brooklyn_public_library_gerritsen_beach_branch"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3547,10 +4052,13 @@
     "lat": 40.594344,
     "lon": -73.929953,
     "name": "Tamaqua Bar & Marina",
-    "url": null
+    "url": null,
+    "id": "brooklyn_tamaqua_bar_marina"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3558,10 +4066,13 @@
     "lat": 40.6534111,
     "lon": -74.0201023,
     "name": "Bush Terminal Piers Park",
-    "url": "https://www.nyc.gov/site/parks/parks/bush-terminal-piers-park.page"
+    "url": "https://www.nyc.gov/site/parks/parks/bush-terminal-piers-park.page",
+    "id": "brooklyn_bush_terminal_piers_park"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3569,10 +4080,14 @@
     "lat": 40.5763877,
     "lon": -73.9661344,
     "name": "Russian Books & Gifts Store | St-Petersburg",
-    "url": null
+    "url": null,
+    "id": "brooklyn_russian_books_gifts_store_st_petersburg"
   },
   {
-    "categories": ["theater", "cinema"],
+    "categories": [
+      "theater",
+      "cinema"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3580,10 +4095,13 @@
     "lat": 40.5784015,
     "lon": -73.958527,
     "name": "Master Theater",
-    "url": null
+    "url": null,
+    "id": "brooklyn_master_theater"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3591,10 +4109,13 @@
     "lat": 40.6356299,
     "lon": -74.0091926,
     "name": "American United Mosque",
-    "url": null
+    "url": null,
+    "id": "brooklyn_american_united_mosque"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3602,10 +4123,13 @@
     "lat": 40.7232805,
     "lon": -73.962625,
     "name": "Hurricane Point",
-    "url": null
+    "url": null,
+    "id": "brooklyn_hurricane_point"
   },
   {
-    "categories": ["theater"],
+    "categories": [
+      "theater"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3613,10 +4137,13 @@
     "lat": 40.6851473,
     "lon": -73.9735043,
     "name": "Alliance of Resident Theatres",
-    "url": "https://www.a-r-t.org/"
+    "url": "https://www.a-r-t.org/",
+    "id": "brooklyn_alliance_of_resident_theatres"
   },
   {
-    "categories": ["theater"],
+    "categories": [
+      "theater"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3624,10 +4151,14 @@
     "lat": 40.6826399,
     "lon": -73.9608721,
     "name": "JACK",
-    "url": "https://jackny.org/"
+    "url": "https://jackny.org/",
+    "id": "brooklyn_jack"
   },
   {
-    "categories": ["art", "museum"],
+    "categories": [
+      "art",
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3635,10 +4166,13 @@
     "lat": 40.700149,
     "lon": -73.9942743,
     "name": "Asia Art Archive in America",
-    "url": "https://aaa-a.org/"
+    "url": "https://aaa-a.org/",
+    "id": "brooklyn_asia_art_archive_in_america"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3646,10 +4180,13 @@
     "lat": 40.709411,
     "lon": -73.923169,
     "name": "Elsewhere",
-    "url": "https://elsewheremuseum.org/"
+    "url": "https://elsewheremuseum.org/",
+    "id": "brooklyn_elsewhere"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3657,10 +4194,14 @@
     "lat": 40.7140289,
     "lon": -73.9626,
     "name": "El Museo de Los Sures",
-    "url": "https://www.elmuseo.org/"
+    "url": "https://www.elmuseo.org/",
+    "id": "brooklyn_el_museo_de_los_sures"
   },
   {
-    "categories": ["museum", "quirky"],
+    "categories": [
+      "museum",
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3668,10 +4209,13 @@
     "lat": 40.6560789,
     "lon": -74.0078174,
     "name": "The Morbid Anatomy Library and Gift Shop",
-    "url": "https://www.morbidanatomymuseum.org/"
+    "url": "https://www.morbidanatomymuseum.org/",
+    "id": "brooklyn_the_morbid_anatomy_library_and_gift_shop"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3679,10 +4223,13 @@
     "lat": 40.6640557,
     "lon": -73.9528642,
     "name": "Museum of Women's Resistance",
-    "url": null
+    "url": null,
+    "id": "brooklyn_museum_of_womens_resistance"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3690,10 +4237,13 @@
     "lat": 40.6929116,
     "lon": -73.9874613,
     "name": "Clive Davis Institute of Recorded Music",
-    "url": "https://tisch.nyu.edu/clive-davis-institute"
+    "url": "https://tisch.nyu.edu/clive-davis-institute",
+    "id": "brooklyn_clive_davis_institute_of_recorded_music"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3701,10 +4251,13 @@
     "lat": 40.6815763,
     "lon": -73.9469889,
     "name": "BrownstoneJAZZ",
-    "url": "https://www.brownstonejazz.org/"
+    "url": "https://www.brownstonejazz.org/",
+    "id": "brooklyn_brownstonejazz"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3712,10 +4265,13 @@
     "lat": 40.6955888,
     "lon": -73.9319823,
     "name": "Ornithology Jazz Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_ornithology_jazz_club"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3723,10 +4279,14 @@
     "lat": 40.7076408,
     "lon": -73.9313437,
     "name": "WORTHLESSSTUDIOS",
-    "url": null
+    "url": null,
+    "id": "brooklyn_worthlessstudios"
   },
   {
-    "categories": ["food", "quirky"],
+    "categories": [
+      "food",
+      "quirky"
+    ],
     "description": "century old soda fountain",
     "icon": null,
     "imageURL": null,
@@ -3734,10 +4294,14 @@
     "lat": 40.6352778,
     "lon": -74.0263889,
     "name": "Anopoli",
-    "url": null
+    "url": null,
+    "id": "brooklyn_anopoli"
   },
   {
-    "categories": ["art", "museum"],
+    "categories": [
+      "art",
+      "museum"
+    ],
     "description": "Founded in 2019, Amant is a non-collecting contemporary art institution that fosters artistic research, experimentation, and dialogue through exhibitions, live programs, publications, and artist residencies in Brooklyn, NY, and Siena, Italy. The core of Amant's mission is to advance the presentation of contemporary art with an emphasis on innovative formats and ideas. Amant's 21,000-square-foot, four-building campus, designed by SO-IL, includes a multipurpose screening and performance space, a café, and a bookshop. The organization supports both established and mid-career international and local artists who work across diverse creative fields, and is committed to building cultural partnerships with like-minded organizations in the U.S. and abroad while activating new and ongoing conversations with local communities.",
     "icon": null,
     "imageURL": null,
@@ -3745,10 +4309,14 @@
     "lat": 40.7123133,
     "lon": -73.9370549,
     "name": "Amant",
-    "url": "https://amant.org/"
+    "url": "https://amant.org/",
+    "id": "brooklyn_amant"
   },
   {
-    "categories": ["art", "museum"],
+    "categories": [
+      "art",
+      "museum"
+    ],
     "description": "BioBAT Art Space is a non-profit gallery dedicated to the intersection of art and science. The gallery features cutting-edge bio-art, where artists and scientists create works that push the boundaries of both fields. Exhibitions explore themes like sustainability, ecology, and the intricate workings of life, providing visitors with a thought-provoking experience",
     "icon": null,
     "imageURL": null,
@@ -3756,10 +4324,15 @@
     "lat": 40.6455096,
     "lon": -74.0238947,
     "name": "BioBAT, Inc.",
-    "url": "https://biobat.org/"
+    "url": "https://biobat.org/",
+    "id": "brooklyn_biobat_inc"
   },
   {
-    "categories": ["historic", "museum", "nps"],
+    "categories": [
+      "historic",
+      "museum",
+      "nps"
+    ],
     "description": "The home of aviation trailblazers, in a remote corner of the big city.",
     "icon": null,
     "imageURL": null,
@@ -3767,10 +4340,13 @@
     "lat": 40.5881603,
     "lon": -73.8969745,
     "name": "Ryan Visitor Center - Floyd Bennett Field",
-    "url": "https://www.nps.gov/gate/"
+    "url": "https://www.nps.gov/gate/",
+    "id": "brooklyn_ryan_visitor_center_floyd_bennett_field"
   },
   {
-    "categories": ["recreation"],
+    "categories": [
+      "recreation"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3778,10 +4354,13 @@
     "lat": 40.6769483,
     "lon": -73.990036,
     "name": "Gowanus Dredgers Canoe Club Boathouse",
-    "url": "https://www.gowanuscanoe.org/"
+    "url": "https://www.gowanuscanoe.org/",
+    "id": "brooklyn_gowanus_dredgers_canoe_club_boathouse"
   },
   {
-    "categories": ["market"],
+    "categories": [
+      "market"
+    ],
     "description": "For over 20 years, the Flatbush Caton Market has served as the bustling center of a vibrant Caribbean community, connecting residents with local vendors and products from all over the globe. A five-year renovation and expansion project is now complete and the market has returned with a new name: the Flatbush Central Caribbean Marketplace!",
     "icon": null,
     "imageURL": null,
@@ -3789,10 +4368,13 @@
     "lat": 40.6529867,
     "lon": -73.959495,
     "name": "Flatbush Central Caribbean Marketplace",
-    "url": null
+    "url": null,
+    "id": "brooklyn_flatbush_central_caribbean_marketplace"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "Genspace is the world's first community biology lab — a place where people of all backgrounds and identities can learn, create, and grow with the life sciences.",
     "icon": null,
     "imageURL": null,
@@ -3800,10 +4382,14 @@
     "lat": 40.6565705,
     "lon": -74.0026065,
     "name": "Genspace",
-    "url": "https://www.genspace.org/"
+    "url": "https://www.genspace.org/",
+    "id": "brooklyn_genspace"
   },
   {
-    "categories": ["landmark", "historic"],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "description": "a war memorial at Fort Greene Park that commemorates more than 11,500 American prisoners of war who died in captivity aboard British prison ships during the American Revolutionary War. The remains of a small fraction of those who died on the ships are interred in a crypt beneath its base",
     "icon": null,
     "imageURL": null,
@@ -3811,10 +4397,13 @@
     "lat": 40.6917937,
     "lon": -73.9755288,
     "name": "Prison Ship Martyrs Monument",
-    "url": null
+    "url": null,
+    "id": "brooklyn_prison_ship_martyrs_monument"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3822,10 +4411,14 @@
     "lat": 40.6217157,
     "lon": -73.9111125,
     "name": "Stuffed Animal Tree of Bergen Beach",
-    "url": null
+    "url": null,
+    "id": "brooklyn_stuffed_animal_tree_of_bergen_beach"
   },
   {
-    "categories": ["quirky", "historic"],
+    "categories": [
+      "quirky",
+      "historic"
+    ],
     "description": "This seemingly unremarkable boulder is said to bear the hoofprint of the devil himself. The rock can be viewed from 5th Avenue and 36th Street through the fence of the cemetery or you can enter the cemetery from 4th Avenue and follow Maple Avenue under the bridge. Once on the other side of the bridge turn right off the path and climb the hill; the rock is partially obscured by bushes.",
     "icon": null,
     "imageURL": null,
@@ -3833,10 +4426,14 @@
     "lat": 40.6529966,
     "lon": -74.0017339,
     "name": "martense lane rock",
-    "url": null
+    "url": null,
+    "id": "brooklyn_martense_lane_rock"
   },
   {
-    "categories": ["art", "museum"],
+    "categories": [
+      "art",
+      "museum"
+    ],
     "description": "warehouse housing private art collection",
     "icon": null,
     "imageURL": null,
@@ -3844,10 +4441,13 @@
     "lat": 40.7335909,
     "lon": -73.9556203,
     "name": "Faurschou New York",
-    "url": "https://www.faurschou.com/"
+    "url": "https://www.faurschou.com/",
+    "id": "brooklyn_faurschou_new_york"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3855,10 +4455,14 @@
     "lat": 40.6753336,
     "lon": -73.9163716,
     "name": "Delight Factory",
-    "url": null
+    "url": null,
+    "id": "brooklyn_delight_factory"
   },
   {
-    "categories": ["landmark", "neighborhood"],
+    "categories": [
+      "landmark",
+      "neighborhood"
+    ],
     "description": "most instagrammed spot in NYC",
     "icon": null,
     "imageURL": null,
@@ -3866,10 +4470,14 @@
     "lat": 40.7033165,
     "lon": -73.9895698,
     "name": "Dumbo - Manhattan Bridge View",
-    "url": null
+    "url": null,
+    "id": "brooklyn_dumbo_manhattan_bridge_view"
   },
   {
-    "categories": ["nature", "food"],
+    "categories": [
+      "nature",
+      "food"
+    ],
     "description": "Underneath the bustling city streets, a hydroponic farm grows unique herbs in an urban oasis.",
     "icon": null,
     "imageURL": null,
@@ -3877,10 +4485,13 @@
     "lat": 40.679678,
     "lon": -73.9689121,
     "name": "Farm.One",
-    "url": "https://farm.one/"
+    "url": "https://farm.one/",
+    "id": "brooklyn_farm_one"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3888,10 +4499,13 @@
     "lat": 40.7033589,
     "lon": -73.9909737,
     "name": "Janet Borden Inc",
-    "url": "https://www.janetbordengallery.com/"
+    "url": "https://www.janetbordengallery.com/",
+    "id": "brooklyn_janet_borden_inc"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3899,10 +4513,13 @@
     "lat": 40.6945365,
     "lon": -73.9613927,
     "name": "e-flux",
-    "url": "https://www.e-flux.com/"
+    "url": "https://www.e-flux.com/",
+    "id": "brooklyn_e_flux"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3910,10 +4527,13 @@
     "lat": 40.5753863,
     "lon": -73.9800341,
     "name": "SHOOTING GALLERY",
-    "url": null
+    "url": null,
+    "id": "brooklyn_shooting_gallery"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3921,10 +4541,14 @@
     "lat": 40.711596,
     "lon": -73.9367976,
     "name": "Chemistry Creative",
-    "url": null
+    "url": null,
+    "id": "brooklyn_chemistry_creative"
   },
   {
-    "categories": ["museum", "historic"],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "description": "Brownsville Heritage House, Inc. (BHH), a hidden gem nestled on the second floor of the Brooklyn Public Library's Stone Avenue branch. BHH is an extension of the community, a place that provides a platform for the arts, entertainment, and culture and is a resource to enhance quality of life. BHH promotes Brownsville's historical significance, while aligning with today's technology to pave the way for future generations.",
     "icon": null,
     "imageURL": null,
@@ -3932,10 +4556,14 @@
     "lat": 40.6644738,
     "lon": -73.9051607,
     "name": "Brownsville Heritage House Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brownsville_heritage_house_inc"
   },
   {
-    "categories": ["museum", "quirky"],
+    "categories": [
+      "museum",
+      "quirky"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3943,10 +4571,13 @@
     "lat": 40.6777958,
     "lon": -73.8699776,
     "name": "Brooklyn Seltzer Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_seltzer_museum"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "Powerhouse Arts is a nonprofit organization committed to creative expression housed in a purpose-built facility that was once the Brooklyn Rapid Transit Company's central power station. Meet the extended network of art and fabrication professionals and educators who work together to co-create and share artistic practices vital to the well-being of artists and the communities to which they belong.",
     "icon": null,
     "imageURL": null,
@@ -3954,10 +4585,13 @@
     "lat": 40.6764243,
     "lon": -73.9885252,
     "name": "Powerhouse Arts",
-    "url": "https://www.powerhousearts.org/"
+    "url": "https://www.powerhousearts.org/",
+    "id": "brooklyn_powerhouse_arts"
   },
   {
-    "categories": ["nature"],
+    "categories": [
+      "nature"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3965,10 +4599,13 @@
     "lat": 40.6618385,
     "lon": -73.9714751,
     "name": "Fallkill Falls",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fallkill_falls"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3976,10 +4613,13 @@
     "lat": 40.716096,
     "lon": -73.964839,
     "name": "Dead Letter No. 9",
-    "url": null
+    "url": null,
+    "id": "brooklyn_dead_letter_no_9"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3987,10 +4627,13 @@
     "lat": 40.7248752,
     "lon": -73.9539942,
     "name": "FENG SWAY",
-    "url": null
+    "url": null,
+    "id": "brooklyn_feng_sway"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -3998,10 +4641,14 @@
     "lat": 40.7166347,
     "lon": -73.9566778,
     "name": "Mother of Junk",
-    "url": null
+    "url": null,
+    "id": "brooklyn_mother_of_junk"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "landmarked interior. Also an exterior landmark and a National Registered Historic Place",
     "icon": null,
     "imageURL": null,
@@ -4009,10 +4656,14 @@
     "lat": 40.6945075,
     "lon": -73.9921493,
     "name": "The Brooklyn Trust Company Building",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_brooklyn_trust_company_building"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4020,10 +4671,14 @@
     "lat": 40.6903851,
     "lon": -73.9825343,
     "name": "9 Dekalb Ave",
-    "url": null
+    "url": null,
+    "id": "brooklyn_9_dekalb_ave"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4031,10 +4686,14 @@
     "lat": 40.7103067,
     "lon": -73.9625705,
     "name": "175 Broadway",
-    "url": null
+    "url": null,
+    "id": "brooklyn_175_broadway"
   },
   {
-    "categories": ["historic", "landmark"],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "description": "landmarked interior",
     "icon": null,
     "imageURL": null,
@@ -4042,10 +4701,14 @@
     "lat": 40.6854025,
     "lon": -73.9776761,
     "name": "1 Hanson Pl",
-    "url": null
+    "url": null,
+    "id": "brooklyn_1_hanson_pl"
   },
   {
-    "categories": ["historic", "neighborhood"],
+    "categories": [
+      "historic",
+      "neighborhood"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4053,10 +4716,14 @@
     "lat": 40.6325863,
     "lon": -73.9599629,
     "name": "Fiske Terrace-Midwood Park Historic District",
-    "url": null
+    "url": null,
+    "id": "brooklyn_fiske_terrace_midwood_park_historic_district"
   },
   {
-    "categories": ["historic", "neighborhood"],
+    "categories": [
+      "historic",
+      "neighborhood"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4064,10 +4731,13 @@
     "lat": 40.63645,
     "lon": -74.0243556,
     "name": "Senator Street Historic District",
-    "url": null
+    "url": null,
+    "id": "brooklyn_senator_street_historic_district"
   },
   {
-    "categories": ["bookstore"],
+    "categories": [
+      "bookstore"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4075,10 +4745,13 @@
     "lat": 40.6760881,
     "lon": -73.9810057,
     "name": "The Ripped Bodice",
-    "url": "https://www.theripppedbodice.com/"
+    "url": "https://www.theripppedbodice.com/",
+    "id": "brooklyn_the_ripped_bodice"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4086,10 +4759,13 @@
     "lat": 40.7303866,
     "lon": -73.9574593,
     "name": "Big Night",
-    "url": null
+    "url": null,
+    "id": "brooklyn_big_night"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "founded in 1972 as the first cooperative art gallery featuring all female artists.",
     "icon": null,
     "imageURL": null,
@@ -4097,10 +4773,14 @@
     "lat": 40.7038431,
     "lon": -73.9870756,
     "name": "A.I.R.",
-    "url": "https://www.airnyc.org/"
+    "url": "https://www.airnyc.org/",
+    "id": "brooklyn_a_i_r"
   },
   {
-    "categories": ["park", "art"],
+    "categories": [
+      "park",
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4108,10 +4788,13 @@
     "lat": 40.6907367,
     "lon": -73.9639907,
     "name": "Pratt Institute Sculpture Park",
-    "url": "https://www.pratt.edu/"
+    "url": "https://www.pratt.edu/",
+    "id": "brooklyn_pratt_institute_sculpture_park"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "This museum dedicated to the history of the medical bone trade and human osteology.",
     "icon": null,
     "imageURL": null,
@@ -4119,10 +4802,13 @@
     "lat": 40.705891,
     "lon": -73.9371786,
     "name": "The Bone Museum",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_bone_museum"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many 770s around the world.",
     "icon": null,
     "imageURL": null,
@@ -4130,10 +4816,13 @@
     "lat": 40.6690693,
     "lon": -73.9428047,
     "name": "770 Eastern Pkwy",
-    "url": null
+    "url": null,
+    "id": "brooklyn_770_eastern_pkwy"
   },
   {
-    "categories": ["landmark"],
+    "categories": [
+      "landmark"
+    ],
     "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's Automobile Row.",
     "icon": null,
     "imageURL": null,
@@ -4141,10 +4830,14 @@
     "lat": 40.6729195,
     "lon": -73.9539377,
     "name": "Studebaker Building",
-    "url": null
+    "url": null,
+    "id": "brooklyn_studebaker_building"
   },
   {
-    "categories": ["park", "quirky"],
+    "categories": [
+      "park",
+      "quirky"
+    ],
     "description": "A miniature version of a legendary Dutch boulder.",
     "icon": null,
     "imageURL": null,
@@ -4152,10 +4845,14 @@
     "lat": 40.6285772,
     "lon": -73.9390065,
     "name": "Amersfort Park",
-    "url": null
+    "url": null,
+    "id": "brooklyn_amersfort_park"
   },
   {
-    "categories": ["historic", "quirky"],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "description": "This recently uncovered ad for Lindsay's run at Mayor in 1965 had been hiding for decades underneath a billboard.",
     "icon": null,
     "imageURL": null,
@@ -4163,10 +4860,13 @@
     "lat": 40.638668,
     "lon": -73.954328,
     "name": "Lindsay of rMayor Sign",
-    "url": null
+    "url": null,
+    "id": "brooklyn_lindsay_of_rmayor_sign"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "A mosaic made of materials gathered from this Brooklyn community adorns the walls of this tunnel.",
     "icon": null,
     "imageURL": null,
@@ -4174,10 +4874,13 @@
     "lat": 40.63507,
     "lon": -73.963024,
     "name": "Newkirk Plaza Mural and Mosaic",
-    "url": null
+    "url": null,
+    "id": "brooklyn_newkirk_plaza_mural_and_mosaic"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "This unusual subway stop was originally a real estate office.",
     "icon": null,
     "imageURL": null,
@@ -4185,10 +4888,13 @@
     "lat": 40.6297251,
     "lon": -73.9616534,
     "name": "Avenue H",
-    "url": null
+    "url": null,
+    "id": "brooklyn_avenue_h"
   },
   {
-    "categories": ["historic"],
+    "categories": [
+      "historic"
+    ],
     "description": "The Father of the Erie Canal has a magnificent grave marker that redefines the term final resting place.",
     "icon": null,
     "imageURL": null,
@@ -4196,10 +4902,13 @@
     "lat": 40.6565885,
     "lon": -73.9930782,
     "name": "Grave of DeWitt Clinton",
-    "url": null
+    "url": null,
+    "id": "brooklyn_grave_of_dewitt_clinton"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "A way to take your secrets to someone else's grave.",
     "icon": null,
     "imageURL": null,
@@ -4207,10 +4916,13 @@
     "lat": 40.6565942,
     "lon": -73.9939001,
     "name": "Tomb of Secrets on Bay Grove Hill",
-    "url": null
+    "url": null,
+    "id": "brooklyn_tomb_of_secrets_on_bay_grove_hill"
   },
   {
-    "categories": ["historic"],
+    "categories": [
+      "historic"
+    ],
     "description": "The factory that helped produce a dominant form of lighting before Thomas Edison. The three-kiln factory, which began producing clay retorts and fire bricks in 1859, continued production until the early 1930s. It was later bought and restored by Greg O'Connell, a Red Hook developer. The space now houses the Carvart Glass Company, which creates architectural glass products for noteworthy New York City buildings.",
     "icon": null,
     "imageURL": null,
@@ -4218,10 +4930,14 @@
     "lat": 40.6750614,
     "lon": -74.0133986,
     "name": "The Brooklyn Clay Retort and Fire Brick Works Storehouse",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_brooklyn_clay_retort_and_fire_brick_works_storehouse"
   },
   {
-    "categories": ["drinking", "historic"],
+    "categories": [
+      "drinking",
+      "historic"
+    ],
     "description": "Once a popular watering hole among longshoremen and shipyard workers, this neighborhood treasure spans more than 100 years of Red Hook history.",
     "icon": null,
     "imageURL": null,
@@ -4229,10 +4945,13 @@
     "lat": 40.6756944,
     "lon": -74.0168722,
     "name": "Sunny's",
-    "url": "https://www.sunnyredhook.com/"
+    "url": "https://www.sunnyredhook.com/",
+    "id": "brooklyn_sunnys"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4240,10 +4959,13 @@
     "lat": 40.658313,
     "lon": -73.96013,
     "name": "Awesome Brooklyn",
-    "url": null
+    "url": null,
+    "id": "brooklyn_awesome_brooklyn"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4251,10 +4973,13 @@
     "lat": 40.6574803,
     "lon": -73.9599302,
     "name": "Awesome Home",
-    "url": null
+    "url": null,
+    "id": "brooklyn_awesome_home"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4262,10 +4987,13 @@
     "lat": 40.6837278,
     "lon": -73.9438436,
     "name": "peace & RIOT",
-    "url": null
+    "url": null,
+    "id": "brooklyn_peace_riot"
   },
   {
-    "categories": ["park"],
+    "categories": [
+      "park"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4273,10 +5001,13 @@
     "lat": 40.6839471,
     "lon": -73.9953942,
     "name": "Woods Grove",
-    "url": null
+    "url": null,
+    "id": "brooklyn_woods_grove"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4284,10 +5015,13 @@
     "lat": 40.6792892,
     "lon": -73.9975798,
     "name": "Yesterday's News Antiques and Collectibles",
-    "url": null
+    "url": null,
+    "id": "brooklyn_yesterdays_news_antiques_and_collectibles"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4295,10 +5029,13 @@
     "lat": 40.7032172,
     "lon": -73.9305453,
     "name": "Eugene J. Candy Co.",
-    "url": null
+    "url": null,
+    "id": "brooklyn_eugene_j_candy_co"
   },
   {
-    "categories": ["drinking"],
+    "categories": [
+      "drinking"
+    ],
     "description": "Their Bushwick tasting room / bottle shop has vinyl nights and live music multiple nights a week, food pop-ups and more.",
     "icon": null,
     "imageURL": null,
@@ -4306,10 +5043,14 @@
     "lat": 40.70597,
     "lon": -73.9237799,
     "name": "Kato Sake Works",
-    "url": "https://katosake.com/"
+    "url": "https://katosake.com/",
+    "id": "brooklyn_kato_sake_works"
   },
   {
-    "categories": ["drinking", "music"],
+    "categories": [
+      "drinking",
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4317,10 +5058,13 @@
     "lat": 40.7159083,
     "lon": -73.9621222,
     "name": "Skinny Dennis",
-    "url": null
+    "url": null,
+    "id": "brooklyn_skinny_dennis"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "Allison Eden Studios is a custom glass art house for all mosaic tile. This one- of-a-kind art studio, which has been manufacturing creative custom tile in NYC for over 30 years, makes some of the most intricate and beautiful tile and mosaic art on the market. The studio also serves as a kind of glass mosaic museum featuring the pop art culture of the city's past and present.",
     "icon": null,
     "imageURL": null,
@@ -4328,10 +5072,14 @@
     "lat": 40.70263,
     "lon": -73.93644,
     "name": "Allison Eden Studios",
-    "url": null
+    "url": null,
+    "id": "brooklyn_allison_eden_studios"
   },
   {
-    "categories": ["art", "nature"],
+    "categories": [
+      "art",
+      "nature"
+    ],
     "description": "Carroll Hall is a hidden botanical walled garden and series of buildings that explore material reuse ...",
     "icon": null,
     "imageURL": null,
@@ -4339,10 +5087,13 @@
     "lat": 40.7049755,
     "lon": -73.930684,
     "name": "Carroll Hall",
-    "url": null
+    "url": null,
+    "id": "brooklyn_carroll_hall"
   },
   {
-    "categories": ["museum"],
+    "categories": [
+      "museum"
+    ],
     "description": "New York Sign Museum",
     "icon": null,
     "imageURL": null,
@@ -4350,10 +5101,13 @@
     "lat": 40.6762022,
     "lon": -73.903304,
     "name": "Noble Signs Inc",
-    "url": null
+    "url": null,
+    "id": "brooklyn_noble_signs_inc"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4361,10 +5115,13 @@
     "lat": 40.6856169,
     "lon": -73.9807735,
     "name": "Roulette Intermedium",
-    "url": "https://roulette.org/"
+    "url": "https://roulette.org/",
+    "id": "brooklyn_roulette_intermedium"
   },
   {
-    "categories": ["quirky"],
+    "categories": [
+      "quirky"
+    ],
     "description": "offers tours once a month",
     "icon": null,
     "imageURL": null,
@@ -4372,10 +5129,13 @@
     "lat": 40.661688,
     "lon": -74.0090809,
     "name": "Balcones Recycling",
-    "url": null
+    "url": null,
+    "id": "brooklyn_balcones_recycling"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4383,10 +5143,13 @@
     "lat": 40.7131513,
     "lon": -73.9673616,
     "name": "Williamsburg Biannual",
-    "url": null
+    "url": null,
+    "id": "brooklyn_williamsburg_biannual"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4394,10 +5157,13 @@
     "lat": 40.690952,
     "lon": -73.9963734,
     "name": "Picture Room",
-    "url": null
+    "url": null,
+    "id": "brooklyn_picture_room"
   },
   {
-    "categories": ["music"],
+    "categories": [
+      "music"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4405,10 +5171,13 @@
     "lat": 40.674967,
     "lon": -73.9760077,
     "name": "ShapeShifter Lab",
-    "url": "https://www.shapeshifterlab.com/"
+    "url": "https://www.shapeshifterlab.com/",
+    "id": "brooklyn_shapeshifter_lab"
   },
   {
-    "categories": ["religious"],
+    "categories": [
+      "religious"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4416,10 +5185,13 @@
     "lat": 40.7201233,
     "lon": -73.9421695,
     "name": "St. Cecilia's Roman Catholic Church",
-    "url": null
+    "url": null,
+    "id": "brooklyn_st_cecilias_roman_catholic_church"
   },
   {
-    "categories": ["theater"],
+    "categories": [
+      "theater"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4427,10 +5199,13 @@
     "lat": 40.6571343,
     "lon": -74.007193,
     "name": "brooklynONE productions",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklynone_productions"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4438,10 +5213,14 @@
     "lat": 40.699888,
     "lon": -73.9286902,
     "name": "Secret Riso Club",
-    "url": null
+    "url": null,
+    "id": "brooklyn_secret_riso_club"
   },
   {
-    "categories": ["nature", "museum"],
+    "categories": [
+      "nature",
+      "museum"
+    ],
     "description": "This 7,000-square-foot learning center in Bergen Beach, Brooklyn, is home to over 200 living organisms...",
     "icon": null,
     "imageURL": null,
@@ -4449,10 +5228,13 @@
     "lat": 40.6221663,
     "lon": -73.9084746,
     "name": "Environmental Study Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_environmental_study_center"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4460,10 +5242,14 @@
     "lat": 40.7134273,
     "lon": -73.9549377,
     "name": "Brooklyn Art Haus",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_art_haus"
   },
   {
-    "categories": ["art", "nature"],
+    "categories": [
+      "art",
+      "nature"
+    ],
     "description": "a new cultural center in the heart of the industrial zone of Greenpoint, Brooklyn, that focuses on the intersection of art and ecology...",
     "icon": null,
     "imageURL": null,
@@ -4471,10 +5257,13 @@
     "lat": 40.7348283,
     "lon": -73.943611,
     "name": "NOoSPHERE Arts",
-    "url": null
+    "url": null,
+    "id": "brooklyn_noosphere_arts"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "The newly-opened 65,000 square-foot space houses space for multiple institutions...",
     "icon": null,
     "imageURL": null,
@@ -4482,10 +5271,13 @@
     "lat": 40.686236,
     "lon": -73.9783039,
     "name": "L10 Arts & Cultural Center",
-    "url": null
+    "url": null,
+    "id": "brooklyn_l10_arts_cultural_center"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4493,10 +5285,13 @@
     "lat": 40.6980702,
     "lon": -73.936791,
     "name": "Brooklyn Art Cave",
-    "url": null
+    "url": null,
+    "id": "brooklyn_brooklyn_art_cave"
   },
   {
-    "categories": ["food"],
+    "categories": [
+      "food"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4504,10 +5299,13 @@
     "lat": 40.6320636,
     "lon": -74.0219045,
     "name": "Balady Halal Foods",
-    "url": null
+    "url": null,
+    "id": "brooklyn_balady_halal_foods"
   },
   {
-    "categories": ["shopping"],
+    "categories": [
+      "shopping"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4515,10 +5313,13 @@
     "lat": 40.712958,
     "lon": -73.9577536,
     "name": "Night Owl Video",
-    "url": null
+    "url": null,
+    "id": "brooklyn_night_owl_video"
   },
   {
-    "categories": ["art"],
+    "categories": [
+      "art"
+    ],
     "description": "",
     "icon": null,
     "imageURL": null,
@@ -4526,6 +5327,7 @@
     "lat": 40.7058871,
     "lon": -73.9374341,
     "name": "The Gecko Gallery NYC",
-    "url": null
+    "url": null,
+    "id": "brooklyn_the_gecko_gallery_nyc"
   }
 ]
