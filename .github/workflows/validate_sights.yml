@@ -21,9 +21,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Validate sight IDs
-        run: |
-          for file in $(git diff --name-only HEAD~1 | grep '\.json$'); do
-            echo "Checking $file"
-            python scripts/add_ids_to_sights.py "$file"
-          done
+     - name: Validate sight IDs
+  run: |
+    for file in $(git ls-files '*.json'); do
+      echo "Checking $file"
+      python scripts/add_ids_to_sights.py "$file"
+    done
+
