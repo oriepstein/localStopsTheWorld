@@ -193,7 +193,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature"
+      "park"
     ]
   },
   {
@@ -205,7 +205,9 @@
     "description": "",
     "info": null,
     "url": null,
-    "categories": null
+    "categories": [
+      "theater"
+    ]
   },
   {
     "id": "manhattan_the_clemente_soto_v_lez_cultural_educational_center",
@@ -219,23 +221,12 @@
     "categories": null
   },
   {
-    "id": "manhattan_shi_eurasia",
-    "name": "Shi Eurasia",
-    "lat": 40.71839,
-    "lon": -73.991682,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
     "id": "manhattan_601artspace",
     "name": "601Artspace",
     "lat": 40.71721,
     "lon": -73.992177,
     "imageURL": null,
-    "description": "",
+    "description": "Small non-profit art space that collaborates with artists to create and exhibit non-commercial and unconvential works.",
     "info": null,
     "url": null,
     "categories": [
@@ -259,10 +250,12 @@
     "lat": 40.715143,
     "lon": -73.991147,
     "imageURL": null,
-    "description": "",
+    "description": "Cozy, two-screen movie theater",
     "info": null,
     "url": null,
-    "categories": null
+    "categories":  [
+      "cinema"
+    ]
   },
   {
     "id": "manhattan_daredevil_tattoo",
@@ -302,9 +295,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "religious",
-      "shopping",
-      "quirky"
+      "religious"
     ]
   },
   {
@@ -329,7 +320,9 @@
     "description": "",
     "info": null,
     "url": null,
-    "categories": null
+    "categories":  [
+      "art"
+    ]
   },
   {
     "id": "manhattan_alexander_dijulio",
@@ -340,7 +333,9 @@
     "description": "",
     "info": null,
     "url": null,
-    "categories": null
+    "categories":  [
+      "art"
+    ]
   },
   {
     "id": "manhattan_56_henry",
@@ -4065,11 +4060,12 @@
     "lat": 40.757127,
     "lon": -73.985711,
     "imageURL": null,
-    "description": "A pedestrian island in the middle of world-famous Times Square emits a strange (and purposeful) humming noise.",
+    "description": "Right across from the TKTS booth, on the traffic island on the other side of 46th street, is Max Neuhaus’s sound installation Times Square. There is probably no other work of art in New York City that has been experienced by more people, nor one that has been this overlooked. Emerging from the sidewalk grates as a rhythmic drone, Neuhaus’s recorded work has provided an ambient soundtrack for the neighborhood continuously since May, 2002. So amble on over to this pedestrian triangle and envelope yourself in this public art installation. You will certainly be the only person aware of this experience; any passerby will likely assume you’re just a bewildered tourist frozen amid the chaos of Times Square. But you’ll know.",
     "info": null,
     "url": null,
     "categories": [
-      "neighborhood"
+      "art",
+"quirky"
     ]
   },
   {
@@ -7943,7 +7939,9 @@
     "description": "",
     "info": null,
     "url": null,
-    "categories": null
+    "categories": [
+      "shopping"
+    ]
   },
   {
     "id": "manhattan_hunter_east_harlem_gallery",
@@ -8006,19 +8004,6 @@
     "info": null,
     "url": null,
     "categories": null
-  },
-  {
-    "id": "manhattan_the_bridge_golf_learning_center",
-    "name": "The Bridge Golf Learning Center",
-    "lat": 40.801889,
-    "lon": -73.947528,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": [
-      "architecture"
-    ]
   },
   {
     "id": "manhattan_masjid_malcolm_shabazz",
@@ -8122,7 +8107,6 @@
     "info": null,
     "url": null,
     "categories": [
-      "religious",
       "nature",
       "architecture",
       "historic"
@@ -8151,7 +8135,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "neighborhood"
+      "landmark"
     ]
   },
   {
