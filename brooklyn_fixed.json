@@ -1981,21 +1981,6 @@
   },
   {
     "categories": [
-      "museum",
-      "quirky"
-    ],
-    "description": "Tiny museum space featuring rotating exhibitions of contemporary art.",
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "lat": 40.687607,
-    "lon": -73.9897317,
-    "name": "Micro Museum",
-    "url": null,
-    "id": "brooklyn_micro_museum"
-  },
-  {
-    "categories": [
       "art",
       "quirky"
     ],
