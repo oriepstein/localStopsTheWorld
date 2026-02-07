@@ -10197,19 +10197,6 @@
     ]
   },
   {
-    "id": "manhattan_bowne_co_stationers",
-    "name": "Bowne & Co. Stationers",
-    "lat": 40.707385,
-    "lon": -74.003479,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": [
-      "architecture"
-    ]
-  },
-  {
     "id": "manhattan_70_pine_street",
     "name": "70 Pine Street",
     "lat": 40.706505,
