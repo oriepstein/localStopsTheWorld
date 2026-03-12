@@ -1,0 +1,726 @@
+[
+  {
+    "id": "venice_armenian_monastery_mechitarist",
+    "name": "Armenian Monastery Mechitarist",
+    "lat": 45.4123316,
+    "lon": 12.3608718,
+    "imageURL": null,
+    "description": "Armenian monks at an island monastery in the Venetian Lagoon make a rare rose petal jam.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_ausonia_hungaria",
+    "name": "Ausonia Hungaria",
+    "lat": 45.4156681,
+    "lon": 12.3718171,
+    "imageURL": null,
+    "description": "An intricate ceramic tile facade adorns this five-star hotel.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "quirky",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_basilica_smaria_gloriosa_dei_frari",
+    "name": "Basilica S.Maria Gloriosa dei Frari",
+    "lat": 45.4369864,
+    "lon": 12.3266004,
+    "imageURL": null,
+    "description": "A sinister pyramid in the Frari contains the heart of the famous neoclassical sculptor Antonio Canova",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_basilica_dei_santi_maria_e_donato",
+    "name": "Basilica dei Santi Maria e Donato",
+    "lat": 45.4574929,
+    "lon": 12.357016,
+    "imageURL": null,
+    "description": "Hanging within this medieval church are the bones of a beast allegedly slain by a fourth-century saint.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "quirky"
+    ]
+  },
+  {
+    "id": "venice_burano",
+    "name": "Burano",
+    "lat": 45.4853906,
+    "lon": 12.4166562,
+    "imageURL": null,
+    "description": "This community on a small Venetian island has taken to painting their houses in bright neon hues.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "neighborhood",
+      "quirky",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_ca_foscari___zattere_cultural_flow_zone",
+    "name": "Ca' Foscari - Zattere Cultural Flow Zone",
+    "lat": 45.4299556,
+    "lon": 12.3249722,
+    "imageURL": null,
+    "description": "A notable location in Venice: Ca' Foscari - Zattere Cultural Flow Zone",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_ca_rezzonico",
+    "name": "Ca' Rezzonico",
+    "lat": 45.4335405,
+    "lon": 12.3268258,
+    "imageURL": null,
+    "description": "A notable location in Venice: Ca' Rezzonico",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_chiesa_di_san_giacomo_di_rialto",
+    "name": "Chiesa di San Giacomo di Rialto",
+    "lat": 45.4384354,
+    "lon": 12.3354451,
+    "imageURL": null,
+    "description": "According to tradition this is the oldest church in Venice, but its actual age is a mystery.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_chiesa_di_san_marcuola",
+    "name": "Chiesa di San Marcuola",
+    "lat": 45.442931,
+    "lon": 12.328688,
+    "imageURL": null,
+    "description": "A notable location in Venice: Chiesa di San Marcuola",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_chiesa_di_san_zaccaria",
+    "name": "Chiesa di San Zaccaria",
+    "lat": 45.4347931,
+    "lon": 12.3433166,
+    "imageURL": null,
+    "description": "As can be expected from a centuries old church built in a canal city, the undercroft of this house of worship is beautifully flooded.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_chiesa_di_san_zulian",
+    "name": "Chiesa di San Zulian",
+    "lat": 45.4357806,
+    "lon": 12.3386827,
+    "imageURL": null,
+    "description": "church facade has statue of man who became rich selling cure for syphillis",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_church_of_saint_sebastian",
+    "name": "Church of Saint Sebastian",
+    "lat": 45.4320049,
+    "lon": 12.3199577,
+    "imageURL": null,
+    "description": "A notable location in Venice: Church of Saint Sebastian",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_constitution_bridge",
+    "name": "Constitution Bridge",
+    "lat": 45.4388095,
+    "lon": 12.3194111,
+    "imageURL": null,
+    "description": "A notable location in Venice: Constitution Bridge",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_ca_grifalconi",
+    "name": "Cà Grifalconi",
+    "lat": 45.4339828,
+    "lon": 12.3238525,
+    "imageURL": null,
+    "description": "A notable location in Venice: Cà Grifalconi",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_doges_palace",
+    "name": "Doge's Palace",
+    "lat": 45.4337035,
+    "lon": 12.3403894,
+    "imageURL": null,
+    "description": "A notable location in Venice: Doge's Palace",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_fondazione_giorgio_cini",
+    "name": "Fondazione Giorgio Cini",
+    "lat": 45.428765,
+    "lon": 12.342866,
+    "imageURL": null,
+    "description": "A notable location in Venice: Fondazione Giorgio Cini",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_former_church_santa_chiara_murano",
+    "name": "Former Church Santa Chiara Murano",
+    "lat": 45.4521043,
+    "lon": 12.3507428,
+    "imageURL": null,
+    "description": "A notable location in Venice: Former Church Santa Chiara Murano",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "nature"
+    ]
+  },
+  {
+    "id": "venice_gallerie_dellaccademia",
+    "name": "Gallerie dell'Accademia",
+    "lat": 45.4310784,
+    "lon": 12.3281394,
+    "imageURL": null,
+    "description": "A notable location in Venice: Gallerie dell'Accademia",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_il_campanile_storto",
+    "name": "Il Campanile Storto",
+    "lat": 45.4841752,
+    "lon": 12.418587,
+    "imageURL": null,
+    "description": "A notable location in Venice: Il Campanile Storto",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_isola_del_lazzaretto_nuovo",
+    "name": "Isola del Lazzaretto Nuovo",
+    "lat": 45.4568845,
+    "lon": 12.386315,
+    "imageURL": null,
+    "description": "A notable location in Venice: Isola del Lazzaretto Nuovo",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "venice_isola_di_san_michele",
+    "name": "Isola di San Michele",
+    "lat": 45.4464474,
+    "lon": 12.3468539,
+    "imageURL": null,
+    "description": "Venice's island of the dead.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "nature",
+      "historic"
+    ]
+  },
+  {
+    "id": "venice_iuav_university_of_venice___ca_tron",
+    "name": "Iuav University of Venice - Ca 'Tron",
+    "lat": 45.4416318,
+    "lon": 12.3298769,
+    "imageURL": null,
+    "description": "A notable location in Venice: Iuav University of Venice - Ca 'Tron",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_laboratorio_occupato_morion",
+    "name": "Laboratorio Occupato Morion",
+    "lat": 45.4373171,
+    "lon": 12.3474206,
+    "imageURL": null,
+    "description": "A notable location in Venice: Laboratorio Occupato Morion",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_lazzaretto_vecchio",
+    "name": "Lazzaretto Vecchio",
+    "lat": 45.406193,
+    "lon": 12.35949,
+    "imageURL": null,
+    "description": "The oldest of Venice's plague quarantine stations, designed to keep the medieval city safe from disease.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "quirky"
+    ]
+  },
+  {
+    "id": "venice_libreria_acqua_alta",
+    "name": "Libreria Acqua Alta",
+    "lat": 45.4379798,
+    "lon": 12.342292,
+    "imageURL": null,
+    "description": "This Venice bookstore has resigned itself to constant flooding by keeping its books in bathtubs and boats.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_luigi_bevilacqua_srl_weaving",
+    "name": "Luigi Bevilacqua srl ​​Weaving",
+    "lat": 45.4417371,
+    "lon": 12.3271232,
+    "imageURL": null,
+    "description": "A notable location in Venice: Luigi Bevilacqua srl ​​Weaving",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_monumento_a_niccolo_tommaseo",
+    "name": "Monumento a Niccolò Tommaseo",
+    "lat": 45.4332722,
+    "lon": 12.3304193,
+    "imageURL": null,
+    "description": "The pile of books behind the dignified writer gave the statue a most undignified nickname. It’s these books that make light of the statue’s otherwise serious appearance. Venetians noted that the placement of the books, just behind Tommaseo’s legs and partially covered by his long coat, made for an involuntary comic outcome. As such, they dubbed the statue Caga libri,” which translates to “Bookshitter.” The tongue-in-cheek name is still widely used today.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_museo_del_manicomio___la_follia_reclusa",
+    "name": "Museo del Manicomio - La Follia reclusa",
+    "lat": 45.4201011,
+    "lon": 12.3557779,
+    "imageURL": null,
+    "description": "A notable location in Venice: Museo del Manicomio - La Follia reclusa",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_palazzo_contarini_del_bovolo",
+    "name": "Palazzo Contarini del Bovolo",
+    "lat": 45.4348579,
+    "lon": 12.3345337,
+    "imageURL": null,
+    "description": "This palatial spiral staircase was so unusual the name \"snail\" was given to the noble family who built it.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_palazzo_vendramin_grimani",
+    "name": "Palazzo Vendramin Grimani",
+    "lat": 45.4362759,
+    "lon": 12.3303546,
+    "imageURL": null,
+    "description": "A notable location in Venice: Palazzo Vendramin Grimani",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_peggy_guggenheim_collection",
+    "name": "Peggy Guggenheim Collection",
+    "lat": 45.4308209,
+    "lon": 12.3315374,
+    "imageURL": null,
+    "description": "A notable location in Venice: Peggy Guggenheim Collection",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "venice_piraeus_lion",
+    "name": "Piraeus Lion",
+    "lat": 45.4347909,
+    "lon": 12.3498247,
+    "imageURL": null,
+    "description": "Thousand-year-old Viking runes adorn an ancient Greek lion at the entrance to the Venetian Arsenal.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "venice_ponte_dei_pugni",
+    "name": "Ponte dei Pugni",
+    "lat": 45.4331675,
+    "lon": 12.3243688,
+    "imageURL": null,
+    "description": "100 year tradition of fist fights, marked by marble footsteps.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_ponte_delle_tette",
+    "name": "Ponte delle Tette",
+    "lat": 45.4388385,
+    "lon": 12.3309479,
+    "imageURL": null,
+    "description": "In the past, Renaissance sex workers were encouraged to entice customers on this bridge.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "venice_portrait_of_the_four_tetrarchs",
+    "name": "Portrait of the Four Tetrarchs",
+    "lat": 45.4342558,
+    "lon": 12.3397052,
+    "imageURL": null,
+    "description": "This Roman statue is missing a limb from when the Venetians stole it from Constantinople during the Crusades.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "venice_row_venice",
+    "name": "Row Venice",
+    "lat": 45.4452207,
+    "lon": 12.3343167,
+    "imageURL": null,
+    "description": "A notable location in Venice: Row Venice",
+    "info": null,
+    "url": null,
+    "categories": [
+      "recreation",
+      "sports"
+    ]
+  },
+  {
+    "id": "venice_saint_marks_basilica",
+    "name": "Saint Mark's Basilica",
+    "lat": 45.4345606,
+    "lon": 12.3397125,
+    "imageURL": null,
+    "description": "An extensive collection of reliquaries containing the bones of saints housed in the largest Catholic church in Venice.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "quirky"
+    ]
+  },
+  {
+    "id": "venice_san_francesco_del_deserto",
+    "name": "San Francesco del Deserto",
+    "lat": 45.4735609,
+    "lon": 12.4169985,
+    "imageURL": null,
+    "description": "A notable location in Venice: San Francesco del Deserto",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_san_francesco_della_vigna",
+    "name": "San Francesco della Vigna",
+    "lat": 45.4382987,
+    "lon": 12.3476511,
+    "imageURL": null,
+    "description": "A notable location in Venice: San Francesco della Vigna",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_san_giorgio_maggiore",
+    "name": "San Giorgio Maggiore",
+    "lat": 45.4288691,
+    "lon": 12.3438017,
+    "imageURL": null,
+    "description": "A notable location in Venice: San Giorgio Maggiore",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_san_lazzaro_degli_armeni",
+    "name": "San Lazzaro degli Armeni",
+    "lat": 45.4122884,
+    "lon": 12.3616807,
+    "imageURL": null,
+    "description": "Originally a leper colony, the island is now an Armenian monastery that's home to an incredible manuscript library and eclectic museum.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "nature",
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_san_servolo",
+    "name": "San Servolo",
+    "lat": 45.4185887,
+    "lon": 12.3572863,
+    "imageURL": null,
+    "description": "Venice's Island of the Mad. Number 20 boat stop San Servolo. Be aware that the museum is actually rather small, and most of the buildings are occupied by Venice University and a hotel. You'll need to visit the hotel's reception (opposite the ferry point) to buy a ticket to the museum. Unless you've booked onto a tour, they only open at 10:45 am and 2 pm.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "nature",
+      "quirky"
+    ]
+  },
+  {
+    "id": "venice_santa_maria_dei_carmini___santa_maria_del_carmelo",
+    "name": "Santa Maria dei Carmini - Santa Maria del Carmelo",
+    "lat": 45.4335135,
+    "lon": 12.3222348,
+    "imageURL": null,
+    "description": "A notable location in Venice: Santa Maria dei Carmini - Santa Maria del Carmelo",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_scuola_grande_di_san_marco",
+    "name": "Scuola Grande di San Marco",
+    "lat": 45.4396526,
+    "lon": 12.3414673,
+    "imageURL": null,
+    "description": "The marble facade hides a little-known medical museum with early surgical instruments and rare copies of canonical texts.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_squero_di_san_trovaso",
+    "name": "Squero di San Trovaso",
+    "lat": 45.4302714,
+    "lon": 12.3258886,
+    "imageURL": null,
+    "description": "Where Venice's gondolas go for a tune-up.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious"
+    ]
+  },
+  {
+    "id": "venice_st_marks_square",
+    "name": "St. Mark's Square",
+    "lat": 45.4341668,
+    "lon": 12.3384713,
+    "imageURL": null,
+    "description": "WHS - Venice & it's lagoons",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_torcello",
+    "name": "Torcello",
+    "lat": 45.4963063,
+    "lon": 12.4152546,
+    "imageURL": null,
+    "description": "The small peaceful island off the Venice tourist circuit is where the city began more than 1,500 years ago.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "venice_torcello_cathedral",
+    "name": "Torcello Cathedral",
+    "lat": 45.4983316,
+    "lon": 12.4191009,
+    "imageURL": null,
+    "description": "Stare out over the lagoon and beyond from this 10th-century campanile on the island where the city of Venice began.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "religious",
+      "nature"
+    ]
+  },
+  {
+    "id": "venice_torre_massimiliana",
+    "name": "Torre Massimiliana",
+    "lat": 45.4450667,
+    "lon": 12.3931484,
+    "imageURL": null,
+    "description": "This sturdy, circular stronghold served as one of the forts that protected the Venetian Lagoon.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_torre_dellorologio",
+    "name": "Torre dell'Orologio",
+    "lat": 45.4347587,
+    "lon": 12.3389668,
+    "imageURL": null,
+    "description": "Go inside to really appreciate this 500-year-old technological masterpiece.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_v_a_c_zattere",
+    "name": "V-A-C Zattere",
+    "lat": 45.4302348,
+    "lon": 12.3242308,
+    "imageURL": null,
+    "description": "A notable location in Venice: V-A-C Zattere",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_vatican_chapels",
+    "name": "Vatican Chapels",
+    "lat": 45.4273331,
+    "lon": 12.3441718,
+    "imageURL": null,
+    "description": "A notable location in Venice: Vatican Chapels",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "venice_villa_widmann__foscari",
+    "name": "Villa Widmann – Foscari",
+    "lat": 45.4420642,
+    "lon": 12.1466452,
+    "imageURL": null,
+    "description": "WHS - City of Vicenza and the Palladian Villas of the Veneto",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  }
+]
