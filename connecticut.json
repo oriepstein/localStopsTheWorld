@@ -935,17 +935,6 @@
     "url": null
   },
   {
-    "name": "Center Church On The Green",
-    "lat": 41.3078531,
-    "lon": -72.9264414,
-    "icon": null,
-    "imageURL": null,
-    "description": "137 graves holding New England's earliest residents. ",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
     "name": "Hygienic Art",
     "lat": 41.353132,
     "lon": -72.0947163,
@@ -4477,39 +4466,6 @@
     "url": null
   },
   {
-    "name": "East Rock Park",
-    "lat": 41.3296405,
-    "lon": -72.9046296,
-    "icon": null,
-    "imageURL": null,
-    "description": "Panoramic views of the city of New Haven and the Long Island Sound, with a side of history. ",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
-    "name": "Supercharged Indoor Karting and Axe Throwing",
-    "lat": 41.4243225,
-    "lon": -72.2113903,
-    "icon": null,
-    "imageURL": null,
-    "description": "The world's largest indoor go-kart racetrack is hiding in Connecticut.",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
-    "name": "Old New-Gate Prison & Copper Mine - Seasonal",
-    "lat": 41.9619773,
-    "lon": -72.7450288,
-    "icon": null,
-    "imageURL": null,
-    "description": "A former copper mine which became a truly unsuccessful prison. ",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
     "name": "Center Church On The Green",
     "lat": 41.3078531,
     "lon": -72.9264414,
@@ -4571,28 +4527,6 @@
     "icon": null,
     "imageURL": null,
     "description": "Quirky castle designed by the American actor best known for portraying Sherlock Holmes on stage. ",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
-    "name": "Yale University Art Gallery",
-    "lat": 41.30839,
-    "lon": -72.930958,
-    "icon": null,
-    "imageURL": null,
-    "description": "AI: A huge, eclectic, free museum that punches far above its weight: ancient artifacts, African sculpture, modern art, and more. The building itself (also partly by Kahn) is a highlight.<br>Traveler note: This is not a quick stop — give it time or focus on one section.",
-    "info": null,
-    "categories": [],
-    "url": null
-  },
-  {
-    "name": "The Cushing Center",
-    "lat": 41.30323,
-    "lon": -72.9338699,
-    "icon": null,
-    "imageURL": null,
-    "description": "An archival collection of over 2,200 case studies which includes human brain specimens and tumor specimens. ",
     "info": null,
     "categories": [],
     "url": null
