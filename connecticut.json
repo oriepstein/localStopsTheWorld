@@ -3575,22 +3575,6 @@
     "url": null
   },
   {
-    "name": "Well's Dinosaur Haven",
-    "description": "A free display of artistic lifesize dinosaur sculptures in a backyard garden.",
-    "lat": 41.4919626,
-    "lon": -72.099976,
-    "icon": null,
-    "imageURL": null,
-    "info": null,
-    "url": null,
-    "categories": [
-      "art",
-      "entertainment"
-    ]
-  }
-]
-[
-  {
     "name": "Palisado Cemetery",
     "lat": 41.8588046,
     "lon": -72.6384004,
