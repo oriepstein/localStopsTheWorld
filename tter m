@@ -9,7 +9,7 @@
     "info": null,
     "url": "https://www.macys.com/stores/pa/philadelphia/philadelphia-downtown-1218.html",
     "categories": [
-      "music",
+      "localhighlight",
       "landmark",
       "quirky"
     ]
@@ -39,8 +39,8 @@
     "info": null,
     "url": "https://www.easternstate.org",
     "categories": [
+      "localhighlight",
       "historic",
-      "quirky",
       "landmark"
     ]
   },
@@ -170,6 +170,7 @@
     "info": null,
     "url": "https://muttermuseum.org",
     "categories": [
+      "localhighlight",
       "museum",
       "quirky",
       "science"
@@ -227,6 +228,7 @@
     "info": null,
     "url": "https://www.phillymagicgardens.org",
     "categories": [
+      "localhighlight",
       "art",
       "quirky",
       "landmark"
@@ -256,8 +258,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "religious",
-      "quirky"
+      "localhighlight",
+  "religious"
     ]
   },
   {
@@ -809,6 +811,7 @@
     "info": null,
     "url": "https://www.wagnerfreeinstitute.org",
     "categories": [
+      "localhighlight",
       "museum",
       "science",
       "historic"
@@ -1301,6 +1304,7 @@
     "info": null,
     "url": "https://www.barnesfoundation.org",
     "categories": [
+      "localhighlight",
       "museum",
       "art"
     ]
@@ -2116,6 +2120,7 @@
     "info": null,
     "url": null,
     "categories": [
+      "localhighlight",
       "art",
       "landmark"
     ]
