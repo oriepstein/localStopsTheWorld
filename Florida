@@ -1,0 +1,5107 @@
+[
+  {
+    "id": "florida_brickell_mausoleum_at_mary_brickell_park",
+    "name": "Brickell Mausoleum at Mary Brickell Park",
+    "lat": 25.7682322,
+    "lon": -80.1891375,
+    "imageURL": null,
+    "description": "Amid the hustle and bustle of Miami’s Financial District sits a mausoleum-turned-monument.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_miami_circle_national_historic_landmark",
+    "name": "Miami Circle National Historic Landmark",
+    "lat": 25.7694512,
+    "lon": -80.1889471,
+    "imageURL": null,
+    "description": "A perfect circle of 24 mysterious holes dates back to prehistoric times.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_vagabond_hotel_miami",
+    "name": "Vagabond Hotel Miami",
+    "lat": 25.8427677,
+    "lon": -80.184082,
+    "imageURL": null,
+    "description": "This post-war motel embodies a little-known, Miami-born architectural style.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_gold_coast_railroad_museum",
+    "name": "Gold Coast Railroad Museum",
+    "lat": 25.6170921,
+    "lon": -80.4006348,
+    "imageURL": null,
+    "description": "With nickel-steel armor and three-inch thick bullet resistant windows, FDR's train was a rolling fortress.",
+    "info": null,
+    "url": "https://gcrm.org",
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_valujet_592_memorial",
+    "name": "ValuJet 592 Memorial",
+    "lat": 25.7618097,
+    "lon": -80.6719971,
+    "imageURL": null,
+    "description": "In memory of the 110 victims of ValuJet Flight 592 that crashed in the Everglades.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_historical_opa_locka_city_hall",
+    "name": "Historical Opa-Locka City Hall",
+    "lat": 25.9050237,
+    "lon": -80.2528049,
+    "imageURL": null,
+    "description": "America's only city hall with minarets took architectural cues from Ali Baba and the Forty Thieves.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_cape_florida_lighthouse",
+    "name": "Cape Florida Lighthouse",
+    "lat": 25.6665986,
+    "lon": -80.1559585,
+    "imageURL": null,
+    "description": "Located within a historic park, the beacon is the oldest standing structure in Miami.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_crandon_park_zoo_ruins",
+    "name": "Crandon Park Zoo Ruins",
+    "lat": 25.7054485,
+    "lon": -80.1557184,
+    "imageURL": null,
+    "description": "It turns out that a hurricane-prone beach is probably not the best place to house wild animals. In a forgotten corner of a very popular public park on Key Biscayne are the ruins of the city’s old zoo. Now inhabited by the occasional biker, alligators (at least according to the signs), roaming peacocks, and untold armies of iguanas scuttling through the brush, the Crandon Park Zoo ruins are a monument to the wisdom of building an animal attraction just feet from the water on a hurricane-prone island.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_vizcaya_museum_gardens",
+    "name": "Vizcaya Museum & Gardens",
+    "lat": 25.7443866,
+    "lon": -80.2104747,
+    "imageURL": null,
+    "description": "Former villa and estate of James Deering developed to preserve native tropical forests.",
+    "info": null,
+    "url": "https://vizcaya.org",
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_stiltsville",
+    "name": "Stiltsville",
+    "lat": 25.6545537,
+    "lon": -80.1744735,
+    "imageURL": null,
+    "description": "community of collapsing homes more than a mile out from the Florida coast.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_wolfsonian_florida_international_university",
+    "name": "The Wolfsonian-Florida International University",
+    "lat": 25.780896,
+    "lon": -80.1324342,
+    "imageURL": null,
+    "description": "Over 120,000 curious objects that have shaped our modern world.",
+    "info": null,
+    "url": "https://wolfsonian.org",
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_kampong_national_tropical_botanical_garden",
+    "name": "The Kampong, National Tropical Botanical Garden",
+    "lat": 25.715266,
+    "lon": -80.250413,
+    "imageURL": null,
+    "description": "this beautiful Miami garden was designed as a laboratory for tropical plants.",
+    "info": null,
+    "url": "https://ntbg.org/gardens/kampong",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_monkey_jungle",
+    "name": "Monkey Jungle",
+    "lat": 25.5663433,
+    "lon": -80.4315414,
+    "imageURL": null,
+    "description": "Where monkeys run wild and the humans are caged",
+    "info": null,
+    "url": "https://monkeyjungle.com",
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_world_erotic_art_museum",
+    "name": "World Erotic Art Museum",
+    "lat": 25.7832125,
+    "lon": -80.1320602,
+    "imageURL": null,
+    "description": "12,000 sq. ft. museum tracing erotic art from antiquity to modern times.",
+    "info": null,
+    "url": "https://weam.com",
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_pegasus_and_dragon_statue",
+    "name": "Pegasus And Dragon Statue",
+    "lat": 25.9823122,
+    "lon": -80.1405461,
+    "imageURL": null,
+    "description": "The behemoth beasts engaged in an epic battle is the second-tallest statue in the contiguous United States.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_ancient_spanish_monastery",
+    "name": "The Ancient Spanish Monastery",
+    "lat": 25.9296854,
+    "lon": -80.1545722,
+    "imageURL": null,
+    "description": "St Bernard de Clairvaux Episcopal Church, better known as one of the oldest European buildings in the Western Hemisphere.",
+    "info": null,
+    "url": "https://spanishmonastery.com",
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_o_cinema_south_beach",
+    "name": "O Cinema South Beach",
+    "lat": 25.7826246,
+    "lon": -80.1326305,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "entertainment",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_art_deco_welcome_center",
+    "name": "Art Deco Welcome Center",
+    "lat": 25.7802959,
+    "lon": -80.1303405,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://mdpl.org",
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_venetian_pool",
+    "name": "Venetian Pool",
+    "lat": 25.7455209,
+    "lon": -80.2732711,
+    "imageURL": null,
+    "description": "The only swimming pool listed on the National Register of Historic Places is emptied and refilled each day with naturally filtered water.",
+    "info": null,
+    "url": "https://coralgables.com/venetianpool",
+    "categories": [
+      "landmark",
+      "historic",
+      "architecture",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_watson_island_park",
+    "name": "Watson Island Park",
+    "lat": 25.7835375,
+    "lon": -80.1726539,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bay_of_pigs_museum_and_library",
+    "name": "Bay of Pigs Museum and Library",
+    "lat": 25.7649985,
+    "lon": -80.2250156,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://brigada2506.com",
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_biltmore_hotel_miami_coral_gables",
+    "name": "Biltmore Hotel Miami Coral Gables",
+    "lat": 25.7407941,
+    "lon": -80.2786796,
+    "imageURL": null,
+    "description": "NHL",
+    "info": null,
+    "url": "https://biltmorehotel.com",
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_freedom_tower_at_miami_dade_college",
+    "name": "Freedom Tower at Miami Dade College",
+    "lat": 25.7803293,
+    "lon": -80.1894303,
+    "imageURL": null,
+    "description": "NHL; AI Iconic skyline landmark with deep symbolic weight — the “Ellis Island of the South” for Cuban exiles. The exhibitions vary, but the building itself (a Mediterranean Revival wedding-cake tower) is what makes it essential. Even if you just admire it from outside, it’s a Miami touchstone.",
+    "info": null,
+    "url": "https://www.mdc.edu/freedomtower",
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_trinity_cathedral",
+    "name": "Trinity Cathedral",
+    "lat": 25.7903424,
+    "lon": -80.1866451,
+    "imageURL": null,
+    "description": "Trinity Episcopal Cathedral is the oldest church in the original city limits of Miami, having been organized by the Rt. Rev. William C. Gray on June 12, 1896, more than a month before the city was incorporated. It was originally a one-story, one-room wooden Trinity Church and was completed as the first permanent church building within Miami's original city limits. Redesigned in 1924 by Miami architect Harold Hastings Mundy, today, Trinity Cathedral is a house of prayer for all people and its many programs and activities reach out to the community in numerous ways. The Cathedral congregation is ethnically and culturally diverse, making it a microcosm of the Miami community.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_wynwood_walls",
+    "name": "Wynwood Walls",
+    "lat": 25.8010178,
+    "lon": -80.1993841,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://wynwoodwalls.com",
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_margulies_collection_at_the_warehouse",
+    "name": "The Margulies Collection at the WAREhOUSE",
+    "lat": 25.8018762,
+    "lon": -80.2049367,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://margulieswarehouse.com",
+    "categories": [
+      "art",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_bakehouse_art_complex",
+    "name": "Bakehouse Art Complex",
+    "lat": 25.8068086,
+    "lon": -80.2048537,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://bakehousearts.org",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "id": "florida_rubell_museum",
+    "name": "Rubell Museum",
+    "lat": 25.798671,
+    "lon": -80.2141186,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://rubellmuseum.org",
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_wynwood_art_district",
+    "name": "Wynwood Art District",
+    "lat": 25.8014685,
+    "lon": -80.1990903,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://wynwoodmiami.com",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "id": "florida_norton_museum_of_art",
+    "name": "Norton Museum of Art",
+    "lat": 26.7006257,
+    "lon": -80.053595,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_lummus_park",
+    "name": "Lummus Park",
+    "lat": 25.7809553,
+    "lon": -80.1299479,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_morikami_museum_and_japanese_gardens",
+    "name": "Morikami Museum and Japanese Gardens",
+    "lat": 26.4291544,
+    "lon": -80.1564321,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://morikami.org",
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_arts_garage",
+    "name": "Arts Garage",
+    "lat": 26.4630906,
+    "lon": -80.0715958,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://artsgarage.org",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "id": "florida_cornell_art_museum_at_old_school_square",
+    "name": "Cornell Art Museum at Old School Square",
+    "lat": 26.4621806,
+    "lon": -80.0726646,
+    "imageURL": null,
+    "description": "A contemporary art museum housed in a historic school building in Delray Beach. Exhibitions tend to feature emerging artists and experimental works.Verdict: Small but lively cultural venue.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_green_cay_nature_center_wetlands",
+    "name": "Green Cay Nature Center & Wetlands",
+    "lat": 26.4854671,
+    "lon": -80.1622675,
+    "imageURL": null,
+    "description": "These constructed wetlands naturally filter millions of gallons of treated wastewater every day.",
+    "info": null,
+    "url": "https://discover.pbcgov.org/parksnature/Pages/GreenCay.aspx",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bulk_candy_store",
+    "name": "Bulk Candy Store",
+    "lat": 26.6806167,
+    "lon": -80.1456444,
+    "imageURL": null,
+    "description": "This shop also boasts some sweet memorabilia from \"Willy Wonka and the Chocolate Factory.\"",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_yesteryear_village",
+    "name": "Yesteryear Village",
+    "lat": 26.684572,
+    "lon": -80.1883684,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_country_club_road",
+    "name": "Country Club Road",
+    "lat": 26.7413228,
+    "lon": -80.0389069,
+    "imageURL": null,
+    "description": "This spooky road cut through a mound of ancient coral might be haunted by a witch.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_peanut_island",
+    "name": "Peanut Island",
+    "lat": 26.7732826,
+    "lon": -80.0472053,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_biscayne_national_park",
+    "name": "Biscayne National Park",
+    "lat": 25.5003157,
+    "lon": -80.1828286,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://nps.gov/bisc",
+    "categories": [
+      "nature",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_manatee_lagoon",
+    "name": "Manatee Lagoon",
+    "lat": 26.7636331,
+    "lon": -80.0506059,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_brewhouse_gallery",
+    "name": "The Brewhouse Gallery",
+    "lat": 26.7983135,
+    "lon": -80.0671177,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "music",
+      "entertainment",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_juno_dunes_natural_area",
+    "name": "Juno Dunes Natural Area",
+    "lat": 26.887927,
+    "lon": -80.0589539,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_thrive_by_daniel_popper",
+    "name": "Thrive by Daniel Popper",
+    "lat": 26.1193191,
+    "lon": -80.144579,
+    "imageURL": null,
+    "description": "This concrete sculpture features a woman opening her heart to showcase a beautiful fern.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_fort_lauderdale_swap_shop",
+    "name": "Fort Lauderdale Swap Shop",
+    "lat": 26.1370252,
+    "lon": -80.1910838,
+    "imageURL": null,
+    "description": "This liminal destination combines creaky carnival rides, a classic car museum, and luck-of-the-draw flea market finds surrounded by dust and drive-in movie screens.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_international_swimming_hall_of_fame",
+    "name": "International Swimming Hall of Fame",
+    "lat": 26.1164589,
+    "lon": -80.1075565,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_bonnet_house_museum_gardens",
+    "name": "Bonnet House Museum & Gardens",
+    "lat": 26.1363719,
+    "lon": -80.1069179,
+    "imageURL": null,
+    "description": "A wonderfully eccentric historic estate hidden between the beach and the Intracoastal Waterway. Built in the 1920s by artist Frederic Clay Bartlett, the Bonnet House blends Caribbean-style architecture with lush tropical gardens, lagoons, and art-filled interiors.The property feels more like a dreamy artists’ retreat than a formal museum, with orchids, wildlife, and quirky decorative touches throughout.Verdict: One of the most memorable places in Fort Lauderdale.",
+    "info": null,
+    "url": "https://bonnethouse.org",
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_worth_avenue_clock_tower",
+    "name": "Worth Avenue Clock Tower",
+    "lat": 26.700763,
+    "lon": -80.0331758,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_the_church_of_bethesda_by_the_sea",
+    "name": "The Church of Bethesda-By-The Sea",
+    "lat": 26.7113183,
+    "lon": -80.0366903,
+    "imageURL": null,
+    "description": "The oldest house of worship in Palm Beach has a wonderful tropical garden.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_henry_morrison_flagler_museum",
+    "name": "Henry Morrison Flagler Museum",
+    "lat": 26.7138135,
+    "lon": -80.043551,
+    "imageURL": null,
+    "description": "This railroad and oil tycoon's lavish estate now stands as a time capsule of the Gilded Age.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_blowing_rocks_preserve",
+    "name": "Blowing Rocks Preserve",
+    "lat": 26.9785226,
+    "lon": -80.0844811,
+    "imageURL": null,
+    "description": "These craggy limestone outcrops offer a glimpse at a unique piece of Florida geology.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_boca_raton_innovation_campus",
+    "name": "Boca Raton Innovation Campus",
+    "lat": 26.3908681,
+    "lon": -80.1071968,
+    "imageURL": null,
+    "description": "home to the longest hallway in america",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_the_boys_farmers_market",
+    "name": "The Boys Farmers Market",
+    "lat": 26.4638155,
+    "lon": -80.1216854,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "market"
+    ]
+  },
+  {
+    "id": "florida_wakodahatchee_wetlands",
+    "name": "Wakodahatchee Wetlands",
+    "lat": 26.4778604,
+    "lon": -80.1464742,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://discover.pbcgov.org/parksnature/Pages/Wakodahatchee.aspx",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_sandoway_discovery_center",
+    "name": "Sandoway Discovery Center",
+    "lat": 26.4582612,
+    "lon": -80.0593336,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_red_reef_park",
+    "name": "Red Reef Park",
+    "lat": 26.3616884,
+    "lon": -80.069498,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_spanish_river_park",
+    "name": "Spanish River Park",
+    "lat": 26.3787913,
+    "lon": -80.0688904,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_delray_oaks_natural_area",
+    "name": "Delray Oaks Natural Area",
+    "lat": 26.4271171,
+    "lon": -80.093348,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bamboo_room",
+    "name": "Bamboo Room",
+    "lat": 26.6150786,
+    "lon": -80.0564835,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "music",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_fern_forest_nature_center",
+    "name": "Fern Forest Nature Center",
+    "lat": 26.2297743,
+    "lon": -80.1857513,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_atlantic_dunes_park",
+    "name": "Atlantic Dunes Park",
+    "lat": 26.4420229,
+    "lon": -80.0608266,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_breakers_palm_beach",
+    "name": "The Breakers Palm Beach",
+    "lat": 26.7147746,
+    "lon": -80.0339842,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_mounts_botanical_garden",
+    "name": "Mounts Botanical Garden",
+    "lat": 26.685392,
+    "lon": -80.1127469,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_green_s_pharmacy_of_palm_beach",
+    "name": "Green's Pharmacy of Palm Beach",
+    "lat": 26.72036,
+    "lon": -80.037664,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_society_of_the_four_arts",
+    "name": "The Society of the Four Arts",
+    "lat": 26.7067232,
+    "lon": -80.0418756,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "id": "florida_west_palm_beach_greenmarket",
+    "name": "West Palm Beach GreenMarket",
+    "lat": 26.7129728,
+    "lon": -80.0503247,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "market",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_maltz_jupiter_theatre_inc",
+    "name": "Maltz Jupiter Theatre Inc",
+    "lat": 26.9347222,
+    "lon": -80.0744444,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_jupiter_inlet_lighthouse_museum",
+    "name": "Jupiter Inlet Lighthouse & Museum",
+    "lat": 26.9483108,
+    "lon": -80.0845267,
+    "imageURL": null,
+    "description": "A striking red-brick lighthouse dating to 1860 that overlooks the turquoise waters where the Loxahatchee River meets the Atlantic. Climbing the lighthouse offers sweeping views of the coastline, sandbars, and waterways.The surrounding historic site includes early military and lighthouse structures.Verdict: One of the most picturesque historic landmarks in South Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_grassy_waters_preserve",
+    "name": "Grassy Waters Preserve",
+    "lat": 26.8090279,
+    "lon": -80.1700441,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_lighthouse_artcenter_gallery_2d_studio",
+    "name": "Lighthouse ArtCenter Gallery & 2D Studio",
+    "lat": 26.9594302,
+    "lon": -80.0942732,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "art",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_hobe_sound_national_wildlife_refuge",
+    "name": "Hobe Sound National Wildlife Refuge",
+    "lat": 27.088677,
+    "lon": -80.126619,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_dubois_pioneer_home",
+    "name": "DuBois Pioneer Home",
+    "lat": 26.9431275,
+    "lon": -80.0757216,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_seacrest_scrub_natural_area",
+    "name": "Seacrest Scrub Natural Area",
+    "lat": 26.4958436,
+    "lon": -80.0711511,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_silverball_retro_arcade",
+    "name": "Silverball Retro Arcade",
+    "lat": 26.4623721,
+    "lon": -80.0698792,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_wick_theatre_museum_club",
+    "name": "The Wick Theatre & Museum Club",
+    "lat": 26.4215126,
+    "lon": -80.0745117,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "entertainment",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_spady_cultural_heritage_museum",
+    "name": "Spady Cultural Heritage Museum",
+    "lat": 26.4646121,
+    "lon": -80.0784697,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_gumbo_limbo_nature_center",
+    "name": "Gumbo Limbo Nature Center",
+    "lat": 26.366196,
+    "lon": -80.070204,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_gulfstream_park",
+    "name": "Gulfstream Park",
+    "lat": 26.5046094,
+    "lon": -80.0522789,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_mccarthy_wildlife_sanctuary",
+    "name": "‘McCarthy' Wildlife Sanctuary",
+    "lat": 26.7675498,
+    "lon": -80.2458135,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_jupiter_ridge_natural_area",
+    "name": "Jupiter Ridge Natural Area",
+    "lat": 26.9159678,
+    "lon": -80.0731037,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_blueline_surf_paddle",
+    "name": "Blueline Surf & Paddle",
+    "lat": 26.9432069,
+    "lon": -80.0811995,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_busch_wildlife_sanctuary",
+    "name": "Busch Wildlife Sanctuary",
+    "lat": 26.9414838,
+    "lon": -80.2099663,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_arthur_r_marshall_loxahatchee_national_wildlife_refuge",
+    "name": "Arthur R. Marshall Loxahatchee National Wildlife Refuge",
+    "lat": 26.4992729,
+    "lon": -80.2123712,
+    "imageURL": null,
+    "description": "A true Everglades experience without the national park crowds—endless sawgrass, alligators, and big-sky wetlands. Feels vast and elemental.👉 Must for Everglades atmosphere.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_historic_stranahan_house_museum",
+    "name": "Historic Stranahan House Museum",
+    "lat": 26.1184624,
+    "lon": -80.1374899,
+    "imageURL": null,
+    "description": "The oldest surviving building in Fort Lauderdale (1901), originally a trading post on the New River. Frank Stranahan was one of the city’s founding figures, and the house tells the story of early settlement, trade with the Seminole people, and the growth of the city.The riverside setting gives a strong sense of what Fort Lauderdale looked like before modern development.Verdict: Essential for understanding the city’s origins.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_hollywood_beach_broadwalk",
+    "name": "Hollywood Beach Broadwalk",
+    "lat": 26.0110262,
+    "lon": -80.1157583,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_anne_kolb_nature_center",
+    "name": "Anne Kolb Nature Center",
+    "lat": 26.0395063,
+    "lon": -80.1211442,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_flamingo_gardens",
+    "name": "Flamingo Gardens",
+    "lat": 26.0742403,
+    "lon": -80.3133325,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_art_by_god",
+    "name": "Art by God",
+    "lat": 25.8416304,
+    "lon": -80.2187431,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_new_world_center",
+    "name": "New World Center",
+    "lat": 25.7916128,
+    "lon": -80.1335235,
+    "imageURL": null,
+    "description": "Wallcast - outdoor movies & concerts seriesalso, tours of the Gehry-designed campus",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_dr_von_d_mizell_eula_johnson_state_park",
+    "name": "Dr. Von D. Mizell-Eula Johnson State Park",
+    "lat": 26.0741294,
+    "lon": -80.1121136,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_west_lake_park",
+    "name": "West Lake Park",
+    "lat": 26.0312267,
+    "lon": -80.1295175,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_haulover_sandbar",
+    "name": "Haulover Sandbar",
+    "lat": 25.9029439,
+    "lon": -80.1291206,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_oleta_river_state_park",
+    "name": "Oleta River State Park",
+    "lat": 25.9279547,
+    "lon": -80.1359543,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_oleta_river_outdoor_center",
+    "name": "Oleta River Outdoor Center",
+    "lat": 25.913444,
+    "lon": -80.12987,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_historymiami_museum",
+    "name": "HistoryMiami Museum",
+    "lat": 25.7746635,
+    "lon": -80.196383,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_truly_tropical_mangos_fruit",
+    "name": "Truly Tropical Mangos & Fruit",
+    "lat": 26.4907943,
+    "lon": -80.072585,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "market"
+    ]
+  },
+  {
+    "id": "florida_pineapple_grove_arts_district",
+    "name": "Pineapple Grove Arts District",
+    "lat": 26.4635877,
+    "lon": -80.0709196,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": "https://pineapplegrove.org",
+    "categories": [
+      "art"
+    ]
+  },
+  {
+    "id": "florida_bahia_honda_state_park",
+    "name": "Bahia Honda State Park",
+    "lat": 24.6690212,
+    "lon": -81.2590507,
+    "imageURL": null,
+    "description": "Postcard Florida Keys. Powdery sand, aquamarine water, and the skeletal old Overseas Railroad bridge arcing into the sky. It feels tropical in a way mainland Florida rarely does.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_patricia_and_phillip_frost_art_museum",
+    "name": "Patricia and Phillip Frost Art Museum",
+    "lat": 25.7537048,
+    "lon": -80.3730592,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_castillo_de_san_marcos_national_monument",
+    "name": "Castillo de San Marcos National Monument",
+    "lat": 29.8978618,
+    "lon": -81.3115187,
+    "imageURL": null,
+    "description": "The oldest masonry fort in the continental U.S. Coquina stone glows golden in late light. Walk the ramparts overlooking Matanzas Bay — Spanish colonial Florida made tangible.",
+    "info": null,
+    "url": "https://nps.gov/casa",
+    "categories": [
+      "nature",
+      "landmark",
+      "art",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_silver_springs_state_park",
+    "name": "Silver Springs State Park",
+    "lat": 29.2176535,
+    "lon": -82.0553626,
+    "imageURL": null,
+    "description": "Pure Old Florida magic — glass-bottom boats drifting over aquamarine water, monkeys in the trees, manatees in winter.",
+    "info": null,
+    "url": "https://www.floridastateparks.org/parks-and-trails/silver-springs-state-park",
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_fakahatchee_strand_preserve_state_park",
+    "name": "Fakahatchee Strand Preserve State Park",
+    "lat": 26.0215756,
+    "lon": -81.4217092,
+    "imageURL": null,
+    "description": "The “Amazon of North America.” Orchid-filled swamp forest and Florida panther territory. Remote-feeling and special.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_myakka_river_state_park",
+    "name": "Myakka River State Park",
+    "lat": 27.2263004,
+    "lon": -82.2666075,
+    "imageURL": null,
+    "description": "Classic gator-filled wetlands, canopy walkway, sweeping prairie vistas.",
+    "info": null,
+    "url": "https://www.floridastateparks.org/myakka",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_merritt_island_national_wildlife_refuge_visitor_center",
+    "name": "Merritt Island National Wildlife Refuge Visitor Center",
+    "lat": 28.6412987,
+    "lon": -80.7355703,
+    "imageURL": null,
+    "description": "Rocket launches + roseate spoonbills + lagoon wildlife. Only Florida does this combo.",
+    "info": null,
+    "url": "https://fws.gov/refuge/merritt-island",
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_fort_matanzas_national_monument",
+    "name": "Fort Matanzas National Monument",
+    "lat": 29.7152554,
+    "lon": -81.2389897,
+    "imageURL": null,
+    "description": "tiny, picturesque Spanish fort reached by boat. An 18th-century Spanish watchtower made entirely of seashell and concrete.",
+    "info": null,
+    "url": "https://nps.gov/foma",
+    "categories": [
+      "nature",
+      "landmark",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_fort_caroline_national_memorial",
+    "name": "Fort Caroline National Memorial",
+    "lat": 30.3846519,
+    "lon": -81.4980841,
+    "imageURL": null,
+    "description": "French colonial attempt + Timucuan history",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_timucuan_ecological_and_historical_preserve",
+    "name": "Timucuan Ecological and Historical Preserve",
+    "lat": 30.4544578,
+    "lon": -81.4498717,
+    "imageURL": null,
+    "description": "AI\" Salt marshes, plantation ruins, coastal wilderness.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_de_soto_national_memorial_visitor_center",
+    "name": "De Soto National Memorial - Visitor Center",
+    "lat": 27.5238138,
+    "lon": -82.6438827,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_p_rez_art_museum_miami",
+    "name": "Pérez Art Museum Miami",
+    "lat": 25.7859307,
+    "lon": -80.1861912,
+    "imageURL": null,
+    "description": "Modern architecture hanging over Biscayne Bay. The building is as good as the art",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_coral_castle",
+    "name": "Coral Castle",
+    "lat": 25.5006559,
+    "lon": -80.4444622,
+    "imageURL": null,
+    "description": "Built single-handedly (supposedly) from coral rock. Mysterious, eccentric, slightly surreal.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_miami_marine_stadium",
+    "name": "Miami Marine Stadium",
+    "lat": 25.7423333,
+    "lon": -80.1708955,
+    "imageURL": null,
+    "description": "Abandoned modernist concrete ruin on the water — atmospheric and graffiti-covered",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_bok_tower_gardens",
+    "name": "Bok Tower Gardens",
+    "lat": 27.9372683,
+    "lon": -81.5773804,
+    "imageURL": null,
+    "description": "Art Deco singing tower rising from rolling hills. Serene and unexpectedly elegant",
+    "info": null,
+    "url": "https://boktowergardens.org",
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_john_and_mable_ringling_museum_of_art",
+    "name": "The John and Mable Ringling Museum of Art",
+    "lat": 27.3815477,
+    "lon": -82.5605716,
+    "imageURL": null,
+    "description": "Circus money meets Renaissance art. Lavish and slightly over-the-top in the best way.",
+    "info": null,
+    "url": "https://ringling.org",
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_boca_chita_lighthouse",
+    "name": "Boca Chita Lighthouse",
+    "lat": 25.5247123,
+    "lon": -80.1760815,
+    "imageURL": null,
+    "description": "White lighthouse, turquoise water, tiny palm-lined harbor — this feels like a lost Caribbean outpost. Reachable only by boat inside Biscayne National Park, it’s romantic, wind-swept, and wonderfully isolated. One of the most photogenic spots in South Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_gulf_islands_national_seashore",
+    "name": "Gulf Islands National Seashore",
+    "lat": 30.3511548,
+    "lon": -87.035304,
+    "imageURL": null,
+    "description": "Blinding white sand dunes, emerald water, and Civil War forts scattered along barrier islands. This is Florida’s Panhandle at its most pristine — wide, wild, and far less manicured than South Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_fairchild_tropical_botanic_garden",
+    "name": "Fairchild Tropical Botanic Garden",
+    "lat": 25.6767893,
+    "lon": -80.2720386,
+    "imageURL": null,
+    "description": "Lush, sprawling, and world-class. Towering palms, rainforest plantings, rare tropical species — this is South Florida’s botanical showpiece. Quietly one of the best gardens in the country.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_nine_mile_pond_trail",
+    "name": "Nine Mile Pond Trail",
+    "lat": 25.2538618,
+    "lon": -80.7978578,
+    "imageURL": null,
+    "description": "A classic Everglades paddling loop. Alligators, wading birds, sawgrass prairie — intimate and immersive.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_wat_buddharangsi_buddhist_temple",
+    "name": "Wat Buddharangsi Buddhist Temple",
+    "lat": 25.5431832,
+    "lon": -80.437857,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_homosassa_springs_wildlife_park_visitor_center",
+    "name": "Homosassa Springs Wildlife Park Visitor Center",
+    "lat": 28.8011783,
+    "lon": -82.5769769,
+    "imageURL": null,
+    "description": "Manatees",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_pigeon_key_island_train_tour",
+    "name": "Pigeon Key Island Train Tour",
+    "lat": 24.708399,
+    "lon": -81.113789,
+    "imageURL": null,
+    "description": "Island ghost town detailing Flagler's folly in building the Overseas Railroad.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_dolphin_research_center",
+    "name": "Dolphin Research Center",
+    "lat": 24.766967,
+    "lon": -80.945509,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_indian_key_state_historic_site",
+    "name": "Indian Key State Historic Site",
+    "lat": 24.8779836,
+    "lon": -80.6767321,
+    "imageURL": null,
+    "description": "This lush Florida island is home to the ruins of a crooked ship breaker's tiny empire.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_history_of_diving_museum",
+    "name": "History of Diving Museum",
+    "lat": 24.9311246,
+    "lon": -80.6209125,
+    "imageURL": null,
+    "description": "A unique collection of diving equipment spanning antiquity to the present day.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_the_african_queen",
+    "name": "The African Queen",
+    "lat": 25.0962696,
+    "lon": -80.4382304,
+    "imageURL": null,
+    "description": "The famous boat that once ferried Bogart and Hepburn still floats in Key Largo after being abandoned for years.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_wakulla_springs",
+    "name": "Wakulla Springs",
+    "lat": 30.235338,
+    "lon": -84.302751,
+    "imageURL": null,
+    "description": "One of the world’s largest and deepest freshwater springs, where mastodons once roamed.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_national_high_magnetic_field_laboratory",
+    "name": "National High Magnetic Field Laboratory",
+    "lat": 30.4243911,
+    "lon": -84.3208707,
+    "imageURL": null,
+    "description": "World's largest magnetic research facility.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_florida_state_football_sod_cemetery",
+    "name": "Florida State Football Sod Cemetery",
+    "lat": 30.4398505,
+    "lon": -84.3046882,
+    "imageURL": null,
+    "description": "An unusual college football tradition involves burying pieces of sod from competitors' turf, replete with tiny coffins and headstones.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_leroy_collins_leon_county_main_public_library",
+    "name": "Leroy Collins Leon County Main Public Library",
+    "lat": 30.4427715,
+    "lon": -84.2838298,
+    "imageURL": null,
+    "description": "This creative sculpture was a way to \"recycle\" an old tree.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "art",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_lichgate_on_high_road",
+    "name": "Lichgate on High Road",
+    "lat": 30.4605246,
+    "lon": -84.3131788,
+    "imageURL": null,
+    "description": "This fairytale-inspired cottage was created by a university literature professor.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_spring_house_frank_lloyd_wright",
+    "name": "Spring House - Frank Lloyd Wright",
+    "lat": 30.4900738,
+    "lon": -84.3126487,
+    "imageURL": null,
+    "description": "One of only two pod-shaped homes designed by Frank Lloyd Wright",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_lake_jackson_mounds_state_park",
+    "name": "Lake Jackson Mounds State Park",
+    "lat": 30.500009,
+    "lon": -84.3184037,
+    "imageURL": null,
+    "description": "This state park was once an important Native American cermonial center.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_museum_of_motherhood",
+    "name": "Museum of Motherhood",
+    "lat": 27.7635167,
+    "lon": -82.6687642,
+    "imageURL": null,
+    "description": "Hands-on activities, childbirth artifacts, and a library are all part of this tiny, one-room museum that examines motherhood and women’s roles throughout history.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_morean_center_for_clay",
+    "name": "Morean Center for Clay",
+    "lat": 27.7674407,
+    "lon": -82.6621236,
+    "imageURL": null,
+    "description": "Berlin Wall Section in St. PetersburgHistory is hiding at the Morean Center for Clay.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_imagine_museum_contemporary_glass_art",
+    "name": "Imagine Museum: Contemporary glass art",
+    "lat": 27.7712671,
+    "lon": -82.6593797,
+    "imageURL": null,
+    "description": "You’ll feel like you’ve gone through the looking glass at this contemporary art museum filled with glass sculptures of every size, shape, and color.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_tampa_theatre",
+    "name": "Tampa Theatre",
+    "lat": 27.9503523,
+    "lon": -82.4589293,
+    "imageURL": null,
+    "description": "One of the last of the great 1920s movie palaces is a Floridian Greco-Spanish-Persian dreamscape.",
+    "info": null,
+    "url": "https://tampatheatre.org",
+    "categories": [
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_john_pennekamp_coral_reef_state_park",
+    "name": "John Pennekamp Coral Reef State Park",
+    "lat": 25.1566536,
+    "lon": -80.3754143,
+    "imageURL": null,
+    "description": "America’s first underwater park — and still one of Florida’s most distinctive experiences. Snorkel coral reefs, visit the submerged “Christ of the Abyss” statue, paddle mangrove tunnels. This is tropical Florida at its best.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_t_h_stone_memorial_st_joseph_peninsula_state_park",
+    "name": "T.H. Stone Memorial St. Joseph Peninsula State Park",
+    "lat": 29.7584944,
+    "lon": -85.396662,
+    "imageURL": null,
+    "description": "Panhandle perfection — powder-white sand dunes, clear Gulf water, far fewer crowds than Destin. Feels wide, wild, and cinematic.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "historic",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_torreya_state_park",
+    "name": "Torreya State Park",
+    "lat": 30.5587656,
+    "lon": -84.9496891,
+    "imageURL": null,
+    "description": "Florida’s least-expected landscape. High bluffs above the Apalachicola River, rare Torreya trees, real elevation changes. In fall it almost feels Appalachian.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_caladesi_island_state_park",
+    "name": "Caladesi Island State Park",
+    "lat": 28.0246213,
+    "lon": -82.8195608,
+    "imageURL": null,
+    "description": "Consistently ranked among America’s best beaches. Wide, undeveloped Gulf shoreline with fine sand and fewer high-rise intrusions than nearby Clearwater. The mangrove kayak trail adds depth beyond sunbathing. It feels pristine without feeling inaccessible — a rare combo.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_grayton_beach_state_park",
+    "name": "Grayton Beach State Park",
+    "lat": 30.3315546,
+    "lon": -86.1571851,
+    "imageURL": null,
+    "description": "Florida Panhandle perfection: sugar-white quartz sand and emerald Gulf water. Western Lake’s rare coastal dune lake makes it more interesting than a typical beach park. The scenery feels almost unreal in bright sun. A must if you’re exploring 30A.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_cayo_costa_state_park",
+    "name": "Cayo Costa State Park",
+    "lat": 26.6763801,
+    "lon": -82.2495912,
+    "imageURL": null,
+    "description": "Boat-access-only barrier island with wild, shell-strewn beaches and a blissfully undeveloped feel. This is old Florida — windswept dunes, quiet stretches of sand, and strong Gulf sunsets. Less polished than Bahia Honda, but wonderfully atmospheric.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "food",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_anastasia_state_park",
+    "name": "Anastasia State Park",
+    "lat": 29.8822905,
+    "lon": -81.2776713,
+    "imageURL": null,
+    "description": "A broad Atlantic beach with serious dune systems and coquina rock history. What elevates it is proximity to St. Augustine — you can combine colonial architecture with wild shoreline in one day. A very satisfying pairing park.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_florida_caverns_state_park",
+    "name": "Florida Caverns State Park",
+    "lat": 30.8119452,
+    "lon": -85.2350988,
+    "imageURL": null,
+    "description": "The only Florida state park with publicly accessible caves.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_seacrest_wolf_preserve",
+    "name": "Seacrest Wolf Preserve",
+    "lat": 30.5888866,
+    "lon": -85.6311603,
+    "imageURL": null,
+    "description": "A giant 400-acre preserve in North Florida for displaced wolves.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_moss_hill_methodist_church",
+    "name": "Moss Hill Methodist Church",
+    "lat": 30.5841174,
+    "lon": -85.6775724,
+    "imageURL": null,
+    "description": "Ancient church constructed with a special wood that preserves prints from the past.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_el_weirdo",
+    "name": "El Weirdo",
+    "lat": 30.154861,
+    "lon": -85.6616941,
+    "imageURL": null,
+    "description": "A brewpub dedicated to unusual artwork in Historic Downtown Panama City.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky",
+      "art",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_the_panama_city_publishing_company_museum",
+    "name": "The Panama City Publishing Company Museum",
+    "lat": 30.1691728,
+    "lon": -85.7013223,
+    "imageURL": null,
+    "description": "Discover old-fashioned printing through hands-on exhibitions and publishing artifacts.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_man_in_the_sea_museum",
+    "name": "Man in the Sea Museum",
+    "lat": 30.2326062,
+    "lon": -85.8936257,
+    "imageURL": null,
+    "description": "A graveyard of bathyspheres and diving bells paints a weirdly accurate account of ocean exploration's rickety history.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_destin_history_fishing_museum",
+    "name": "Destin History & Fishing Museum",
+    "lat": 30.3960094,
+    "lon": -86.5091705,
+    "imageURL": null,
+    "description": "Dedicated to the \"World's Luckiest Fishing Village",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_navarre_beach_fishing_pier",
+    "name": "Navarre Beach Fishing Pier",
+    "lat": 30.378376,
+    "lon": -86.8634567,
+    "imageURL": null,
+    "description": "The Gulf’s longest fishing pier is a year-round paradise for catch-and-release whoppers.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_graffiti_bridge",
+    "name": "The Graffiti Bridge",
+    "lat": 30.420402,
+    "lon": -87.193888,
+    "imageURL": null,
+    "description": "A local landmark with generations of spraypainted messages, and more being added each day.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_o_zone_pizza_pub",
+    "name": "O'Zone Pizza Pub",
+    "lat": 30.4263301,
+    "lon": -87.2026153,
+    "imageURL": null,
+    "description": "A former hospital is now home to a pizza parlor and maybe a few ghosts. If you're heading to O'Zone for dinner, be sure to check out the other areas of the former hospital first. The public areas of the building are open from 8:00 a.m. to 5:00 p.m., Monday through Friday. Remember, the upper floors, where there's no electricity and the walls are crumbling, is closed to the public. Ghost-hunters and thrill-seekers: Should you head up there, the family who owns the building might call the police.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_chappie_james_museum_of_pensacola",
+    "name": "Chappie James Museum of Pensacola",
+    "lat": 30.4302136,
+    "lon": -87.2133459,
+    "imageURL": null,
+    "description": "A small museum celebrating the life of the first Black four-star general in Air Force history.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_crystal_ice_house",
+    "name": "Crystal Ice House",
+    "lat": 30.4346913,
+    "lon": -87.2131121,
+    "imageURL": null,
+    "description": "Once the primary source of ice in this region during the mid-20th century.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_historic_fort_barrancas",
+    "name": "Historic Fort Barrancas",
+    "lat": 30.3478024,
+    "lon": -87.2975528,
+    "imageURL": null,
+    "description": "This now-deactivated naval base defended the Florida coast for centuries.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "historic",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_pensacola_lighthouse_maritime_museum",
+    "name": "Pensacola Lighthouse & Maritime Museum",
+    "lat": 30.3460366,
+    "lon": -87.3080825,
+    "imageURL": null,
+    "description": "A striking lighthouse with views of the Gulf of Mexico and of a military air show.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_fort_pickens",
+    "name": "Fort Pickens",
+    "lat": 30.327303,
+    "lon": -87.290514,
+    "imageURL": null,
+    "description": "One of the only Florida forts to remain in the hands of the Union all through the Civil War still stands as a historic stronghold.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_sun_harvest_citrus",
+    "name": "Sun Harvest Citrus",
+    "lat": 26.5274257,
+    "lon": -81.8531843,
+    "imageURL": null,
+    "description": "Established to give visitors a taste of Lee County’s natural bounty, this shop offers fresh fruit, soft-serve ice cream, and preserves.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_koreshan_state_park",
+    "name": "Koreshan State Park",
+    "lat": 26.4339968,
+    "lon": -81.8156528,
+    "imageURL": null,
+    "description": "Former utopian colony based on the belief that the universe exists in a hollow sphere.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_mound_key_archaeological_state_park",
+    "name": "Mound Key Archaeological State Park",
+    "lat": 26.4222695,
+    "lon": -81.8640659,
+    "imageURL": null,
+    "description": "Long before Europeans arrived, Native Americans built an artificial island out of shells that has withstood a millennia of hurricanes.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bailey_matthews_national_shell_museum_aquarium",
+    "name": "Bailey-Matthews National Shell Museum & Aquarium",
+    "lat": 26.4381088,
+    "lon": -82.0926747,
+    "imageURL": null,
+    "description": "In a city crazy for seashells this museum educates and amazes visitors using the wonder of cast-off exoskeletons.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_j_n_ding_darling_national_wildlife_refuge",
+    "name": "J.N. \"Ding\" Darling National Wildlife Refuge",
+    "lat": 26.4465928,
+    "lon": -82.1133987,
+    "imageURL": null,
+    "description": "Sanibel Island is famous for its seashells. Some mornings, shells are so plentiful that they pile three feet high. Eager tourists and snowbirds sort through them as though they’re panning for gold. But another local treasure is the wildlife preserve and drive known as Ding Darling, where you can see amazing birds and alligators — and possibly hear a shrimp produce temperatures hotter than the sun. Head to the middle of the island. Shrimp can be found wherever people are fishing.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bubble_room_emporium",
+    "name": "Bubble Room Emporium",
+    "lat": 26.5224404,
+    "lon": -82.1898626,
+    "imageURL": null,
+    "description": "This kitsch eatery is chock-a-block with bric-a-brac.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_hillsboro_inlet_lighthouse",
+    "name": "Hillsboro Inlet Lighthouse",
+    "lat": 26.2594915,
+    "lon": -80.0809847,
+    "imageURL": null,
+    "description": "This distinctive lighthouse with an iron skeleton is one of the tallest on the East Coast.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_butterfly_world",
+    "name": "Butterfly World",
+    "lat": 26.2686995,
+    "lon": -80.1713691,
+    "imageURL": null,
+    "description": "More than 20,000 butterflies can be seen at this spectacular park and research center.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_lake_kissimmee_state_park",
+    "name": "Lake Kissimmee State Park",
+    "lat": 27.9409339,
+    "lon": -81.3692315,
+    "imageURL": null,
+    "description": "Cow Camp at Lake Kissimmee State ParkTime travel back to Florida's abundant cattle era The cow camp experience is held on Saturdays and holidays, October 1 through April 30, and closed on Dec. 25th, Christmas. There is a daily entrance fee to the park.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_jack_browns_seaplane_base_f57",
+    "name": "Jack Browns Seaplane Base-F57",
+    "lat": 28.0620937,
+    "lon": -81.7606506,
+    "imageURL": null,
+    "description": "The world's 2nd or 3rd or 4th busiest seaplane base.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_fantasy_of_flight",
+    "name": "Fantasy of Flight",
+    "lat": 28.1693883,
+    "lon": -81.809013,
+    "imageURL": null,
+    "description": "The world's largest private aircraft collection.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_lakeland_antique_mall",
+    "name": "Lakeland Antique Mall",
+    "lat": 28.1056655,
+    "lon": -81.9724448,
+    "imageURL": null,
+    "description": "If you ever wanted to own an actual piece of Disney World, this is the place to shop.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "market",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_polk_theatre",
+    "name": "Polk Theatre",
+    "lat": 28.0432767,
+    "lon": -81.9574535,
+    "imageURL": null,
+    "description": "A historical landmark that has been a central hub of entertainment since 1928.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "entertainment",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_florida_southern_college",
+    "name": "Florida Southern College",
+    "lat": 28.0314545,
+    "lon": -81.9450401,
+    "imageURL": null,
+    "description": "A Florida college boasts the world's largest single-site collection of structures designed by Frank Lloyd Wright.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_wonder_house",
+    "name": "Wonder House",
+    "lat": 27.874566,
+    "lon": -81.833906,
+    "imageURL": null,
+    "description": "Given just one more year to live, Conrad Schuck built his dream house in Bartow, Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_manatee_springs_state_park",
+    "name": "Manatee Springs State Park",
+    "lat": 29.4975004,
+    "lon": -82.9757943,
+    "imageURL": null,
+    "description": "A much more welcome kind of snowbird vacationer, manatees camp out in these springs every winter.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_crystal_river_archaeological_state_park",
+    "name": "Crystal River Archaeological State Park",
+    "lat": 28.9095203,
+    "lon": -82.6287565,
+    "imageURL": null,
+    "description": "The mounds on this coastal archaeological site reveal the history of the land’s first inhabitants.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_nancy_forrester_s_secret_garden",
+    "name": "Nancy Forrester's Secret Garden",
+    "lat": 24.5567517,
+    "lon": -81.800222,
+    "imageURL": null,
+    "description": "Visitors are welcome to enter this lush Key West sanctuary to entertain its plethora of rescued parrots.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_mel_fisher_maritime_museum",
+    "name": "Mel Fisher Maritime Museum",
+    "lat": 24.5580622,
+    "lon": -81.8064833,
+    "imageURL": null,
+    "description": "The museum chronicling a treasure hunter's dream, fulfilled.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_key_west_museum_of_art_history_at_the_custom_house",
+    "name": "Key West Museum of Art & History at the Custom House",
+    "lat": 24.5583405,
+    "lon": -81.8069532,
+    "imageURL": null,
+    "description": "A historic landmark and museum filled with curious objects representing the history of Key West.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_key_west_historic_memorial_sculpture_garden",
+    "name": "Key West Historic Memorial Sculpture Garden",
+    "lat": 24.559644,
+    "lon": -81.8069272,
+    "imageURL": null,
+    "description": "Recently celebrating its 25th anniversary, the garden opened in September 1997 to celebrate the men and women who have had the greatest impact on Key West.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_capt_tony_s_saloon",
+    "name": "Capt Tony’s Saloon",
+    "lat": 24.5588202,
+    "lon": -81.8055019,
+    "imageURL": null,
+    "description": "Florida's oldest bar was once a morgue, complete with a hanging tree and gravestones.",
+    "info": null,
+    "url": "https://capttonysSaloon.com",
+    "categories": [
+      "food",
+      "quirky",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_fort_east_martello_museum",
+    "name": "Fort East Martello Museum",
+    "lat": 24.5520945,
+    "lon": -81.7551964,
+    "imageURL": null,
+    "description": "Here’s how Robert the Doll earned his reputation as the most haunted doll in the world.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_the_hemingway_home_and_museum",
+    "name": "The Hemingway Home and Museum",
+    "lat": 24.5511923,
+    "lon": -81.8006162,
+    "imageURL": null,
+    "description": "The former home of the Nobel Prize-winning American writer is now home to dozens of six-toed cats.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_african_cemetery",
+    "name": "African Cemetery",
+    "lat": 24.5474043,
+    "lon": -81.7856075,
+    "imageURL": null,
+    "description": "Near the ruins of a Civil War coastal fortress lies the only known African refugee cemetery in the United States.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_alex_vega_key_west_firehouse_museum",
+    "name": "Alex Vega Key West Firehouse Museum",
+    "lat": 24.553731,
+    "lon": -81.7929579,
+    "imageURL": null,
+    "description": "Legendary Key West fire chief Joseph \"Bum\" Farto disappeared mysteriously in 1976 while awaiting sentencing for drug trafficking and became known as the Jimmy Hoffa of Key West.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_the_dal_museum",
+    "name": "The Dalí Museum",
+    "lat": 27.7659086,
+    "lon": -82.6315789,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_devil_s_den_prehistoric_spring_and_campground",
+    "name": "Devil's Den Prehistoric Spring and Campground",
+    "lat": 29.4070444,
+    "lon": -82.476105,
+    "imageURL": null,
+    "description": "This underground oasis is one of North America’s most fascinating prehistoric places—and you can scuba dive in it.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_cedar_lakes_woods_and_gardens",
+    "name": "Cedar Lakes Woods and Gardens",
+    "lat": 29.4033706,
+    "lon": -82.4776751,
+    "imageURL": null,
+    "description": "A peaceful, unique botanical garden complete with waterfalls, mini islands, and swans.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_historic_haile_homestead",
+    "name": "Historic Haile Homestead",
+    "lat": 29.5945183,
+    "lon": -82.4353511,
+    "imageURL": null,
+    "description": "Over 12,500 words are scrawled across each room of this historic plantation house and no one knows why.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_rest_stop_mile_382",
+    "name": "Rest Stop - Mile 382",
+    "lat": 29.5907129,
+    "lon": -82.362156,
+    "imageURL": null,
+    "description": "This roadside installation gives travelers a chance to stretch their legs. Don't worry—it doesn’t bite!",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_animal_sciences_building",
+    "name": "Animal Sciences Building",
+    "lat": 29.6311501,
+    "lon": -82.3517171,
+    "imageURL": null,
+    "description": "Four metal statues of massive animal penises stand outside the university's Animal Sciences building.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_uf_bat_houses",
+    "name": "UF Bat Houses",
+    "lat": 29.6442399,
+    "lon": -82.3628313,
+    "imageURL": null,
+    "description": "The world's largest occupied bat houses hold hundreds of thousands of flying mammals.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_34th_street_wall",
+    "name": "34th Street Wall",
+    "lat": 29.6465429,
+    "lon": -82.3722502,
+    "imageURL": null,
+    "description": "Though illegal, city officials have made an exception for this work of art.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_whimzeyland",
+    "name": "Whimzeyland",
+    "lat": 27.9921478,
+    "lon": -82.7008777,
+    "imageURL": null,
+    "description": "This home is decked out like a psychedelic explosion of colors and bowling balls.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_frank_miranda_s_oddities_antiques",
+    "name": "Frank Miranda's Oddities & Antiques",
+    "lat": 27.9323894,
+    "lon": -82.7960317,
+    "imageURL": null,
+    "description": "An abandoned Victorian house transformed into a museum and store filled with taxidermy and vintage goods.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "market"
+    ]
+  },
+  {
+    "id": "florida_heritage_village",
+    "name": "Heritage Village",
+    "lat": 27.8812541,
+    "lon": -82.8107448,
+    "imageURL": null,
+    "description": "Step back in time at this immersive historical village",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_tampa_bay_automobile_museum",
+    "name": "Tampa Bay Automobile Museum",
+    "lat": 27.8523671,
+    "lon": -82.678924,
+    "imageURL": null,
+    "description": "The Tampa Bay Automobile Museum contains more than 50 vehicles and focuses largely on engineering innovations from the 1920s and 1930s including a French Derby, a German Hanomag, Ruxtons, Tatras, BSAs, and others. It features many unique and pioneering innovations in front-wheel drive and rear engine design. But the undisputed crown jewel of the collection is a precise replica of the Fardier de Cugnot.The original Fardier de Cugnot was built in 1770 by Nicholas-Joseph Cugnot using steam power to pull military equipment. This required designing the first steam engine to drive a piston in a cylinder using steam at a higher pressure than atmospheric pressure. While Cugnot's original has been a part of the collection of Le Conservatoire de Arts et Metiers in Paris since 1801, the replica at the Tampa Bay Auto Museum was completed in 2010 and is faithful to the original in every aspect—right down to the bolts—thereby giving the Fardier new life for the first time in more than two centuries",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_sunken_gardens",
+    "name": "Sunken Gardens",
+    "lat": 27.7897718,
+    "lon": -82.6378269,
+    "imageURL": null,
+    "description": "luxuriant botanical garden below sea level",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_gizella_kopsick_palm_arboretum",
+    "name": "Gizella Kopsick Palm Arboretum",
+    "lat": 27.7827311,
+    "lon": -82.6260537,
+    "imageURL": null,
+    "description": "Brick walkways weave through more than 500 palms and cycads, representing 150 species from around the world",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_st_petersburg_museum_of_history",
+    "name": "St. Petersburg Museum of History",
+    "lat": 27.774121,
+    "lon": -82.6305801,
+    "imageURL": null,
+    "description": "The world's largest collection of autographed baseballs can be found at the St. Petersburg Museum of History.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_the_james_museum_of_western_wildlife_art",
+    "name": "The James Museum of Western & Wildlife Art",
+    "lat": 27.7710579,
+    "lon": -82.6347877,
+    "imageURL": null,
+    "description": "James Museum of Western & Wildlife Art",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_united_states_postal_service",
+    "name": "United States Postal Service",
+    "lat": 27.7718084,
+    "lon": -82.6388316,
+    "imageURL": null,
+    "description": "A creative deviation in this post office's design was once a source of controversy. Florida's love affair with Mediterranean Revival-style architecture is evident in buildings throughout the state. Several can be found in St. Petersburg and include buildings such as the Vinoy Hotel, The Princess Martha Hotel, St. Mary's Church, and Comfort Station One. This style also extends to a post office located at the corner of 1st Ave North and 4th Street North.The post office has been a functional landmark in continuous operation since 1916. In 1975, it was added to the National Register of Historic Places. A plaque affixed to the post office reads: \"The Nation's First Open Air Post Office Corner Stone. Laid on October 12, 1916. Completed and Dedicated on September 27, 1917.\"But, according to at least one article in the local Green Bench Monthly, there's more to the story. In 1907, St. Petersburg Post Master Roy S. Hanna recommended that the facade be left off the post office. It was his belief that this would improve accessibility, and allow residents to get their mail day or night. The federal postal authorities, however, had a different opinion and refused to pay rent based on the design. Eventually, they relented and resumed rent payments only after a postmasters' convention held a few months later in St. Petersburg. During the event, government officials approved the design as an appropriate adaptation for the needs of the city.Eventually outgrowing its original open-air location, the post office briefly moved to the first floor of city hall while Congress approved funds for the full-service post office. For more than a century, it has continued to serve the city with a distinctly Floridian style, complete with several Renaissance elements. Near the rear of the building is a small postal museum, which includes an old leather mailbag, postcards, and a postal money order purchased by none other than John C. Williams, the founder of St. Petersburg.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_st_petersburg_shuffleboard_club",
+    "name": "St Petersburg Shuffleboard Club",
+    "lat": 27.7754668,
+    "lon": -82.6413295,
+    "imageURL": null,
+    "description": "The story of a Floridian city as told through an obscure sport for retirees.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_floridian_social",
+    "name": "The Floridian Social",
+    "lat": 27.7714363,
+    "lon": -82.6434067,
+    "imageURL": null,
+    "description": "From printing money to live music, this Beaux-Arts style building has had many identities over the last century.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_chihuly_collection",
+    "name": "Chihuly Collection",
+    "lat": 27.771026,
+    "lon": -82.6440401,
+    "imageURL": null,
+    "description": "The first custom-designed building to showcase the works of Dale Chihuly is a wonderland of glass and light.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_hindu_temple_of_florida",
+    "name": "Hindu Temple of Florida",
+    "lat": 28.0441923,
+    "lon": -82.5362538,
+    "imageURL": null,
+    "description": "A gleaming white tower in ornate Indian style soars above the low-slung bungalows of north Tampa.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_susan_and_john_sykes_ars_sonora",
+    "name": "Susan and John Sykes Ars Sonora",
+    "lat": 27.9472116,
+    "lon": -82.4662114,
+    "imageURL": null,
+    "description": "The first musical instrument of its kind to be built in the United States—and the world’s tallest.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_henry_b_plant_museum",
+    "name": "Henry B. Plant Museum",
+    "lat": 27.9463553,
+    "lon": -82.4640404,
+    "imageURL": null,
+    "description": "Step back into the glory days of Florida's nascent tourism industry at this Gilded Age palace.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_tampa_riverwalk",
+    "name": "Tampa Riverwalk",
+    "lat": 27.9475581,
+    "lon": -82.4615577,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_devil_s_millhopper_geological_state_park",
+    "name": "Devil's Millhopper Geological State Park",
+    "lat": 29.7042895,
+    "lon": -82.3937389,
+    "imageURL": null,
+    "description": "This Florida sinkhole hides a rainforest-like micro-environment in its depths.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_st_augustine_pirate_treasure_museum",
+    "name": "St. Augustine Pirate & Treasure Museum",
+    "lat": 29.897017,
+    "lon": -81.312966,
+    "imageURL": null,
+    "description": "Arrr! The most authentic collection of pirate artifacts in the world... matey.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_st_photios_shrine_greek_orthodox_national_shrine",
+    "name": "St. Photios Shrine Greek Orthodox National Shrine",
+    "lat": 29.8963451,
+    "lon": -81.3131112,
+    "imageURL": null,
+    "description": "Location of a reliquary containing bone fragments of 18 saints.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_oldest_wooden_schoolhouse",
+    "name": "Oldest Wooden Schoolhouse",
+    "lat": 29.8973365,
+    "lon": -81.3135519,
+    "imageURL": null,
+    "description": "There's nothing like a visit to St Augustine’s Oldest Wooden Schoolhouse Museum to bring back memories of those carefree elementary school days of the 18th century: dunce caps, a privy out back, a schoolmaster living overhead... And a creepy Harry Potter-esque dungeon under the stairs, where they put kids who misbehaved.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_potter_s_wax_museum",
+    "name": "Potter's Wax Museum",
+    "lat": 29.8975515,
+    "lon": -81.3149119,
+    "imageURL": null,
+    "description": "America's first wax museum opened in 1948.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_love_tree",
+    "name": "Love Tree",
+    "lat": 29.8973156,
+    "lon": -81.3149786,
+    "imageURL": null,
+    "description": "Intertwined, interspecies trees which locals believe can grant boons to lovers.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_public_atheist_monument",
+    "name": "Public Atheist Monument",
+    "lat": 29.9542788,
+    "lon": -82.1085483,
+    "imageURL": null,
+    "description": "The first atheist monument on public land in the United States.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_tu_vi_n_a_nan",
+    "name": "Tu Viện A Nan",
+    "lat": 29.6324056,
+    "lon": -82.3075561,
+    "imageURL": null,
+    "description": "This Buddhist temple is home to a number of towering statues spread over a peaceful wooded park.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_international_independent",
+    "name": "International Independent",
+    "lat": 27.8632199,
+    "lon": -82.3784203,
+    "imageURL": null,
+    "description": "The history of the traveling carnival is remembered by this sprawling collection of vintage wagons, games, and rides.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "market"
+    ]
+  },
+  {
+    "id": "florida_gibsonton",
+    "name": "Gibsonton",
+    "lat": 27.8536365,
+    "lon": -82.382593,
+    "imageURL": null,
+    "description": "The snowbirds here are circus sideshow performers.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "quirky",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_manatee_viewing_center",
+    "name": "Manatee Viewing Center",
+    "lat": 27.7926388,
+    "lon": -82.4012402,
+    "imageURL": null,
+    "description": "Manatees congregate around a power plant's discharge canal where the water is especially warm.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_manatee_village_historical_park",
+    "name": "Manatee Village Historical Park",
+    "lat": 27.4949466,
+    "lon": -82.5481567,
+    "imageURL": null,
+    "description": "A general store and steam engine are standouts at this multi-building historic park.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_wat_mongkolratanaram_buddhist_temple",
+    "name": "Wat Mongkolratanaram Buddhist Temple",
+    "lat": 27.9439234,
+    "lon": -82.3949494,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_columbia_restaurant",
+    "name": "Columbia Restaurant",
+    "lat": 27.9599924,
+    "lon": -82.4351423,
+    "imageURL": null,
+    "description": "This grand Spanish-Cuban restaurant has been serving customers for more than a century.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_tampa_baseball_museum",
+    "name": "Tampa Baseball Museum",
+    "lat": 27.9619565,
+    "lon": -82.4377876,
+    "imageURL": null,
+    "description": "The childhood home of a Tampa sports legend now houses 135 years of baseball memorabilia",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_ybor_city_museum_state_park",
+    "name": "Ybor City Museum State Park",
+    "lat": 27.9619636,
+    "lon": -82.4386685,
+    "imageURL": null,
+    "description": "Restored historic buildings, machinery, and a Mediterranean garden tell the story of a vibrant multicultural neighborhood in the heart of Tamp",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_dysfunctional_grace",
+    "name": "Dysfunctional Grace",
+    "lat": 27.960501,
+    "lon": -82.4402067,
+    "imageURL": null,
+    "description": "An oddities shop that dabbles in the deathly and beautiful.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_hotel_haya",
+    "name": "Hotel Haya",
+    "lat": 27.9604949,
+    "lon": -82.4438431,
+    "imageURL": null,
+    "description": "Spanish printmaker and artist Francisco Goya was one of the most important art luminaries of the late 1700s and early 1800s. His works are enshrined in top museums worldwide—Madrid’s Prado, the Louvre in Paris, and the Hermitage in St. Petersburg—but visitors to Tampa can see something special, no museum required: four vibrant tiles, handpainted with reproductions of Goya’s work. These intricate works of art were nearly lost, covered for decades.In preparation for the 2020 opening of Hotel Haya in Tampa’s historic Ybor City, the construction team behind the 178-room boutique hotel—named for Ignacio Haya, a founder of Ybor City and the area’s first cigar factory—knew they wanted to preserve as much of the location’s history as possible. While some elements of the construction are new, the property also includes the 1890 Las Novedades building that was once home to the city’s first Spanish restaurant. During renovations, the construction team discovered treasures behind the walls: Original brick adorned with four intricately handpainted reproductions of Goya paintings on tile. One depicts a family celebrating a grape harvest; another, a group dancing on the banks of the Manzanares River. The artist who painted the tiles remains unknown, but hotel leadership speculates that the restaurant that formerly occupied the Las Novedades building commissioned them. Now meticulously restored, the tiles are displayed alongside a rotating installation of contemporary works by artists in collaboration with the Contemporary Art Museum and Graphicstudio, both part of the University of South Florida. This visually intriguing juxtaposition of old and new is a feast for the eyes.Guests can visit the four tiles, located in the foyer to Hotel Haya’s Valencia ballroom, anytime, as long as a private event is not in progress. There is no charge for entry. Out of town visitors can book a room at Hotel Haya and take advantage of the central location in the heart of Ybor City",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_parque_amigos_de_marti",
+    "name": "Parque Amigos De Marti",
+    "lat": 27.9608754,
+    "lon": -82.4453934,
+    "imageURL": null,
+    "description": "A tiny, unassuming park in Tampa that belongs to the Republic of Cuba.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_rocks_washington_oaks_state_park",
+    "name": "The Rocks-Washington Oaks State Park",
+    "lat": 29.6361228,
+    "lon": -81.1994063,
+    "imageURL": null,
+    "description": "A secret, rocky playground hidden amongst the plain white beaches of the Florida coast.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_dummett_sugar_mill_ruins",
+    "name": "Dummett Sugar Mill Ruins",
+    "lat": 29.3546598,
+    "lon": -81.1064427,
+    "imageURL": null,
+    "description": "The ruins of a once-thriving sugarcane plantation that was burned in the Second Seminole War.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_wwii_submarine_watch_tower",
+    "name": "WWII Submarine Watch Tower",
+    "lat": 29.3469141,
+    "lon": -81.0651055,
+    "imageURL": null,
+    "description": "A replica of one of the more than 15,000 civilian lookout towers that lined the U.S. coast during World War II.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_riviera_hotel_arch_ruins",
+    "name": "Riviera Hotel Arch Ruins",
+    "lat": 29.2600619,
+    "lon": -81.0531743,
+    "imageURL": null,
+    "description": "Faded remnants of the entrance to a Mediterranean-style resort that never fully came to life.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_the_holly_hill_gnome_tree",
+    "name": "The Holly Hill Gnome Tree",
+    "lat": 29.24533,
+    "lon": -81.0361667,
+    "imageURL": null,
+    "description": "What started as three small gnomes at the base of a tree has grown into a full-blown gnome home.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_bulow_plantation_ruins_historic_state_park",
+    "name": "Bulow Plantation Ruins Historic State Park",
+    "lat": 29.4345581,
+    "lon": -81.142676,
+    "imageURL": null,
+    "description": "The ruins of this antebellum sugar plantation are the end result of a Seminole attack during the Florida Wars of 1836.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_cassadaga",
+    "name": "Cassadaga",
+    "lat": 28.9663755,
+    "lon": -81.235894,
+    "imageURL": null,
+    "description": "Town of spiritualists and mediums in Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_memory_wall_by_mr_imagination",
+    "name": "The Memory Wall by Mr. Imagination",
+    "lat": 28.8116146,
+    "lon": -81.2662819,
+    "imageURL": null,
+    "description": "This whimsical outsider art wall holds tiny treasures donated by the local community.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_the_old_senator_tree",
+    "name": "The Old Senator Tree",
+    "lat": 29.9060489,
+    "lon": -81.3175744,
+    "imageURL": null,
+    "description": "The culprit who accidentally lit this 3,500-year-old tree on fire stated \"I can't believe I burned down a tree older than Jesus.\"",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_darwin_and_wallace_a_nature_fossil_store",
+    "name": "Darwin and Wallace: A Nature & Fossil Store",
+    "lat": 28.5657604,
+    "lon": -81.5872103,
+    "imageURL": null,
+    "description": "Visitors to this shop will find fossils, minerals, meteorites, skeletons, oddities, and much more",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_art_history_museums_of_maitland",
+    "name": "Art & History Museums of Maitland",
+    "lat": 28.626131,
+    "lon": -81.3675012,
+    "imageURL": null,
+    "description": "This historical art colony is adorned with thousands of hand-carved concrete sculptures in the Mayan Revival style.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_the_charles_hosmer_morse_museum_of_american_art",
+    "name": "The Charles Hosmer Morse Museum of American Art",
+    "lat": 28.6008557,
+    "lon": -81.3513439,
+    "imageURL": null,
+    "description": "An Orlando museum houses the world’s most comprehensive collection of work by Louis Comfort Tiffany.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_harry_p_leu_gardens",
+    "name": "Harry P Leu Gardens",
+    "lat": 28.5677894,
+    "lon": -81.3571222,
+    "imageURL": null,
+    "description": "A vast array of tropical plants collected by a vacationing couple.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_orlando_public_library",
+    "name": "Orlando Public Library",
+    "lat": 28.5424041,
+    "lon": -81.3766142,
+    "imageURL": null,
+    "description": "An unassuming corner inside downtown Orlando's library offers a whole new world of the park and its history.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_global_convergence_sculpture",
+    "name": "Global Convergence Sculpture",
+    "lat": 28.542469,
+    "lon": -81.377626,
+    "imageURL": null,
+    "description": "Remarkably realistic Florida shoal bass \"swim\" inside this large globoid sculpture.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "art",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_wells_built_museum_of_african_american_history_culture",
+    "name": "Wells'Built Museum of African American History & Culture",
+    "lat": 28.5385245,
+    "lon": -81.3854037,
+    "imageURL": null,
+    "description": "During segregation, this Orlando hotel hosted performers like Ella Fitzgerald and Louis Armstrong. Now it's a museum dedicated to preserving local Black history.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_clam_pass_beach",
+    "name": "Clam Pass Beach",
+    "lat": 26.2163558,
+    "lon": -81.8176535,
+    "imageURL": null,
+    "description": "A hidden beach at the end of a tunnel of mangrove trees",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_naples_depot_museum",
+    "name": "Naples Depot Museum",
+    "lat": 26.1425978,
+    "lon": -81.792959,
+    "imageURL": null,
+    "description": "This 1920s railway depot is now home to two unique museums complete with a miniature train ride",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_tigertail_beach",
+    "name": "Tigertail Beach",
+    "lat": 25.9490043,
+    "lon": -81.7427834,
+    "imageURL": null,
+    "description": "Wading through a small lagoon reveals a secret, wild stretch of pristine beach.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_warm_mineral_springs_park",
+    "name": "Warm Mineral Springs Park",
+    "lat": 27.0588803,
+    "lon": -82.2609874,
+    "imageURL": null,
+    "description": "This ancient sinkhole-turned-healing-pool is a treasure trove of archeological discoveries and may even be the Fountain of Youth.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_belki_s_cuban_deli",
+    "name": "Belki's Cuban Deli",
+    "lat": 27.0892635,
+    "lon": -82.4439971,
+    "imageURL": null,
+    "description": "Fill your car with gas and your belly with mouthwatering Cuban cuisine at this takeaway inside a Citgo station.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_castle_otttis",
+    "name": "Castle Otttis",
+    "lat": 29.9559061,
+    "lon": -81.3062651,
+    "imageURL": null,
+    "description": "Two men built this castle on the Florida coast as an artistic “landscape sculpture.”",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_national_shrine_of_our_lady_of_la_leche_at_mission_nombre_de_dios",
+    "name": "National Shrine of Our Lady of La Leche at Mission Nombre De Dios",
+    "lat": 29.9047221,
+    "lon": -81.3152382,
+    "imageURL": null,
+    "description": "This shrine commemorates the site of the first known Catholic mass in the United States.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_ponce_de_leon_s_fountain_of_youth_archaeological_park",
+    "name": "Ponce de Leon's Fountain of Youth Archaeological Park",
+    "lat": 29.9069444,
+    "lon": -81.315,
+    "imageURL": null,
+    "description": "A tribute to Ponce de Leon's supposed quest for eternal youth.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_prometheus_esoterica",
+    "name": "Prometheus Esoterica",
+    "lat": 28.6237073,
+    "lon": -81.3008768,
+    "imageURL": null,
+    "description": "Hidden in the plaza next to a pizza shop is an amazing little oddities shop.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "food",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_treaty_oak",
+    "name": "Treaty Oak",
+    "lat": 30.3168852,
+    "lon": -81.6581513,
+    "imageURL": null,
+    "description": "This ancient octopus-like tree was saved from destruction thanks to shady reporting.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_jacksonville_public_library_foundation",
+    "name": "Jacksonville Public Library Foundation",
+    "lat": 30.3291109,
+    "lon": -81.6573012,
+    "imageURL": null,
+    "description": "Lewis Ansbacher Map CollectionThis collection features more than 240 antiquarian maps from around the world, in addition to historical views and plates focusing on North Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_uss_orleck_naval_museum",
+    "name": "USS Orleck Naval Museum",
+    "lat": 30.3229037,
+    "lon": -81.6508486,
+    "imageURL": null,
+    "description": "After serving in Vietnam, Korea, and even a stint in the Turkish navy, the unique ship is now open as a museum.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_brown_african_and_jewish_lost_tribes_of_israel_ethnographic_history_museum_and_donation_center",
+    "name": "Brown African and Jewish Lost tribes of Israel Ethnographic History Museum and Donation Center",
+    "lat": 30.3464249,
+    "lon": -81.6595563,
+    "imageURL": null,
+    "description": "Tucked away in Jacksonville's oldest neighborhood, this museum stands as a repository and celebration of outsider art.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_james_p_small_park",
+    "name": "James P. Small Park",
+    "lat": 30.3466422,
+    "lon": -81.6747659,
+    "imageURL": null,
+    "description": "This century-plus-old baseball park has hosted some of baseball's royalty and stands as the oldest sports complex in Jacksonville.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_friday_musicale_inc",
+    "name": "Friday Musicale, Inc",
+    "lat": 30.3183957,
+    "lon": -81.6777882,
+    "imageURL": null,
+    "description": "Established in 1890, this Jacksonville institution is the longest running music venue in the state of Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_skunk_ape_research_headquarter",
+    "name": "Skunk Ape Research Headquarter",
+    "lat": 25.8940502,
+    "lon": -81.2785084,
+    "imageURL": null,
+    "description": "In the depths of the Everglades, one man has dedicated his life to studying the elusive Skunk Ape.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_ochopee_post_office_historical_marker",
+    "name": "Ochopee Post Office Historical Marker",
+    "lat": 25.9012619,
+    "lon": -81.297346,
+    "imageURL": null,
+    "description": "The smallest post office in the United States is no bigger than a broom closet.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_smallwood_store",
+    "name": "Smallwood Store",
+    "lat": 25.81,
+    "lon": -81.3625,
+    "imageURL": null,
+    "description": "A time capsule of Floridian history fights to survive on the banks of Chokoloskee Bay.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_solomon_s_castle",
+    "name": "Solomon's Castle",
+    "lat": 27.3731812,
+    "lon": -81.9772632,
+    "imageURL": null,
+    "description": "Florida castle built with aluminum printing plates",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_white_sulphur_springs",
+    "name": "White Sulphur Springs",
+    "lat": 30.329856,
+    "lon": -82.760944,
+    "imageURL": null,
+    "description": "The abandoned bathhouse is all that remains of the hot springs considered Florida's original tourist attraction",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_stephen_foster_folk_culture_center_state_park",
+    "name": "Stephen Foster Folk Culture Center State Park",
+    "lat": 30.3318789,
+    "lon": -82.7629737,
+    "imageURL": null,
+    "description": "This museum honors the composer of “Swannee Ribber",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_suwannee_springs_bridge",
+    "name": "Suwannee Springs Bridge",
+    "lat": 30.3954453,
+    "lon": -82.9357954,
+    "imageURL": null,
+    "description": "This abandoned bridge is now a favorite haunt for graffiti artists.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_falmouth_springs",
+    "name": "Falmouth Springs",
+    "lat": 30.3614106,
+    "lon": -83.1348963,
+    "imageURL": null,
+    "description": "The so-called \"world's shortest river\" is actually a window into a cave.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_town_of_ellaville",
+    "name": "Town of Ellaville",
+    "lat": 30.3867298,
+    "lon": -83.1750585,
+    "imageURL": null,
+    "description": "This picturesque ghost town is located on the banks of the Suwannee River.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_villa_zorayda_museum",
+    "name": "Villa Zorayda Museum",
+    "lat": 29.89158,
+    "lon": -81.315131,
+    "imageURL": null,
+    "description": "Sacred Cat RugPossibly the world's oldest rug, this Egyptian relic is woven entirely from ancient cat hair and once carried a mummified human foot.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_lightner_museum",
+    "name": "Lightner Museum",
+    "lat": 29.8909482,
+    "lon": -81.3136432,
+    "imageURL": null,
+    "description": "Sir Winston Churchill's Lion 'Rota'A lion given to the prime minister somehow got stuffed and sent to Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_treasury_street",
+    "name": "Treasury Street",
+    "lat": 29.8935258,
+    "lon": -81.3135103,
+    "imageURL": null,
+    "description": "St. Augustine's record-setting narrow street was designed to protect against pirates.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_karpeles_manuscript_library_mini_museum",
+    "name": "Karpeles Manuscript Library Mini Museum",
+    "lat": 29.8944976,
+    "lon": -81.3131434,
+    "imageURL": null,
+    "description": "The smallest walk-in museum in the United States, this miniature museum preserves and displays a range of historic manuscripts.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_micro_masterpieces_art_gallery",
+    "name": "Micro Masterpieces Art Gallery",
+    "lat": 29.8946377,
+    "lon": -81.3132275,
+    "imageURL": null,
+    "description": "Only through the lens of a microscope can visitors see the true treasures inside this museum.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_bongoland_ruins",
+    "name": "Bongoland Ruins",
+    "lat": 29.1416084,
+    "lon": -81.0066563,
+    "imageURL": null,
+    "description": "Strange beasts lurking in a garden are all that remain of a quirky, short-lived theme park.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_ponce_inlet_preserve",
+    "name": "Ponce Inlet Preserve",
+    "lat": 29.1137581,
+    "lon": -80.9492676,
+    "imageURL": null,
+    "description": "One of the largest Native American shell middens stands 30 feet tall.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_cruger_depeyster_plantation_sugar_mill_ruins",
+    "name": "Cruger-dePeyster Plantation Sugar Mill Ruins",
+    "lat": 29.0091957,
+    "lon": -80.9406412,
+    "imageURL": null,
+    "description": "Despite being made of a seashell mortar, the crumbling remains of this historic Florida mill are still standing.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_old_fort_park",
+    "name": "Old Fort Park",
+    "lat": 29.027249,
+    "lon": -80.9223291,
+    "imageURL": null,
+    "description": "These mysterious ruins are hidden amid this sleepy coastal city.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_bob_ross_art_workshop",
+    "name": "Bob Ross Art Workshop",
+    "lat": 29.0274313,
+    "lon": -80.8931122,
+    "imageURL": null,
+    "description": "In this small strip mall resides the largest collection of original art from the famed TV artist.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_monument_of_states",
+    "name": "Monument of States",
+    "lat": 28.2914883,
+    "lon": -81.4045329,
+    "imageURL": null,
+    "description": "After the attack on Pearl Harbor, rocks and fossils from every U.S. state were collected into a pyramid of national unity.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_gypsy_gold_horse_farm",
+    "name": "Gypsy Gold Horse Farm",
+    "lat": 29.04128,
+    "lon": -82.1419231,
+    "imageURL": null,
+    "description": "Visit these gentle, bell-bottomed, exquisite equines at the home of North America's first Gypsy Vanner horses",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_mertailor_s_mermaid_aquarium_encounter",
+    "name": "Mertailor’s Mermaid Aquarium Encounter",
+    "lat": 28.8571588,
+    "lon": -82.5024508,
+    "imageURL": null,
+    "description": "What started as a tailor shop to help swimmers live their mermaid dreams has grown into a full-scale aquarium, complete with live mermaid shows.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_three_sisters_springs",
+    "name": "Three Sisters Springs",
+    "lat": 28.8885873,
+    "lon": -82.589255,
+    "imageURL": null,
+    "description": "This natural spring is the winter home to the largest gathering of manatees in the world.",
+    "info": null,
+    "url": "https://www.fws.gov/refuge/crystal-river",
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_ellie_schiller_homosassa_springs_wildlife_state_park",
+    "name": "Ellie Schiller Homosassa Springs Wildlife State Park",
+    "lat": 28.8007217,
+    "lon": -82.5841612,
+    "imageURL": null,
+    "description": "Meet manatees face-to-face at this zoo for native species.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_museum_cafe",
+    "name": "The Museum Cafe",
+    "lat": 28.7847623,
+    "lon": -82.606915,
+    "imageURL": null,
+    "description": "Explore the history of printing in this unique museum owned by a longtime printer. Anderson is also the curator of the Old Mill Gallery, a showcase for local artists, and blues musician. For many years, the museum hosted an annual blues concert.There’s a hidden gem within this hidden gem. The museum cafe on the grounds has been named one of the region’s favorites, and features another part of the area’s heritage: Cuban food",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_toby_the_clown_foundation_inc",
+    "name": "Toby the Clown Foundation Inc",
+    "lat": 27.2972846,
+    "lon": -81.368562,
+    "imageURL": null,
+    "description": "A joyful oddity that takes the art of clowning very seriously",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_lake_placid_mural",
+    "name": "Lake Placid Mural",
+    "lat": 27.2984176,
+    "lon": -81.3669227,
+    "imageURL": null,
+    "description": "Many of the murals covering this sleepy Florida town hide some sort of intentional error",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_the_venus_project",
+    "name": "The Venus Project",
+    "lat": 27.0734948,
+    "lon": -81.4311616,
+    "imageURL": null,
+    "description": "The futuristic test model of an iconoclastic visionary who wanted to redesign the world",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_hong_kong_willie_s",
+    "name": "Hong Kong Willie's",
+    "lat": 28.068533,
+    "lon": -82.3561506,
+    "imageURL": null,
+    "description": "This funky outdoor gallery in Florida is filled with whimsical recycled art installations.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_j_c_newman_cigar_company",
+    "name": "J.C. Newman Cigar Company",
+    "lat": 27.9670553,
+    "lon": -82.4415266,
+    "imageURL": null,
+    "description": "Tour the oldest family-owned cigar-rolling factory in the country—then learn how to roll your own.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_the_nature_conservancy_apalachicola_bluffs_and_ravines_preserve_garden_of_eden_trail",
+    "name": "The Nature Conservancy Apalachicola Bluffs and Ravines Preserve (Garden of Eden trail)",
+    "lat": 30.4543821,
+    "lon": -84.9705068,
+    "imageURL": null,
+    "description": "A 1950s eccentric's vision of Eden preserved as a hiking trail.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_panhandle_pioneer_settlement",
+    "name": "Panhandle Pioneer Settlement",
+    "lat": 30.4562031,
+    "lon": -85.0703177,
+    "imageURL": null,
+    "description": "Working compound meant to allow visitors to reclaim the values and traditions of the past.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_loop_road_scenic_drive",
+    "name": "Loop Road Scenic Drive",
+    "lat": 25.7692054,
+    "lon": -81.0784078,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_ah_tah_thi_ki_museum",
+    "name": "Ah-Tah-Thi-Ki Museum",
+    "lat": 26.3249895,
+    "lon": -80.9991251,
+    "imageURL": null,
+    "description": "Nestled in the heart of the Everglades on the Big Cypress Seminole Indian Reservation, the Ah-Tah-Thi-Ki Museum is home to more than 200,000 works of art and historic objects. Come and learn about the Seminole people and experience their rich cultural and historical ties to the Southeast and Florida, as they have made Big Cypress their home since creation.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "art"
+    ]
+  },
+  {
+    "id": "florida_domino_park",
+    "name": "Domino Park",
+    "lat": 25.7655757,
+    "lon": -80.2193397,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_de_la_cruz_collection",
+    "name": "de la Cruz Collection",
+    "lat": 25.8141979,
+    "lon": -80.1949999,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "art",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_institute_of_contemporary_art_miami",
+    "name": "Institute of Contemporary Art, Miami",
+    "lat": 25.8143335,
+    "lon": -80.1942522,
+    "imageURL": null,
+    "description": "Free, sharp, and experimental. Tucked into the Design District, ICA punches above its weight with daring exhibitions and a lovely sculpture garden. It’s less monumental than PAMM, but often more cutting-edge. A great pairing with neighborhood wandering.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_barnacle_historic_state_park",
+    "name": "The Barnacle Historic State Park",
+    "lat": 25.7263023,
+    "lon": -80.2440557,
+    "imageURL": null,
+    "description": "Low-key and atmospheric — old Florida before the condos. A preserved 19th-century home shaded by massive trees right on the bay. It’s intimate and peaceful rather than spectacular. Lovely if you’re already in Coconut Grove; not a cross-city destination.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_american_museum_of_the_cuban_diaspora",
+    "name": "American Museum of the Cuban Diaspora",
+    "lat": 25.750817,
+    "lon": -80.2143143,
+    "imageURL": null,
+    "description": "Focused and culturally important. Smaller scale, but meaningful exhibitions about exile, identity, and political history. Best paired with Little Havana exploration.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_boca_raton_museum_of_art",
+    "name": "Boca Raton Museum of Art",
+    "lat": 26.356568,
+    "lon": -80.08575,
+    "imageURL": null,
+    "description": "A strong regional art museum in the heart of Mizner Park. Solid rotating exhibitions (often modern and contemporary), manageable scale, and an easy cultural stop if you’re already strolling Boca’s polished downtown. Not monumental, but reliably worthwhile.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_robert_is_here_fruit_stand",
+    "name": "Robert Is Here Fruit Stand",
+    "lat": 25.4474238,
+    "lon": -80.5018612,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "market"
+    ]
+  },
+  {
+    "id": "florida_pinecrest_gardens",
+    "name": "Pinecrest Gardens",
+    "lat": 25.6695371,
+    "lon": -80.2852376,
+    "imageURL": null,
+    "description": "Once the famous Parrot Jungle attraction, this lush botanical garden is filled with banyan trees, tropical plants, and winding paths. It’s one of the most beautiful green spaces in suburban Miami.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_celebration",
+    "name": "Celebration",
+    "lat": 28.3188815,
+    "lon": -81.5407793,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_pa_hay_okee_lookout_tower",
+    "name": "Pa-Hay-Okee Lookout Tower",
+    "lat": 25.4416472,
+    "lon": -80.7839641,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_the_craig_robins_collection",
+    "name": "The Craig Robins Collection",
+    "lat": 25.8136037,
+    "lon": -80.1937397,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "art",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_shark_valley_visitor_center",
+    "name": "Shark Valley Visitor Center",
+    "lat": 25.7569344,
+    "lon": -80.765356,
+    "imageURL": null,
+    "description": "The most reliably dramatic wildlife experience in South Florida. The 15-mile loop (bike it if you can) delivers alligators sunning beside the path, herons, ibis, maybe even a turtle traffic jam. The observation tower gives you that vast “river of grass” panorama. Iconic Everglades — zero disappointment.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_bill_baggs_cape_florida_state_park",
+    "name": "Bill Baggs Cape Florida State Park",
+    "lat": 25.6755217,
+    "lon": -80.1590677,
+    "imageURL": null,
+    "description": "A lighthouse, turquoise water, and Miami skyline views from afar — this park hits the sweet spot between nature and classic Florida imagery. Climb the lighthouse for breeze and history, then cool off in water that often feels more Caribbean than Atlantic.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_anhinga_trail",
+    "name": "Anhinga Trail",
+    "lat": 25.3826842,
+    "lon": -80.6071771,
+    "imageURL": null,
+    "description": "Short, flat, and wildly productive. You are almost guaranteed close-up alligator encounters (from a safe boardwalk). For sheer accessibility-to-wildlife ratio, this might be the most efficient nature walk in Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_paynes_prairie_preserve_state_park",
+    "name": "Paynes Prairie Preserve State Park",
+    "lat": 29.5705962,
+    "lon": -82.3006784,
+    "imageURL": null,
+    "description": "Florida with a twist: wild horses and bison grazing on open prairie. It feels more Oklahoma than subtropical swamp. Climb the observation tower for wide horizons — this is a surprising landscape most visitors don’t expect.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_national_key_deer_refuge_nature_center",
+    "name": "National Key Deer Refuge Nature Center",
+    "lat": 24.6697882,
+    "lon": -81.3545102,
+    "imageURL": null,
+    "description": "Tiny endangered deer wandering through neighborhoods and pine forest. It’s niche, but charming and uniquely “Keys.” Quiet and memorable.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_mahogany_hammock_trailhead",
+    "name": "Mahogany Hammock Trailhead",
+    "lat": 25.3236517,
+    "lon": -80.8319992,
+    "imageURL": null,
+    "description": "A jungle pocket inside the Everglades — dense canopy, massive mahogany trees, shaded boardwalk. Short but atmospheric. Pairs well with Anhinga or Nine Mile Pond.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_matheson_hammock_park_marina",
+    "name": "Matheson Hammock Park & Marina",
+    "lat": 25.6792277,
+    "lon": -80.2566025,
+    "imageURL": null,
+    "description": "AI That man-made atoll pool is wonderfully odd — calm water framed by palms and Biscayne Bay views. More mellow than dramatic, but lovely at sunset.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_usf_graphicstudio",
+    "name": "USF Graphicstudio",
+    "lat": 28.0569517,
+    "lon": -82.4175925,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_kirby_storter_roadside_park",
+    "name": "Kirby Storter Roadside Park",
+    "lat": 25.8682117,
+    "lon": -81.15422,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_florida_panther_national_wildlife_refuge",
+    "name": "Florida Panther National Wildlife Refuge",
+    "lat": 26.1859175,
+    "lon": -81.4059186,
+    "imageURL": null,
+    "description": "This is wild Florida at its most primeval — cypress domes, saw palmetto flats, and the almost-mythical presence of the endangered panther. You probably won’t see one (few do), but that tension is the thrill. It feels remote, raw, and genuinely ecological — the opposite of theme-park Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_dr_julian_g_bruce_st_george_island_state_park",
+    "name": "Dr. Julian G. Bruce St. George Island State Park",
+    "lat": 29.7211603,
+    "lon": -84.747879,
+    "imageURL": null,
+    "description": "AI Long, undeveloped Gulf beaches with that pale, powdery Panhandle sand. It’s the anti-Miami: quiet horizons, seabirds, and nothing but wind and surf. Underhyped and wonderfully spacious.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_ichetucknee_springs_state_park",
+    "name": "Ichetucknee Springs State Park",
+    "lat": 29.9756006,
+    "lon": -82.762972,
+    "imageURL": null,
+    "description": "Pure, glass-clear water drifting through forest. Tubing here is one of Florida’s great summer rituals. It’s popular — but that surreal, aquamarine clarity delivers every time.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_highlands_hammock_state_park",
+    "name": "Highlands Hammock State Park",
+    "lat": 27.4709862,
+    "lon": -81.5304182,
+    "imageURL": null,
+    "description": "Old-growth subtropical forest and elevated boardwalks through cypress swamp. One of Florida’s earliest state parks, and it shows — in a good way. Lush and atmospheric.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_honeymoon_island_state_park",
+    "name": "Honeymoon Island State Park",
+    "lat": 28.0640795,
+    "lon": -82.830401,
+    "imageURL": null,
+    "description": "Accessible Gulf beauty with excellent sunsets and frequent osprey sightings. It’s popular, but the beaches are broad enough to handle it.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_marsh_trail_ten_thousand_islands_nwr",
+    "name": "Marsh Trail - Ten Thousand Islands NWR",
+    "lat": 25.9742439,
+    "lon": -81.5542297,
+    "imageURL": null,
+    "description": "A taste of the labyrinthine mangrove coast. The short trail is more appetizer than main course — kayaking deeper is where the magic lies — but it gives you that watery wilderness feel.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_edison_and_ford_estates",
+    "name": "Edison and Ford Estates",
+    "lat": 26.6341173,
+    "lon": -81.8789123,
+    "imageURL": null,
+    "description": "Inventor chic. Historic homes, laboratories, and a massive banyan tree. It’s polished and interpretive — more curated than wild — but historically significant and surprisingly engaging.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_blue_spring_state_park",
+    "name": "Blue Spring State Park",
+    "lat": 28.9467012,
+    "lon": -81.338922,
+    "imageURL": null,
+    "description": "Excellent for manatee viewing in winter; seasonal magic",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_weedon_island_preserve",
+    "name": "Weedon Island Preserve",
+    "lat": 27.8475889,
+    "lon": -82.608663,
+    "imageURL": null,
+    "description": "Lovely mangrove paddling near the city.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_brooker_creek_preserve_environmental_education_center",
+    "name": "Brooker Creek Preserve & Environmental Education Center",
+    "lat": 28.1318021,
+    "lon": -82.6566351,
+    "imageURL": null,
+    "description": "Good nature center; more educational than dramatic.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_sawgrass_lake_park",
+    "name": "Sawgrass Lake Park",
+    "lat": 27.8379308,
+    "lon": -82.6674635,
+    "imageURL": null,
+    "description": "Reliable gator sightings on an easy boardwalk",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_cauley_square_historic_village",
+    "name": "Cauley Square Historic Village",
+    "lat": 25.5586363,
+    "lon": -80.3904344,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_central_florida_railroad_museum",
+    "name": "Central Florida Railroad Museum",
+    "lat": 28.5648396,
+    "lon": -81.5865773,
+    "imageURL": null,
+    "description": "An unsuspecting brick building outside Orlando houses decades of train ephemera.",
+    "info": null,
+    "url": "https://cfrrmuseum.org",
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_life_of_christ_mosaic",
+    "name": "Life of Christ Mosaic",
+    "lat": 28.5392042,
+    "lon": -81.512413,
+    "imageURL": null,
+    "description": "Millions of pieces of Venetian glass showcase the life of Christ",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_bob_ross_grave",
+    "name": "Bob Ross Grave",
+    "lat": 28.53419,
+    "lon": -81.512201,
+    "imageURL": null,
+    "description": "Loyal fans of one television's most famous painters still come to pay their respects.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_lee_rick_s_oyster_bar",
+    "name": "Lee & Rick's Oyster Bar",
+    "lat": 28.5388018,
+    "lon": -81.4569648,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_lake_eola_park",
+    "name": "Lake Eola Park",
+    "lat": 28.543611,
+    "lon": -81.372778,
+    "imageURL": null,
+    "description": "Many public parks around the world are home to unique works of art, and Lake Eola Park in Downtown Orlando is no exception. There's the giant Muse of Discovery by Meg White in the form of a woman lying under a blanket of green lawn, for example, and Douwe Blumberg's Take Flight depicts a flock of birds flying above the lake, which is beautifully illuminated at night.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_the_maitland_art_center",
+    "name": "The Maitland Art Center",
+    "lat": 28.6258252,
+    "lon": -81.3671913,
+    "imageURL": null,
+    "description": "Artist J. Andre Smith founded the Center as an artist colony in 1937. With over 200 carvings and reliefs, it is an important example of Art Deco fantasy and Mayan Revival architecture in the United States.[",
+    "info": null,
+    "url": null,
+    "categories": [
+      "art",
+      "architecture"
+    ]
+  },
+  {
+    "id": "florida_mcdonald_s",
+    "name": "McDonald's",
+    "lat": 28.4504681,
+    "lon": -81.4714229,
+    "imageURL": null,
+    "description": "Opened in 1976, this monster-sized version of the fast-food franchise is sometimes called the Epic McD.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_randall_made_knives",
+    "name": "Randall Made Knives",
+    "lat": 28.4907653,
+    "lon": -81.3963677,
+    "imageURL": null,
+    "description": "Home to a giant switchblade and one of the world's largest collections of pocket knives, this museum is a cut above the rest.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum"
+    ]
+  },
+  {
+    "id": "florida_rock_springs",
+    "name": "Rock Springs",
+    "lat": 28.7563836,
+    "lon": -81.5014604,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_kelly_park_rock_springs",
+    "name": "Kelly Park - Rock Springs",
+    "lat": 28.7574848,
+    "lon": -81.5029138,
+    "imageURL": null,
+    "description": "Approximately 65,000 gallons of crystal clear water pour out of this headspring every minute",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_renninger_s_flea_market_antique_center",
+    "name": "Renninger's Flea Market & Antique Center",
+    "lat": 28.8078215,
+    "lon": -81.6243086,
+    "imageURL": null,
+    "description": "A small strip of artistic displays is tucked away in a flea market.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_lake_nona_sculpture_garden",
+    "name": "Lake Nona Sculpture Garden",
+    "lat": 28.3734878,
+    "lon": -81.2817458,
+    "imageURL": null,
+    "description": "A public, open-air art exhibit featuring world-renowned sculptures hides in plain sight on the outskirts of Orlando.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "art",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_wekiwa_springs_state_park",
+    "name": "Wekiwa Springs State Park",
+    "lat": 28.7388353,
+    "lon": -81.4820144,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_kennedy_space_center_visitor_complex",
+    "name": "Kennedy Space Center Visitor Complex",
+    "lat": 28.5218973,
+    "lon": -80.6815406,
+    "imageURL": null,
+    "description": "The Saturn V rocket alone — displayed horizontally in the Apollo center — is overwhelming in scale. Add Space Shuttle Atlantis, launch pad tours, IMAX films, and real NASA hardware, and this becomes a full-day, genuinely moving experience. Even if you’re only mildly interested in space, this is unforgettable.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_historic_pensacola_village",
+    "name": "Historic Pensacola Village",
+    "lat": 30.4087532,
+    "lon": -87.2110146,
+    "imageURL": null,
+    "description": "Spanish, French, British, Confederate — Pensacola changed hands repeatedly, and you feel that complexity walking between preserved homes and museums. It’s cohesive, atmospheric, and one of Florida’s richest historic districts.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "museum",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_kingsley_plantation",
+    "name": "Kingsley Plantation",
+    "lat": 30.4398902,
+    "lon": -81.4378092,
+    "imageURL": null,
+    "description": "The preserved slave quarters — arranged in a semicircle — are stark and moving. Operated by the National Park Service, it presents plantation history honestly and without gloss. Quiet, reflective, and historically significant.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "landmark",
+      "art",
+      "historic"
+    ]
+  },
+  {
+    "id": "florida_historic_spanish_point",
+    "name": "Historic Spanish Point",
+    "lat": 27.2020561,
+    "lon": -82.4912326,
+    "imageURL": null,
+    "description": "Prehistoric shell middens, pioneer homes, citrus industry history — all on a scenic waterfront property. It’s layered Florida in one walkable site.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "food"
+    ]
+  },
+  {
+    "id": "florida_jonathan_dickinson_state_park",
+    "name": "Jonathan Dickinson State Park",
+    "lat": 27.0034639,
+    "lon": -80.1009152,
+    "imageURL": null,
+    "description": "Natural beauty plus the oddball “Trapper Nelson” homestead story. Excellent balance of ecology and quirky Florida lore.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "quirky"
+    ]
+  },
+  {
+    "id": "florida_mission_san_luis",
+    "name": "Mission San Luis",
+    "lat": 30.4486703,
+    "lon": -84.320034,
+    "imageURL": null,
+    "description": "One of the most immersive historic sites in Florida.A reconstructed 17th-century Spanish mission and Apalachee village. Large council house, costumed interpreters, working demonstrations — this is layered colonial history presented at scale. Deeply educational but also visually striking.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "florida_hugh_taylor_birch_state_park",
+    "name": "Hugh Taylor Birch State Park",
+    "lat": 26.1453543,
+    "lon": -80.1049979,
+    "imageURL": null,
+    "description": "A rare slice of coastal hammock forest preserved between the Atlantic Ocean and the Intracoastal Waterway. Trails wind through dense tropical vegetation, mangroves, and lagoons.Given the intense urban development along the beach, the park feels like an unexpected oasis of nature.Verdict: The best natural escape in Fort Lauderdale.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "historic",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_west_lake_trail",
+    "name": "West Lake Trail",
+    "lat": 25.2143352,
+    "lon": -80.8506947,
+    "imageURL": null,
+    "description": "One of the best short walks in the park. The boardwalk winds through dense mangrove forest with interpretive stops explaining how the ecosystem works.This is one of the few places where you really enter the mangrove environment rather than just viewing it from afar. Birds, crabs, and sometimes manatees in the adjacent lake.Must visit if you’re exploring the Flamingo side.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_blue_hole",
+    "name": "Blue Hole",
+    "lat": 24.705844,
+    "lon": -81.380759,
+    "imageURL": null,
+    "description": "A freshwater sinkhole in the middle of the Keys—an ecosystem that shouldn’t exist in the salty island chain. It’s known for wildlife sightings including alligators, turtles, and birds. A short trail leads around the water, offering a rare glimpse of a different kind of Keys landscape.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "sport"
+    ]
+  },
+  {
+    "id": "florida_black_archives_historic_lyric_theater",
+    "name": "Black Archives - Historic Lyric Theater",
+    "lat": 25.7822598,
+    "lon": -80.1978721,
+    "imageURL": null,
+    "description": "Located in historic Overtown, the Lyric Theater once hosted legends such as Count Basie, Ella Fitzgerald, and Sam Cooke during segregation when Black performers couldn’t stay in Miami Beach hotels. Today it anchors a museum and archive preserving African-American history in South Florida.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "florida_archie_carr_national_wildlife_refuge",
+    "name": "Archie Carr National Wildlife Refuge",
+    "lat": 27.9591594,
+    "lon": -80.5025666,
+    "imageURL": null,
+    "description": "One of the most important sea turtle nesting sites in the world. Quiet, undeveloped beaches with real conservation significance.👉 Go in nesting season (summer nights = unforgettable).",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_pelican_island_national_wildlife_refuge",
+    "name": "Pelican Island National Wildlife Refuge",
+    "lat": 27.8021706,
+    "lon": -80.4250335,
+    "imageURL": null,
+    "description": "One of the most important sea turtle nesting sites in the world. Quiet, undeveloped beaches with real conservation significance.👉 Go in nesting season (summer nights = unforgettable).",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_audubon_corkscrew_swamp_sanctuary",
+    "name": "Audubon Corkscrew Swamp Sanctuary",
+    "lat": 26.3754893,
+    "lon": -81.6041493,
+    "imageURL": null,
+    "description": "A magical boardwalk through ancient bald cypress forest—some trees over 500 years old. Quiet, primeval, and incredibly atmospheric.👉 One of the best swamp walks in the U.S.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature"
+    ]
+  },
+  {
+    "id": "florida_rainbow_springs_state_park",
+    "name": "Rainbow Springs State Park",
+    "lat": 29.1026902,
+    "lon": -82.4377201,
+    "imageURL": null,
+    "description": "Clear turquoise water plus landscaped gardens and even small waterfalls—more “designed” than wild, but undeniably beautifyl.👉 Great all-around spring experience.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
+  }
+]
