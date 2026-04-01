@@ -128,7 +128,7 @@
     "url": "https://vizcaya.org",
     "categories": [
       "museum",
-      "historic",
+      "localhighlight",
       "nature"
     ]
   },
@@ -143,8 +143,7 @@
     "url": null,
     "categories": [
       "historic",
-      "landmark",
-      "nature"
+      "landmark"
     ]
   },
   {
@@ -230,7 +229,7 @@
     "url": "https://spanishmonastery.com",
     "categories": [
       "historic",
-      "landmark",
+      "localhighlight",
       "architecture"
     ]
   },
@@ -562,7 +561,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature"
+      "nature",
+"localhighlight"
     ]
   },
   {
@@ -589,7 +589,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "historic",
+      "localhighlight",
       "landmark",
       "nature"
     ]
@@ -632,9 +632,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "landmark",
-      "historic",
-      "art"
+      "landmark"
     ]
   },
   {
@@ -680,7 +678,7 @@
     "categories": [
       "museum",
       "historic",
-      "art",
+      "localhighlight",
       "nature"
     ]
   },
@@ -739,7 +737,7 @@
     "url": null,
     "categories": [
       "historic",
-      "landmark",
+      "localhighlight",
       "nature"
     ]
   },
@@ -753,7 +751,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "historic",
+      "localhighlight",
       "landmark",
       "architecture"
     ]
@@ -1124,7 +1122,7 @@
     "url": null,
     "categories": [
       "nature",
-      "art"
+      "localhighlight"
     ]
   },
   {
@@ -1178,7 +1176,7 @@
     "url": null,
     "categories": [
       "nature",
-      "art"
+      "localhighlight"
     ]
   },
   {
@@ -1359,6 +1357,7 @@
     "url": null,
     "categories": [
       "food",
+"localhighlight",
       "market"
     ]
   },
@@ -4354,7 +4353,8 @@
     "url": null,
     "categories": [
       "food",
-      "market"
+      "market",
+"localhighlight"
     ]
   },
   {
