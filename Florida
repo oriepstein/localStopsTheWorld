@@ -5103,5 +5103,105 @@
       "landmark",
       "nature"
     ]
+  },
+  {
+    "name": "Locust Projects",
+    "lat": 25.8367143,
+    "lon": -80.1904904,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Fruit & Spice Park",
+    "lat": 25.5351804,
+    "lon": -80.4937473,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Loggerhead Marinelife Center",
+    "lat": 26.8844397,
+    "lon": -80.0565178,
+    "imageURL": null,
+    "description": "AI: One of the most meaningful and memorable experiences in South Florida—especially if you do a guided night turtle walk during nesting season. Seeing a massive loggerhead come ashore or hatchlings scatter toward the ocean is unforgettable.Why it stands out: Authentic wildlife experience, not staged.Must-visit (seasonal: roughly May–Oct)",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Palm Beach Lake Trail",
+    "lat": 26.706164,
+    "lon": -80.0435372,
+    "imageURL": null,
+    "description": "AI: A scenic walking/biking path along the Intracoastal, weaving past banyan trees, historic estates, and shimmering water views. It’s Palm Beach at its most quietly spectacular.Why go: Beautiful, breezy, and effortlessly elegant.Best at sunrise or sunset.",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Sea Shell City",
+    "lat": 26.7798964,
+    "lon": -80.0546922,
+    "imageURL": null,
+    "description": "AI: A classic old-school Florida roadside attraction—kitschy, colorful, and unapologetically touristy.Why go: For that fading “vintage Florida” vibe.",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Big Dog Ranch Rescue",
+    "lat": 26.7056132,
+    "lon": -80.2725622,
+    "imageURL": null,
+    "description": "LARGEST, Cage-Free, NO-KILL dog rescue in the U.S",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Trapper Nelson Interpretative Site",
+    "lat": 26.9765068,
+    "lon": -80.1633634,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Juno Beach Pier",
+    "lat": 26.8932967,
+    "lon": -80.0559103,
+    "imageURL": null,
+    "description": "AI: Long, photogenic, and wonderfully atmospheric—especially at sunrise when fishermen line the rails and the Atlantic glows.Why go: Pure coastal Florida at its best.Must-visit (early morning ideally).",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Jupiter Off-Leash Dog Beach",
+    "lat": 26.8969003,
+    "lon": -80.0581083,
+    "imageURL": null,
+    "description": "AI: Miles of beach where dogs run freely—it’s lively, chaotic, and oddly joyful even if you don’t have a dog.Why it stands out: Unique energy you won’t find on most Florida beaches.Best in morning/evening.",
+    "info": null,
+    "categories": null,
+    "url": null
+  },
+  {
+    "name": "Richard and Pat Johnson Palm Beach County History Museum",
+    "lat": 26.7156463,
+    "lon": -80.053022,
+    "imageURL": null,
+    "description": "AI: Solid local history museum in a grand courthouse.Informative, but overshadowed by Flagler Museum.",
+    "info": null,
+    "categories": null,
+    "url": null
   }
 ]
