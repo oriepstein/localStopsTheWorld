@@ -1,410 +1,227 @@
 [
   {
-    "name": "Glacier Bay National Park and Preserve",
-    "lat": 58.6658073,
-    "lon": -136.9002147,
-    "description": "This massive wilderness preserve protects over 3.3 million acres of temperate rainforest, glaciated mountains, and pristine coastline. More than a dozen glaciers flow from the mountains to the sea, creating a dynamic landscape where ice meets ocean.\n\nThe park is only accessible by boat or plane, making it one of the most remote national parks in the system. Visitors can witness the dramatic process of glacial calving, where house-sized chunks of ice crash into the sea with thunderous roars.",
-    "info": "",
-    "icon": null,
+    "id": "sitka_russian_bishops_house",
+    "name": "Russian Bishop's House",
+    "lat": 57.0513521,
+    "lon": -135.3313722,
     "imageURL": null,
-    "id": 1,
-    "categories": ["park", "nature"],
-    "url": "https://www.nps.gov/glba/index.htm"
+    "description": "One of the only surviving examples of Russian Colonial architecture in North America — and arguably the most important intact Russian-era building in Alaska. Inside, you get creaking wood floors, Orthodox iconography, and an authentic sense of imperial Russia on the Pacific frontier. This is the crown jewel of Russian America.",
+    "info": null,
+    "url": "https://www.nps.gov/sitk/learn/historyculture/russian-bishops-house.htm",
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture"
+    ]
   },
   {
+    "id": "sitka_sitka_national_historical_park",
     "name": "Sitka National Historical Park",
     "lat": 57.0483239,
     "lon": -135.3159987,
-    "description": "This park preserves the site of the 1804 Battle of Sitka, the last major resistance of the Tlingit people to Russian colonization. The park features a stunning collection of totem poles set among towering Sitka spruces and hemlock trees.\n\nThe forest trail winds through temperate rainforest where some trees are over 700 years old. The park also houses the Southeast Alaska Indian Cultural Center, where visitors can watch Native artisans carving, weaving, and creating traditional crafts.",
-    "info": "",
-    "icon": null,
     "imageURL": null,
-    "id": 2,
-    "categories": ["park", "historic"],
-    "url": "https://www.nps.gov/sitk/index.htm"
+    "description": "A quiet, mossy coastal forest lined with totem poles — deeply atmospheric and culturally important. Feels more intimate and authentic than many heritage sites.",
+    "info": null,
+    "url": "https://www.nps.gov/sitk/index.htm",
+    "categories": [
+      "historic",
+      "landmark",
+      "nature",
+      "indigenous"
+    ]
   },
   {
-    "name": "Klondike Gold Rush National Historical Park",
-    "lat": 59.5961734,
-    "lon": -135.1483543,
-    "description": "This park commemorates the Klondike Gold Rush of 1897-1898, when tens of thousands of prospectors passed through Skagway on their way to the Klondike goldfields. The historic district preserves the boomtown atmosphere with wooden sidewalks and false-front buildings.\n\nThe park protects the Chilkoot Trail, the grueling 33-mile route that stampeders took over the mountains into Canada. Rangers estimate that each prospector had to carry a year's worth of supplies—about 2,000 pounds—up the infamous 'Golden Stairs.'",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 3,
-    "categories": ["park", "historic"],
-    "url": "https://www.nps.gov/klgo/index.htm"
-  },
-  {
-    "name": "Southeast Alaska Discovery Center",
-    "lat": 55.340697,
-    "lon": -131.644023,
-    "description": "This interpretive center showcases the natural and cultural history of Southeast Alaska's Tongass National Forest. Interactive exhibits explore the region's ecosystems, from temperate rainforests to marine environments.\n\nThe center features a stunning three-story replica of a Southeast Alaska forest, complete with the sounds of dripping water and bird calls. Visitors can walk through different forest layers and learn about the complex relationships between salmon, bears, eagles, and trees.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 4,
-    "categories": ["museum"],
-    "url": "https://www.fs.usda.gov/detail/tongass/specialplaces/?cid=stelprdb5427150"
-  },
-  {
-    "name": "Mendenhall Glacier",
-    "lat": 58.4167958,
-    "lon": -134.5466664,
-    "description": "A rare chance to get up close and personal with a 13-mile ribbon of ice near downtown Juneau.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 5,
-    "categories": ["nature", "landmark"],
-    "url": "https://www.fs.usda.gov/recarea/tongass/recarea/?recid=78201"
-  },
-  {
-    "name": "Brotherhood Bridge Trail",
-    "lat": 58.3710196,
-    "lon": -134.6024802,
-    "description": "Every summer, the Mendenhall River greenbelt comes alive with an explosion of magenta flowers. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 6,
-    "categories": ["nature", "park"],
-    "url": null
-  },
-  {
-    "name": "Upside Down Trees...",
-    "lat": 58.3599705,
-    "lon": -134.5481593,
-    "description": "Upside-down trees serve as natural flower pots in this hanging garden of Alaska. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 7,
-    "categories": ["nature", "quirky"],
-    "url": null
-  },
-  {
-    "name": "Treadwell Trail",
-    "lat": 58.2704877,
-    "lon": -134.3833528,
-    "description": "The ruins of this Alaska gold mine form a gorgeous ghost town. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 8,
-    "categories": ["historic", "nature"],
-    "url": null
-  },
-  {
-    "name": "Sealaska Heritage Institute ARTS CAMPUS",
-    "lat": 58.300306,
-    "lon": -134.4075152,
-    "description": "Often mistaken for an office building, inside this venue is an amazing collection of Native Alaskan art.  ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 9,
-    "categories": ["art", "museum"],
-    "url": "https://www.sealaskaheritage.org/"
-  },
-  {
-    "name": "Shrine of Saint Therese",
-    "lat": 58.4723093,
-    "lon": -134.787191,
-    "description": "This shrine to the patron saint of Alaska sits on a small tidal island and was built from the land's own beach stones. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 10,
-    "categories": ["religious", "nature"],
-    "url": "https://www.shrineofsttherese.org/"
-  },
-  {
-    "name": "Point Bishop-Dupont Trailhead",
-    "lat": 58.2453996,
-    "lon": -134.2957981,
-    "description": "The crumbling remains of Juneau's explosives storage site. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 11,
-    "categories": ["historic", "nature"],
-    "url": null
-  },
-  {
-    "name": "Last Chance Mining Museum",
-    "lat": 58.3054727,
-    "lon": -134.3844031,
-    "description": "Impressive artifacts from Juneau's gold mining days fill this mining site-turned-museum. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 12,
-    "categories": ["museum", "historic"],
-    "url": "https://www.lastchanceminingmuseum.org/"
-  },
-  {
-    "name": "Aunt Claudias Doll Museum",
-    "lat": 58.300876,
-    "lon": -134.406361,
-    "description": "One toy collector's legacy of hundreds of unique items includes the most diverse display of northern indigenous dolls. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 13,
-    "categories": ["museum", "quirky"],
-    "url": null
-  },
-  {
-    "name": "Petroglyph Beach State Historic Site",
-    "lat": 56.4829171,
-    "lon": -132.3937932,
-    "description": "Low tide reveals 8,000-year-old rock carvings in Southern Alaska. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 14,
-    "categories": ["historic", "nature", "art"],
-    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/petroglyphbch.htm"
-  },
-  {
+    "id": "sitka_st_michael_archangel_orthodox_cathedral",
     "name": "St. Michael the Archangel Orthodox Cathedral",
     "lat": 57.05,
     "lon": -135.3352778,
-    "description": "The first Russian Orthodox church in North America and an Alaskan landmark. ",
-    "info": "",
-    "icon": null,
     "imageURL": null,
-    "id": 15,
-    "categories": ["religious", "historic", "landmark"],
-    "url": "https://www.sitkaorthodox.com/"
+    "description": "The first Russian Orthodox church in North America and an Alaskan landmark.",
+    "info": null,
+    "url": "https://www.stmichaelscathedral.org",
+    "categories": [
+      "historic",
+      "landmark",
+      "architecture",
+      "religious"
+    ]
   },
   {
-    "name": "Hammer Museum",
-    "lat": 59.2350206,
-    "lon": -135.4444092,
-    "description": "A museum devoted entirely to hammers has more than 1,400 items on display dating back to the Romans. ",
-    "info": "",
-    "icon": null,
+    "id": "sitka_sheldon_jackson_museum",
+    "name": "Sheldon Jackson Museum",
+    "lat": 57.0505469,
+    "lon": -135.3222054,
     "imageURL": null,
-    "id": 16,
-    "categories": ["museum", "quirky"],
-    "url": "https://www.hammermuseum.org/"
+    "description": "Important in Alaska Native education history — and controversial for its assimilation-era legacy. Architecturally pleasant campus; historically complex.",
+    "info": null,
+    "url": "https://museums.alaska.gov/sheldon_jackson/sjhome.html",
+    "categories": [
+      "museum",
+      "historic",
+      "indigenous"
+    ]
   },
   {
-    "name": "White Pass & Yukon Route Railway",
-    "lat": 59.4531431,
-    "lon": -135.3181086,
-    "description": "A historic freight system that found the true gold rush is in tourism. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 17,
-    "categories": ["historic", "entertainment"],
-    "url": "https://www.wpyr.com/"
-  },
-  {
-    "name": "Golden North Hotel",
-    "lat": 59.4543232,
-    "lon": -135.3178428,
-    "description": "A classic gold rush hotel can be expected to pick up some ghosts along the way, and the Golden North is no exception.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 18,
-    "categories": ["historic", "quirky"],
-    "url": null
-  },
-  {
-    "name": "Klondike Gold Rush National Historical Park Visitor Center",
-    "lat": 59.453499,
-    "lon": -135.3184558,
-    "description": "The visitor center occupies a restored railroad depot from 1898, complete with original wooden floors that creak with the weight of gold rush history. Interactive exhibits let visitors experience the challenge of packing a year's worth of supplies into a single backpack.\n\nRangers here can tell you which of the stampeders actually struck it rich (spoiler: not many) and why most fortunes were made by the merchants selling supplies rather than the prospectors digging for gold.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 19,
-    "categories": ["park", "historic", "museum"],
-    "url": "https://www.nps.gov/klgo/planyourvisit/visitor-centers.htm"
-  },
-  {
-    "name": "Red Onion Saloon",
-    "lat": 59.4539012,
-    "lon": -135.3184605,
-    "description": "Originally a brothel during the Klondike Gold Rush, this bar once used dolls to denote when ladies were working. ",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 20,
-    "categories": ["historic", "entertainment", "quirky"],
-    "url": "https://www.redonion1898.com/"
-  },
-  {
-    "name": "Arctic Brotherhood Hall",
-    "lat": 59.4540874,
-    "lon": -135.3182002,
-    "description": "The facade of this relic from the Klondike gold rush is decorated with over 8,800 pieces of driftwood.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 21,
-    "categories": ["historic", "landmark"],
-    "url": null
-  },
-  {
-    "name": "Granite Creek Trail",
-    "lat": 58.3171264,
-    "lon": -134.3224969,
-    "description": "This moderate trail winds through old-growth forest and along Granite Creek, ending at a scenic overlook of the Mendenhall Valley. The path follows an old mining road where prospectors once searched for gold in the creek gravels.\n\nKeep an eye out for spawning salmon in late summer and the black bears that come to feast on them. The trail offers glimpses of mining artifacts scattered through the forest, reminders of Juneau's gold rush past.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 22,
-    "categories": ["nature", "park"],
-    "url": null
-  },
-  {
-    "name": "Juneau Icefield",
-    "lat": 58.6166667,
-    "lon": -134.5,
-    "description": "The Juneau Icefield spans 1,505 square miles and feeds 38 named glaciers, including the famous Mendenhall Glacier. This massive ice sheet is one of the few places in North America where you can witness active glaciation.\n\nThe icefield is a remnant of the last Ice Age and serves as a natural laboratory for climate scientists studying glacier behavior. Helicopter tours offer the rare opportunity to land on the ice and walk where few humans have ever set foot.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 23,
-    "categories": ["nature", "landmark"],
-    "url": null
-  },
-  {
-    "name": "Mt. Verstovia Trailhead",
-    "lat": 57.0472816,
-    "lon": -135.2939778,
-    "description": "This challenging trail leads to the distinctive peak that dominates Sitka's skyline, named for its resemblance to Verstovaya Mountain in Russia. The hike is steep and muddy, but rewards climbers with panoramic views of Sitka Sound and its countless islands.\n\nLocal legend says that anyone who climbs Mt. Verstovia will return to Sitka within seven years. The mountain's unique profile has made it a beloved symbol of the city, visible from almost anywhere in town.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 24,
-    "categories": ["nature", "park"],
-    "url": null
-  },
-  {
-    "name": "Goddard Hot Springs Tubs",
-    "lat": 56.8355182,
-    "lon": -135.376373,
-    "description": "These natural hot springs bubble up from the earth on a remote island south of Sitka, accessible only by boat or floatplane. The springs have been developed into rustic wooden tubs where visitors can soak in 98-degree mineral water while surrounded by pristine wilderness.\n\nThe tubs are maintained by volunteers and operate on an honor system for payment. Soaking here feels like a secret shared by locals, with the added thrill of potentially spotting whales, sea otters, or eagles during your visit.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 25,
-    "categories": ["nature", "quirky"],
-    "url": null
-  },
-  {
-    "name": "Fortress of the Bear",
-    "lat": 57.0504266,
-    "lon": -135.2329939,
-    "description": "This bear rescue facility houses orphaned brown and black bear cubs that would not survive in the wild. The facility provides a naturalistic habitat where bears can live safely while serving as ambassadors for their wild cousins.\n\nVisitors can observe the bears swimming, playing, and demonstrating natural behaviors from viewing platforms. The facility focuses on education about bear safety and conservation, helping people understand these magnificent predators better.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 26,
-    "categories": ["nature", "entertainment"],
-    "url": "https://www.fortressofthebear.org/"
-  },
-  {
-    "name": "Totem Bight State Historical Park",
-    "lat": 55.4201157,
-    "lon": -131.7725377,
-    "description": "This park showcases 14 restored totem poles and a traditional clan house, all created by Native Alaskan artisans in the 1930s as part of a Depression-era cultural preservation project. The totems represent various Southeast Alaska tribal groups and their stories.\n\nA short trail through temperate rainforest leads visitors past each totem, with interpretive signs explaining the complex symbolism and cultural significance. The park sits on a scenic point overlooking Tongass Narrows, where the poles stand sentinel against a backdrop of forest and sea.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 27,
-    "categories": ["park", "historic", "art"],
-    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/totembght.htm"
-  },
-  {
-    "name": "Hungry Pt. Trailhead",
-    "lat": 56.814906,
-    "lon": -132.9425952,
-    "description": "This coastal trail offers stunning views of the Inside Passage and leads through dense Sitka spruce and hemlock forest. The path follows the shoreline where eagles nest and sea otters play in the kelp beds just offshore.\n\nThe trail gets its name from early settlers who found abundant shellfish and seaweed here during lean times. Today, the point remains a popular spot for beachcombing and wildlife watching, especially during salmon runs when bears frequent the area.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 28,
-    "categories": ["nature", "park"],
-    "url": null
-  },
-  {
-    "name": "Baranof Castle State Historic Site",
-    "lat": 57.0486854,
-    "lon": -135.3380656,
-    "description": "This hilltop site once held the Russian-American Company's castle, the seat of Russian power in Alaska from 1837 to 1867. The original wooden structure burned down in 1894, leaving only the foundation and commanding views of Sitka Sound.\n\nA flagpole marks the spot where the Russian flag was lowered and the American flag raised on October 18, 1867, officially transferring Alaska to the United States. The site offers panoramic views and interpretive signs about this pivotal moment in Alaskan history.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 29,
-    "categories": ["historic", "park"],
-    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/baranofcastle.htm"
-  },
-  {
-    "name": "Old Sitka State Historic Park",
-    "lat": 57.1308324,
-    "lon": -135.3725135,
-    "description": "This park preserves the site of the original Russian settlement of New Archangel, established in 1799 by Alexander Baranov. Archaeological remains and interpretive trails tell the story of early Russian-Tlingit contact and conflict.\n\nThe park's beach offers excellent views of nearby islands and Mount Edgecumbe, an extinct volcano. During low tide, visitors can explore tide pools and search for remnants of the old Russian settlement scattered along the shore.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 30,
-    "categories": ["park", "historic"],
-    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/oldsitka.htm"
-  },
-  {
-    "name": "Alaska State Museum",
-    "lat": 58.2999241,
-    "lon": -134.4156397,
-    "description": "This museum houses the world's largest collection of Alaska Native artifacts, from intricate Chilkat blankets to massive totem poles. The exhibits trace 10,000 years of Alaska history, from prehistoric cultures through the Russian period to statehood.\n\nThe museum's most famous resident is the Lincoln Totem, carved in 1883 to commemorate the assassination of President Lincoln. The ramp-style galleries spiral upward through time, ending with contemporary Alaska Native art and culture.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 31,
-    "categories": ["museum"],
-    "url": "https://museums.alaska.gov/"
-  },
-  {
-    "name": "Sealaska Heritage Institute",
-    "lat": 58.3003682,
-    "lon": -134.4068215,
-    "description": "This cultural center preserves and promotes the languages, art, and traditions of Southeast Alaska Native peoples. The institute houses extensive archives of cultural materials and offers programs in traditional arts like carving, weaving, and beadwork.\n\nVisitors can watch master artists at work and learn about the complex clan system that governs Tlingit, Haida, and Tsimshian societies. The institute also operates language immersion programs, working to revitalize Native languages that were nearly lost to forced assimilation.",
-    "info": "",
-    "icon": null,
-    "imageURL": null,
-    "id": 32,
-    "categories": ["art", "museum"],
-    "url": "https://www.sealaskaheritage.org/"
-  },
-  {
+    "id": "sitka_alaska_raptor_center",
     "name": "Alaska Raptor Center",
     "lat": 57.052333,
     "lon": -135.3160504,
-    "description": "This rehabilitation facility treats injured birds of prey and provides educational programs about Alaska's raptors. The center houses eagles, hawks, owls, and falcons that cannot be released back to the wild due to permanent injuries.\n\nVisitors can observe feeding demonstrations and learn about the crucial role raptors play in Alaska's ecosystems. The center's flight training facility allows recovering birds to regain their strength before release back into the wild.",
-    "info": "",
-    "icon": null,
     "imageURL": null,
-    "id": 33,
-    "categories": ["nature"],
-    "url": "https://www.alaskaraptorcenter.org/"
+    "description": null,
+    "info": null,
+    "url": "https://www.alaskaraptor.org",
+    "categories": [
+      "nature",
+      "wildlife",
+      "education"
+    ]
   },
   {
+    "id": "sitka_sitka_sound_science_center",
+    "name": "Sitka Sound Science Center",
+    "lat": 57.0497528,
+    "lon": -135.3235435,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://sitkasoundsciencecenter.org",
+    "categories": [
+      "education",
+      "nature",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "sitka_sitkas_hidden_wonders",
+    "name": "Sitka's Hidden Wonders",
+    "lat": 57.0498728,
+    "lon": -135.3321798,
+    "imageURL": null,
+    "description": "This 40-minute large-screen documentary reveals Sitka's ecosystem — from humpback whales to microscopic plankton — through footage shot over a decade with local scientists. This is NOT a tourist gimmick; it's genuinely educational and will deepen your understanding of what you're seeing in nature. Created by a local filmmaker, screened daily.",
+    "info": null,
+    "url": "https://www.sitkaswilderness.com",
+    "categories": [
+      "nature",
+      "education",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "sitka_baranof_castle_state_historic_site",
+    "name": "Baranof Castle State Historic Site",
+    "lat": 57.0486854,
+    "lon": -135.3380656,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/baranofcastlehp.htm",
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "sitka_indian_river_trailhead",
+    "name": "Indian River Trailhead",
+    "lat": 57.0554847,
+    "lon": -135.3110985,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://www.fs.usda.gov/recarea/tongass/recreation/recarea/?recid=79044",
+    "categories": [
+      "nature",
+      "hiking",
+      "wildlife"
+    ]
+  },
+  {
+    "id": "sitka_mt_verstovia_trailhead",
+    "name": "Mt. Verstovia Trailhead",
+    "lat": 57.0472816,
+    "lon": -135.2939778,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://www.fs.usda.gov/recarea/tongass/recreation/recarea/?recid=79043",
+    "categories": [
+      "hiking",
+      "nature",
+      "landmark"
+    ]
+  },
+  {
+    "id": "sitka_fortress_of_the_bear",
+    "name": "Fortress of the Bear",
+    "lat": 57.0504266,
+    "lon": -135.2329939,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://www.fortressofthebear.org",
+    "categories": [
+      "wildlife",
+      "nature",
+      "education"
+    ]
+  },
+  {
+    "id": "sitka_old_sitka_state_historic_park",
+    "name": "Old Sitka State Historic Park",
+    "lat": 57.1308324,
+    "lon": -135.3725135,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/oldsitkasp.htm",
+    "categories": [
+      "historic",
+      "landmark",
+      "indigenous"
+    ]
+  },
+  {
+    "id": "sitka_sea_daddy",
     "name": "Sea Daddy",
     "lat": 57.0526059,
     "lon": -135.3438258,
-    "description": "",
-    "info": "",
-    "icon": null,
     "imageURL": null,
-    "id": 34,
-    "categories": ["food"],
-    "url": null
+    "description": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "food",
+      "local"
+    ]
+  },
+  {
+    "id": "sitka_goddard_hot_springs",
+    "name": "Goddard Hot Springs",
+    "lat": 56.8355182,
+    "lon": -135.376373,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": "https://dnr.alaska.gov/parks/aspunits/southeast/goddardhsp.htm",
+    "categories": [
+      "nature",
+      "wellness",
+      "landmark"
+    ]
+  },
+  {
+    "id": "sitka_baranof_warm_springs",
+    "name": "Baranof Warm Springs",
+    "lat": 57.0867111,
+    "lon": -134.8408253,
+    "imageURL": null,
+    "description": "A tiny Southeast Alaska community tucked between glacier-carved peaks and the sea. The hot springs sit beside a roaring waterfall with soaking tubs overlooking alpine granite and forest. Accessible only by boat or floatplane — mist, mountains, steaming water, and total quiet.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "wellness",
+      "hiking"
+    ]
   }
 ]
