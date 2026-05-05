@@ -67,7 +67,7 @@
     "lat": 57.052333,
     "lon": -135.3160504,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://www.alaskaraptor.org",
     "categories": [
@@ -82,7 +82,7 @@
     "lat": 57.0497528,
     "lon": -135.3235435,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://sitkasoundsciencecenter.org",
     "categories": [
@@ -112,7 +112,7 @@
     "lat": 57.0486854,
     "lon": -135.3380656,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://dnr.alaska.gov/parks/aspunits/southeast/baranofcastlehp.htm",
     "categories": [
@@ -126,7 +126,7 @@
     "lat": 57.0554847,
     "lon": -135.3110985,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://www.fs.usda.gov/recarea/tongass/recreation/recarea/?recid=79044",
     "categories": [
@@ -141,7 +141,7 @@
     "lat": 57.0472816,
     "lon": -135.2939778,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://www.fs.usda.gov/recarea/tongass/recreation/recarea/?recid=79043",
     "categories": [
@@ -156,7 +156,7 @@
     "lat": 57.0504266,
     "lon": -135.2329939,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://www.fortressofthebear.org",
     "categories": [
@@ -171,7 +171,7 @@
     "lat": 57.1308324,
     "lon": -135.3725135,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://dnr.alaska.gov/parks/aspunits/southeast/oldsitkasp.htm",
     "categories": [
@@ -186,7 +186,7 @@
     "lat": 57.0526059,
     "lon": -135.3438258,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": null,
     "categories": [
@@ -200,7 +200,7 @@
     "lat": 56.8355182,
     "lon": -135.376373,
     "imageURL": null,
-    "description": null,
+    "description": "",
     "info": null,
     "url": "https://dnr.alaska.gov/parks/aspunits/southeast/goddardhsp.htm",
     "categories": [
