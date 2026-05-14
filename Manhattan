@@ -10960,17 +10960,6 @@
     ]
   },
   {
-    "id": "manhattan_alexander_and_bonin",
-    "name": "Alexander and Bonin",
-    "lat": 40.723107,
-    "lon": -74.002198,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
     "id": "manhattan_bortolami",
     "name": "Bortolami",
     "lat": 40.719151,
