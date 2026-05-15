@@ -10971,28 +10971,6 @@
     "categories": null
   },
   {
-    "id": "manhattan_best_made_company",
-    "name": "Best Made Company",
-    "lat": 40.718818,
-    "lon": -74.004544,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
-    "id": "manhattan_let_there_be_neon_inc",
-    "name": "Let There Be Neon Inc",
-    "lat": 40.718767,
-    "lon": -74.004469,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
     "id": "manhattan_roxy_cinema_new_york",
     "name": "Roxy Cinema New York",
     "lat": 40.719408,
