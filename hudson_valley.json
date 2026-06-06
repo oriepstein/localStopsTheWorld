@@ -1,1971 +1,2839 @@
 [
   {
+    "id": "hudson_valley_glynwood",
     "name": "Glynwood",
     "lat": 41.453639,
     "lon": -73.867494,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "food"],
-    "url": "https://www.glynwood.org/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_stonecrop_gardens",
     "name": "Stonecrop Gardens",
     "lat": 41.440627,
     "lon": -73.868174,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "A serious horticultural destination rather than a casual day-trip garden. Eight acres of varied garden rooms — woodland, cliff garden, English-style walled garden, water garden — all maintained to an exceptionally high standard. It rewards visitors who actually know plants, but it's beautiful even if you don't. Open limited days, so check ahead.",
     "info": null,
-    "categories": ["nature", "art"],
-    "url": "https://www.stonecrop.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_pollepel_island",
     "name": "Pollepel Island",
     "lat": 41.4551278,
     "lon": -73.9890837,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "nature"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_taconic_outdoor_education_center",
     "name": "Taconic Outdoor Education Center",
     "lat": 41.4227618,
     "lon": -73.8790386,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/83/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_clarence_fahnestock_state_park",
     "name": "Clarence Fahnestock State Park",
     "lat": 41.462791,
     "lon": -73.8247691,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/133/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_chuang_yen_monastery",
     "name": "Chuang Yen Monastery",
     "lat": 41.4851972,
     "lon": -73.7940243,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The largest Buddha statue in the Western Hemisphere sits inside the Hall of Ten Thousand Buddhas here, and that alone makes it unusual. The grounds are peaceful and genuinely beautiful, and the complex welcomes visitors respectfully. It's an unexpected and moving place — a serious piece of Asian-American cultural and religious history tucked into Carmel, New York.",
     "info": null,
-    "categories": ["religious"],
-    "url": "https://www.baus.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_gomez_mill_house",
     "name": "Gomez Mill House",
     "lat": 41.586566,
     "lon": -73.981682,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The oldest surviving Jewish residence in North America, a 1714 trading post on the Wallkill River, is a remarkable survival. Small, unpretentious, and historically significant in a way that's easy to underestimate. A thoughtful, unhurried stop for anyone interested in early American or American Jewish history.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.gomezmillhouse.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_locust_grove_estate",
     "name": "Locust Grove Estate",
     "lat": 41.672735,
     "lon": -73.929373,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The former home of Samuel Morse (of the code) in Poughkeepsie is a lovely Italianate villa set on 150 acres overlooking the Hudson. The collection of Morse's personal effects and his art — he was a serious painter before he became an inventor — is genuinely interesting. Often overlooked in favor of grander estates to the south, but more intimate and personal.",
     "info": null,
-    "categories": ["historic", "museum", "nature"],
-    "url": "https://www.lgny.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_walkway_over_the_hudson_state_historic_park",
     "name": "Walkway Over the Hudson State Historic Park",
     "lat": 41.7105555,
     "lon": -73.9548606,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "landmark", "recreation"],
-    "url": "https://walkway.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_sprout_creek_farm",
     "name": "Sprout Creek Farm",
     "lat": 41.647733,
     "lon": -73.810363,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "food"],
-    "url": "https://www.sproutcreekfarm.org/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_innisfree_garden",
     "name": "Innisfree Garden",
     "lat": 41.7617937,
     "lon": -73.7489177,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "art"],
-    "url": "https://www.innisfreegarden.org/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_cary_institute_of_ecosystem_studies",
     "name": "Cary Institute of Ecosystem Studies",
     "lat": 41.785189,
     "lon": -73.733878,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "museum"],
-    "url": "https://www.caryinstitute.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_national_purple_heart_hl_honor",
     "name": "National Purple Heart Hl-Honor",
     "lat": 41.4714709,
     "lon": -74.0590528,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.thepurplehearthall.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_knox_headquarters",
     "name": "Knox Headquarters",
     "lat": 41.4551149,
     "lon": -74.0497559,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic"],
-    "url": "https://parks.ny.gov/historic-sites/34/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_dutch_reformed_church",
     "name": "Dutch Reformed Church",
     "lat": 41.5041667,
     "lon": -74.0086111,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious", "historic"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_anthony_s_nose",
     "name": "Anthony's Nose",
     "lat": 41.319538,
     "lon": -73.97764,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_rockefeller_state_park_preserve",
     "name": "Rockefeller State Park Preserve",
     "lat": 41.1079787,
     "lon": -73.8378852,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Beautifully maintained carriage roads through woods and meadows on land once belonging to the Rockefeller family. The pastoral landscape feels deliberately composed — because it largely was, designed with the same aesthetic sensibility as the nearby Kykuit estate. Popular but rarely overcrowded, and the trails along the brook and around Swan Lake are among the most serene walking in Westchester.",
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/129/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_john_jay_homestead",
     "name": "John Jay Homestead",
     "lat": 41.2515668,
     "lon": -73.6601898,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://parks.ny.gov/historic-sites/33/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_howland_cultural_center",
     "name": "Howland Cultural Center",
     "lat": 41.5017498,
     "lon": -73.9648791,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art", "theater"],
-    "url": "https://www.howlandculturalcenter.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_kensico_dam_plaza",
     "name": "Kensico Dam Plaza",
     "lat": 41.0725986,
     "lon": -73.7669075,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "landmark"],
-    "url": "https://parks.westchestergov.com/kensico-dam-plaza"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_reformed_church_the_tarrytowns",
     "name": "Reformed Church-The Tarrytowns",
     "lat": 41.0773803,
     "lon": -73.8574376,
-    "icon": null,
     "imageURL": null,
     "description": "oldest church in NY",
     "info": null,
-    "categories": ["religious", "historic"],
-    "url": "http://www.sleepyhollowchurch.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_jay_heritage_center",
     "name": "Jay Heritage Center",
     "lat": 40.9572986,
     "lon": -73.7060756,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "he ancestral home of the Jay family (including John Jay, first Chief Justice of the U.S.) in Rye is a thoughtful historic site that takes the broader story of early American civic life seriously, including its contradictions. Well-interpreted and rarely crowded. The grounds overlooking the water are pleasant in their own right.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.jayheritagecenter.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_wolf_conservation_center",
     "name": "Wolf Conservation Center",
     "lat": 41.279522,
     "lon": -73.5849679,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Protecting the future of some of the rarest and most misunderstood mammals of North America.",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://nywolf.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_ward_pound_ridge_reservation",
     "name": "Ward Pound Ridge Reservation",
     "lat": 41.2440106,
     "lon": -73.5888575,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Westchester's largest park is a genuinely good piece of forest with miles of trails and the Trailside Nature Museum. It's a local favorite rather than a destination attraction, but it's well worth a half-day if you're in the area and want actual wilderness rather than manicured grounds.",
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.westchestergov.com/ward-pound-ridge-reservation"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_katonah_museum_of_art",
     "name": "Katonah Museum of Art",
     "lat": 41.262727,
     "lon": -73.6732169,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.katonahmuseum.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_mianus_river_gorge_preserve",
     "name": "Mianus River Gorge Preserve",
     "lat": 41.1852784,
     "lon": -73.6223177,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.mianus.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_donald_m_kendall_sculpture_gardens",
     "name": "Donald M. Kendall Sculpture Gardens",
     "lat": 41.03451,
     "lon": -73.6929144,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The corporate headquarters of PepsiCo in Purchase contains one of the great outdoor sculpture collections in the United States, with 45 major works by Rodin, Giacometti, Alexander Calder, Louise Bourgeois, Max Ernst, and others set across 168 acres of gardens designed by Russell Page. Entry is free. It is quietly one of the best things in Westchester County and dramatically under-attended given its quality.",
     "info": null,
-    "categories": ["art", "nature"],
-    "url": "https://www.pepsicosculpturegarden.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_neuberger_museum_of_art",
     "name": "Neuberger Museum of Art",
     "lat": 41.0480531,
     "lon": -73.7029617,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "One of the largest university art museums in the country, at Purchase College, with a strong permanent collection of 20th-century American art anchored by Roy Neuberger's personal collection: significant works by Rothko, Hopper, O'Keeffe, Milton Avery, and Ben Shahn. The building, designed by Philip Johnson, is appropriately severe. Often ignored in favor of Manhattan museums, which is a mistake — the collection is serious and the experience unhurried.",
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.neuberger.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_union_church_of_pocantico_hills",
     "name": "Union Church of Pocantico Hills",
     "lat": 41.095642,
     "lon": -73.832357,
-    "icon": null,
     "imageURL": null,
-    "description": "matisse and chagall windows - This tiny church near Sleepy Hollow contains Henri Matisse's last work, a rose window, and nine windows by Marc Chagall.",
+    "description": "matisse & chagall windows - This tiny church near Sleepy Hollow contains Henri Matisse's last work, a rose window, and nine windows by Marc Chagall.",
     "info": null,
-    "categories": ["religious", "art", "historic"],
-    "url": "https://www.hudsonvalley.org/historic-sites/union-church/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture",
+      "historic"
+    ]
   },
   {
+    "id": "hudson_valley_blue_hill_at_stone_barns",
     "name": "Blue Hill At Stone Barns",
     "lat": 41.1040104,
     "lon": -73.8289536,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["food"],
-    "url": "https://www.bluehillfarm.com/food/blue-hill-at-stone-barns"
+    "url": null,
+    "categories": [
+      "food"
+    ]
   },
   {
+    "id": "hudson_valley_edward_hopper_house_art_center",
     "name": "Edward Hopper House Art Center",
     "lat": 41.09328,
     "lon": -73.91797,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art", "historic"],
-    "url": "https://www.edwardhopperhouse.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_kykuit_the_rockefeller_estate",
     "name": "Kykuit, the Rockefeller Estate",
     "lat": 41.0878885,
     "lon": -73.8627488,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "A genuine must-visit and one of the great country houses of America. The six-story stone mansion sits on a hill above the Hudson with views that explain precisely why four generations of Rockefellers never left. But the house is almost secondary to what's outside: Nelson Rockefeller filled the terraced gardens with an extraordinary collection of 20th-century sculpture — Picasso, Calder, Brancusi, Giacometti, Henry Moore — arranged as casually as garden ornaments. The underground art galleries beneath the coach barn contain serious works by de Kooning, Warhol, and Léger. Tours are run through Historic Hudson Valley and book up well in advance; plan accordingly. This is one of the best single sites in the entire Hudson Valley.",
     "info": null,
-    "categories": ["historic", "museum", "art"],
-    "url": "https://www.hudsonvalley.org/historic-sites/kykuit/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hook_mountain_state_park",
     "name": "Hook Mountain State Park",
     "lat": 41.12789,
     "lon": -73.9123248,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/145/details.aspx"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_teatown_lake_reservation",
     "name": "Teatown Lake Reservation",
     "lat": 41.211256,
     "lon": -73.826881,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.teatown.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_wildflower_island",
     "name": "Wildflower Island",
     "lat": 41.2122211,
     "lon": -73.8291124,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_van_cortlandt_manor",
     "name": "Van Cortlandt Manor",
     "lat": 41.1916537,
     "lon": -73.8765067,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "A beautifully preserved 18th-century Hudson Valley manor house in Croton-on-Hudson, with a remarkable long stone walkway, period gardens, and good interpretive programming about Hudson Valley Dutch-English colonial life. Historic Hudson Valley runs the site attentively. Less spectacular than Kykuit but more intimate and historically grounded — a satisfying contrast if you're doing both.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.hudsonvalley.org/historic-sites/van-cortlandt-manor/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_new_croton_dam",
     "name": "New Croton Dam",
     "lat": 41.2264833,
     "lon": -73.8554137,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["landmark", "historic"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_croton_gorge_park",
     "name": "Croton Gorge Park",
     "lat": 41.225969,
     "lon": -73.8573437,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature"],
-    "url": "https://parks.westchestergov.com/croton-gorge-park"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_washington_irving_s_sunnyside",
     "name": "Washington Irving's Sunnyside",
     "lat": 41.047827,
     "lon": -73.8687041,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Irving's whimsical, much-modified cottage on the Hudson in Tarrytown is a charming and well-interpreted historic house that captures the personality of its owner better than most literary houses manage. The man who invented Sleepy Hollow and Rip Van Winkle lived here for decades, adding Dutch stepped gables, a Spanish tower, and wisteria until the house looked, as he put it, like a little rookery. The grounds running down to the river are lovely. Worth the visit even for non-literary tourists.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.hudsonvalley.org/historic-sites/washington-irvings-sunnyside/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_constitution_marsh_audubon_center_and_sanctuary",
     "name": "Constitution Marsh Audubon Center and Sanctuary",
     "lat": 41.402064,
     "lon": -73.938424,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.audubon.org/get-outside/audubons-constitution-marsh"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_washington_s_headquarters_state_historic_site",
     "name": "Washington's Headquarters State Historic Site",
     "lat": 41.4977159,
     "lon": -74.0099251,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://parks.ny.gov/historic-sites/17/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_staatsburgh_state_historic_site",
     "name": "Staatsburgh State Historic Site",
     "lat": 41.8566447,
     "lon": -73.9299229,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The Mills Mansion, as it's locally known, is a Beaux-Arts colossus: 79 rooms, designed by McKim, Mead & White in 1895 for Ogden and Ruth Livingston Mills, stuffed with Flemish tapestries, Louis XV furniture, and gilded excess on a scale that's almost comic. It's the Vanderbilt mansion's less-visited neighbor and arguably more interesting for it — Staatsburgh shows the Gilded Age in full, unapologetic, maximalist flower. Frequently overlooked by visitors who don't know it exists. Correct that.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://parks.ny.gov/historic-sites/29/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_richard_b_fisher_center_for_the_performing_arts",
     "name": "Richard B. Fisher Center for the Performing Arts",
     "lat": 42.0314381,
     "lon": -73.9026203,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["theater", "music"],
-    "url": "https://fishercenter.bard.edu/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_hessel_museum_of_art",
     "name": "Hessel Museum of Art",
     "lat": 42.0202817,
     "lon": -73.9141883,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.bard.edu/ccs/museum/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_blithewood",
     "name": "Blithewood",
     "lat": 42.0208155,
     "lon": -73.9170059,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "nature"],
-    "url": "https://www.bard.edu/blithewood/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_montgomery_place_historic_estate",
     "name": "Montgomery Place Historic Estate",
     "lat": 42.0145766,
     "lon": -73.9189633,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "nature"],
-    "url": "https://www.hudsonvalley.org/historic-sites/montgomery-place/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_olafur_eliasson_the_parliament_of_reality",
     "name": "Olafur Eliasson: The Parliament of Reality",
     "lat": 42.0294759,
     "lon": -73.9025617,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "A journey to a hand-crafted island involves a trip across this lattice bridge.",
     "info": null,
-    "categories": ["art"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_tivoli_bays_wildlife_management_area",
     "name": "Tivoli Bays Wildlife Management Area",
     "lat": 42.041899,
     "lon": -73.9209079,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.dec.ny.gov/outdoor/24426.html"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_omega_institute_for_holistic_studies",
     "name": "Omega Institute for Holistic Studies",
     "lat": 41.885514,
     "lon": -73.819928,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["recreation"],
-    "url": "https://www.eomega.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_opus_40",
     "name": "Opus 40",
     "lat": 42.050597,
     "lon": -74.031778,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "One man's swirling six-acre monument of stone.",
     "info": null,
-    "categories": ["art", "landmark"],
-    "url": "https://www.opus40.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_mystery_spot_antiques",
     "name": "Mystery Spot Antiques",
     "lat": 42.0832153,
     "lon": -74.3133595,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["shopping", "quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "hudson_valley_fabulous_furniture",
     "name": "Fabulous Furniture",
     "lat": 41.9947451,
     "lon": -74.2636222,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["shopping"],
-    "url": null
+    "url": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "hudson_valley_taconic_state_park",
     "name": "Taconic State Park",
     "lat": 42.1220502,
     "lon": -73.5153643,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/83/details.aspx"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_beebe_hill_state_forest",
     "name": "Beebe Hill State Forest",
     "lat": 42.335364,
     "lon": -73.4745571,
-    "icon": null,
     "imageURL": null,
     "description": "nice views from fire tower",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.dec.ny.gov/outdoor/7825.html"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_greenville_drive_in",
     "name": "Greenville Drive In",
     "lat": 42.3991925,
     "lon": -74.0271781,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["cinema"],
-    "url": "https://www.greenvilledrivein.com/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_overlook_mountain_trailhead",
     "name": "Overlook Mountain Trailhead",
     "lat": 42.0711516,
     "lon": -74.1225886,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Overlook Mountain House Ruins<br>A once grand hotel is being retaken by the wilderness it once capitalized on.",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_zen_mountain_monastery",
     "name": "Zen Mountain Monastery",
     "lat": 42.048224,
     "lon": -74.277209,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious"],
-    "url": "https://zmm.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_kaleidostore",
     "name": "Kaleidostore",
     "lat": 42.049797,
     "lon": -74.2871618,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "To see a grain silo and think “that should be a giant kaleidoscope,” you need to have an open mind. At the historic Riseley Flat Farms in Mount Tremper, New York, they are there to help you open it! In a silo attached to a barn from the 1860s, award-winning artist Charles Karadimos built the Emerson Kaleidoscope, with shows created and designed by psychedelic art pioneer Isaac Abrams and his son, computer artist Raphael Abrams. Finished in 1996, it has been officially declared the world’s largest kaleidoscope, at a towering 60 feet tall. <br><br>Visitors walk through the Shops At Emerson to enter the kaleidoscope. There, they lay on slanted, padded boards, and look up at the fractal images while listening to bespoke music commissioned for each show. The original shows still play, and a new show was commissioned in 2016 to celebrate the kaleidoscope’s 20th anniversary. Outside of the show, guests can learn about the history of kaleidoscopes and more about how they work.<br><br>You can take some magic home with you and purchase a kaleidoscope in the gift shop. They’re more elegant than you might remember from your childhood – some of the scopes are made of marble, brass, or veneer wood, and all are works of art.",
     "info": null,
-    "categories": ["shopping"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_karma_triyana_dharmachakra",
     "name": "Karma Triyana Dharmachakra",
     "lat": 42.070934,
     "lon": -74.1237052,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious"],
-    "url": "https://www.kagyu.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_little_deep",
     "name": "Little Deep",
     "lat": 42.0383066,
     "lon": -74.0874268,
-    "icon": null,
     "imageURL": null,
     "description": "swimming hole",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_lyonsville_sugarhouse",
     "name": "Lyonsville Sugarhouse",
     "lat": 41.8576,
     "lon": -74.2161,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["food"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_john_burroughs_slabsides",
     "name": "John Burroughs Slabsides",
     "lat": 41.797567,
     "lon": -73.973114,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The rustic think-space of famed naturalist John Burroughs stands exactly as he left it. Slabsides is part of the the John Burroughs Nature Sanctuary, about 90 miles north of Manhattan. The park is open year-round, and there are trails to explore the woods from dawn to dusk. There is no admission fee, but donations are always welcome. To get to the cabin a bike (in good weather) or car is recommended, as well as good hiking shoes (some of the trails can be rough in places). It is open for public tours only occasionally, in the spring and in the fall. You can also try to arrange a special or group tour by calling the John Burroughs Association at (845) 384-6320. To get to the cabin and see the outside (and steal a peek into the windows), contact the Association for the best directions for the time of year you are visiting.",
     "info": null,
-    "categories": ["historic", "nature"],
-    "url": "https://www.johnburroughsassociation.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_vanderbilt_mansion_national_historic_site",
     "name": "Vanderbilt Mansion National Historic Site",
     "lat": 41.7963461,
     "lon": -73.9423869,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Built by of one of the first families of wealth in America. Designed by one of the nation's preeminent architects. The Vanderbilt Mansion is a home built expressly for the aristocratic lifestyle.",
     "info": null,
-    "categories": ["historic", "museum", "nps"],
-    "url": "https://www.nps.gov/vama/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_franklin_d_roosevelt_presidential_library_and_museum",
     "name": "Franklin D. Roosevelt Presidential Library and Museum",
     "lat": 41.7686956,
     "lon": -73.9340591,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The first presidential library in the United States — and still one of the finest — the FDR Library sits on the grounds of Springwood, the Roosevelt family estate, and tells the story of the most consequential American presidency of the 20th century with depth and care. The main museum was completely renovated in 2013 and uses a compelling mix of original artefacts, film, and interactive displays to cover the New Deal, World War II, and the remarkable partnership between Franklin and Eleanor Roosevelt. FDR himself helped design the building and is buried with Eleanor in the rose garden on the grounds. The house tour (Springwood), the library, and Eleanor's cottage at Val-Kill (see below) form a natural full-day circuit that is genuinely one of the best Presidential historic site experiences in the country — more intimate and layered than most. Book tickets in advance for peak season.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.fdrlibrary.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_eleanor_roosevelt_center_val_kill",
     "name": "Eleanor Roosevelt Center-Val-Kill",
     "lat": 41.7631389,
     "lon": -73.8990976,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Only two miles from Springwood and too often treated as an afterthought, Val-Kill was Eleanor Roosevelt's personal retreat and, after FDR's death, her permanent home for the last seventeen years of her life. It tells a story quite different from the Presidential Library — not of power and wartime leadership, but of Eleanor's extraordinary independent life as a diplomat, activist, and writer after her husband's death. The setting, reached by a wooded path, is modest and deeply personal: two small stone cottages, a swimming pool, furniture she chose herself. Eleanor received presidents, civil rights leaders, and foreign dignitaries here. The rangers are unusually knowledgeable, and the contrast with the grand Vanderbilt Mansion nearby is precisely the point. One of the most moving sites in the Hudson Valley",
     "info": null,
-    "categories": ["historic", "museum", "nps"],
-    "url": "https://www.nps.gov/elro/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hyde_park_drive_in_theatre",
     "name": "Hyde Park Drive In Theatre",
     "lat": 41.772794,
     "lon": -73.929223,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["cinema"],
-    "url": "https://hydeparkdrivein.com/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_the_culinary_institute_of_america_cia",
     "name": "The Culinary Institute of America (CIA)",
     "lat": 41.745685,
     "lon": -73.933346,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["food"],
-    "url": "https://www.ciachef.edu/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_old_croton_trailway_state_park",
     "name": "Old Croton Trailway State Park",
     "lat": 41.0117137,
     "lon": -73.8768109,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "This once-grand marvel of engineering is now 41 miles of scenic hiking trail.",
     "info": null,
-    "categories": ["park", "recreation"],
-    "url": "https://parks.ny.gov/parks/121/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_untermyer_park_and_gardens",
     "name": "Untermyer Park and Gardens",
     "lat": 40.9659926,
     "lon": -73.8859748,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "America's greatest forgotten garden and the former stomping grounds of Son of Sam.",
     "info": null,
-    "categories": ["park", "nature", "art"],
-    "url": "https://untermyergardens.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hudson_river_museum",
     "name": "Hudson River Museum",
     "lat": 40.954123,
     "lon": -73.896349,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.hrm.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_groundwork_hudson_valley_science_barge",
     "name": "Groundwork Hudson Valley Science Barge",
     "lat": 40.9361213,
     "lon": -73.9040637,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "quirky"],
-    "url": "https://www.groundworkhv.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hartsdale_pet_cemetery_hartsdale_crematory",
     "name": "Hartsdale Pet Cemetery & Hartsdale Crematory",
     "lat": 41.021627,
     "lon": -73.79781,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The first pet cemetery in the United States.",
     "info": null,
-    "categories": ["quirky", "historic"],
-    "url": "https://www.hartsdalesemeteryhp.com/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_glen_island_park",
     "name": "Glen Island Park",
     "lat": 40.8852,
     "lon": -73.7838,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "recreation"],
-    "url": "https://parks.westchestergov.com/glen-island-park"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_saint_paul_s_church_national_historic_site",
     "name": "Saint Paul's Church National Historic Site",
     "lat": 40.893383,
     "lon": -73.82577,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "One of the most historically significant and least-visited National Park Service sites in the New York area. Construction was begun in 1763 and the church served throughout the Revolutionary War as a hospital, supply depot, and barracks for both the British and American armies. The church's bell tower contains a bell cast in 1758 at the same Whitechapel Bell Foundry in London as the Liberty Bell; local legend holds that George Washington ordered parishioners to bury the bell to prevent the British from melting it for ammunition. The adjacent cemetery contains legible stones from 1704, and the church interior looks much as it did in the 18th century, with its high box pews intact. The site was also the scene of the landmark Election of 1733, which raised unprecedented issues of freedom of religion and the press — a precursor to the First Amendment. The rangers are excellent, and Saturday afternoon programmes add considerable depth. The surrounding neighbourhood is not distinguished, and visiting requires a car, but the site itself is wonderful",
     "info": null,
-    "categories": ["religious", "historic", "nps"],
-    "url": "https://www.nps.gov/sapa/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_lyndhurst_mansion",
     "name": "Lyndhurst Mansion",
     "lat": 41.054009,
     "lon": -73.8673462,
-    "icon": null,
     "imageURL": null,
     "description": "One of the earliest bowling lanes in the U.S. doubled as a sewing school during a time when women had little job opportunity.",
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://lyndhurst.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_sleepy_hollow_cemetery",
     "name": "Sleepy Hollow Cemetery",
     "lat": 41.097027,
     "lon": -73.861663,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "landmark"],
-    "url": "https://www.sleepyhollowcemetery.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_philipsburg_manor",
     "name": "Philipsburg Manor",
     "lat": 41.0879787,
     "lon": -73.8626311,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.hudsonvalley.org/historic-sites/philipsburg-manor/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hudson_valley_center_for_contemporary_art",
     "name": "Hudson Valley Center for Contemporary Art",
     "lat": 41.293297,
     "lon": -73.906759,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.hvcca.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_fort_montgomery",
     "name": "Fort Montgomery",
     "lat": 41.323883,
     "lon": -73.987363,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "park"],
-    "url": "https://parks.ny.gov/historic-sites/16/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_manitoga",
     "name": "Manitoga",
     "lat": 41.3484996,
     "lon": -73.9537591,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "art", "historic"],
-    "url": "https://www.visitmanitoga.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_mohonk_preserve_visitors_center",
     "name": "Mohonk Preserve Visitors Center",
     "lat": 41.7347935,
     "lon": -74.187006,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.mohonkpreserve.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_minnewaska_state_park_preserve",
     "name": "Minnewaska State Park Preserve",
     "lat": 41.7350279,
     "lon": -74.2391091,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/127/details.aspx"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_rainbow_s_end_farm",
     "name": "Rainbow's End Farm",
     "lat": 41.6240098,
     "lon": -73.5848671,
-    "icon": null,
     "imageURL": null,
     "description": "Butterfly farm",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_crown_maple",
     "name": "Crown Maple",
     "lat": 41.6999165,
     "lon": -73.6290606,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The second largest maple syrup producer in the U.S. runs a high-tech operation.",
     "info": null,
-    "categories": ["food"],
-    "url": "https://crownmaple.com/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_dover_stone_church",
     "name": "Dover Stone Church",
     "lat": 41.7396235,
     "lon": -73.581457,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "landmark"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_stone_church",
     "name": "Stone Church",
     "lat": 41.7390689,
     "lon": -73.5868174,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "landmark"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_wilderstein_historic_site",
     "name": "Wilderstein Historic Site",
     "lat": 41.894036,
     "lon": -73.942136,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.wilderstein.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_saugerties_lighthouse",
     "name": "Saugerties Lighthouse",
     "lat": 42.0719942,
     "lon": -73.9298129,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "You’ll cross the impressive Rip Van Winkle Bridge and then follow the Hudson River south to your next destination, the Saugerties Lighthouse, a landmark that is part of the river’s storied shipping history.<br><br>The original lighthouse was constructed in 1835, at a time when Saugerties was a major port and when lighthouse keeping involved a lot of labor and whale oil. After the original lighthouse burned down, the current Saugerties Lighthouse was constructed in 1869: a 46-foot tall tower attached to a red brick building that originally served at the keeper’s quarters. Nowadays, the lighthouse is fully automated, and a great pit stop.<br><br>Visitors can park at the Ruth Reynolds Glunt Nature Preserve, a 17-acre parcel protecting woods and tidal flats. A gentle, half-mile trail to the lighthouse passes tidal pools, maples, wildflowers, and willow trees. Bird watching is especially exciting here, as the lighthouse peninsula provides habitat for bald eagles, geese, and great blue herons. Once at the lighthouse, visitors can fish, and there’s even a picnic area built on the stone remnants of the man-made island where the original lighthouse stood.<br><br>The trail is open daily from sunrise to sunset. Visitors should wear sturdy footwear and consult a tide table before their trip, as portions of the Lighthouse Trail are mildly flooded before and after high tide.Tours of the lighthouse interior, including a one-room Museum, are offered on a schedule during the summer and by appointment the rest of the year. If you enjoy your visit and want to stay longer, the keeper’s quarters are now a quaint bed and breakfast.",
     "info": null,
-    "categories": ["historic", "landmark"],
-    "url": "https://www.saugertieslighthouse.com/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_thomas_cole_national_historic_site",
     "name": "Thomas Cole National Historic Site",
     "lat": 42.2257737,
     "lon": -73.8614998,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum", "art"],
-    "url": "https://www.thomascole.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_martin_van_buren_national_historic_site",
     "name": "Martin Van Buren National Historic Site",
     "lat": 42.3697825,
     "lon": -73.7041742,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum", "nps"],
-    "url": "https://www.nps.gov/mava/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_harvest_spirits_llc",
     "name": "Harvest Spirits LLC",
     "lat": 42.439405,
     "lon": -73.686054,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["drinking", "food"],
-    "url": "https://www.harvestspirits.com/"
+    "url": null,
+    "categories": [
+      "food"
+    ]
   },
   {
+    "id": "hudson_valley_omi_international_arts_center",
     "name": "Omi International Arts Center",
     "lat": 42.3311718,
     "lon": -73.6724681,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://www.artomi.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_kinderhook_farm",
     "name": "Kinderhook Farm",
     "lat": 42.354167,
     "lon": -73.648052,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "food"],
-    "url": "https://www.kinderhookfarm.com/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_won_dharma_center",
     "name": "Won Dharma Center",
     "lat": 42.2202338,
     "lon": -73.6967851,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious"],
-    "url": "https://www.wondharma.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_olana_state_historic_site",
     "name": "Olana State Historic Site",
     "lat": 42.2171454,
     "lon": -73.8292848,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Frederic Church’s Persian-inspired hilltop home is both an artwork and a viewpoint over the Hudson River and Taconic Mountains. The house, landscape, and views were carefully composed to function as a single, immersive aesthetic experience.",
     "info": null,
-    "categories": ["historic", "museum", "art"],
-    "url": "https://olana.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_ferncliff_fire_tower",
     "name": "Ferncliff Fire Tower",
     "lat": 41.9565514,
     "lon": -73.9269233,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_poets_walk",
     "name": "Poets Walk",
     "lat": 41.9818514,
     "lon": -73.9183391,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation", "art"],
-    "url": "https://www.scenichudson.org/parks/poetswalk"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_wethersfield_farm",
     "name": "Wethersfield Farm",
     "lat": 41.8856751,
     "lon": -73.6298903,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "food"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_shawangunk_grasslands_national_wildlife_refuge",
     "name": "Shawangunk Grasslands National Wildlife Refuge",
     "lat": 41.6378065,
     "lon": -74.209128,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.fws.gov/refuge/shawangunk-grasslands"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_drayton_grant_park_at_burger_hill",
     "name": "Drayton Grant Park at Burger Hill",
     "lat": 41.9215794,
     "lon": -73.87572,
-    "icon": null,
     "imageURL": null,
     "description": "short hike to a great view; popular sledding site",
     "info": null,
-    "categories": ["park", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_storm_king_art_center",
     "name": "Storm King Art Center",
     "lat": 41.425063,
     "lon": -74.059384,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art", "nature"],
-    "url": "https://stormking.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_the_shops_at_jones_farm",
     "name": "The Shops at Jones Farm",
     "lat": 41.422776,
     "lon": -74.044279,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["shopping"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_bannerman_castle",
     "name": "Bannerman Castle",
     "lat": 41.455346,
     "lon": -73.988746,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "landmark"],
-    "url": "https://www.bannermancastle.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_boscobel_house_and_gardens",
     "name": "Boscobel House and Gardens",
     "lat": 41.411731,
     "lon": -73.939243,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum", "nature"],
-    "url": "https://www.boscobel.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_the_plain",
     "name": "The Plain",
     "lat": 41.3928814,
     "lon": -73.9573587,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_cadet_chapel",
     "name": "Cadet Chapel",
     "lat": 41.3902697,
     "lon": -73.9600188,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious", "historic"],
-    "url": "https://www.westpoint.edu/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_garrison_institute",
     "name": "Garrison Institute",
     "lat": 41.3693082,
     "lon": -73.9517955,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious", "recreation"],
-    "url": "https://www.garrisoninstitute.org/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_graymoor_franciscan_sisters_of_the_atonement",
     "name": "Graymoor-Franciscan Sisters of the Atonement",
     "lat": 41.3456658,
     "lon": -73.9255895,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious"],
-    "url": "https://www.atonementfriars.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_pine_meadow_lake",
     "name": "Pine Meadow Lake",
     "lat": 41.1743246,
     "lon": -74.1232619,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_warwick_drive_in_theater",
     "name": "Warwick Drive-In Theater",
     "lat": 41.2346204,
     "lon": -74.3804165,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["cinema"],
-    "url": "https://www.warwickdrivein.com/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_tuthilltown",
     "name": "Tuthilltown",
     "lat": 41.6868644,
     "lon": -74.1752018,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["drinking"],
-    "url": "https://www.tuthilltowndistillery.com/"
+    "url": null,
+    "categories": [
+      "food",
+      "drink"
+    ]
   },
   {
+    "id": "hudson_valley_woodstock_farm_sanctuary",
     "name": "Woodstock Farm Sanctuary",
     "lat": 41.8091924,
     "lon": -74.1679394,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature"],
-    "url": "https://woodstocksanctuary.org/"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_peebles_island_state_park_visitor_center",
     "name": "Peebles Island State Park Visitor Center",
     "lat": 42.7839862,
     "lon": -73.6807028,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature"],
-    "url": "https://parks.ny.gov/parks/111/details.aspx"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_indian_ladder_trail",
     "name": "Indian Ladder Trail",
     "lat": 42.6563037,
     "lon": -74.0178702,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/129/details.aspx"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_lewis_a_swyer_preserve",
     "name": "Lewis A. Swyer Preserve",
     "lat": 42.4179804,
     "lon": -73.7691565,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/lewis-a-swyer-preserve/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_cohotate_preserve",
     "name": "Cohotate Preserve",
     "lat": 42.2540348,
     "lon": -73.8333483,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_black_creek_preserve",
     "name": "Black Creek Preserve",
     "lat": 41.822384,
     "lon": -73.961354,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.scenichudson.org/parks/blackcreekpreserve"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_pawling_nature_reserve",
     "name": "Pawling Nature Reserve",
     "lat": 41.6071917,
     "lon": -73.5581096,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/pawling-nature-reserve/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_hunter_brook_preserve",
     "name": "Hunter Brook Preserve",
     "lat": 41.2694263,
     "lon": -73.8424435,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_circle_museum",
     "name": "Circle Museum",
     "lat": 42.2684518,
     "lon": -73.474924,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_steepletop",
     "name": "Steepletop",
     "lat": 42.3211479,
     "lon": -73.4431954,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.steepletop.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_bethel_woods_center_for_the_arts",
     "name": "Bethel Woods Center for the Arts",
     "lat": 41.6971535,
     "lon": -74.8776143,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["music", "theater"],
-    "url": "https://www.bethelwoodscenter.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_museum_at_bethel_woods",
     "name": "Museum At Bethel Woods",
     "lat": 41.6976931,
     "lon": -74.8807741,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "music"],
-    "url": "https://www.bethelwoodscenter.org/museum/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_rockland_center_for_the_arts",
     "name": "Rockland Center For the Arts",
     "lat": 41.090622,
     "lon": -73.947782,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://www.rocklandartcenter.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_14_riverside_ave",
     "name": "14 Riverside Ave",
     "lat": 41.1800453,
     "lon": -73.9470788,
-    "icon": null,
     "imageURL": null,
     "description": "private residence, but there should be an interesting outdoor exhibit",
     "info": null,
-    "categories": ["art", "quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_newington_cropsey_foundation",
     "name": "Newington Cropsey Foundation",
     "lat": 40.9931007,
     "lon": -73.8817459,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art", "historic"],
-    "url": "https://www.newingtoncropsey.com/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_vassar_college",
     "name": "Vassar College",
     "lat": 41.6867992,
     "lon": -73.8957002,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic"],
-    "url": "https://www.vassar.edu/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_frances_lehman_loeb_art_center",
     "name": "Frances Lehman Loeb Art Center",
     "lat": 41.6860506,
     "lon": -73.8974678,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.vassar.edu/artcenter/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_the_wassaic_project",
     "name": "The Wassaic Project",
     "lat": 41.8056568,
     "lon": -73.5605022,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://wassaicproject.org/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_four_brothers_drive_in",
     "name": "Four Brothers Drive-in",
     "lat": 41.8506721,
     "lon": -73.5579192,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["cinema"],
-    "url": "https://www.4brothersdrivein.com/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_nevis_labs_columbia_university",
     "name": "Nevis Labs Columbia University",
     "lat": 41.0273124,
     "lon": -73.8722527,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["quirky"],
-    "url": "https://www.nevis.columbia.edu/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_armour_stiner_house",
     "name": "Armour-Stiner House",
     "lat": 41.0308215,
     "lon": -73.8704066,
-    "icon": null,
     "imageURL": null,
-    "description": "octagon house - private residence",
+    "description": "\"octagon\" house - private residence? This fancifully decorated Victorian home in New York’s Hudson Valley is the only known fully domed octagonal residence in the United States.",
     "info": null,
-    "categories": ["historic", "quirky"],
-    "url": "https://www.armourstinerhouse.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_irvington_public_library",
     "name": "Irvington Public Library",
     "lat": 41.0394438,
     "lon": -73.8726728,
-    "icon": null,
     "imageURL": null,
     "description": "Tiffany reading room",
     "info": null,
-    "categories": ["bookstore", "art"],
-    "url": "https://www.irvingtonlibrary.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_art_omi",
     "name": "Art Omi",
     "lat": 42.330543,
     "lon": -73.672084,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Your drive north from the Aerodrome will take you through farmland and forests for 30 miles, until you suddenly catch a glimpse of cartoon clouds. Olaf Bruening’s thirty-foot tall steel-and-aluminum sculpture Clouds, greets you as you pull into Art Omi Sculpture & Architecture Park. <br><br>Art Omi (pronounced “oh my”) is a 120-acre outdoor museum, presenting more than 60 rotating works by contemporary artists and architects.Since its inception in 1992, Art Omi has featured more than 2,000 artists from 100 countries. Though guides are available, there are no paths through the park, encouraging visitors to explore the fields, forests, and creeks in whatever way calls to them. You might start by walking up to a marble piece which, from afar, looks like a war memorial but is, on closer view, a chiseled grocery list. If you bring a skateboard and sign a virtual waiver, you’re invited to drop in on Chemi Rosado-Seijo’s sculpture Ceremonial Pearl-Hole (The Ceremonial Bowl). Art Omi’s Benenson Center also houses a 1,500-foot gallery space with indoor exhibitions.No matter where your explorations bring you, you can’t go wrong: Art Omi is a unique opportunity to experience works of art against an upstate NY landscape that inspired art movements for hundreds of years. For visitors who do prefer a guided experience, audio tours are available via an app and curator-led tours are available for a fee, if arranged in advance.<br><br>The Benenson Center is open 9am-5pm or 9am-4pm (depending on the season) and the park is open daily from dawn to dusk. Art Omi is free of charge, though advance registration is required during hours when the center is open. Visitors are encouraged to wear sturdy footwear.",
     "info": null,
-    "categories": ["art"],
-    "url": "https://www.artomi.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_basilica_hudson",
     "name": "Basilica Hudson",
     "lat": 42.251969,
     "lon": -73.7987319,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art", "music"],
-    "url": "https://basilicahudson.org/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_jack_shainman_gallery_the_school",
     "name": "Jack Shainman Gallery: The School",
     "lat": 42.3929896,
     "lon": -73.7013068,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://jackshainman.com/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
   },
   {
+    "id": "hudson_valley_magazzino_italian_art",
     "name": "Magazzino Italian Art",
     "lat": 41.429749,
     "lon": -73.914816,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.magazzino.art/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_wing_s_castle",
     "name": "Wing's Castle",
     "lat": 41.840964,
     "lon": -73.679278,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "quirky"],
-    "url": "https://www.wingscastle.com/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_clermont_state_historic_site",
     "name": "Clermont State Historic Site",
     "lat": 42.0859285,
     "lon": -73.9191692,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://parks.ny.gov/historic-sites/8/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_philipse_manor_hall_state",
     "name": "Philipse Manor Hall State",
     "lat": 40.9356751,
     "lon": -73.8994713,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://parks.ny.gov/historic-sites/21/details.aspx"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_verkeerderkill_falls_trail",
     "name": "Verkeerderkill Falls Trail",
     "lat": 41.6741745,
     "lon": -74.3505338,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_ice_caves",
     "name": "Ice Caves",
     "lat": 41.6722139,
     "lon": -74.3465087,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://icecaves.com/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_arden_point_and_glenclyffe",
     "name": "Arden Point and Glenclyffe",
     "lat": 41.3797904,
     "lon": -73.9469829,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "historic"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_malouf_s_mountain_campground",
     "name": "Malouf's Mountain Campground",
     "lat": 41.5074786,
     "lon": -73.9218347,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_sarah_lawrence_college_center_for_the_urban_river_at_beczak",
     "name": "Sarah Lawrence College Center for the Urban River at Beczak",
     "lat": 40.9381994,
     "lon": -73.9018426,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "museum"],
-    "url": "https://www.sarahlawrence.edu/student-life/slc-community/beczak/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_franny_reese_state_park",
     "name": "Franny Reese State Park",
     "lat": 41.7041395,
     "lon": -73.9565551,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature"],
-    "url": "https://parks.ny.gov/parks/177/details.aspx"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_garner_arts_center",
     "name": "Garner Arts Center",
     "lat": 41.2089024,
     "lon": -73.9899501,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://garnerartscenter.org/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_hickory_dickory_dock",
     "name": "Hickory Dickory Dock",
     "lat": 41.0892712,
     "lon": -73.9184083,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_bull_hill",
     "name": "Bull Hill",
     "lat": 41.4384271,
     "lon": -73.9556941,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_cornish_estate_trail_loop",
     "name": "Cornish Estate Trail Loop",
     "lat": 41.4274913,
     "lon": -73.9656583,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_sam_s_point_trailhead",
     "name": "Sam's Point Trailhead",
     "lat": 41.669963,
     "lon": -74.361649,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "The largest known open fault in the United States is basically a giant natural refrigerator.",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "viewpoint",
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_old_rhinebeck_aerodrome",
     "name": "Old Rhinebeck Aerodrome",
     "lat": 41.9696427,
     "lon": -73.865418,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "This museum of antique aviation located in Red Hook was founded in 1958 with the motto, “It isn’t an airplane if it doesn’t fly.” This motto means that not only does the Aerodrome house one of the largest collections of antique airplanes in the world, it gets them up and flying in thrilling air shows. Weekend events showcase a rotating cast of original and replica airplanes, including the oldest regularly-flying airplane in the Western hemisphere and an authentic replica of the Spirit Of St. Louis. The World War I-themed Sunday show even features pyrotechnics and a tank.<br><br>If you are looking for a thrill, the museum also offers open cockpit biplane rides with dramatic views of the Hudson Valley. The Aerodrome collection is a delight for anyone who loves aviation, and displays the hang gliders that inspired the Wright brothers, as well as old automobiles, motorcycles, and memorabilia spanning the first decades of the 20th century. The entire experience transports you to a time when flying was a source of excitement, instead of “a tortuous experience to dissociate through while getting home for Thanksgiving.”<br><br>Two air shows are presented each Saturday and Sunday, mid-June through mid-October. The Aerodrome museum is open daily May through October.",
     "info": null,
-    "categories": ["museum", "quirky"],
-    "url": "https://oldrhinebeck.org/"
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_brunel_sculpture_garden",
     "name": "Brunel Sculpture Garden",
     "lat": 42.00016,
     "lon": -74.2638714,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art", "nature"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_giant_ledge_trailhead",
     "name": "Giant Ledge Trailhead",
     "lat": 42.0264268,
     "lon": -74.4034468,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_slide_mountain_trailhead_parking_lot",
     "name": "Slide Mountain Trailhead Parking Lot",
     "lat": 42.0080241,
     "lon": -74.428284,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_slide_mountain_forest_house",
     "name": "Slide Mountain Forest House",
     "lat": 42.0555252,
     "lon": -74.4545266,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_le_petit_march",
     "name": "Le Petit Marché",
     "lat": 42.1491441,
     "lon": -74.6469737,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["food", "market"],
-    "url": null
+    "url": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "hudson_valley_bearsville_theater",
     "name": "Bearsville Theater",
     "lat": 42.0398032,
     "lon": -74.1540874,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["theater", "music"],
-    "url": "https://bearsvilletheater.com/"
+    "url": null,
+    "categories": [
+      "music",
+      "arts"
+    ]
   },
   {
+    "id": "hudson_valley_bear_mountain_state_park",
     "name": "Bear Mountain State Park",
     "lat": 41.2846114,
     "lon": -74.0006445,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/13/details.aspx"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_colony",
     "name": "Colony",
     "lat": 42.0424802,
     "lon": -74.1181578,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["food"],
-    "url": "https://www.colonymoodstock.com/"
+    "url": null,
+    "categories": [
+      "music",
+      "arts"
+    ]
   },
   {
+    "id": "hudson_valley_one_grand_books",
     "name": "One Grand Books",
     "lat": 41.6082457,
     "lon": -75.0614097,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["bookstore"],
-    "url": null
+    "url": null,
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "hudson_valley_fort_delaware_museum",
     "name": "Fort Delaware Museum",
     "lat": 41.6144425,
     "lon": -75.0569868,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum"],
-    "url": "https://www.fortdelaware.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_stoppel_point",
     "name": "Stoppel Point",
     "lat": 42.2250879,
     "lon": -74.0651364,
-    "icon": null,
     "imageURL": null,
     "description": "plane crash ruins",
     "info": null,
-    "categories": ["historic", "quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_bad_seed_cider_taproom",
     "name": "Bad Seed Cider Taproom",
     "lat": 41.68544,
     "lon": -73.996643,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["drinking"],
-    "url": "https://badseedcider.com/"
+    "url": null,
+    "categories": [
+      "food",
+      "drink"
+    ]
   },
   {
+    "id": "hudson_valley_widow_jane_mine",
     "name": "Widow Jane Mine",
     "lat": 41.841156,
     "lon": -74.0979461,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "This old cement mine has been used as everything from a mushroom farm to a recording studio.",
     "info": null,
-    "categories": ["historic"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
   },
   {
+    "id": "hudson_valley_upward_brewing_company",
     "name": "Upward Brewing Company",
     "lat": 41.8923416,
     "lon": -74.8318634,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["drinking"],
-    "url": "https://upwardbrewing.com/"
+    "url": null,
+    "categories": [
+      "food",
+      "drink"
+    ]
   },
   {
+    "id": "hudson_valley_st_nektarios_orthodox_monastery",
     "name": "St Nektarios Orthodox Monastery",
     "lat": 41.8726277,
     "lon": -74.9582109,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["religious"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_sterling_forest_state_park",
     "name": "Sterling Forest State Park",
     "lat": 41.1990305,
     "lon": -74.2568942,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/106/details.aspx"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_pelton_pond_fahnestock_state_park",
     "name": "Pelton Pond - Fahnestock State Park",
     "lat": 41.4621529,
     "lon": -73.8283622,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["park", "nature", "recreation"],
-    "url": "https://parks.ny.gov/parks/133/details.aspx"
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_dia_beacon",
     "name": "Dia Beacon",
     "lat": 41.5000753,
     "lon": -73.9825664,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["museum", "art"],
-    "url": "https://www.diaart.org/visit/visit-our-locations-sites/dia-beacon"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_eleanor_roosevelt_national_historic_site",
     "name": "Eleanor Roosevelt National Historic Site",
     "lat": 41.7618313,
     "lon": -73.8992628,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "Visit the home of Eleanor Roosevelt. Here, Franklin and Eleanor entertained friends, the press, activists, and official state visitors in the relaxed atmosphere of Val-Kill. Explore the Roosevelt saga in the homes of Franklin and Eleanor Roosevelt, the exhibits at the nation’s first Presidential Library, and over a thousand acres of gardens and trails.",
     "info": null,
-    "categories": ["historic", "museum", "nps"],
-    "url": "https://www.nps.gov/elro/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_home_of_franklin_d_roosevelt_national_historic_site",
     "name": "Home of Franklin D. Roosevelt National Historic Site",
     "lat": 41.7675539,
     "lon": -73.935295,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "museum", "nps"],
-    "url": "https://www.nps.gov/hofr/"
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_mohonk_preserve_west_trapps_trailhead",
     "name": "Mohonk Preserve West Trapps Trailhead",
     "lat": 41.7361392,
     "lon": -74.2000525,
-    "icon": null,
     "imageURL": null,
     "description": "parking lot fills up early on weekends",
     "info": null,
-    "categories": ["nature", "recreation"],
-    "url": "https://www.mohonkpreserve.org/"
+    "url": null,
+    "categories": [
+      "viewpoint",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_st_cabrini_novitiate",
     "name": "St. Cabrini Novitiate",
     "lat": 41.008626,
     "lon": -73.8790746,
-    "icon": null,
     "imageURL": null,
     "description": "This dilapidated castle-like structure overlooks the Hudson River at one of its widest points and was once home to nuns.",
     "info": null,
-    "categories": ["historic", "quirky"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_mohonk_preserve_testimonial_gateway",
     "name": "Mohonk Preserve Testimonial Gateway",
     "lat": 41.7448319,
     "lon": -74.1184379,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "This stone gatehouse was once the entrance to a historic mountain resort, and it had a cameo in a cheesy cult horror movie.",
     "info": null,
-    "categories": ["historic", "nature"],
-    "url": "https://www.mohonkpreserve.org/"
+    "url": null,
+    "categories": [
+      "viewpoint",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_the_reher_center_for_immigrant_culture_and_history",
     "name": "The Reher Center For Immigrant Culture and History",
     "lat": 41.9201884,
     "lon": -73.9859643,
-    "icon": null,
     "imageURL": null,
-    "description": "Housed in a former kosher bakery, this museum shares intimate oral histories, recipes, artifacts, and photos of immigrant life in Rondout. Occasionally offers guided tours and storytelling about the Reher family's legacy.",
+    "description": "Housed in a former kosher bakery, this museum shares intimate oral histories, recipes, artifacts, and photos of immigrant life in Rondout. Occasionally offers guided tours and storytelling about the Reher family’s legacy.",
     "info": null,
-    "categories": ["museum", "historic"],
-    "url": "https://rehercenter.org/"
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_buck_brook_alpacas",
     "name": "Buck Brook Alpacas",
     "lat": 41.8629431,
     "lon": -74.9760123,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["nature"],
-    "url": null
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
   },
   {
+    "id": "hudson_valley_livingston_manor_covered_bridge",
     "name": "Livingston Manor Covered Bridge",
     "lat": 41.9139104,
     "lon": -74.8310804,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["historic", "landmark"],
-    "url": null
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   },
   {
+    "id": "hudson_valley_catskill_art_space",
     "name": "Catskill Art Space",
     "lat": 41.9008934,
     "lon": -74.8281059,
-    "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": null,
     "info": null,
-    "categories": ["art"],
-    "url": "https://www.catskillartspace.org/"
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
+  },
+  {
+    "id": "hudson_valley_talbott_arding",
+    "name": "Talbott & Arding",
+    "lat": 42.2532367,
+    "lon": -73.7947226,
+    "imageURL": null,
+    "description": "n your way back south, make a pit stop in Hudson at Talbott & Arding, for cheese, provisions, and visions of culinary delight. a store that sells food so luxurious, you will not believe it’s for sale in a town of fewer than 6,000 people.<br><br>Founded in 2014 by cheesemonger Kate Arding and Chef Mona Talbott, Talbott & Arding is a beloved culinary destination in Hudson.The shop sells freshly baked goods, coffees roasted in neighboring Troy, and boxed snacks from hard-to-find brands. If you’re ready for a meal, there’s also a made-to-order sandwich counter. (Uncle Karen’s Hippie Sandwich is the best sandwich this reporter has eaten in her adult life.)<br><br>And of course, you can’t go wrong with the carefully curated selection of artisanal cheeses. The shop generally carries forty to sixty cheeses, from Askbrook to Winnimere, bought from northwest purveyors like Jasper Hill Farm or Sugar House Creamery. Grab a freshly-baked baguette, hand-crafted salumi, and high-end condiments to round out your picnic.<br><br>Talbott & Arding is open Wednesday to Sunday from 9 a.m. to 6 p.m. (prepared foods counter opens at 11am). Street parking is available nearby. There are no tables inside, but there is some outdoor seating.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "id": "hudson_valley_kaaterskill_falls",
+    "name": "Kaaterskill Falls",
+    "lat": 42.1934218,
+    "lon": -74.0631924,
+    "imageURL": null,
+    "description": "Tucked among the Catskill Mountains are the Kaaterskill Falls, an iconic two-tiered, 260-foot tall waterfall surrounded by a gorgeous forest. No road trip through the Hudson Valley is complete without it.<br><br>The landmark has been a favorite with tourists and locals since artists made it famous in the 1800s. Washington Irving described Kaaterskill Falls in his 1819 novel Rip Van Winkle, and the falls became renowned after Thomas Cole painted them in the 1820s. Today, an estimated 200,000 people visit every year.<br><br>Park at the lot on Laurel Hill Road and follow the well-marked trail to a newly constructed viewing platform. From there, you can see the imposing upper falls and the clear pool that sits at the top of the lower falls. Trails spread through the woods, and hikers might chance upon the crumbling foundations of luxury hotels which once served the crowds of tourists who flocked here. A steep set of stairs leads down to the base of the falls, and further through the forest. The terrain is rocky, but the hike is incredibly rewarding.<br><br>Get to the trailhead early if you’re going on a weekend. If you hike down to the falls, be prepared to climb a lot of stairs back up. As soil is loose and surfaces are slippery and uneven, hiking footwear is strongly recommended. And be sure to stay on trail for your own safety.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "nature",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "hudson_valley_mohonk_mountain_house",
+    "name": "Mohonk Mountain House",
+    "lat": 41.7683656,
+    "lon": -74.1559193,
+    "imageURL": null,
+    "description": "Founded in 1869 by the Smiley family, who still own and run it today, the idyllic resort is surrounded by 40,000 acres of forest and overlooks a pristine glacial lake. Five U.S. presidents have stayed there, including Theodore Roosevelt and Bill Clinton.<br><br>The resort is open to visitors who have a restaurant reservation, an appointment at the award-winning spa, or who buy a hiking or sports pass. Endless activities are offered; in the winter, guests might ice skate or cross country ski. The rest of the year, visitors can kayak on Mohonk Lake, explore the gardens and gazebos, or scramble on the Labyrinth and Lemon Squeeze, a narrow cleft in the rocks that emerges on a cliff with dramatic views of the Shawangunk Mountains.<br><br>The views are just as incredible from the restaurants inside the Mountain House -- in fact, the Main Dining Room was named the “Best Restaurant With A View” by Hudson Valley Magazine. Other dining options include a seasonal outdoor space called The Granary, an old-fashioned soda fountain, and a small Chef’s Table 11-course culinary experience with wine pairing. In recent years, Mohonk has started to serve more farm-to-table fare with purely regional, seasonal flavors.<br><br>Resort and dining reservations, spa appointments, and sport and hiking passes can be acquired on the Mohonk Mountain House website.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_stony_point_battlefield_state_historic_site",
+    "name": "Stony Point Battlefield State Historic Site",
+    "lat": 41.2414827,
+    "lon": -73.9728121,
+    "imageURL": null,
+    "description": "A quiet bluff overlooking the Hudson, this Revolutionary War site was the scene of a daring nighttime assault in 1779. Today it’s a peaceful place for walking, river views, and absorbing the strategic importance of the Hudson during the war",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_harriman_state_park",
+    "name": "Harriman State Park",
+    "lat": 41.240357,
+    "lon": -74.097342,
+    "imageURL": null,
+    "description": "New York’s second-largest state park, and one of the most varied landscapes in the Hudson Valley. Harriman contains dozens of lakes, rugged forested hills, sections of the Appalachian Trail, and miles of hiking routes that feel surprisingly remote considering how close the park is to New York City.<br><br>Seven Lakes Drive winds through the park like a scenic ribbon, and in autumn the foliage here can rival anything in New England. For hikers and nature lovers, this is one of the state’s classic outdoor escapes.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_seven_lakes_drive_ny",
+    "name": "Seven Lakes Drive NY",
+    "lat": 41.2283837,
+    "lon": -74.0858467,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_hudson_highlands_state_park",
+    "name": "Hudson Highlands State Park",
+    "lat": 41.4261024,
+    "lon": -73.9654119,
+    "imageURL": null,
+    "description": "A spectacular stretch of steep mountains rising straight from the Hudson River. The park includes Breakneck Ridge, one of the most famous hikes in the Northeast, where scrambles lead to sweeping views over the river valley.<br><br>The Hudson Highlands combine dramatic geology, Revolutionary War history, and some of the most photogenic landscapes in the state. If you want a single park that captures the Hudson Valley’s rugged beauty, this is it.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_west_point_foundry_preserve",
+    "name": "West Point Foundry Preserve",
+    "lat": 41.4149008,
+    "lon": -73.9508971,
+    "imageURL": null,
+    "description": null,
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark",
+      "nature"
+    ]
+  },
+  {
+    "id": "hudson_valley_lite_brite_neon_studio",
+    "name": "Lite Brite Neon Studio",
+    "lat": 41.9312912,
+    "lon": -74.006177,
+    "imageURL": null,
+    "description": "Neon signs that grace the windows of Bergdorf Goodman's and Tiffany & Co. come from this studio in kingston.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_the_four_corners",
+    "name": "The Four Corners",
+    "lat": 41.9336663,
+    "lon": -74.0210328,
+    "imageURL": null,
+    "description": "The only intersection in America where the buildings on all four corners were built pre-Revolutionary War.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_esopus_island",
+    "name": "Esopus Island",
+    "lat": 41.825093,
+    "lon": -73.9476373,
+    "imageURL": null,
+    "description": "An unassuming island in the middle of the Hudson that hosts campers, including Aleister Crowley. accessible by boat",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_fork_in_the_road",
+    "name": "Fork in the Road",
+    "lat": 41.9702892,
+    "lon": -73.8209047,
+    "imageURL": null,
+    "description": "A unique work of art that was created without permission.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
+  },
+  {
+    "id": "hudson_valley_samuel_s_sweet_shop",
+    "name": "Samuel's Sweet Shop",
+    "lat": 41.9268546,
+    "lon": -73.9113576,
+    "imageURL": null,
+    "description": "Paul Rudd's candy shop",
+    "info": null,
+    "url": null,
+    "categories": [
+      "food"
+    ]
+  },
+  {
+    "id": "hudson_valley_first_bloom_corner_store",
+    "name": "First Bloom Corner Store",
+    "lat": 42.3329495,
+    "lon": -74.806137,
+    "imageURL": null,
+    "description": "Alison Roman's store",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_woodstock_school_of_art_inc",
+    "name": "Woodstock School of Art Inc",
+    "lat": 42.0403785,
+    "lon": -74.0940017,
+    "imageURL": null,
+    "description": "A peaceful international sculpture garden in upstate New York.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_dibble_s_quarry",
+    "name": "Dibble's Quarry",
+    "lat": 42.1387625,
+    "lon": -74.1336406,
+    "imageURL": null,
+    "description": "An abandoned 19th century quarry in the middle of the woods, remade by unnamed wanderers into a massive series of rock thrones.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_293_main_st",
+    "name": "293 Main St",
+    "lat": 41.7036514,
+    "lon": -73.9270341,
+    "imageURL": null,
+    "description": "Poughkeepsie Cast Iron Building (and Its Lego Model)<br>A building made mostly of cast iron features a 1:45 scale lego model of its self.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
+  },
+  {
+    "id": "hudson_valley_87_us_44_44_55",
+    "name": "87 US-44 44 55",
+    "lat": 41.7027165,
+    "lon": -73.9450581,
+    "imageURL": null,
+    "description": "Bridge Music<br>This sound-art installation features songs composed using only the Mid-Hudson Bridge as an instrument.There are two listening stations located at each bridge tower on the north-facing pedestrian walkway. The stations are open from dawn to dusk April 1 through October 31. Nearby park radios on either side of the bridge play the music year-round on 95.3FM.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_historic_huguenot_street",
+    "name": "Historic Huguenot Street",
+    "lat": 41.7521653,
+    "lon": -74.0881325,
+    "imageURL": null,
+    "description": "The oldest continuously inhabited street in America.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "arts",
+      "culture"
+    ]
+  },
+  {
+    "id": "hudson_valley_hudson_athens_lighthouse",
+    "name": "Hudson Athens Lighthouse",
+    "lat": 42.2519794,
+    "lon": -73.8086823,
+    "imageURL": null,
+    "description": "A small Second Empire-style building is one of only seven remaining lighthouses on the Hudson River.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_saint_john_the_baptist_ukrainian_catholic_church",
+    "name": "Saint John the Baptist Ukrainian Catholic Church",
+    "lat": 42.240574,
+    "lon": -74.3202255,
+    "imageURL": null,
+    "description": "This stave church nestled in the Catskills was built in the 1960s by a community of Ukrainian immigrants and refugees.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_pratt_rocks",
+    "name": "Pratt Rocks",
+    "lat": 42.3119173,
+    "lon": -74.4228436,
+    "imageURL": null,
+    "description": "Believe It or Not, Ripley once called this chiseled mountainside “New York’s Mount Rushmore”.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_gilboa_museum",
+    "name": "Gilboa Museum",
+    "lat": 42.4003977,
+    "lon": -74.4501126,
+    "imageURL": null,
+    "description": "This Catskills museum preserves stumps from the earliest known fossil forest on Earth.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_john_burroughs_woodchuck_lodge",
+    "name": "John Burroughs Woodchuck Lodge",
+    "lat": 42.296322,
+    "lon": -74.5835611,
+    "imageURL": null,
+    "description": "he Catskills retreat of naturalist writer John Burroughs.Free guided tours of Woodchuck Lodge are given on the first weekend of every month from May to October, Saturday and Sunday from 11:00 am to 3:00 pm. The surrounding land and trails are open to the public, but only for nature study and contemplation.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_villa_sposa",
+    "name": "Villa Sposa",
+    "lat": 42.2298048,
+    "lon": -74.5906311,
+    "imageURL": null,
+    "description": "The former home of a disgraced local priest now hosts a mysterious secret supper club.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_book_village_inn_bar",
+    "name": "Book Village Inn & Bar",
+    "lat": 42.373506,
+    "lon": -74.667425,
+    "imageURL": null,
+    "description": "This small Catskills village has six independent bookstores and more bookshops than restaurants.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_kiryas_joel",
+    "name": "Kiryas Joel",
+    "lat": 41.3420381,
+    "lon": -74.167924,
+    "imageURL": null,
+    "description": "Adherence to strict Jewish laws is required to enter this ultra-conservative New York village.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_dover_stone_church_cave",
+    "name": "Dover Stone Church Cave",
+    "lat": 41.7380748,
+    "lon": -73.5889711,
+    "imageURL": null,
+    "description": "This natural rock \"church\" might not be a proper chapel but that doesn't mean it's not beautiful.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
+  },
+  {
+    "id": "hudson_valley_lenoir_preserve",
+    "name": "Lenoir Preserve",
+    "lat": 40.9767921,
+    "lon": -73.8825901,
+    "imageURL": null,
+    "description": "A beautiful, historic location open to the public.",
+    "info": null,
+    "url": null,
+    "categories": [
+      "landmark"
+    ]
   }
 ]
