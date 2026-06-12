@@ -1,1399 +1,1773 @@
 [
   {
+    "id": "queens_30_30_47th_ave",
     "name": "30-30 47th Ave",
     "lat": 40.7423837,
     "lon": -73.9364608,
-    "icon": null,
     "imageURL": null,
     "description": "Nondescript elevator doors open to reveal a stunning, surreal world. The erstwhile Macy's warehouse building once catered to the art scene, and the elevator is what's left of what used to be an entire building decorated in tart installments of the same surreal style. The current owners have remodeled the building to operate as a more typically conservative-looking office space, but the wonderfully bizarre elevator remains.",
     "info": null,
     "url": null,
-    "categories": ["art", "quirky"]
+    "categories": [
+      "art",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_84_07_broadway",
     "name": "84 07 Broadway",
     "lat": 40.7399339,
     "lon": -73.8781878,
-    "icon": null,
     "imageURL": null,
     "description": "home to monthly Indonesian food bazaar",
     "info": null,
     "url": null,
-    "categories": ["food", "market"]
+    "categories": [
+      "food",
+      "market"
+    ]
   },
   {
+    "id": "queens_84_89_wareham_pl",
     "name": "84-89 Wareham Pl",
     "lat": 40.7175439,
     "lon": -73.786004,
-    "icon": null,
     "imageURL": null,
     "description": "trump's birthplace",
     "info": null,
     "url": null,
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_89_70_cooper_ave",
     "name": "89-70 Cooper Ave",
     "lat": 40.712474,
     "lon": -73.860795,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["neighborhood"]
+    "categories": [
+      "neighborhood"
+    ]
   },
   {
+    "id": "queens_addisleigh_park_historic_district",
     "name": "Addisleigh Park Historic District",
     "lat": 40.694897,
     "lon": -73.7735262,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic", "neighborhood"]
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
+    "id": "queens_afrikan_poetry_theatre_inc",
     "name": "Afrikan Poetry Theatre, Inc.",
     "lat": 40.708113,
     "lon": -73.784098,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.afrikanpoetry.org/",
-    "categories": ["theater", "art"]
+    "categories": [
+      "theater",
+      "art"
+    ]
   },
   {
+    "id": "queens_alley_pond_environmental_center",
     "name": "Alley Pond Environmental Center",
     "lat": 40.7628351,
     "lon": -73.75325,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.alleypond.com/",
-    "categories": ["nature"]
+    "categories": [
+      "nature"
+    ]
   },
   {
+    "id": "queens_arts_org_top_to_bottom_mural_project",
     "name": "Arts Org Top to Bottom Mural Project",
     "lat": 40.7503656,
     "lon": -73.9455833,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_bayside_historical_society",
     "name": "Bayside Historical Society",
     "lat": 40.7921708,
     "lon": -73.7777605,
-    "icon": null,
     "imageURL": null,
     "description": "Completed in 1887, The Castle at Fort Totten served as the Base Officers' Mess Hall and Club for the U.S. Army Corps of Engineers School of Application. The Castle is one of the finest surviving examples in New York City of the Gothic Revival castellated style architecture. This architectural style was developed in Great Britain in the mid-1700s and brought to the US in the early 1800s. The popularity of the Gothic Revival style marked a turning away from earlier classical styles based on the buildings of ancient Greece and Rome. In 1982, when the Army considered relinquishing parts of Fort Totten, then-Senator Frank Padavan, a retired US Army Corps of Engineer Officer who had served as Chief of Staff at Fort Totten, assisted the Bayside Historical Society (BHS) in leasing and beginning restoration of the building in 1984. The BHS has been caring for the Castle ever since.",
     "info": null,
     "url": "https://www.baysidehistorical.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_bowne_house",
     "name": "Bowne House",
     "lat": 40.7628909,
     "lon": -73.8249531,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.bownehouse.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_brickhouse_ceramic_art_center",
     "name": "BrickHouse Ceramic Art Center",
     "lat": 40.7484987,
     "lon": -73.9504286,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.brickhouseceramicartcenter.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_brooklyn_grange",
     "name": "Brooklyn Grange",
     "lat": 40.7519244,
     "lon": -73.9254192,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.brooklyngrangefarm.com/",
-    "categories": ["nature", "food"]
+    "categories": [
+      "nature",
+      "food"
+    ]
   },
   {
+    "id": "queens_brookville_park",
     "name": "Brookville Park",
     "lat": 40.6628115,
     "lon": -73.7431839,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/brookville-park",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
+    "id": "queens_butala_emporium_inc",
     "name": "Butala Emporium Inc",
     "lat": 40.7477043,
     "lon": -73.8919073,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_byzantion_woodworking",
     "name": "Byzantion Woodworking",
     "lat": 40.7689542,
     "lon": -73.9122635,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art", "shopping"]
+    "categories": [
+      "art",
+      "shopping"
+    ]
   },
   {
+    "id": "queens_calvary_cemetery",
     "name": "Calvary Cemetery",
     "lat": 40.7352225,
     "lon": -73.9135952,
-    "icon": null,
     "imageURL": null,
     "description": "Holding the most bodies of any cemetery in the United States.",
     "info": null,
     "url": "https://www.ccbklyn.org/calvary-cemetery",
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_carmel_grocery",
     "name": "Carmel Grocery",
     "lat": 40.7321139,
     "lon": -73.8487545,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "food"]
+    "categories": [
+      "shopping",
+      "food"
+    ]
   },
   {
+    "id": "queens_celtic_cove",
     "name": "Celtic Cove",
     "lat": 40.7702099,
     "lon": -73.792701,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "food"]
+    "categories": [
+      "shopping",
+      "food"
+    ]
   },
   {
+    "id": "queens_chocolate_factory_theater",
     "name": "Chocolate Factory Theater",
     "lat": 40.7437326,
     "lon": -73.9543167,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://chocolatefactorytheater.org/",
-    "categories": ["theater", "entertainment"]
+    "categories": [
+      "theater",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_corona_plaza",
     "name": "Corona Plaza",
     "lat": 40.7497246,
     "lon": -73.8622833,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["park", "neighborhood"]
+    "categories": [
+      "park",
+      "neighborhood"
+    ]
   },
   {
+    "id": "queens_creedmoor_psychiatric_center",
     "name": "Creedmoor Psychiatric Center",
     "lat": 40.7409298,
     "lon": -73.7312717,
-    "icon": null,
     "imageURL": null,
     "description": "living museum - art by patients, open by appointment",
     "info": null,
     "url": "https://www.omh.ny.gov/omhweb/facilities/crpc/",
-    "categories": ["art", "museum", "quirky"]
+    "categories": [
+      "art",
+      "museum",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_crossing_art",
     "name": "Crossing Art",
     "lat": 40.7605364,
     "lon": -73.8298377,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_culture_lab_lic_at_the_plaxall_gallery",
     "name": "Culture Lab LIC at The Plaxall Gallery",
     "lat": 40.7475616,
     "lon": -73.9544299,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.culturelabjc.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_cunningham_park_southeast_preserve_trail_trailhead",
     "name": "Cunningham Park Southeast Preserve Trail - Trailhead",
     "lat": 40.7315902,
     "lon": -73.7695641,
-    "icon": null,
     "imageURL": null,
     "description": "The Natural Areas Conservancy is a New York City nonprofit organization that protects and stewards 20,000 acres of natural areas. Escape the hustle and bustle of city life and join NAC staff on a guided tour at Cunningham Park to explore the Southeast Preserve Trail. The 1.6 mile Orange and White trail meanders through a beautiful forest full of native Oaks, Hickories, Tulip trees, Cherry trees and vernal ponds; a landscape shaped by the long-ago receded Wisconsin glaciation.",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/cunningham-park",
-    "categories": ["nature", "park", "recreation"]
+    "categories": [
+      "nature",
+      "park",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_curtis_50_cent_jackson_community_garden",
     "name": "Curtis \"50 Cent\" Jackson Community Garden",
     "lat": 40.6846162,
     "lon": -73.780972,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["nature", "park"]
+    "categories": [
+      "nature",
+      "park"
+    ]
   },
   {
+    "id": "queens_cypress_hills_taxidermy_studio",
     "name": "Cypress Hills Taxidermy Studio",
     "lat": 40.7124231,
     "lon": -73.8842071,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["quirky", "art"]
+    "categories": [
+      "quirky",
+      "art"
+    ]
   },
   {
+    "id": "queens_daiso",
     "name": "Daiso",
     "lat": 40.757075,
     "lon": -73.8351547,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.daisojapan.com/",
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_eddie_s_sweet_shop",
     "name": "Eddie's Sweet Shop",
     "lat": 40.710014,
     "lon": -73.8473557,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["food", "historic"]
+    "categories": [
+      "food",
+      "historic"
+    ]
   },
   {
+    "id": "queens_elmhurst_sculpture_garden",
     "name": "Elmhurst Sculpture Garden",
     "lat": 40.7335177,
     "lon": -73.868775,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art", "park"]
+    "categories": [
+      "art",
+      "park"
+    ]
   },
   {
+    "id": "queens_flushing_quaker_meeting_house",
     "name": "Flushing Quaker Meeting House",
     "lat": 40.7630061,
     "lon": -73.8303503,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.flushingfriends.org/",
-    "categories": ["religious", "historic"]
+    "categories": [
+      "religious",
+      "historic"
+    ]
   },
   {
+    "id": "queens_flushing_town_hall",
     "name": "Flushing Town Hall",
     "lat": 40.763863,
     "lon": -73.8301,
-    "icon": null,
     "imageURL": null,
     "description": "This landmark building is now a vibrant performing arts space with musical acts from around the world.",
     "info": null,
     "url": "https://www.flushingtownhall.org/",
-    "categories": ["music", "theater", "historic"]
+    "categories": [
+      "music",
+      "theater",
+      "historic"
+    ]
   },
   {
+    "id": "queens_fort_tilden_gateway_national_recreation_area",
     "name": "Fort Tilden (Gateway National Recreation Area)",
     "lat": 40.5616379,
     "lon": -73.8953425,
-    "icon": null,
     "imageURL": null,
     "description": "A former seaside jewel built for the everyman is now simply a neglected art deco fortress.",
     "info": null,
     "url": "https://www.nps.gov/gate/planyourvisit/fort-tilden.htm",
-    "categories": ["historic", "park", "art"]
+    "categories": [
+      "historic",
+      "park",
+      "art"
+    ]
   },
   {
+    "id": "queens_fort_totten",
     "name": "Fort Totten",
     "lat": 40.7908824,
     "lon": -73.7757324,
-    "icon": null,
     "imageURL": null,
     "description": "Read between the lines of the subway map to find the hidden abandoned Civil War fort.",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/fort-totten-park",
-    "categories": ["historic", "park"]
+    "categories": [
+      "historic",
+      "park"
+    ]
   },
   {
+    "id": "queens_fort_totten_visitor_center",
     "name": "Fort Totten Visitor Center",
     "lat": 40.7955591,
     "lon": -73.7780106,
-    "icon": null,
     "imageURL": null,
     "description": "Fort Totten is a former installation of the United States Army in Queens, NY. The Army Reserve is still on-site at Fort Totten, but the facility is no longer owned by the United States military and instead belongs to NYC. The vast majority of the fort and surrounding park is now open to the public to enjoy. The Fort Totten Visitor's Center is a restored museum with objects and exhibits highlighting the Fort's history.",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/fort-totten-park",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_free_synagogue_of_flushing",
     "name": "Free Synagogue of Flushing",
     "lat": 40.75716,
     "lon": -73.828239,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.freesynagogue.org/",
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ]
   },
   {
+    "id": "queens_gaming_city",
     "name": "Gaming City",
     "lat": 40.7564985,
     "lon": -73.9300879,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["entertainment", "recreation"]
+    "categories": [
+      "entertainment",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_gantry_plaza_state_park",
     "name": "Gantry Plaza State Park",
     "lat": 40.7455077,
     "lon": -73.9587485,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://parks.ny.gov/parks/149/details.aspx",
-    "categories": ["park", "nature"]
+    "categories": [
+      "park",
+      "nature"
+    ]
   },
   {
+    "id": "queens_gatcha",
     "name": "Gatcha",
     "lat": 40.7593412,
     "lon": -73.8339633,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "entertainment"]
+    "categories": [
+      "shopping",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_geographic_center_of_new_york_city",
     "name": "Geographic Center of New York City",
     "lat": 40.7419802,
     "lon": -73.9073754,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["landmark", "quirky"]
+    "categories": [
+      "landmark",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_godwin_ternbach_museum",
     "name": "Godwin-Ternbach Museum",
     "lat": 40.736293,
     "lon": -73.817185,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.qc.cuny.edu/academics/museums/godwin-ternbach/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
+    "id": "queens_golden_shopping_mall",
     "name": "Golden Shopping Mall",
     "lat": 40.7572533,
     "lon": -73.8292209,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "food"]
+    "categories": [
+      "shopping",
+      "food"
+    ]
   },
   {
+    "id": "queens_grace_episcopal_church",
     "name": "Grace Episcopal Church",
     "lat": 40.7034436,
     "lon": -73.8010079,
-    "icon": null,
     "imageURL": null,
     "description": "landmarked Gothic revival building w/ WPA murals",
     "info": null,
     "url": "https://www.gracechurchjamaica.org/",
-    "categories": ["religious", "historic", "art"]
+    "categories": [
+      "religious",
+      "historic",
+      "art"
+    ]
   },
   {
+    "id": "queens_grave_of_harry_houdini",
     "name": "Grave of Harry Houdini",
     "lat": 40.6934552,
     "lon": -73.8847777,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_greater_ridgewood_historical_society",
     "name": "Greater Ridgewood Historical Society",
     "lat": 40.7109309,
     "lon": -73.9200071,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.ridgewoodhistorical.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_han_ma_um_zen_center_of_new_york",
     "name": "Han Ma Um Zen Center of New York",
     "lat": 40.770509,
     "lon": -73.8229352,
-    "icon": "green",
     "imageURL": null,
     "description": "A temple belonging to the largest Buddhist order in South Korea nestled in the middle of New York City.",
     "info": null,
     "url": "https://www.hanmaum.org/",
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ]
   },
   {
+    "id": "queens_harry_houdini_gravesite",
     "name": "Harry Houdini Gravesite",
     "lat": 40.6934412,
     "lon": -73.884784,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_himalaya_connection",
     "name": "Himalaya Connection",
     "lat": 40.7470803,
     "lon": -73.8927118,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_idlewild_environmental_center",
     "name": "Idlewild Environmental Center",
     "lat": 40.6576287,
     "lon": -73.7604495,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["nature"]
+    "categories": [
+      "nature"
+    ]
   },
   {
+    "id": "queens_isamu_noguchi_foundation_inc",
     "name": "Isamu Noguchi Foundation Inc",
     "lat": 40.766905,
     "lon": -73.937797,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.noguchi.org/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
+    "id": "queens_jacob_riis_park_bathhouse",
     "name": "Jacob Riis Park bathhouse",
     "lat": 40.5670706,
     "lon": -73.8717701,
-    "icon": null,
     "imageURL": null,
     "description": "A former seaside jewel built for the everyman is now simply a neglected art deco fortress.",
     "info": null,
     "url": "https://www.nps.gov/gate/planyourvisit/jacob-riis-park.htm",
-    "categories": ["historic", "art", "recreation"]
+    "categories": [
+      "historic",
+      "art",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_jamaica_bay_wildlife_refuge_visitor_center",
     "name": "Jamaica Bay Wildlife Refuge Visitor Center",
     "lat": 40.6166866,
     "lon": -73.8249345,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nps.gov/gate/planyourvisit/jamaica-bay-wildlife-refuge.htm",
-    "categories": ["nature"]
+    "categories": [
+      "nature"
+    ]
   },
   {
+    "id": "queens_jamaica_center_for_arts_and_learning_jcal",
     "name": "Jamaica Center for Arts and Learning (JCAL)",
     "lat": 40.7039142,
     "lon": -73.7981636,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.jcal.org/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_jamaica_performing_arts_center_jpac",
     "name": "Jamaica Performing Arts Center (JPAC)",
     "lat": 40.7024171,
     "lon": -73.8016943,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.jpaconline.org/",
-    "categories": ["theater", "music", "entertainment"]
+    "categories": [
+      "theater",
+      "music",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_king_manor_museum",
     "name": "King Manor Museum",
     "lat": 40.703686,
     "lon": -73.8039934,
-    "icon": "green",
     "imageURL": null,
     "description": "interior landmark",
     "info": null,
     "url": "https://www.kingmanor.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_kingsland_homestead",
     "name": "Kingsland Homestead",
     "lat": 40.7636099,
     "lon": -73.8241501,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.queenshistoricalsociety.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_kissena_velodrome",
     "name": "Kissena Velodrome",
     "lat": 40.744363,
     "lon": -73.8093436,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/kissena-park",
-    "categories": ["sports", "recreation"]
+    "categories": [
+      "sports",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_knockdown_center",
     "name": "Knockdown Center",
     "lat": 40.7151586,
     "lon": -73.9135651,
-    "icon": null,
     "imageURL": null,
     "description": "How a century-old glass factory in Queens became a concert venue and arts center.",
     "info": null,
     "url": "https://knockdown.center/",
-    "categories": ["entertainment", "music", "art"]
+    "categories": [
+      "entertainment",
+      "music",
+      "art"
+    ]
   },
   {
+    "id": "queens_krypton_neon",
     "name": "Krypton Neon",
     "lat": 40.7469822,
     "lon": -73.9542659,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art", "shopping"]
+    "categories": [
+      "art",
+      "shopping"
+    ]
   },
   {
+    "id": "queens_kupferberg_center_for_the_arts",
     "name": "Kupferberg Center for the Arts",
     "lat": 40.737677,
     "lon": -73.8156561,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.kupferbergcenter.org/",
-    "categories": ["art", "theater", "music"]
+    "categories": [
+      "art",
+      "theater",
+      "music"
+    ]
   },
   {
+    "id": "queens_laguardia_landing_lights",
     "name": "LaGuardia Landing Lights",
     "lat": 40.7634822,
     "lon": -73.8891797,
-    "icon": null,
     "imageURL": null,
     "description": "Nine nice parcels of land along a flight path offer a quiet respite... until a plane soars overhead.",
     "info": null,
     "url": null,
-    "categories": ["park", "quirky"]
+    "categories": [
+      "park",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_lavender_label_little_soap_shop",
     "name": "Lavender Label- Little Soap Shop",
     "lat": 40.775096,
     "lon": -73.913463,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_lent_riker_smith_homestead_1656",
     "name": "Lent-Riker-Smith Homestead (1656)",
     "lat": 40.7732294,
     "lon": -73.8920367,
-    "icon": null,
     "imageURL": null,
     "description": "The oldest private residence in New York City.",
     "info": null,
     "url": null,
-    "categories": ["historic", "landmark"]
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_lewis_howard_latimer_house_museum",
     "name": "Lewis Howard Latimer House Museum",
     "lat": 40.7661211,
     "lon": -73.8293949,
-    "icon": null,
     "imageURL": null,
     "description": "Explore the incredible life of Lewis Latimer, the son of emancipated Virginians, who became a self-taught expert draftsman, poet, artist, and innovator who worked with inventors like Thomas Edison and Alexander Graham Bell. Credited with seven patents, Latimer's improvements to the lightbulb made electric lighting more practical and affordable. Brand new galleries and interactive displays in the museum will transport you through time as you discover how Latimer and his family navigated through several important time periods of U.S. and world history. Listen to Latimer's poetry read aloud by cranking through the Poetry Machine, use the touchscreen Invention Machine to see how Latimer's patents worked, and scroll through the \"Together We Rise\" wheel to learn more about the community effort to preserve Latimer's story and save his historic Queens home.",
     "info": null,
     "url": "https://www.latimerhouse.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_lic_community_boathouse",
     "name": "LIC Community Boathouse",
     "lat": 40.7470009,
     "lon": -73.9549664,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.licboathouse.org/",
-    "categories": ["recreation", "sports"]
+    "categories": [
+      "recreation",
+      "sports"
+    ]
   },
   {
+    "id": "queens_louis_armstrong_home_museum",
     "name": "Louis Armstrong Home Museum",
     "lat": 40.7545794,
     "lon": -73.861519,
-    "icon": "green",
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.louisarmstronghouse.org/",
-    "categories": ["historic", "museum", "music"]
+    "categories": [
+      "historic",
+      "museum",
+      "music"
+    ]
   },
   {
+    "id": "queens_low_cinema",
     "name": "Low Cinema",
     "lat": 40.7012171,
     "lon": -73.898538,
-    "icon": "green",
     "imageURL": null,
     "description": "The Theater Is Tiny, the Popcorn Is Fresh and the Crowd Is Devoted. A new micro-cinema draws film buffs to Queens",
     "info": null,
     "url": null,
-    "categories": ["cinema", "entertainment"]
+    "categories": [
+      "cinema",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_materials_for_the_arts",
     "name": "Materials for the Arts",
     "lat": 40.7516326,
     "lon": -73.9310466,
-    "icon": null,
     "imageURL": null,
     "description": "Founded in 1978, Materials for the Arts, is New York City's largest Creative Reuse center dedicated to supporting arts and cultural organizations. Since its inclusion of public schools as members in 1998, MFTA is proud to be the largest provider of free materials to the NYC Department of Education, as well. Millions of students, audience members, choreographers, dancers, actors, set designers, art therapists, after-school providers, hospital staff, social justice organizations and senior citizens have been positively impacted by the work of Materials for the Arts. Today, MFTA's donation cycle diverts over 1.7 million pounds of materials from landfills. These quality goods are redistributed and made available to our 7,000+ recipient organizations, such as non-profits and NYC schools, free-of-charge.",
     "info": null,
     "url": "https://www.nyc.gov/site/dcla/services/mfta.page",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_moma_ps1",
     "name": "MoMA PS1",
     "lat": 40.7456014,
     "lon": -73.947097,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.momaps1.org/",
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
+    "id": "queens_moma_qns",
     "name": "MoMA QNS",
     "lat": 40.7440109,
     "lon": -73.9319839,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["museum", "art"]
+    "categories": [
+      "museum",
+      "art"
+    ]
   },
   {
+    "id": "queens_monster_aquarium_inc",
     "name": "Monster Aquarium Inc.",
     "lat": 40.7557617,
     "lon": -73.8361704,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "nature"]
+    "categories": [
+      "shopping",
+      "nature"
+    ]
   },
   {
+    "id": "queens_museum_of_the_moving_image",
     "name": "Museum of the Moving Image",
     "lat": 40.7563454,
     "lon": -73.9239496,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.movingimage.us/",
-    "categories": ["museum", "cinema"]
+    "categories": [
+      "museum",
+      "cinema"
+    ]
   },
   {
+    "id": "queens_new_york_buddhist_vihara",
     "name": "New York Buddhist Vihara",
     "lat": 40.7278673,
     "lon": -73.7509644,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nybvihara.org/",
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ]
   },
   {
+    "id": "queens_new_york_international_table_tennis_center",
     "name": "New York International Table Tennis Center",
     "lat": 40.7642149,
     "lon": -73.8321417,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nyttc.org/",
-    "categories": ["sports", "recreation"]
+    "categories": [
+      "sports",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_ohel_chabad_lubavitch",
     "name": "Ohel Chabad Lubavitch",
     "lat": 40.6865362,
     "lon": -73.7375964,
-    "icon": null,
     "imageURL": null,
     "description": "Schneerson's grave",
     "info": null,
     "url": "https://www.theohel.com/",
-    "categories": ["religious", "historic"]
+    "categories": [
+      "religious",
+      "historic"
+    ]
   },
   {
+    "id": "queens_outpost_artists_resources",
     "name": "Outpost Artists Resources",
     "lat": 40.6967124,
     "lon": -73.9019219,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_phil_scooter_rizzuto_park",
     "name": "Phil \"Scooter\" Rizzuto Park",
     "lat": 40.6947111,
     "lon": -73.8216889,
-    "icon": null,
     "imageURL": null,
     "description": "home to \"bird racing\"",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/phil-rizzuto-park",
-    "categories": ["park", "quirky", "sports"]
+    "categories": [
+      "park",
+      "quirky",
+      "sports"
+    ]
   },
   {
+    "id": "queens_poppenhusen_institute",
     "name": "Poppenhusen Institute",
     "lat": 40.7844182,
     "lon": -73.8528872,
-    "icon": null,
     "imageURL": null,
     "description": "Poppenhusen Institute is a historic building at 114-04 14th Road in College Point, Queens that housed the first free kindergarten in America. In addition, this institute provided the first free evening classes for adults (in America). Currently, the Institute operates as a community cultural center. The institute building is five stories tall and was constructed in a stern Victorian style. It was added to the New York City Landmarks Preservation Commission in 1970 and then added to the National Register of Historic Places in 1977",
     "info": null,
     "url": "https://www.poppenhuseninstitute.org/",
-    "categories": ["historic", "landmark"]
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_pro_line_archery_lanes",
     "name": "Pro Line Archery Lanes",
     "lat": 40.6846395,
     "lon": -73.8455246,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["sports", "recreation"]
+    "categories": [
+      "sports",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_prop_n_spoon",
     "name": "Prop N Spoon",
     "lat": 40.7460208,
     "lon": -73.932775,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["theater", "entertainment"]
+    "categories": [
+      "theater",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_prospect_cemetery",
     "name": "Prospect Cemetery",
     "lat": 40.7015422,
     "lon": -73.7988039,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ]
   },
   {
+    "id": "queens_queens_archery",
     "name": "Queens Archery",
     "lat": 40.761481,
     "lon": -73.795553,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["sports", "recreation"]
+    "categories": [
+      "sports",
+      "recreation"
+    ]
   },
   {
+    "id": "queens_queens_county_farm_museum",
     "name": "Queens County Farm Museum",
     "lat": 40.7481378,
     "lon": -73.7210428,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.queensfarm.org/",
-    "categories": ["museum", "historic", "nature"]
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ]
   },
   {
+    "id": "queens_queens_historical_society",
     "name": "Queens Historical Society",
     "lat": 40.7635953,
     "lon": -73.8241469,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.queenshistoricalsociety.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_resobox",
     "name": "RESOBOX",
     "lat": 40.7512416,
     "lon": -73.9391936,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://resobox.com/",
-    "categories": ["art", "entertainment"]
+    "categories": [
+      "art",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_ridgewood_north_historic_district",
     "name": "Ridgewood North Historic District",
     "lat": 40.7057515,
     "lon": -73.9044066,
-    "icon": null,
     "imageURL": null,
     "description": "A collection of 96 buildings, mostly three-story brick rowhouses called \"Mathews Model Flats\", built in 1908–1914 by the G.X. Mathews Company. Overlaps with the Woodbine–Palmetto–Gates Historic District, a U.S. historic district.",
     "info": null,
     "url": null,
-    "categories": ["historic", "neighborhood"]
+    "categories": [
+      "historic",
+      "neighborhood"
+    ]
   },
   {
+    "id": "queens_rko_keith_s_theatre",
     "name": "RKO Keith's Theatre",
     "lat": 40.763385,
     "lon": -73.8301898,
-    "icon": null,
     "imageURL": null,
     "description": "landmarked interior; Interior space of a Baroque theater built in 1927–1928 for the RKO Pictures chain. Also on the National Register of Historic Places; however, the exterior is not a city landmark.",
     "info": null,
     "url": null,
-    "categories": ["theater", "historic", "landmark"]
+    "categories": [
+      "theater",
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_rudy_s_hobby_art",
     "name": "Rudy's Hobby & Art",
     "lat": 40.7650471,
     "lon": -73.9177117,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping", "art"]
+    "categories": [
+      "shopping",
+      "art"
+    ]
   },
   {
+    "id": "queens_sculpturecenter",
     "name": "SculptureCenter",
     "lat": 40.7469373,
     "lon": -73.940835,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.sculpture-center.org/",
-    "categories": ["art", "museum"]
+    "categories": [
+      "art",
+      "museum"
+    ]
   },
   {
+    "id": "queens_self_taught_genius_gallery",
     "name": "Self-Taught Genius Gallery",
     "lat": 40.741758,
     "lon": -73.9330625,
-    "icon": null,
     "imageURL": null,
     "description": "An exhibition space dedicated to American outsider art created between the 18th and 21st centuries",
     "info": null,
     "url": null,
-    "categories": ["art", "museum"]
+    "categories": [
+      "art",
+      "museum"
+    ]
   },
   {
+    "id": "queens_shree_divya_dham",
     "name": "Shree Divya Dham",
     "lat": 40.7507849,
     "lon": -73.9052907,
-    "icon": null,
     "imageURL": null,
     "description": "shrine to Vaishno devi",
     "info": null,
     "url": null,
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ]
   },
   {
+    "id": "queens_smiling_hogshead_ranch",
     "name": "Smiling Hogshead Ranch",
     "lat": 40.7431462,
     "lon": -73.9430549,
-    "icon": null,
     "imageURL": null,
     "description": "Guerilla gardeners reclaimed this abandoned railroad land literally putting down roots.",
     "info": null,
     "url": null,
-    "categories": ["nature", "park", "quirky"]
+    "categories": [
+      "nature",
+      "park",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_socrates_sculpture_park",
     "name": "Socrates Sculpture Park",
     "lat": 40.768479,
     "lon": -73.9366363,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.socratessculpturepark.org/",
-    "categories": ["art", "park"]
+    "categories": [
+      "art",
+      "park"
+    ]
   },
   {
+    "id": "queens_soy_bean_chan_flower_gift_shop",
     "name": "Soy Bean Chan Flower & Gift Shop",
     "lat": 40.7591497,
     "lon": -73.831079,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_st_james_episcopal_church",
     "name": "St James Episcopal Church",
     "lat": 40.7398122,
     "lon": -73.877829,
-    "icon": null,
     "imageURL": null,
     "description": "oldest church in NYC",
     "info": null,
     "url": "https://www.stjameselm.org/",
-    "categories": ["religious", "historic"]
+    "categories": [
+      "religious",
+      "historic"
+    ]
   },
   {
+    "id": "queens_st_john_cemetery",
     "name": "St. John Cemetery",
     "lat": 40.7158872,
     "lon": -73.8664859,
-    "icon": null,
     "imageURL": null,
     "description": "look for Carlo Gambino's grave; other mafia graves here also",
     "info": null,
     "url": "https://www.ccbklyn.org/st-john-cemetery-queens",
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_st_nicholas_orthodox_church",
     "name": "St. Nicholas Orthodox Church",
     "lat": 40.7878991,
     "lon": -73.8103058,
-    "icon": null,
     "imageURL": null,
     "description": "This Orthodox Church's exterior is rather unorthodox. BUILT A YEAR BEFORE THE first Apollo moon landing, St. Nicholas Orthodox Church's peculiar architecture reflects society's obsession with all things space travel at the beginning of the Space Age. One of the only features of the futuristic-looking church's exterior that bears any resemblance to a church is the building's blue onion dome and Orthodox cross. The church doesn't have many right angles on the outside; instead its lines curve and arch in exaggerated fashion, lending the church a whimsical, futuristic feel. Completing the futuristic motif is the structure's roof, which is composed of metallic silver tiles.",
     "info": null,
     "url": "https://www.stnicholaswhitestone.org/",
-    "categories": ["religious", "quirky", "art"]
+    "categories": [
+      "religious",
+      "quirky",
+      "art"
+    ]
   },
   {
+    "id": "queens_station_square",
     "name": "Station Square",
     "lat": 40.7191995,
     "lon": -73.8451134,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["neighborhood"]
+    "categories": [
+      "neighborhood"
+    ]
   },
   {
+    "id": "queens_steinway_sons",
     "name": "Steinway & Sons",
     "lat": 40.7800438,
     "lon": -73.8996984,
-    "icon": null,
     "imageURL": null,
     "description": "reserve for tours",
     "info": null,
     "url": "https://www.steinway.com/",
-    "categories": ["music", "historic"]
+    "categories": [
+      "music",
+      "historic"
+    ]
   },
   {
+    "id": "queens_steinway_reformed_church",
     "name": "Steinway Reformed Church",
     "lat": 40.7724033,
     "lon": -73.9048765,
-    "icon": null,
     "imageURL": null,
     "description": "The Steinway Reformed Church has a profound historical relationship with the Astoria community, deeply intertwined with the generosity and vision of the Steinway family. Their legendary piano factory, a few blocks away, has built 95% of the concert pianos in the past 150 years. The current building, completed in 1891, is built in traditional carpenter-gothic style, the extraordinary woodwork was, as legend claims, the work of craftspeople from the Steinway piano factory. The Steinway Reformed Church's involvement in the community is both diverse and impactful. Through partnerships with local groups, the church addresses various needs and promotes well-being. This event is co-hosted by the Greater Astoria Historical Society, which is collaborating with Historic Districts Council and other city-wide preservation organizations to promote this sacred space as a vital community asset, to be a candidate for NYC Landmark Designation.",
     "info": null,
     "url": "https://www.steinwayreformed.org/",
-    "categories": ["religious", "historic", "art"]
+    "categories": [
+      "religious",
+      "historic",
+      "art"
+    ]
   },
   {
+    "id": "queens_stray_vintage",
     "name": "Stray Vintage",
     "lat": 40.7464515,
     "lon": -73.9157253,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   },
   {
+    "id": "queens_sunnyside_gardens",
     "name": "Sunnyside Gardens",
     "lat": 40.7495045,
     "lon": -73.915069,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["neighborhood", "historic"]
+    "categories": [
+      "neighborhood",
+      "historic"
+    ]
   },
   {
+    "id": "queens_tabernacle_of_prayer_for_all",
     "name": "Tabernacle of Prayer For All",
     "lat": 40.7068876,
     "lon": -73.7943713,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["religious"]
+    "categories": [
+      "religious"
+    ]
   },
   {
+    "id": "queens_terminal_a",
     "name": "Terminal A",
     "lat": 40.7737205,
     "lon": -73.8845928,
-    "icon": null,
     "imageURL": null,
     "description": "Marine Air Terminal - landmarked interior; The Modernist style main floor of the Marine Air Terminal (an exterior landmark and National Registered Historic Place), which contains a mural and circular main room.",
     "info": null,
     "url": null,
-    "categories": ["historic", "art", "landmark"]
+    "categories": [
+      "historic",
+      "art",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_terraza_7",
     "name": "Terraza 7",
     "lat": 40.7475263,
     "lon": -73.88201,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.terraza7.com/",
-    "categories": ["music", "entertainment", "food"]
+    "categories": [
+      "music",
+      "entertainment",
+      "food"
+    ]
   },
   {
+    "id": "queens_thalia_spanish_theatre",
     "name": "Thalia Spanish Theatre",
     "lat": 40.740254,
     "lon": -73.9237042,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://thaliatheatre.org/",
-    "categories": ["theater", "entertainment"]
+    "categories": [
+      "theater",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_the_alley_pond_giant",
     "name": "The Alley Pond Giant",
     "lat": 40.7534098,
     "lon": -73.7467264,
-    "icon": null,
     "imageURL": null,
     "description": "The oldest living organism in New York City. Maybe",
     "info": null,
     "url": null,
-    "categories": ["nature", "quirky"]
+    "categories": [
+      "nature",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_the_elevator_historical_society",
     "name": "The Elevator Historical Society",
     "lat": 40.7498554,
     "lon": -73.9460107,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.elevatorhistory.net/",
-    "categories": ["museum", "quirky"]
+    "categories": [
+      "museum",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_the_hindu_temple_society_of_north_america",
     "name": "The Hindu Temple Society of North America",
     "lat": 40.7528108,
     "lon": -73.8169558,
-    "icon": null,
     "imageURL": null,
     "description": "This enormous Hindu temple in Queens serves incredible dosas in its basement canteen.",
     "info": null,
     "url": "https://www.nyganeshtemple.org/",
-    "categories": ["religious", "food"]
+    "categories": [
+      "religious",
+      "food"
+    ]
   },
   {
+    "id": "queens_the_home_of_nyc_parks_retired_playground_animals",
     "name": "The Home of NYC Parks' Retired Playground Animals",
     "lat": 40.7481875,
     "lon": -73.8433125,
-    "icon": null,
     "imageURL": null,
     "description": "A menagerie of concrete animals brought together from across New York City's parks.",
     "info": null,
     "url": null,
-    "categories": ["quirky", "art"]
+    "categories": [
+      "quirky",
+      "art"
+    ]
   },
   {
+    "id": "queens_the_living_museum",
     "name": "The Living Museum",
     "lat": 40.7379118,
     "lon": -73.7294901,
-    "icon": "green",
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art", "museum"]
+    "categories": [
+      "art",
+      "museum"
+    ]
   },
   {
+    "id": "queens_the_ramp",
     "name": "The Ramp",
     "lat": 40.7283533,
     "lon": -73.8537388,
-    "icon": null,
     "imageURL": null,
     "description": "Where the four original members of the Ramones hung out and revolutionized punk rock.",
     "info": null,
     "url": null,
-    "categories": ["music", "historic"]
+    "categories": [
+      "music",
+      "historic"
+    ]
   },
   {
+    "id": "queens_the_secret_theatre",
     "name": "The Secret Theatre",
     "lat": 40.7489415,
     "lon": -73.9449008,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "http://www.secrettheatre.com/",
-    "categories": ["theater", "entertainment"]
+    "categories": [
+      "theater",
+      "entertainment"
+    ]
   },
   {
+    "id": "queens_the_somerset_house",
     "name": "The Somerset House",
     "lat": 40.7440219,
     "lon": -73.9525929,
-    "icon": null,
     "imageURL": null,
     "description": "Owned by former fashion designer Alan Eckstein, this Long Island City showroom sells meticulously maintained, often rare vintage pieces, from a Eugenia Butler oak puzzle chair ($2,800), to a pink Fritz Hansen lamb-shearling three-legged stool ($395), to a bentwood Danish ottoman reupholstered in Schumacher leopard-print fabric ($850). The inventory goes far beyond seating, though: The two-story space has vases, couches, coffee tables, consoles, and photography prints.",
     "info": null,
     "url": null,
-    "categories": ["shopping", "art"]
+    "categories": [
+      "shopping",
+      "art"
+    ]
   },
   {
+    "id": "queens_tromaville",
     "name": "Tromaville",
     "lat": 40.760216,
     "lon": -73.940858,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.troma.com/",
-    "categories": ["entertainment", "cinema"]
+    "categories": [
+      "entertainment",
+      "cinema"
+    ]
   },
   {
+    "id": "queens_tudor_park",
     "name": "Tudor Park",
     "lat": 40.6733678,
     "lon": -73.8549547,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.nycgovparks.org/parks/tudor-park",
-    "categories": ["park"]
+    "categories": [
+      "park"
+    ]
   },
   {
+    "id": "queens_twa_hotel",
     "name": "TWA Hotel",
     "lat": 40.6451853,
     "lon": -73.7773256,
-    "icon": null,
     "imageURL": null,
     "description": "This futuristic airport terminal was abandoned for decades before reopening as a hotel—with a vintage plane of its own parked out back.",
     "info": null,
     "url": "https://www.twahotel.com/",
-    "categories": ["historic", "art", "landmark"]
+    "categories": [
+      "historic",
+      "art",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_ukehut",
     "name": "Ukehut",
     "lat": 40.7547549,
     "lon": -73.925415,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["music", "shopping"]
+    "categories": [
+      "music",
+      "shopping"
+    ]
   },
   {
+    "id": "queens_underpenny_antiques_collectibles",
     "name": "Underpenny Antiques & Collectibles",
     "lat": 40.7430199,
     "lon": -73.9538229,
-    "icon": null,
     "imageURL": null,
     "description": "Plane & Cast Iron Museum \"It may look like an antiques store—and indeed it is—until you express interest in one of the hundreds of cast-iron objects that line the wall behind the counter on the right side of the store. At that point, Underpenny owner and curator Sung Park will tell you that the piece you had your eye on—a sturdy black trivet, a horse-and-carriage toy, an ornate penny bank—is not for sale. The meticulously arranged display, which also includes a collection of hand planes, is the result of more than 15 years of collecting and represents only a portion of Park's total treasure trove.",
     "info": null,
     "url": null,
-    "categories": ["shopping", "museum", "quirky"]
+    "categories": [
+      "shopping",
+      "museum",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_united_sherpa_association_usa_inc",
     "name": "United Sherpa Association (USA), Inc.",
     "lat": 40.7451924,
     "lon": -73.8898835,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_vander_endeonderdonk_house",
     "name": "Vander Ende–Onderdonk House",
     "lat": 40.710917,
     "lon": -73.9200319,
-    "icon": null,
     "imageURL": null,
     "description": "The oldest Dutch colonial stone house in New York City is a hidden gem on the border of Brooklyn and Queens.",
     "info": null,
     "url": "https://www.onderdonkhouse.org/",
-    "categories": ["historic", "museum"]
+    "categories": [
+      "historic",
+      "museum"
+    ]
   },
   {
+    "id": "queens_vatican_pavilion_site",
     "name": "Vatican Pavilion Site",
     "lat": 40.7428432,
     "lon": -73.8426042,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic"]
+    "categories": [
+      "historic"
+    ]
   },
   {
+    "id": "queens_voelker_orth_museum",
     "name": "Voelker Orth Museum",
     "lat": 40.764575,
     "lon": -73.81606,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://www.vomuseum.org/",
-    "categories": ["historic", "museum", "nature"]
+    "categories": [
+      "historic",
+      "museum",
+      "nature"
+    ]
   },
   {
+    "id": "queens_weekender_restaurant_billiard_bar_inc",
     "name": "Weekender Restaurant, Billiard & Bar INC",
     "lat": 40.7443881,
     "lon": -73.9107517,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["food", "recreation", "drinking"]
+    "categories": [
+      "food",
+      "recreation",
+      "drinking"
+    ]
   },
   {
+    "id": "queens_welling_court_mural_project",
     "name": "Welling Court Mural Project",
     "lat": 40.771529,
     "lon": -73.9314097,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": "https://wellingcourtmuralproject.com/",
-    "categories": ["art"]
+    "categories": [
+      "art"
+    ]
   },
   {
+    "id": "queens_westinghouse_time_capsules",
     "name": "Westinghouse Time Capsules",
     "lat": 40.7429172,
     "lon": -73.8450839,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["historic", "quirky"]
+    "categories": [
+      "historic",
+      "quirky"
+    ]
   },
   {
+    "id": "queens_wise_clock",
     "name": "Wise Clock",
     "lat": 40.5649574,
     "lon": -73.8731872,
-    "icon": null,
     "imageURL": null,
     "description": "This 19th-century clock has been restored to help withstand the harsh environment of its seaside home.",
     "info": null,
     "url": null,
-    "categories": ["historic", "landmark"]
+    "categories": [
+      "historic",
+      "landmark"
+    ]
   },
   {
+    "id": "queens_zapateria_mexico",
     "name": "Zapateria Mexico",
     "lat": 40.7484228,
     "lon": -73.8780348,
-    "icon": null,
     "imageURL": null,
     "description": "",
     "info": null,
     "url": null,
-    "categories": ["shopping"]
+    "categories": [
+      "shopping"
+    ]
   }
 ]
