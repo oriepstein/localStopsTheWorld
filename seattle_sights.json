@@ -925,19 +925,6 @@
     "id": "seattle_water_tower_observation_deck"
   },
   {
-    "name": "Living Computers: Museum + Labs",
-    "lat": 47.5825278,
-    "lon": -122.3344609,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "museum"
-    ],
-    "url": null,
-    "id": "seattle_living_computers_museum_labs"
-  },
-  {
     "name": "Old Seattle Paperworks",
     "lat": 47.6088233,
     "lon": -122.341107,
