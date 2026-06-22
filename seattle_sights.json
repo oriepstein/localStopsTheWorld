@@ -1098,19 +1098,6 @@
     "id": "seattle_jet_city_improv"
   },
   {
-    "name": "The Sock Monster",
-    "lat": 47.6615671,
-    "lon": -122.3411909,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "seattle_the_sock_monster"
-  },
-  {
     "name": "Archie McPhee",
     "lat": 47.6616019,
     "lon": -122.3417195,
