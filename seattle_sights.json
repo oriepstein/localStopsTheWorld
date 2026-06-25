@@ -2625,19 +2625,6 @@
     "id": "seattle_washington_state_history_museum"
   },
   {
-    "name": "Boba Up",
-    "lat": 47.6581301,
-    "lon": -122.3133607,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "seattle_boba_up"
-  },
-  {
     "name": "The Atlas Theatre",
     "lat": 47.6508836,
     "lon": -122.3501133,
