@@ -1015,7 +1015,7 @@
     "lon": -73.9732706,
     "icon": null,
     "imageURL": null,
-    "description": "",
+    "description": "murals; abolitionist church - displays \"Lincoln Shovel\" which Lincoln sent for their groundbreaking",
     "info": null,
     "categories": [
       "landmark"
@@ -5733,5 +5733,35 @@
     "name": "Wendy's Subway",
     "url": null,
     "id": "brooklyn_wendys_subway"
+  },
+  {
+    "name": "The Tiny Cupboard Comedy Club & Game Bar",
+    "lat": 40.6837173,
+    "lon": -73.9112243,
+    "icon": null,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater",
+      "drinking"
+    ],
+    "url": "https://www.thetinycupboard.com",
+    "id": "brooklyn_the_tiny_cupboard_comedy_club_game_bar"
+  },
+  {
+    "name": "photodom. NYC",
+    "lat": 40.6834619,
+    "lon": -73.9112121,
+    "icon": null,
+    "imageURL": null,
+    "description": "Brooklyn native Dominick Lewis first fell in love with film photography while at college for engineering —so much so that he dropped out to pursue his passion full-time. After cutting his teeth for a few years, he started a line of cheeky merch for photographers, eventually opened an upper level shop, and expanded to a full-service ground floor storefront just last year. He understands that the future of film photography requires new innovation and new voices, which is why he works hard to develop products and provide services that both democratize and modernize the experience for his loyal customer base.",
+    "info": null,
+    "categories": [
+      "shopping",
+      "art"
+    ],
+    "url": "https://www.photodom.shop",
+    "id": "brooklyn_photodom_nyc"
   }
 ]
