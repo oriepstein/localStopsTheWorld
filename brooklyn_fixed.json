@@ -843,20 +843,6 @@
     "id": "brooklyn_cb_i_hate_perfume_olfactory_art_gallery"
   },
   {
-    "name": "Big Sky Works",
-    "lat": 40.7230252,
-    "lon": -73.9562924,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "brooklyn_big_sky_works"
-  },
-  {
     "name": "NURTUREart Non-Profit Inc",
     "lat": 40.7058963,
     "lon": -73.9332806,
