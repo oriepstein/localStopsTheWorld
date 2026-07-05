@@ -828,21 +828,6 @@
     "id": "brooklyn_dead_horse_bay"
   },
   {
-    "name": "CB I Hate Perfume - Olfactory Art Gallery",
-    "lat": 40.712045,
-    "lon": -73.936328,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "museum",
-      "art"
-    ],
-    "url": null,
-    "id": "brooklyn_cb_i_hate_perfume_olfactory_art_gallery"
-  },
-  {
     "name": "NURTUREart Non-Profit Inc",
     "lat": 40.7058963,
     "lon": -73.9332806,
