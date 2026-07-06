@@ -2222,17 +2222,6 @@
     ]
   },
   {
-    "id": "manhattan_master_kitchen",
-    "name": "Master Kitchen",
-    "lat": 40.719855,
-    "lon": -73.991837,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
     "id": "manhattan_pacific_aquarium_plant",
     "name": "Pacific Aquarium & Plant",
     "lat": 40.71983,
@@ -2672,17 +2661,6 @@
     "name": "Ottendorfer Library",
     "lat": 40.728886,
     "lon": -73.987685,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": null
-  },
-  {
-    "id": "manhattan_perrotin_new_york",
-    "name": "PERROTIN NEW YORK",
-    "lat": 40.719586,
-    "lon": -73.989254,
     "imageURL": null,
     "description": "",
     "info": null,
