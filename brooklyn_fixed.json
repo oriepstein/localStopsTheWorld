@@ -1345,20 +1345,6 @@
     "id": "brooklyn_warsaw"
   },
   {
-    "name": "The Brooklyn Kitchen",
-    "lat": 40.717634,
-    "lon": -73.947659,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "food"
-    ],
-    "url": null,
-    "id": "brooklyn_the_brooklyn_kitchen"
-  },
-  {
     "name": "Acme Smoked Fish Corporation",
     "lat": 40.7254473,
     "lon": -73.956479,
@@ -3030,34 +3016,6 @@
     "id": "brooklyn_peephole_cinema"
   },
   {
-    "name": "Fifth Avenue Bingo",
-    "lat": 40.6701876,
-    "lon": -73.9858765,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "brooklyn_fifth_avenue_bingo"
-  },
-  {
-    "name": "Sorted Library",
-    "lat": 40.7042318,
-    "lon": -73.9870246,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "bookstore"
-    ],
-    "url": null,
-    "id": "brooklyn_sorted_library"
-  },
-  {
     "name": "Bensonhurst statue house",
     "lat": 40.6042365,
     "lon": -73.9963288,
@@ -4451,20 +4409,6 @@
     "id": "brooklyn_farmone"
   },
   {
-    "name": "Janet Borden Inc",
-    "lat": 40.7033589,
-    "lon": -73.9909737,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "brooklyn_janet_borden_inc"
-  },
-  {
     "name": "e-flux",
     "lat": 40.6945365,
     "lon": -73.9613927,
@@ -5562,20 +5506,6 @@
     ],
     "url": "https://www.dashiokume.com",
     "id": "brooklyn_dashi_okume_brooklyn"
-  },
-  {
-    "name": "Index Greenpoint",
-    "lat": 40.7253868,
-    "lon": -73.9513451,
-    "icon": null,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "brooklyn_index_greenpoint"
   },
   {
     "name": "Let There Be Neon Inc",
