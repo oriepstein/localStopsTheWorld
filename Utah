@@ -7,7 +7,6 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark",
       "park",
       "historic"
     ],
@@ -22,7 +21,6 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark",
       "historic"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Quarry+Visitor+Center+Utah",
@@ -333,8 +331,7 @@
     "description": "An earthwork sculpture built by Robert Smithson in the Great Salt Lake only reemerges during drought.",
     "info": null,
     "categories": [
-      "landmark",
-      "water"
+      "localhighlight"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+Utah",
     "id": "utah_spiral_jetty"
@@ -347,8 +344,7 @@
     "description": "Designed in 1887, this clock from the county office clock tower has been restored and is on full display.",
     "info": null,
     "categories": [
-      "landmark",
-      "shopping"
+      "landmark"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Box+Elder+County+Treasurer+Utah",
     "id": "utah_box_elder_county_treasurer"
@@ -429,8 +425,8 @@
     "description": "The largest island on the great salt lake is home to curious creatures and strange stories.",
     "info": null,
     "categories": [
-      "landmark",
-      "water"
+      "localhighlight",
+      "park"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Antelope+Island+Utah",
     "id": "utah_antelope_island"
@@ -662,7 +658,7 @@
     "description": "An absolutely beautiful 200-foot stained glass installation traces the evolution of knowledge.",
     "info": null,
     "categories": [
-      "landmark"
+      "localhighlight"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Roots+Of+Knowledge+Windows+Utah",
     "id": "utah_roots_of_knowledge_windows"
@@ -1335,7 +1331,7 @@
     "description": "This roadside stop between Goblin Valley is the perfect location to view some of the region's natural wonders.",
     "info": null,
     "categories": [
-      "landmark"
+      "localhighlight"
     ],
     "url": "https://www.google.com/maps/search/?api=1&query=Kathline+Rock+Utah",
     "id": "utah_kathline_rock"
@@ -1533,7 +1529,7 @@
     "description": "One of the world’s largest collections of petroglyphs records 2,000 years of human activity.",
     "info": null,
     "categories": [
-      "landmark",
+      "localhighlight",
       "park",
       "historic"
     ],
