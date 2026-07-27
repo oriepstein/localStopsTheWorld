@@ -1,0 +1,2243 @@
+[
+  {
+    "name": "Golden Spike National Historical Park",
+    "lat": 41.6171911,
+    "lon": -112.5507226,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/gosp/index.htm",
+    "id": "utah_golden_spike_national_historical_park"
+  },
+  {
+    "name": "Quarry Visitor Center",
+    "lat": 40.4381639,
+    "lon": -109.3070028,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quarry+Visitor+Center+Utah",
+    "id": "utah_quarry_visitor_center"
+  },
+  {
+    "name": "Quarry Exhibit Hall",
+    "lat": 40.4405438,
+    "lon": -109.3012328,
+    "imageURL": null,
+    "description": "Inside this striking glass building, visitors can see thousands of dinosaur fossils in the positions that nature deposited them more than 150 million years ago.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quarry+Exhibit+Hall+Utah",
+    "id": "utah_quarry_exhibit_hall"
+  },
+  {
+    "name": "Cub Creek Petroglyphs",
+    "lat": 40.4193563,
+    "lon": -109.1882437,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cub+Creek+Petroglyphs+Utah",
+    "id": "utah_cub_creek_petroglyphs"
+  },
+  {
+    "name": "Ruple Ranch (Historic Site)",
+    "lat": 40.5215514,
+    "lon": -109.1390222,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "farm",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ruple+Ranch+%28Historic+Site%29+Utah",
+    "id": "utah_ruple_ranch_historic_site"
+  },
+  {
+    "name": "Timpanogos Cave National Monument",
+    "lat": 40.4439208,
+    "lon": -111.7051436,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/tica/index.htm",
+    "id": "utah_timpanogos_cave_national_monument"
+  },
+  {
+    "name": "Donner-Reed Museum",
+    "lat": 40.6019483,
+    "lon": -112.4739085,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Donner-Reed+Museum+Utah",
+    "id": "utah_donner_reed_museum"
+  },
+  {
+    "name": "Fort Douglas Military Museum",
+    "lat": 40.7640863,
+    "lon": -111.8335371,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fort+Douglas+Military+Museum+Utah",
+    "id": "utah_fort_douglas_military_museum"
+  },
+  {
+    "name": "Temple Square",
+    "lat": 40.7704531,
+    "lon": -111.8921863,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Temple+Square+Utah",
+    "id": "utah_temple_square"
+  },
+  {
+    "name": "Lilly E. Gray: Victim of the Beast",
+    "lat": 40.777373,
+    "lon": -111.8541455,
+    "imageURL": null,
+    "description": "Here lies Lilly E. Gray, an alleged \"victim of the beast,\" but the reason long remained a mystery.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lilly+E.+Gray%3A+Victim+of+the+Beast+Utah",
+    "id": "utah_lilly_e_gray_victim_of_the_beast"
+  },
+  {
+    "name": "Allen Park",
+    "lat": 40.7299879,
+    "lon": -111.8533041,
+    "imageURL": null,
+    "description": "This former wildlife sanctuary is being transformed into an art park.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Allen+Park+Utah",
+    "id": "utah_allen_park"
+  },
+  {
+    "name": "World's First KFC",
+    "lat": 40.687276,
+    "lon": -111.888779,
+    "imageURL": null,
+    "description": "In 1952, this restaurant began selling the Colonel's “secret” recipe.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "food"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BWorld%27s+First+KFC%5D%5D%3E+Utah",
+    "id": "utah_cdata_world_s_first_kfc"
+  },
+  {
+    "name": "This Is The Place Monument",
+    "lat": 40.7520377,
+    "lon": -111.8162221,
+    "imageURL": null,
+    "description": "A towering tribute to decisiveness stands on the spot where Brigham Young and his followers decided that this must be the place.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=This+Is+The+Place+Monument+Utah",
+    "id": "utah_this_is_the_place_monument"
+  },
+  {
+    "name": "Anderson Tower Monument",
+    "lat": 40.7764323,
+    "lon": -111.8837913,
+    "imageURL": null,
+    "description": "This granite monument at the site of an ill-conceived tourist attraction is built from the same stone as the Mormon Temple.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Anderson+Tower+Monument+Utah",
+    "id": "utah_anderson_tower_monument"
+  },
+  {
+    "name": "Pioneer Memorial Museum",
+    "lat": 40.7767056,
+    "lon": -111.8911293,
+    "imageURL": null,
+    "description": "This museum remembers the tough Mormon trek across America through an intriguing array of artifacts.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pioneer+Memorial+Museum+Utah",
+    "id": "utah_pioneer_memorial_museum"
+  },
+  {
+    "name": "Salt Lake City Public Library",
+    "lat": 40.7600376,
+    "lon": -111.8846127,
+    "imageURL": null,
+    "description": "Visitors to this library are in for a real-world education in modernist architecture.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "drinking",
+      "park",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Salt+Lake+City+Public+Library+Utah",
+    "id": "utah_salt_lake_city_public_library"
+  },
+  {
+    "name": "Summum",
+    "lat": 40.7505645,
+    "lon": -111.9115142,
+    "imageURL": null,
+    "description": "Pyramid home to an obscure religious group that practices modern mummification. The church is open to the public on Wednesday evenings at 7:00 p.m. for philosophical readings and discussions, but appointments must be made ahead of time.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "drinking",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Summum+Utah",
+    "id": "utah_summum"
+  },
+  {
+    "name": "Gilgal Sculpture Garden",
+    "lat": 40.7588086,
+    "lon": -111.8693781,
+    "imageURL": null,
+    "description": "A hidden garden of stones engraved with scriptures, a Joseph Smith Sphinx, all carved by one man.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "garden"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Gilgal+Sculpture+Garden+Utah",
+    "id": "utah_gilgal_sculpture_garden"
+  },
+  {
+    "name": "Josie Morris Cabin",
+    "lat": 40.425431,
+    "lon": -109.1748351,
+    "imageURL": null,
+    "description": "This maintained cabin is where Josie Morris, an occasional associate of Butch Cassidy, lived out the last 50 years of her life by herself.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Josie+Morris+Cabin+Utah",
+    "id": "utah_josie_morris_cabin"
+  },
+  {
+    "name": "Fantasy Canyon",
+    "lat": 40.057357,
+    "lon": -109.3932191,
+    "imageURL": null,
+    "description": "Sandstone rock formations that look like they belong on the cover of a progressive rock album.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fantasy+Canyon+Utah",
+    "id": "utah_fantasy_canyon"
+  },
+  {
+    "name": "Uintah County Heritage Museum",
+    "lat": 40.4560745,
+    "lon": -109.5255867,
+    "imageURL": null,
+    "description": "An oddly specific collection of handmade dolls remembers the women of the White House.",
+    "info": null,
+    "categories": [
+      "food",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Uintah+County+Heritage+Museum+Utah",
+    "id": "utah_uintah_county_heritage_museum"
+  },
+  {
+    "name": "McConkie Ranch Petroglyphs",
+    "lat": 40.5460393,
+    "lon": -109.6368726,
+    "imageURL": null,
+    "description": "A unique collection of drawings that represent Fremont Native American culture.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "farm",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=McConkie+Ranch+Petroglyphs+Utah",
+    "id": "utah_mcconkie_ranch_petroglyphs"
+  },
+  {
+    "name": "Northrop Grumman Rocket Garden",
+    "lat": 41.6588609,
+    "lon": -112.4406694,
+    "imageURL": null,
+    "description": "Dozens of rockets and missiles are on display outside a testing facility in the Utah desert.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "garden"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Northrop+Grumman+Rocket+Garden+Utah",
+    "id": "utah_northrop_grumman_rocket_garden"
+  },
+  {
+    "name": "Spiral Jetty",
+    "lat": 41.4380628,
+    "lon": -112.6689943,
+    "imageURL": null,
+    "description": "An earthwork sculpture built by Robert Smithson in the Great Salt Lake only reemerges during drought.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spiral+Jetty+Utah",
+    "id": "utah_spiral_jetty"
+  },
+  {
+    "name": "Box Elder County Treasurer",
+    "lat": 41.5102765,
+    "lon": -112.0149875,
+    "imageURL": null,
+    "description": "Designed in 1887, this clock from the county office clock tower has been restored and is on full display.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "shopping"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Box+Elder+County+Treasurer+Utah",
+    "id": "utah_box_elder_county_treasurer"
+  },
+  {
+    "name": "Elite Hall",
+    "lat": 41.6343801,
+    "lon": -111.8577115,
+    "imageURL": null,
+    "description": "Built in 1917, this building is home to the last working spring-loaded dance floor in Utah.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elite+Hall+Utah",
+    "id": "utah_elite_hall"
+  },
+  {
+    "name": "Shooting Star Saloon",
+    "lat": 41.2605084,
+    "lon": -111.7713662,
+    "imageURL": null,
+    "description": "Eat burgers beneath gargantuan taxidermy and thousands of dollar bills in Utah's oldest continuously-operating bar",
+    "info": null,
+    "categories": [
+      "drinking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shooting+Star+Saloon+Utah",
+    "id": "utah_shooting_star_saloon"
+  },
+  {
+    "name": "Ogden's George S. Eccles Dinosaur Park",
+    "lat": 41.237827,
+    "lon": -111.937941,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BOgden%27s+George+S.+Eccles+Dinosaur+Park%5D%5D%3E+Utah",
+    "id": "utah_cdata_ogden_s_george_s_eccles_dinosaur_park"
+  },
+  {
+    "name": "The Stump",
+    "lat": 41.3067893,
+    "lon": -111.9693579,
+    "imageURL": null,
+    "description": "Water flowed out of the town's unusual tree stump fountain in the 1930s, and the well still runs today.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Stump+Utah",
+    "id": "utah_the_stump"
+  },
+  {
+    "name": "Hill Aerospace Museum",
+    "lat": 41.1624984,
+    "lon": -112.0187072,
+    "imageURL": null,
+    "description": "The last SR-71 ever constructed.",
+    "info": null,
+    "categories": [
+      "food",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hill+Aerospace+Museum+Utah",
+    "id": "utah_hill_aerospace_museum"
+  },
+  {
+    "name": "Antelope Island",
+    "lat": 40.9580848,
+    "lon": -112.2145571,
+    "imageURL": null,
+    "description": "The largest island on the great salt lake is home to curious creatures and strange stories.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Antelope+Island+Utah",
+    "id": "utah_antelope_island"
+  },
+  {
+    "name": "Iosepa Ghost Town",
+    "lat": 40.5419578,
+    "lon": -112.7335128,
+    "imageURL": null,
+    "description": "A desert settlement founded and later abandoned by Hawaiian members of the Church of Jesus Christ of Latter-day Saints in Utah's Skull Valley.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Iosepa+Ghost+Town+Utah",
+    "id": "utah_iosepa_ghost_town"
+  },
+  {
+    "name": "Mercur Cemetery",
+    "lat": 40.3051417,
+    "lon": -112.2584444,
+    "imageURL": null,
+    "description": "This creepy, abandoned cemetery is all that remains of a once booming mining town.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mercur+Cemetery+Utah",
+    "id": "utah_mercur_cemetery"
+  },
+  {
+    "name": "Bingham Copper Mine",
+    "lat": 40.5221684,
+    "lon": -112.1493862,
+    "imageURL": null,
+    "description": "Largest man-made excavation on earth!",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bingham+Copper+Mine+Utah",
+    "id": "utah_bingham_copper_mine"
+  },
+  {
+    "name": "Homestead Crater",
+    "lat": 40.5241801,
+    "lon": -111.4851265,
+    "imageURL": null,
+    "description": "This geothermal hot spring hides beneath a slowly growing mineral dome.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Homestead+Crater+Utah",
+    "id": "utah_homestead_crater"
+  },
+  {
+    "name": "Snowbird Tunnel",
+    "lat": 40.5628072,
+    "lon": -111.6429625,
+    "imageURL": null,
+    "description": "The only ski tunnel in North America provides easy access to amazing snow and beautiful views.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Snowbird+Tunnel+Utah",
+    "id": "utah_snowbird_tunnel"
+  },
+  {
+    "name": "The Great Saltair",
+    "lat": 40.7472083,
+    "lon": -112.1881944,
+    "imageURL": null,
+    "description": "This concert pavilion on the shore of the Great Salt Lake has been destroyed by fire, water, and disinterest but keeps coming back.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "music",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Great+Saltair+Utah",
+    "id": "utah_the_great_saltair"
+  },
+  {
+    "name": "U-Dig Fossils: Quarry",
+    "lat": 39.3548101,
+    "lon": -113.278735,
+    "imageURL": null,
+    "description": "Dig for your own trilobites in this goldmine of invertebrates",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=U-Dig+Fossils%3A+Quarry+Utah",
+    "id": "utah_u_dig_fossils_quarry"
+  },
+  {
+    "name": "Bonneville Salt Flats",
+    "lat": 40.7787454,
+    "lon": -113.8352043,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bonneville+Salt+Flats+Utah",
+    "id": "utah_bonneville_salt_flats"
+  },
+  {
+    "name": "Historic Wendover Airfield Museum",
+    "lat": 40.7281456,
+    "lon": -114.0375756,
+    "imageURL": null,
+    "description": "This pristine World War II airfield gives a comprehensive look at atomic development and aviation history.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Historic+Wendover+Airfield+Museum+Utah",
+    "id": "utah_historic_wendover_airfield_museum"
+  },
+  {
+    "name": "The tree of Utah",
+    "lat": 40.7335655,
+    "lon": -113.5513776,
+    "imageURL": null,
+    "description": "A 90-foot-tall psychedelic \"tree\" on the side of the highway has baffled passersby for decades.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "food"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+tree+of+Utah+Utah",
+    "id": "utah_the_tree_of_utah"
+  },
+  {
+    "name": "Sun Tunnels",
+    "lat": 41.3036264,
+    "lon": -113.8638055,
+    "imageURL": null,
+    "description": "A sculpture for the sun and stars, created by Nancy Holt.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sun+Tunnels+Utah",
+    "id": "utah_sun_tunnels"
+  },
+  {
+    "name": "Lucin",
+    "lat": 41.3483329,
+    "lon": -113.904167,
+    "imageURL": null,
+    "description": "This former rail stop in Utah was abandoned, repopulated by some nostalgic friends, and now is home to a single DIY aviator who lives in a hangar.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lucin+Utah",
+    "id": "utah_lucin"
+  },
+  {
+    "name": "Terrace Cemetery",
+    "lat": 41.5067833,
+    "lon": -113.5070303,
+    "imageURL": null,
+    "description": "Almost all that remains of a town dedicated to supporting the First Transcontinental Railroad.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Terrace+Cemetery+Utah",
+    "id": "utah_terrace_cemetery"
+  },
+  {
+    "name": "Republic of Zaquistan",
+    "lat": 41.4402207,
+    "lon": -113.4272711,
+    "imageURL": null,
+    "description": "A proto micro-nation sometimes populated by artists, surrounded on all sides by a Utah most barren.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "drinking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Republic+of+Zaquistan+Utah",
+    "id": "utah_republic_of_zaquistan"
+  },
+  {
+    "name": "Bear River Migratory Bird Refuge",
+    "lat": 41.5077121,
+    "lon": -112.0691165,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bear+River+Migratory+Bird+Refuge+Utah",
+    "id": "utah_bear_river_migratory_bird_refuge"
+  },
+  {
+    "name": "Camp Floyd State Park",
+    "lat": 40.2608129,
+    "lon": -112.0931045,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/camp-floyd/",
+    "id": "utah_camp_floyd_state_park"
+  },
+  {
+    "name": "Roots Of Knowledge Windows",
+    "lat": 40.2808752,
+    "lon": -111.7167467,
+    "imageURL": null,
+    "description": "An absolutely beautiful 200-foot stained glass installation traces the evolution of knowledge.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Roots+Of+Knowledge+Windows+Utah",
+    "id": "utah_roots_of_knowledge_windows"
+  },
+  {
+    "name": "Heindselman's Yarn, Spinning, Weaving, and Gifts",
+    "lat": 40.2339924,
+    "lon": -111.6617765,
+    "imageURL": null,
+    "description": "Pay a visit to America's oldest yarn shop.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "shopping"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BHeindselman%27s+Yarn%2C+Spinning%2C+Weaving%2C+and+Gifts%5D%5D%3E+Utah",
+    "id": "utah_cdata_heindselman_s_yarn_spinning_weaving_and_gifts"
+  },
+  {
+    "name": "Pro vo Tunnels",
+    "lat": 40.2345866,
+    "lon": -111.6591089,
+    "imageURL": null,
+    "description": "These 100-year-old tunnels in downtown Provo house artists, restaurants, and a few surprises. \nCENTER STREET IN DOWNTOWN PROVO is known for its local restaurants and public art. But the majority of visitors have no clue that there is a connection of tunnels running underneath them. \n\nLocals and Utah historians have been theorizing about these tunnels for decades. The tunnels are believed to run all across Provo and their existence has inspired many conspiracy theories. We do know, however, that the buildings and tunnels on Center Street were built between 1883-1904. The underground tunnels were used as a place to store meat and other perishable food before refrigerators were available. Blocks of ice from Utah Lake were kept with the food in the tunnels to keep it cold for as long as possible. \n\nA section of these tunnels is accessible to the public, inside Provo Town Square on the corner of University Ave and Center St. There are a few staircases in the building that lead downstairs to the tunnels. There you can explore murals, small businesses, restaurants, and even a tattoo shop. \n\nKnow Before You Go\nTo access stairs to the tunnels there are a few ways:\n\n1. Enter the door at 32 W Center St. Walk down the hallway and turn left. There you will find a public stairwell.\n\n2. Enter through The Social. Walk through the Provo Town Square Courtyard, behind the parking garage located at 98 N 100 W. There is a large sign that says \"The Social\" with an arrow pointing to some stairs. Go down the stairs, and enter The Social. You can exit the social through the first door you see to access the tunnels",
+    "info": null,
+    "categories": [
+      "landmark",
+      "drinking",
+      "food",
+      "park",
+      "hiking",
+      "shopping",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pro+vo+Tunnels+Utah",
+    "id": "utah_pro_vo_tunnels"
+  },
+  {
+    "name": "Castle Amphitheatre",
+    "lat": 40.2341,
+    "lon": -111.6316972,
+    "imageURL": null,
+    "description": "This large, castle-like structure is hidden amid the mountains on the grounds of the Utah State Hospital.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking",
+      "music"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Castle+Amphitheatre+Utah",
+    "id": "utah_castle_amphitheatre"
+  },
+  {
+    "name": "Mountain America Museum of Ancient Life at Thanksgiving Point",
+    "lat": 40.424927,
+    "lon": -111.885768,
+    "imageURL": null,
+    "description": "Largest collection of mounted dinosaur specimens in the world.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mountain+America+Museum+of+Ancient+Life+at+Thanksgiving+Point+Utah",
+    "id": "utah_mountain_america_museum_of_ancient_life_at_thanksgiving_point"
+  },
+  {
+    "name": "Hutchings Museum",
+    "lat": 40.3886021,
+    "lon": -111.8496797,
+    "imageURL": null,
+    "description": "The extensive collection of an amateur naturalist.",
+    "info": null,
+    "categories": [
+      "food",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hutchings+Museum+Utah",
+    "id": "utah_hutchings_museum"
+  },
+  {
+    "name": "Shri Shri Radha Krishna Temple",
+    "lat": 40.0756465,
+    "lon": -111.6621802,
+    "imageURL": null,
+    "description": "Despite sitting firmly in the global cradle of the Church of Jesus Christ of Latter-day Saints, this Hare Krishna temple is host to one of the largest color festivals outside India.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri+Shri+Radha+Krishna+Temple+Utah",
+    "id": "utah_shri_shri_radha_krishna_temple"
+  },
+  {
+    "name": "Oakley Diner",
+    "lat": 40.7161381,
+    "lon": -111.2998962,
+    "imageURL": null,
+    "description": "What's a diner from the 1939 World's Fair doing in a remote Utah mountain town?",
+    "info": null,
+    "categories": [
+      "landmark",
+      "food",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Oakley+Diner+Utah",
+    "id": "utah_oakley_diner"
+  },
+  {
+    "name": "Tintic Standard",
+    "lat": 39.95748,
+    "lon": -111.855,
+    "imageURL": null,
+    "description": "The remains of this early 20th century refinery loom on a mountainside like a graffiti-covered fortress.  There is now barbed wire fencing and a very clear sign from a Utah State agency and brand new signs saying “NO TRESPASSING, VIOLATORS WILL BE PROSECUTED” and a dire warning about high levels of arsenic and lead in the water, rock, and dust. If you wish to go there, you will be unable to enter the ruins without explicitly violating the warnings and jumping the clearly marked fencing. You can get a fairly decent view of it from the old railroad bed/track area just near the fence.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tintic+Standard+Utah",
+    "id": "utah_tintic_standard"
+  },
+  {
+    "name": "Elberta Sinclair Station",
+    "lat": 39.951772,
+    "lon": -111.9558995,
+    "imageURL": null,
+    "description": "This lonely gas station has stood at this location since 1917",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elberta+Sinclair+Station+Utah",
+    "id": "utah_elberta_sinclair_station"
+  },
+  {
+    "name": "Topaz Museum",
+    "lat": 39.3521373,
+    "lon": -112.5761687,
+    "imageURL": null,
+    "description": "A museum in rural Utah documents the history of the Japanese Americans who were forcibly relocated there.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Topaz+Museum+Utah",
+    "id": "utah_topaz_museum"
+  },
+  {
+    "name": "Red Fleet State Park",
+    "lat": 40.58715,
+    "lon": -109.4433707,
+    "imageURL": null,
+    "description": "Although Utah is filled with dinosaur-related spots, one of the lesser-known areas for amateur paleontologists is Red Fleet State Park in Eastern Utah. Take a three-mile hike, or rent a canoe or kayak to explore the shoreline of the lake, which is home to 200-million-year-old tracks belonging to three-toed dinosaurs. The best times to view the tracks is early morning or late afternoon (overhead sun makes them harder to spot). If small children have a hard time finding the tracks, do what guides do: pour some water in the footprint to make it more visible. Obsessed with fossils? Some areas along the shore are covered with a crumbly shale. Dig around and you can easily find tiny fossils in the shale, with the most common being fish scales and shells. Enjoy the hunt but leave the rocks behind as removing anything from the lake is prohibited.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "historic",
+      "water"
+    ],
+    "url": "https://stateparks.utah.gov/parks/red-fleet/",
+    "id": "utah_red_fleet_state_park"
+  },
+  {
+    "name": "Salt Lake City Council Hall",
+    "lat": 40.7755612,
+    "lon": -111.8877147,
+    "imageURL": null,
+    "description": "NHL - Completed in 1866, the city hall also served as the capitol of the Utah Territory, and was the scene of many tensions between Mormon leaders and the United States.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Salt+Lake+City+Council+Hall+Utah",
+    "id": "utah_salt_lake_city_council_hall"
+  },
+  {
+    "name": "Center for Land Use Interpretation Orientation Building",
+    "lat": 40.7308987,
+    "lon": -114.0286578,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Center+for+Land+Use+Interpretation+Orientation+Building+Utah",
+    "id": "utah_center_for_land_use_interpretation_orientation_building"
+  },
+  {
+    "name": "Ogden Nature Center",
+    "lat": 41.24476,
+    "lon": -112.003537,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Ogden+Nature+Center+Utah",
+    "id": "utah_ogden_nature_center"
+  },
+  {
+    "name": "Wasatch Mountain State Park",
+    "lat": 40.5330942,
+    "lon": -111.4900505,
+    "imageURL": null,
+    "description": "Classic Wasatch alpine scenery — forests, peaks, fall colors. Excellent hiking with big mountain views.\n\nVerdict: Best mountain scenery in this group.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking"
+    ],
+    "url": "https://stateparks.utah.gov/parks/wasatch-mountain/",
+    "id": "utah_wasatch_mountain_state_park"
+  },
+  {
+    "name": "Bear Lake State Park",
+    "lat": 41.9606469,
+    "lon": -111.3986914,
+    "imageURL": null,
+    "description": "Nicknamed the “Caribbean of the Rockies” for its turquoise water. The color really is striking on a clear day.\n\nVerdict: Most visually surprising lake.",
+    "info": null,
+    "categories": [
+      "park",
+      "water"
+    ],
+    "url": "https://stateparks.utah.gov/parks/bear-lake/",
+    "id": "utah_bear_lake_state_park"
+  },
+  {
+    "name": "Utah Field House of Natural History State Park Museum",
+    "lat": 40.4552778,
+    "lon": -109.5197222,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "park",
+      "historic"
+    ],
+    "url": "https://stateparks.utah.gov/parks/utah-field-house/",
+    "id": "utah_utah_field_house_of_natural_history_state_park_museum"
+  },
+  {
+    "name": "Buds",
+    "lat": 40.7630805,
+    "lon": -111.8764421,
+    "imageURL": null,
+    "description": "good affordable sandwiches",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Buds+Utah",
+    "id": "utah_buds"
+  },
+  {
+    "name": "Snow Canyon State Park",
+    "lat": 37.217814,
+    "lon": -113.639596,
+    "imageURL": null,
+    "description": "Although it also features red, orange, and variegated cliffs of Navajo Sandstone, this state park is often overshadowed by its more famous neighbor.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/snow-canyon/",
+    "id": "utah_snow_canyon_state_park"
+  },
+  {
+    "name": "Kanab Visitor Center",
+    "lat": 37.042429,
+    "lon": -112.512183,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kanab+Visitor+Center+Utah",
+    "id": "utah_kanab_visitor_center"
+  },
+  {
+    "name": "Cedar Breaks National Monument",
+    "lat": 37.63627,
+    "lon": -112.845234,
+    "imageURL": null,
+    "description": "Erosion and various mineral deposits give this striking canyon its distinct color and soft appearance.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/cebr/index.htm",
+    "id": "utah_cedar_breaks_national_monument"
+  },
+  {
+    "name": "Bryce Canyon National Park",
+    "lat": 37.593038,
+    "lon": -112.18709,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/brca/index.htm",
+    "id": "utah_bryce_canyon_national_park"
+  },
+  {
+    "name": "Kodachrome Basin State Park",
+    "lat": 37.517762,
+    "lon": -111.993958,
+    "imageURL": null,
+    "description": "This quiet park's strange sedimentary spires were named after Kodak's color film.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/kodachrome-basin/",
+    "id": "utah_kodachrome_basin_state_park"
+  },
+  {
+    "name": "Grand Staircase-Escalante National Monument",
+    "lat": 37.460876,
+    "lon": -111.594348,
+    "imageURL": null,
+    "description": "This rugged area of red rocks and arches is often considered one of the most beautiful places on Earth.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.blm.gov/national-conservation-lands/utah/grand-staircase-escalante-national-monument",
+    "id": "utah_grand_staircase_escalante_national_monument"
+  },
+  {
+    "name": "Rainbow Bridge National Monument",
+    "lat": 37.07746,
+    "lon": -110.964222,
+    "imageURL": null,
+    "description": "This magnificent natural sandstone bridge is one of the largest in the world and is an iconic symbol for Lake Powell.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "water"
+    ],
+    "url": "https://www.nps.gov/rabr/index.htm",
+    "id": "utah_rainbow_bridge_national_monument"
+  },
+  {
+    "name": "Frisco",
+    "lat": 38.45635,
+    "lon": -113.258853,
+    "imageURL": null,
+    "description": "Only ruined buildings and abandoned charcoal kilns remain of this once bustling Wild West boom town.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Frisco+Utah",
+    "id": "utah_frisco"
+  },
+  {
+    "name": "Parowan Gap Petroglyphs",
+    "lat": 37.909374,
+    "lon": -112.984225,
+    "imageURL": null,
+    "description": "Hundreds of drawings left by the land's previous inhabitants remain mysterious.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parowan+Gap+Petroglyphs+Utah",
+    "id": "utah_parowan_gap_petroglyphs"
+  },
+  {
+    "name": "Cascade Falls",
+    "lat": 37.501924,
+    "lon": -112.757161,
+    "imageURL": null,
+    "description": "An improbable waterfall springs from an orange-white cliff face, tumbling into the headwaters of the Virgin River above Zion National Park.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cascade+Falls+Utah",
+    "id": "utah_cascade_falls"
+  },
+  {
+    "name": "Electric Theater Center",
+    "lat": 37.107907,
+    "lon": -113.581933,
+    "imageURL": null,
+    "description": "The first motion picture theater in southern Utah, reimagined and renovated as an arts hub.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "music"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Electric+Theater+Center+Utah",
+    "id": "utah_electric_theater_center"
+  },
+  {
+    "name": "Grafton Ghost Town",
+    "lat": 37.167406,
+    "lon": -113.08183,
+    "imageURL": null,
+    "description": "Settled by the Church of Jesus Christ of Latter-day Saints in 1859, this abandoned frontier town has appeared in several films.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Grafton+Ghost+Town+Utah",
+    "id": "utah_grafton_ghost_town"
+  },
+  {
+    "name": "Zion-Mount Carmel Tunnel - East Entrance",
+    "lat": 37.212858,
+    "lon": -112.941203,
+    "imageURL": null,
+    "description": "A tunnel with windows, so you don't miss out on the impressive views.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Zion-Mount+Carmel+Tunnel+-+East+Entrance+Utah",
+    "id": "utah_zion_mount_carmel_tunnel_east_entrance"
+  },
+  {
+    "name": "Checkerboard Mesa",
+    "lat": 37.224567,
+    "lon": -112.880169,
+    "imageURL": null,
+    "description": "The unusual patterns in this rock formation result from two distinct modes of weathering.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Checkerboard+Mesa+Utah",
+    "id": "utah_checkerboard_mesa"
+  },
+  {
+    "name": "Checkerboard Mesa View Area",
+    "lat": 37.230133,
+    "lon": -112.878722,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Checkerboard+Mesa+View+Area+Utah",
+    "id": "utah_checkerboard_mesa_view_area"
+  },
+  {
+    "name": "The Narrows",
+    "lat": 37.305005,
+    "lon": -112.949116,
+    "imageURL": null,
+    "description": "The hike through a narrow river flanked by the 2,000-foot-tall walls of Zion Canyon is one of the best in the world.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Narrows+Utah",
+    "id": "utah_the_narrows"
+  },
+  {
+    "name": "17 Room Ruin",
+    "lat": 37.2748,
+    "lon": -109.5102,
+    "imageURL": null,
+    "description": "A well-preserved Ancestral Puebloan ruin tucked beneath a desert cliff.You can still access the ruins by taking US 191 South across the San Juan River from Bluff and then onto county road 438 (you can also take 441 as the roads will intersect, however, 438 will be paved until it intersects with 438.) The is well maintained until the ruins, at which point the road is rather hard to even fully discern between what is a road and what is a dry wash bed. A four-wheel-drive vehicle is needed to make it to the ruins. There's also a \"don't litter\" sign right near the road before the hill to climb up to the ruins. Be mindful of nearby Navajo homesteads and don't trespass on their lands or be unnecessarily loud.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "historic",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=17+Room+Ruin+Utah",
+    "id": "utah_17_room_ruin"
+  },
+  {
+    "name": "Forest Gump Point",
+    "lat": 37.103298,
+    "lon": -109.988143,
+    "imageURL": null,
+    "description": "The location where the iconic movie character declared it was time to go home.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Forest+Gump+Point+Utah",
+    "id": "utah_forest_gump_point"
+  },
+  {
+    "name": "Mule Canyon Kiva",
+    "lat": 37.539286,
+    "lon": -109.741966,
+    "imageURL": null,
+    "description": "Mule Canyon Kiva",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mule+Canyon+Kiva+Utah",
+    "id": "utah_mule_canyon_kiva"
+  },
+  {
+    "name": "Cathedral in the Desert",
+    "lat": 37.284357,
+    "lon": -110.919044,
+    "imageURL": null,
+    "description": "The damming of the Colorado River buried an iconic geologic formation before record-breaking drought brought it back.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cathedral+in+the+Desert+Utah",
+    "id": "utah_cathedral_in_the_desert"
+  },
+  {
+    "name": "Zion National Park",
+    "lat": 37.298202,
+    "lon": -113.0263,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/zion/index.htm",
+    "id": "utah_zion_national_park"
+  },
+  {
+    "name": "House on Fire",
+    "lat": 37.543726,
+    "lon": -109.744536,
+    "imageURL": null,
+    "description": "An Ancestral Puebloan ruin that appears to burst into flames in the sunlight.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=House+on+Fire+Utah",
+    "id": "utah_house_on_fire"
+  },
+  {
+    "name": "Wahweap Hoodoos Trailhead",
+    "lat": 37.11203,
+    "lon": -111.688661,
+    "imageURL": null,
+    "description": "Giant pinnacles in the sun-scorched lands of Southern Utah have been nicknamed \"white ghosts.\"",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wahweap+Hoodoos+Trailhead+Utah",
+    "id": "utah_wahweap_hoodoos_trailhead"
+  },
+  {
+    "name": "Burr Trail Switchbacks",
+    "lat": 37.84689,
+    "lon": -111.025243,
+    "imageURL": null,
+    "description": "Once a menacing challenge for trailblazers, this trail is now the most scenic drive in Utah.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Burr+Trail+Switchbacks+Utah",
+    "id": "utah_burr_trail_switchbacks"
+  },
+  {
+    "name": "Factory Butte",
+    "lat": 38.436925,
+    "lon": -110.913491,
+    "imageURL": null,
+    "description": "A striking, menacing sandstone peak towering above a landscape that's equal parts Mordor and the Moon.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Factory+Butte+Utah",
+    "id": "utah_factory_butte"
+  },
+  {
+    "name": "The Mars Desert Research Station (MDRS)",
+    "lat": 38.406278,
+    "lon": -110.791792,
+    "imageURL": null,
+    "description": "A Mars simulation in the southern Utah desert.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Mars+Desert+Research+Station+%28MDRS%29+Utah",
+    "id": "utah_the_mars_desert_research_station_mdrs"
+  },
+  {
+    "name": "Carl’s Critter Garden",
+    "lat": 38.374715,
+    "lon": -110.711637,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "garden"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Carl%E2%80%99s+Critter+Garden+Utah",
+    "id": "utah_carl_s_critter_garden"
+  },
+  {
+    "name": "Hollow Mountain",
+    "lat": 38.373641,
+    "lon": -110.704836,
+    "imageURL": null,
+    "description": "At this gas station in the middle of the desert, a convenience store has been carved directly into the rock.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking",
+      "shopping"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hollow+Mountain+Utah",
+    "id": "utah_hollow_mountain"
+  },
+  {
+    "name": "Kathline Rock",
+    "lat": 38.460002,
+    "lon": -110.674467,
+    "imageURL": null,
+    "description": "This roadside stop between Goblin Valley is the perfect location to view some of the region's natural wonders.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kathline+Rock+Utah",
+    "id": "utah_kathline_rock"
+  },
+  {
+    "name": "Goblin Valley State Park",
+    "lat": 38.573697,
+    "lon": -110.707109,
+    "imageURL": null,
+    "description": "Bizarre lunar-like landscape with thousands of large stone \"hoodoos.\"",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/goblin-valley/",
+    "id": "utah_goblin_valley_state_park"
+  },
+  {
+    "name": "Coral Pink Sand Dunes State Park",
+    "lat": 37.037738,
+    "lon": -112.714433,
+    "imageURL": null,
+    "description": "Colorful sand dunes create a unique attraction in this part of Utah's red-rock country.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/coral-pink/",
+    "id": "utah_coral_pink_sand_dunes_state_park"
+  },
+  {
+    "name": "Little Hollywood Land: Museum, Trading Post & Chuckwagon Cookout",
+    "lat": 37.047724,
+    "lon": -112.534427,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BLittle+Hollywood+Land%3A+Museum%2C+Trading+Post+%26+Chuckwagon+Cookout%5D%5D%3E+Utah",
+    "id": "utah_cdata_little_hollywood_land_museum_trading_post_chuckwagon_cookout"
+  },
+  {
+    "name": "Moqui Cave",
+    "lat": 37.121149,
+    "lon": -112.563962,
+    "imageURL": null,
+    "description": "This ancient cave is home to a museum, bar, and is filled with fluorescent minerals.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Moqui+Cave+Utah",
+    "id": "utah_moqui_cave"
+  },
+  {
+    "name": "Angels Rest Pet Memorial Park",
+    "lat": 37.147837,
+    "lon": -112.540247,
+    "imageURL": null,
+    "description": "Not your typical pet cemetery.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Angels+Rest+Pet+Memorial+Park+Utah",
+    "id": "utah_angels_rest_pet_memorial_park"
+  },
+  {
+    "name": "The Belly of the Dragon (Trailhead)",
+    "lat": 37.211548,
+    "lon": -112.685095,
+    "imageURL": null,
+    "description": "Nature has shaped this drainage tunnel into the digestive tract of a mighty beast.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Belly+of+the+Dragon+%28Trailhead%29+Utah",
+    "id": "utah_the_belly_of_the_dragon_trailhead"
+  },
+  {
+    "name": "Hurricane Valley Heritage Park Museum",
+    "lat": 37.176368,
+    "lon": -113.28885,
+    "imageURL": null,
+    "description": "A museum has some wedding cake dating to the Teddy Roosevelt administration, and some bacon from FDR's.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hurricane+Valley+Heritage+Park+Museum+Utah",
+    "id": "utah_hurricane_valley_heritage_park_museum"
+  },
+  {
+    "name": "Historic Pine Valley Chapel",
+    "lat": 37.391879,
+    "lon": -113.514625,
+    "imageURL": null,
+    "description": "This church was constructed by a shipbuilder and designed like an upside-down boat.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Historic+Pine+Valley+Chapel+Utah",
+    "id": "utah_historic_pine_valley_chapel"
+  },
+  {
+    "name": "Mountain Meadow, Utah",
+    "lat": 37.517478,
+    "lon": -113.621351,
+    "imageURL": null,
+    "description": "A stoic rock cairn is all that remains to remember one of the more brutal instances of frontier treachery in American history.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mountain+Meadow%2C+Utah+Utah",
+    "id": "utah_mountain_meadow_utah"
+  },
+  {
+    "name": "Page Ranch House",
+    "lat": 37.567413,
+    "lon": -113.423366,
+    "imageURL": null,
+    "description": "Built at the turn of the 20th century, using bricks made and fired from clay found on the property.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "farm"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Page+Ranch+House+Utah",
+    "id": "utah_page_ranch_house"
+  },
+  {
+    "name": "Old Iron Town Historic Site",
+    "lat": 37.599893,
+    "lon": -113.449501,
+    "imageURL": null,
+    "description": "Irontown was founded in 1868, as a second attempt to mine iron from the nearby Iron Mountain.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Old+Iron+Town+Historic+Site+Utah",
+    "id": "utah_old_iron_town_historic_site"
+  },
+  {
+    "name": "Quilt Walk Park",
+    "lat": 37.822633,
+    "lon": -112.434564,
+    "imageURL": null,
+    "description": "If it wasn’t for an innovative use of quilts during a crisis, the city of Panguitch might not exist today.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quilt+Walk+Park+Utah",
+    "id": "utah_quilt_walk_park"
+  },
+  {
+    "name": "Mossy Cave Trailhead",
+    "lat": 37.665719,
+    "lon": -112.11035,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mossy+Cave+Trailhead+Utah",
+    "id": "utah_mossy_cave_trailhead"
+  },
+  {
+    "name": "Newspaper Rock State Historical Monument",
+    "lat": 37.988411,
+    "lon": -109.518179,
+    "imageURL": null,
+    "description": "One of the world’s largest collections of petroglyphs records 2,000 years of human activity.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "historic"
+    ],
+    "url": "https://stateparks.utah.gov/parks/newspaper-rock/",
+    "id": "utah_newspaper_rock_state_historical_monument"
+  },
+  {
+    "name": "Home of Truth Ranch",
+    "lat": 38.059778,
+    "lon": -109.404435,
+    "imageURL": null,
+    "description": "This ghost town was once a cult-like religious utopian settlement.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "farm"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Home+of+Truth+Ranch+Utah",
+    "id": "utah_home_of_truth_ranch"
+  },
+  {
+    "name": "Church Rock",
+    "lat": 38.07388,
+    "lon": -109.345115,
+    "imageURL": null,
+    "description": "Oddly shaped rock formation, misassociated with a nearby utopian community.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Church+Rock+Utah",
+    "id": "utah_church_rock"
+  },
+  {
+    "name": "Hole 'N' The Rock",
+    "lat": 38.390809,
+    "lon": -109.454285,
+    "imageURL": null,
+    "description": "A house carved into a rock in the 1940s.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BHole+%27N%27+The+Rock%5D%5D%3E+Utah",
+    "id": "utah_cdata_hole_n_the_rock"
+  },
+  {
+    "name": "Mill Creek North Fork Trailhead",
+    "lat": 38.56203,
+    "lon": -109.516813,
+    "imageURL": null,
+    "description": "A small oasis not far from downtown Moab.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mill+Creek+North+Fork+Trailhead+Utah",
+    "id": "utah_mill_creek_north_fork_trailhead"
+  },
+  {
+    "name": "Moab Rock Shop",
+    "lat": 38.582342,
+    "lon": -109.552292,
+    "imageURL": null,
+    "description": "This Moab institution functions as both a rock store and a small natural history museum.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic",
+      "shopping"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Moab+Rock+Shop+Utah",
+    "id": "utah_moab_rock_shop"
+  },
+  {
+    "name": "Potash Rd Rock Art Site",
+    "lat": 38.544483,
+    "lon": -109.600052,
+    "imageURL": null,
+    "description": "This site is home to ancient petroglyphs and pictographs dating back to 6,000 B.C.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Potash+Rd+Rock+Art+Site+Utah",
+    "id": "utah_potash_rd_rock_art_site"
+  },
+  {
+    "name": "Hovenweep National Monument",
+    "lat": 37.383762,
+    "lon": -109.072602,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/hove/index.htm",
+    "id": "utah_hovenweep_national_monument"
+  },
+  {
+    "name": "Edge of the Cedars State Park Museum",
+    "lat": 37.631472,
+    "lon": -109.489945,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/edge-of-the-cedars/",
+    "id": "utah_edge_of_the_cedars_state_park_museum"
+  },
+  {
+    "name": "Gemini Bridges Trailhead & Campground",
+    "lat": 38.656468,
+    "lon": -109.677729,
+    "imageURL": null,
+    "description": "It's safe—and permitted—to walk across these twin natural sandstone arches.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=%3C%21%5BCDATA%5BGemini+Bridges+Trailhead+%26+Campground%5D%5D%3E+Utah",
+    "id": "utah_cdata_gemini_bridges_trailhead_campground"
+  },
+  {
+    "name": "Tusher Tunnel Trailhead",
+    "lat": 38.710989,
+    "lon": -109.782758,
+    "imageURL": null,
+    "description": "A crack flared at the base provides a pathway completely through a sandstone ridge near Moab.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tusher+Tunnel+Trailhead+Utah",
+    "id": "utah_tusher_tunnel_trailhead"
+  },
+  {
+    "name": "Upheaval Dome",
+    "lat": 38.436817,
+    "lon": -109.9295,
+    "imageURL": null,
+    "description": "This raised bulls-eye visible from space was the subject of an intense geologic controversy.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Upheaval+Dome+Utah",
+    "id": "utah_upheaval_dome"
+  },
+  {
+    "name": "Landscape Arch",
+    "lat": 38.790473,
+    "lon": -109.60713,
+    "imageURL": null,
+    "description": "The fifth-longest natural arch in the world, and the longest outside China.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/arch/index.htm",
+    "id": "utah_landscape_arch"
+  },
+  {
+    "name": "Arches National Park Visitor Center",
+    "lat": 38.616589,
+    "lon": -109.619846,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/arch/index.htm",
+    "id": "utah_arches_national_park_visitor_center"
+  },
+  {
+    "name": "Cisco",
+    "lat": 38.969985,
+    "lon": -109.320672,
+    "imageURL": null,
+    "description": "Within the former ghost town of Cisco is a carefully restored tiny town with one resident and its own art residency.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "shopping"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cisco+Utah",
+    "id": "utah_cisco"
+  },
+  {
+    "name": "Fisher Towers",
+    "lat": 38.724,
+    "lon": -109.3083,
+    "imageURL": null,
+    "description": "These tall, red sandstone pinnacles outside Moab are often forgotten amid their more famous neighbors.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Fisher+Towers+Utah",
+    "id": "utah_fisher_towers"
+  },
+  {
+    "name": "John Wesley Powell River History Museum",
+    "lat": 38.993915,
+    "lon": -110.1411,
+    "imageURL": null,
+    "description": "Contains a wealth of information about the first exploration and later use of the Green and Colorado Rivers.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=John+Wesley+Powell+River+History+Museum+Utah",
+    "id": "utah_john_wesley_powell_river_history_museum"
+  },
+  {
+    "name": "Elgin Cemetery",
+    "lat": 39.015666,
+    "lon": -110.135525,
+    "imageURL": null,
+    "description": "A cemetery full of touching tombstones from a community of railroad workers, uranium miners, and Cold War missile launchers.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Elgin+Cemetery+Utah",
+    "id": "utah_elgin_cemetery"
+  },
+  {
+    "name": "Sego Canyon",
+    "lat": 39.024414,
+    "lon": -109.708736,
+    "imageURL": null,
+    "description": "Thousands of years ago, Indigenous people painted images onto these canyon walls that are still on display today, provocative, mysterious, and enduring reminders of the people who lived here long ago.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sego+Canyon+Utah",
+    "id": "utah_sego_canyon"
+  },
+  {
+    "name": "Sego",
+    "lat": 39.041451,
+    "lon": -109.711502,
+    "imageURL": null,
+    "description": "A ghost town that held steady longer than most, but finally gave up the ghost.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sego+Utah",
+    "id": "utah_sego"
+  },
+  {
+    "name": "Meadow Hot Spring",
+    "lat": 38.863435,
+    "lon": -112.506296,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Meadow+Hot+Spring+Utah",
+    "id": "utah_meadow_hot_spring"
+  },
+  {
+    "name": "Territorial Statehouse State Park Museum",
+    "lat": 38.967079,
+    "lon": -112.325418,
+    "imageURL": null,
+    "description": "Utah’s original territorial capitol building. Red sandstone and surprisingly stately for its frontier roots.\n\nVerdict: Most architecturally significant historic site in this group.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "park",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://stateparks.utah.gov/parks/territorial-statehouse/",
+    "id": "utah_territorial_statehouse_state_park_museum"
+  },
+  {
+    "name": "CCC/POW Camp",
+    "lat": 38.957665,
+    "lon": -111.84776,
+    "imageURL": null,
+    "description": "Where a guard killed nine German prisoners during one of the worst 20th-century POW camp massacres in U.S. history.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=CCC%2FPOW+Camp+Utah",
+    "id": "utah_ccc_pow_camp"
+  },
+  {
+    "name": "Mystic Hot Springs",
+    "lat": 38.633811,
+    "lon": -112.108471,
+    "imageURL": null,
+    "description": "One man has installed bathtubs into the Utah desert floor to harness the powers of a natural hot spring.",
+    "info": null,
+    "categories": [
+      "park",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Mystic+Hot+Springs+Utah",
+    "id": "utah_mystic_hot_springs"
+  },
+  {
+    "name": "Pando Aspen Tree",
+    "lat": 38.524448,
+    "lon": -111.750656,
+    "imageURL": null,
+    "description": "One of the world's oldest and most massive living organisms is a grove of quaking aspens.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Pando+Aspen+Tree+Utah",
+    "id": "utah_pando_aspen_tree"
+  },
+  {
+    "name": "Dead Horse Point State Park",
+    "lat": 38.505427,
+    "lon": -109.729424,
+    "imageURL": null,
+    "description": "The Colorado River looping 2,000 feet below sheer red cliffs. It rivals Canyonlands for drama — and sometimes delivers better sunset light. Minimal hiking required for maximum payoff.\n\nVerdict: The most jaw-dropping park on your list.",
+    "info": null,
+    "categories": [
+      "park",
+      "food",
+      "hiking",
+      "water"
+    ],
+    "url": "https://stateparks.utah.gov/parks/dead-horse-point/",
+    "id": "utah_dead_horse_point_state_park"
+  },
+  {
+    "name": "Buckhorn Wash Pictograph Panel",
+    "lat": 39.123458,
+    "lon": -110.693881,
+    "imageURL": null,
+    "description": "This gallery of prehistoric red ochre art lines the wall of a scenic segment in Utah's San Rafael Swell.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Buckhorn+Wash+Pictograph+Panel+Utah",
+    "id": "utah_buckhorn_wash_pictograph_panel"
+  },
+  {
+    "name": "Wedge Overlook",
+    "lat": 39.096005,
+    "lon": -110.749354,
+    "imageURL": null,
+    "description": "A spectacular overlook of the Little Grand Canyon of the San Rafael River, a deep sandstone gorge streaked with orange, red and white in a remote, uncrowded part of Utah.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Wedge+Overlook+Utah",
+    "id": "utah_wedge_overlook"
+  },
+  {
+    "name": "Canyonlands National Park",
+    "lat": 38.213573,
+    "lon": -109.902534,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/cany/index.htm",
+    "id": "utah_canyonlands_national_park"
+  },
+  {
+    "name": "Capitol Reef National Park",
+    "lat": 38.087731,
+    "lon": -111.135498,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.nps.gov/care/index.htm",
+    "id": "utah_capitol_reef_national_park"
+  },
+  {
+    "name": "Bears Ears National Monument - Indian Creek Unit",
+    "lat": 38.01917,
+    "lon": -109.538688,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "water"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bears+Ears+National+Monument+-+Indian+Creek+Unit+Utah",
+    "id": "utah_bears_ears_national_monument_indian_creek_unit"
+  },
+  {
+    "name": "Valley of the Gods",
+    "lat": 37.266668,
+    "lon": -109.834014,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley+of+the+Gods+Utah",
+    "id": "utah_valley_of_the_gods"
+  },
+  {
+    "name": "Goosenecks State Park",
+    "lat": 37.174902,
+    "lon": -109.927127,
+    "imageURL": null,
+    "description": "Extreme river meanders carved 1,000 feet deep. A short stop, but unforgettable geometry.",
+    "info": null,
+    "categories": [
+      "park",
+      "water"
+    ],
+    "url": "https://stateparks.utah.gov/parks/goosenecks/",
+    "id": "utah_goosenecks_state_park"
+  },
+  {
+    "name": "Owachomo Bridge",
+    "lat": 37.58232,
+    "lon": -110.014177,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Owachomo+Bridge+Utah",
+    "id": "utah_owachomo_bridge"
+  },
+  {
+    "name": "The Subway",
+    "lat": 37.309081,
+    "lon": -113.052213,
+    "imageURL": null,
+    "description": "The Subway slot canyon takes some time and effort, but for a spectacle with plenty of thrills and chills (bring your wetsuit), it’s worth it",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Subway+Utah",
+    "id": "utah_the_subway"
+  },
+  {
+    "name": "Cleveland-Lloyd Dinosaur Quarry",
+    "lat": 39.323032,
+    "lon": -110.687822,
+    "imageURL": null,
+    "description": "containing the densest concentration of Jurassic dinosaur fossils ever found",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Cleveland-Lloyd+Dinosaur+Quarry+Utah",
+    "id": "utah_cleveland_lloyd_dinosaur_quarry"
+  },
+  {
+    "name": "Joshua Tree National Natural Landmark",
+    "lat": 37.025708,
+    "lon": -113.904448,
+    "imageURL": null,
+    "description": "The only Joshua tree forest in Utah and the northernmost stand of tree yuccas in the country.",
+    "info": null,
+    "categories": [
+      "park",
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Natural+Landmark+Utah",
+    "id": "utah_joshua_tree_national_natural_landmark"
+  },
+  {
+    "name": "The Lodge at Bryce Canyon",
+    "lat": 37.627028,
+    "lon": -112.168026,
+    "imageURL": null,
+    "description": "NHL - The Union Pacific Railroad built this national park lodge in 1924–1927. The architectural style was used by railroads for lodges across the American west with the encouragement of the National Park Service.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=The+Lodge+at+Bryce+Canyon+Utah",
+    "id": "utah_the_lodge_at_bryce_canyon"
+  },
+  {
+    "name": "Topaz Internment Camp Site",
+    "lat": 39.41799,
+    "lon": -112.779387,
+    "imageURL": null,
+    "description": "NHL - One of 10 relocation centers for internment of Japanese Americans during World War II. The internees were mostly from northern California and the San Francisco Bay Area, and included many professional artists",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Topaz+Internment+Camp+Site+Utah",
+    "id": "utah_topaz_internment_camp_site"
+  },
+  {
+    "name": "Desolation Canyon",
+    "lat": 39.416301,
+    "lon": -110.006345,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Desolation+Canyon+Utah",
+    "id": "utah_desolation_canyon"
+  },
+  {
+    "name": "Hells Backbone Road",
+    "lat": 37.935376,
+    "lon": -111.530493,
+    "imageURL": null,
+    "description": "Despite its name, this route in southern Utah offers a heavenly day trip.",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hells+Backbone+Road+Utah",
+    "id": "utah_hells_backbone_road"
+  },
+  {
+    "name": "Topaz Museum",
+    "lat": 39.352137,
+    "lon": -112.576169,
+    "imageURL": null,
+    "description": "A museum in rural Utah documents the history of the Japanese Americans who were forcibly relocated there.",
+    "info": null,
+    "categories": [
+      "food",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Topaz+Museum+Utah",
+    "id": "utah_topaz_museum"
+  },
+  {
+    "name": "Great Gallery Rock Art",
+    "lat": 38.446497,
+    "lon": -110.213268,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Great+Gallery+Rock+Art+Utah",
+    "id": "utah_great_gallery_rock_art"
+  },
+  {
+    "name": "Muley Point",
+    "lat": 37.2325,
+    "lon": -109.994292,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "hiking"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Muley+Point+Utah",
+    "id": "utah_muley_point"
+  },
+  {
+    "name": "Anasazi State Park Museum",
+    "lat": 37.910836,
+    "lon": -111.42363,
+    "imageURL": null,
+    "description": "preserves one of the largest Puebloan sites west of the Colorado River. Known as the Coombs site, the 100+ excavated buildings from the 12th and 13th centuries could have housed hundreds of residents.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "park",
+      "water"
+    ],
+    "url": "https://stateparks.utah.gov/parks/anasazi/",
+    "id": "utah_anasazi_state_park_museum"
+  },
+  {
+    "name": "Red Hills Desert Garden",
+    "lat": 37.113846,
+    "lon": -113.575131,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "garden"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Red+Hills+Desert+Garden+Utah",
+    "id": "utah_red_hills_desert_garden"
+  },
+  {
+    "name": "Fremont Indian State Park and Museum",
+    "lat": 38.5775683,
+    "lon": -112.3349416,
+    "imageURL": null,
+    "description": "One of the best accessible Fremont Culture archaeological sites in Utah. Petroglyph panels, pictographs, and a solid museum. Beautiful canyon setting as well.\n\nVerdict: Best cultural stop here.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "park",
+      "historic"
+    ],
+    "url": "https://stateparks.utah.gov/parks/fremont-indian/",
+    "id": "utah_fremont_indian_state_park_and_museum"
+  },
+  {
+    "name": "Escalante Petrified Forest State Park",
+    "lat": 37.7865057,
+    "lon": -111.6306651,
+    "imageURL": null,
+    "description": "Colorful badlands and scattered petrified wood. Smaller-scale than Arizona’s park but pleasantly scenic.",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://stateparks.utah.gov/parks/escalante/",
+    "id": "utah_escalante_petrified_forest_state_park"
+  },
+  {
+    "name": "Brigham Young University Museum of Art (MOA)",
+    "lat": 40.2507587,
+    "lon": -111.6479756,
+    "imageURL": null,
+    "description": "Surprisingly strong collection for Utah — especially American art from the 18th century onward. Large, clean, thoughtfully curated galleries. Rotating exhibitions can be excellent.\n\nVerdict: The best fine art museum on your list.",
+    "info": null,
+    "categories": [
+      "food",
+      "art"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=Brigham+Young+University+Museum+of+Art+%28MOA%29+Utah",
+    "id": "utah_brigham_young_university_museum_of_art_moa"
+  },
+  {
+    "name": "American West Heritage Center",
+    "lat": 41.6609015,
+    "lon": -111.9024494,
+    "imageURL": null,
+    "description": "Living-history open-air museum with multiple eras represented. More immersive than most pioneer museums.\n\nVerdict: Best hands-on historical experience here.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.google.com/maps/search/?api=1&query=American+West+Heritage+Center+Utah",
+    "id": "utah_american_west_heritage_center"
+  }
+]
