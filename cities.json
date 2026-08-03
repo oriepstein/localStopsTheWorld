@@ -1,4 +1,9 @@
 [
+{
+    "name": "Upper East side",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_upper_east_side.json",
+    "imageURL": "https://unsplash.com/photos/man-walking-on-pedestrian-lane-UUvAux9zCFA"
+  },
   {
     "name": "Seattle",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/seattle_sights.json",
