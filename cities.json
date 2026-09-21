@@ -4,6 +4,11 @@
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/manhattan_-_upper_east_side.json",
     "imageURL": "https://unsplash.com/photos/man-walking-on-pedestrian-lane-UUvAux9zCFA"
   },
+     {
+    "name": "Manhattan",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Manhattan-All",
+    "imageURL": "https://media.istockphoto.com/id/2277762731/photo/nyc-skyscrapers-with-statue-of-liberty-manhattan-skyline-above-statue-of-liberty-new-york.jpg?s=1024x1024&w=is&k=20&c=dv9qnK9tU5Z40W5QEcXNVD3PeOQCua9OCwJr6_Mgxlo="
+  },
   {
     "name": "Seattle",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/seattle_sights.json",
