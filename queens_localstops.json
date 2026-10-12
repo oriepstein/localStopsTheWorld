@@ -290,19 +290,6 @@
     ]
   },
   {
-    "id": "queens_crossing_art",
-    "name": "Crossing Art",
-    "lat": 40.7605364,
-    "lon": -73.8298377,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": [
-      "art"
-    ]
-  },
-  {
     "id": "queens_culture_lab_lic_at_the_plaxall_gallery",
     "name": "Culture Lab LIC at The Plaxall Gallery",
     "lat": 40.7475616,
@@ -342,20 +329,6 @@
     "categories": [
       "nature",
       "park"
-    ]
-  },
-  {
-    "id": "queens_cypress_hills_taxidermy_studio",
-    "name": "Cypress Hills Taxidermy Studio",
-    "lat": 40.7124231,
-    "lon": -73.8842071,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": [
-      "quirky",
-      "art"
     ]
   },
   {
@@ -946,20 +919,6 @@
     ]
   },
   {
-    "id": "queens_moma_qns",
-    "name": "MoMA QNS",
-    "lat": 40.7440109,
-    "lon": -73.9319839,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "url": null,
-    "categories": [
-      "museum",
-      "art"
-    ]
-  },
-  {
     "id": "queens_monster_aquarium_inc",
     "name": "Monster Aquarium Inc.",
     "lat": 40.7557617,
@@ -1180,21 +1139,6 @@
     "categories": [
       "historic",
       "neighborhood"
-    ]
-  },
-  {
-    "id": "queens_rko_keith_s_theatre",
-    "name": "RKO Keith's Theatre",
-    "lat": 40.763385,
-    "lon": -73.8301898,
-    "imageURL": null,
-    "description": "landmarked interior; Interior space of a Baroque theater built in 1927–1928 for the RKO Pictures chain. Also on the National Register of Historic Places; however, the exterior is not a city landmark.",
-    "info": null,
-    "url": null,
-    "categories": [
-      "theater",
-      "historic",
-      "landmark"
     ]
   },
   {
