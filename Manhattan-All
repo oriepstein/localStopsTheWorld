@@ -547,19 +547,6 @@
     "id": "manhattan_soho_cast_iron_historic_district"
   },
   {
-    "name": "Sonos Store",
-    "lat": 40.724519,
-    "lon": -74.000128,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "shop"
-    ],
-    "url": null,
-    "id": "manhattan_sonos_store"
-  },
-  {
     "name": "McNally Jackson Books SoHo",
     "lat": 40.725423,
     "lon": -74.00069,
@@ -1101,19 +1088,6 @@
     ],
     "url": null,
     "id": "manhattan_magic_jewelry"
-  },
-  {
-    "name": "Rally - The Museum at 446 Broadway",
-    "lat": 40.720231,
-    "lon": -74.000794,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "museum"
-    ],
-    "url": null,
-    "id": "manhattan_rally_the_museum_at_446_broadway"
   },
   {
     "name": "Hudson River Park's River Project Wetlab",
@@ -2024,20 +1998,6 @@
     ],
     "url": null,
     "id": "manhattan_whitney_museum_of_american_art"
-  },
-  {
-    "name": "Rockwood Music Hall",
-    "lat": 40.722304,
-    "lon": -73.988582,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "theater",
-      "architecture"
-    ],
-    "url": null,
-    "id": "manhattan_rockwood_music_hall"
   },
   {
     "name": "Elizabeth Street Garden",
@@ -4465,19 +4425,6 @@
     "id": "manhattan_modulightor_inc"
   },
   {
-    "name": "Marian Goodman Gallery",
-    "lat": 40.763279,
-    "lon": -73.975666,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "gallery"
-    ],
-    "url": null,
-    "id": "manhattan_marian_goodman_gallery"
-  },
-  {
     "name": "Lever House",
     "lat": 40.759606,
     "lon": -73.97274,
@@ -5424,20 +5371,6 @@
     "id": "manhattan_explorers_club"
   },
   {
-    "name": "Frick Madison",
-    "lat": 40.773504,
-    "lon": -73.963992,
-    "imageURL": null,
-    "description": "The Frick Collection is an art museum on Manhattan's Upper East Side that is home to Henry Clay Frick's collection of works. Frick began acquiring his personal collection in the 1800s after striking it big in the steel industry in Pennsylvania. The Frick is considered to have a small but extremely high quality and well-respected art collection, including pieces by Johannes Vermeer, Giovanni Bellini, and Rembrandt. Highlights Here are some of the \"must see\" items at The Frick Collection. Nicolaes Ruts Officer and a Laughing Girl St. Francis in Ecstasy also home to a secret bowlking alley",
-    "info": null,
-    "categories": [
-      "museum",
-      "art"
-    ],
-    "url": null,
-    "id": "manhattan_frick_madison"
-  },
-  {
     "name": "Bemelmans Bar",
     "lat": 40.774422,
     "lon": -73.963171,
@@ -5875,7 +5808,7 @@
     "id": "manhattan_the_rockefeller_university"
   },
   {
-    "name": "The Met Breuer",
+    "name": "Sothebys",
     "lat": 40.773417,
     "lon": -73.963801,
     "imageURL": null,
@@ -5887,7 +5820,7 @@
       "art"
     ],
     "url": null,
-    "id": "manhattan_the_met_breuer"
+    "id": "manhattan_sothebys"
   },
   {
     "name": "Acquavella",
@@ -9006,19 +8939,6 @@
     "id": "manhattan_national_academy_of_design"
   },
   {
-    "name": "Marlborough",
-    "lat": 40.749842,
-    "lon": -74.004993,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_marlborough"
-  },
-  {
     "name": "Pace Gallery",
     "lat": 40.749637,
     "lon": -74.005047,
@@ -9540,19 +9460,6 @@
     ],
     "url": null,
     "id": "manhattan_the_stand_nyc"
-  },
-  {
-    "name": "Fotografiska Museum NYC",
-    "lat": 40.739221,
-    "lon": -73.986722,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "museum"
-    ],
-    "url": null,
-    "id": "manhattan_fotografiska_museum_nyc"
   },
   {
     "name": "The National Arts Club",
