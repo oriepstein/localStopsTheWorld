@@ -3806,19 +3806,6 @@
     "id": "manhattan_the_korea_society"
   },
   {
-    "name": "Korean Cultural Center New York",
-    "lat": 40.762035,
-    "lon": -73.971012,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_korean_cultural_center_new_york"
-  },
-  {
     "name": "PHILLIPS",
     "lat": 40.761648,
     "lon": -73.97176,
