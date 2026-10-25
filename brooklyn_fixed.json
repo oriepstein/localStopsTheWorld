@@ -5112,33 +5112,6 @@
     "id": "brooklyn_indiescreen"
   },
   {
-    "name": "Buzz-A-Rama",
-    "lat": 40.6424018,
-    "lon": -73.9807003,
-    "imageURL": null,
-    "description": "Vintage slot car racing track and arcade.",
-    "info": null,
-    "categories": [
-      "quirky"
-    ],
-    "url": null,
-    "id": "brooklyn_buzz_a_rama"
-  },
-  {
-    "name": "Then She Fell",
-    "lat": 40.7111031,
-    "lon": -73.9429092,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "theater",
-      "quirky"
-    ],
-    "url": "https://www.thenshefell.com/",
-    "id": "brooklyn_then_she_fell"
-  },
-  {
     "name": "The Tiny Cupboard Comedy Club & Game Bar",
     "lat": 40.6837173,
     "lon": -73.9112243,
