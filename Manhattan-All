@@ -2514,7 +2514,7 @@
     "description": "This former crime corner has been turned into an eclectic community center. WHETHER IT’S WATCHING A PUPPET show under the giant weeping willows, or maybe a dance performance, or simply taking respite from the surrounding urban chaos, La Plaza Cultural provides a space for beauty and community. The diverse range of activities that take place in the reclaimed corner lot are not surprising considering that the space was the brainchild of a group of local activists and a Latino group that cleaned up the former garbage dump. While the area was deteriorating in the 1970s, the empty corner lot simply collected trash and attracted all manner of unseemly activity. Local activists took a stand, however, and cleaned up the corner in 1976 and turned it into a community outlet for theater and cultural displays. Today, it is used to host a variety of events and continues to be a beacon of community among the anonymous disconnect of Manhattan life.",
     "info": null,
     "categories": [
-      "theater"
+      "art"
     ],
     "url": null,
     "id": "manhattan_la_plaza_cultural"
@@ -6552,7 +6552,7 @@
     "description": "Once considered the height of medical modernity, this structure is now the oldest remaining component of Roosevelt Hospital.",
     "info": null,
     "categories": [
-      "theater"
+      "quirky"
     ],
     "url": null,
     "id": "manhattan_william_j_syms_operating_theatre"
@@ -7571,7 +7571,7 @@
     "description": "Dwarfed by the might of the George Washington Bridge, tiny as a peg as you drive past it into Manhattan, is the quiet red Jeffrey’s Hook Light far below. Manhattan’s only operational lighthouse when it was placed here in 1921, it was quickly made obsolete by the very bright new bridge that opened high above it in 1931— the new structure cast plenty of light down to help guide vessels along the Hudson. Fortunately for the lighthouse, it became the subject of a popular 1942 children’s book, The Little Red Lighthouse and the Great Gray Bridge by Hildegarde Swift. Demolishing it would have been like killing off Pinocchio, and so it remains to this day.",
     "info": null,
     "categories": [
-      "theater"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_the_little_red_lighthouse"
@@ -7778,7 +7778,7 @@
     "description": "deepest subway station; has live elevator operators",
     "info": null,
     "categories": [
-      "theater"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_191st_street_station_entrance_tunnel_elevator"
@@ -11719,7 +11719,7 @@
     "description": "orchestral concerts in the summer",
     "info": null,
     "categories": [
-      "theater"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_naumburg_bandshell"
