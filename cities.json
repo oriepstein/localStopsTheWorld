@@ -4,6 +4,11 @@
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Paris",
     "imageURL": "https://images.unsplash.com/photo-1549144511-f099e773c147?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
+      {
+    "name": "Colorado",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/colorado_denver.json",
+    "imageURL": "https://plus.unsplash.com/premium_photo-1697729885380-8a817195f36c?q=80&w=2064&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
      {
     "name": "Manhattan",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Manhattan-All",
