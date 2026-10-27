@@ -7,7 +7,7 @@
     "description": "staircase is recreation of 5pointz",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_citizenm_new_york_bowery_hotel"
@@ -60,8 +60,7 @@
     "info": null,
     "categories": [
       "museum",
-      "religious",
-      "shop"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_kehila_kedosha_janina_synagogue_and_museum"
@@ -74,7 +73,7 @@
     "description": "Established in 1937, the oldest candy shop in New York City boasts a rainbow-colored inventory that would make Willy Wonka envious.",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_economy_candy"
@@ -272,7 +271,7 @@
     "info": null,
     "categories": [
       "museum",
-      "shop",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -286,8 +285,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_aeon_bookstore"
@@ -300,7 +299,7 @@
     "description": "High above the pews, behind the balcony, at the very back of St. Augustine’s Episcopal Church, there exists a physical reminder of a time in American history that most churches have chosen to erase. Located at 290 Henry Street in Manhattan’s Lower East Side, St. Augustine’s is one of the few remaining churches in the country to retain its “slave galleries,” small, hidden rooms at the back of the church designed in the 1820’s as seating for enslaved African Americans. It was there that enslaved people were placed sit out of sight of the white congregation during church services.",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "religious"
     ],
     "url": null,
@@ -445,7 +444,7 @@
     "info": null,
     "categories": [
       "museum",
-      "library",
+      "bookstore",
       "drinking"
     ],
     "url": null,
@@ -514,7 +513,7 @@
     "info": null,
     "categories": [
       "religious",
-      "shop",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -554,7 +553,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_mcnally_jackson_books_soho"
@@ -619,7 +618,7 @@
     "description": "One of the city’s oldest watering holes was originally the home of a famous James Brown (not that one).",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_ear_inn"
@@ -658,7 +657,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_ronald_feldman_gallery"
@@ -711,8 +710,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_housing_works_bookstore"
@@ -778,7 +777,7 @@
     "description": "an example of the uber-hip instagrammification of soho shopping: How can you tell that Nicolas Di Felice’s rebrand of Courrèges is white-hot? First came the Dua Lipa and Bella Hadid sightings. Then the Instagram takeover—fashion types of all stripes posting selfies and street style pics of themselves in the vinyl Reedition jacket Di Felice modeled after André Courrèges’s 1971 original, or the vinyl mini, or the vinyl over-the-knee boots—sometimes all three at once. Now, there’s a new corner boutique at 104 Grand Street in Soho, the brand’s first in the US since the founder’s days. Vogue Club logo ACCESS. COMMUNITY. EVENTS. MEMBERS GET MORE JOIN THE CLUB With three weeks to go until his fourth Paris runway show for the label Di Felice was in New York yesterday to show off the new space. A riff on its Rue François Premiere flagship, it’s all white walls and fixtures and gleaming mirrored surfaces, the better to show off the rainbow of Reedition vinyl pieces on the racks—don’t let these pictures fool you, the store is popping off with color. Designed by the Belgian architect Bernard Dubois, a classmate of Di Felice’s at La Cambre in Brussels, it makes ample use of Courrèges’s geometries: A circular console at the center of the square room is echoed by the circular rack that displays the clothes, and the entirely mirrored dressing rooms provide reflections from all angles. “Bernard has a radicality and an idea of minimalism that I love,” Di Felice says of the architect. The store’s press release points out the “club grade spotlights” on the ceiling. Part of Courrèges’s ascent is down to its artistic director’s penchant for putting on rave-like dance parties. Last night’s was at Nowadays in Brooklyn with br0nz3_g0dd3ss, Sene, Big Gay Idiot, and Bearcat on the deejay tables. WATCH A Glimpse Inside John Galliano’s Treasure-Filled Hideaway in Northern France Alexander Wang and the Danish import Ganni are on opposite corners, and like his new neighbors, Di Felice makes a point of keeping prices on the accessible side of luxury. “You know, back in the day, André was speaking to the young generation. I knew from my first week that it was part of the house,” he told Vogue Runway’s Sarah Mower at his men’s presentation in June. “So I really want young people to be able to afford the clothes; to make it, let’s say, more accessible.” There’s equally as much menswear on display in the new boutique, including a vinyl trucker jacket. “I was scared of the shiny aspect, “ Di Felice said, “but they really go for it.” Yes, the Courrèges hot streak seems likely to continue.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture",
       "art"
     ],
@@ -834,7 +833,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_mulberry_street_library"
@@ -887,7 +886,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_evolution_store"
@@ -900,7 +899,7 @@
     "description": "home to the riot grrl collection: A collection of fanzines, recordings, and documents detailing the rise and influence of the feminist punk movement.",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_fales_library"
@@ -980,7 +979,7 @@
     "description": "thursday night open mic",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_music_inn_world_instruments"
@@ -993,7 +992,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_vintage_thrift_shop"
@@ -1058,7 +1057,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_posteritati_movie_poster_gallery"
@@ -1110,7 +1109,7 @@
     "description": "oldest decorative hardware store in country",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_p_e_guerin"
@@ -1149,8 +1148,8 @@
     "description": "art gallery that consists entirely of a storefront window",
     "info": null,
     "categories": [
-      "gallery",
-      "shop",
+      "art",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -1268,7 +1267,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_anna_maria_and_stephen_kellen_gallery_parsons_school_of_design"
@@ -1346,7 +1345,7 @@
     "description": "NYU art \"gallery\" - rotating art exhibits displayed in windows viewable from street",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "art"
     ],
     "url": null,
@@ -1387,7 +1386,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture"
     ],
     "url": null,
@@ -1427,7 +1426,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_strand_book_store"
@@ -1466,7 +1465,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_company_gallery"
@@ -1505,7 +1504,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_hannah_traore_gallery"
@@ -1570,7 +1569,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_bitforms_gallery"
@@ -1583,7 +1582,7 @@
     "description": "secret bar in back of art gallery",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "drinking",
       "art"
     ],
@@ -1651,8 +1650,8 @@
     "info": null,
     "categories": [
       "food",
-      "shop",
-      "hotel"
+      "shopping",
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_roman_and_williams_guild"
@@ -1704,7 +1703,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_dashwood_books"
@@ -1769,7 +1768,7 @@
     "description": "In 1963, renowned American sculptor Chaim Gross and his wife Renee converted an art storage warehouse in Greenwich Village into their home and studio. They added a sculpture studio to the ground floor, which is illuminated by an enormous skylight that underwent extensive restoration work in 2017-18. The first floor showcases work spanning Gross’s entire career in both the studio and the adjacent gallery. The second floor houses a temporary exhibition space. On the third floor, see how the Gross family lived surrounded by their global, world-class art collection in their historic, salon-style installation of African, American, European, and Pre-Columbian collections.",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "landmark",
       "art"
     ],
@@ -1836,7 +1835,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "drinking"
     ],
     "url": null,
@@ -2100,8 +2099,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "park",
-      "shop"
+      "park"
     ],
     "url": null,
     "id": "manhattan_jefferson_market_garden"
@@ -2114,8 +2112,8 @@
     "description": "Named the fifth most beautiful building in America in 1885, this former courthouse boasts the best view in the Village.",
     "info": null,
     "categories": [
-      "library",
-      "shop",
+      "bookstore",
+      "shopping",
       "architecture"
     ],
     "url": null,
@@ -2260,7 +2258,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_sweet_pickle_books"
@@ -2274,7 +2272,7 @@
     "info": null,
     "categories": [
       "food",
-      "shop",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -2288,8 +2286,8 @@
     "description": "“So many stores learned how to do it from Coming Soon,” says Singer of this Lower East Side spot founded in 2013 and known for its giftable home décor and custom furniture upholstery in bright colors and unorthodox shapes. (“Totally bonkers” was how one person described its inventory.) Even though its typical wares — which Zoe Report fashion editor Aemilia Madden tells us range from bright velvet chairs ($550) to crazy glass straws ($28) to a giant marbled-concrete bowl ($850) — aren’t serious per se, bookstore owner Leigh Altshuler says they’re all still adult (and that her customers keep trying to buy the water carafe she once bought there out from under her nose). And Todd Heim, who goes by the drag name Steak Diane, tells us that its recent move to the corner of Orchard and Canal, incrementally closer to Dimes Square, “has made it a true ‘clubhouse for the neighborhood.’ ” Speaking of its new location: It’s slightly larger, meaning room for more of the vintage furniture, like a Milo Baughman love seat ($3,500) and a ’70s Italian marble coffee table ($3,200) that it also sells in its fifth-floor showroom around the corner on Allen Street.",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_coming_soon"
@@ -2474,7 +2472,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_mercer_street_books_records"
@@ -2487,7 +2485,7 @@
     "description": "We’re Zaidi’s NYC, a woman-owned and operated antique store located at 139 Division Street. Specializing in antique smoking accessories, oddities, candy and so much more, there is something for everyone here at Zaidi’s. With all lighters being restored right here in the shop, we strive to breathe life back into every piece we encounter. Stop in to see the collection Wednesday-Sunday from 12pm-7pm.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "theater"
     ],
     "url": null,
@@ -2673,8 +2671,8 @@
     "description": "Spiral-bound community recipes and antiquarian gems mingle at this small East Village shop.",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_bonnie_slotnick_cookbooks"
@@ -2766,7 +2764,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_ottendorfer_library"
@@ -2897,7 +2895,7 @@
     "description": "one of the first legalized squats in New York City, is located in a tenement house built in the nineteenth century. It is a community access center for images, words, and sounds of the inner city.",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_bullet_space"
@@ -2950,8 +2948,8 @@
     "info": null,
     "categories": [
       "landmark",
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_pageant_print_shop"
@@ -3108,7 +3106,6 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop",
       "theater"
     ],
     "url": null,
@@ -3123,7 +3120,6 @@
     "info": null,
     "categories": [
       "food",
-      "shop",
       "theater"
     ],
     "url": null,
@@ -3228,7 +3224,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_shop_at_the_standard"
@@ -3531,7 +3527,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_fourth_st_photo_gallery_inc"
@@ -3613,7 +3609,7 @@
     "description": "Spinning silently in the lobby of an Art Deco masterwork is a massive vintage model of the Earth.",
     "info": null,
     "categories": [
-      "hotel",
+      "architecture",
       "art"
     ],
     "url": null,
@@ -3627,8 +3623,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_quest_bookshop"
@@ -3656,7 +3652,7 @@
     "description": "A dark patch of the ceiling at Grand Central Terminal which was not restored is still stained brown by tobacco. Whisper secrets in a busy station only to be heard on the other side of this acoustic arch. The famous facade of Grand Central Terminal hides a regulation tennis court, and it's not the first one. home to city's steepest escalator",
     "info": null,
     "categories": [
-      "shop"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_grand_central_terminal"
@@ -3734,7 +3730,7 @@
     "description": "cole porter's piano: A famous songsmith's custom piano, dubbed \"High Society,\" is hidden just out of sight in one of New York's finest hotels.",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_waldorf_astoria_new_york"
@@ -3826,7 +3822,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_howard_greenberg_gallery"
@@ -3935,7 +3931,7 @@
     "description": "The Four Seasons Hotel New York stands out as the only hotel in the Western Hemisphere designed by I.M. Pei. With walls made of the same honey-colored French limestone Mr. Pei used at The Louvre, the 33-foot soaring lobby ceiling of the 52-story hotel resonates with the height of the building’s surrounding skyscrapers. One flight up from the street is the lobby’s rotunda, which is circled by eight pillars that accent a suspended, backlit onyx ceiling.",
     "info": null,
     "categories": [
-      "hotel",
+      "architecture",
       "architecture"
     ],
     "url": null,
@@ -3951,7 +3947,7 @@
     "categories": [
       "landmark",
       "drinking",
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_lotte_new_york_palace"
@@ -3977,7 +3973,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "art"
     ],
     "url": null,
@@ -3992,7 +3988,7 @@
     "info": null,
     "categories": [
       "religious",
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_st_thomas_church"
@@ -4192,7 +4188,7 @@
     "description": "Amid the marketing blitz of modern Times Square is an elegant holdover from its showbiz glory days. THESE DAYS, IT’S HARD TO find much of the original heart of old Times Square. But on the corner of Broadway and West 46th Street, above the crowds of tourists and neon signs, is the venerable facade of Israel Miller’s shoe store, looking much as it did a hundred years ago.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -4434,7 +4430,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_bauman_rare_books"
@@ -4487,7 +4483,7 @@
     "info": null,
     "categories": [
       "religious",
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_st_thomas_church_1"
@@ -4621,7 +4617,7 @@
     "info": null,
     "categories": [
       "museum",
-      "gallery",
+      "art",
       "landmark"
     ],
     "url": null,
@@ -4690,7 +4686,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_adidas_flagship_store_new_york"
@@ -4798,7 +4794,7 @@
     "info": null,
     "categories": [
       "park",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_stavros_niarchos_foundation_library"
@@ -4930,7 +4926,7 @@
     "info": null,
     "categories": [
       "museum",
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_the_new_yorker_hotel"
@@ -4982,7 +4978,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_astro_gallery_of_gems_minerals_and_fossils"
@@ -4995,7 +4991,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_girl_scout_central_shop"
@@ -5022,7 +5018,7 @@
     "info": null,
     "categories": [
       "museum",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_the_morgan_library_museum"
@@ -5100,7 +5096,7 @@
     "description": "shaving store",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_pasteur_pharmacy_inc"
@@ -5113,7 +5109,7 @@
     "description": "Currently located on the 20th floor of a Midtown office building, the American Indian Community House is the oldest Native American non profit in the Tri-state area. Since its inception in 1969, AICH has provided a launchpad for many artists and cultural producers and provided healthcare and workforce services to thousands upon thousands of people. It continues to serve as a sanctuary for many Native communities in New York City. A gallery of Native American artwork features works from throughout AICH’s history.",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "architecture",
       "art"
     ],
@@ -5158,7 +5154,7 @@
     "categories": [
       "landmark",
       "religious",
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_fifth_avenue_presbyterian_church"
@@ -5225,8 +5221,8 @@
     "description": "Unique antiquarian shop specializing in globes, maps, and prints.",
     "info": null,
     "categories": [
-      "gallery",
-      "shop"
+      "art",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_george_glazer_gallery"
@@ -5240,7 +5236,7 @@
     "info": null,
     "categories": [
       "landmark",
-      "library",
+      "bookstore",
       "food"
     ],
     "url": null,
@@ -5255,8 +5251,8 @@
     "info": null,
     "categories": [
       "landmark",
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_albertine"
@@ -5269,7 +5265,7 @@
     "description": "New York's oldest and possibly grandest keeper of books.",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_the_new_york_society_library"
@@ -5284,7 +5280,7 @@
     "categories": [
       "food",
       "drinking",
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_bohemian_national_hall"
@@ -5323,9 +5319,9 @@
     "description": "The oldest bibliophilia club in America, with exhibitions on historic books and graphic arts. The Grolier Club is a private NYC club with galleries that are free and open to members of the public. The club was established in 1884, making it the oldest North American bibliophilic club in existence. The Grolier Club aims to focus on \"the literary study of the arts pertaining to the production of books, including the occasional publication of books designed to illustrate, promote and encourage these arts; and the acquisition, furnishing and maintenance of a suitable club building for the safekeeping of its property, wherein meetings, lectures and exhibitions shall take place from time to time.\" Highlights Here are some of the \"must see\" items at The Grolier Club. Peter Koch Printer: A Forty-five-year Retrospective at the Grolier Club Embodied Language and the Form of the Book \"The A.B.C. of Alphabets\" from the Collection of Gretchen Adkins Poet of the Body: New York's Walt Whitman",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "landmark",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_grolier_club"
@@ -5351,7 +5347,7 @@
     "description": "A treasure trove of artifacts, books, and artwork from the \"golden age\" of exploration.",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "art"
     ],
     "url": null,
@@ -5450,7 +5446,7 @@
     "info": null,
     "categories": [
       "museum",
-      "gallery",
+      "art",
       "art"
     ],
     "url": null,
@@ -5491,7 +5487,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_james_cummins_bookseller"
@@ -5520,7 +5516,7 @@
     "info": null,
     "categories": [
       "religious",
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_house_of_the_redeemer"
@@ -5599,8 +5595,8 @@
     "description": "religious bookstore",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_logos_bookstore"
@@ -5613,7 +5609,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "food",
       "art"
     ],
@@ -5694,8 +5690,8 @@
     "description": "Book Cellar used bookstore",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_webster_library"
@@ -5734,7 +5730,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "architecture"
     ],
     "url": null,
@@ -5750,7 +5746,7 @@
     "categories": [
       "landmark",
       "religious",
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_st_jean_baptiste_church"
@@ -5763,7 +5759,7 @@
     "description": "Zitomer is the ultimate version of a uniquely Manhattan phenomenon: The fancy, retro pharmacy where you can get your prescriptions filled but also easily drop $600 on velvet headbands. This wacky three-story storefront on Madison Avenue is a microcosm of everything that's simultaneously appealing and vexatious about the Upper East Side. You'll find lots of old-school hair accessories, fancy European toothpaste, an extensive lineup of bath and body products from Molton Brown and Kiehl's, decorative compact mirrors, and zip pouches that say things like \"But First, Xanax.\"",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_zitomer"
@@ -5882,8 +5878,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_la_casa_azul_bookstore"
@@ -5909,8 +5905,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery",
-      "library"
+      "art",
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_ursus_books_gallery"
@@ -5936,7 +5932,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_castelli_gallery"
@@ -6002,7 +5998,7 @@
     "description": "afternoon tea",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_the_pierre_a_taj_hotel_new_york"
@@ -6067,7 +6063,7 @@
     "description": "For over 30 years the walls of this Harlem schoolyard have been a gallery of street art by \"Kings and better.\"",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "architecture",
       "art"
     ],
@@ -6108,7 +6104,7 @@
     "description": "The New York Academy of Medicine, a neo-Romanesque building by York and Sawyer, was constructed 1925–1926, and is an Art Deco interpretation of the Romanesque style of architecture. The Academy is also home to one of the largest history of medicine libraries in the country, a library that has been open to the public for use since 1878.",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "drinking",
       "architecture"
     ],
@@ -6136,9 +6132,9 @@
     "description": "One of many social halls built in the nineteenth century for the city's immigrant ethnic communities, the Bohemian National Hall is a rare survivor that has both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation. Today it is a vibrant cultural hub featuring art galleries, a Grand Ballroom, a rooftop terrace, cinema, library, and more. The Czech Center's five-story building was designed by William C. Frohne in the Renaissance Revival style, built in 1896 and renovated in 2008. It is a rare survivor of the many social halls built in the nineteenth century for New York City's immigrant ethnic communities, with both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation. Bohemian National Hall hosts many cultural events and celebrates the arts, film, literature, music, education and more. It is also a monument to the history of immigrants in New York City and the United States. The building boasts five floors of modern surprises, including two art galleries, a Grand Ballroom, a rooftop terrace with great city views, a cinema, the Dvořák Study, and the Václav Havel Library Foundation. In the travel guide, 111 Places in New York That You Must Not Miss, Bohemian National Hall is described as \"a little-known treasure, a postmodern surprise, encouraging dynamic dialogue between American and Czech communities that has become a vibrant cultural venue for new generations of New Yorkers.”",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "landmark",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_czech_center_new_york"
@@ -6509,7 +6505,7 @@
     "description": "From this desk Al Hirschfeld drew his influential caricatures of the 20th century's Broadway stars.",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "drinking",
       "art"
     ],
@@ -6565,7 +6561,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_westsider_rare_used_books_inc"
@@ -6697,7 +6693,7 @@
     "description": "used to be Levelrs Club, america's first Masonic hotel, and building is dripping with freemason symbolism. well-preserved ornate lobby",
     "info": null,
     "categories": [
-      "hotel",
+      "architecture",
       "architecture"
     ],
     "url": null,
@@ -6962,7 +6958,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "architecture",
       "art"
     ],
@@ -6990,7 +6986,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_leroy_neiman_gallery"
@@ -7043,7 +7039,7 @@
     "description": "room 309 - most filmied classroom ever (?); Havemeyer Hall, a National Historic Chemical Landmark, is devoted to the study and application of Chemistry, with a strong emphasis on research. Pioneering research conducted here led to the discovery of deuterium, for which Harold Clayton Urey received the Nobel Prize in 1934. Six others who did research here subsequently received the Nobel Prize, including Irving Langmuir, the first industrial chemist to be so honored, in 1932. In front of Havemeyer stands Scholars Lion sculpted by Columbia College graduate Greg Wyatt. Havemeyer Room 309, the grand lecture hall in the center of Havemeyer, remains the signature 08 architectural feature of Charles McKim's original design. It has a 40-foot domed ceiling and skylight, 330 tiered seats, a brass-railed gallery and a 40-foot oak demonstration table. Room 309 has been prominently featured in a number of films, including Awakenings, Malcolm X, The Mirror has Two Faces, Spider Man and Ghostbusters.",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "landmark",
       "architecture"
     ],
@@ -7112,7 +7108,7 @@
     "info": null,
     "categories": [
       "landmark",
-      "library",
+      "bookstore",
       "architecture"
     ],
     "url": null,
@@ -7221,7 +7217,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "art"
     ],
     "url": null,
@@ -7275,7 +7271,7 @@
     "info": null,
     "categories": [
       "landmark",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_schomburg_center_for_research_in_black_culture"
@@ -7341,7 +7337,7 @@
     "info": null,
     "categories": [
       "museum",
-      "library",
+      "bookstore",
       "art"
     ],
     "url": null,
@@ -7409,7 +7405,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_revolution_books"
@@ -7657,7 +7653,7 @@
     "description": "Surrounded by low rise buildings and partially converted into an auto body shop, this marble archway is the only vestige of a forgotten Manhattan estate.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture",
       "art"
     ],
@@ -7911,7 +7907,7 @@
     "description": "National track and field hall of fame Manhattan once had over twenty armories, built to store military ammunition and sometimes house troops. This armory, named for the old Revolutionary War fort, was built in 1911 and became home to a regiment of the Army Corp of Engineers. Today it's more associated with another sort of endurance -- track and field. The Armory Track is one of the most important sites in America for the sport, and the National Track and Field Hall of Fame shares space here with dozens of yearly track events. (216 Fort Washington Avenue)",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture"
     ],
     "url": null,
@@ -7938,8 +7934,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_word_up_community_bookshop_librer_a_comunitaria"
@@ -7979,7 +7975,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_mishkin_s_drug_store"
@@ -8175,7 +8171,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_hunter_east_harlem_gallery"
@@ -8267,7 +8263,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_malcolm_shabazz_harlem_market"
@@ -8312,7 +8308,7 @@
     "categories": [
       "landmark",
       "food",
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_victoria_theater_restaurant"
@@ -8510,7 +8506,7 @@
     "description": "A good place to research the Freemasons, esoterica, occultism, and hermeticism.",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_livingston_library"
@@ -8588,7 +8584,7 @@
     "description": "The world's oldest hologram gallery and the labyrinthine laser laboratory of a holography pioneer.",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_holographic_studios"
@@ -8614,7 +8610,7 @@
     "description": "The only remaining building in New York to see the inauguration of a president is being slowly overtaken by a grocery store.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture",
       "art"
     ],
@@ -8736,7 +8732,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_old_print_shop_inc"
@@ -8788,8 +8784,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_rizzoli_bookstore"
@@ -8933,7 +8929,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_pace_gallery"
@@ -8946,7 +8942,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_luhring_augustine_gallery"
@@ -8959,7 +8955,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_petzel_gallery"
@@ -8972,7 +8968,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_yossi_milo_gallery"
@@ -8985,7 +8981,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_comme_des_garcons_boutique"
@@ -9076,7 +9072,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_andrew_heiskell_braille_and_talking_book_library"
@@ -9350,7 +9346,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_chisholm_larsson_gallery"
@@ -9484,7 +9480,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_books_of_wonder"
@@ -9549,7 +9545,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_dover_street_market_new_york"
@@ -9575,7 +9571,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_new_york_flower_market"
@@ -9708,7 +9704,7 @@
     "description": "idden behind a discreet black door in Chelsea is a little alleyway that leads to an 18th century home where you can partake in sound meditations, weekend workshops, and special wellness events. it’s a dedicated sound meditation space",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "art"
     ],
     "url": null,
@@ -9806,7 +9802,7 @@
     "description": "A WWI fighter plane and turn-of-the-century penny candy shop are among the unexpected features of this Financial District building.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture"
     ],
     "url": null,
@@ -9822,7 +9818,7 @@
     "categories": [
       "park",
       "landmark",
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_site_of_new_york_slave_market"
@@ -9890,7 +9886,7 @@
     "description": "beautiful interior",
     "info": null,
     "categories": [
-      "hotel"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_the_beekman_a_thompson_hotel"
@@ -10130,7 +10126,7 @@
     "description": "The only gallery in New York dedicated to olfactory art and the exploration of scent in art.",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "art"
     ],
     "url": null,
@@ -10144,8 +10140,8 @@
     "description": "The world’s oldest and biggest bookstore stocking only mystery, crime fiction, espionage, and thrillers.",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_mysterious_book_shop"
@@ -10291,7 +10287,7 @@
     "description": "This gallery showcases the work of inventive international designers from the 20th & 21st centuries.",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_r_company"
@@ -10382,7 +10378,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_fulton_stall_market"
@@ -10596,7 +10592,7 @@
     "description": "hidden in the back of a bodega",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_little_shop"
@@ -10687,7 +10683,7 @@
     "description": "NHL - AT Stewart Company Store \"Site of the first American department store (now known as the New York Sun building)\"",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture",
       "art"
     ],
@@ -10715,7 +10711,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_citystore"
@@ -10728,7 +10724,7 @@
     "description": "little known gallery in borough president's office",
     "info": null,
     "categories": [
-      "gallery",
+      "art",
       "architecture"
     ],
     "url": null,
@@ -10771,7 +10767,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_180_the_store"
@@ -10878,7 +10874,7 @@
     "description": "oldest store in Chinatown",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_wing_on_wo_co"
@@ -10969,7 +10965,7 @@
     "description": "oldest gift shop in Chinatown",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_ting_s_gift_shop"
@@ -11008,8 +11004,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
-      "shop"
+      "bookstore",
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_aeon_bookstore_1"
@@ -11048,7 +11044,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_yu_me_books"
@@ -11113,7 +11109,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_k_k_discount_store"
@@ -11204,7 +11200,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library",
+      "bookstore",
       "art"
     ],
     "url": null,
@@ -11298,7 +11294,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_new_kam_man_market"
@@ -11311,7 +11307,7 @@
     "description": "On buzzing Wall Street, in what was once the main entrance lobby of a thirty-seven-story skyscraper, Aesop occupies a space of preserved Art-Deco grandeur. Designed with trusted collaborator Jakob Sprenger, the intention was to create something that feels like it might have always been there. Inspiration for this chic retail space came from the bold verticality of Manhattan and the building’s history as the office of the Munson Steamship Line in the 1920s. The magnificent pre-existing space was defined by soaring ceilings and walls clad in Fior di Pesco marble. Based on the classical Greek order, pilasters added rhythm to the walls while ornate crown moldings and a coffered ceiling gave the room a strong, opulent character. Developed with Aesop’s in-house team, Sprenger’s concept was to maintain the existing architectural splendor, restore integrity where needed, and to insert a layer of free-standing furniture that could be easily reused in a future location. In the depths of the store, a petit chamber in soothing dark hues accommodates more intimate explorations of the brand’s unconventional Eaux de Parfum, leaving the hubbub of Wall Street behind. Each fragrance can be sampled at the horizontal bay, where petri dishes containing fragments of scent-imbued muslin cloth allow one to understand the full body of the aroma.",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "architecture",
       "art"
     ],
@@ -11381,7 +11377,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_hemingway_african_gallery"
@@ -11434,7 +11430,7 @@
     "description": "Its been written that if Joe Carini was alive 700 years ago he would have been making hand made carpets for kings and queens. His creations are inspired by water, space and animals and are coveted by the likes of Brad Pitt and Jay Z. Considered an impeccable colorist his works are bold and vibrant and made exclusively from natural dyes. As a self described “process guy” his hand touches every casino online aspect of the operation including concept, design and production – from Joes imagination to Nepal and ultimately to downtown Manhattan. His design studio and storefront, Carini Lang, is located in a beautiful old bank on the corner of Jay and Greenwich Street",
     "info": null,
     "categories": [
-      "shop",
+      "shopping",
       "theater"
     ],
     "url": null,
@@ -11448,7 +11444,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "gallery"
+      "art"
     ],
     "url": null,
     "id": "manhattan_soho_photo_gallery"
@@ -11488,7 +11484,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_library180"
@@ -11516,7 +11512,7 @@
     "categories": [
       "park",
       "landmark",
-      "library"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_sophie_loeb_fountain"
@@ -11745,7 +11741,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shop"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_dairy_visitor_center_and_gift_shop"
