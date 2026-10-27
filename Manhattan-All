@@ -42,7 +42,7 @@
     "name": "New Museum",
     "lat": 40.722338,
     "lon": -73.99289,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/New_Museum%2C_New_York.jpg/1280px-New_Museum%2C_New_York.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -83,7 +83,7 @@
     "name": "Tenement Museum",
     "lat": 40.718818,
     "lon": -73.990088,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/The_Tenement_Museum_%2851624759160%29.jpg/1280px-The_Tenement_Museum_%2851624759160%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1199,7 +1199,7 @@
     "name": "Stonewall National Monument",
     "lat": 40.733578,
     "lon": -74.002341,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Stonewall_Inn%2C_April_2019.jpg/1280px-Stonewall_Inn%2C_April_2019.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1356,7 +1356,7 @@
     "name": "Grace Church",
     "lat": 40.731975,
     "lon": -73.990902,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Grace_Church_%28Manhattan%29_073.jpg/1280px-Grace_Church_%28Manhattan%29_073.jpg",
     "description": "free Bach concerts at noon Mon - Fri",
     "info": null,
     "categories": [
@@ -1423,7 +1423,7 @@
     "name": "Strand Book Store",
     "lat": 40.733252,
     "lon": -73.990953,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Strand_Bookstore.jpg/1280px-Strand_Bookstore.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1661,7 +1661,7 @@
     "name": "Little Island",
     "lat": 40.742002,
     "lon": -74.010299,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Little_Island_Panorama_%2850236511951%29.jpg/1280px-Little_Island_Panorama_%2850236511951%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1911,7 +1911,7 @@
     "name": "Village Vanguard",
     "lat": 40.736033,
     "lon": -74.001655,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Villagevanguard4.JPG/1280px-Villagevanguard4.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -1989,7 +1989,7 @@
     "name": "Whitney Museum of American Art",
     "lat": 40.739588,
     "lon": -74.008863,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Whitney_Museum_from_west.jpg/1280px-Whitney_Museum_from_west.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2110,7 +2110,7 @@
     "name": "Jefferson Market Library",
     "lat": 40.734591,
     "lon": -73.999216,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jefferson_market_crop.jpg",
     "description": "Named the fifth most beautiful building in America in 1885, this former courthouse boasts the best view in the Village.",
     "info": null,
     "categories": [
@@ -2575,7 +2575,7 @@
     "name": "Russian & Turkish Baths",
     "lat": 40.728232,
     "lon": -73.983586,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Russian_%26_Turkish_Baths_sign_2023.jpg/1280px-Russian_%26_Turkish_Baths_sign_2023.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2615,7 +2615,7 @@
     "name": "St. Mark's Church in-the-Bowery",
     "lat": 40.730393,
     "lon": -73.987089,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Saint_Mark%27s_Church_in-the-Bowery_in_2025.jpg/1280px-Saint_Mark%27s_Church_in-the-Bowery_in_2025.jpg",
     "description": "home to the poetry project",
     "info": null,
     "categories": [
@@ -3652,7 +3652,7 @@
     "name": "Grand Central Terminal",
     "lat": 40.752726,
     "lon": -73.977229,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Image-Grand_central_Station_Outside_Night_2.jpg/1280px-Image-Grand_central_Station_Outside_Night_2.jpg",
     "description": "A dark patch of the ceiling at Grand Central Terminal which was not restored is still stained brown by tobacco. Whisper secrets in a busy station only to be heard on the other side of this acoustic arch. The famous facade of Grand Central Terminal hides a regulation tennis court, and it's not the first one. home to city's steepest escalator",
     "info": null,
     "categories": [
@@ -3665,7 +3665,7 @@
     "name": "Paley Park",
     "lat": 40.760216,
     "lon": -73.975135,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Paley_Park_jeh.jpg/1280px-Paley_Park_jeh.jpg",
     "description": "A small peaceful park and waterfall tucked amid the urban grind of Midtown Manhattan.",
     "info": null,
     "categories": [
@@ -3730,7 +3730,7 @@
     "name": "Waldorf-Astoria New York",
     "lat": 40.756242,
     "lon": -73.972856,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Waldorf-Astoria_Park_Avenue_Entrance.jpg/1280px-Waldorf-Astoria_Park_Avenue_Entrance.jpg",
     "description": "cole porter's piano: A famous songsmith's custom piano, dubbed \"High Society,\" is hidden just out of sight in one of New York's finest hotels.",
     "info": null,
     "categories": [
@@ -3782,7 +3782,7 @@
     "name": "Seagram Building",
     "lat": 40.75828,
     "lon": -73.971942,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Seagrambuilding.JPG/1280px-Seagrambuilding.JPG",
     "description": "landmarked interior plaza in front: \"A sea of elegant, perfectly proportioned space carved out of a city of chaos\" —Peter Marino",
     "info": null,
     "categories": [
@@ -3876,7 +3876,7 @@
     "name": "St. Bartholomew's Church",
     "lat": 40.757463,
     "lon": -73.973347,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/St._Bartholomew%27s_Church_Summer_Streets.jpg/1280px-St._Bartholomew%27s_Church_Summer_Streets.jpg",
     "description": "early 1900s church with famed organ National Historic Landmark designed by Bertram Goodhue in 1918. Combining Byzantine and Romanesque styles, the church often surprises visitors who mistake this Episcopal church for a Catholic or Eastern Orthodox parish. See the impressive triple portal, commissioned by the Vanderbilt family and designed by McKim, Mead & White in 1903, as well as exquisite mosaics and stained glass by Hildreth Meière, and a magnificent 24-foot-wide Sanctus window designed by Reynolds, Francis and Rohnstock in 1943. Other highlights include a page from the Gutenberg Bible, a baptismal font by Bertel Thorvaldsen, and NYC’s largest pipe organ, an Æolian-Skinner with 12,422 pipes. See how the welcoming and affirming community at St. Bartholomew’s Church brings life to this historic space. Nestled among the city’s high-rises, the church offers a quiet refuge in the heart of Manhattan. View how history, art, and faith come together in this peaceful setting.",
     "info": null,
     "categories": [
@@ -4320,7 +4320,7 @@
     "name": "One Times Square",
     "lat": 40.756374,
     "lon": -73.986455,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Times_Square_%282111652776%29.jpg/1280px-Times_Square_%282111652776%29.jpg",
     "description": "This historic address is home to the beloved ball and is an almost totally empty building among the most expensive real estate in the world.",
     "info": null,
     "categories": [
@@ -4415,7 +4415,7 @@
     "name": "Lever House",
     "lat": 40.759606,
     "lon": -73.97274,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lever_House_390_Park_Avenue.jpg/1280px-Lever_House_390_Park_Avenue.jpg",
     "description": "Commercial office design was forever changed with the completion of SOM’s Lever House in 1952 as the first International Style building in the United States. In a city characterized by masonry and brick, the blue-green glass and steel facade reimagined the potential of office buildings and demonstrated that successful office design could prioritize its community. Instead of designating the ground floor for retail, we created a public space. Rather than maximizing rentable floor area, we placed the office floors atop an elevated, horizontal base and set them perpendicular to Park Avenue. This design established a light and airy plaza and introduced a new relationship between the office and public realm. Since then, the landmark has been under the care of SOM for more than 70 years, a level of stewardship that is rare in the architectural profession. SOM restored its facade in 2001, and returned again in 2023 to complete the building’s restoration for the 21st century. Join Principal Frank Mahan of a tour of the completely updated plaza and outdoor spaces, a lovingly restored lobby, and new mechanical systems that improve energy efficiency; and witness how the project has recaptured this midcentury icon’s original splendor as Park Avenue’s premier boutique office.",
     "info": null,
     "categories": [
@@ -4631,7 +4631,7 @@
     "name": "One Vanderbilt",
     "lat": 40.752954,
     "lon": -73.978528,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/One_Vanderbilt_42_Street.jpg/1280px-One_Vanderbilt_42_Street.jpg",
     "description": "in lobby: Generated by a computer program using data points influenced by the season, sunrise and sunset, “Continuous Life and Death at the Now of Eternity II” (free) is a digital garden of seasonal blossoms such as chrysanthemums, azaleas and hydrangeas. The evolving garden, which never repeats but echoes the real weather conditions outside, is displayed on a roughly 27-by-16-foot public screen in the lobby of 1 Vanderbilt, a skyscraper next door to Grand Central Terminal. The work, which dominates a route frequented by commuters, seems designed to be viewed consistently by the same people across seasons and years.",
     "info": null,
     "categories": [
@@ -4659,7 +4659,7 @@
     "name": "Chrysler Building",
     "lat": 40.751621,
     "lon": -73.975502,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Chrysler_Building%2C_Queensboro_Bridge.jpg/1280px-Chrysler_Building%2C_Queensboro_Bridge.jpg",
     "description": "There are no tickets for the Chrysler Building. You may enter the lobby anytime the building is open, which is 8:00 am to 6 pm (18:00) on weekdays. You can see the beautiful mural on the ceiling, the clock, and the beautiful elevators, each with its own custom-designed doors.",
     "info": null,
     "categories": [
@@ -5017,7 +5017,7 @@
     "name": "The Morgan Library & Museum",
     "lat": 40.749226,
     "lon": -73.981397,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg/1280px-Morgan_Library_%26_Museum%2C_New_York_2017_02.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5070,7 +5070,7 @@
     "name": "Bergdorf Goodman",
     "lat": 40.763482,
     "lon": -73.974015,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Original_Store_-Bergdorf_Goodman_%2848064048193%29.jpg/1280px-Original_Store_-Bergdorf_Goodman_%2848064048193%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5460,7 +5460,7 @@
     "name": "Cooper Hewitt, Smithsonian Design Museum",
     "lat": 40.784396,
     "lon": -73.957873,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Cooper-Hewitt-MattFlynnAHHP.jpg",
     "description": "The Cooper Hewitt, Smithsonian Design Museum is a design museum on NYC's Miracle Mile. Cooper Hewitt is the only museum in the country that focuses on current day and historic design dating back more than 240 years. The museum has been home to items like a chair that Abraham Lincoln once sat in and a Rolls Royce that had been owned by The Beatles. Highlights Here are some of the \"must see\" items at The Cooper Hewitt Smithsonian Design Museum. The first metal chair made in the United States Views of the American War of Independence The Diva is Dismissed the former home of Andrew Carnegie, who described the 64-room mansion as “modest and plain.",
     "info": null,
     "categories": [
@@ -6450,7 +6450,7 @@
     "name": "American Museum of Natural History",
     "lat": 40.781324,
     "lon": -73.973988,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/American_Museum_of_Natural_History_02.jpg",
     "description": "Indian Rhino Diorama - An eerie diorama that captures the majestic nature of a few prehistoric-looking beasts. Asiatic Leopard - One of the most dazzling dioramas at the American Museum of Natural History is also one of the oldest. African Elephants - This magnificent herd of stampeding elephants has been frozen in time for over a century. Scavenger Taxidermy - This morbid scene depicts the Darwinian drama of death on the African savannah.",
     "info": null,
     "categories": [
@@ -6865,7 +6865,7 @@
     "name": "The Cathedral Church of St. John the Divine",
     "lat": 40.803836,
     "lon": -73.961875,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/St._John_the_Divine_Cathedral.jpg/1280px-St._John_the_Divine_Cathedral.jpg",
     "description": "vertical tour; biblical garden; peacock hutch",
     "info": null,
     "categories": [
@@ -7473,7 +7473,7 @@
     "name": "Apollo Theater",
     "lat": 40.810018,
     "lon": -73.950056,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Harlem_-_Apollo_Theater_%2848555309512%29.jpg/1280px-Harlem_-_Apollo_Theater_%2848555309512%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7609,7 +7609,7 @@
     "name": "The Met Cloisters",
     "lat": 40.864863,
     "lon": -73.931727,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Cloisters_Hudson_River_crop.jpg/1280px-The_Cloisters_Hudson_River_crop.jpg",
     "description": "West Terrace: This hidden oasis features a stunning view of the Hudson River and the Palisades from a castle-like museum. Parts of the Cloisters are among the oldest structures standing in the United States—although of course, they weren’t made here. They were brought over, stone by stone, in an ambitious scavenger hunt that could only have been the pet project of one of the richest New Yorkers who ever lived: John D. Rockefeller, Jr.",
     "info": null,
     "categories": [
@@ -8415,7 +8415,7 @@
     "name": "Theodore Roosevelt Birthplace National Historic Site",
     "lat": 40.738593,
     "lon": -73.989013,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Theodore_Roosevelt_Birthplace.jpg",
     "description": "The rough and tumble president's childhood home displays the shirt he was once shot in and the speech that saved him.",
     "info": null,
     "categories": [
@@ -8850,7 +8850,7 @@
     "name": "Edge",
     "lat": 40.754124,
     "lon": -74.000974,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Edge_HY.jpg/1280px-Edge_HY.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8863,7 +8863,7 @@
     "name": "Vessel",
     "lat": 40.753807,
     "lon": -74.002154,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hudson_Yards_Plaza_March_2019_18.jpg/1280px-Hudson_Yards_Plaza_March_2019_18.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9744,7 +9744,7 @@
     "name": "Alexander Hamilton U.S. Custom House",
     "lat": 40.704067,
     "lon": -74.013747,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Alexander_Hamilton_U.S._Custom_House_%2851520726607%29.jpg/1280px-Alexander_Hamilton_U.S._Custom_House_%2851520726607%29.jpg",
     "description": "Currently home to the National Museum of the American Indian, a bankruptcy court, and the National Archives of New York, the opulent building receives little of the vast foot traffic passing through Bowling Green. Which is a pity, for inside is one of the most remarkable examples of the WPA murals born out of the Great Depression.Magnificent New Deal Murals evoke a time when New York City harbor was one of the world's greatest and busiest ports.",
     "info": null,
     "categories": [
@@ -9857,7 +9857,7 @@
     "name": "Fraunces Tavern",
     "lat": 40.703418,
     "lon": -74.011365,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Frauncestavern.JPG/1280px-Frauncestavern.JPG",
     "description": "This Wall Street bar was once a hub of revolutionary activity where Washington famously bid farewell to his troops. raunces Tavern holds the top spot on the list of Manhattan’s oldest buildings. The tavern was also one of the first buildings to be designated a New York City Landmark in 1965, though much of the original colonial structure is non-existent. There has been a structure located at the site since 1719 when it was originally built as a private residence for Etienne DeLancey. In 1761 Samuel Fraunces, from whom the building takes its name, bought the building and opened the Queens Head Tavern. The tavern played a significant role in the American Revolution, serving as a meeting place for revolutionary groups like the Sons of Liberty and as a residence for George Washington during the final days of the war. However, after a restoration in 1906, much of the original structure was lost or obscured and there was a lot of guesswork in recreating the original structure. There are however some pieces of the original structure that survive. On the west wall of the tavern, there is 18th century Holland Brick and inside there are original oak hewn beams in the floors and ceilings of some of the upper rooms, including the famous Long Room.",
     "info": null,
     "categories": [
@@ -9899,7 +9899,7 @@
     "name": "Woolworth Building",
     "lat": 40.712631,
     "lon": -74.008304,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Woolworth_bldg_nov2005c.jpg/1280px-Woolworth_bldg_nov2005c.jpg",
     "description": "Once the tallest building in the world and the site of \"the highest dinner ever held in New York\" this building now holds the most expensive penthouse in the city.When the Woolworth Building opened in 1913, President Woodrow Wilson pressed a button in the White House, and 80,000 light bulbs flashed to life on Broadway as Thomas Edison supervised. Then Edison joined a banquet for 900 other prominent guests that the New-York Tribune called “the highest dinner ever held in New York.” During the ceremonies, famed radio pastor Samuel Parkes Cadman made “cathedral of commerce” the skyscraper’s nickname for the ages. Over 100 years later, much of the original glory remains, though the general public wouldn’t know it. Master architect Cass Gilbert’s Gothic gem still gleams in lower Manhattan, but few tourists have been inside in recent years. The building’s owners for the past couple of decades closed it to casual visitors. Post-9/11 security restrictions didn’t help, either. But that’s starting to change. Thanks to the efforts of Gilbert’s great-granddaughter, Helen Post-Curry, the owners allowed private tours in 2013 for the building’s centennial celebration. A great response led to regular paid tours. The tours focus almost entirely on the lobby—in addition to the aforementioned unfortunate closures, the 57th-floor observation deck was shut down during World War II out of fear that enemy spies could exploit its harbor views—but the lobby contains plenty to illuminate the Woolworth’s soaring story. One need only look up at the grand Heinigke & Bowen stained-glass ceiling over the main stairs to grasp F.W. Woolworth’s animating vision. Border panels devoted to great empire-builders like Spain and Russia lie alongside others featuring the Woolworth “W” as well as 1913 for the building opening and 1879 for the opening of the first successful “Woolworth’s Great Five Cent Store” in Lancaster, Pennsylvania (a store in Utica, New York, failed in 1878, and Woolworth reused its sign in Lancaster). By 1910, the operation was humming along well enough for Woolworth to lay plans for a company headquarters that would be the tallest building in the world, surpassing the 700-foot Metropolitan Life Insurance skyscraper completed in 1909. Woolworth scrapped a more modest $5 million estimate, and the final bill of $13.5 million produced the 792-foot (and one inch) finished structure of 58 stories (or 80 conventional stories, since ceilings range from 11 to 20 feet). The retail baron paid for it all in cash—perhaps in nickels and dimes only, as some say, and perhaps not. It’s also said that Woolworth spared no expense on the construction. Yet despite the gaudy price tag, he couldn’t resist a bit of skimping (amusingly enough, Woolworth is counting coins in the lobby gargoyle that portrays him). The Tiffany elevator ornamentation is cast iron done up like brass, terra cotta masquerades as marble on the exterior, and interior marble touted as “Greek” was actually mined in Vermont. Woolworth hired Cass Gilbert to create a world-class, historic company monument, but he always had business in mind. “My idea was purely commercial,” he said in 1910. “I saw possibilities of making this the greatest income producing property in which I could invest my money.” The building’s construction was a media phenomenon, and Woolworth was surely pleased with its critical reception and popularity. Woolworth opened his crown jewel up just like his stores, with counters and eateries alongside plentiful retail outlets. Missteps were minimal, such as the German beer hall shunned by some patriots during World War I, though the war’s drain on construction did benefit the building overall—it remained the world’s tallest until 1930, when the Chrysler Building and then the Empire State Building were completed. The Woolworth Building finally left Woolworth hands in 1998 with a $155 million sale to the Witkoff Group, which launched a plan to turn the top 25 floors of the bui",
     "info": null,
     "categories": [
@@ -9914,7 +9914,7 @@
     "name": "African Burial Ground National Monument",
     "lat": 40.714538,
     "lon": -74.004465,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/African_Burial_Grounds_National_Monument%2C_Manhattan%2C_New_York_%287237333486%29.jpg/1280px-African_Burial_Grounds_National_Monument%2C_Manhattan%2C_New_York_%287237333486%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10012,7 +10012,7 @@
     "name": "South Street Seaport Museum",
     "lat": 40.706498,
     "lon": -74.003646,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Schermerhorn_Row_jeh.JPG/1280px-Schermerhorn_Row_jeh.JPG",
     "description": "DESIGNATED BY CONGRESS AS THE American National Maritime Museum in 1998, the South Street Seaport Museum houses a permanent collection of over 1,000 model ships in addition to its fleet of full-sized vessels (the largest private collection in the country) and other important maritime artifacts. The model ship collection focuses on vessels that were significant in the economic and maritime development of New York and America in general. The Museum itself sits on the site of the original Port of New York and visitors can come to watch demonstrations of model ship building by experts in the craft.",
     "info": null,
     "categories": [
@@ -10056,7 +10056,7 @@
     "name": "Federal Reserve Bank of New York",
     "lat": 40.708364,
     "lon": -74.008654,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/2015_Federal_Reserve_Bank_of_New_York_from_west.jpg/1280px-2015_Federal_Reserve_Bank_of_New_York_from_west.jpg",
     "description": "More gold than anywhere else, ever.",
     "info": null,
     "categories": [
@@ -10182,7 +10182,7 @@
     "name": "Castle Clinton National Monument",
     "lat": 40.70348,
     "lon": -74.016631,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Castle_Clinton%2C_Battery_Park_-_NYC%2C_Set2011_%286181406976%29.jpg/1280px-Castle_Clinton%2C_Battery_Park_-_NYC%2C_Set2011_%286181406976%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10235,7 +10235,7 @@
     "name": "Stone Street",
     "lat": 40.704031,
     "lon": -74.011584,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Stone_Street_NYC_005.JPG/1280px-Stone_Street_NYC_005.JPG",
     "description": "The cobblestones of Stone Street date back to around 1655, when the road became the first in the Dutch colony of New Amsterdam to be paved. Legend says a wealthy brewer’s wife who lived on the street was fed up with dust from the street being kicked up by horses and ruining her drapes, and got Peter Stuyvesant to pave the street. The street has gone by many names throughout its history based on whoever owned it. Known to the Dutch as Hoogh Straet or High Street and later Brewer Street, the English renamed it Duke Street. In the midst of anti-English sentiment that followed the American Revolution, many English street names were replaced. Duke Street became Stone Street in honor of its status as the first paved road, which you can still walk on today. Discover the hidden meaning being more New York City street names here.",
     "info": null,
     "categories": [
@@ -10248,7 +10248,7 @@
     "name": "Federal Hall",
     "lat": 40.707399,
     "lon": -74.010209,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Federal_Hall_%2848126566178%29.jpg/1280px-Federal_Hall_%2848126566178%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10326,7 +10326,7 @@
     "name": "Ghostbusters Headquarters",
     "lat": 40.719566,
     "lon": -74.006612,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ghostbusters_Firehouse_crop.jpg/1280px-Ghostbusters_Firehouse_crop.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10564,7 +10564,7 @@
     "name": "Oculus Center",
     "lat": 40.711566,
     "lon": -74.011426,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Oculus_World_Trade_Center_%282024%29.jpg/1280px-Oculus_World_Trade_Center_%282024%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10577,7 +10577,7 @@
     "name": "St. Paul's Chapel",
     "lat": 40.711328,
     "lon": -74.009183,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/St._Paul%27s_Chapel_-_NYC_%2851522449420%29.jpg/1280px-St._Paul%27s_Chapel_-_NYC_%2851522449420%29.jpg",
     "description": "ground zero exhibit (still there?) \"Standing in the shadow of the modern skyscraper of One World Trade, St. Paul’s Chapel holds the title as the only colonial church still in Manhattan. Built in 1766, St. Paul’s was one of two chapels built for Trinity Church, the second being St. George’s which burned down. St. Paul’s almost met a similar fate in the Great Fire of 1777 which destroyed around 500 buildings, but luckily it was saved. The original Trinity Church was lost in that fire, so St. Paul’s became the congregation’s primary church. George Washington regularly attended services at St. Paul’s until Trinity Church was rebuilt in 1790. In fact, he went to St. Paul’s right after his inauguration at Federal Hall, just a short walk away, in 1789. He sat in a specially designated Presidential Pew. While the pew is no longer there, a painting of the one of the earliest known representations of the Great Seal of the United States, commissioned in 1789 to commemorate Washington’s inauguration still hangs above the site where he would have sat. The church is full of original architectural details and a very special monument to General Richard Montgomery. Montgomery was a Revolutionary War officer and the monument to him at St. Paul’s was the first commissioned by the Congress of the United States.\" This cemetery has graves dating back to the 17th century, including the city's oldest carved tombstone and an ominous cryptogram.",
     "info": null,
     "categories": [
@@ -10724,7 +10724,7 @@
     "name": "The David N. Dinkins Manhattan Municipal Building",
     "lat": 40.713139,
     "lon": -74.003611,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Municipal_Building_-_New_York_City.jpg",
     "description": "little known gallery in borough president's office",
     "info": null,
     "categories": [
@@ -10887,7 +10887,7 @@
     "name": "Doyers Street",
     "lat": 40.714352,
     "lon": -73.997943,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Doyers_Street_Chinatown.jpg/1280px-Doyers_Street_Chinatown.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10900,7 +10900,7 @@
     "name": "Survivor Tree",
     "lat": 40.711202,
     "lon": -74.013539,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Survivor_Tree_at_the_National_September_11_Memorial_Old_and_New_Growth.jpg/1280px-Survivor_Tree_at_the_National_September_11_Memorial_Old_and_New_Growth.jpg",
     "description": "The last living thing to come out of the rubble after 9/11 is now a symbol of hope and resilience.",
     "info": null,
     "categories": [
@@ -11525,7 +11525,7 @@
     "name": "Alice in Wonderland",
     "lat": 40.775036,
     "lon": -73.966545,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Alice_in_Wonderland_in_Central_Park.jpg/1280px-Alice_in_Wonderland_in_Central_Park.jpg",
     "description": "This whimsical group of statues is a favorite of children who love to climb all over Lewis Carroll's beloved characters. AMIDST THE BUSTLE OF NEW York City in the heart of Central Park is a celebration of a beloved children’s classic—Lewis Carroll’s Alice in Wonderland. The group of bronze statues was commissioned by local philanthropist George Delacorte in honor of his wife, Margarita, who used to read the book and Carroll’s other works to their children. They were designed by sculptor Jose de Creeft and brought to the life at the Modern Art Foundry in Queens. The heroine of the book Alice is seated atop a giant mushroom and the statue is thought to be a likeness of the designer’s daughter Donna. The book’s other characters like the White Rabbit, the Dormouse, and the Cheshire Cat are all placed around Alice. The statue of the Mad Hatter is supposed to be a caricature of George Delacorte himself. Since the monument was dedicated in May 1959, it has been a favorite of children visiting the park, who enjoy scrambling all over the statues, which were designed with this express purpose in mind. Margarita Delacorte’s favorite Lewis Carroll poem The Jabberwocky is engraved around the statue, along with other poetic bits from the book, all referencing nursery rhymes and childhood songs of the time. The one engraved text modern audiences can most easily recognize is Twinkle Twinkle Little Bat—its source material still sung by kids today.",
     "info": null,
     "categories": [
@@ -11555,7 +11555,7 @@
     "name": "Strawberry Fields",
     "lat": 40.775698,
     "lon": -73.974732,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/StrawberryFieldsJuly2007.JPG/1280px-StrawberryFieldsJuly2007.JPG",
     "description": "This mosaic dedicated to John Lennon was tended for years by a Beatles super-fan.",
     "info": null,
     "categories": [
@@ -11663,7 +11663,7 @@
     "name": "Bow Bridge",
     "lat": 40.775754,
     "lon": -73.971778,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bow_Bridge_in_Central_Park_on_Thanksgiving_2010.jpg/1280px-Bow_Bridge_in_Central_Park_on_Thanksgiving_2010.jpg",
     "description": "Crossing this body of water is the iconic Bow Bridge, one of the oldest cast-iron bridges in the country. Built in the mid 1800s, the bridge was designed in Classical Greek style, and is known today as one of the city’s most romantic spots. (Don’t be surprised if you stumble on a couple getting engaged there.)",
     "info": null,
     "categories": [
@@ -11702,7 +11702,7 @@
     "name": "Bethesda Fountain",
     "lat": 40.774321,
     "lon": -73.970883,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/At_New_York%2C_USA_2017_381.jpg/1280px-At_New_York%2C_USA_2017_381.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11821,7 +11821,7 @@
     "name": "Belvedere Castle",
     "lat": 40.77943,
     "lon": -73.969068,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Belvedere_Castle_and_Turtle_Pond%2C_Central_Park%2C_Manhattan%2C_New_York.jpg/1280px-Belvedere_Castle_and_Turtle_Pond%2C_Central_Park%2C_Manhattan%2C_New_York.jpg",
     "description": "",
     "info": null,
     "categories": [
