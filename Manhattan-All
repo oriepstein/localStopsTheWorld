@@ -237,19 +237,6 @@
     "id": "manhattan_601artspace"
   },
   {
-    "name": "Pier 35",
-    "lat": 40.709452,
-    "lon": -73.988414,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_pier_35"
-  },
-  {
     "name": "Metrograph",
     "lat": 40.715143,
     "lon": -73.991147,
@@ -3256,19 +3243,6 @@
     "id": "manhattan_fabulous_fanny_s"
   },
   {
-    "name": "Russian & Turkish Baths",
-    "lat": 40.728232,
-    "lon": -73.983586,
-    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Russian_%26_Turkish_Baths_sign_2023.jpg/1280px-Russian_%26_Turkish_Baths_sign_2023.jpg",
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_russian_turkish_baths_1"
-  },
-  {
     "name": "The Public Theater",
     "lat": 40.729067,
     "lon": -73.991903,
@@ -3987,8 +3961,7 @@
     "description": "recently restored windows",
     "info": null,
     "categories": [
-      "religious",
-      "shopping"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_st_thomas_church"
@@ -4473,20 +4446,6 @@
     ],
     "url": null,
     "id": "manhattan_microsoft_experience_center"
-  },
-  {
-    "name": "St. Thomas Church",
-    "lat": 40.760733,
-    "lon": -73.975899,
-    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2013_Saint_Thomas_Church_%28New_York_City%291.jpg/1280px-2013_Saint_Thomas_Church_%28New_York_City%291.jpg",
-    "description": "recently restored windows",
-    "info": null,
-    "categories": [
-      "religious",
-      "shopping"
-    ],
-    "url": null,
-    "id": "manhattan_st_thomas_church_1"
   },
   {
     "name": "Laurie M Tisch Foundation",
@@ -5158,19 +5117,6 @@
     ],
     "url": null,
     "id": "manhattan_fifth_avenue_presbyterian_church"
-  },
-  {
-    "name": "M & S Schmalberg",
-    "lat": 40.752825,
-    "lon": -73.991573,
-    "imageURL": null,
-    "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women’s and children’s fashion apparel in the United States. By the 1940s, dozens of “flower guys” were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_m_s_schmalberg"
   },
   {
     "name": "PENN 2",
@@ -6791,19 +6737,6 @@
     ],
     "url": null,
     "id": "manhattan_waterline_square_park"
-  },
-  {
-    "name": "Private Passage Sculpture",
-    "lat": 40.770989,
-    "lon": -73.995338,
-    "imageURL": null,
-    "description": "Wine bottle sculpture with a ship's stateroom inside.",
-    "info": null,
-    "categories": [
-      "art"
-    ],
-    "url": null,
-    "id": "manhattan_private_passage_sculpture_1"
   },
   {
     "name": "Verdi Square",
@@ -10997,20 +10930,6 @@
     "id": "manhattan_chinatown_fair_family_fun_center"
   },
   {
-    "name": "Aeon Bookstore",
-    "lat": 40.713829,
-    "lon": -73.990923,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "bookstore",
-      "shopping"
-    ],
-    "url": null,
-    "id": "manhattan_aeon_bookstore_1"
-  },
-  {
     "name": "Pier 35",
     "lat": 40.709452,
     "lon": -73.988414,
@@ -11246,19 +11165,6 @@
     ],
     "url": null,
     "id": "manhattan_32_6th_ave"
-  },
-  {
-    "name": "56 HENRY",
-    "lat": 40.712735,
-    "lon": -73.995165,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_56_henry_1"
   },
   {
     "name": "Fountain Pen Hospital",
