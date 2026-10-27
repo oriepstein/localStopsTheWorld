@@ -22,7 +22,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.dixonplace.org",
     "id": "manhattan_dixon_place"
   },
   {
@@ -48,7 +48,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.newmuseum.org/",
     "id": "manhattan_new_museum"
   },
   {
@@ -75,7 +75,7 @@
     "categories": [
       "shopping"
     ],
-    "url": null,
+    "url": "https://economycandy.com/",
     "id": "manhattan_economy_candy"
   },
   {
@@ -88,7 +88,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.tenement.org/",
     "id": "manhattan_tenement_museum"
   },
   {
@@ -115,7 +115,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.icp.org/",
     "id": "manhattan_international_center_of_photography_museum"
   },
   {
@@ -168,7 +168,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "http://www.abronsartscenter.org",
     "id": "manhattan_abrons_arts_center"
   },
   {
@@ -220,7 +220,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.theclementecenter.org/",
     "id": "manhattan_the_clemente_soto_v_lez_cultural_educational_center"
   },
   {
@@ -246,7 +246,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://metrograph.com",
     "id": "manhattan_metrograph"
   },
   {
@@ -341,7 +341,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.56henry.nyc",
     "id": "manhattan_56_henry"
   },
   {
@@ -393,7 +393,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://jackierobinson.org/",
     "id": "manhattan_jackie_robinson_museum"
   },
   {
@@ -406,7 +406,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.drawingcenter.org/",
     "id": "manhattan_the_drawing_center"
   },
   {
@@ -419,7 +419,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "http://www.dattner.com/portfolio/spring-street-salt-shed/",
     "id": "manhattan_spring_street_salt_shed"
   },
   {
@@ -434,7 +434,7 @@
       "bookstore",
       "drinking"
     ],
-    "url": null,
+    "url": "http://www.numismatics.org",
     "id": "manhattan_american_numismatic_society"
   },
   {
@@ -447,7 +447,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.nycfiremuseum.org/",
     "id": "manhattan_new_york_city_fire_museum"
   },
   {
@@ -488,7 +488,7 @@
       "religious",
       "architecture"
     ],
-    "url": null,
+    "url": "https://oldcathedral.org/",
     "id": "manhattan_the_basilica_of_st_patrick_s_old_cathedral"
   },
   {
@@ -673,7 +673,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://www.leslielohman.org/",
     "id": "manhattan_leslie_lohman_museum_of_art"
   },
   {
@@ -686,7 +686,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://filmforum.org/",
     "id": "manhattan_film_forum"
   },
   {
@@ -822,7 +822,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/mulberry-street",
     "id": "manhattan_mulberry_street_library"
   },
   {
@@ -916,7 +916,7 @@
       "religious",
       "theater"
     ],
-    "url": null,
+    "url": "https://www.judson.org",
     "id": "manhattan_judson_memorial_church"
   },
   {
@@ -942,7 +942,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nycgovparks.org/parks/west-4th-street-courts",
     "id": "manhattan_west_4th_street_courts"
   },
   {
@@ -994,7 +994,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://merchantshouse.org/",
     "id": "manhattan_merchant_s_house_museum"
   },
   {
@@ -1033,7 +1033,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://www.italianmodernart.org/",
     "id": "manhattan_center_for_italian_modern_art"
   },
   {
@@ -1191,7 +1191,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/ston/index.htm",
     "id": "manhattan_stonewall_national_monument"
   },
   {
@@ -1217,7 +1217,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.greenwichlocksmiths.com",
     "id": "manhattan_greenwich_locksmiths"
   },
   {
@@ -1269,7 +1269,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://salmagundi.org/",
     "id": "manhattan_salmagundi_club"
   },
   {
@@ -1295,7 +1295,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.chessforum.com/",
     "id": "manhattan_chess_forum"
   },
   {
@@ -1349,7 +1349,7 @@
       "religious",
       "theater"
     ],
-    "url": null,
+    "url": "http://www.gracechurchnyc.org",
     "id": "manhattan_grace_church"
   },
   {
@@ -1415,7 +1415,7 @@
     "categories": [
       "shopping"
     ],
-    "url": null,
+    "url": "https://www.strandbooks.com/",
     "id": "manhattan_strand_book_store"
   },
   {
@@ -1519,7 +1519,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.mocanyc.org",
     "id": "manhattan_museum_of_chinese_in_america"
   },
   {
@@ -1653,7 +1653,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://littleisland.org",
     "id": "manhattan_little_island"
   },
   {
@@ -1692,7 +1692,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.dashwoodbooks.com/",
     "id": "manhattan_dashwood_books"
   },
   {
@@ -1705,7 +1705,7 @@
     "categories": [
       "food"
     ],
-    "url": null,
+    "url": "http://www.angelikafilmcenter.com",
     "id": "manhattan_angelika_film_center_cafe_new_york"
   },
   {
@@ -1772,7 +1772,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.aiany.org",
     "id": "manhattan_aia_new_york_center_for_architecture"
   },
   {
@@ -1811,7 +1811,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.murrayscheese.com/",
     "id": "manhattan_murray_s_cheese"
   },
   {
@@ -1903,7 +1903,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.villagevanguard.com",
     "id": "manhattan_village_vanguard"
   },
   {
@@ -1942,7 +1942,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.gaycenter.org/",
     "id": "manhattan_the_lesbian_gay_bisexual_transgender_community_center"
   },
   {
@@ -1982,7 +1982,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://whitney.org/",
     "id": "manhattan_whitney_museum_of_american_art"
   },
   {
@@ -1995,7 +1995,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "https://www.elizabethstreetgarden.com/",
     "id": "manhattan_elizabeth_street_garden"
   },
   {
@@ -2103,7 +2103,7 @@
       "shopping",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/jefferson-market",
     "id": "manhattan_jefferson_market_library"
   },
   {
@@ -2129,7 +2129,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://tenri.org/",
     "id": "manhattan_tenri_cultural_institute"
   },
   {
@@ -2207,7 +2207,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "https://hudsonriverpark.org/",
     "id": "manhattan_pier_45_at_hudson_river_park"
   },
   {
@@ -2221,7 +2221,7 @@
       "landmark",
       "food"
     ],
-    "url": null,
+    "url": "http://www.cafereggio.com/",
     "id": "manhattan_caffe_reggio"
   },
   {
@@ -2341,7 +2341,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://www.diaart.org/visit/visit-our-locations-sites/walter-de-maria-the-new-york-earth-room-new-york-united-states",
     "id": "manhattan_the_new_york_earth_room"
   },
   {
@@ -2514,7 +2514,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.morusnyc.org/",
     "id": "manhattan_museum_of_reclaimed_urban_space_morus"
   },
   {
@@ -2566,7 +2566,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.russianturkishbaths.com/",
     "id": "manhattan_russian_turkish_baths"
   },
   {
@@ -2606,7 +2606,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "https://stmarksbowery.org/",
     "id": "manhattan_st_mark_s_church_in_the_bowery"
   },
   {
@@ -2634,7 +2634,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.cooper.edu/about/history/41-cooper-square",
     "id": "manhattan_41_cooper_square"
   },
   {
@@ -2687,7 +2687,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.nycmc.org/",
     "id": "manhattan_new_york_city_marble_cemetery"
   },
   {
@@ -2700,7 +2700,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.anthologyfilmarchives.org/",
     "id": "manhattan_anthology_film_archives"
   },
   {
@@ -2713,7 +2713,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.ukrainianmuseum.org/",
     "id": "manhattan_the_ukrainian_museum"
   },
   {
@@ -2753,7 +2753,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/ottendorfer",
     "id": "manhattan_ottendorfer_library"
   },
   {
@@ -2819,7 +2819,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.trashandvaudeville.com/",
     "id": "manhattan_trash_and_vaudeville"
   },
   {
@@ -2884,7 +2884,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "http://bulletspace.org/site/",
     "id": "manhattan_bullet_space"
   },
   {
@@ -2952,7 +2952,7 @@
       "park",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.lesecologycenter.org/",
     "id": "manhattan_lower_east_side_ecology_center_1"
   },
   {
@@ -2991,7 +2991,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.ps122.com",
     "id": "manhattan_performance_space_new_york"
   },
   {
@@ -3095,7 +3095,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "https://www.nytw.org/",
     "id": "manhattan_new_york_theatre_workshop"
   },
   {
@@ -3109,7 +3109,7 @@
       "food",
       "theater"
     ],
-    "url": null,
+    "url": "http://lamama.org",
     "id": "manhattan_la_mama_experimental_theatre_club"
   },
   {
@@ -3161,7 +3161,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "http://www.lizchristygarden.us/",
     "id": "manhattan_liz_christy_garden"
   },
   {
@@ -3266,7 +3266,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://huc.edu/",
     "id": "manhattan_hebrew_union_college_jewish_institute_of_religion"
   },
   {
@@ -3477,7 +3477,7 @@
       "theater",
       "art"
     ],
-    "url": null,
+    "url": "http://www.wowcafe.org/",
     "id": "manhattan_wow_cafe_theater"
   },
   {
@@ -3557,7 +3557,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.fordfoundation.org/about/the-ford-foundation-center-for-social-justice/",
     "id": "manhattan_ford_foundation_building"
   },
   {
@@ -3628,7 +3628,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.grandcentralterminal.com",
     "id": "manhattan_grand_central_terminal"
   },
   {
@@ -3654,7 +3654,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "http://greenacrepark.org",
     "id": "manhattan_greenacre_park"
   },
   {
@@ -3693,7 +3693,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "https://sjomannskirken.no/new-york",
     "id": "manhattan_the_norwegian_seamen_s_church_in_new_york"
   },
   {
@@ -3719,7 +3719,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://museumofthedog.org/",
     "id": "manhattan_akc_museum_of_the_dog"
   },
   {
@@ -3745,7 +3745,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "https://www.saintpeters.org/",
     "id": "manhattan_saint_peter_s_church"
   },
   {
@@ -3759,7 +3759,7 @@
       "landmark",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.375parkavenue.com",
     "id": "manhattan_seagram_building"
   },
   {
@@ -3825,7 +3825,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "http://www.59e59.org",
     "id": "manhattan_59e59_theaters"
   },
   {
@@ -3839,7 +3839,7 @@
       "religious",
       "theater"
     ],
-    "url": null,
+    "url": "http://www.centralsynagogue.org",
     "id": "manhattan_central_synagogue"
   },
   {
@@ -3854,7 +3854,7 @@
       "religious",
       "drinking"
     ],
-    "url": null,
+    "url": "http://www.stbarts.org/",
     "id": "manhattan_st_bartholomew_s_church"
   },
   {
@@ -3908,7 +3908,7 @@
       "architecture",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.fourseasons.com/newyork",
     "id": "manhattan_four_seasons_hotel_new_york"
   },
   {
@@ -3923,7 +3923,7 @@
       "drinking",
       "shopping"
     ],
-    "url": null,
+    "url": "http://www.lottenypalace.com",
     "id": "manhattan_lotte_new_york_palace"
   },
   {
@@ -3936,7 +3936,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.acfny.org/",
     "id": "manhattan_austrian_cultural_forum_new_york"
   },
   {
@@ -3963,7 +3963,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "http://www.saintthomaschurch.org",
     "id": "manhattan_st_thomas_church"
   },
   {
@@ -4003,7 +4003,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.japansociety.org",
     "id": "manhattan_japan_society"
   },
   {
@@ -4109,7 +4109,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nintendo.com/new-york/",
     "id": "manhattan_nintendo"
   },
   {
@@ -4229,7 +4229,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://arsnovanyc.com",
     "id": "manhattan_ars_nova"
   },
   {
@@ -4242,7 +4242,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://54below.com",
     "id": "manhattan_54_below"
   },
   {
@@ -4418,7 +4418,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.peninsula.com/en/new-york/5-star-luxury-hotel-midtown-nyc",
     "id": "manhattan_the_peninsula_new_york"
   },
   {
@@ -4472,7 +4472,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.carnegiehall.org/About/Building-Overview/Rose-Museum",
     "id": "manhattan_rose_museum"
   },
   {
@@ -4498,7 +4498,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "http://www.ensemblestudiotheatre.org/",
     "id": "manhattan_ensemble_studio_theatre"
   },
   {
@@ -4525,7 +4525,7 @@
       "theater",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.paramountbuilding.com/",
     "id": "manhattan_paramount_building"
   },
   {
@@ -4538,7 +4538,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.themuseumofbroadway.com",
     "id": "manhattan_museum_of_broadway"
   },
   {
@@ -4579,7 +4579,7 @@
       "art",
       "landmark"
     ],
-    "url": null,
+    "url": "https://generalsociety.org",
     "id": "manhattan_general_society_of_mechanics_tradesmen_of_the_city_of_new_york"
   },
   {
@@ -4594,7 +4594,7 @@
       "drinking",
       "architecture"
     ],
-    "url": null,
+    "url": "http://onevanderbilt.com/",
     "id": "manhattan_one_vanderbilt"
   },
   {
@@ -4607,7 +4607,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://grandcentralterminal.com/shop/new-york-transit-museum-gallery-store/",
     "id": "manhattan_new_york_transit_museum"
   },
   {
@@ -4662,7 +4662,7 @@
       "theater",
       "architecture"
     ],
-    "url": null,
+    "url": "http://thetownhall.org/",
     "id": "manhattan_the_town_hall"
   },
   {
@@ -4728,7 +4728,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.tannens.com/",
     "id": "manhattan_tannen_s_magic"
   },
   {
@@ -4755,7 +4755,7 @@
       "park",
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/snfl",
     "id": "manhattan_stavros_niarchos_foundation_library"
   },
   {
@@ -4808,7 +4808,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "http://www.signaturetheatre.org",
     "id": "manhattan_signature_theatre_company"
   },
   {
@@ -4887,7 +4887,7 @@
       "museum",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.newyorkerhotel.com",
     "id": "manhattan_the_new_yorker_hotel"
   },
   {
@@ -4979,7 +4979,7 @@
       "museum",
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.themorgan.org/",
     "id": "manhattan_the_morgan_library_museum"
   },
   {
@@ -5143,7 +5143,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.primeproduce.coop",
     "id": "manhattan_prime_produce"
   },
   {
@@ -5200,7 +5200,7 @@
       "bookstore",
       "shopping"
     ],
-    "url": null,
+    "url": "http://albertine.com",
     "id": "manhattan_albertine"
   },
   {
@@ -5213,7 +5213,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "http://www.nysoclib.org",
     "id": "manhattan_the_new_york_society_library"
   },
   {
@@ -5254,7 +5254,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://dayandmeyer.com/homepage.htm",
     "id": "manhattan_day_meyer_murray_young_corp"
   },
   {
@@ -5269,7 +5269,7 @@
       "landmark",
       "bookstore"
     ],
-    "url": null,
+    "url": "http://www.grolierclub.org/",
     "id": "manhattan_grolier_club"
   },
   {
@@ -5282,7 +5282,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.societyillustrators.org",
     "id": "manhattan_society_of_illustrators"
   },
   {
@@ -5326,7 +5326,7 @@
       "landmark",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.armoryonpark.org",
     "id": "manhattan_park_avenue_armory"
   },
   {
@@ -5341,7 +5341,7 @@
       "religious",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.emanuelnyc.org",
     "id": "manhattan_temple_emanu_el"
   },
   {
@@ -5395,7 +5395,7 @@
       "art",
       "art"
     ],
-    "url": null,
+    "url": "https://www.neuegalerie.org/",
     "id": "manhattan_neue_galerie_new_york"
   },
   {
@@ -5409,7 +5409,7 @@
       "museum",
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.cooperhewitt.org/",
     "id": "manhattan_cooper_hewitt_smithsonian_design_museum"
   },
   {
@@ -5450,7 +5450,7 @@
       "park",
       "landmark"
     ],
-    "url": null,
+    "url": "https://mvhm.org/",
     "id": "manhattan_mount_vernon_hotel_museum_garden"
   },
   {
@@ -5478,7 +5478,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://thejewishmuseum.org",
     "id": "manhattan_the_jewish_museum"
   },
   {
@@ -5530,7 +5530,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "http://www.carlschurzparknyc.org/",
     "id": "manhattan_carl_schurz_park"
   },
   {
@@ -5544,7 +5544,7 @@
       "bookstore",
       "shopping"
     ],
-    "url": null,
+    "url": "https://logosbookstorenyc.com/",
     "id": "manhattan_logos_bookstore"
   },
   {
@@ -5599,7 +5599,7 @@
       "park",
       "religious"
     ],
-    "url": null,
+    "url": "http://www.parkavenuechristian.com/",
     "id": "manhattan_park_avenue_christian_church"
   },
   {
@@ -5612,7 +5612,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://isaw.nyu.edu/",
     "id": "manhattan_institute_for_the_study_of_the_ancient_world"
   },
   {
@@ -5639,7 +5639,7 @@
       "bookstore",
       "shopping"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/webster",
     "id": "manhattan_webster_library"
   },
   {
@@ -5665,7 +5665,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.sothebys.com/",
     "id": "manhattan_sotheby_s_new_york"
   },
   {
@@ -5694,7 +5694,7 @@
       "religious",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.sjbny.org/",
     "id": "manhattan_st_jean_baptiste_church"
   },
   {
@@ -5733,7 +5733,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://rockefeller.edu",
     "id": "manhattan_the_rockefeller_university"
   },
   {
@@ -5774,7 +5774,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://ukrainianinstitute.org/",
     "id": "manhattan_ukrainian_institute_of_america"
   },
   {
@@ -5813,7 +5813,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "http://www.heavenlyrest.org",
     "id": "manhattan_church_of_the_heavenly_rest"
   },
   {
@@ -5946,7 +5946,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.thepierreny.com/",
     "id": "manhattan_the_pierre_a_taj_hotel_new_york"
   },
   {
@@ -5998,7 +5998,7 @@
     "categories": [
       "drinking"
     ],
-    "url": null,
+    "url": "http://www.elmuseo.org",
     "id": "manhattan_el_museo_del_barrio"
   },
   {
@@ -6039,7 +6039,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.mcny.org/",
     "id": "manhattan_museum_of_the_city_of_new_york"
   },
   {
@@ -6054,7 +6054,7 @@
       "drinking",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.nyam.org",
     "id": "manhattan_new_york_academy_of_medicine"
   },
   {
@@ -6082,7 +6082,7 @@
       "landmark",
       "bookstore"
     ],
-    "url": null,
+    "url": "https://new-york.czechcentres.gov.cz/",
     "id": "manhattan_czech_center_new_york"
   },
   {
@@ -6108,7 +6108,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://tech.cornell.edu/",
     "id": "manhattan_cornell_tech"
   },
   {
@@ -6147,7 +6147,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "http://www.fdrfourfreedomspark.org",
     "id": "manhattan_franklin_d_roosevelt_four_freedoms_state_park"
   },
   {
@@ -6344,7 +6344,7 @@
     "categories": [
       "drinking"
     ],
-    "url": null,
+    "url": "http://www.barneygreengrass.com/",
     "id": "manhattan_barney_greengrass"
   },
   {
@@ -6359,7 +6359,7 @@
       "landmark",
       "art"
     ],
-    "url": null,
+    "url": "http://www.nyhistory.org/",
     "id": "manhattan_new_york_historical_society"
   },
   {
@@ -6399,7 +6399,7 @@
       "museum",
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.amnh.org/",
     "id": "manhattan_american_museum_of_natural_history"
   },
   {
@@ -6427,7 +6427,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "http://www.roerich.org/",
     "id": "manhattan_nicholas_roerich_museum"
   },
   {
@@ -6455,7 +6455,7 @@
       "drinking",
       "art"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/lpa",
     "id": "manhattan_the_new_york_public_library_for_the_performing_arts_dorothy_and_lewis_b_cullman_center"
   },
   {
@@ -6709,7 +6709,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.applebank.com",
     "id": "manhattan_apple_bank"
   },
   {
@@ -6801,7 +6801,7 @@
       "park",
       "religious"
     ],
-    "url": null,
+    "url": "http://www.stjohndivine.org/",
     "id": "manhattan_the_cathedral_church_of_st_john_the_divine"
   },
   {
@@ -6854,7 +6854,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/gegr/index.htm",
     "id": "manhattan_general_grant_national_memorial"
   },
   {
@@ -6867,7 +6867,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "http://www.ndparish.org",
     "id": "manhattan_church_of_notre_dame"
   },
   {
@@ -6908,7 +6908,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.postcrypt.org",
     "id": "manhattan_postcrypt_coffeehouse"
   },
   {
@@ -7100,7 +7100,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.jtsa.edu",
     "id": "manhattan_the_jewish_theological_seminary"
   },
   {
@@ -7206,7 +7206,7 @@
       "landmark",
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/schomburg",
     "id": "manhattan_schomburg_center_for_research_in_black_culture"
   },
   {
@@ -7219,7 +7219,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/hagr/index.htm",
     "id": "manhattan_hamilton_grange_national_memorial"
   },
   {
@@ -7258,7 +7258,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://artsandletters.org",
     "id": "manhattan_american_academy_of_arts_and_letters"
   },
   {
@@ -7288,7 +7288,7 @@
       "landmark",
       "religious"
     ],
-    "url": null,
+    "url": "http://www.intercessionnyc.org/",
     "id": "manhattan_church_of_the_intercession"
   },
   {
@@ -7368,7 +7368,7 @@
       "landmark",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.morrisjumel.org/",
     "id": "manhattan_morris_jumel_mansion"
   },
   {
@@ -7395,7 +7395,7 @@
       "religious",
       "theater"
     ],
-    "url": null,
+    "url": "http://www.unitedpalace.org",
     "id": "manhattan_united_palace"
   },
   {
@@ -7408,7 +7408,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "https://www.apollotheater.org/",
     "id": "manhattan_apollo_theater"
   },
   {
@@ -7476,7 +7476,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://studiomuseum.org/",
     "id": "manhattan_the_studio_museum_in_harlem"
   },
   {
@@ -7545,7 +7545,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://www.metmuseum.org/visit/plan-your-visit/met-cloisters",
     "id": "manhattan_the_met_cloisters"
   },
   {
@@ -7560,7 +7560,7 @@
       "landmark",
       "drinking"
     ],
-    "url": null,
+    "url": "https://dyckmanfarmhouse.org/",
     "id": "manhattan_dyckman_farmhouse_museum"
   },
   {
@@ -7670,7 +7670,7 @@
       "museum",
       "art"
     ],
-    "url": null,
+    "url": "https://www.sugarhillmuseum.org/",
     "id": "manhattan_sugar_hill_children_s_museum_of_art_storytelling"
   },
   {
@@ -7749,7 +7749,7 @@
       "park",
       "art"
     ],
-    "url": null,
+    "url": "http://www.nycgovparks.org/parks/inwoodhillpark",
     "id": "manhattan_inwood_hill_park"
   },
   {
@@ -7856,7 +7856,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://theshabazzcenter.org/",
     "id": "manhattan_the_malcolm_x_dr_betty_shabazz_memorial_and_educational_center"
   },
   {
@@ -7884,7 +7884,7 @@
       "religious",
       "art"
     ],
-    "url": null,
+    "url": "http://ourladyofesperanza.org/",
     "id": "manhattan_church_of_our_lady_of_esperanza"
   },
   {
@@ -7975,7 +7975,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "https://abyssinian.org/",
     "id": "manhattan_the_abyssinian_baptist_church"
   },
   {
@@ -8001,7 +8001,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.cccadi.org/",
     "id": "manhattan_caribbean_cultural_center_african_diaspora_institute_cccadi"
   },
   {
@@ -8067,7 +8067,7 @@
       "park",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.nycgovparks.org/parks/marcus-garvey-park",
     "id": "manhattan_marcus_garvey_park"
   },
   {
@@ -8080,7 +8080,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.maysles.org/",
     "id": "manhattan_maysles_documentary_center"
   },
   {
@@ -8106,7 +8106,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://www.huntereastharlemgallery.org/",
     "id": "manhattan_hunter_east_harlem_gallery"
   },
   {
@@ -8337,7 +8337,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.theplayersnyc.org/",
     "id": "manhattan_the_players"
   },
   {
@@ -8350,7 +8350,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/thrb/index.htm",
     "id": "manhattan_theodore_roosevelt_birthplace_national_historic_site"
   },
   {
@@ -8441,7 +8441,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://nymasoniclibrary.org/",
     "id": "manhattan_livingston_library"
   },
   {
@@ -8454,7 +8454,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://posterhouse.org/",
     "id": "manhattan_poster_house"
   },
   {
@@ -8506,7 +8506,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nyc.gov/html/hhc/bellevue/html/home/home.shtml",
     "id": "manhattan_bellevue_hospital_center_emergency_room"
   },
   {
@@ -8587,7 +8587,7 @@
       "park",
       "religious"
     ],
-    "url": null,
+    "url": "http://www.littlechurch.org",
     "id": "manhattan_the_church_of_the_transfiguration"
   },
   {
@@ -8600,7 +8600,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "https://www.museumofsex.com/",
     "id": "manhattan_museum_of_sex"
   },
   {
@@ -8759,7 +8759,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "http://www.centerforbookarts.org",
     "id": "manhattan_center_for_book_arts"
   },
   {
@@ -8785,7 +8785,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.edgenyc.com/",
     "id": "manhattan_edge"
   },
   {
@@ -8798,7 +8798,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.hudsonyardsnewyork.com/discover/vessel/",
     "id": "manhattan_vessel"
   },
   {
@@ -8929,7 +8929,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.gts.edu",
     "id": "manhattan_the_general_theological_seminary"
   },
   {
@@ -9007,7 +9007,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.nypl.org/locations/heiskell",
     "id": "manhattan_andrew_heiskell_braille_and_talking_book_library"
   },
   {
@@ -9125,7 +9125,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.the8thfloor.org",
     "id": "manhattan_the_8th_floor"
   },
   {
@@ -9138,7 +9138,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://newschool.edu/",
     "id": "manhattan_the_new_school"
   },
   {
@@ -9216,7 +9216,7 @@
     "categories": [
       "park"
     ],
-    "url": null,
+    "url": "https://hudsonriverpark.org/locations/pier-57/",
     "id": "manhattan_pier_57_rooftop_park"
   },
   {
@@ -9255,7 +9255,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://thus.org/",
     "id": "manhattan_tibet_house_us_nyc"
   },
   {
@@ -9268,7 +9268,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://babycastles.com/",
     "id": "manhattan_babycastles"
   },
   {
@@ -9322,7 +9322,7 @@
     "categories": [
       "theater"
     ],
-    "url": null,
+    "url": "http://www.magnettheater.com/",
     "id": "manhattan_magnet_theater"
   },
   {
@@ -9389,7 +9389,7 @@
       "landmark",
       "drinking"
     ],
-    "url": null,
+    "url": "https://www.nationalartsclub.org/",
     "id": "manhattan_the_national_arts_club"
   },
   {
@@ -9428,7 +9428,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.cjh.org/",
     "id": "manhattan_center_for_jewish_history"
   },
   {
@@ -9441,7 +9441,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.yumuseum.org/",
     "id": "manhattan_yeshiva_university_museum"
   },
   {
@@ -9573,7 +9573,7 @@
       "religious",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.marblechurch.org",
     "id": "manhattan_marble_collegiate_church"
   },
   {
@@ -9612,7 +9612,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.friendsseminary.org",
     "id": "manhattan_friends_seminary"
   },
   {
@@ -9653,7 +9653,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.thebattery.org/seaglass/",
     "id": "manhattan_seaglass_carousel"
   },
   {
@@ -9711,7 +9711,7 @@
       "food",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.26broadway.com/",
     "id": "manhattan_26_broadway"
   },
   {
@@ -9794,7 +9794,7 @@
       "drinking",
       "architecture"
     ],
-    "url": null,
+    "url": "http://frauncestavernmuseum.org/",
     "id": "manhattan_fraunces_tavern"
   },
   {
@@ -9808,7 +9808,7 @@
       "architecture",
       "art"
     ],
-    "url": null,
+    "url": "http://www.thebeekman.com",
     "id": "manhattan_5_beekman_st"
   },
   {
@@ -9849,7 +9849,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/afbg/index.htm",
     "id": "manhattan_african_burial_ground_national_monument"
   },
   {
@@ -9949,7 +9949,7 @@
       "architecture",
       "art"
     ],
-    "url": null,
+    "url": "http://www.southstreetseaportmuseum.org/",
     "id": "manhattan_south_street_seaport_museum"
   },
   {
@@ -9978,7 +9978,7 @@
       "museum",
       "religious"
     ],
-    "url": null,
+    "url": "https://johnstreetchurch.org/",
     "id": "manhattan_john_street_united_methodist_church"
   },
   {
@@ -9991,7 +9991,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.newyorkfed.org/",
     "id": "manhattan_federal_reserve_bank_of_new_york"
   },
   {
@@ -10018,7 +10018,7 @@
       "museum",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.skyscraper.org",
     "id": "manhattan_the_skyscraper_museum"
   },
   {
@@ -10062,7 +10062,7 @@
       "art",
       "art"
     ],
-    "url": null,
+    "url": "https://www.olfactoryartkeller.com",
     "id": "manhattan_olfactory_art_keller"
   },
   {
@@ -10076,7 +10076,7 @@
       "bookstore",
       "shopping"
     ],
-    "url": null,
+    "url": "http://www.mysteriousbookshop.com/",
     "id": "manhattan_mysterious_book_shop"
   },
   {
@@ -10117,7 +10117,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/cacl/index.htm",
     "id": "manhattan_castle_clinton_national_monument"
   },
   {
@@ -10183,7 +10183,7 @@
     "categories": [
       "architecture"
     ],
-    "url": null,
+    "url": "https://www.nps.gov/feha/index.htm",
     "id": "manhattan_federal_hall"
   },
   {
@@ -10366,7 +10366,7 @@
       "landmark",
       "architecture"
     ],
-    "url": null,
+    "url": "https://70pine.com/",
     "id": "manhattan_70_pine_street"
   },
   {
@@ -10420,7 +10420,7 @@
     "categories": [
       "museum"
     ],
-    "url": null,
+    "url": "http://www.nmai.si.edu/subpage.cfm?subpage=visitor&second=ny",
     "id": "manhattan_national_museum_of_the_american_indian"
   },
   {
@@ -10460,7 +10460,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://onewallstreet.com",
     "id": "manhattan_one_wall_street"
   },
   {
@@ -10566,7 +10566,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://bpcparks.org/whats-here/parks/irish-hunger-memorial/",
     "id": "manhattan_irish_hunger_memorial"
   },
   {
@@ -10620,7 +10620,7 @@
       "architecture",
       "art"
     ],
-    "url": null,
+    "url": "https://www1.nyc.gov/site/dcas/business/dcasmanagedbuildings/sun-building.page",
     "id": "manhattan_280_broadway"
   },
   {
@@ -10633,7 +10633,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www1.nyc.gov/site/dcas/business/dcasmanagedbuildings/tweed-courthouse.page",
     "id": "manhattan_tweed_courthouse"
   },
   {
@@ -10660,7 +10660,7 @@
       "art",
       "architecture"
     ],
-    "url": null,
+    "url": "https://www1.nyc.gov/site/dcas/business/dcasmanagedbuildings/david-n-dinkins-manhattan-municipal-building.page",
     "id": "manhattan_the_david_n_dinkins_manhattan_municipal_building"
   },
   {
@@ -10782,7 +10782,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "https://www.nycourts.gov/courts/nyc/surrogates/index.shtml",
     "id": "manhattan_surrogate_s_court_new_york_county"
   },
   {
@@ -10809,7 +10809,7 @@
     "categories": [
       "shopping"
     ],
-    "url": null,
+    "url": "https://wingonwoand.co/",
     "id": "manhattan_wing_on_wo_co"
   },
   {
@@ -10861,7 +10861,7 @@
     "categories": [
       "religious"
     ],
-    "url": null,
+    "url": "http://www.transfigurationnyc.org/parish/index.php",
     "id": "manhattan_church_of_the_transfiguration"
   },
   {
@@ -10965,7 +10965,7 @@
     "categories": [
       "bookstore"
     ],
-    "url": null,
+    "url": "https://www.yuandmebooks.com/",
     "id": "manhattan_yu_me_books"
   },
   {
@@ -11069,7 +11069,7 @@
     "categories": [
       "landmark"
     ],
-    "url": null,
+    "url": "http://www.60hudsonnyc.com/",
     "id": "manhattan_60_hudson_street"
   },
   {
@@ -11258,7 +11258,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://pacnyc.org/",
     "id": "manhattan_perelman_performing_arts_center_pac_nyc"
   },
   {
@@ -11272,7 +11272,7 @@
       "religious",
       "architecture"
     ],
-    "url": null,
+    "url": "http://www.stpetersrcnyc.org/",
     "id": "manhattan_st_peter_s_roman_catholic_church"
   },
   {
@@ -11325,7 +11325,7 @@
     "categories": [
       "art"
     ],
-    "url": null,
+    "url": "https://apexart.org/",
     "id": "manhattan_apexart"
   },
   {
