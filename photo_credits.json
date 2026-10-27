@@ -1852,5 +1852,515 @@
     "license": "Public domain",
     "licenseURL": null,
     "sourceURL": "https://commons.wikimedia.org/wiki/File:Central_Park_Arsenal_jeh.JPG"
+  },
+  "berlin_molecule_man": {
+    "author": "Georg Slickers",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin-alt-treptow_molecule-man_20050922_496.jpg"
+  },
+  "berlin_berliner_mauer": {
+    "author": "Edward Valachovic",
+    "license": "CC BY-SA 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_Potsdamer_Platz_November_1975_looking_east_crop.jpg"
+  },
+  "berlin_georg_von_rauch_house": {
+    "author": "Libertinus Yomango",
+    "license": "CC BY-SA 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Rauch_Haus.jpg"
+  },
+  "berlin_werkbundarchiv_museum_of_things": {
+    "author": "GodeNehler",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Werkbundarchiv_Museum_der_Dinge_Leipziger_Stra%C3%9Fe_54_Berlin_10.jpg"
+  },
+  "berlin_stasi_museum": {
+    "author": "Prof.Quatermass",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sede_Stasi_Museum.JPG"
+  },
+  "berlin_bode_museum": {
+    "author": "Thomas Wolf",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Museumsinsel_Fernsehturm.jpg"
+  },
+  "berlin_pergamonmuseum": {
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Pergamonmuseum_Front.jpg"
+  },
+  "berlin_berlin_cathedral": {
+    "author": "Thomas Wolf",
+    "license": "CC BY-SA 3.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berliner_Dom_von_Humboldt-Box.jpg"
+  },
+  "berlin_ddr_museum": {
+    "author": "Romāns Kolduns",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Spree_-_panoramio_(3).jpg"
+  },
+  "berlin_marx_engels_forum": {
+    "author": "Jorge Láscar",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Lascar_Marx-Engels-Forum_(4472409972).jpg"
+  },
+  "berlin_victory_column": {
+    "author": "KK nationsonline",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Siegess%C3%A4ule-Berlin-Tiergarten.jpg"
+  },
+  "berlin_german_resistance_memorial": {
+    "author": "Adam Carr",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bendlerblock.jpg"
+  },
+  "berlin_hansa_studios": {
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Kreuzberg,_Koethener_Strasse_38,_Meistersaal.jpg"
+  },
+  "berlin_archenhold_observatory": {
+    "author": "Sebastian Wallroth",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Treptow_Archenhold_Sternwarte.jpg"
+  },
+  "berlin_soviet_war_memorial_treptow": {
+    "author": "Antoinevandermeer",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:TreptowEhrenmal10.JPG"
+  },
+  "berlin_reichstag_building": {
+    "author": "Jörg Braukmann",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg"
+  },
+  "berlin_bellevue_palace": {
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:0_3494_Berlin_-_Schloss_Bellevue.jpg"
+  },
+  "berlin_memorial_homosexuals_nazism": {
+    "author": "Times",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Denkmal_fuer_verfolgte_Homosexuelle_Berlin2.jpg"
+  },
+  "berlin_carillon": {
+    "author": "Nikolai Schwerg",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Tiergarten_Carillon.JPG"
+  },
+  "berlin_museum_fur_naturkunde": {
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Invalidenstrasse_43,_Museum_f%C3%BCr_Naturkunde.jpg"
+  },
+  "berlin_museum_medical_history_charite": {
+    "author": "dreizung",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berliner_Medizinhistorisches_Museum.JPG"
+  },
+  "berlin_weissensee_cemetery": {
+    "author": "Lukas Beck",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin-Wei%C3%9Fensee_J%C3%BCdischer_Friedhof.jpg"
+  },
+  "berlin_wasserturm_prenzlauer_berg": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Wasserturm_Prenzlauer_Berg_Berlin_07-2015.jpg"
+  },
+  "berlin_prussian_monument_liberation_wars": {
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Kreuzberg,_Viktoriapark,_Nationaldenkmal,_Ostseite.jpg"
+  },
+  "berlin_wir_waren_nachbarn": {
+    "author": "Gerhard Haug",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Ausstellungshalle-Rathaus_Schoeneberg-Wir_waren_Nachbarn.jpg"
+  },
+  "berlin_berlin_underworld": {
+    "author": "Video2005",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg"
+  },
+  "berlin_flakturm_humboldthain": {
+    "author": "Andreas Praefcke",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Humboldthain_Aussichtspunkte_Bunker.jpg"
+  },
+  "berlin_buchstabenmuseum": {
+    "author": "Manfred Brückels",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Buchstabenmuseum_1.jpg"
+  },
+  "berlin_kw_institute_contemporary_art": {
+    "author": "GoodieL",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:161123_KW_0060_LQ.jpg"
+  },
+  "berlin_haus_schwarzenberg": {
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Rosenthaler_Strasse_39,_Haus_Schwarzenberg.jpg"
+  },
+  "berlin_mengenlehreuhr": {
+    "author": "Muritatis",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Mengenlehreuhr.jpg"
+  },
+  "berlin_clock_of_flowing_time": {
+    "author": "Fridolin freudenfett",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Charlottenburg_Europacenter_Uhr_der_flie%C3%9Fenden_Zeit-002.jpg"
+  },
+  "berlin_kaiser_wilhelm_memorial_church": {
+    "author": "GerardM",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Ged%C3%A4chtniskirche1.JPG"
+  },
+  "berlin_story_bunker": {
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Story_Bunker_im_Anhalter_Hochbunker,_Berlin-Kreuzberg-49369.jpg"
+  },
+  "berlin_berliner_fernsehturm": {
+    "author": "L-BBE",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tv-turm_-_panoramio.jpg"
+  },
+  "berlin_museum_berlin_karlshorst": {
+    "author": "Thm72",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Museum_Karlshorst_Mai_2022.jpg"
+  },
+  "berlin_haus_des_lehrers": {
+    "author": "Bahnfrend",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Haus_des_Lehrers,_2024_(01).jpg"
+  },
+  "berlin_pressecafe_am_alexanderplatz": {
+    "author": "Josef Streichholz",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Pressecaf%C3%A9_Berlin.jpg"
+  },
+  "berlin_art_park_tegel": {
+    "author": "OTFW, Berlin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Wandmalerei_Neheimer_Str_2_(Tegel)_Summer_of_Peace%26Fintan_Magee%262015.jpg"
+  },
+  "berlin_konditorei_cafe_buchwald": {
+    "author": "Orderinchaos",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Konditorei_Buchwald_front.jpg"
+  },
+  "berlin_nature_park_sudgelande": {
+    "author": "Hanson59",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sch%C3%B6neberger_S%C3%BCdgel%C3%A4nde_Uhuuuu.jpg"
+  },
+  "berlin_brandenburg_gate": {
+    "author": "Thomas Wolf",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg"
+  },
+  "berlin_friede_sei_mit_dir": {
+    "author": "Paolo Olarte",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Taz-gebaeude-paulo-olarte.jpg"
+  },
+  "berlin_charlottenburg_palace": {
+    "author": "abbilder",
+    "license": "CC BY 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Schloss_Charlottenburg_2025.jpg"
+  },
+  "berlin_fliegeberg": {
+    "author": "Global Fish",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Fliegeberg1.jpg"
+  },
+  "berlin_bierpinsel": {
+    "author": "Marek Śliwecki",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_-_Bierpinsel.jpg"
+  },
+  "berlin_david_hasselhoff_museum": {
+    "author": "OlafJanssen",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Overview_of_the_David_Hasselhoff_Museum_in_Berlin_20191027.jpg"
+  },
+  "berlin_pfaueninsel": {
+    "author": "E-W",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Pfaueninsel_Panorama.jpg"
+  },
+  "berlin_teufelsberg": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Funkturm_Berlin_View_13.jpg"
+  },
+  "berlin_new_synagogue": {
+    "author": "Ansgar Koreng",
+    "license": "CC BY 3.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Neue_Synagoge,_Berlin-Mitte,_160328,_ako.jpg"
+  },
+  "berlin_botanical_garden": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg"
+  },
+  "berlin_franzosischer_dom": {
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Franz%C3%B6sischer_Dom_--_2013_--_4581.jpg"
+  },
+  "berlin_hamburger_bahnhof": {
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Hamburger_Bahnhof,_Berlin,_Eingangsbereich-49290.jpg"
+  },
+  "berlin_neues_museum": {
+    "author": "Joyofmuseums",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Neues_Museum_-_Joy_of_Museums.jpg"
+  },
+  "berlin_alte_nationalgalerie": {
+    "author": "Manfred Brückels",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:AlteNationalgalerie_1a.jpg"
+  },
+  "berlin_altes_museum": {
+    "author": "VitVit",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn_Star%C3%A9_muzeum_4.jpg"
+  },
+  "berlin_deutsche_kinemathek": {
+    "author": "joho345",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Deutsche_Kinemathek_2.jpg"
+  },
+  "berlin_berlinische_galerie": {
+    "author": "Foto Christoph Rehbach",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlinische_Galerie_aussen.JPG"
+  },
+  "berlin_german_historical_museum": {
+    "author": "Jörg Zägel",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin,_Mitte,_Unter_den_Linden,_Zeughaus_09.jpg"
+  },
+  "berlin_siedlung_schillerpark": {
+    "author": "Marbot",
+    "license": "CC BY-SA 3.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:20080715_14995_DSC01940_Siedlung_Schillerpark_Oxforder_Stra%C3%9Fe_14_bis_4_R%C3%BCckansicht.JPG"
+  },
+  "berlin_hufeisensiedlung": {
+    "author": "Benbuschfeld",
+    "license": "CC BY 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Hufeisensiedlung_Blick_von_Treppe_2013.jpg"
+  },
+  "berlin_wohnstadt_carl_legien": {
+    "author": "Florianmk",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Clio-berlin-carl-legien-siedlung-1-5.jpg"
+  },
+  "berlin_st_agnes": {
+    "author": "Gunnar Klack",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg"
+  },
+  "berlin_glienicke_palace": {
+    "author": "Suse",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Schloss_Glienicke_S%C3%BCden.jpg"
+  },
+  "berlin_zwolf_apostel_kirchengemeinde": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:12Apostles_Church_B-Schoeneberg_01.jpg"
+  },
+  "berlin_energie_museum": {
+    "author": "Assenmacher",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin-Lankwitz_Energie-Museum.jpg"
+  },
+  "berlin_museum_kulturbrauerei": {
+    "author": "Vivianalis",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Museo_nel_Kulturbrauerei.jpg"
+  },
+  "berlin_olympisches_dorf": {
+    "author": "A.Savin",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:OlympDorf_Berlin_08-2013_img04.jpg"
+  },
+  "berlin_co_berlin": {
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:C-O_Berlin_im_Amerika_Haus-2577.jpg"
+  },
+  "berlin_tempelhofer_feld": {
+    "author": "Coooohen",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Tempelhofer_Feld_May_2021.jpg"
+  },
+  "berlin_hackesche_hofe": {
+    "author": "Schlaier",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Hackesche_H%C3%B6fe_Berlin1.JPG"
+  },
+  "berlin_hohenschonhausen_memorial": {
+    "author": "Christian Liebscher",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg"
+  },
+  "berlin_wittenbergplatz": {
+    "author": "Aazarus",
+    "license": "CC BY-SA 2.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Wittenbergplatz.jpg"
+  },
+  "berlin_unite_d_habitation": {
+    "author": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Corbusierhaus_(Berlin)_(6305809373).jpg"
+  },
+  "berlin_synagoge_rykestrasse": {
+    "author": "Mazbln",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Berlin_Synagoge_Rykestrasse_Eingang.JPG"
+  },
+  "berlin_sehitlik_camii": {
+    "author": "Lienhard Schulz",
+    "license": "CC BY 2.5",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Sehitlik1_Moschee_Berlin.JPG"
+  },
+  "berlin_topography_of_terror": {
+    "author": "Stiftung Topographie des Terrors",
+    "license": "CC BY-SA 3.0 de",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Topographie_des_Terrors_Neubau.jpg"
+  },
+  "berlin_gropius_bau": {
+    "author": "Jensens",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Martin-Gropius-Bau_Berlin_cropped.jpg"
+  },
+  "berlin_german_museum_of_technology": {
+    "author": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Deutsches_Technikmuseum_Berlin-49410.jpg"
+  },
+  "berlin_futurium": {
+    "author": "abbilder",
+    "license": "CC BY 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Futurium_-_Flickr_-_abbilder.jpg"
+  },
+  "berlin_mauerpark": {
+    "author": "Franz Richter",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Mauerpark_1979.jpg"
+  },
+  "berlin_st_michaels_church": {
+    "author": "Richardfabi",
+    "license": "Public domain",
+    "licenseURL": null,
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:St_Michael_Berlin_mit_Luisenstaedtischer_Kanal.JPG"
+  },
+  "berlin_das_buddhistische_haus": {
+    "author": "Fridolin freudenfett",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Frohnau_Edelhofdamm_Das_Buddhistische_Haus-001.JPG"
+  },
+  "berlin_humboldt_forum": {
+    "author": "GodeNehler",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Humboldt_Forum-9148.jpg"
+  },
+  "berlin_lustgarten": {
+    "author": "CruiseTommy",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Altes_Museum_%26_Lustgarten.jpg"
   }
 }
