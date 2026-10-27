@@ -70,7 +70,7 @@
     "name": "Economy Candy",
     "lat": 40.720105,
     "lon": -73.987861,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Economy_Candy_2023_jeh.jpg/1280px-Economy_Candy_2023_jeh.jpg",
     "description": "Established in 1937, the oldest candy shop in New York City boasts a rainbow-colored inventory that would make Willy Wonka envious.",
     "info": null,
     "categories": [
@@ -110,7 +110,7 @@
     "name": "International Center of Photography Museum",
     "lat": 40.717991,
     "lon": -73.988687,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Intnl_Cenf_Photog_43_jeh.JPG/1280px-Intnl_Cenf_Photog_43_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -123,7 +123,7 @@
     "name": "Museum at Eldridge Street",
     "lat": 40.714748,
     "lon": -73.993556,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Museum_at_Elridge_Street_superdervish.jpg/1280px-Museum_at_Elridge_Street_superdervish.jpg",
     "description": "America's oldest Eastern European synagogue provided the immigrants of crowded Lower East Side tenements a space of sanctuary.",
     "info": null,
     "categories": [
@@ -254,7 +254,7 @@
     "name": "Metrograph",
     "lat": 40.715143,
     "lon": -73.991147,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MetrographNight.jpg/1280px-MetrographNight.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -310,7 +310,7 @@
     "name": "Bialystoker Synagogue",
     "lat": 40.715499,
     "lon": -73.983203,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bialystoker_Synagogue.jpg/1280px-Bialystoker_Synagogue.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -414,7 +414,7 @@
     "name": "The Drawing Center",
     "lat": 40.722409,
     "lon": -74.002855,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/WTM_sheila_0027.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -455,7 +455,7 @@
     "name": "New York City Fire Museum",
     "lat": 40.725556,
     "lon": -74.006944,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/New_York_City_Fire_Museum_002_%28cropped%29.jpg/1280px-New_York_City_Fire_Museum_002_%28cropped%29.jpg",
     "description": "A museum collection honoring the long history of the FDNY is held in a disused Manhattan fire house.",
     "info": null,
     "categories": [
@@ -495,7 +495,7 @@
     "name": "The Basilica of St. Patrick's Old Cathedral",
     "lat": 40.723647,
     "lon": -73.995435,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Saint_Pats_Old_Cathedral_Manh_jeh.JPG/1280px-Saint_Pats_Old_Cathedral_Manh_jeh.JPG",
     "description": "check out the crypts; The original Cathedral of the Archdiocese of New York, the Basilica of St. Patrick's Old Cathedral was built 200 years ago in what is now Chinatown. Steeped in history, the building was attacked by anti-Catholic rioters in 1836. Along with its sister church, the nearby Shrine Church of Most Precious Blood, Old St. Patrick’s is a must-visit when strolling through Chinatown. (Pro tip: Take a walk through history with a candlelit tour of the catacombs beneath the church.)",
     "info": null,
     "categories": [
@@ -524,7 +524,7 @@
     "name": "Judd Foundation",
     "lat": 40.723508,
     "lon": -73.999361,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/24/101_Spring_Street_02.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -589,7 +589,7 @@
     "name": "Charlton–King–Vandam Historic District",
     "lat": 40.727673,
     "lon": -74.003222,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/35_%26_37_Charlton_Street.jpg/1280px-35_%26_37_Charlton_Street.jpg",
     "description": "NY's greatest display of Federal style of houses.",
     "info": null,
     "categories": [
@@ -667,7 +667,7 @@
     "name": "Performing Garage",
     "lat": 40.722292,
     "lon": -74.002849,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Performing_Garage_33_Wooster_Street.jpg/1280px-Performing_Garage_33_Wooster_Street.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -680,7 +680,7 @@
     "name": "Leslie-Lohman Museum of Art",
     "lat": 40.721669,
     "lon": -74.00309,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Leslie-Lohman_Museum_of_Gay_and_Lesbian_Art_-_NYC_%2848129032106%29.jpg/1280px-Leslie-Lohman_Museum_of_Gay_and_Lesbian_Art_-_NYC_%2848129032106%29.jpg",
     "description": "The Leslie-Lohman Museum of Art, which was formerly known as The Leslie-Lohman Museum of Gay and Lesbian Art, is an art museum in Lower Manhattan that has put together a collection of visual art created by LGBTQ artists or art that chronicles the LGBTQ experience. The museum's permanent collection has more than 22,000 objects, and, as of late 2019, was the world's only museum exclusively focused on art that showcases the LGBTQ experienc",
     "info": null,
     "categories": [
@@ -694,7 +694,7 @@
     "name": "Film Forum",
     "lat": 40.72841,
     "lon": -74.00433,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Theateroutsidepub.jpg/1280px-Theateroutsidepub.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -707,7 +707,7 @@
     "name": "Housing Works Bookstore",
     "lat": 40.724604,
     "lon": -73.996576,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/HousingWorksCafe-April2015.jpg/1280px-HousingWorksCafe-April2015.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -830,7 +830,7 @@
     "name": "Mulberry Street Library",
     "lat": 40.724115,
     "lon": -73.995592,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Mulberry_Street_Library_2024_jeh.jpg/1280px-Mulberry_Street_Library_2024_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -856,7 +856,7 @@
     "name": "Triangle Shirtwaist Factory",
     "lat": 40.729998,
     "lon": -73.995468,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Greenwich_Village_Manhattan_Oct_2025_51.jpg/1280px-Greenwich_Village_Manhattan_Oct_2025_51.jpg",
     "description": "The site of the deadly Triangle Shirtwaist Factory Fire.",
     "info": null,
     "categories": [
@@ -922,7 +922,7 @@
     "name": "Judson Memorial Church",
     "lat": 40.730219,
     "lon": -73.998383,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Judson_Memorial_Church_%2851660334986%29.jpg/1280px-Judson_Memorial_Church_%2851660334986%29.jpg",
     "description": "Liberal & arts-oriented church with gorgeous stained glass windows; An Evangelical-Baptist church, Judson became a famous performing and visual arts space in the 1900s. It has since showcased works by everyone from painter Robert Rauschenberg to Yoko Ono and choreographer Trisha Brown, founder of Judson Dance Theater. Long dedicated to social outreach causes, including women’s rights and AIDS resources for the LGBT community, the church now engages in the New Sanctuary Movement for immigrant rights.",
     "info": null,
     "categories": [
@@ -950,7 +950,7 @@
     "name": "West 4th Street Courts",
     "lat": 40.731211,
     "lon": -74.000861,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/West_4th_street_courts.jpg/1280px-West_4th_street_courts.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -963,7 +963,7 @@
     "name": "Hangman's Elm",
     "lat": 40.731956,
     "lon": -73.998613,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/070129-SWR009.jpg",
     "description": "oldest known living tree in nyc; The oldest living tree in Manhattan comes shrouded in sinister legend.",
     "info": null,
     "categories": [
@@ -1002,7 +1002,7 @@
     "name": "Merchant's House Museum",
     "lat": 40.727665,
     "lon": -73.99234,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Merchant%27s_House_Museum_%2848072654706%29.jpg/1280px-Merchant%27s_House_Museum_%2848072654706%29.jpg",
     "description": "New York City's only preserved family home from the 19th century.",
     "info": null,
     "categories": [
@@ -1015,7 +1015,7 @@
     "name": "Gay Street",
     "lat": 40.733695,
     "lon": -74.000397,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/GayStreet7.JPG",
     "description": "An aptly-named street near the birthplace of the modern LGBT rights movement.",
     "info": null,
     "categories": [
@@ -1119,7 +1119,7 @@
     "name": "Casa Magazines",
     "lat": 40.73766,
     "lon": -74.004501,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Casa_Magazines._New_York%2C_NY.jpg/1280px-Casa_Magazines._New_York%2C_NY.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1132,7 +1132,7 @@
     "name": "Patchin Place",
     "lat": 40.734952,
     "lon": -73.999306,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Patchin_Place_through_gate.jpg/1280px-Patchin_Place_through_gate.jpg",
     "description": "Iconic, pictaresque Village street, home to NYC's last working gas streetlamp",
     "info": null,
     "categories": [
@@ -1238,7 +1238,7 @@
     "name": "Marie's Crisis Café",
     "lat": 40.733221,
     "lon": -74.003402,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Marie%27s_Crisis_2023_jeh.jpg/1280px-Marie%27s_Crisis_2023_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1277,7 +1277,7 @@
     "name": "Salmagundi Club",
     "lat": 40.73435,
     "lon": -73.994582,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Salmagundi-club-47-5th-avenue.JPG/1280px-Salmagundi-club-47-5th-avenue.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -1303,7 +1303,7 @@
     "name": "Chess Forum",
     "lat": 40.729167,
     "lon": -73.999299,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Celebrating_The_Chess_Forum_%2830614447860%29.jpg/1280px-Celebrating_The_Chess_Forum_%2830614447860%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1329,7 +1329,7 @@
     "name": "Jack H. Skirball Center For The Performing Arts",
     "lat": 40.729796,
     "lon": -73.997749,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Skirball_entrance_2016.jpg/1280px-Skirball_entrance_2016.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1436,7 +1436,7 @@
     "name": "Washington Mews",
     "lat": 40.731512,
     "lon": -73.995827,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/NYU_-_Washington_Mews_%2851661015194%29.jpg/1280px-NYU_-_Washington_Mews_%2851661015194%29.jpg",
     "description": "another pictaresque Village street evoking an older new york",
     "info": null,
     "categories": [
@@ -1527,7 +1527,7 @@
     "name": "Museum of Chinese in America",
     "lat": 40.719378,
     "lon": -73.999051,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/MOCA_car-free_jeh.jpg/1280px-MOCA_car-free_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1674,7 +1674,7 @@
     "name": "Bayard–Condict Building",
     "lat": 40.726302,
     "lon": -73.995072,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bayard-Condict_Building_entrance.jpg",
     "description": "NHL - NYC's only Louis Sullivan building; one of first steel skeleton skyscrapers",
     "info": null,
     "categories": [
@@ -1700,7 +1700,7 @@
     "name": "Dashwood Books",
     "lat": 40.726104,
     "lon": -73.993528,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Dashwood_Books_%2832106543833%29.jpg/1280px-Dashwood_Books_%2832106543833%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1819,7 +1819,7 @@
     "name": "Murray's Cheese",
     "lat": 40.730977,
     "lon": -74.003071,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Murray%27s_Cheese.jpg/1280px-Murray%27s_Cheese.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1937,7 +1937,7 @@
     "name": "McCarthy Square",
     "lat": 40.735204,
     "lon": -74.001759,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/McCarthy_Square_HDR_2022_jeh.jpg/1280px-McCarthy_Square_HDR_2022_jeh.jpg",
     "description": "square where handmade birdhouses started appearing",
     "info": null,
     "categories": [
@@ -1950,7 +1950,7 @@
     "name": "The Lesbian, Gay, Bisexual & Transgender Community Center",
     "lat": 40.738041,
     "lon": -74.001083,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/LGBT_Community_Center.jpg/1280px-LGBT_Community_Center.jpg",
     "description": "Keith Haring bathroom",
     "info": null,
     "categories": [
@@ -2003,7 +2003,7 @@
     "name": "Elizabeth Street Garden",
     "lat": 40.722188,
     "lon": -73.99461,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Elisabeth_Street_Garden_Front.jpg/1280px-Elisabeth_Street_Garden_Front.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2125,7 +2125,7 @@
     "name": "Second Cemetery of Congregation Shearith Israel",
     "lat": 40.735073,
     "lon": -73.997871,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Second_Cemetery_of_Congregation_Shearith_Israel_2025_jeh.jpg/1280px-Second_Cemetery_of_Congregation_Shearith_Israel_2025_jeh.jpg",
     "description": "New York's unstoppable progress turned this cemetery into the smallest burial ground in the city.",
     "info": null,
     "categories": [
@@ -2229,7 +2229,7 @@
     "name": "Caffe Reggio",
     "lat": 40.730308,
     "lon": -74.000371,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Caffe_Reggio_01.jpg/1280px-Caffe_Reggio_01.jpg",
     "description": "Sip a cappuccino in the historic cafe that introduced them to the United States.",
     "info": null,
     "categories": [
@@ -2417,7 +2417,7 @@
     "name": "Gene Frankel Theatre",
     "lat": 40.726672,
     "lon": -73.993638,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Gene_Frankel_Theatre%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-Gene_Frankel_Theatre%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "A unique collection of figures perform down the facade of the Gene Frankel Theatre. Like a cataract of sensuous gilded Wallendas, the Dreams of Hyperion figures at 24 Bond Street cascade down the NoHo building. Once owned by Robert DeNiro’s mother and later the home of photographer Robert Mapplethorpe, 24 Bond Street now hosts the thriving off-Broadway Gene Frankel Theatre on the ground floor where it sits waiting, perhaps, to catch any wayward golden dancers.",
     "info": null,
     "categories": [
@@ -2523,7 +2523,7 @@
     "name": "Museum of Reclaimed Urban Space (MoRUS)",
     "lat": 40.725766,
     "lon": -73.977946,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Outdoor_Performance.jpg/1280px-Outdoor_Performance.jpg",
     "description": "A living archive of urban activism and space reclaimed.",
     "info": null,
     "categories": [
@@ -2549,7 +2549,7 @@
     "name": "Temperance Fountain",
     "lat": 40.727029,
     "lon": -73.982466,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Temperance_Fountain_statue_Tompkins_Square_Park.jpg",
     "description": "A reminder to choose water over wine since 1888.",
     "info": null,
     "categories": [
@@ -2588,7 +2588,7 @@
     "name": "Church of the Most Holy Redeemer",
     "lat": 40.723657,
     "lon": -73.984243,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Church_of_the_Most_Holy_Redeemer.jpg/1280px-Church_of_the_Most_Holy_Redeemer.jpg",
     "description": "Relics given to a Manhattan church to avoid seizure by the Italian government. THE RELICS OF OBSCURE ROMAN martyr St. Datian are encased in a wax effigy in the relic chapel to the right of the altar at the Church of the Most Holy Redeemer. They were sent to the church in 1892 when a wealthy Italian woman could no longer afford to keep them in her private chapel. She donated them to avoid their seizure by the Italian government. There were rumors that the bones of the martyr were actually the bones of a policeman who was shot defending the church from burglars but the parish denies this. The relic chapel also features small relics from over 150 other saints.",
     "info": null,
     "categories": [
@@ -2643,7 +2643,7 @@
     "name": "41 Cooper Square",
     "lat": 40.72852,
     "lon": -73.990211,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Cooper_Union_New_Academic_Building_from_north.jpg/1280px-Cooper_Union_New_Academic_Building_from_north.jpg",
     "description": "This exemplar of modernist architecture is meant to captivate and inspire students of the Cooper Union.",
     "info": null,
     "categories": [
@@ -2656,7 +2656,7 @@
     "name": "New York Marble Cemetery",
     "lat": 40.725612,
     "lon": -73.990946,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/NY_Marble_Cemetery_entrance.jpg/1280px-NY_Marble_Cemetery_entrance.jpg",
     "description": "A hidden \"place of interment for gentlemen.\"",
     "info": null,
     "categories": [
@@ -2696,7 +2696,7 @@
     "name": "New York City Marble Cemetery",
     "lat": 40.724578,
     "lon": -73.98901,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/NYC_Marble_Cemetery_entrance.jpg/1280px-NYC_Marble_Cemetery_entrance.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2709,7 +2709,7 @@
     "name": "Anthology Film Archives",
     "lat": 40.724694,
     "lon": -73.990166,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Anthology_Film_Archives.jpg/1280px-Anthology_Film_Archives.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2722,7 +2722,7 @@
     "name": "The Ukrainian Museum",
     "lat": 40.727667,
     "lon": -73.989765,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Ukrainian_Museum_sunny_morn_jeh.jpg/1280px-Ukrainian_Museum_sunny_morn_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2762,7 +2762,7 @@
     "name": "Ottendorfer Library",
     "lat": 40.728886,
     "lon": -73.987685,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Loz_ottenF.jpg/1280px-Loz_ottenF.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2841,7 +2841,7 @@
     "name": "The Brant Foundation",
     "lat": 40.726146,
     "lon": -73.985046,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Brant_Foundation_HDR_2022_jeh.jpg/1280px-Brant_Foundation_HDR_2022_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2893,7 +2893,7 @@
     "name": "Bullet Space",
     "lat": 40.721082,
     "lon": -73.979817,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bullet_Space_front_entrance.jpg/1280px-Bullet_Space_front_entrance.jpg",
     "description": "one of the first legalized squats in New York City, is located in a tenement house built in the nineteenth century. It is a community access center for images, words, and sounds of the inner city.",
     "info": null,
     "categories": [
@@ -2906,7 +2906,7 @@
     "name": "Nuyorican Poets Cafe",
     "lat": 40.721984,
     "lon": -73.981785,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg/1280px-Nuyorican_Poets_Cafe_in_Loisaida_section_of_New_York_City.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3000,7 +3000,7 @@
     "name": "Performance Space New York",
     "lat": 40.728344,
     "lon": -73.984544,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/P.S._122.jpg/1280px-P.S._122.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3104,7 +3104,7 @@
     "name": "New York Theatre Workshop",
     "lat": 40.726667,
     "lon": -73.99,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/NYTW_entrance.jpg/1280px-NYTW_entrance.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3118,7 +3118,7 @@
     "name": "La MaMa Experimental Theatre Club",
     "lat": 40.726413,
     "lon": -73.990448,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg/1280px-La_MaMa_Experimental_Theatre_Club_%2851661012659%29.jpg",
     "description": "Much of New York City’s boom-period performance topography has been demolished and snazzified—CBGB is a fancy shoe shop now, and House of Candles is a restaurant. But La Mama, founded in 1961, seems only busier, brighter, and stronger: what was once Ellen Stewart’s performance “club” (so-called to get around uptight municipal rules) has grown into a beautiful, Escheresque complex on East Fourth Street. One day, standing in the lobby, a door I had never noticed opened, and I saw into Narnia: the theatre’s overflowing, maze-like treasury—a stunning fifty-year archive that includes pearl-draped costumes, enormous wooden-jointed puppets, letters from theatre royalty, set pieces from the city’s experimental heyday. La MaMa’s founding archivist, the much beloved Ozzie Rodriguez, passed away this July, but his long stewardship of the city’s performance history lives on—and, unlike Narnia, his magic kingdom is available to anyone who makes an appointment",
     "info": null,
     "categories": [
@@ -3172,7 +3172,7 @@
     "name": "Liz Christy Garden",
     "lat": 40.724096,
     "lon": -73.99191,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Liz_christy_garden_0001.jpg/1280px-Liz_christy_garden_0001.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3263,7 +3263,7 @@
     "name": "Russian & Turkish Baths",
     "lat": 40.728232,
     "lon": -73.983586,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Russian_%26_Turkish_Baths_sign_2023.jpg/1280px-Russian_%26_Turkish_Baths_sign_2023.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3276,7 +3276,7 @@
     "name": "The Public Theater",
     "lat": 40.729067,
     "lon": -73.991903,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Public_Theatre_Astor_Library_Building_from_south.jpg/1280px-Public_Theatre_Astor_Library_Building_from_south.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3329,7 +3329,7 @@
     "name": "Bowery Poetry Club",
     "lat": 40.724936,
     "lon": -73.992751,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/09/BoweryPoetryClub.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -3369,7 +3369,7 @@
     "name": "Colonnade Row",
     "lat": 40.729412,
     "lon": -73.99238,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Colonnade_Row_%2851661214380%29.jpg/1280px-Colonnade_Row_%2851661214380%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3408,7 +3408,7 @@
     "name": "MacDougal Street",
     "lat": 40.729997,
     "lon": -74.000507,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/MacDougal_Street_east_side_south_of_Minetta_Lane.jpg/1280px-MacDougal_Street_east_side_south_of_Minetta_Lane.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3553,7 +3553,7 @@
     "name": "Broadway Presbyterian Church",
     "lat": 40.8070418,
     "lon": -73.9651341,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Broadway_Presbyterian_Church_%28Manhattan%29.JPG/1280px-Broadway_Presbyterian_Church_%28Manhattan%29.JPG",
     "description": "the pocket-sized Broadway Presbyterian Church. Unlike its sprawling neighbor, Riverside Church, a few streets over, Broadway Presbyterian stands humbly on a fraction of sidewalk, with a mere four stairs leading up to its fire-engine-red doors. But inside is a vibrant sanctuary for classical music. Radial pews of dark wood sit below stained-glass windows and contemporary art; performances range from Baroque standards to new modern jewels. The church frequently hosts concerts by Music for Food, an initiative dedicated to combatting food insecurity: admission is free, but donations go to Broadway Community, a local organization that serves those experiencing homelessness and poverty in New York City. Small church, big impact",
     "info": null,
     "categories": [
@@ -3581,7 +3581,7 @@
     "name": "Ford Foundation Building",
     "lat": 40.749795,
     "lon": -73.971162,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ford_foundation_building_1.JPG/1280px-Ford_foundation_building_1.JPG",
     "description": "A miniature rainforest is growing inside of a Midtown Manhattan office building.",
     "info": null,
     "categories": [
@@ -3678,7 +3678,7 @@
     "name": "Greenacre Park",
     "lat": 40.756241,
     "lon": -73.969284,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Greenacre_Park_%281%29.jpg/1280px-Greenacre_Park_%281%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3717,7 +3717,7 @@
     "name": "The Norwegian Seamen's Church in New York",
     "lat": 40.755911,
     "lon": -73.966597,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kong_Olav_Vs_Kirke_317_E52_St_jeh.jpg/1280px-Kong_Olav_Vs_Kirke_317_E52_St_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3743,7 +3743,7 @@
     "name": "AKC Museum of the Dog",
     "lat": 40.750747,
     "lon": -73.977871,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/AKC_Museum_of_the_Dog_Entrance.jpg/1280px-AKC_Museum_of_the_Dog_Entrance.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3769,7 +3769,7 @@
     "name": "Saint Peter's Church",
     "lat": 40.758719,
     "lon": -73.970495,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/St_Peter%27s_Lutheran_Church_%28Manhattan%29_%285%29.JPG/1280px-St_Peter%27s_Lutheran_Church_%28Manhattan%29_%285%29.JPG",
     "description": "Nevelson Chapel of Tranquility",
     "info": null,
     "categories": [
@@ -3835,7 +3835,7 @@
     "name": "500 Park Ave",
     "lat": 40.76296,
     "lon": -73.970545,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/500_Park_Avenue.JPG",
     "description": "old pepsico building \"It never fails to give me chill bumps. It’s way better than the Lever Building down the road. There is not a bit of fat in the building, and its windows are perfectly proportioned. To me, it reflects peak modernism, peak power, peak New York\"",
     "info": null,
     "categories": [
@@ -3862,7 +3862,7 @@
     "name": "Central Synagogue",
     "lat": 40.759545,
     "lon": -73.970365,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Central_Synagogue_Lex_jeh.jpg/1280px-Central_Synagogue_Lex_jeh.jpg",
     "description": "every other tue, concerts by a master organist",
     "info": null,
     "categories": [
@@ -3891,7 +3891,7 @@
     "name": "Charles Scribner's Sons Building",
     "lat": 40.75735,
     "lon": -73.977696,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Charles_Scribner%27s_Sons_Building_%2851396505295%29.jpg/1280px-Charles_Scribner%27s_Sons_Building_%2851396505295%29.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -3905,7 +3905,7 @@
     "name": "Church of Sweden",
     "lat": 40.757133,
     "lon": -73.977464,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Svenska_kyrkan_i_New_York.jpg/1280px-Svenska_kyrkan_i_New_York.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3918,7 +3918,7 @@
     "name": "Amster Yard",
     "lat": 40.754996,
     "lon": -73.970435,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Amster_Yard%2C_New_York_City%2C_NY.jpg/1280px-Amster_Yard%2C_New_York_City%2C_NY.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3931,7 +3931,7 @@
     "name": "Four Seasons Hotel New York",
     "lat": 40.762413,
     "lon": -73.971265,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/4_seasons_hotel_NY_56_jeh.jpg",
     "description": "The Four Seasons Hotel New York stands out as the only hotel in the Western Hemisphere designed by I.M. Pei. With walls made of the same honey-colored French limestone Mr. Pei used at The Louvre, the 33-foot soaring lobby ceiling of the 52-story hotel resonates with the height of the building’s surrounding skyscrapers. One flight up from the street is the lobby’s rotunda, which is circled by eight pillars that accent a suspended, backlit onyx ceiling.",
     "info": null,
     "categories": [
@@ -3945,7 +3945,7 @@
     "name": "Lotte New York Palace",
     "lat": 40.757974,
     "lon": -73.974871,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Ny-palace-hotel1.jpg",
     "description": "The spacious, bi-level marble lobby of the Lotte New York Palace not only evokes grandeur but also harmoniously blends the two elements of this storied 909-room property: the landmark Villard Mansion (on Madison Avenue) and its contemporary 55-story hotel tower. The Madison Avenue courtyard entrance to the hotel, which once welcomed carriages, leads to the hotel’s grand staircase and lower lobby below. Off the stately foyer are two event spaces, the oval Villard Ballroom and Reid Salon. One especially impressive feature is its restored red Verona marble fireplace, originally designed for the mansion by Augustus Saint-Gaudens. With classic columns, rich woods and warm carpeting, the reception area and private entranceway to The Towers are located in the lower lobby. Take a peek: Visitors can enjoy cocktails and light snacks under the gilt ceilings of The Gold Room; located within the Villard Mansion; stop in at Troubles Trust, the bar tucked under the grand staircase; enjoy a personalized drinking experience by reservation at Rarities, or enjoy seasonal baked goods and other indulgences at Pomme Palais on the ground floor.",
     "info": null,
     "categories": [
@@ -3987,7 +3987,7 @@
     "name": "St. Thomas Church",
     "lat": 40.760852,
     "lon": -73.976594,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2013_Saint_Thomas_Church_%28New_York_City%291.jpg/1280px-2013_Saint_Thomas_Church_%28New_York_City%291.jpg",
     "description": "recently restored windows",
     "info": null,
     "categories": [
@@ -4015,7 +4015,7 @@
     "name": "Dag Hammarskjöld Plaza",
     "lat": 40.752254,
     "lon": -73.968499,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Dag_Hammarskj%C3%B6ld_Plaza_2023.jpg/1280px-Dag_Hammarskj%C3%B6ld_Plaza_2023.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4028,7 +4028,7 @@
     "name": "Japan Society",
     "lat": 40.75251,
     "lon": -73.968287,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Japan_Society_E47_jeh.JPG/1280px-Japan_Society_E47_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -4041,7 +4041,7 @@
     "name": "Tudor City Greens",
     "lat": 40.749419,
     "lon": -73.9705,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/At_New_York%2C_USA_2017_160.jpg/1280px-At_New_York%2C_USA_2017_160.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4054,7 +4054,7 @@
     "name": "Chanin Building",
     "lat": 40.751258,
     "lon": -73.976363,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Chanin_Building%2C_side_up.jpg",
     "description": "art deco building; exterior references Darwins theory of evolution; check out lobby",
     "info": null,
     "categories": [
@@ -4068,7 +4068,7 @@
     "name": "Bowery Savings Bank Building",
     "lat": 40.751705,
     "lon": -73.977136,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/110_E42_jeh.JPG/1280px-110_E42_jeh.JPG",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -4147,7 +4147,7 @@
     "name": "The Actors' Temple",
     "lat": 40.761218,
     "lon": -73.989114,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Actors-temple-2007.jpg",
     "description": "A Hell's Kitchen synagogue that has counted stars of stage and screen among its congregation.",
     "info": null,
     "categories": [
@@ -4188,7 +4188,7 @@
     "name": "1552 Broadway",
     "lat": 40.758629,
     "lon": -73.984806,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/W_46th_St_Duffy_Square_15_-_I._Miller_Building.jpg/1280px-W_46th_St_Duffy_Square_15_-_I._Miller_Building.jpg",
     "description": "Amid the marketing blitz of modern Times Square is an elegant holdover from its showbiz glory days. THESE DAYS, IT’S HARD TO find much of the original heart of old Times Square. But on the corner of Broadway and West 46th Street, above the crowds of tourists and neon signs, is the venerable facade of Israel Miller’s shoe store, looking much as it did a hundred years ago.",
     "info": null,
     "categories": [
@@ -4254,7 +4254,7 @@
     "name": "Ars Nova",
     "lat": 40.767586,
     "lon": -73.990583,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ars_Nova.jpg/1280px-Ars_Nova.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4267,7 +4267,7 @@
     "name": "54 Below",
     "lat": 40.764451,
     "lon": -73.983671,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/54_Below_jeh.jpg/1280px-54_Below_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4347,7 +4347,7 @@
     "name": "Bryant Park Public Restroom",
     "lat": 40.754058,
     "lon": -73.982674,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bryant_Park_bathroom_%2890660%29.jpg/1280px-Bryant_Park_bathroom_%2890660%29.jpg",
     "description": "The fanciest public restroom in New York City boasts fresh flowers, art, and a classical music soundtrack.",
     "info": null,
     "categories": [
@@ -4376,7 +4376,7 @@
     "name": "Peter Detmold Park",
     "lat": 40.753123,
     "lon": -73.96409,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Peter_Detmold_Park.jpg/1280px-Peter_Detmold_Park.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4443,7 +4443,7 @@
     "name": "The Peninsula New York",
     "lat": 40.761664,
     "lon": -73.975343,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/PNY_Exterior_with_Rolls_Royce.jpg/1280px-PNY_Exterior_with_Rolls_Royce.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4456,7 +4456,7 @@
     "name": "King Cole Bar",
     "lat": 40.761289,
     "lon": -73.97439,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/King_Cole_Bar_HDR_2021_jeh.jpg/1280px-King_Cole_Bar_HDR_2021_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4482,7 +4482,7 @@
     "name": "St. Thomas Church",
     "lat": 40.760733,
     "lon": -73.975899,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2013_Saint_Thomas_Church_%28New_York_City%291.jpg/1280px-2013_Saint_Thomas_Church_%28New_York_City%291.jpg",
     "description": "recently restored windows",
     "info": null,
     "categories": [
@@ -4524,7 +4524,7 @@
     "name": "The Art Students League of New York",
     "lat": 40.766104,
     "lon": -73.980671,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Art_Students_League_sun_jeh.JPG/1280px-Art_Students_League_sun_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -4537,7 +4537,7 @@
     "name": "Ensemble Studio Theatre",
     "lat": 40.76697,
     "lon": -73.993042,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/04/TallEST.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4563,7 +4563,7 @@
     "name": "Paramount Building",
     "lat": 40.756954,
     "lon": -73.986714,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Paramount_Building_Jorge_Eduardo_Rubies.jpg",
     "description": "lobby modelled after Paris opera house",
     "info": null,
     "categories": [
@@ -4577,7 +4577,7 @@
     "name": "Museum of Broadway",
     "lat": 40.757645,
     "lon": -73.984338,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Museum_of_Broadway_construction_2022_HDR_jeh.jpg/1280px-Museum_of_Broadway_construction_2022_HDR_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4616,7 +4616,7 @@
     "name": "General Society of Mechanics & Tradesmen of The City of New York",
     "lat": 40.755213,
     "lon": -73.981209,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/GSMTCNY44.JPG/1280px-GSMTCNY44.JPG",
     "description": "Hundreds of antique bank vault locks on display in New York City. Tucked away on the sixth floor of The General Society of Mechanics and Tradesmen, the Institute of Classical Architecture & Art’s Cast Hall displays a collection of historical plaster casts of Classical and Renaissance architecture and sculpture (originally owned by the Metropolitan Museum of Art) alongside fragments of historical woodwork from significant buildings and country houses in the UK. The gallery now plays host to scores of visitors, ranging from students to practicing artists. Visit Cast Hall for open sketching and to learn about this historic art practice and collection.",
     "info": null,
     "categories": [
@@ -4646,7 +4646,7 @@
     "name": "New York Transit Museum",
     "lat": 40.753153,
     "lon": -73.977976,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/At_New_York_City_2023_142.jpg/1280px-At_New_York_City_2023_142.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4699,7 +4699,7 @@
     "name": "The Town Hall",
     "lat": 40.756053,
     "lon": -73.98453,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Town_Hall_123_W43_near_sun_jeh.jpg/1280px-Town_Hall_123_W43_near_sun_jeh.jpg",
     "description": "Six women suffragists built “The Peoples’ Hall” – a place open to all where people from all walks of life could gather and hear about the issues of the day in an open forum. The acoustically superior auditorium was designed using the most advanced design technology of its day by the nation’s most revered architecture firm. Shortly after its dedication the hall hosted its first concert, kicking off a proud tradition of milestone musical performances by artists ranging from Billie Holiday to Bob Dylan. The Town Hall also played host to millions of nationwide radio listeners from 1935-1955 on the public affairs program, “America’s Town Meeting of the Air.”",
     "info": null,
     "categories": [
@@ -4714,7 +4714,7 @@
     "name": "510 Fifth Avenue",
     "lat": 40.754141,
     "lon": -73.980847,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Manufacturers_Trust_Company_Building_510_Fifth_Avenue.jpg/1280px-Manufacturers_Trust_Company_Building_510_Fifth_Avenue.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -4793,7 +4793,7 @@
     "name": "Stavros Niarchos Foundation Library",
     "lat": 40.751897,
     "lon": -73.981837,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/NYPL_-_Stavros_Niarchos_Foundation_Library_%2851395492421%29.jpg/1280px-NYPL_-_Stavros_Niarchos_Foundation_Library_%2851395492421%29.jpg",
     "description": "rooftop garden",
     "info": null,
     "categories": [
@@ -4847,7 +4847,7 @@
     "name": "Signature Theatre Company",
     "lat": 40.759176,
     "lon": -73.995049,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Signature_Theatre_Company_New_York_main_entrance_on_42nd.jpg/1280px-Signature_Theatre_Company_New_York_main_entrance_on_42nd.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -4925,7 +4925,7 @@
     "name": "The New Yorker Hotel",
     "lat": 40.752669,
     "lon": -73.993565,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NewYorker_Hotel.JPG",
     "description": "tiny Nikola Tesla museum in basement",
     "info": null,
     "categories": [
@@ -5044,7 +5044,7 @@
     "name": "James Gordon Bennett Memorial",
     "lat": 40.750387,
     "lon": -73.987594,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/James_Gordon_Bennett_Memorial%2C_Minerva_and_the_Bell_Ringers%2C_Herald_Square%2C_NYC.jpg/1280px-James_Gordon_Bennett_Memorial%2C_Minerva_and_the_Bell_Ringers%2C_Herald_Square%2C_NYC.jpg",
     "description": "There are owls with glowing eyes in Herald Square.",
     "info": null,
     "categories": [
@@ -5152,7 +5152,7 @@
     "name": "Fifth Avenue Presbyterian Church",
     "lat": 40.762034,
     "lon": -73.975012,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Fifth_Avenue_Presbyterian_Church_%2851396511760%29.jpg/1280px-Fifth_Avenue_Presbyterian_Church_%2851396511760%29.jpg",
     "description": "one of New York’s last remaining Gilded Age treasures. Completed in 1875, the church predates the nearby St. Patrick’s Cathedral (1878) and Plaza Hotel (1907). The stunning ceiling of this Victorian Gothic masterwork rises six stories above the floor. The 1,800-seat Sanctuary contains no iconography (in keeping with early Presbyterian austerity) and no right angles; the curvature of the balcony and pews draws all eyes to the impressive pulpit.",
     "info": null,
     "categories": [
@@ -5195,7 +5195,7 @@
     "name": "Prime Produce",
     "lat": 40.76633,
     "lon": -73.98837,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Prime_Produce_2023_jeh.jpg/1280px-Prime_Produce_2023_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5250,7 +5250,7 @@
     "name": "Albertine",
     "lat": 40.776719,
     "lon": -73.963719,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Cosy_atmosphere_Albertine_Books_in_the_Cultural_Services_of_the_French_Embassy.jpg/1280px-Cosy_atmosphere_Albertine_Books_in_the_Cultural_Services_of_the_French_Embassy.jpg",
     "description": "Though its celestial ceiling is impressive, the true star is the vast collection of French books. bookstore in the French Consulate; One of the few remaining urban mansions of the Gilded Age, the Payne Whitney Mansion was commissioned in 1902 by Oliver Hazard Payne, for his nephew, Payne Whitney, on the occasion of his marriage to Helen Hay. Stanford White, of the prominent architectural firm McKim, Mead & White, designed the mansion in the style of a high Italian Renaissance palazzo. A jealous husband assassinated him before construction was completed in 1909. Since 1952, France has owned the mansion. In 1970, it was deemed an official landmark of the City of New York. With a grand entrance hall and stairway and ornate marble reception halls, the mansion transports visitors to another epoch. Today, it is home to the Cultural Services of the French Embassy and Albertine bookstore.",
     "info": null,
     "categories": [
@@ -5265,7 +5265,7 @@
     "name": "The New York Society Library",
     "lat": 40.77634,
     "lon": -73.96144,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Society_Library_53_E79_jeh.JPG/1280px-Society_Library_53_E79_jeh.JPG",
     "description": "New York's oldest and possibly grandest keeper of books.",
     "info": null,
     "categories": [
@@ -5278,7 +5278,7 @@
     "name": "Bohemian National Hall",
     "lat": 40.769075,
     "lon": -73.956481,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bohemian_National_Hall%2C_321_East_73rd_Street%2C_New_York%2C_NY_10021%2C_USA_-_Jan_2013.jpg/1280px-Bohemian_National_Hall%2C_321_East_73rd_Street%2C_New_York%2C_NY_10021%2C_USA_-_Jan_2013.jpg",
     "description": "Dvorak Hall - A small piece of the composer's New York home lives on in the center of Czech culture in Manhattan. The five-story building was designed by William C. Frohne in the Renaissance Revival style, and built in 1896. It is a rare survivor of the many social halls built in the nineteenth century for New York City’s immigrant ethnic communities. Bohemian National Hall has been an important center for Czech culture in New York City for more than one hundred years. Since its beginning it has served as a focal point for its community, offering ethnic food, Czech language and history classes, as well as space for the community to meet and hold various events. Today, Bohemian National Hall serves as a significant reminder of the major working-class ethnic enclave that once flourished in Yorkville. In 2001, ownership of the Bohemian National Hall was transferred from the Bohemian Benevolent & Literary Association (BBLA) to the Czech Republic. To emphasize the building’s link with the Czech Republic, it now shares its premises with the Consulate General of the Czech Republic and the Czech Center New York.",
     "info": null,
     "categories": [
@@ -5319,7 +5319,7 @@
     "name": "Grolier Club",
     "lat": 40.764004,
     "lon": -73.969862,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Grolier_Club_tour_%2816619%29.jpg/1280px-Grolier_Club_tour_%2816619%29.jpg",
     "description": "The oldest bibliophilia club in America, with exhibitions on historic books and graphic arts. The Grolier Club is a private NYC club with galleries that are free and open to members of the public. The club was established in 1884, making it the oldest North American bibliophilic club in existence. The Grolier Club aims to focus on \"the literary study of the arts pertaining to the production of books, including the occasional publication of books designed to illustrate, promote and encourage these arts; and the acquisition, furnishing and maintenance of a suitable club building for the safekeeping of its property, wherein meetings, lectures and exhibitions shall take place from time to time.\" Highlights Here are some of the \"must see\" items at The Grolier Club. Peter Koch Printer: A Forty-five-year Retrospective at the Grolier Club Embodied Language and the Form of the Book \"The A.B.C. of Alphabets\" from the Collection of Gretchen Adkins Poet of the Body: New York's Walt Whitman",
     "info": null,
     "categories": [
@@ -5376,7 +5376,7 @@
     "name": "Park Avenue Armory",
     "lat": 40.767295,
     "lon": -73.965631,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Seventh_Regiment_Armory_-_Park_Avenue_Armory_-_Front_%2848377217362%29.jpg/1280px-Seventh_Regiment_Armory_-_Park_Avenue_Armory_-_Front_%2848377217362%29.jpg",
     "description": "The Seventh Regiment Armory, or the Park Avenue Armory, is a National Guard armory building located on Park Avenue in Manhattan's Upper East Side neighborhood. The armory was designated a National Historic Landmark in 1986. The building is a Gothic Revival made of brick and stone, and was built in 1880. Highlights Here are some of the \"must see\" items at Park Avenue Armory. Judgment Day Interrogations of Form",
     "info": null,
     "categories": [
@@ -5391,7 +5391,7 @@
     "name": "Temple Emanu-El",
     "lat": 40.768043,
     "lon": -73.969774,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Emanu-elNYjeh.JPG/1280px-Emanu-elNYjeh.JPG",
     "description": "Built in the Modern Romanesque-style popular in the late 1920s, Temple Emanu-El is one of the largest houses of worship in the world and the oldest Reform synagogue in New York City. The sanctuary features dazzling mosaics by noted muralist Hildreth Meière, an intricately painted ceiling, and towering stained glass windows. The building’s meticulous decorative restoration by Beyer Blinder Belle received the New York Landmarks Conservancy’s Lucy G. Moses Preservation Award in 2007.",
     "info": null,
     "categories": [
@@ -5445,7 +5445,7 @@
     "name": "Neue Galerie New York",
     "lat": 40.781264,
     "lon": -73.960327,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Neue_Gallery_%2848059179353%29.jpg/1280px-Neue_Gallery_%2848059179353%29.jpg",
     "description": "The Neue Galerie New York is an art gallery dedicated to German and Austrian art from the early 1900s. The Neue Galerie, translated from German as \"New Gallery\", is one of the more recent museums to join NYC's Museum Mile on Manhattan's Fifth Avenue. The museum's best known piece in its collection is Klimt's painting Portrait of Adele Bloch-Bauer I. Highlights Here are some of the \"must see\" items at Neue Galerie. Klimt's Portrait of Adele Bloch-Bauer I Madame D'Ora The Self-Portrait, From Schiele to Beckmann",
     "info": null,
     "categories": [
@@ -5500,7 +5500,7 @@
     "name": "Mount Vernon Hotel Museum & Garden",
     "lat": 40.760539,
     "lon": -73.959733,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mt-vernon-hotel-2007.jpg",
     "description": "The Mount Vernon Hotel Museum & Garden is a historic antebellum residential building near the East River that was once known as the Abigail Adams Smith Museum. The house is one of the last remaining buildings in Manhattan from the 17th century. It was meant for the Smith family, but ended up serving as a carriage house and stable instead. The building was converted into a hotel during the 1800s.",
     "info": null,
     "categories": [
@@ -5529,7 +5529,7 @@
     "name": "The Jewish Museum",
     "lat": 40.785334,
     "lon": -73.957351,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/People_outside_The_Jewish_Museum_-_2004_Museum_Mile_Festival.jpg/1280px-People_outside_The_Jewish_Museum_-_2004_Museum_Mile_Festival.jpg",
     "description": "The Jewish Museum, located on Manhattan's Museum Mile, is the oldest Jewish museum in the world. The museum has more than 30,000 objects on display and runs multiple temporary exhibits throughout the year. Some of the better known artists with pieces housed in the collection are Marc Chagall, George Segal, Eleanor Antin, and Deborah Kass. Highlights Here are some of the \"must see\" items at The Jewish Museum. Self-Portrait with Camera Ten Portraits of Jews of the 20th Century Old Man with Beard",
     "info": null,
     "categories": [
@@ -5556,7 +5556,7 @@
     "name": "Roosevelt House Public Policy Institute at Hunter College",
     "lat": 40.767121,
     "lon": -73.967679,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/SaraRooseveltApt.jpg/1280px-SaraRooseveltApt.jpg",
     "description": "Roosevelt House — the former double townhouse of Franklin, Eleanor and Sara Delano Roosevelt, and now owned by Hunter College — offers visitors a chance to get closer to a family as unique as the city they inhabited, and to explore the private spaces where some of the most iconic public policy of the 20th century was shaped. tours for individuals on saturday",
     "info": null,
     "categories": [
@@ -5582,7 +5582,7 @@
     "name": "Carl Schurz Park",
     "lat": 40.77513,
     "lon": -73.943697,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Carl_Schurz_Plaza_jeh.JPG/1280px-Carl_Schurz_Plaza_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -5595,7 +5595,7 @@
     "name": "Logos Bookstore",
     "lat": 40.774496,
     "lon": -73.948511,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Logos_Bookstore%2C_New_York%2C_1575_York_Avenue_-_You_Netflix.jpg/1280px-Logos_Bookstore%2C_New_York%2C_1575_York_Avenue_-_You_Netflix.jpg",
     "description": "religious bookstore",
     "info": null,
     "categories": [
@@ -5650,7 +5650,7 @@
     "name": "Park Avenue Christian Church",
     "lat": 40.779554,
     "lon": -73.95809,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Park_Avenue_Christian_Church%2C_New_York%2C_NY.jpg/1280px-Park_Avenue_Christian_Church%2C_New_York%2C_NY.jpg",
     "description": "also used as a synagogue",
     "info": null,
     "categories": [
@@ -5664,7 +5664,7 @@
     "name": "Institute for the Study of the Ancient World",
     "lat": 40.779928,
     "lon": -73.960263,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Institute_for_the_Study_of_the_Ancient_World_HDR_2022_jeh.jpg/1280px-Institute_for_the_Study_of_the_Ancient_World_HDR_2022_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5690,7 +5690,7 @@
     "name": "Webster Library",
     "lat": 40.770645,
     "lon": -73.951324,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/NYPL_Webster_Branch%2C_Manhattan.jpg/1280px-NYPL_Webster_Branch%2C_Manhattan.jpg",
     "description": "Book Cellar used bookstore",
     "info": null,
     "categories": [
@@ -5717,7 +5717,7 @@
     "name": "Sotheby's New York",
     "lat": 40.766364,
     "lon": -73.953794,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Sotheby%27s_%2851921999492%29.jpg/1280px-Sotheby%27s_%2851921999492%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5744,7 +5744,7 @@
     "name": "St. Jean Baptiste Church",
     "lat": 40.772499,
     "lon": -73.959521,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Upper_East_Side_May_2026_17.jpg/1280px-Upper_East_Side_May_2026_17.jpg",
     "description": "Historically catering to the French-Canadian population of the Upper East Side, this Catholic parish church was designed by an award-winning Italian architect influenced by the styles of Mannerism. Named a city landmark in 1969, the church is distinguished as one of the only ones in NYC with a dome.",
     "info": null,
     "categories": [
@@ -5785,7 +5785,7 @@
     "name": "The Rockefeller University",
     "lat": 40.762487,
     "lon": -73.955676,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/81/Rockefeller_University.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -5798,7 +5798,7 @@
     "name": "Sothebys",
     "lat": 40.773417,
     "lon": -73.963801,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/MET_Breuer_%2848377070386%29.jpg/1280px-MET_Breuer_%2848377070386%29.jpg",
     "description": "look for 'Dwellings\" - This miniature village stays behind in the Breuer Building, even as the museums around it come and go. THE BREUER BUILDING HAS BEEN home to three different museums since its construction in 1966: first the Whitney, which still owns the property, then it was a branch of the Met for four years, and now it’s the temporary home of the Frick Collection while that organization’s own building undergoes renovations. But even as exhibits have rotated in and out, ranging from European masters to American sculpture to ephemeral performance art, one piece of sculpture has remained with the building, hidden away in the main stairwell. On the landing between the first and second floors, just above the window that looks out onto Madison Avenue, there is a small sculpture of a village by Charles Simonds entitled “Dwellings.”",
     "info": null,
     "categories": [
@@ -5826,7 +5826,7 @@
     "name": "Ukrainian Institute of America",
     "lat": 40.776702,
     "lon": -73.963558,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Exterior_of_Ukrainian_Institute_of_America.jpg",
     "description": "Harry F. Sinclair House (now The Ukrainian Institute), an elaborate mansion with most of the original design intact.",
     "info": null,
     "categories": [
@@ -5865,7 +5865,7 @@
     "name": "Church of the Heavenly Rest",
     "lat": 40.783679,
     "lon": -73.958182,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Church_of_the_Heavenly_Rest_%2851624552099%29.jpg/1280px-Church_of_the_Heavenly_Rest_%2851624552099%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -5945,7 +5945,7 @@
     "name": "Herbert N. Straus House",
     "lat": 40.771564,
     "lon": -73.966455,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/9E71_from_Frick_01_jeh.jpg/1280px-9E71_from_Frick_01_jeh.jpg",
     "description": "Jeffrey Epstein home",
     "info": null,
     "categories": [
@@ -5998,7 +5998,7 @@
     "name": "The Pierre, A Taj Hotel, New York",
     "lat": 40.765183,
     "lon": -73.971894,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/Pierre_Hotel_from_Looking_towards_Fifth_Avenue_from_Central_Park_during_Autumn%2C_NYC.jpg",
     "description": "afternoon tea",
     "info": null,
     "categories": [
@@ -6024,7 +6024,7 @@
     "name": "Blackwell House",
     "lat": 40.760353,
     "lon": -73.951104,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Blackwell_House_RI_jeh.jpg/1280px-Blackwell_House_RI_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6037,7 +6037,7 @@
     "name": "Lighthouse Park",
     "lat": 40.77192,
     "lon": -73.940952,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Blackwell_Island_Light_%2841727%29.jpg/1280px-Blackwell_Island_Light_%2841727%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6050,7 +6050,7 @@
     "name": "El Museo del Barrio",
     "lat": 40.793118,
     "lon": -73.951406,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/WTM3_The_Fixers_0056.jpg/1280px-WTM3_The_Fixers_0056.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6091,7 +6091,7 @@
     "name": "Museum of the City of New York",
     "lat": 40.792494,
     "lon": -73.951909,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Museum_of_the_City_of_New_York_1220_Fifth_Avenue_from_west.jpg/1280px-Museum_of_the_City_of_New_York_1220_Fifth_Avenue_from_west.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6104,7 +6104,7 @@
     "name": "New York Academy of Medicine",
     "lat": 40.7921,
     "lon": -73.952383,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/2015_New_York_Academy_of_Medicine_2_East_103rd_Street.jpg/1280px-2015_New_York_Academy_of_Medicine_2_East_103rd_Street.jpg",
     "description": "The New York Academy of Medicine, a neo-Romanesque building by York and Sawyer, was constructed 1925–1926, and is an Art Deco interpretation of the Romanesque style of architecture. The Academy is also home to one of the largest history of medicine libraries in the country, a library that has been open to the public for use since 1878.",
     "info": null,
     "categories": [
@@ -6132,7 +6132,7 @@
     "name": "Czech Center New York",
     "lat": 40.769081,
     "lon": -73.95648,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bohemian_National_Hall%2C_321_East_73rd_Street%2C_New_York%2C_NY_10021%2C_USA_-_Jan_2013.jpg/1280px-Bohemian_National_Hall%2C_321_East_73rd_Street%2C_New_York%2C_NY_10021%2C_USA_-_Jan_2013.jpg",
     "description": "One of many social halls built in the nineteenth century for the city's immigrant ethnic communities, the Bohemian National Hall is a rare survivor that has both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation. Today it is a vibrant cultural hub featuring art galleries, a Grand Ballroom, a rooftop terrace, cinema, library, and more. The Czech Center's five-story building was designed by William C. Frohne in the Renaissance Revival style, built in 1896 and renovated in 2008. It is a rare survivor of the many social halls built in the nineteenth century for New York City's immigrant ethnic communities, with both the charm of the old world in spaces like the Ballroom and the appeal of the modern through design elements introduced during it's renovation. Bohemian National Hall hosts many cultural events and celebrates the arts, film, literature, music, education and more. It is also a monument to the history of immigrants in New York City and the United States. The building boasts five floors of modern surprises, including two art galleries, a Grand Ballroom, a rooftop terrace with great city views, a cinema, the Dvořák Study, and the Václav Havel Library Foundation. In the travel guide, 111 Places in New York That You Must Not Miss, Bohemian National Hall is described as \"a little-known treasure, a postmodern surprise, encouraging dynamic dialogue between American and Czech communities that has become a vibrant cultural venue for new generations of New Yorkers.”",
     "info": null,
     "categories": [
@@ -6160,7 +6160,7 @@
     "name": "Cornell Tech",
     "lat": 40.75563,
     "lon": -73.95623,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Cornell_Tech_buildings_%2841991%29.jpg/1280px-Cornell_Tech_buildings_%2841991%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6212,7 +6212,7 @@
     "name": "Saint Nicholas Russian Orthodox Cathedral",
     "lat": 40.788261,
     "lon": -73.954064,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/St_Nicholas_Cathedral_NY-MP.jpg/1280px-St_Nicholas_Cathedral_NY-MP.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6238,7 +6238,7 @@
     "name": "Otto H. Kahn House",
     "lat": 40.784758,
     "lon": -73.957846,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Otto_Kahn_Mansion_010_stitched.jpg/1280px-Otto_Kahn_Mansion_010_stitched.jpg",
     "description": "The home of Otto Kahn one of the most famous bon vivant of the 1920s who may have been the inspiration for “Mr. Monopoly.”",
     "info": null,
     "categories": [
@@ -6303,7 +6303,7 @@
     "name": "Pomander Walk",
     "lat": 40.793948,
     "lon": -73.973337,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pomander_Walk.jpg",
     "description": "Peek through the gates at this oasis from the city, full of Old English charm.",
     "info": null,
     "categories": [
@@ -6344,7 +6344,7 @@
     "name": "West Side Community Garden",
     "lat": 40.789259,
     "lon": -73.971832,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/West_Side_Community_Garden_89_St_jeh.jpg/1280px-West_Side_Community_Garden_89_St_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6383,7 +6383,7 @@
     "name": "Saint Ignatius of Antioch Episcopal Church",
     "lat": 40.789256,
     "lon": -73.977345,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/St.Ignatius_of_Antioch_Episcopal_Church%2C_New_York_City_jeh.jpg/1280px-St.Ignatius_of_Antioch_Episcopal_Church%2C_New_York_City_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6396,7 +6396,7 @@
     "name": "Barney Greengrass",
     "lat": 40.787965,
     "lon": -73.974573,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Barney_Greengrass.jpg/1280px-Barney_Greengrass.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6409,7 +6409,7 @@
     "name": "New-York Historical Society",
     "lat": 40.779349,
     "lon": -73.973908,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/170_Central_Park_West_%28New_York_Historical_Society%29_by_David_Shankbone.jpg/1280px-170_Central_Park_West_%28New_York_Historical_Society%29_by_David_Shankbone.jpg",
     "description": "Lord Cornbury portrait - odd, unattractive painting of colonial transvestite The New York Historical Society was the first museum ever established in NYC; it opened in 1804. The NYHS has a collection rooted in American history and art, with exhibits on display focusing on Alexander Hamilton, George Washington, the U.S. Constitution, and Abraham Lincoln. The New York Historical Society also dives deeply into New York's role in American history with a close look at how slavery impacted NYC and the surrounding state. Highlights Here are some of the \"must see\" items at The New York Historical Society. We Rise Mayor George B. McClellan at the controls of the first subway train The Wooden Leg of Gouverneur Morris",
     "info": null,
     "categories": [
@@ -6464,7 +6464,7 @@
     "name": "Septuagesimo Uno",
     "lat": 40.778628,
     "lon": -73.984334,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Septuagesimo_Uno_inside_jeh.jpg/1280px-Septuagesimo_Uno_inside_jeh.jpg",
     "description": "The name of this tiny pocket park tucked between two buildings on Manhattan's Upper West Side is Latin for its location: \"seventy-one.\"",
     "info": null,
     "categories": [
@@ -6478,7 +6478,7 @@
     "name": "Nicholas Roerich Museum",
     "lat": 40.802939,
     "lon": -73.969002,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/WTM3_The_Fixers_0015.jpg/1280px-WTM3_The_Fixers_0015.jpg",
     "description": "This small New York museum celebrates the mountainous artwork of a Russian mystic.",
     "info": null,
     "categories": [
@@ -6505,7 +6505,7 @@
     "name": "The New York Public Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",
     "lat": 40.773413,
     "lon": -73.984729,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/LPA_at_night.jpg/1280px-LPA_at_night.jpg",
     "description": "From this desk Al Hirschfeld drew his influential caricatures of the 20th century's Broadway stars.",
     "info": null,
     "categories": [
@@ -6600,7 +6600,7 @@
     "name": "Soldiers' and Sailors' Monument",
     "lat": 40.791992,
     "lon": -73.979008,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Soldiers_%26_Sailors_Monument_from_promenade_jeh.jpg/1280px-Soldiers_%26_Sailors_Monument_from_promenade_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6641,7 +6641,7 @@
     "name": "Straus Park",
     "lat": 40.801848,
     "lon": -73.968187,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/4.15.12StrausPark100thTitanicAnniversaryByLuigiNovi1.jpg/1280px-4.15.12StrausPark100thTitanicAnniversaryByLuigiNovi1.jpg",
     "description": "commemorating couple who drowned on Titanic (& founded Macy's)",
     "info": null,
     "categories": [
@@ -6747,7 +6747,7 @@
     "name": "Beacon Theatre",
     "lat": 40.780514,
     "lon": -73.981085,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Beacon_Theater_NYC_2003.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -6761,7 +6761,7 @@
     "name": "Apple Bank",
     "lat": 40.779576,
     "lon": -73.981434,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Central_Savings_Bank_Amst_Av_jeh.JPG/1280px-Central_Savings_Bank_Amst_Av_jeh.JPG",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -6774,7 +6774,7 @@
     "name": "David H. Koch Theater",
     "lat": 40.771874,
     "lon": -73.983618,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/David_H_Koch_Theater_%2848269670522%29.jpg/1280px-David_H_Koch_Theater_%2848269670522%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6787,7 +6787,7 @@
     "name": "Waterline Square Park",
     "lat": 40.773365,
     "lon": -73.991543,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Waterline_Sq_c_jeh.jpg/1280px-Waterline_Sq_c_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6813,7 +6813,7 @@
     "name": "Verdi Square",
     "lat": 40.779134,
     "lon": -73.981707,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Verdi-square-nyc.jpg",
     "description": "NYC scenic landmark",
     "info": null,
     "categories": [
@@ -6919,7 +6919,7 @@
     "name": "General Grant National Memorial",
     "lat": 40.813404,
     "lon": -73.963067,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/USA_grants_tomb.jpg/1280px-USA_grants_tomb.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -6932,7 +6932,7 @@
     "name": "Church of Notre Dame",
     "lat": 40.805109,
     "lon": -73.960351,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Church_of_Notre_Dame_Facade_2006.jpg",
     "description": "interior is recreation of the grotto of Lourdes; also can buy Lourdes water here",
     "info": null,
     "categories": [
@@ -6999,7 +6999,7 @@
     "name": "Sakura Park",
     "lat": 40.812786,
     "lon": -73.962249,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sakura-Park-New-York-with-Riverside-Church.jpg",
     "description": "cherry blossoms",
     "info": null,
     "categories": [
@@ -7039,7 +7039,7 @@
     "name": "Havemeyer Hall",
     "lat": 40.809288,
     "lon": -73.962236,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ad/HavemeyerFront.jpg",
     "description": "room 309 - most filmied classroom ever (?); Havemeyer Hall, a National Historic Chemical Landmark, is devoted to the study and application of Chemistry, with a strong emphasis on research. Pioneering research conducted here led to the discovery of deuterium, for which Harold Clayton Urey received the Nobel Prize in 1934. Six others who did research here subsequently received the Nobel Prize, including Irving Langmuir, the first industrial chemist to be so honored, in 1932. In front of Havemeyer stands Scholars Lion sculpted by Columbia College graduate Greg Wyatt. Havemeyer Room 309, the grand lecture hall in the center of Havemeyer, remains the signature 08 architectural feature of Charles McKim's original design. It has a 40-foot domed ceiling and skylight, 330 tiered seats, a brass-railed gallery and a 40-foot oak demonstration table. Room 309 has been prominently featured in a number of films, including Awakenings, Malcolm X, The Mirror has Two Faces, Spider Man and Ghostbusters.",
     "info": null,
     "categories": [
@@ -7067,7 +7067,7 @@
     "name": "The Baylander",
     "lat": 40.819152,
     "lon": -73.962298,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/US_Navy_060825-N-0856O-527_The_Naval_Air_Station_%28NAS%29_Pensacola-based_Navy_Helicopter_Landing_Trainer_%28HLT%29_IX-514_transports_a_TH-57_helicopter_from_NAS_Whiting_Field.jpg/1280px-thumbnail.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7093,7 +7093,7 @@
     "name": "Morningside Park",
     "lat": 40.806071,
     "lon": -73.958539,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Morningside_Park.jpg/1280px-Morningside_Park.jpg",
     "description": "Morningside Park was an early city initiative to create an amenity out of undevelopable land. It is comprised of a narrow strip extending from West 110th to 123rd Streets and encompasses the dramatic escarpment which gives credence to “The Heights.” The park’s tiered design incorporates the land’s natural topography with a mix of picturesque and pastoral landscapes. The promenade on Morningside Drive features observation platforms, imposing stone steps and a statue of social reformer Carl Schurz.",
     "info": null,
     "categories": [
@@ -7107,7 +7107,7 @@
     "name": "Low Memorial Library",
     "lat": 40.808156,
     "lon": -73.961842,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg/1280px-Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg",
     "description": "Charles McKim designed the campus in the Beaux-Arts style popularized at the 1893 World’s Columbian Exposition. Its focal point is Low Library, designed in the Roman Classical style, with Italian Renaissance–inspired classroom buildings flanking it in the forecourt and rear. Fashioned after the Baths of Caracalla and the Pantheon, the library’s granite dome is the country’s largest. The university outgrew Low Library in the 1920s, and a new library named for then president Nicholas Murray Butler was built on the campus’ southern end",
     "info": null,
     "categories": [
@@ -7135,7 +7135,7 @@
     "name": "St. Paul's Chapel",
     "lat": 40.807852,
     "lon": -73.960946,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2014_Columbia_University_St._Paul%27s_Chapel.jpg/1280px-2014_Columbia_University_St._Paul%27s_Chapel.jpg",
     "description": "d. A highlight of the campus is St. Paul’s Chapel, designed in a Lombardic style using the red brick and limestone motif of the campus classroom buildings The interior of St. Paul's Chapel features furniture carved in Florence and stained glass 13 designed by Maitland Armstrong and John La Farge. The Peace Altar was designed by George Nakashima. The entire floor of the building is paved with marble terrazzo in which are set fragments of porphyry, verd antique, and yellow marble. Three windows in the apse, the work of American artist John LaFarge, depict St. Paul preaching to the Athenians. Perhaps most striking is the chapel's vaulting and dome, executed in salmon Guastavino tiles. St. Paul's church uses Guastavino structural vaulting, a patented system of tiles created by Spanish builder Rafael Guastavino, who immigrated to the United States in the late nineteenth century. Guastavino tiles can be found in more than 1,000 buildings worldwide, including Grand Central Terminal, Carnegie Hall and the 13 3 14 Cathedral of St. John the Divine",
     "info": null,
     "categories": [
@@ -7165,7 +7165,7 @@
     "name": "The Jewish Theological Seminary",
     "lat": 40.81193,
     "lon": -73.960615,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Jewish_Theological_Seminary_of_America_%2851241367198%29.jpg/1280px-Jewish_Theological_Seminary_of_America_%2851241367198%29.jpg",
     "description": "The Jewish Theological Seminary building is made up of three interconnected wings in the Colonial Revival style. The building’s most pronounced feature is its tall entry tower, which features a Lee Lawrie–sculpted representation of the burning bush above its grand arched entryway",
     "info": null,
     "categories": [
@@ -7178,7 +7178,7 @@
     "name": "Miller Theatre",
     "lat": 40.807977,
     "lon": -73.963199,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Miller_Theatre_at_Columbia_University.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7204,7 +7204,7 @@
     "name": "Minton's Playhouse",
     "lat": 40.804594,
     "lon": -73.952323,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Minton%27s_Playhouse.jpg/1280px-Minton%27s_Playhouse.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7231,7 +7231,7 @@
     "name": "First Corinthian Baptist Church",
     "lat": 40.803249,
     "lon": -73.95321,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Regent_Theatre_jeh.jpg/1280px-Regent_Theatre_jeh.jpg",
     "description": "ornate church, resembling Doges palace in Venice",
     "info": null,
     "categories": [
@@ -7270,7 +7270,7 @@
     "name": "Schomburg Center for Research in Black Culture",
     "lat": 40.814553,
     "lon": -73.940895,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/NYPL_Schomburg_Center_for_Research_in_Black_Culture.jpg/1280px-NYPL_Schomburg_Center_for_Research_in_Black_Culture.jpg",
     "description": "A memorial marks the library lobby where Langston Hughes' ashes are buried.",
     "info": null,
     "categories": [
@@ -7284,7 +7284,7 @@
     "name": "Hamilton Grange National Memorial",
     "lat": 40.82136,
     "lon": -73.947302,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Hamilton_Grange_late_2010_morn_jeh.jpg/1280px-Hamilton_Grange_late_2010_morn_jeh.jpg",
     "description": "The only home that Alexander Hamilton ever owned has a history almost as troubled as his own.",
     "info": null,
     "categories": [
@@ -7323,7 +7323,7 @@
     "name": "American Academy of Arts and Letters",
     "lat": 40.83369,
     "lon": -73.947383,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/WTM_NewYorkDolls_011.jpg/1280px-WTM_NewYorkDolls_011.jpg",
     "description": "The studio of influential composer Charles Ives is perfectly reconstructed, hidden in the back of the American Academy of Arts and Letters.",
     "info": null,
     "categories": [
@@ -7351,7 +7351,7 @@
     "name": "Church of the Intercession",
     "lat": 40.832187,
     "lon": -73.944991,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Church_of_the_Intercession_%28Manhattan%29.jpg/1280px-Church_of_the_Intercession_%28Manhattan%29.jpg",
     "description": "A Manhattan Episcopal church with an eerie underground crypt. The Church of the Intercession in the City and Diocese of New York is a house of prayer for all people with many tongues and talents. It is a shining example of 19th Century American Church architecture in the English Gothic Style. As a testament to this fact the building was placed in the National Register of Historic Places. The parish complex was designed by the renowned architect Bertram Grosvenor Goodhue and he selected this location to be his final resting place because he considered it his finest work. His remains lay in a beautiful mausoleum inside the nave of the church, on the north ambulatory. Entrusted with the care and maintenance of Bertram Grosvenor Goodhue’s national Gothic revival landmark building, our church and church family aims to provide members and visitors with a place whose open doors welcome everyone. This architectural marvel is also the home to several community based organizations (including a chapter of the Girl Scouts of America, a community based Sports and Recreation program, The Native American Cultural Museum and Alcoholic Anonymous) and the holiday reading of ‘Twas the Night Before Christmas (A Visit from Saint Nicholas) by Clement Clarke Moore. This event is considered New York’s Oldest Christmas tradition. It is also home to the Uptown Brass Quintet – a chamber ensemble of five professional brass musicians—and it is often chosen by filmmakers and photographers alike because of the building’s architectural beauty.",
     "info": null,
     "categories": [
@@ -7418,7 +7418,7 @@
     "name": "Bushman Steps",
     "lat": 40.832179,
     "lon": -73.940249,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Bushman_Steps_cloudy_jeh.jpg/1280px-Bushman_Steps_cloudy_jeh.jpg",
     "description": "A crumbling staircase in upper Manhattan is all that remains of one of the most important sites in sports history.",
     "info": null,
     "categories": [
@@ -7431,7 +7431,7 @@
     "name": "Morris-Jumel Mansion",
     "lat": 40.834455,
     "lon": -73.938573,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2014_Morris-Jumel_Mansion_from_southwest.jpg/1280px-2014_Morris-Jumel_Mansion_from_southwest.jpg",
     "description": "The oldest house in Manhattan is now a museum that remembers the home's sordid history of scandals, vice-presidents, and ghosts. Built in 1765, the Morris-Jumel Mansion is the oldest surviving house in New York, and was the home of British sympathizer Roger Morris, who wisely decided to bid New York adieu during the war. But it’s the tales of Eliza Jumel that give its Colonial hallways a jolt of scandal. She married former vice president Aaron Burr, but his squandering of her estate led to a quick divorce. When she died in 1865, she was regarded as one of the most notorious women in the city’s history. Some say her ghost still inhabits the house (now a fascinating museum, well worth a visit). If you see her, say hello from us.",
     "info": null,
     "categories": [
@@ -7459,7 +7459,7 @@
     "name": "United Palace",
     "lat": 40.846539,
     "lon": -73.937924,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/United_Palace_-_Panorama.jpg/1280px-United_Palace_-_Panorama.jpg",
     "description": "One of the last Jazz Age \"Wonder Theaters\" in New York City. Just up the street from the Audubon Ballroom sits another Thomas Lamb movie palace -- the equally dazzling Loew's 175th Street Theatre, one of New York City's original 'Wonder Theatres' that took movie going to a new level of luxury. It took a decidedly Evangelical direction in 1969 when the television preacher Reverend Ike transformed it into the Palace Cathedral. While it still retains religious ties, the venue is frequently opened to concerts and film revivals -- and frequently hosts tours of the site.",
     "info": null,
     "categories": [
@@ -7512,7 +7512,7 @@
     "name": "Mt. Olivet Baptist Church",
     "lat": 40.804897,
     "lon": -73.948059,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mt._Olivet_Baptist_Church_2023_jeh.jpg/1280px-Mt._Olivet_Baptist_Church_2023_jeh.jpg",
     "description": "gospel services, but not on tour bus route",
     "info": null,
     "categories": [
@@ -7540,7 +7540,7 @@
     "name": "The Studio Museum in Harlem",
     "lat": 40.808286,
     "lon": -73.947693,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Studio_Museum_of_Harlem.jpg/1280px-Studio_Museum_of_Harlem.jpg",
     "description": "The Studio Museum in Harlem is a spot for African artists to share their work about culture, tradition, and society. The museum has several temporary exhibits, including Projects 110: Michael Armitage and Dozie Kanu: Functions. Highlights Here are some of the \"must see\" items at Studio Museum in Harlem. Dozie Kanu: Function Black Refractions Projects 110: Michael Armitage",
     "info": null,
     "categories": [
@@ -7567,7 +7567,7 @@
     "name": "The Little Red Lighthouse",
     "lat": 40.850281,
     "lon": -73.946979,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Little_Red_Lighthouse%2C_Fort_Washington_Park.jpg/1280px-Little_Red_Lighthouse%2C_Fort_Washington_Park.jpg",
     "description": "Dwarfed by the might of the George Washington Bridge, tiny as a peg as you drive past it into Manhattan, is the quiet red Jeffrey’s Hook Light far below. Manhattan’s only operational lighthouse when it was placed here in 1921, it was quickly made obsolete by the very bright new bridge that opened high above it in 1931— the new structure cast plenty of light down to help guide vessels along the Hudson. Fortunately for the lighthouse, it became the subject of a popular 1942 children’s book, The Little Red Lighthouse and the Great Gray Bridge by Hildegarde Swift. Demolishing it would have been like killing off Pinocchio, and so it remains to this day.",
     "info": null,
     "categories": [
@@ -7580,7 +7580,7 @@
     "name": "Bennett Park",
     "lat": 40.852805,
     "lon": -73.938003,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Bennett_Park.jpg/1280px-Bennett_Park.jpg",
     "description": "The highest point on Manhattan Island was, unsurprisingly, also the site of Fort Washington, a Revolutionary War fort. Nothing remains of it; the spot, now surrounded by apartment buildings, instead holds Bennett Park today, named for news paper publisher James Gordon Bennett, Sr. because he happened to own this land when he died in 1872. A decorative cannon still adorning the park is a stern reminder of the day, November 16, 1776, when the fort fell into British hands. And nearby, to commemorate the bicentennial of Washington’s birth in 1732, grows an American elm, planted in 1932",
     "info": null,
     "categories": [
@@ -7595,7 +7595,7 @@
     "name": "St Frances Cabrini Shrine",
     "lat": 40.858391,
     "lon": -73.935177,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/St._Frances_Cabrini_Shrine_in_Washington_Heights%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-St._Frances_Cabrini_Shrine_in_Washington_Heights%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "The mummified relics of an American missionary. In 1899 Mother Frances Cabrini, who founded hospitals and orphanages throughout the United States, bought a remote piece of property on Fort Washington Avenue and founded a high school here. When she died in 1917, her remains were kept in the high school chapel. But her canonization in 1946 required a larger quarters for visitors and she was moved to this newly constructed shrine in 1959. You can visit Cabrini to this day; she's contained in a glass coffin beneath the altar.",
     "info": null,
     "categories": [
@@ -7623,7 +7623,7 @@
     "name": "Dyckman Farmhouse Museum",
     "lat": 40.867384,
     "lon": -73.922941,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Dyckman_House_Bwy_cloudy_jeh.jpg/1280px-Dyckman_House_Bwy_cloudy_jeh.jpg",
     "description": "This Dutch Colonial home is the oldest remaining farmhouse in Manhattan. Not all of the surviving Colonial-era homes in New York are elegant mansions. The Dyckman Farmhouse, built in 1784, wouldn’t look out of place on the Midwestern prairie. However, it could not be farther from an actual farm today, as it is boxed in by apartment buildings and locked into place by the traffic of Broadway. Two additional features set it apart from the urban reality that surrounds it: 1) It has a backyard, blooming with flowers, and 2) that backyard also has rugged Hessian barracks. The excavated hut—thrillingly rebuilt in 1916, when the home became a museum—predates the house",
     "info": null,
     "categories": [
@@ -7638,7 +7638,7 @@
     "name": "Isham Park",
     "lat": 40.869628,
     "lon": -73.918983,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Field%2C_Isham_Park.jpg/1280px-Field%2C_Isham_Park.jpg",
     "description": "This extraordinarily peaceful spot also has deep Revolutionary roots but it also has a unique connection to another aspect of Inwood history. Until the early 20th century, mansions of elite New Yorkers dotted this rugged landscape, and it was on this exact spot that banker William Bradley Isham built a summer home. Believe it or not, the home and many surrounding structures were actually a part of the park when it opened in the 1910s. Parks commissioner Robert Moses had these structures ripped down in the 1940s.",
     "info": null,
     "categories": [
@@ -7653,7 +7653,7 @@
     "name": "Seaman-Drake Arch",
     "lat": 40.870644,
     "lon": -73.91529,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Seaman-Drake_Arch_from_south.jpg/1280px-Seaman-Drake_Arch_from_south.jpg",
     "description": "Surrounded by low rise buildings and partially converted into an auto body shop, this marble archway is the only vestige of a forgotten Manhattan estate.",
     "info": null,
     "categories": [
@@ -7734,7 +7734,7 @@
     "name": "Sugar Hill Children's Museum of Art & Storytelling",
     "lat": 40.830459,
     "lon": -73.94119,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Sugar_Hill_Children%27s_Museum_of_Art_%26_Storytelling%2C_Manhattan.jpg/1280px-Sugar_Hill_Children%27s_Museum_of_Art_%26_Storytelling%2C_Manhattan.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7813,7 +7813,7 @@
     "name": "Inwood Hill Park",
     "lat": 40.872183,
     "lon": -73.924776,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Inwoodhillpark.jpg",
     "description": "only old growth forest in Manhattan This majestic park is quite possibly New York City’s most under-appreciated treasure, a series of breathtaking postcards come to life, where earth, foliage, and water return Manhattan to “Mannahatta.” Made a park in 1916, its woods are naturally wild and rugged, as if no European had ever crossed this forested landscape. Who knows what ancient secrets lurk along the banks of the Spuyten Duyvil? Nearly 400 years ago, in 1626, next to a tulip tree here, Peter Minuit, the director-general of New Amsterdam, reportedly purchased the island from the Lenape for a grand total of 60 guilders. Today you can find the location of the old tulip tree near a boulder named Shorakkopoch Rock.",
     "info": null,
     "categories": [
@@ -7853,7 +7853,7 @@
     "name": "Hudson View Gardens",
     "lat": 40.852734,
     "lon": -73.938873,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Hudson_View_Gardens_Hudson_Heights.jpg/1280px-Hudson_View_Gardens_Hudson_Heights.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7879,7 +7879,7 @@
     "name": "George Washington Bridge Bus Station",
     "lat": 40.848956,
     "lon": -73.938864,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2013_George_Washington_Bridge_Bus_Station_from_West_179th_Street_and_Fort_Washington_Avenue_looking_east.jpg/1280px-2013_George_Washington_Bridge_Bus_Station_from_West_179th_Street_and_Fort_Washington_Avenue_looking_east.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7892,7 +7892,7 @@
     "name": "The High Bridge",
     "lat": 40.842325,
     "lon": -73.930101,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/High_Bridge_jeh.JPG/1280px-High_Bridge_jeh.JPG",
     "description": "No monument to freshwater dominates quite like the High Bridge, the Romanesque wonder linking Manhattan to the Bronx over the Harlem River. For many decades this majestic artifact, seemingly plucked from the hills of ancient Gaul, was a vital link in that great engineering triumph: the Croton Aqueduct. Completed in 1848, it not only brought the Croton water into the city, but it also made one heck of a statement noticed around the world. In 1872, as masses of new arrivals from far-off lands crammed into tenements, an attractive water tower was constructed near the High Bridge to help increase the water pressure into the city. The water has long been turned off, but the bridge still beckons pedestrians onto its expanse over the Harlem.",
     "info": null,
     "categories": [
@@ -7921,7 +7921,7 @@
     "name": "The Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
     "lat": 40.839266,
     "lon": -73.940672,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Audubon_Ballroom_WTM_wikiWhat_050.jpg/1280px-Audubon_Ballroom_WTM_wikiWhat_050.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -7948,7 +7948,7 @@
     "name": "Church of Our Lady of Esperanza",
     "lat": 40.833996,
     "lon": -73.946899,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Our_Lady_of_Esperanza_2.jpg/1280px-Our_Lady_of_Esperanza_2.jpg",
     "description": "richly decorated w. religious art & stained glass; has lamp donated by king alfonso of Spain",
     "info": null,
     "categories": [
@@ -8014,7 +8014,7 @@
     "name": "St. Nicholas Park",
     "lat": 40.817469,
     "lon": -73.948748,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/St_Nicholas_Park_135_jeh.JPG/1280px-St_Nicholas_Park_135_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -8027,7 +8027,7 @@
     "name": "Strivers' Row",
     "lat": 40.818318,
     "lon": -73.943697,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2014_Striver%27s_Row_265-249_W_139_by_Stanford_White.jpg/1280px-2014_Striver%27s_Row_265-249_W_139_by_Stanford_White.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8040,7 +8040,7 @@
     "name": "The Abyssinian Baptist Church",
     "lat": 40.816682,
     "lon": -73.941556,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Abyssinian_Baptist_Church_Harlem1.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8066,7 +8066,7 @@
     "name": "Caribbean Cultural Center African Diaspora Institute (CCCADI)",
     "lat": 40.804497,
     "lon": -73.938112,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/OHNY_Caribbean_Cultural_Center_African_Diaspora_Institute_1.jpg/1280px-OHNY_Caribbean_Cultural_Center_African_Diaspora_Institute_1.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8131,7 +8131,7 @@
     "name": "Marcus Garvey Park",
     "lat": 40.804426,
     "lon": -73.943763,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Marcus_Garvey_Memorial_Park.jpg/1280px-Marcus_Garvey_Memorial_Park.jpg",
     "description": "harlem fire watchtower",
     "info": null,
     "categories": [
@@ -8276,7 +8276,7 @@
     "name": "Audubon Terrace Historic District",
     "lat": 40.833315,
     "lon": -73.94593,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hispanic_Society_of_America_-_Exterior.jpg/1280px-Hispanic_Society_of_America_-_Exterior.jpg",
     "description": "This pocket of majestic Beaux-Arts palaces surrounds a sculpture garden that would look at home in the Metropolitan Museum of Art or the Frick Collection. The Audubon Terrace’s remoteness is a big part of its charm. Audubon owned twenty acres of rolling hills, ideal for his naturalistic obsessions, and when he died in 1851, the land was parceled off into a shaded neighborhood named Audubon Park. Philanthropist Archer Milton Huntington developed several institutions here including the Hispanic Society of America and the original Museum of the American Indian.",
     "info": null,
     "categories": [
@@ -8334,7 +8334,7 @@
     "name": "Mount Morris Fire Watchtower",
     "lat": 40.804085,
     "lon": -73.943675,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Harlem-firetower.jpg",
     "description": "The 1857 tower, the last of its kind and one of the oldest standalone cast-iron structures in an urban context was designated a New York City Landmark in 1967 and was listed on the National Register of Historic Places in 1976. While the fire tower network, which at its peak included 11 towers, fell into disuse in the 1870s, the bell atop the Mount Morris tower continued to sound for timekeeping and churchgoing purposes until about 1909. In 2000, architect and preservationist Angel Ayón, Principal of AYON Studio, began and continued advising stakeholders, including the Mt. Morris Park Community Improvement Association and the Marcus Garvey Park Alliance, in their campaign to save the tower. As a result of their collective advocacy, the tower’s rehabilitation was completed by the City.",
     "info": null,
     "categories": [
@@ -8402,7 +8402,7 @@
     "name": "The Players",
     "lat": 40.737682,
     "lon": -73.986613,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Players_%28New_York_City%29_%2851708610067%29.jpg/1280px-The_Players_%28New_York_City%29_%2851708610067%29.jpg",
     "description": "A posh members-only club with a literally dramatic history. docdent lead tours",
     "info": null,
     "categories": [
@@ -8441,7 +8441,7 @@
     "name": "200 Madison Ave",
     "lat": 40.749138,
     "lon": -73.982593,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/200_Madison_Avenue_2023_jeh.jpg/1280px-200_Madison_Avenue_2023_jeh.jpg",
     "description": "interior landmark",
     "info": null,
     "categories": [
@@ -8519,7 +8519,7 @@
     "name": "Poster House",
     "lat": 40.743592,
     "lon": -73.993328,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Poster_House%2C_Manhattan.jpg/1280px-Poster_House%2C_Manhattan.jpg",
     "description": "The first museum in the United States dedicated entirely to posters.",
     "info": null,
     "categories": [
@@ -8571,7 +8571,7 @@
     "name": "Bellevue Hospital Center: Emergency Room",
     "lat": 40.73917,
     "lon": -73.974917,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bellevue_Hospital_-_NYC_%2851709396411%29.jpg/1280px-Bellevue_Hospital_-_NYC_%2851709396411%29.jpg",
     "description": "The name of this famed hospital was once a byword for the horrors of medical and psychiatric care.",
     "info": null,
     "categories": [
@@ -8610,7 +8610,7 @@
     "name": "Chester A. Arthur Home",
     "lat": 40.742748,
     "lon": -73.982062,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Chester_A._Arthur_home.jpg/1280px-Chester_A._Arthur_home.jpg",
     "description": "The only remaining building in New York to see the inauguration of a president is being slowly overtaken by a grocery store.",
     "info": null,
     "categories": [
@@ -8625,7 +8625,7 @@
     "name": "Kalustyan's",
     "lat": 40.742824,
     "lon": -73.982112,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kalustyans_Storefront.jpg/1280px-Kalustyans_Storefront.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8651,7 +8651,7 @@
     "name": "The Church of the Transfiguration",
     "lat": 40.745066,
     "lon": -73.985828,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Little_Church_Around_the_Corner_west_courtyard.jpg/1280px-Little_Church_Around_the_Corner_west_courtyard.jpg",
     "description": "This Fifth Avenue church has long been the favored worshiping place of Broadway actors and vaudeville performers. Built in neo-Gothic style, Transfiguration has 14th century stained glass, elegant chapels and a picturesque garden. The church provided sanctuary to African-Americans during the Civil War and has a long-time association with the acting community. Thousands of couples were married at the church during World War II.; This Fifth Avenue church has long been the favored worshiping place of Broadway actors and vaudeville performers.",
     "info": null,
     "categories": [
@@ -8665,7 +8665,7 @@
     "name": "Museum of Sex",
     "lat": 40.744029,
     "lon": -73.987253,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Museum_of_Sex%2C_New_York_City%2C_USA.jpg/1280px-Museum_of_Sex%2C_New_York_City%2C_USA.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8758,7 +8758,7 @@
     "name": "General William Jenkins Worth Monument",
     "lat": 40.742817,
     "lon": -73.988949,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Worth_Monument_tight_crop_2.jpg",
     "description": "one of only 2 monuments (other is Grant's tomb) that also serves as a mausoleum",
     "info": null,
     "categories": [
@@ -8824,7 +8824,7 @@
     "name": "Center For Book Arts",
     "lat": 40.74477,
     "lon": -73.989931,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Center_for_Book_Arts_jeh.jpg/1280px-Center_for_Book_Arts_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -8942,7 +8942,7 @@
     "name": "Luhring Augustine Gallery",
     "lat": 40.749167,
     "lon": -74.005,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/0103TIARA_P1000546.JPG/1280px-0103TIARA_P1000546.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -9020,7 +9020,7 @@
     "name": "David Zwirner",
     "lat": 40.745866,
     "lon": -74.006985,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/WTM3_NYU_FC_2_0088.jpg/1280px-WTM3_NYU_FC_2_0088.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9059,7 +9059,7 @@
     "name": "The Joyce Theater",
     "lat": 40.742746,
     "lon": -74.000733,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/WLA_filmlinc_Joyce_Theater_5_crop.jpg/1280px-WLA_filmlinc_Joyce_Theater_5_crop.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9072,7 +9072,7 @@
     "name": "Andrew Heiskell Braille and Talking Book Library",
     "lat": 40.740455,
     "lon": -73.993382,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Andrew_Heiskell_NYPL_40_W20_jeh.jpg/1280px-Andrew_Heiskell_NYPL_40_W20_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9203,7 +9203,7 @@
     "name": "The New School",
     "lat": 40.735492,
     "lon": -73.997136,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/New_School_University_Center_in_Manhattan_October_2014_2.JPG/1280px-New_School_University_Center_in_Manhattan_October_2014_2.JPG",
     "description": "Camilo Egas Mural - After surviving abandonment, this powerful Latin American mural is alive again",
     "info": null,
     "categories": [
@@ -9281,7 +9281,7 @@
     "name": "Pier 57 Rooftop Park",
     "lat": 40.743653,
     "lon": -74.01068,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pier_57_%28Manhattan%29_rooftop_park_01.jpg/1280px-Pier_57_%28Manhattan%29_rooftop_park_01.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9320,7 +9320,7 @@
     "name": "Tibet House US - NYC",
     "lat": 40.737089,
     "lon": -73.994688,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Gallery_and_library_at_Tibet_House%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-Gallery_and_library_at_Tibet_House%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9387,7 +9387,7 @@
     "name": "Magnet Theater",
     "lat": 40.748729,
     "lon": -73.995415,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Magnet_Theater_254_W29_St_jeh.jpg/1280px-Magnet_Theater_254_W29_St_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9413,7 +9413,7 @@
     "name": "Stuyvesant Square Park",
     "lat": 40.733946,
     "lon": -73.984105,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Stuyvesant_Square_in_summer.jpg/1280px-Stuyvesant_Square_in_summer.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9426,7 +9426,7 @@
     "name": "Stuyvesant Cove Park",
     "lat": 40.734607,
     "lon": -73.97439,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Stuyvesant_Cove_Park.jpg/1280px-Stuyvesant_Cove_Park.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9452,7 +9452,7 @@
     "name": "The National Arts Club",
     "lat": 40.737664,
     "lon": -73.986753,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_National_Arts_Club_%2851708609942%29.jpg/1280px-The_National_Arts_Club_%2851708609942%29.jpg",
     "description": "Nestled in history-steeped Gramercy Park, the National Arts Club is a home for the arts in the heart of New York City. Since 1906, the Club has been based in the Samuel Tilden Mansion, a national historic landmark and beautifully preserved example of Victorian Gothic residential architecture. Today, the National Arts Club operates as a 501(c)(3) nonprofit and offers more than 150 free programs to the public, including exhibitions, theatrical and musical performances, lectures, and readings, attracting an audience of over 25,000 New Yorkers and visitors alike. Featured programs focus on all disciplines of the arts.",
     "info": null,
     "categories": [
@@ -9493,7 +9493,7 @@
     "name": "Center for Jewish History",
     "lat": 40.738096,
     "lon": -73.993746,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Center_for_Jewish_History_NYC.jpg/1280px-Center_for_Jewish_History_NYC.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9506,7 +9506,7 @@
     "name": "Yeshiva University Museum",
     "lat": 40.738026,
     "lon": -73.993782,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Center_for_Jewish_History_NYC.jpg/1280px-Center_for_Jewish_History_NYC.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9636,7 +9636,7 @@
     "name": "Marble Collegiate Church",
     "lat": 40.745585,
     "lon": -73.986896,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Marble_Church_NYC.jpg/1280px-Marble_Church_NYC.jpg",
     "description": "Opening its doors in 1854, Marble Collegiate Church is a beautiful example of Romanesque Revival architecture with Gothic influences, made world-famous by Dr. Norman Vincent Peale. This city landmark boasts an impressive marble exterior and bell tower. Once inside, visitors will discover a finely detailed interior featuring beautiful stained glass windows—two designed by Tiffany—and a newly designed pipe organ.",
     "info": null,
     "categories": [
@@ -9677,7 +9677,7 @@
     "name": "Friends Seminary",
     "lat": 40.734019,
     "lon": -73.985069,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Friends_Seminary_E_15_St.jpg",
     "description": "Located atop the Friend Seminary‘s 16th Street campus, James Turrell’s Leading (2023) is a meeting room in the sky—a spiritual space for silence and contemplation and a physical manifestation of the K-12 Quaker school’s mission. One of more than eighty-five Skyspaces—but the only one attached to a K-12 school—Leading is a specifically proportioned chamber where viewers have a unique and personal experience of the sky through a knife-edged aperture in the roof. A softly lit interior combined with the changing light of the sky above provides a dramatic experience for the viewer. Benches line the perimeter of the enclosed space, and LED lights, which surround the aperture inside and outside the chamber, shift colors to affect the viewer’s perception of the sky. Based on the science of how humans perceive light, the individual experience is the actual work itself.",
     "info": null,
     "categories": [
@@ -9718,7 +9718,7 @@
     "name": "SeaGlass Carousel",
     "lat": 40.702153,
     "lon": -74.015002,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/EHB_9126_%2821727591991%29.jpg/1280px-EHB_9126_%2821727591991%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -9774,7 +9774,7 @@
     "name": "26 Broadway",
     "lat": 40.70546,
     "lon": -74.01323,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/26_Broadway_004.JPG/1280px-26_Broadway_004.JPG",
     "description": "Standard Oil Building - This curved Manhattan building was built to house the opulence of John D. Rockefeller's oil empire. The interior was no less opulent, with the main lobby resembling a cathedral’s apse, covered in marble and gilded chandeliers, the doorways enshrined with notable names from the company’s past, the gleaming elevator cars monogramed SO.",
     "info": null,
     "categories": [
@@ -9802,7 +9802,7 @@
     "name": "77 Water St",
     "lat": 40.704281,
     "lon": -74.008299,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/77_Water_Street_%2851490413621%29.jpg/1280px-77_Water_Street_%2851490413621%29.jpg",
     "description": "A WWI fighter plane and turn-of-the-century penny candy shop are among the unexpected features of this Financial District building.",
     "info": null,
     "categories": [
@@ -9831,7 +9831,7 @@
     "name": "Delmonico's",
     "lat": 40.705027,
     "lon": -74.010256,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Delmonicos_NYC.jpg",
     "description": "Possible relics of the ancient Roman city are hidden in this restaurant's façade.",
     "info": null,
     "categories": [
@@ -9872,7 +9872,7 @@
     "name": "5 Beekman St",
     "lat": 40.71143,
     "lon": -74.006828,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Temple_Court_Building.jpg",
     "description": "This beautiful building in the heart of Manhattan's Financial District was empty for decades.",
     "info": null,
     "categories": [
@@ -9942,7 +9942,7 @@
     "name": "33 Thomas Street",
     "lat": 40.7166,
     "lon": -74.006057,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/33_thomas_st.jpg/1280px-33_thomas_st.jpg",
     "description": "An uber-secure, windowless tower of doom in the center of Manhattan is an NSA spyscraper. SO YOU FINALLY NOTICED THAT terrifying, windowless skyscraper in the middle of Manhattan? It’s fine, really. Now, move along. Unofficially known as the “Long Lines Building,” New York’s doom-iest tower was designed in 1974 by architect John Carl Warneke. Though its most noteworthy feature is its utter lack of windows, the building is also known for its unusually high ceilings and for being designed to bear an extremely large amount of weight per square-foot. Not that the latter two details are something the average citizen would ever be privy to witnessing on their own, of course. The name “Long Lines” suggests a lovely hat tip to the building’s architectural elements, but in reality the sky fortress was originally created to house AT&T’s carrier exchanges for their long distance telephone switches and equipment. Today it continues in that purpose, while also storing a portion of the company’s datacenter processing. This ephemeral element of the technological infrastructure has been deemed so important that the building is able to survive nuclear fallout and exist off-grid for up to two weeks without issue. What’s more, it’s since come to light that this ominous building is used as a hub for NSA spying—a brick-and-mortar arm of the surveillance state. As reported by The Intercept, the fortified skyscraper was not only made to safeguard critical telecommunications equipment, a sort of fortress for the information age, but it also houses equipment for controversial government data collection and wire tapping, codenamed TITANPOINTE. One look at the skyscraper’s face should tell you that public admittance isn’t an option. But that beautiful, terrifying image you have in your head of stories upon stories of telephone cables and digital boxes stacked 18-feet high, glowing within the building’s impenetrable walls, might just be better than the real thing, anyway",
     "info": null,
     "categories": [
@@ -9998,7 +9998,7 @@
     "name": "Titanic Memorial Park",
     "lat": 40.707488,
     "lon": -74.003735,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Titanic_Memorial_Park_jeh.jpg/1280px-Titanic_Memorial_Park_jeh.jpg",
     "description": "Manhattan's lighthouse, erected at the insistence of the unsinkable Molly Brown.",
     "info": null,
     "categories": [
@@ -10042,7 +10042,7 @@
     "name": "John Street United Methodist Church",
     "lat": 40.709175,
     "lon": -74.008073,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ed/John_Street_Methodist_Church2.JPG",
     "description": "The oldest Methodist church in the United States has been spreading the good news for over two centuries. Hidden away down one of the Financial District’s smallest streets, today the Methodist chapel carries about its work as it has done the past two and a half centuries. The chapel is small, but beautifully maintained and well appointed. Underneath the chapel are recreation rooms used for smaller meetings and Sunday schools. It also houses a quite remarkable museum. The collection includes a still working clock given to Embury and Heck by John Wesley himself in 1768. There is also the original lecturn handmade by Embury and used to preach from in the old rigging loft. Central to Methodism was the idea that close personal fellowship could only be attained by meeting in small groups. Called Class Meetings, the church-goers would sit in a close-knit circle; one of their original distinctive circular set of chairs dating from the 18th century is here as well. A quite remarkable find, and one hardly known about or visited, the John Street church still prides itself not just on its long and illustrious history, but on preaching Methodism to its surrounding community today just as it did nearly 250 years ago.",
     "info": null,
     "categories": [
@@ -10082,7 +10082,7 @@
     "name": "The Skyscraper Museum",
     "lat": 40.705738,
     "lon": -74.017749,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Wtc_model_at_skyscraper_museum.jpg/1280px-Wtc_model_at_skyscraper_museum.jpg",
     "description": "An institution dedicated to the towering buildings that make up skylines in New York City and around the world.",
     "info": null,
     "categories": [
@@ -10111,7 +10111,7 @@
     "name": "23 Wall St",
     "lat": 40.706651,
     "lon": -74.010169,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/23_Wall_Street_New_York.jpg/1280px-23_Wall_Street_New_York.jpg",
     "description": "Unrepaired walls from a 1920 anarchist bomb attack Ranging in size from small, missing chunks of limestone to deeper baseball-sized pits, the scars are all that remain of an oft forgotten terrorist attack in the early 20th century. On September 16, 1920, a horse-drawn carriage carrying a large bomb was driven to the intersection of Wall Street and Broad Street. When detonated, the bomb sent fragments hurtling into the surrounding buildings, killing 39 people and badly wounding many others. The amount of destruction totaled $2 million, most of it on the corner of the two streets. At the time, the corner building on Wall Street was the headquarters of J.P. Morgan, and was a well-known landmark in the city. Considering the circumstances and target, police surmised the bombing was an act of terrorism, and a possible attempt on J.P. Morgan’s life. Although some evidence was found, the case was never resolved and was dropped 20 years after the bombing. It is believed that the attack was carried out by Italian anarchists, in particular by one Mario Buda, an associate of famous anarchists Sacco and Vanzetti. Until September 11, 2001, the Wall Street bombing was the deadliest terrorist attack in the history of New York City. The fragments in the old Morgan building have never been repaired, and stand as a reminder of the explosion that occurred nearly a century ago.",
     "info": null,
     "categories": [
@@ -10208,7 +10208,7 @@
     "name": "South Ferry",
     "lat": 40.702021,
     "lon": -74.013373,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/NYCT_South_Ferry_Platform.jpg/1280px-NYCT_South_Ferry_Platform.jpg",
     "description": "As the team was conducting excavations for the South Ferry Station, they came upon one of the oldest man-made structure still in place in Manhattan, the Battery Wall. The wall was built around 1755 at the southwestern tip of Manhattan to shield the colony, then under British rule, from enemies as well as rough waves and wind. The wall was buried under landfill in the late 18th century and further buried by Battery Park in the 19th century. Today, you can walk right up to the wall and touch it. You can even see fossilized oyster shells embedded in the stones.",
     "info": null,
     "categories": [
@@ -10274,7 +10274,7 @@
     "name": "20 Exchange Pl",
     "lat": 40.705505,
     "lon": -74.009656,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/20_Exchange_Place_Tower_111.JPG/1280px-20_Exchange_Place_Tower_111.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -10352,7 +10352,7 @@
     "name": "Wavertree",
     "lat": 40.705374,
     "lon": -74.003041,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/South_Street_Seaport_Boat.JPG/1280px-South_Street_Seaport_Boat.JPG",
     "description": "Built of riveted wrought iron, the 1885 tall ship Wavertree is an archetype of the sailing ships of the latter half of the 19th century that, during the “age of sail,” lined South Street by the dozens, creating a forest of masts from the Battery to the Brooklyn Bridge.",
     "info": null,
     "categories": [
@@ -10404,7 +10404,7 @@
     "name": "Staple Street Skybridge",
     "lat": 40.718268,
     "lon": -74.009446,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tribeca_Manhattan_December_2022_021.jpg/1280px-Tribeca_Manhattan_December_2022_021.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10430,7 +10430,7 @@
     "name": "70 Pine Street",
     "lat": 40.706505,
     "lon": -74.007772,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/American_International_Building3.JPG/1280px-American_International_Building3.JPG",
     "description": "look for miniature impression of the building above the entrance, which contains its own miniature impression; landmarked interior",
     "info": null,
     "categories": [
@@ -10459,7 +10459,7 @@
     "name": "85 Broad St",
     "lat": 40.704066,
     "lon": -74.011146,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/85_Broad_Street%2C_New_York_NY_-_W0R0445.jpg/1280px-85_Broad_Street%2C_New_York_NY_-_W0R0445.jpg",
     "description": "glass sidewalk shows down to the foundation of ruins of lovelace tavern https://untappedcities.com/2018/03/12/400-year-old-nyc-street-calls-financial-district-lobby-home/",
     "info": null,
     "categories": [
@@ -10472,7 +10472,7 @@
     "name": "55 Wall Street",
     "lat": 40.706113,
     "lon": -74.009452,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/55-wall-street.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -10485,7 +10485,7 @@
     "name": "National Museum of the American Indian",
     "lat": 40.703986,
     "lon": -74.013689,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/The_National_Museum_of_the_American_Indian%E2%80%93New_York_%28George_Gustav_Heye_Center%29_%2851522244534%29.jpg/1280px-The_National_Museum_of_the_American_Indian%E2%80%93New_York_%28George_Gustav_Heye_Center%29_%2851522244534%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10498,7 +10498,7 @@
     "name": "Cunard Building",
     "lat": 40.705484,
     "lon": -74.013758,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Bowling_Green-Battery_Pk_01_-_Cunard.jpg/1280px-Bowling_Green-Battery_Pk_01_-_Cunard.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -10512,7 +10512,7 @@
     "name": "1 Broadway",
     "lat": 40.704966,
     "lon": -74.014497,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/One_Broadway_May_2010.jpg",
     "description": "you can still spot vestiges of its previous use as the Mercantile Marine buildig",
     "info": null,
     "categories": [
@@ -10525,7 +10525,7 @@
     "name": "One Wall Street",
     "lat": 40.707491,
     "lon": -74.011638,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/1_Wall_Street_panoramic.jpg/1280px-1_Wall_Street_panoramic.jpg",
     "description": "The shimmering glass mosaic tiles sheathing the walls and ceiling of the Red Room, the client reception area of the former Irving Trust Company at One Wall Street, make this space one of the most breathtaking interiors in Manhattan.",
     "info": null,
     "categories": [
@@ -10551,7 +10551,7 @@
     "name": "American Stock Exchange",
     "lat": 40.708678,
     "lon": -74.012615,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Old_American_Stock_Exchange_Building_2009.JPG/1280px-Old_American_Stock_Exchange_Building_2009.JPG",
     "description": "NHL - \"World-class stock exchanges dating back to colonial times.\"",
     "info": null,
     "categories": [
@@ -10605,7 +10605,7 @@
     "name": "195 Broadway",
     "lat": 40.71084,
     "lon": -74.009574,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/195_Bwy_south_sun_jeh.jpg/1280px-195_Bwy_south_sun_jeh.jpg",
     "description": "Landmarked interior",
     "info": null,
     "categories": [
@@ -10631,7 +10631,7 @@
     "name": "Irish Hunger Memorial",
     "lat": 40.715062,
     "lon": -74.016368,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/HungerMemorial9.jpg/1280px-HungerMemorial9.jpg",
     "description": "Blighted Irish field and the ruins of a 19th-century cottage on the edge of urban Manhattan.",
     "info": null,
     "categories": [
@@ -10644,7 +10644,7 @@
     "name": "Teardrop Park",
     "lat": 40.717072,
     "lon": -74.015524,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Teardrop_Park_%28WSTM_Mark_Frank_0061%29.jpg/1280px-Teardrop_Park_%28WSTM_Mark_Frank_0061%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10683,7 +10683,7 @@
     "name": "280 Broadway",
     "lat": 40.714544,
     "lon": -74.005815,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/A.T._Stewart_Dry_Goods_Sun_Building_280_Broadway.jpg/1280px-A.T._Stewart_Dry_Goods_Sun_Building_280_Broadway.jpg",
     "description": "NHL - AT Stewart Company Store \"Site of the first American department store (now known as the New York Sun building)\"",
     "info": null,
     "categories": [
@@ -10698,7 +10698,7 @@
     "name": "Tweed Courthouse",
     "lat": 40.713396,
     "lon": -74.005543,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tweed_Courthouse.jpg",
     "description": "landmarked interior; offers tours",
     "info": null,
     "categories": [
@@ -10847,7 +10847,7 @@
     "name": "Surrogate's Court | New York County",
     "lat": 40.713436,
     "lon": -74.004366,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/NYC_Surrogate%27s_Courthouse.jpg/1280px-NYC_Surrogate%27s_Courthouse.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -10860,7 +10860,7 @@
     "name": "The Sphere",
     "lat": 40.710518,
     "lon": -74.013895,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_Sphere_in_Liberty_Park_2_vc.jpg/1280px-The_Sphere_in_Liberty_Park_2_vc.jpg",
     "description": "This sculpture by artist Fritz Keonig survived the 9/11 attacks and now stands as a monument to the victims.",
     "info": null,
     "categories": [
@@ -10913,7 +10913,7 @@
     "name": "Edward Mooney House",
     "lat": 40.714633,
     "lon": -73.997464,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Edward_Mooney_House_18_Bowery.jpg/1280px-Edward_Mooney_House_18_Bowery.jpg",
     "description": "Built just after the American Revolution, the oldest row house in New York City still stands in Chinatown.",
     "info": null,
     "categories": [
@@ -10926,7 +10926,7 @@
     "name": "Church of The Transfiguration",
     "lat": 40.714816,
     "lon": -73.999122,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Church-of-transfiguration-25-mott.jpg/1280px-Church-of-transfiguration-25-mott.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -10939,7 +10939,7 @@
     "name": "Foley Square",
     "lat": 40.714351,
     "lon": -74.002993,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Foley_Square%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-Foley_Square%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11044,7 +11044,7 @@
     "name": "Yu & Me Books",
     "lat": 40.714981,
     "lon": -73.999574,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Yu_and_Me_Books.jpg/1280px-Yu_and_Me_Books.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11135,7 +11135,7 @@
     "name": "DCTV",
     "lat": 40.717288,
     "lon": -74.001223,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/DCTV-DN-firehouse-800x600.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11148,7 +11148,7 @@
     "name": "60 Hudson Street",
     "lat": 40.717729,
     "lon": -74.008306,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/60_Hudson_Street.jpg/1280px-60_Hudson_Street.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -11350,7 +11350,7 @@
     "name": "Perelman Performing Arts Center (PAC NYC)",
     "lat": 40.712439,
     "lon": -74.012374,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Performing_arts_center_October_1st_2022.jpg/1280px-Performing_arts_center_October_1st_2022.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11363,7 +11363,7 @@
     "name": "St Peter's Roman Catholic Church",
     "lat": 40.712483,
     "lon": -74.009531,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/St._Peter%27s_Roman_Catholic_Church_22_Barclay_Street.jpg/1280px-St._Peter%27s_Roman_Catholic_Church_22_Barclay_Street.jpg",
     "description": "St. Peters is pristine inside and out. Its classic early Greek Revival architecture is among the finest in the country. At the side of the church stands the huge steel-beam cross pulled from the wreckage of the World Trade Towers.",
     "info": null,
     "categories": [
@@ -11403,7 +11403,7 @@
     "name": "FishBridge Park Garden",
     "lat": 40.708976,
     "lon": -74.001234,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Fishbridge_Gardens_2023_jeh.jpg/1280px-Fishbridge_Gardens_2023_jeh.jpg",
     "description": "Tended by 50 volunteers and managed by the South-Water-Front Neighborhood Association, the garden is open to the public on Saturdays and Sundays, dawn to dusk, April to November",
     "info": null,
     "categories": [
@@ -11497,7 +11497,7 @@
     "name": "Robert F. Wagner Jr. Park",
     "lat": 40.705291,
     "lon": -74.018763,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/150829_056_Wagner_Park.jpg/1280px-150829_056_Wagner_Park.jpg",
     "description": "Wagner Park reopened in late July 2025. It belongs to an incredibly complex, multibillion-dollar assortment of resilience efforts to safeguard Lower Manhattan from rising seas and storms during the coming decades.",
     "info": null,
     "categories": [
@@ -11540,7 +11540,7 @@
     "name": "Hallett Nature Sanctuary",
     "lat": 40.76664,
     "lon": -73.975024,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Hallett_Nature_Sanctuary_in_Central_Park%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-Hallett_Nature_Sanctuary_in_Central_Park%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "Long the exclusive domain of birds and vagabonds, this little-known Central Park peninsula is open to the public once more.",
     "info": null,
     "categories": [
@@ -11582,7 +11582,7 @@
     "name": "Swedish Cottage Marionette Theatre",
     "lat": 40.779959,
     "lon": -73.970365,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Swedish_Cottage%2C_Central_Park%2C_New_York_City_2018.jpg/1280px-Swedish_Cottage%2C_Central_Park%2C_New_York_City_2018.jpg",
     "description": "This theater opened in 1998, but both the building and the puppeteers who perform there have a distinguished history.",
     "info": null,
     "categories": [
@@ -11624,7 +11624,7 @@
     "name": "Umpire Rock",
     "lat": 40.769124,
     "lon": -73.977771,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rat_Rock_in_Central_Park%2C_Manhattan%2C_New_York%2C_US.jpg/1280px-Rat_Rock_in_Central_Park%2C_Manhattan%2C_New_York%2C_US.jpg",
     "description": "AKA Rat Ricj - climbing rock",
     "info": null,
     "categories": [
@@ -11715,7 +11715,7 @@
     "name": "Naumburg Bandshell",
     "lat": 40.772683,
     "lon": -73.971028,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/At_New_York%2C_USA_2017_368.jpg/1280px-At_New_York%2C_USA_2017_368.jpg",
     "description": "orchestral concerts in the summer",
     "info": null,
     "categories": [
@@ -11793,7 +11793,7 @@
     "name": "Conservatory Garden",
     "lat": 40.793693,
     "lon": -73.952459,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Central_Park_23.jpg/1280px-Central_Park_23.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -11834,7 +11834,7 @@
     "name": "The Arsenal",
     "lat": 40.767731,
     "lon": -73.97125,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Central_Park_Arsenal_jeh.JPG/1280px-Central_Park_Arsenal_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
