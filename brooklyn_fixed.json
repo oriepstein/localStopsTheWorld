@@ -751,33 +751,6 @@
     "id": "brooklyn_weeksville_heritage_center"
   },
   {
-    "name": "Dead Horse Bay",
-    "lat": 40.584376,
-    "lon": -73.8999741,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "beaches",
-      "quirky"
-    ],
-    "url": null,
-    "id": "brooklyn_dead_horse_bay"
-  },
-  {
-    "name": "NURTUREart Non-Profit Inc",
-    "lat": 40.7058963,
-    "lon": -73.9332806,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "art"
-    ],
-    "url": null,
-    "id": "brooklyn_nurtureart_nonprofit_inc"
-  },
-  {
     "name": "Vandervoort Place",
     "lat": 40.704465,
     "lon": -73.9304578,
