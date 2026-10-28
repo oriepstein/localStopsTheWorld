@@ -404,7 +404,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "http://www.drawingcenter.org/",
     "id": "manhattan_the_drawing_center"
@@ -514,7 +514,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_judd_foundation"
@@ -5865,7 +5865,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_gagosian"
@@ -8948,7 +8948,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_david_zwirner"
@@ -8961,7 +8961,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_hauser_wirth"
