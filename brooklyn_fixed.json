@@ -17,7 +17,7 @@
     "name": "Empire Stores",
     "lat": 40.7035539,
     "lon": -73.9916217,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Empire_Stores.jpg/1280px-Empire_Stores.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -44,7 +44,7 @@
     "name": "Plymouth Church",
     "lat": 40.6991711,
     "lon": -73.9931456,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Plymouth_Church_Brooklyn_Heights.jpg/1280px-Plymouth_Church_Brooklyn_Heights.jpg",
     "description": "NHL church with piece of plymouth rock; underground railroad stop. guided tours sundays at 130",
     "info": null,
     "categories": [
@@ -72,7 +72,7 @@
     "name": "58 Joralemon St",
     "lat": 40.6934007,
     "lon": -73.9974105,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/58_Joralemon_St._Facade.jpg/1280px-58_Joralemon_St._Facade.jpg",
     "description": "fake house hiding subway ventilator",
     "info": null,
     "categories": [
@@ -195,7 +195,7 @@
     "name": "Five Myles",
     "lat": 40.672629,
     "lon": -73.959636,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Five_Myles_Gallery_in_snow_jeh.jpg/1280px-Five_Myles_Gallery_in_snow_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -249,7 +249,7 @@
     "name": "WNYC Transmitter Park",
     "lat": 40.7298447,
     "lon": -73.9607685,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/WNYC_Transmitter_Park_%2835401p%29.jpg/1280px-WNYC_Transmitter_Park_%2835401p%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -348,7 +348,7 @@
     "name": "The Bushwick Collective",
     "lat": 40.7076388,
     "lon": -73.9218185,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Bushwick_Collective_124.jpg/1280px-Bushwick_Collective_124.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -375,7 +375,7 @@
     "name": "House of Yes",
     "lat": 40.7068169,
     "lon": -73.9236004,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/A_performance_at_the_House_of_Yes_in_Bushwick%2C_Brooklyn.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -415,7 +415,7 @@
     "name": "Moore Street Market",
     "lat": 40.7038146,
     "lon": -73.9410897,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Moore_Street_Market%2C_Brooklyn%2C_interior%2C_July_2025.jpg/1280px-Moore_Street_Market%2C_Brooklyn%2C_interior%2C_July_2025.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -429,7 +429,7 @@
     "name": "Bushwick Inlet Park",
     "lat": 40.7223295,
     "lon": -73.9613074,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Bushwick_Inlet_Park_from_Community_Center_Roof_crop.JPG/1280px-Bushwick_Inlet_Park_from_Community_Center_Roof_crop.JPG",
     "description": "AI: A raw-feeling waterfront park with big skyline views and lots of open space. Less polished than Domino Park, but more spacious and local.<br><br>Great for sunset.",
     "info": null,
     "categories": [
@@ -443,7 +443,7 @@
     "name": "State of New York- East River State Park",
     "lat": 40.7214081,
     "lon": -73.9620691,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/East_River_State_Park.jpg/1280px-East_River_State_Park.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -483,7 +483,7 @@
     "name": "The City Reliquary Museum",
     "lat": 40.713963,
     "lon": -73.955746,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/City_Reliquary_%2857305%29.jpg/1280px-City_Reliquary_%2857305%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -497,7 +497,7 @@
     "name": "The Arm Letterpress",
     "lat": 40.715273,
     "lon": -73.953158,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Arm_Letterpress_Counter.jpg/1280px-The_Arm_Letterpress_Counter.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -563,7 +563,7 @@
     "name": "Woodhull Medical Center",
     "lat": 40.7008259,
     "lon": -73.9424803,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Woodhull_Hospital_jeh.JPG/1280px-Woodhull_Hospital_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -589,7 +589,7 @@
     "name": "Brooklyn College",
     "lat": 40.6314406,
     "lon": -73.9544488,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/East_Quad_at_Brooklyn_College_%28March_2009%29.jpg/1280px-East_Quad_at_Brooklyn_College_%28March_2009%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -602,7 +602,7 @@
     "name": "Living Torah Museum",
     "lat": 40.635547,
     "lon": -73.9805466,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/It_is_the_front_site_of_the_Living_Torah_Museum.jpg/1280px-It_is_the_front_site_of_the_Living_Torah_Museum.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -656,7 +656,7 @@
     "name": "Erasmus Hall High School",
     "lat": 40.6495813,
     "lon": -73.9581967,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Erasmus_Hall_HS_long_jeh.JPG/1280px-Erasmus_Hall_HS_long_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -670,7 +670,7 @@
     "name": "Albemarle Terrace",
     "lat": 40.6485612,
     "lon": -73.959662,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Albemarle_Terrace_north_side_1.jpg/1280px-Albemarle_Terrace_north_side_1.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -684,7 +684,7 @@
     "name": "Kenmore Terrace",
     "lat": 40.6491736,
     "lon": -73.9594277,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Kenmore_Terrace_south_side_2.jpg/1280px-Kenmore_Terrace_south_side_2.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -726,7 +726,7 @@
     "name": "Owl's Head Park",
     "lat": 40.6401377,
     "lon": -74.0322522,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Owls_Head_Park.jpg/1280px-Owls_Head_Park.jpg",
     "description": "site of never-finished tunnel to Staten Island",
     "info": null,
     "categories": [
@@ -740,7 +740,7 @@
     "name": "Weeksville Heritage Center",
     "lat": 40.6739761,
     "lon": -73.9253119,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hunterfly_road_houses.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -848,7 +848,7 @@
     "name": "Museum of Contemporary African Diasporan Arts",
     "lat": 40.6851993,
     "lon": -73.974308,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/MOCAD_east_jeh.JPG/1280px-MOCAD_east_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -862,7 +862,7 @@
     "name": "Lafayette Avenue Presbyterian Church",
     "lat": 40.6870381,
     "lon": -73.9732706,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lafayette_Avenue_Presbyterian_Church.jpg/1280px-Lafayette_Avenue_Presbyterian_Church.jpg",
     "description": "murals; abolitionist church - displays \"Lincoln Shovel\" which Lincoln sent for their groundbreaking",
     "info": null,
     "categories": [
@@ -904,7 +904,7 @@
     "name": "Brown Memorial Baptist Church",
     "lat": 40.684223,
     "lon": -73.965559,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Brown_Memorial_Baptist_Church_-_panoramio.jpg/1280px-Brown_Memorial_Baptist_Church_-_panoramio.jpg",
     "description": "Tiffany (?) stained glass windows",
     "info": null,
     "categories": [
@@ -918,7 +918,7 @@
     "name": "Brooklyn Army Terminal",
     "lat": 40.6441587,
     "lon": -74.0249671,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Inside_the_Brooklyn_Army_Terminal_North_end.jpg/1280px-Inside_the_Brooklyn_Army_Terminal_North_end.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -932,7 +932,7 @@
     "name": "The Wyckoff House Museum",
     "lat": 40.6443368,
     "lon": -73.9207731,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/WyckoffHouse1740Addition.JPG/1280px-WyckoffHouse1740Addition.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -960,7 +960,7 @@
     "name": "The Coney Island Museum",
     "lat": 40.5753293,
     "lon": -73.979783,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Coney_Island_USA_east_sunny_jeh.jpg/1280px-Coney_Island_USA_east_sunny_jeh.jpg",
     "description": "ask to see Topsy's electrocution",
     "info": null,
     "categories": [
@@ -988,7 +988,7 @@
     "name": "Hendrick I. Lott House",
     "lat": 40.6103011,
     "lon": -73.9325837,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hendrick_I_Lott_1940_E36_jeh.JPG/1280px-Hendrick_I_Lott_1940_E36_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -1001,7 +1001,7 @@
     "name": "Waterfront Museum",
     "lat": 40.675219,
     "lon": -74.0183687,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Waterfront_Museum%2C_Brooklyn%2C_New_York%2C_US.jpg/1280px-Waterfront_Museum%2C_Brooklyn%2C_New_York%2C_US.jpg",
     "description": "Lehigh Valley barge No. 79 still gets tugged along - but now it houses a museum and unusual performances. ",
     "info": null,
     "categories": [
@@ -1016,7 +1016,7 @@
     "name": "Carroll Street Bridge",
     "lat": 40.6781878,
     "lon": -73.989156,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Carroll_Street_Bridge_retracting_vc.jpg/1280px-Carroll_Street_Bridge_retracting_vc.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1043,7 +1043,7 @@
     "name": "St. Ann's Warehouse",
     "lat": 40.703789,
     "lon": -73.9928,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/St._Ann%27s_Warehouse_in_Brooklyn.jpg/1280px-St._Ann%27s_Warehouse_in_Brooklyn.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1056,7 +1056,7 @@
     "name": "Lefferts Historic House",
     "lat": 40.6643449,
     "lon": -73.9637644,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Prospect_Park_Brooklyn_Feb_2019_110.jpg/1280px-Prospect_Park_Brooklyn_Feb_2019_110.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1084,7 +1084,7 @@
     "name": "Brick Theatre",
     "lat": 40.714288,
     "lon": -73.9497617,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/The_Brick_Theater_2023_jeh.jpg/1280px-The_Brick_Theater_2023_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1110,7 +1110,7 @@
     "name": "The Billie Holiday Theatre",
     "lat": 40.6799694,
     "lon": -73.9456848,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Billie_Holiday_Theatre.jpg/1280px-The_Billie_Holiday_Theatre.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1123,7 +1123,7 @@
     "name": "The Invisible Dog Art Center",
     "lat": 40.687245,
     "lon": -73.9911963,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Storefront-invisible-dog.jpeg/960px-Storefront-invisible-dog.jpeg",
     "description": "",
     "info": null,
     "categories": [
@@ -1151,7 +1151,7 @@
     "name": "Bargemusic",
     "lat": 40.7031305,
     "lon": -73.9952668,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Brooklyn_Bridge_Park_td_%282019-08-23%29_006_-_Pier_1%2C_Bargemusic.jpg/1280px-Brooklyn_Bridge_Park_td_%282019-08-23%29_006_-_Pier_1%2C_Bargemusic.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1165,7 +1165,7 @@
     "name": "Brooklyn Historical Society",
     "lat": 40.6947959,
     "lon": -73.9924082,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Brooklyn_Historical_Society.jpg/1280px-Brooklyn_Historical_Society.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1179,7 +1179,7 @@
     "name": "Grace Court Alley",
     "lat": 40.6940583,
     "lon": -73.9964117,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Grace_Court_Alley_No.2_-_No.20_%28south_side%29.jpg/1280px-Grace_Court_Alley_No.2_-_No.20_%28south_side%29.jpg",
     "description": "charming former stable alley",
     "info": null,
     "categories": [
@@ -1249,7 +1249,7 @@
     "name": "MARY A. WHALEN",
     "lat": 40.6804785,
     "lon": -74.0124708,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mary_A._Whalen_%2853022850733%29.jpg/1280px-Mary_A._Whalen_%2853022850733%29.jpg",
     "description": "The MARY A. WHALEN, last-of-her-kind coastal oil tanker, is home to the nonprofit PortSide NewYork, and is the only oil tanker in the world repurposed for public education and culture. Listed on the National Register of Historic Places, the MARY was built for the Red Hook, Brooklyn-based company Ira S. Bushey & Sons in 1938.",
     "info": null,
     "categories": [
@@ -1263,7 +1263,7 @@
     "name": "National Sawdust",
     "lat": 40.7189016,
     "lon": -73.9613395,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/National_Sawdust_exterior.jpg",
     "description": "a nonprofit venue in Brooklyn that commissions, produces, and presents programming rooted in sound. Founded in 2015 by composer Paola Prestini, it offers a community for individuals to discover new and varied music. National Sawdust has a long-term partnership with Meyer Sound, which provides one of the best sound systems in the city. The spatial sound technology allows a rehearsal room to have acoustics comparable to a symphony hall.",
     "info": null,
     "categories": [
@@ -1290,7 +1290,7 @@
     "name": "Williamsburg Art & Historical Center",
     "lat": 40.7105986,
     "lon": -73.9635467,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Williamsburg_Art_and_Historical_Center.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1304,7 +1304,7 @@
     "name": "Interference Archive",
     "lat": 40.670388,
     "lon": -73.985844,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Interference_Archive_AF_editathon_2018_01.jpg/1280px-Interference_Archive_AF_editathon_2018_01.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1399,7 +1399,7 @@
     "name": "American Veterans Memorial Pier",
     "lat": 40.6393213,
     "lon": -74.0376877,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Entrance_to_the_American_Veterans_Memorial_Pier.jpg/1280px-Entrance_to_the_American_Veterans_Memorial_Pier.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1413,7 +1413,7 @@
     "name": "Louis Valentino, Jr. Park and Pier",
     "lat": 40.6784075,
     "lon": -74.0181413,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Red_Hook%2C_Brooklyn%2C_NY%2C_USA_-_panoramio_%285%29.jpg/1280px-Red_Hook%2C_Brooklyn%2C_NY%2C_USA_-_panoramio_%285%29.jpg",
     "description": "Take in a rare, face-to-face glimpse of Lady Liberty at this tucked away Red Hook park. ",
     "info": null,
     "categories": [
@@ -1427,7 +1427,7 @@
     "name": "Brooklyn Glass",
     "lat": 40.6691314,
     "lon": -73.9939402,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Brooklyn_Glass_%2832623%29.jpg/1280px-Brooklyn_Glass_%2832623%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1440,7 +1440,7 @@
     "name": "Saint Nicholas Antiochian Orthodox Cathedral",
     "lat": 40.6878252,
     "lon": -73.9847697,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Antioch_Cathedral_State_St_summer_jeh.jpg/1280px-Nick_Antioch_Cathedral_State_St_summer_jeh.jpg",
     "description": "serving Middle Eastern Christians; every surface covered in iconography",
     "info": null,
     "categories": [
@@ -1467,7 +1467,7 @@
     "name": "Church of St. Luke & St. Matthew",
     "lat": 40.682702,
     "lon": -73.9672458,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Church_of_St._Luke_and_St._Matthew_from_north.jpg/1280px-Church_of_St._Luke_and_St._Matthew_from_north.jpg",
     "description": "\"The Church of St. Luke and St. Matthew is the largest Episcopal Church building in the Diocese of Long Island. Architect John Welch was commissioned to design the church after a fire in 1887 destroyed much of the structure. Welch drew inspiration from churches built during the Italian Renaissance, particularly those in Modena and Verona. Many of the windows were commissioned for the church from the Tiffany Studio. The wheel or rose window was given by the children of the Sunday school at the time of the rebuilding in 1890. It is 28 feet in diameter and is one of the larger windows of this type in Brooklyn. In 1981 the New York City Landmarks Preservation Commission designated the Church of St. Luke and St. Matthew as a landmark.<br><br>Funded through a NYCDEP Green Infrastructure Grant, the new green infrastructure network for the Church captures, stores, and recycles on-site stormwater to protect the foundation of the historic building from flooding, while sustaining new public gardens and walkways.\"",
     "info": null,
     "categories": [
@@ -1497,7 +1497,7 @@
     "name": "The Evergreens Cemetery",
     "lat": 40.68389,
     "lon": -73.9011979,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Evergreen_Cemetery_ENY_Bklyn_jeh.jpg/1280px-Evergreen_Cemetery_ENY_Bklyn_jeh.jpg",
     "description": "historic cemetery in the 'rural' style, was incorporated in 1849 and covers 225 acres. Over 500,000 people are buried here, including notables such as tap legend Bill \"Bojangles\" Robinson, jazz musician Lester Young, and painter Martin Heade",
     "info": null,
     "categories": [
@@ -1511,7 +1511,7 @@
     "name": "Kings County Distillery",
     "lat": 40.6995644,
     "lon": -73.9801965,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Kings_County_Distillery_HDR_2022_jeh.jpg/1280px-Kings_County_Distillery_HDR_2022_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1553,7 +1553,7 @@
     "name": "Jane Bailey Memorial Garden",
     "lat": 40.6877751,
     "lon": -73.9582771,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Jane_Bailey_Memorial_Garden%2C_Brooklyn%2C_New_York%2C_US.jpg/1280px-Jane_Bailey_Memorial_Garden%2C_Brooklyn%2C_New_York%2C_US.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1567,7 +1567,7 @@
     "name": "Co-Cathedral of St. Joseph",
     "lat": 40.6806183,
     "lon": -73.966431,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Joseph_RCC_856_Pacific_St_jeh.jpg/1280px-Joseph_RCC_856_Pacific_St_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1621,7 +1621,7 @@
     "name": "Cadman Plaza Park",
     "lat": 40.6984759,
     "lon": -73.9904687,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/USA-NYC-Cadman_Plaza_Park.jpg/1280px-USA-NYC-Cadman_Plaza_Park.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1649,7 +1649,7 @@
     "name": "Our Lady of Lebanon Maronite Catholic Cathedral",
     "lat": 40.6942202,
     "lon": -73.9941115,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Lebanon_Cathedral_tower_BH_jeh.jpg/1280px-Lebanon_Cathedral_tower_BH_jeh.jpg",
     "description": "doors from SS Normandie, French liner that sunk in 1942",
     "info": null,
     "categories": [
@@ -1676,7 +1676,7 @@
     "name": "The Barkaloo Cemetery",
     "lat": 40.6368074,
     "lon": -74.0345172,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Barkuloo_Cemetery_in_Bay_Ridge%2C_Brooklyn_1-2023.jpg/1280px-Barkuloo_Cemetery_in_Bay_Ridge%2C_Brooklyn_1-2023.jpg",
     "description": "smallest cemetery in brooklyn - only 2 people",
     "info": null,
     "categories": [
@@ -1705,7 +1705,7 @@
     "name": "Lookout Hill",
     "lat": 40.6577778,
     "lon": -73.9719444,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Lookout_Hill.jpg/1280px-Lookout_Hill.jpg",
     "description": "\"In Prospect Park at the base of Lookout Hill there’s a monument that commemorates the valiant stand, in 1776, of the Maryland 400. They delayed an overwhelming British advance, allowing the Americans, led by Washington, to retreat, saving the Army. Up the hill, in winter, it’s possible to see Coney Island. But it really comes to life in April and May, when thousands of migrating birds adorn every tree and bush: sparrows, tanagers, flycatchers, hummingbirds. You can see 100 species in one day\"",
     "info": null,
     "categories": [
@@ -1721,7 +1721,7 @@
     "name": "New York Transit Museum",
     "lat": 40.6905275,
     "lon": -73.9898178,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/The_Squirrels_0043.jpg/1280px-The_Squirrels_0043.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1749,7 +1749,7 @@
     "name": "Prospect Park Boathouse + Audubon Center",
     "lat": 40.6608215,
     "lon": -73.9652444,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Prospect_Park_boathouse_%2861446p%29.jpg/1280px-Prospect_Park_boathouse_%2861446p%29.jpg",
     "description": "inspired by 16th century Venetian Library of St Mark",
     "info": null,
     "categories": [
@@ -1790,7 +1790,7 @@
     "name": "Quaker Cemetery",
     "lat": 40.6593127,
     "lon": -73.9726639,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Friends_Quaker_Cemetery.jpg/1280px-Friends_Quaker_Cemetery.jpg",
     "description": "Inside Prospect Park, there are 2,000 gravestones and buried bodies, many older than the park itself. The 10-acre cemetery is the only private property in the park, owned by the Religious Society of Friends, more commonly known as Quakers. Established in 1849, though it is believed there are graves that date to the 1820s. It’s one of the many secrets of New York City to be found inside Prospect Park alone.",
     "info": null,
     "categories": [
@@ -1845,7 +1845,7 @@
     "name": "Our Lady of Perpetual Help Church",
     "lat": 40.6396319,
     "lon": -74.0154736,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/OLPH_north_sun_jeh.jpg/1280px-OLPH_north_sun_jeh.jpg",
     "description": "one of 60 basilicas in the US",
     "info": null,
     "categories": [
@@ -1873,7 +1873,7 @@
     "name": "GBX Gowanus Bay Terminal",
     "lat": 40.6692899,
     "lon": -74.0076108,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/GBX_Gowanus_Bay_Terminal_1.jpg/1280px-GBX_Gowanus_Bay_Terminal_1.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -1902,7 +1902,7 @@
     "name": "Warren Place",
     "lat": 40.6879362,
     "lon": -73.9984861,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Warren_Place_snow_jeh.jpg/1280px-Warren_Place_snow_jeh.jpg",
     "description": "much photographed street - originally built in 19th century as affordable housing",
     "info": null,
     "categories": [
@@ -1930,7 +1930,7 @@
     "name": "Wyckoff-Bennet Homestead",
     "lat": 40.6108391,
     "lon": -73.9513319,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Wyckoff-bennett-homestead.jpg",
     "description": "NHL",
     "info": null,
     "categories": [
@@ -1943,7 +1943,7 @@
     "name": "St. Ann & the Holy Trinity Church",
     "lat": 40.6945037,
     "lon": -73.9924631,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Ann_n_Holy_Trinity_CoE_Montague_St_jeh.jpg/1280px-Ann_n_Holy_Trinity_CoE_Montague_St_jeh.jpg",
     "description": "NHL - \"Site of first figural stained-glass windows in U.S.\"",
     "info": null,
     "categories": [
@@ -1958,7 +1958,7 @@
     "name": "Commandant's House",
     "lat": 40.7023868,
     "lon": -73.980335,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Commandant%27s_House.JPG",
     "description": "NHL  - \"Home to Matthew Perry at the time of his opening of Japan\"",
     "info": null,
     "categories": [
@@ -2043,7 +2043,7 @@
     "name": "Floyd Bennett Field",
     "lat": 40.5910174,
     "lon": -73.8906091,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Runway_Floyd_Bennett_Field.JPG/1280px-Runway_Floyd_Bennett_Field.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -2057,7 +2057,7 @@
     "name": "John Paul Jones Park",
     "lat": 40.6108083,
     "lon": -74.0340919,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/John_Paul_Jones_Park%2C_Brooklyn%2C_New_York%2C_US.jpg/1280px-John_Paul_Jones_Park%2C_Brooklyn%2C_New_York%2C_US.jpg",
     "description": "great view of verrazano & the narrows; gazebo!",
     "info": null,
     "categories": [
@@ -2166,7 +2166,7 @@
     "name": "The Center for Fiction",
     "lat": 40.6868022,
     "lon": -73.9785744,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/The_Center_for_Fiction_%28New_York_Mercantile_Library%29_%2855267414077%29.jpg/1280px-The_Center_for_Fiction_%28New_York_Mercantile_Library%29_%2855267414077%29.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2193,7 +2193,7 @@
     "name": "Stuart Cinema & Cafe",
     "lat": 40.7292358,
     "lon": -73.9592967,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Stuart_Cinema_%26_Cafe.jpg/1280px-Stuart_Cinema_%26_Cafe.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2401,7 +2401,7 @@
     "name": "Camperdown Elm",
     "lat": 40.6604439,
     "lon": -73.9650484,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Camperdown_Elm_PP_winter_jeh.jpg/1280px-Camperdown_Elm_PP_winter_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2496,7 +2496,7 @@
     "name": "Flatbush Reformed Church",
     "lat": 40.6501539,
     "lon": -73.9589433,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Flatbush_DRC_PM_winter_jeh.jpg/1280px-Flatbush_DRC_PM_winter_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2509,7 +2509,7 @@
     "name": "Lesbian Herstory Archives",
     "lat": 40.6618645,
     "lon": -73.9803428,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/484_14th_St_museum_jeh.jpg/1280px-484_14th_St_museum_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2523,7 +2523,7 @@
     "name": "Coney Island History Project",
     "lat": 40.573839,
     "lon": -73.979541,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/06_18_2022_Mermaid_Parade_Coney_Island_History_Project.jpg/1280px-06_18_2022_Mermaid_Parade_Coney_Island_History_Project.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2551,7 +2551,7 @@
     "name": "131 Buckingham Rd",
     "lat": 40.6473457,
     "lon": -73.9645954,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/143_Buckingham_Road_Prospect_Park_South.jpg/1280px-143_Buckingham_Road_Prospect_Park_South.jpg",
     "description": "Ditmas Victorian \"japanese house\"",
     "info": null,
     "categories": [
@@ -2688,7 +2688,7 @@
     "name": "St. Mary Star of the Sea",
     "lat": 40.6768146,
     "lon": -73.9983507,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/St._Mary_Star_of_the_Sea_Brooklyn.jpg/1280px-St._Mary_Star_of_the_Sea_Brooklyn.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2744,7 +2744,7 @@
     "name": "Knickerbocker Field Club",
     "lat": 40.647842,
     "lon": -73.963455,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Knickerbocker_Field_Club_replacement_bldg.JPG/1280px-Knickerbocker_Field_Club_replacement_bldg.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -2813,7 +2813,7 @@
     "name": "Naval Cemetery Landscape",
     "lat": 40.6992601,
     "lon": -73.9630928,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Naval_Cemetery_Landscape%2C_Brooklyn%2C_New_York%2C_US.jpg/1280px-Naval_Cemetery_Landscape%2C_Brooklyn%2C_New_York%2C_US.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2828,7 +2828,7 @@
     "name": "Shirley Chisholm State Park",
     "lat": 40.6430089,
     "lon": -73.8754301,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Shirley_Chisholm_State_Park_td_%282019-07-14%29_101_-_Oyster_Catcher_Trail%2C_Peregrine_Trail.jpg/1280px-Shirley_Chisholm_State_Park_td_%282019-07-14%29_101_-_Oyster_Catcher_Trail%2C_Peregrine_Trail.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -2948,7 +2948,7 @@
     "name": "Most Holy Trinity Cemetery",
     "lat": 40.6886665,
     "lon": -73.9028772,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Most_Holy_Trinity_Cemetery%2C_Brooklyn%2C_New_York%2C_US.jpg/1280px-Most_Holy_Trinity_Cemetery%2C_Brooklyn%2C_New_York%2C_US.jpg",
     "description": "nearly every grave marker is made of tin or copper",
     "info": null,
     "categories": [
@@ -2991,7 +2991,7 @@
     "name": "Endale Arch",
     "lat": 40.6710577,
     "lon": -73.9690506,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Endale_Arch_PP_sun_jeh.jpg/1280px-Endale_Arch_PP_sun_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3100,7 +3100,7 @@
     "name": "1306 Albemarle Rd",
     "lat": 40.6462459,
     "lon": -73.9669786,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/1306_Albemarle_Rd_jeh.JPG/1280px-1306_Albemarle_Rd_jeh.JPG",
     "description": "best halloween decorations",
     "info": null,
     "categories": [
@@ -3156,7 +3156,7 @@
     "name": "The Jackie Robinson House",
     "lat": 40.6481035,
     "lon": -73.927264,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jackie-robinson-house.jpg",
     "description": "NHL",
     "info": null,
     "categories": [
@@ -3184,7 +3184,7 @@
     "name": "Gingerbread House",
     "lat": 40.6278614,
     "lon": -74.0383897,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Entrance_to_the_gingerbread_house_in_Bay_Ridge.jpg/1280px-Entrance_to_the_gingerbread_house_in_Bay_Ridge.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3251,7 +3251,7 @@
     "name": "Greenpoint Library",
     "lat": 40.7259813,
     "lon": -73.9506651,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Greenpoint_Library.jpg/1280px-Greenpoint_Library.jpg",
     "description": "Greenpoint Library and Environmental Education Center is a 15,000-square-foot community library and hub for environmental awareness, activism, and education in the Brooklyn Public Library system. Program elements include reading rooms, dry/wet eco-labs, community event space and meeting rooms, staff spaces, and an extensive outdoor space. Landscapes are integrated into the building on three levels – bioswale and rock outcroppings at the street, a reading garden on the second, and a green roof on the third.",
     "info": null,
     "categories": [
@@ -3280,7 +3280,7 @@
     "name": "Film Noir Cinema",
     "lat": 40.7273005,
     "lon": -73.9515454,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Film_Noir_Cinema.jpg/1280px-Film_Noir_Cinema.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3346,7 +3346,7 @@
     "name": "Herbert Von King Park",
     "lat": 40.689612,
     "lon": -73.946732,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Herbert_Von_King_Park_via_WSM_jeh.jpg/1280px-Herbert_Von_King_Park_via_WSM_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3386,7 +3386,7 @@
     "name": "Holocaust Memorial Park",
     "lat": 40.5824506,
     "lon": -73.953694,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/The_Holocaust_Memorial_Park_HDR_2022_jeh.jpg/1280px-The_Holocaust_Memorial_Park_HDR_2022_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3495,7 +3495,7 @@
     "name": "Alhambra Apartments",
     "lat": 40.6813792,
     "lon": -73.9500051,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Alhambra_Apts_Nostrand_Av_jeh.jpg/1280px-Alhambra_Apts_Nostrand_Av_jeh.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3537,7 +3537,7 @@
     "name": "Sunset Play Center",
     "lat": 40.6469924,
     "lon": -74.0021546,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sunset_Play_Center_ext_jeh_crop.jpg/1280px-Sunset_Play_Center_ext_jeh_crop.jpg",
     "description": "NYC Landmark; landmarked interior",
     "info": null,
     "categories": [
@@ -3579,7 +3579,7 @@
     "name": "Manhattan Beach Park",
     "lat": 40.5768049,
     "lon": -73.942583,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Manhattan_Beach_beach_jeh.JPG/1280px-Manhattan_Beach_beach_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -3606,7 +3606,7 @@
     "name": "Kingsborough Community College",
     "lat": 40.5786707,
     "lon": -73.9351016,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Kingsborough_CC_jeh.JPG/1280px-Kingsborough_CC_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -3675,7 +3675,7 @@
     "name": "Master Theater",
     "lat": 40.5784015,
     "lon": -73.958527,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D0%B8%D1%83%D0%BC.jpg/1280px-%D0%A2%D0%B5%D0%B0%D1%82%D1%80_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D0%B8%D1%83%D0%BC.jpg",
     "description": "",
     "info": null,
     "categories": [
@@ -3753,7 +3753,7 @@
     "name": "Elsewhere",
     "lat": 40.709411,
     "lon": -73.923169,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/JLin_performing_at_Elsewhere_in_Brooklyn%2C_New_York%2C_on_August_8%2C_2021.jpg/1280px-JLin_performing_at_Elsewhere_in_Brooklyn%2C_New_York%2C_on_August_8%2C_2021.jpg",
     "description": "AI: A multi-room music complex that punches above its weight nationally. You might catch an underground DJ one night and a future indie headliner the next. Feels current without being obnoxious about it.",
     "info": null,
     "categories": [
@@ -3915,7 +3915,7 @@
     "name": "Adams Street Library",
     "lat": 40.7040753,
     "lon": -73.9883644,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Adams_Street_branch_of_the_Brooklyn_Public_Library.jpg/1280px-Adams_Street_branch_of_the_Brooklyn_Public_Library.jpg",
     "description": "The first new library built in Brooklyn since 1983. Designed by WORK Architecture Company (“WORKac”), and built by Shawmut Design & Construction, the modern, playful interior provides the perfect place to read, work, and gather with neighbors. Fronting Brooklyn Bridge Park, Adams Street Library offers stunning views of the Brooklyn and Manhattan Bridges and downtown Manhattan from 15-foot windows. The new library includes designated spaces for children and teens, flexible meeting rooms, and programming space with modern technology.",
     "info": null,
     "categories": [
@@ -3957,7 +3957,7 @@
     "name": "Prison Ship Martyrs Monument",
     "lat": 40.6917937,
     "lon": -73.9755288,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Prison_Ship_Martyrs%27_Monument_from_southwest.jpg/1280px-Prison_Ship_Martyrs%27_Monument_from_southwest.jpg",
     "description": "a war memorial at Fort Greene Park that commemorates more than 11,500 American prisoners of war who died in captivity aboard British prison ships during the American Revolutionary War. The remains of a small fraction of those who died on the ships are interred in a crypt beneath its base",
     "info": null,
     "categories": [
@@ -4119,7 +4119,7 @@
     "name": "Powerhouse Arts",
     "lat": 40.6764243,
     "lon": -73.9885252,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Powerhouse_Arts.jpg/1280px-Powerhouse_Arts.jpg",
     "description": "Powerhouse Arts is a nonprofit organization committed to creative expression housed in a purpose-built facility that was once the Brooklyn Rapid Transit Company’s central power station. Meet the extended network of art and fabrication professionals and educators who work together to co-create and share artistic practices vital to the well-being of artists and the communities to which they belong.",
     "info": null,
     "categories": [
@@ -4187,7 +4187,7 @@
     "name": "The Brooklyn Trust Company Building",
     "lat": 40.6945075,
     "lon": -73.9921493,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Brooklyn_Heights_May_2023_62.jpg/1280px-Brooklyn_Heights_May_2023_62.jpg",
     "description": "landmarked interior. Also an exterior landmark and a National Registered Historic Place",
     "info": null,
     "categories": [
@@ -4202,7 +4202,7 @@
     "name": "9 Dekalb Ave",
     "lat": 40.6903851,
     "lon": -73.9825343,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_Brooklyn_Tower_010.jpg/1280px-The_Brooklyn_Tower_010.jpg",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -4217,7 +4217,7 @@
     "name": "175 Broadway",
     "lat": 40.7103067,
     "lon": -73.9625705,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Billyb_Sav_Bank_dome_bright_jeh.JPG/1280px-Billyb_Sav_Bank_dome_bright_jeh.JPG",
     "description": "landmarked interior",
     "info": null,
     "categories": [
@@ -4262,7 +4262,7 @@
     "name": "Senator Street Historic District",
     "lat": 40.63645,
     "lon": -74.0243556,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/93/Senator_Street_Front.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -4344,7 +4344,7 @@
     "name": "770 Eastern Pkwy",
     "lat": 40.6690693,
     "lon": -73.9428047,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%D7%9E%D7%A8%D7%9B%D7%96_%D7%97%D7%91-%D7%93_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99_770.JPG/1280px-%D7%9E%D7%A8%D7%9B%D7%96_%D7%97%D7%91-%D7%93_%D7%94%D7%A2%D7%95%D7%9C%D7%9E%D7%99_770.JPG",
     "description": "Headquarters of the world's fourth largest Hasidic sect and the first of many \"770s\" around the world. ",
     "info": null,
     "categories": [
@@ -4358,7 +4358,7 @@
     "name": "Studebaker Building",
     "lat": 40.6729195,
     "lon": -73.9539377,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Studebaker_Building_Brooklyn_medallion.jpg/1280px-Studebaker_Building_Brooklyn_medallion.jpg",
     "description": "This neo-Gothic former auto showroom is one of the few remaining reminders of Brooklyn's \"Automobile Row.\" ",
     "info": null,
     "categories": [
@@ -4412,7 +4412,7 @@
     "name": "Avenue H",
     "lat": 40.6297251,
     "lon": -73.9616534,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Avehbrighton.jpg",
     "description": "This unusual subway stop was originally a real estate office. ",
     "info": null,
     "categories": [
@@ -4466,7 +4466,7 @@
     "name": "Sunny's",
     "lat": 40.6756944,
     "lon": -74.0168722,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/%22BAR%22_sign_outside_Sunny%27s.jpg/1280px-%22BAR%22_sign_outside_Sunny%27s.jpg",
     "description": "Once a popular watering hole among longshoremen and shipyard workers, this neighborhood treasure spans more than 100 years of Red Hook history. ",
     "info": null,
     "categories": [
@@ -4710,7 +4710,7 @@
     "name": "St. Cecilia's Roman Catholic Church",
     "lat": 40.7201233,
     "lon": -73.9421695,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Cecilia%27s_RCC_GP_jeh.JPG/1280px-Cecilia%27s_RCC_GP_jeh.JPG",
     "description": "",
     "info": null,
     "categories": [
@@ -4933,7 +4933,7 @@
     "name": "Brooklyn War Memorial",
     "lat": 40.6984595,
     "lon": -73.9906703,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Cadman_Plaza_-_Brooklyn_War_Memorial_%2848228040091%29.jpg/1280px-Cadman_Plaza_-_Brooklyn_War_Memorial_%2848228040091%29.jpg",
     "description": "This memorial is dedicated to the more than 300,000 heroic men and women of the borough of Brooklyn who served in World War II. Inside are displayed approximately 11,500 names of Brooklyn service members who died during the war. The two massive exterior high relief figures that depict a male warrior on the left and a female with child to the right, symbols of victory and family.",
     "info": null,
     "categories": [
@@ -4977,7 +4977,7 @@
     "name": "Basilica of Regina Pacis",
     "lat": 40.6267613,
     "lon": -74.003395,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Basilica_Regina_Pacis_Shrine.jpg",
     "description": "church built partly with funds raised by Joseph Profaci, boss of what would become the Colombo crime family. he is supposedly portrayed in the church's mural. in the 50s , two gem-encrusted crowns, made with the jewelery donated by the congregatioin an then melted down, were flown to Rome to be blessed by the pope. upon their return they were stolen by a local thief. Profaci had the thief killed and the crowns returned. [11 years later they were stolen again, and again returned with the Mob's help - now they are rarely left out on display]",
     "info": null,
     "categories": [
@@ -4991,7 +4991,7 @@
     "name": "Josef Pilsudski Institute of America",
     "lat": 40.7299287,
     "lon": -73.9550229,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Instytut_Pilsudskiego_Sala.JPG",
     "description": "AI: A niche but meaningful stop if you’re interested in Greenpoint’s deep Polish heritage. Not visually striking, but culturally important.",
     "info": null,
     "categories": [
