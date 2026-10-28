@@ -1070,7 +1070,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "quirky"
     ],
     "url": null,
     "id": "manhattan_magic_jewelry"
@@ -2963,7 +2963,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping",
+"quirky"
     ],
     "url": null,
     "id": "manhattan_casey_rubber_stamps"
@@ -2989,7 +2990,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "http://www.ps122.com",
     "id": "manhattan_performance_space_new_york"
@@ -10590,7 +10591,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art",
+     "shopping"
     ],
     "url": null,
     "id": "manhattan_philip_williams_posters"
@@ -10603,7 +10605,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_korin"
@@ -10989,7 +10991,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_jungs_dried_beef_inc"
@@ -11002,7 +11004,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_y_nh_ng_chopsticks"
@@ -11174,7 +11176,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping",
+"quirky"
     ],
     "url": null,
     "id": "manhattan_fountain_pen_hospital"
@@ -11187,7 +11190,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_balloon_saloon"
@@ -11296,7 +11299,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_re_alabayan_re_al"
