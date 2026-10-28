@@ -5908,20 +5908,6 @@
     "id": "manhattan_henderson_place"
   },
   {
-    "name": "Museum of Comic and Cartoon Art",
-    "lat": 40.764749,
-    "lon": -73.966888,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "museum",
-      "art"
-    ],
-    "url": null,
-    "id": "manhattan_museum_of_comic_and_cartoon_art"
-  },
-  {
     "name": "Pasteur Pharmacy/Newton-Timmermann Pharmacy",
     "lat": 40.764305,
     "lon": -73.966874,
