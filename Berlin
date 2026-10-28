@@ -446,7 +446,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg/1280px-U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg",
     "description": "A tour of underground Berlin takes you through WWII air raid shelters and tunnels used to smuggle people out of East Germany. ",
     "info": null,
-    "categories": ["historic", "tour"],
+    "categories": ["historic", "tour", "localhighlight],
     "url": "https://www.berliner-unterwelten.de",
     "id": "berlin_berlin_underworld"
   },
@@ -1392,7 +1392,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Museo_nel_Kulturbrauerei.jpg/1280px-Museo_nel_Kulturbrauerei.jpg",
     "description": "",
     "info": null,
-    "categories": ["museum", "historic"],
+    "categories": ["museum", "historic", "localhighlight"],
     "url": "https://www.hdg.de/kulturbrauerei",
     "id": "berlin_museum_kulturbrauerei"
   },
@@ -1502,7 +1502,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg/1280px-Clp_20080821_Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen_Eingang.jpg",
     "description": "Former Stasi prison where political prisoners were interrogated—often guided by former inmates.\nWhy it stands out: raw, personal, and deeply unsettling.\nVerdict: One of the most powerful historical experiences in Berlin.",
     "info": null,
-    "categories": ["museum", "historic"],
+    "categories": ["museum", "historic", "localhighlight"],
     "url": "https://www.stiftung-hsh.de",
     "id": "berlin_hohenschonhausen_memorial"
   },
