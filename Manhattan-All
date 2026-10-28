@@ -7513,9 +7513,7 @@
     "description": "The highest point on Manhattan Island was, unsurprisingly, also the site of Fort Washington, a Revolutionary War fort. Nothing remains of it; the spot, now surrounded by apartment buildings, instead holds Bennett Park today, named for news paper publisher James Gordon Bennett, Sr. because he happened to own this land when he died in 1872. A decorative cannon still adorning the park is a stern reminder of the day, November 16, 1776, when the fort fell into British hands. And nearby, to commemorate the bicentennial of Washington’s birth in 1732, grows an American elm, planted in 1932",
     "info": null,
     "categories": [
-      "park",
-      "drinking",
-      "architecture"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_bennett_park"
@@ -7557,8 +7555,7 @@
     "info": null,
     "categories": [
       "museum",
-      "landmark",
-      "drinking"
+      "landmark"
     ],
     "url": "https://dyckmanfarmhouse.org/",
     "id": "manhattan_dyckman_farmhouse_museum"
@@ -10754,7 +10751,6 @@
     "info": null,
     "categories": [
       "landmark",
-      "drinking",
       "architecture"
     ],
     "url": null,
@@ -11298,8 +11294,7 @@
     "description": "Tended by 50 volunteers and managed by the South-Water-Front Neighborhood Association, the garden is open to the public on Saturdays and Sundays, dawn to dusk, April to November",
     "info": null,
     "categories": [
-      "park",
-      "drinking"
+      "park"
     ],
     "url": null,
     "id": "manhattan_fishbridge_park_garden"
@@ -11435,9 +11430,7 @@
     "description": "Long the exclusive domain of birds and vagabonds, this little-known Central Park peninsula is open to the public once more.",
     "info": null,
     "categories": [
-      "park",
-      "drinking",
-      "architecture"
+      "park"
     ],
     "url": null,
     "id": "manhattan_hallett_nature_sanctuary"
@@ -11702,7 +11695,6 @@
     "info": null,
     "categories": [
       "park",
-      "drinking",
       "art"
     ],
     "url": null,
