@@ -604,7 +604,7 @@
     "description": "One of the city’s oldest watering holes was originally the home of a famous James Brown (not that one).",
     "info": null,
     "categories": [
-      "architecture"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_ear_inn"
@@ -1371,8 +1371,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "shopping",
-      "architecture"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_halloween_adventure_shop"
@@ -1813,20 +1812,6 @@
     "id": "manhattan_murray_s_cheese"
   },
   {
-    "name": "Unoppressive Non-imperialist Bargain Books",
-    "lat": 40.730018,
-    "lon": -74.003083,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "bookstore",
-      "drinking"
-    ],
-    "url": null,
-    "id": "manhattan_unoppressive_non_imperialist_bargain_books"
-  },
-  {
     "name": "Monday Night Magic",
     "lat": 40.729628,
     "lon": -74.001161,
@@ -2256,9 +2241,7 @@
     "description": "“When I’m in Chinatown, I make sure to stop by Chop Suey Club to check out super-unique pieces by Chinese contemporary designers,” says curator and writer Kiara Cristina Ventura. “Each piece in here is a work of art — it’s always a vibe.” Located on the corner of Hester and Orchard, the second-floor space was known in pre-pandemic times for its packed Chinese New Year and Mooncake parties. Now, you can still shop for 3-D-printed plaster vases by artist Joey Yu (from $245), a pomelo-scented red-dragon candle by Shanghainese label Yueqi Qi ($70), and pieces by Chop Suey Club’s own line, including a ceramic incense holder shaped to look like a lotus flower ($38). There’s one wall, called the “Dollar Store,” devoted to particularly inexpensive items, like classic Chinese-restaurant tip trays with gold “Thank You” lettering ($5).",
     "info": null,
     "categories": [
-      "food",
-      "shopping",
-      "art"
+       "shopping"
     ],
     "url": null,
     "id": "manhattan_chop_suey_club"
@@ -3248,8 +3231,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "drinking",
-      "theater"
+            "theater"
     ],
     "url": null,
     "id": "manhattan_the_public_theater"
@@ -3525,9 +3507,7 @@
     "description": "the pocket-sized Broadway Presbyterian Church. Unlike its sprawling neighbor, Riverside Church, a few streets over, Broadway Presbyterian stands humbly on a fraction of sidewalk, with a mere four stairs leading up to its fire-engine-red doors. But inside is a vibrant sanctuary for classical music. Radial pews of dark wood sit below stained-glass windows and contemporary art; performances range from Baroque standards to new modern jewels. The church frequently hosts concerts by Music for Food, an initiative dedicated to combatting food insecurity: admission is free, but donations go to Broadway Community, a local organization that serves those experiencing homelessness and poverty in New York City. Small church, big impact",
     "info": null,
     "categories": [
-      "religious",
-      "food",
-      "drinking"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_broadway_presbyterian_church"
@@ -3566,7 +3546,6 @@
     "description": "In the back of a nondescript sports bar is a museum-worthy mural by legendary cartoonists.",
     "info": null,
     "categories": [
-      "museum",
       "drinking",
       "art"
     ],
@@ -3609,9 +3588,9 @@
     "description": "Rat sculptures try to infiltrate the Graybar Building in an architectural tribute to New York City's nautical history.",
     "info": null,
     "categories": [
-      "drinking",
+      
       "architecture",
-      "art"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_420_lexington_ave"
@@ -3849,8 +3828,7 @@
     "info": null,
     "categories": [
       "landmark",
-      "religious",
-      "drinking"
+      "religious"
     ],
     "url": "http://www.stbarts.org/",
     "id": "manhattan_st_bartholomew_s_church"
@@ -3917,9 +3895,7 @@
     "description": "The spacious, bi-level marble lobby of the Lotte New York Palace not only evokes grandeur but also harmoniously blends the two elements of this storied 909-room property: the landmark Villard Mansion (on Madison Avenue) and its contemporary 55-story hotel tower. The Madison Avenue courtyard entrance to the hotel, which once welcomed carriages, leads to the hotel’s grand staircase and lower lobby below. Off the stately foyer are two event spaces, the oval Villard Ballroom and Reid Salon. One especially impressive feature is its restored red Verona marble fireplace, originally designed for the mansion by Augustus Saint-Gaudens. With classic columns, rich woods and warm carpeting, the reception area and private entranceway to The Towers are located in the lower lobby. Take a peek: Visitors can enjoy cocktails and light snacks under the gilt ceilings of The Gold Room; located within the Villard Mansion; stop in at Troubles Trust, the bar tucked under the grand staircase; enjoy a personalized drinking experience by reservation at Rarities, or enjoy seasonal baked goods and other indulgences at Pomme Palais on the ground floor.",
     "info": null,
     "categories": [
-      "landmark",
-      "drinking",
-      "shopping"
+      "landmark"
     ],
     "url": "http://www.lottenypalace.com",
     "id": "manhattan_lotte_new_york_palace"
@@ -4132,7 +4108,6 @@
     "info": null,
     "categories": [
       "park",
-      "drinking",
       "architecture"
     ],
     "url": null,
@@ -4319,7 +4294,6 @@
     "info": null,
     "categories": [
       "park",
-      "drinking",
       "art"
     ],
     "url": null,
@@ -4386,9 +4360,8 @@
     "description": "Commercial office design was forever changed with the completion of SOM’s Lever House in 1952 as the first International Style building in the United States. In a city characterized by masonry and brick, the blue-green glass and steel facade reimagined the potential of office buildings and demonstrated that successful office design could prioritize its community. Instead of designating the ground floor for retail, we created a public space. Rather than maximizing rentable floor area, we placed the office floors atop an elevated, horizontal base and set them perpendicular to Park Avenue. This design established a light and airy plaza and introduced a new relationship between the office and public realm. Since then, the landmark has been under the care of SOM for more than 70 years, a level of stewardship that is rare in the architectural profession. SOM restored its facade in 2001, and returned again in 2023 to complete the building’s restoration for the 21st century. Join Principal Frank Mahan of a tour of the completely updated plaza and outdoor spaces, a lovingly restored lobby, and new mechanical systems that improve energy efficiency; and witness how the project has recaptured this midcentury icon’s original splendor as Park Avenue’s premier boutique office.",
     "info": null,
     "categories": [
-      "park",
-      "landmark",
-      "drinking"
+
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_lever_house"
@@ -4588,8 +4561,7 @@
     "description": "in lobby: Generated by a computer program using data points influenced by the season, sunrise and sunset, “Continuous Life and Death at the Now of Eternity II” (free) is a digital garden of seasonal blossoms such as chrysanthemums, azaleas and hydrangeas. The evolving garden, which never repeats but echoes the real weather conditions outside, is displayed on a roughly 27-by-16-foot public screen in the lobby of 1 Vanderbilt, a skyscraper next door to Grand Central Terminal. The work, which dominates a route frequented by commuters, seems designed to be viewed consistently by the same people across seasons and years.",
     "info": null,
     "categories": [
-      "park",
-      "drinking",
+      "landmark", 
       "architecture"
     ],
     "url": "http://onevanderbilt.com/",
@@ -4656,7 +4628,6 @@
     "description": "Six women suffragists built “The Peoples’ Hall” – a place open to all where people from all walks of life could gather and hear about the issues of the day in an open forum. The acoustically superior auditorium was designed using the most advanced design technology of its day by the nation’s most revered architecture firm. Shortly after its dedication the hall hosted its first concert, kicking off a proud tradition of milestone musical performances by artists ranging from Billie Holiday to Bob Dylan. The Town Hall also played host to millions of nationwide radio listeners from 1935-1955 on the public affairs program, “America’s Town Meeting of the Air.”",
     "info": null,
     "categories": [
-      "drinking",
       "theater",
       "architecture"
     ],
@@ -4777,7 +4748,7 @@
     "description": "Hidden in plain sight on a pair of Manhattan subway tunnels are a pair of public instruments that sing to each other.",
     "info": null,
     "categories": [
-      "drinking"
+      "art"
     ],
     "url": null,
     "id": "manhattan_reach_new_york"
@@ -5081,9 +5052,7 @@
     "description": "The East Midtown Greenway is an in-water linear park from East 53rd to East 61st Streets that provides public access to Manhattan’s East River where the FDR highway previously dominated the waterfront. Completed in 2023, the nearly half-mile pedestrian esplanade is built over the water, rising above 2100 sea level rise, and links to the larger esplanade system that encircles Manhattan. The design minimizes visual obstruction by utilizing structural interstitial spaces to conceal substantial soil volumes for a robust planting design and to allow large trees to anchor naturally against wind. Stormwater is captured and flows within the structure to passively irrigate plantings selected to withstand the harsh conditions of the location, including salts, winds, and periodic drought. The park’s design makes the most of variations in slope, elevation, and orientation between the pedestrian and cycling paths to create different kinds of spaces and take advantage of spectacular views along the narrow length of the park. Project features include overlooks, seating nooks, lush planting, and environmental integrated art from Stacy Levy.",
     "info": null,
     "categories": [
-      "park",
-      "drinking",
-      "art"
+      "park"
     ],
     "url": null,
     "id": "manhattan_east_midtown_greenway"
@@ -5124,8 +5093,6 @@
     "description": "The original Pennsylvania Station, designed by McKim, Mead & White, symbolized the lost beauty of rail travel and public space in the United States following its demolition in 1963. The office building that replaced it lacked a connection to the city, didn’t accommodate the public, and was failing to provide for its tenants. MdeAS Architects and Vornado Realty Trust envisioned a new building on the site that embodied the most progressive ideals in the workplace typology today. After many studies, it was determined that preserving the existing structure could actually create the best environment while reducing carbon emissions and costs. Today, PENN 2 has been transformed with a new high-performance façade, an iconic free-spanning addition called The Bustle, a 288,000-diode LED art installation, 75,000 square feet of new outdoor area, and world class amenities and office space. The tour will go inside The Bustle, onto the terraces, and access exclusive amenities, including the 17,000 sq ft roof park.",
     "info": null,
     "categories": [
-      "park",
-      "drinking",
       "architecture"
     ],
     "url": null,
@@ -5222,8 +5189,7 @@
     "description": "Dvorak Hall - A small piece of the composer's New York home lives on in the center of Czech culture in Manhattan. The five-story building was designed by William C. Frohne in the Renaissance Revival style, and built in 1896. It is a rare survivor of the many social halls built in the nineteenth century for New York City’s immigrant ethnic communities. Bohemian National Hall has been an important center for Czech culture in New York City for more than one hundred years. Since its beginning it has served as a focal point for its community, offering ethnic food, Czech language and history classes, as well as space for the community to meet and hold various events. Today, Bohemian National Hall serves as a significant reminder of the major working-class ethnic enclave that once flourished in Yorkville. In 2001, ownership of the Bohemian National Hall was transferred from the Bohemian Benevolent & Literary Association (BBLA) to the Czech Republic. To emphasize the building’s link with the Czech Republic, it now shares its premises with the Consulate General of the Czech Republic and the Czech Center New York.",
     "info": null,
     "categories": [
-      "food",
-      "drinking",
+    
       "architecture"
     ],
     "url": null,
@@ -5500,7 +5466,7 @@
     "description": "Roosevelt House — the former double townhouse of Franklin, Eleanor and Sara Delano Roosevelt, and now owned by Hunter College — offers visitors a chance to get closer to a family as unique as the city they inhabited, and to explore the private spaces where some of the most iconic public policy of the 20th century was shaped. tours for individuals on saturday",
     "info": null,
     "categories": [
-      "drinking"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_roosevelt_house_public_policy_institute_at_hunter_college"
@@ -5980,7 +5946,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "drinking"
+      "museum"
     ],
     "url": "http://www.elmuseo.org",
     "id": "manhattan_el_museo_del_barrio"
@@ -6034,8 +6000,7 @@
     "description": "The New York Academy of Medicine, a neo-Romanesque building by York and Sawyer, was constructed 1925–1926, and is an Art Deco interpretation of the Romanesque style of architecture. The Academy is also home to one of the largest history of medicine libraries in the country, a library that has been open to the public for use since 1878.",
     "info": null,
     "categories": [
-      "bookstore",
-      "drinking",
+      "museum",
       "architecture"
     ],
     "url": "http://www.nyam.org",
@@ -6247,8 +6212,7 @@
     "info": null,
     "categories": [
       "park",
-      "landmark",
-      "drinking"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_costantino_nivola_s_playground"
@@ -6300,7 +6264,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "drinking"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_bard_graduate_center"
@@ -6435,9 +6399,7 @@
     "description": "From this desk Al Hirschfeld drew his influential caricatures of the 20th century's Broadway stars.",
     "info": null,
     "categories": [
-      "bookstore",
-      "drinking",
-      "art"
+      "bookstore"
     ],
     "url": "https://www.nypl.org/locations/lpa",
     "id": "manhattan_the_new_york_public_library_for_the_performing_arts_dorothy_and_lewis_b_cullman_center"
@@ -7053,7 +7015,6 @@
     "info": null,
     "categories": [
       "religious",
-      "drinking",
       "architecture"
     ],
     "url": null,
@@ -9854,19 +9815,6 @@
     ],
     "url": null,
     "id": "manhattan_33_thomas_street"
-  },
-  {
-    "name": "Hall des Lumières",
-    "lat": 40.714028,
-    "lon": -74.005091,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "architecture"
-    ],
-    "url": null,
-    "id": "manhattan_hall_des_lumi_res"
   },
   {
     "name": "Wall Street Bath & Spa 88",
