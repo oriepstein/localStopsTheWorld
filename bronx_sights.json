@@ -78,7 +78,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "recreation"
+      "sports"
     ],
     "url": "https://rockingtheboat.org/",
     "id": "bronx_rocking_the_boat"
@@ -467,7 +467,7 @@
     "description": "landmarked interior",
     "info": null,
     "categories": [
-      "recreation",
+      "sports",
       "architecture",
       "historic"
     ],
@@ -963,7 +963,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "recreation"
+      "sports"
     ],
     "url": "https://www.nychorse.com/",
     "id": "bronx_bronx_equestrian_center_inc"
@@ -1141,7 +1141,7 @@
     "info": null,
     "categories": [
       "park",
-      "recreation"
+      "sports"
     ],
     "url": "https://parks.ny.gov/visit/state-parks/roberto-clemente-state-park",
     "id": "bronx_roberto_clemente_state_park"
@@ -1237,7 +1237,7 @@
     "description": "free canoeing",
     "info": null,
     "categories": [
-      "recreation",
+      "sports",
       "architecture"
     ],
     "url": "https://bronxriver.org/visit-the-river/explore-the-greenway/river-house",
@@ -1892,7 +1892,7 @@
     "info": null,
     "categories": [
       "park",
-      "recreation"
+      "sports"
     ],
     "url": "https://www.nycgovparks.org/parks/hunts-point-riverside-park",
     "id": "bronx_hunts_point_riverside_park"

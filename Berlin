@@ -105,7 +105,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Berliner_Dom_von_Humboldt-Box.jpg/1280px-Berliner_Dom_von_Humboldt-Box.jpg",
     "description": "Beneath the impressive baroque cathedral that rises from the center of Berlin lies the largest collection of Prussian royals in the world.  ",
     "info": null,
-    "categories": ["historic", "landmark", "church"],
+    "categories": ["historic", "landmark", "religious"],
     "url": "https://www.berliner-dom.de",
     "id": "berlin_berlin_cathedral"
   },
@@ -446,7 +446,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg/1280px-U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg",
     "description": "A tour of underground Berlin takes you through WWII air raid shelters and tunnels used to smuggle people out of East Germany. ",
     "info": null,
-    "categories": ["historic", "tour", "localhighlight],
+    "categories": ["historic", "tour", "localhighlight"],
     "url": "https://www.berliner-unterwelten.de",
     "id": "berlin_berlin_underworld"
   },
@@ -600,7 +600,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Ged%C3%A4chtniskirche1.JPG/1280px-Ged%C3%A4chtniskirche1.JPG",
     "description": "An imperial church bombed to ruins during WWII now stands as a jagged memorial. ",
     "info": null,
-    "categories": ["historic", "church", "landmark"],
+    "categories": ["historic", "religious", "landmark"],
     "url": "https://www.gedaechtniskirche-berlin.de",
     "id": "berlin_kaiser_wilhelm_memorial_church"
   },
@@ -611,7 +611,7 @@
     "imageURL": null,
     "description": "This futuristic German spa allows visitors to float in a pool of salt water while zoning out to underwater techno.",
     "info": null,
-    "categories": ["spa", "wellness"],
+    "categories": ["sports"],
     "url": "https://www.liquidrom-berlin.de",
     "id": "berlin_liquidrom"
   },
@@ -644,7 +644,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/St._Mary%27s_Church_%28Marienkirche%29_%2828416367080%29.jpg/1280px-St._Mary%27s_Church_%28Marienkirche%29_%2828416367080%29.jpg",
     "description": "At one of Berlin's oldest churches, visitors can place mosaic tiles to help restore a medieval mural.",
     "info": null,
-    "categories": ["historic", "church"],
+    "categories": ["historic", "religious"],
     "url": "https://www.marienkirche-berlin.de",
     "id": "berlin_st_marys_church"
   },
@@ -1029,7 +1029,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Neue_Synagoge%2C_Berlin-Mitte%2C_160328%2C_ako.jpg/1280px-Neue_Synagoge%2C_Berlin-Mitte%2C_160328%2C_ako.jpg",
     "description": "",
     "info": null,
-    "categories": ["historic", "landmark", "church"],
+    "categories": ["historic", "landmark", "religious"],
     "url": "https://www.centrumjudaicum.de",
     "id": "berlin_new_synagogue"
   },
@@ -1062,7 +1062,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Berlin%2C_Franz%C3%B6sischer_Dom_--_2013_--_4581.jpg/1280px-Berlin%2C_Franz%C3%B6sischer_Dom_--_2013_--_4581.jpg",
     "description": "",
     "info": null,
-    "categories": ["historic", "church"],
+    "categories": ["historic", "religious"],
     "url": "https://www.franzoesischer-dom.de",
     "id": "berlin_franzosischer_dom"
   },
@@ -1073,7 +1073,7 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": ["historic", "church"],
+    "categories": ["historic", "religious"],
     "url": null,
     "id": "berlin_neue_kirche"
   },
@@ -1249,7 +1249,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg/1280px-St-Agnes-Alexandrinenstr-Berlin-Kreuzberg-03-2017.jpg",
     "description": "church built in Brutalist style, now contemporary art gallery",
     "info": null,
-    "categories": ["art", "landmark", "church"],
+    "categories": ["art", "landmark", "religious"],
     "url": "https://www.st-agnes.de",
     "id": "berlin_st_agnes"
   },
@@ -1326,7 +1326,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/12Apostles_Church_B-Schoeneberg_01.jpg/1280px-12Apostles_Church_B-Schoeneberg_01.jpg",
     "description": "windows made from liqour bottles",
     "info": null,
-    "categories": ["church", "landmark"],
+    "categories": ["religious", "landmark"],
     "url": null,
     "id": "berlin_zwolf_apostel_kirchengemeinde"
   },
@@ -1436,7 +1436,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Badeschiff_Berlin%2C_Germany_Aug_08%2C_2025_09-42-53_PM.jpeg/1280px-Badeschiff_Berlin%2C_Germany_Aug_08%2C_2025_09-42-53_PM.jpeg",
     "description": "Floating swimming pool within a moored vessel",
     "info": null,
-    "categories": ["wellness", "landmark"],
+    "categories": ["sports", "landmark"],
     "url": "https://www.arena.berlin/veranstaltungsort/badeschiff",
     "id": "berlin_badeschiff"
   },
@@ -1546,7 +1546,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Berlin_Synagoge_Rykestrasse_Eingang.JPG/1280px-Berlin_Synagoge_Rykestrasse_Eingang.JPG",
     "description": "Germany's largest synagogue—beautiful, restored, and deeply symbolic of Berlin's Jewish life and history.",
     "info": null,
-    "categories": ["historic", "church", "landmark"],
+    "categories": ["historic", "religious", "landmark"],
     "url": null,
     "id": "berlin_synagoge_rykestrasse"
   },
@@ -1568,7 +1568,7 @@
     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Sehitlik1_Moschee_Berlin.JPG",
     "description": "Berlin's most beautiful mosque—ornate Ottoman design, richly decorated interiors, and a welcoming atmosphere for visitors. A striking contrast to the city's industrial aesthetic.\n\nWhy go: Architectural standout, culturally meaningful\nVerdict: Underrated highlight",
     "info": null,
-    "categories": ["historic", "church", "landmark"],
+    "categories": ["historic", "religious", "landmark"],
     "url": "https://www.sehitlik.de",
     "id": "berlin_sehitlik_camii"
   },
@@ -1689,7 +1689,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/St_Michael_Berlin_mit_Luisenstaedtischer_Kanal.JPG/1280px-St_Michael_Berlin_mit_Luisenstaedtischer_Kanal.JPG",
     "description": "A haunting, partially destroyed church left as a quiet reminder of WWII. Not spectacular, but quietly powerful if you stumble upon it.\nGood for atmosphere, not a destination on its own.",
     "info": null,
-    "categories": ["historic", "church"],
+    "categories": ["historic", "religious"],
     "url": null,
     "id": "berlin_st_michaels_church"
   },
@@ -1711,7 +1711,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Frohnau_Edelhofdamm_Das_Buddhistische_Haus-001.JPG/1280px-Frohnau_Edelhofdamm_Das_Buddhistische_Haus-001.JPG",
     "description": "one of the most unexpected things to find in northern Berlin, and most Berliners don't even know it exists. Built between 1922 and 1924 by Berlin physician Paul Dahlke on the highest point in Frohnau, it is the oldest Buddhist temple in Europe. You enter through an elephant gate and ascend 73 steps through eight platforms symbolising the Buddha's Eightfold Path. At the top: a temple, a library, a serene garden, and Sri Lankan monks in residence. It is a declared national heritage site, admission is free, and it is absolutely tranquil. Since 1957 monks from Sri Lanka have lived on the hill in the Frohnau suburb of Reinickendorf. The surrounding neighborhood of Gartenstadt Frohnau — an Edwardian garden city laid out in 1910 — is worth wandering on its own: symmetrical parks, Jugendstil station, well-maintained villas, a feeling completely unlike central Berlin.",
     "info": null,
-    "categories": ["historic", "landmark", "church"],
+    "categories": ["historic", "landmark", "religious"],
     "url": "https://www.buddhistisches-haus.de",
     "id": "berlin_das_buddhistische_haus"
   },

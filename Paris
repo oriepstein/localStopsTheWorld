@@ -851,7 +851,7 @@
     "info": null,
     "categories": [
       "park",
-      "recreation"
+      "sports"
     ],
     "url": "https://www.jardindacclimatation.fr/",
     "id": "paris_jardin_d_acclimatation"
@@ -1222,7 +1222,7 @@
     "description": "Carousel of Extinct and Endangered Animals\n\nKnown as the \"Dodo Manège,\" this carousel features a herd of animals that have disappeared—or may be gone soon.",
     "info": null,
     "categories": [
-      "recreation",
+      "sports",
       "nature",
       "quirky"
     ],
@@ -1554,7 +1554,7 @@
     "info": null,
     "categories": [
       "museum",
-      "recreation",
+      "sports",
       "quirky"
     ],
     "url": "https://www.arts-forains.com/",
@@ -2009,7 +2009,7 @@
     "description": "Tethered helium balloon offering panoramic views of Paris.",
     "info": null,
     "categories": [
-      "recreation",
+      "sports",
       "landmark"
     ],
     "url": "https://www.ballondeparis.com/",
@@ -2148,7 +2148,7 @@
     "description": "rent an electric boat",
     "info": null,
     "categories": [
-      "recreation"
+      "sports"
     ],
     "url": "https://www.marineaudouce.fr/",
     "id": "paris_marin_d_eau_douce"
@@ -2176,7 +2176,7 @@
     "info": null,
     "categories": [
       "quirky",
-      "recreation"
+      "sports"
     ],
     "url": null,
     "id": "paris_afac_association_de_modelisme_ferroviaire"
@@ -2204,7 +2204,7 @@
     "description": "toy sailboats for rent",
     "info": null,
     "categories": [
-      "recreation",
+      "sports",
       "park"
     ],
     "url": null,

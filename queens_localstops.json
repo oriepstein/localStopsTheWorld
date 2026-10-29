@@ -314,7 +314,7 @@
     "categories": [
       "nature",
       "park",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -468,7 +468,7 @@
     "url": null,
     "categories": [
       "entertainment",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -663,7 +663,7 @@
     "categories": [
       "historic",
       "art",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -745,8 +745,7 @@
     "info": null,
     "url": "https://www.nycgovparks.org/parks/kissena-park",
     "categories": [
-      "sports",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -858,7 +857,6 @@
     "info": null,
     "url": "https://www.licboathouse.org/",
     "categories": [
-      "recreation",
       "sports"
     ]
   },
@@ -969,8 +967,7 @@
     "info": null,
     "url": "https://www.nyttc.org/",
     "categories": [
-      "sports",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -1039,8 +1036,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "sports",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -1080,8 +1076,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "sports",
-      "recreation"
+      "sports"
     ]
   },
   {
@@ -1656,7 +1651,7 @@
     "url": null,
     "categories": [
       "food",
-      "recreation",
+      "sports",
       "drinking"
     ]
   },
