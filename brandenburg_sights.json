@@ -1,0 +1,425 @@
+[
+  {
+    "name": "The ADGB Trade Union School (UNESCO)",
+    "lat": 52.7062406,
+    "lon": 13.5424983,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Bernau_bei_Berlin_ADGB_Schule_Wohntrakte_vorne.jpg/1280px-Bernau_bei_Berlin_ADGB_Schule_Wohntrakte_vorne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Bauhaus and its Sites Bauhaus and its Sites in Weimar, Dessau and Bernau represent the most prominent examples of the Bauhaus architectural school, which was the birthplace of Classical Modernism.<br><br>The \"Staatliche Bauhaus\" was responsible for the radical renewal of architecture and design. These seven (groups of) buildings represent both their initial phase in Weimar under Walter Gropius, and the second (and more successful) phase out of Dessau (with Hannes Meyer and Ludwig Mies van der Rohe). The Bauhaus building, made out of concrete, glass and steel, is a landmark in 20th-century architecture. <br><br>Community Perspective: This has received glowing reviews from the modern architecture-loving part of the WH community (Ian even wrote 3 reviews!). Taking a guided tour of the Bauhaus building is a good start to understanding their ideas.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.bauhaus-denkmal-bernau.de/",
+    "id": "brandenburg_the_adgb_trade_union_school_unesco"
+  },
+  {
+    "name": "Naturschutzgebiet Grumsiner Forst/Redernswalde",
+    "lat": 53.0069598,
+    "lon": 13.8232683,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Grumsiner_Forst_bei_Luisenfelde.jpg/1280px-Grumsiner_Forst_bei_Luisenfelde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe",
+    "info": null,
+    "categories": [
+      "unesco",
+      "nature",
+      "hiking"
+    ],
+    "url": null,
+    "id": "brandenburg_naturschutzgebiet_grumsiner_forst_redernswalde"
+  },
+  {
+    "name": "Sanssouci Palace",
+    "lat": 52.4042017,
+    "lon": 13.0384999,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/.00_2522_Schloss_Sanssouci_in_Potsdam.jpg/1280px-.00_2522_Schloss_Sanssouci_in_Potsdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin. The \"Prussian Versailles\" that is as glorious today as when it was built.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture",
+      "museum"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/sanssouci-palace",
+    "id": "brandenburg_sanssouci_palace"
+  },
+  {
+    "name": "Sanssouci Park",
+    "lat": 52.403253,
+    "lon": 13.0298651,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Park_Sanssouci%2C_Belvedere_auf_dem_Klausberg%2C_Schloss_Sanssouci%2C_Neues_Palais%2C_Orangerieschloss%2C_Universit%C3%A4t_Potsdam%2C_Potsdam%2C_Luftaufnahme%2C_Vogelperspektive%2C_aerial_view%2C_1.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin; The Palaces and Parks of Potsdam and Berlin comprise an eclectic ensemble of architectural and landscaping masterpieces.<br><br>Potsdam was the residence of the Prussian kings until 1918; its majestic buildings were built mainly during the reign of Frederick II the Great (1740-1786) and according to designs of Peter Joseph Lenné. He incorporated influences from Italy, England, France, Flanders, Paris and Dresden.<br><br>Community Perspective: the Potsdam gardens are good for walking and an easy day trip from Berlin. The Sanssouci Palace is its main attraction, but it cannot be recommended to those with an allergy to “Stately Homes”. We can count on Hubert to perfectly describe a site like this!",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/sanssouci-park",
+    "id": "brandenburg_sanssouci_park"
+  },
+  {
+    "name": "New Garden",
+    "lat": 52.4143359,
+    "lon": 13.0659419,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Heiligersee-1.jpg/1280px-Heiligersee-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/new-garden",
+    "id": "brandenburg_new_garden"
+  },
+  {
+    "name": "Marmorpalais",
+    "lat": 52.4126786,
+    "lon": 13.0698054,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Marmorpalais_mit_Vorgarten.JPG/1280px-Marmorpalais_mit_Vorgarten.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/marble-house",
+    "id": "brandenburg_marmorpalais"
+  },
+  {
+    "name": "Cecilienhof",
+    "lat": 52.4194027,
+    "lon": 13.0707979,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Schloss_Cecilienhof_2013.jpg/1280px-Schloss_Cecilienhof_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/cecilienhof-country-house",
+    "id": "brandenburg_cecilienhof"
+  },
+  {
+    "name": "Babelsberg Park",
+    "lat": 52.4047104,
+    "lon": 13.0941798,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg/1280px-Schlosspark_Babelsberg_Blick_Glienicker_Bruecke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/babelsberg-park",
+    "id": "brandenburg_babelsberg_park"
+  },
+  {
+    "name": "Babelsberg Palace",
+    "lat": 52.407644,
+    "lon": 13.093361,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Schloss_Babelsberg_-_Luftaufnahme-0428_MODIFIED.jpg/1280px-Schloss_Babelsberg_-_Luftaufnahme-0428_MODIFIED.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/babelsberg-palace",
+    "id": "brandenburg_babelsberg_palace"
+  },
+  {
+    "name": "Church of the Redeemer",
+    "lat": 52.4246577,
+    "lon": 13.0964664,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Teltowkanal_07_Wannsee_Heilandskirche.jpg/1280px-Teltowkanal_07_Wannsee_Heilandskirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "religious",
+      "architecture"
+    ],
+    "url": "http://www.heilandskirche-sacrow.de/",
+    "id": "brandenburg_church_of_the_redeemer"
+  },
+  {
+    "name": "Schloss Sacrow",
+    "lat": 52.42763,
+    "lon": 13.09468,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Potsdam_Schloss_Sacrow_05-15_img01.jpg/1280px-Potsdam_Schloss_Sacrow_05-15_img01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/sacrow-house/",
+    "id": "brandenburg_schloss_sacrow"
+  },
+  {
+    "name": "Park Sacrow",
+    "lat": 52.4268614,
+    "lon": 13.0946286,
+    "imageURL": null,
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park"
+    ],
+    "url": "https://www.spsg.de/en/palaces-gardens/object/sacrow-park",
+    "id": "brandenburg_park_sacrow"
+  },
+  {
+    "name": "Lindenallee",
+    "lat": 52.4316167,
+    "lon": 13.0245228,
+    "imageURL": null,
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "nature"
+    ],
+    "url": null,
+    "id": "brandenburg_lindenallee"
+  },
+  {
+    "name": "Leibniz Institute for Astrophysics Potsdam",
+    "lat": 52.4039373,
+    "lon": 13.1014067,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Potsdam_Astrophysical_Institute.jpg/1280px-Potsdam_Astrophysical_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.aip.de/en/",
+    "id": "brandenburg_leibniz_institute_for_astrophysics_potsdam"
+  },
+  {
+    "name": "Belvedere Castle on the Pfingstberg",
+    "lat": 52.4189122,
+    "lon": 13.0588585,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg/1280px-Belvedere_auf_dem_Pfingstberg_in_Potsdam_Juli_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Palaces and Parks of Potsdam and Berlin",
+    "info": null,
+    "categories": [
+      "unesco",
+      "historic",
+      "architecture",
+      "viewpoint"
+    ],
+    "url": "https://www.pfingstberg.de/",
+    "id": "brandenburg_belvedere_castle_on_the_pfingstberg"
+  },
+  {
+    "name": "Museum Alexandrowka",
+    "lat": 52.411711,
+    "lon": 13.056853,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Potsdam_Alexandrowka_02-14_img3.jpg/1280px-Potsdam_Alexandrowka_02-14_img3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A quaint Russian village in the middle of a German metropolis. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://alexandrowka.de/",
+    "id": "brandenburg_museum_alexandrowka"
+  },
+  {
+    "name": "Einstein Tower",
+    "lat": 52.3788791,
+    "lon": 13.0638587,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Einsteinturm_in_Potsdam.JPG/1280px-Einsteinturm_in_Potsdam.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Solar observatory doubles as a daring display of Expressionist architecture, much to Einstein's chagrin. ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.aip.de/en/institute/locations/einstein-tower/",
+    "id": "brandenburg_einstein_tower"
+  },
+  {
+    "name": "Dampfmaschinenhaus \"Pumpenhaus / Moschee\"",
+    "lat": 52.39623,
+    "lon": 13.0444,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Potsdam_Dampfmaschinenhaus_20220904_111023.jpg/1280px-Potsdam_Dampfmaschinenhaus_20220904_111023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Designed to resemble foreign architecture, this mosque-looking structure was used to pump water to a royal fountain.  ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "quirky",
+      "historic"
+    ],
+    "url": "https://www.spsg.de/schloesser-gaerten/objekt/dampfmaschinenhaus-moschee/",
+    "id": "brandenburg_dampfmaschinenhaus_pumpenhaus_moschee"
+  },
+  {
+    "name": "Großer Refraktor",
+    "lat": 52.3797567,
+    "lon": 13.0642566,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Great_Refractor_Potsdam.jpg/1280px-Great_Refractor_Potsdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the largest refracting telescopes in the world, and the first built specifically for studying astrophysics. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "brandenburg_grosser_refraktor"
+  },
+  {
+    "name": "Luftfahrtmuseum Finowfurt",
+    "lat": 52.8316857,
+    "lon": 13.6768881,
+    "imageURL": null,
+    "description": "This former Soviet military base has over 10 original aircraft and an enormous amount of memorabilia on display. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://luftfahrtmuseum-finowfurt.de/",
+    "id": "brandenburg_luftfahrtmuseum_finowfurt"
+  },
+  {
+    "name": "Schiffshebewerke Niederfinow",
+    "lat": 52.8495042,
+    "lon": 13.9412661,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/02_Schiffshebewerk_Niederfinow.jpg/1280px-02_Schiffshebewerk_Niederfinow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This giant, 83-year-old ship elevator is an engineering feat to behold. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": "https://schiffshebewerk-niederfinow.com/",
+    "id": "brandenburg_schiffshebewerke_niederfinow"
+  },
+  {
+    "name": "Besichtigungsstätte der Mumie des Ritters Kahlbutz",
+    "lat": 52.8650445,
+    "lon": 12.4571733,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2014-06-09_Mumie_Ritter_Kahlbutz_in_Kampehl_anagoria_01.jpg/1280px-2014-06-09_Mumie_Ritter_Kahlbutz_in_Kampehl_anagoria_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The natural mummy of the less than chivalrous Knight Kahlbutz. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "brandenburg_besichtigungsstatte_der_mumie_des_ritters_kahlbutz"
+  },
+  {
+    "name": "Straussee Fähre",
+    "lat": 52.5767474,
+    "lon": 13.8794016,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Strausberg_F%C3%A4hre.jpg/1280px-Strausberg_F%C3%A4hre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A unique, free-floating electric ferry may be the only of its kind in Europe. ",
+    "info": null,
+    "categories": [
+      "quirky"
+    ],
+    "url": null,
+    "id": "brandenburg_straussee_fahre"
+  },
+  {
+    "name": "Winkelturm",
+    "lat": 52.1919206,
+    "lon": 13.4685163,
+    "imageURL": null,
+    "description": "Several of these strange cone-shaped bunkers can still be seen around the former Nazi headquarters. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "brandenburg_winkelturm"
+  },
+  {
+    "name": "House of the Officers",
+    "lat": 52.1639556,
+    "lon": 13.4846522,
+    "imageURL": null,
+    "description": "A statue of Vladimir Illyich Lenin guards this abandoned building in the \"Forbidden City.\" ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "brandenburg_house_of_the_officers"
+  },
+  {
+    "name": "Lübbenau",
+    "lat": 51.8632976,
+    "lon": 13.9545465,
+    "imageURL": null,
+    "description": "Explore the complex ecology of this multifaceted nature preserve by riverboat. ",
+    "info": null,
+    "categories": [
+      "towns",
+      "nature"
+    ],
+    "url": "https://www.luebbenau-spreewald.de/",
+    "id": "brandenburg_lubbenau"
+  },
+  {
+    "name": "Lehde",
+    "lat": 51.86736,
+    "lon": 13.98922,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2016_Lehde_01.jpg/1280px-2016_Lehde_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Lehde is a village of 130 residents situated directly on the water, described by poet Theodor Fontane as \"a pocket-sized lagoon town, a Venice reminiscent of how it might have appeared 1,500 years ago when the initial fishing families sought refuge on its marshy sandy shores. A popular two-hour boat tour goes out to Lehde from Lübbenau, but you can escape the crowds by walking the 2km instead. The route through the forest follows the historic Leiper Weg, the first road ever built in the Spreewald, constructed in 1935–6.",
+    "info": null,
+    "categories": [
+      "towns",
+      "nature"
+    ],
+    "url": null,
+    "id": "brandenburg_lehde"
+  },
+  {
+    "name": "Chorin Abbey",
+    "lat": 52.8930093,
+    "lon": 13.8836687,
+    "imageURL": null,
+    "description": "AI: one of northern Germany's finest brick-Gothic monasteries, set beside a reflecting pond",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.kloster-chorin.org/",
+    "id": "brandenburg_chorin_abbey"
+  },
+  {
+    "name": "Muskau Park",
+    "lat": 51.5506676,
+    "lon": 14.7230997,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/1024_2012-1-sept-5088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: a UNESCO-listed landscape garden straddling the Polish border. The Peitzer Teiche fish ponds and Sorbian villages add local color",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park"
+    ],
+    "url": "https://muskauer-park.de/",
+    "id": "brandenburg_muskau_park"
+  }
+]
