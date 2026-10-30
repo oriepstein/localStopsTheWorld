@@ -193,7 +193,7 @@
     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Berlin_Treptow_Archenhold_Sternwarte.jpg",
     "description": "This public observatory is home to the \"celestial cannon,\" the longest pointable telescope in the world. ",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://www.planetarium.berlin/archenhold-sternwarte",
     "id": "berlin_archenhold_observatory"
   },
@@ -292,7 +292,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg/1280px-Berlin%2C_Mitte%2C_Invalidenstrasse_43%2C_Museum_f%C3%BCr_Naturkunde.jpg",
     "description": "Berlin's natural history museum houses the world's largest mounted dinosaur and the late beloved polar bear Knut. Berlin's beloved bear is immortalized at the Museum für Naturkunde.",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://www.museumfuernaturkunde.berlin",
     "id": "berlin_museum_fur_naturkunde"
   },
@@ -303,7 +303,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Berliner_Medizinhistorisches_Museum.JPG/1280px-Berliner_Medizinhistorisches_Museum.JPG",
     "description": "Home to 10,000 medical specimens including the remains of Rudolf Virchow's extensive collection of pathological specimens. ",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://bmg.charite.de",
     "id": "berlin_museum_medical_history_charite"
   },
@@ -446,7 +446,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg/1280px-U-Bahnhof_Gesundbrunnen_-_Eingang_mit_Schriftzug_und_Logo_%27Berliner_Unterwelten_e.V.%27.jpg",
     "description": "A tour of underground Berlin takes you through WWII air raid shelters and tunnels used to smuggle people out of East Germany. ",
     "info": null,
-    "categories": ["historic", "tour", "localhighlight"],
+    "categories": ["historic", "localhighlight"],
     "url": "https://www.berliner-unterwelten.de",
     "id": "berlin_berlin_underworld"
   },
@@ -578,7 +578,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mengenlehreuhr.jpg/1280px-Mengenlehreuhr.jpg",
     "description": "The world's first clock to use set theory as a measure of time required the invention of a new light bulb just to maintain its obtuse measurements. ",
     "info": null,
-    "categories": ["landmark", "science"],
+    "categories": ["landmark"],
     "url": null,
     "id": "berlin_mengenlehreuhr"
   },
@@ -754,7 +754,7 @@
     "imageURL": null,
     "description": "A dilapidated space station with overtones of 'Alien' and 'Bladerunner' featuring a multiplayer games galore. ",
     "info": null,
-    "categories": ["entertainment"],
+    "categories": ["quirky"],
     "url": null,
     "id": "berlin_offworld_gaming"
   },
@@ -1051,7 +1051,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg/1280px-Botanischer_Garten_Berlin-Dahlem_10-2014_photo01_pond.jpg",
     "description": "Started as a kitchen garden, now the second largest botanical garden in the world. ",
     "info": null,
-    "categories": ["park", "nature", "science"],
+    "categories": ["park", "nature"],
     "url": "https://www.bgbm.org",
     "id": "berlin_botanical_garden"
   },
@@ -1337,7 +1337,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Berlin-Lankwitz_Energie-Museum.jpg/1280px-Berlin-Lankwitz_Energie-Museum.jpg",
     "description": "",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://www.energiemuseum.de",
     "id": "berlin_energie_museum"
   },
@@ -1612,7 +1612,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Deutsches_Technikmuseum_Berlin-49410.jpg/1280px-Deutsches_Technikmuseum_Berlin-49410.jpg",
     "description": "Huge, hands-on museum with trains, planes, and industrial tech. Surprisingly engaging—even for non-engineers.\n\nVerdict: Excellent, especially if you want a break from heavy history",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://www.sdtb.de",
     "id": "berlin_german_museum_of_technology"
   },
@@ -1623,7 +1623,7 @@
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Futurium_-_Flickr_-_abbilder.jpg/1280px-Futurium_-_Flickr_-_abbilder.jpg",
     "description": "A sleek, interactive museum about the future—climate, technology, cities. Free, modern, and thought-provoking.",
     "info": null,
-    "categories": ["museum", "science"],
+    "categories": ["museum"],
     "url": "https://www.futurium.de",
     "id": "berlin_futurium"
   },

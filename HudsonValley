@@ -9,8 +9,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -132,8 +131,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -147,7 +145,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "park"
     ]
   },
   {
@@ -386,8 +384,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "food",
-      "drink"
+      "religious",
+      "art"
     ]
   },
   {
@@ -400,8 +398,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "food"
     ]
   },
   {
@@ -581,8 +578,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "theater",
+      "music"
     ]
   },
   {
@@ -746,8 +743,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "cinema"
     ]
   },
   {
@@ -814,8 +810,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -894,8 +889,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "cinema"
     ]
   },
   {
@@ -1138,8 +1132,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "food"
     ]
   },
   {
@@ -1170,19 +1163,6 @@
       "historic",
       "landmark",
       "nature"
-    ]
-  },
-  {
-    "id": "hudson_valley_wilderstein_historic_site",
-    "name": "Wilderstein Historic Site",
-    "lat": 41.894036,
-    "lon": -73.942136,
-    "imageURL": null,
-    "description": null,
-    "info": null,
-    "url": null,
-    "categories": [
-      "landmark"
     ]
   },
   {
@@ -1261,8 +1241,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -1388,8 +1367,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "shopping"
     ]
   },
   {
@@ -1456,8 +1434,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -1498,8 +1475,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "cinema"
     ]
   },
   {
@@ -1525,8 +1501,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -1750,8 +1725,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "museum",
+      "art"
     ]
   },
   {
@@ -1764,8 +1739,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "art"
     ]
   },
   {
@@ -1778,8 +1752,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "cinema"
     ]
   },
   {
@@ -1845,8 +1818,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "art",
+      "music"
     ]
   },
   {
@@ -1859,8 +1832,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "art"
     ]
   },
   {
@@ -1904,32 +1876,6 @@
     ]
   },
   {
-    "id": "hudson_valley_martin_van_buren_national_historic_site",
-    "name": "Martin Van Buren National Historic Site",
-    "lat": 42.3697825,
-    "lon": -73.7041742,
-    "imageURL": null,
-    "description": null,
-    "info": null,
-    "url": null,
-    "categories": [
-      "landmark"
-    ]
-  },
-  {
-    "id": "hudson_valley_thomas_cole_national_historic_site",
-    "name": "Thomas Cole National Historic Site",
-    "lat": 42.2257737,
-    "lon": -73.8614998,
-    "imageURL": null,
-    "description": null,
-    "info": null,
-    "url": null,
-    "categories": [
-      "landmark"
-    ]
-  },
-  {
     "id": "hudson_valley_philipse_manor_hall_state",
     "name": "Philipse Manor Hall State",
     "lat": 40.9356751,
@@ -1953,7 +1899,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking"
     ]
   },
   {
@@ -1980,7 +1926,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking"
     ]
   },
   {
@@ -1994,7 +1940,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "sports"
     ]
   },
   {
@@ -2021,7 +1967,8 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "park",
+      "hiking"
     ]
   },
   {
@@ -2061,7 +2008,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking"
     ]
   },
   {
@@ -2075,7 +2022,8 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking",
+      "historic"
     ]
   },
   {
@@ -2131,7 +2079,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking"
     ]
   },
   {
@@ -2145,7 +2093,7 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "hiking"
     ]
   },
   {
@@ -2184,8 +2132,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "music",
-      "arts"
+      "music"
     ]
   },
   {
@@ -2199,7 +2146,8 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "park",
+      "hiking"
     ]
   },
   {
@@ -2212,8 +2160,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "music",
-      "arts"
+      "music"
     ]
   },
   {
@@ -2320,7 +2267,8 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "park",
+      "hiking"
     ]
   },
   {
@@ -2334,7 +2282,8 @@
     "url": null,
     "categories": [
       "nature",
-      "outdoor"
+      "park",
+      "hiking"
     ]
   },
   {
@@ -2441,8 +2390,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "nature",
-      "outdoor"
+      "nature"
     ]
   },
   {
@@ -2468,8 +2416,7 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "art"
     ]
   },
   {
@@ -2482,8 +2429,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "food",
+      "shopping"
     ]
   },
   {
@@ -2496,8 +2443,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "nature",
+      "hiking"
     ]
   },
   {
@@ -2645,8 +2592,9 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "art",
+      "quirky",
+      "landmark"
     ]
   },
   {
@@ -2659,8 +2607,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "outdoor",
-      "nature"
+      "food",
+      "shopping"
     ]
   },
   {
@@ -2712,8 +2660,9 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "architecture",
+      "historic",
+      "landmark"
     ]
   },
   {
@@ -2739,8 +2688,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "arts",
-      "culture"
+      "historic",
+      "museum"
     ]
   },
   {
@@ -2766,8 +2715,8 @@
     "info": null,
     "url": null,
     "categories": [
-      "food",
-      "drink"
+      "religious",
+      "architecture"
     ]
   },
   {
