@@ -1,8 +1,8 @@
 [
      {
-    "name": "Paris",
-    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/Paris",
-    "imageURL": "https://images.unsplash.com/photo-1549144511-f099e773c147?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    "name": "Barcelona",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/barcelona_sights.json",
+    "imageURL": "https://images.unsplash.com/photo-1628612773214-0d5a10cfcae8?q=80&w=772&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
      {
     "name": "Brandenburg and Potsdam",
