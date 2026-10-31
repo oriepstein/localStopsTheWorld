@@ -6,7 +6,10 @@
     "imageURL": null,
     "description": "THE HEADSTONE OF EPHRAIM HUIT is inscribed with the year 1644. It is not the oldest grave or the first burial in the country, but it is the oldest surviving headstone in Connecticut and believed to be the oldest legible, dated headstone in the United States.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_palisado_cemetery"
   },
@@ -17,8 +20,11 @@
     "imageURL": null,
     "description": "More than a century of radio history is told in these displays. Listen to pop music from throughout the 20th century on a variety of jukeboxes, put on a set of vintage headphones and tune into live radio broadcasts on a period crystal radio, and dial up friends and family using rotary phones and in phone booths. All that and more is ready to be experienced at this museum dedicated to educating the public about the history of electronic communications and the state’s contributions. Proceeding chronologically from the 1850s through the 1970s, the museum chronicles the rise of radio and evolution of communications through a collection of radios, typewriters and industrial equipment, phonographs, televisions, TV studio equipment, telephones, recording studio equipment, and even the first computers. Also explore the rivalries between communications pioneers Thomas Edison and Alexander Graham Bell and, later, Edison and George Westinghouse and Nikola Tesla, by trying out Edison’s early lightbulb designs and a miniature version of Tesla’s renowned coil.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.vrcmct.org/",
     "id": "connecticut_vintage_radio_communications_museum_of_ct"
   },
   {
@@ -28,7 +34,10 @@
     "imageURL": null,
     "description": "Sand dunes from a glacial lake are preserved in this woodland park. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_matianuck_natural_area_preserve"
   },
@@ -39,7 +48,10 @@
     "imageURL": null,
     "description": "site of Isle of Safety : The former location of a platform that allowed passengers to safely wait for the trolley.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_state_house_square"
   },
@@ -47,11 +59,14 @@
     "name": "Connecticut's Old State House",
     "lat": 41.766026,
     "lon": -72.6727365,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Old_State_House%2C_Hartford_CT_-_front_facade.JPG/1280px-Old_State_House%2C_Hartford_CT_-_front_facade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "A wunderkammer hidden on the top floor of the Hartford statehouse. <br>\"The place where Connecticut’s democracy was born has seen more than its fair share of hard times. Nearly demolished at least twice in the 20th century, including in the 1970s when it almost faced the wrecking ball to make way for a parking lot, the National Historic Landmark built in 1796 closed last summer due to budget cuts. But the Old State House, which was Connecticut’s original seat of government from 1796 to 1878, is once again open to the public. Stroll through the chambers of the House of Representatives and the Senate, where the Amistad trial began and the 13th Amendment was ratified, and spy an original portrait of George Washington. Resist the urge to take a spin on Mark Twain’s bicycle. Things get a little wacky when you venture upstairs into the Museum of Natural and Other Curiosities, where the walls are lined with rare masks, animal heads and bizarre items such as a “unicorn’s horn” and a two-headed calf.\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://wp.cga.ct.gov/osh/",
     "id": "connecticut_connecticut_s_old_state_house"
   },
   {
@@ -61,8 +76,11 @@
     "imageURL": null,
     "description": "The oldest place in Hartford is a cemetery with thousands of bodies stacked beneath the grass. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": "https://ancientburyingground.com/",
     "id": "connecticut_ancient_burial_ground"
   },
   {
@@ -72,7 +90,10 @@
     "imageURL": null,
     "description": "The tragic tale of the dentist who pioneered the use of anesthesia. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_horace_wells_statue"
   },
@@ -83,7 +104,10 @@
     "imageURL": null,
     "description": "A tribute to the truly loyal dog who waited outside a hospital for his owner to come back. <br>When facing the front entrance to the main Hartford Hospital go to the left side of the entrance. The statue is close to the wall near the windows.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_statue_of_rover"
   },
@@ -91,54 +115,69 @@
     "name": "Wadsworth Atheneum Museum of Art",
     "lat": 41.7637113,
     "lon": -72.6730855,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Wadsworth_Atheneum%2C_Hartford%2C_Connecticut.JPG/1280px-Wadsworth_Atheneum%2C_Hartford%2C_Connecticut.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.thewadsworth.org/",
     "id": "connecticut_wadsworth_atheneum_museum_of_art"
   },
   {
     "name": "The Mark Twain House & Museum",
     "lat": 41.7670235,
     "lon": -72.7014493,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mark_Twain_House_%26_Museum_%2855618783510%29.jpg/1280px-Mark_Twain_House_%26_Museum_%2855618783510%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://marktwainhouse.org/",
     "id": "connecticut_the_mark_twain_house_museum"
   },
   {
     "name": "Harriet Beecher Stowe Center",
     "lat": 41.7668083,
     "lon": -72.7003833,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Stowe_Center_for_Literary_Activism_%2855618577734%29.jpg/1280px-Stowe_Center_for_Literary_Activism_%2855618577734%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Right next door to Twain's place (they were neighbors and friends), Stowe's modest cottage is the polar opposite—understated, deeply moral, and focused on the woman who wrote the novel Lincoln credited with starting the Civil War. Uncle Tom's Cabin changed America, and standing in the room where she wrote it is genuinely moving. The tour doesn't shy away from the book's complicated legacy. Visit both houses together for a fascinating study in contrasts. A hidden gem overshadowed by her flashier neighbor.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://stowecenter.org/",
     "id": "connecticut_harriet_beecher_stowe_center"
   },
   {
     "name": "Cathedral of Saint Joseph",
     "lat": 41.7681382,
     "lon": -72.692113,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cathedral_of_Saint_Joseph_in_Hartford_3%2C_2009-09-02.jpg/1280px-Cathedral_of_Saint_Joseph_in_Hartford_3%2C_2009-09-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "This Connecticut chapel is a starkly modern, and surprisingly colorful, architectural rebel. \"The original cathedral, with its classical twin Gothic spires, was destroyed by a New Year’s Eve fire in 1956. The church that replaced it — a 281-foot concrete and limestone edifice with straight lines and hard edges — would have been unrecognizable to those familiar with the original. But inside is where the beauty truly lies. Even for the non-religious, being surrounded by vividly colored stained-glass friezes towering more than six stories, the sun coursing through, it’s difficult not to feel the influence of a higher power. Look up at a ceiling full of stars. And look forward to the altar, behind which is one of the largest ceramic tile murals in the world\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": "https://www.cathedralofstjoseph.org/",
     "id": "connecticut_cathedral_of_saint_joseph"
   },
   {
     "name": "A. Everett Austin House",
     "lat": 41.7806743,
     "lon": -72.7081132,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/A._Everett_Austin_House%2C_Hartford%2C_CT.jpg/1280px-A._Everett_Austin_House%2C_Hartford%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "This stunning Connecticut mansion is actually just a one-room-deep hoax.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_a_everett_austin_house"
   },
@@ -146,11 +185,14 @@
     "name": "Connecticut Museum of Culture and History",
     "lat": 41.772934,
     "lon": -72.705277,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Connecticut_Historical_Society_Museum_and_Library%2C_2009-09-02.jpg/1280px-Connecticut_Historical_Society_Museum_and_Library%2C_2009-09-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.connecticutmuseum.org/",
     "id": "connecticut_connecticut_museum_of_culture_and_history"
   },
   {
@@ -160,29 +202,37 @@
     "imageURL": null,
     "description": "How did the right arm of a 13th-century English bishop wind up in a Connecticut church? ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "religious"
+    ],
+    "url": "https://endersisland.org/",
     "id": "connecticut_chapel_by_the_sea"
   },
   {
     "name": "Mystic Seaport Museum",
     "lat": 41.3612271,
     "lon": -71.963923,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Big_boat.jpg/1280px-Big_boat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Holding multiple historical boats and an entire 19th century village, this New England attraction is the largest maritime museum in the world. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://mysticseaport.org/",
     "id": "connecticut_mystic_seaport_museum"
   },
   {
     "name": "Gungywamp",
     "lat": 41.3902387,
     "lon": -72.0598435,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/GungywampCircle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "The kind of mixed-up place that drives archaeologists crazy. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "archaeological",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_gungywamp"
   },
@@ -190,11 +240,14 @@
     "name": "Submarine Force Library & Museum",
     "lat": 41.3874555,
     "lon": -72.086904,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/UGM-84_Harpoon_at_Submarine_Force_Museum_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "The US Navy's only submarine museum is also home to the world's first nuclear submarine. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://ussnautilus.org/",
     "id": "connecticut_submarine_force_library_museum"
   },
   {
@@ -204,8 +257,12 @@
     "imageURL": null,
     "description": "Ruins of a historic medical facility sits eerily by the water. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "park",
+      "quirky"
+    ],
+    "url": "https://ctparks.com/parks/seaside-state-park",
     "id": "connecticut_seaside_sanatorium"
   },
   {
@@ -215,18 +272,23 @@
     "imageURL": null,
     "description": "With some 500,000 books across five buildings, this bookstore is a reader's paradise. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": "https://www.bookbarnniantic.com/",
     "id": "connecticut_the_book_barn"
   },
   {
     "name": "SoNo Switch Tower Museum",
     "lat": 41.0991053,
     "lon": -73.4190571,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/SouthNorwalkSwitchTowerMuseum08122007.jpg/1280px-SouthNorwalkSwitchTowerMuseum08122007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Back in the olden days, railroad traffic was controlled by a tower containing an interlocking machine with a series of mechanical levers. The SoNo Switch Tower was one of them, constructed in 1896 by the New York, New Haven and Hartford Railroad to control switches at the junction between the New Haven Line and the Danbury Branch to move trains from one track to another, which was done by railroad employees. Open weekends, the tower features the state’s only “Armstrong” switch lever machine, so named because you needed to have a strong arm to operate it. Test your strength by throwing the levers, just as the tower operators did for nearly a century. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_sono_switch_tower_museum"
   },
@@ -237,7 +299,10 @@
     "imageURL": null,
     "description": "A free display of artistic lifesize dinosaur sculptures in a backyard garden. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_well_s_dinosaur_haven"
   },
@@ -245,11 +310,13 @@
     "name": "American Clock & Watch Museum",
     "lat": 41.6796002,
     "lon": -72.9407566,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/American_Clock_and_Watch_Museum%2C_Bristol_CT.jpg/1280px-American_Clock_and_Watch_Museum%2C_Bristol_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Thousands of American timepieces on display in the former clock-making capital of the country. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.clockandwatchmuseum.org/",
     "id": "connecticut_american_clock_watch_museum"
   },
   {
@@ -259,8 +326,11 @@
     "imageURL": null,
     "description": "A parade of antique steeds offers a quirky ride through history. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.thecarouselmuseum.org/",
     "id": "connecticut_the_carousel_museum"
   },
   {
@@ -270,7 +340,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_horseshoe_falls_the_ted_knight_bridge"
   },
@@ -281,18 +353,25 @@
     "imageURL": null,
     "description": "A seasonal movie monster museum featuring wax creations by a relative of one of the original Universal Studios monsters. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://preservehollywood.org/",
     "id": "connecticut_witch_s_dungeon_classic_movie_museum"
   },
   {
     "name": "Shade Swamp",
     "lat": 41.7116772,
     "lon": -72.8530249,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Shade_Swamp_Shelter.JPG/1280px-Shade_Swamp_Shelter.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "An abandoned Depression-era zoo hidden just off the highway. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky",
+      "nature",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_shade_swamp"
   },
@@ -303,7 +382,11 @@
     "imageURL": null,
     "description": "The world's largest public collection of PEZ memorabilia. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "quirky",
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_pez_visitor_center"
   },
@@ -311,11 +394,15 @@
     "name": "Hill-Stead Museum",
     "lat": 41.7220476,
     "lon": -72.8205032,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Hill-Stead_Museum_%28Farmington%2C_CT%29_-_west_facade.JPG/1280px-Hill-Stead_Museum_%28Farmington%2C_CT%29_-_west_facade.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "NHL",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "url": "https://hillstead.org/",
     "id": "connecticut_hill_stead_museum"
   },
   {
@@ -325,7 +412,10 @@
     "imageURL": null,
     "description": "The farmhouse where a reclusive sculptor and printmaker created thousands of works. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_william_kent_charitable_foundation"
   },
@@ -336,8 +426,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.silvermineart.org/",
     "id": "connecticut_silvermine_arts_center"
   },
   {
@@ -347,7 +439,10 @@
     "imageURL": null,
     "description": "A replica of fossils believed to be the first scientifically-described dinosaur bones found in North America. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky",
+      "bookstore"
+    ],
     "url": null,
     "id": "connecticut_warehouse_point_library"
   },
@@ -355,21 +450,28 @@
     "name": "Silver Sands State Park",
     "lat": 41.2003752,
     "lon": -73.0676551,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/CharlesIsland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "This park is home to a massive bird sanctuary. 2.6-mile stroll on a magical ocean walkway that opens up twice daily (and also disappears twice daily).this hike is closed during the summer",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "beaches",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/silver-sands-state-park",
     "id": "connecticut_silver_sands_state_park"
   },
   {
     "name": "Charles Island",
     "lat": 41.19131,
     "lon": -73.0549165,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Milfordluft_2.jpg/1280px-Milfordluft_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "This \"thrice-cursed\" island is allegedly home to Captain Kidd's lost treasure. You are not allowed on the Island from May-August due to endangered bird nesting. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_charles_island"
   },
@@ -377,11 +479,13 @@
     "name": "Connecticut Trolley Museum",
     "lat": 41.9313889,
     "lon": -72.5947222,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Former_New_Orleans_Car_836_at_the_Connecticut_Trolley_Museum%2C_May_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "A preserved trolley track that was transformed into a museum of transportation.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.ct-trolley.org/",
     "id": "connecticut_connecticut_trolley_museum"
   },
   {
@@ -391,7 +495,10 @@
     "imageURL": null,
     "description": "Dr. Henry Cogswell hoped that his elaborate drinking fountains would dissuade people from drinking alcohol. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_cogswell_memorial_fountain"
   },
@@ -402,7 +509,10 @@
     "imageURL": null,
     "description": "After the comedian dissed a Connecticut town on his show, they named a sewage treatment plant after him. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_john_oliver_balls_of_steel_memorial"
   },
@@ -413,30 +523,41 @@
     "imageURL": null,
     "description": "Springtime is go time for this repurposed shack and the fish it venerates. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.haddamhistory.org/museums/",
     "id": "connecticut_haddam_shad_museum"
   },
   {
     "name": "Machimoodus State Park",
     "lat": 41.4975976,
     "lon": -72.479509,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/39/EastHaddamCT_MachimoodusSP_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "The Connecticut village named for its subterranean thunder.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/machimoodus-state-park",
     "id": "connecticut_machimoodus_state_park"
   },
   {
     "name": "Boothe Memorial Park",
     "lat": 41.2352088,
     "lon": -73.1094592,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Boothe_Memorial_Park%2C_Stratford%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "This eclectic homestead is home to a miniature windmill and Connecticut's last tollbooth. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.boothememorialpark.org/",
     "id": "connecticut_boothe_memorial_park"
   },
   {
@@ -446,7 +567,9 @@
     "imageURL": null,
     "description": "A giant ant model welcomes visitors to an exhibit about symbiotic organisms that live with army ant colonies. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_biology_physics_building"
   },
@@ -457,7 +580,9 @@
     "imageURL": null,
     "description": "An artificial tree in the University of Connecticut greenhouses holds a collection of orchids, mosses, and other tropical epiphytic plants. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_eeb_biodiversity_education_research_greenhouses"
   },
@@ -465,11 +590,14 @@
     "name": "Ballard Institute and Museum of Puppetry",
     "lat": 41.8046613,
     "lon": -72.2429147,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ballard_Institute_and_Museum_of_Puppetry_20160403.jpg/1280px-Ballard_Institute_and_Museum_of_Puppetry_20160403.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Celebrating an art form with a collection of puppets from all over the world.  ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://bimp.uconn.edu/",
     "id": "connecticut_ballard_institute_and_museum_of_puppetry"
   },
   {
@@ -479,7 +607,10 @@
     "imageURL": null,
     "description": "Public outcry led to this bridge's unique character which celebrates a giant frog battle and also sewing. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_thread_city_crossing"
   },
@@ -490,7 +621,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_garden_on_the_bridge"
   },
@@ -501,8 +635,11 @@
     "imageURL": null,
     "description": "This Connecticut video store has a vast and varied archive that contains everything from 'Koyaanisqatsi' to 'The King's Speech.' ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "cinema",
+      "music"
+    ],
+    "url": "https://www.bestvideo.com/",
     "id": "connecticut_best_video_film_cultural_center"
   },
   {
@@ -512,8 +649,11 @@
     "imageURL": null,
     "description": "After decades of neglect, a brutalist icon is getting new life as an eco-friendly hotel.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": "https://www.hotelmarcel.com/",
     "id": "connecticut_pirelli_building"
   },
   {
@@ -523,7 +663,11 @@
     "imageURL": null,
     "description": "A human attendant once directed car traffic from this structure before automated stoplights. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "quirky",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_meriden_traffic_control_tower"
   },
@@ -531,10 +675,14 @@
     "name": "Ingalls Ice Rink",
     "lat": 41.3167886,
     "lon": -72.9250156,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Ingalls_Rink_Highsmith.jpg/1280px-Ingalls_Rink_Highsmith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "It looks like a whale, it's part of Yale, and it's best-known by a nickname you can probably work out for yourself. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "landmark",
+      "sports"
+    ],
     "url": null,
     "id": "connecticut_ingalls_ice_rink"
   },
@@ -542,11 +690,14 @@
     "name": "Henry Whitfield State Museum",
     "lat": 41.2780311,
     "lon": -72.675564,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Henry-whitfield-house-ct.png/1280px-Henry-whitfield-house-ct.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Connecticut's oldest house (1639), and it looks it—this is a medieval-style stone house that could've been transplanted from England. The massive stone walls, tiny windows, and stark interior give you a visceral sense of 17th-century colonial life's brutal reality. No romanticization here. Less polished than restored Colonial Williamsburg-style houses, which makes it more authentic. A proper time capsule. The docents are excellent at explaining just how hard life was.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://portal.ct.gov/decd/content/historic-preservation/04_state_museums/henry-whitfield-state-museum",
     "id": "connecticut_henry_whitfield_state_museum"
   },
   {
@@ -556,8 +707,11 @@
     "imageURL": null,
     "description": "It was founded by Ralph Nader to educate the public about an often-maligned area of law. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.tortmuseum.org/",
     "id": "connecticut_the_american_museum_of_tort_law"
   },
   {
@@ -567,40 +721,52 @@
     "imageURL": null,
     "description": "A humble air museum located in an original World War II aircraft factory. <br>\"oused within a former aerospace factory and across the street from Igor I. Sikorsky Memorial Airport, the Connecticut Air & Space Center has the feel of a top-secret site. The property is owned by the federal government. As a result, people under age 18 are not permitted on the site, and all visitors must stop by a security building at 550 Main St. around the corner from the museum, for a quick safety briefing before being allowed access (don’t worry, it’s safe!). Once they get “clearance,” guests are rewarded with an engrossing immersion in Connecticut’s rich aerospace history: Igor Sikorsky developed the helicopter across the street, Charles Lindbergh kept his plane nearby for a time, a line of flying saucer-like planes were briefly planned in Stratford. And, of course, Gustave Whitehead — at least according to any aviation historians in Connecticut worth their salt — beat the Wright brothers to the air. This history comes alive thanks to the showstopping restorations of many historic aircraft featured at the center. Last May, the center held a groundbreaking ceremony for the first phase of restoration on the historic Curtiss Hangar, across the street from the center.\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.ctairandspace.org/",
     "id": "connecticut_connecticut_air_space_center"
   },
   {
     "name": "Davison Art Center, Wesleyan University",
     "lat": 41.5583379,
     "lon": -72.655874,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Wesleyan_University_-_Davison_Art_Center_02.jpg/1280px-Wesleyan_University_-_Davison_Art_Center_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "NHL This distinctive house was built in the late 1830s in a transitional Greek-Italianate style. It now belongs to Wesleyan University.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art",
+      "museum",
+      "architecture"
+    ],
+    "url": "https://www.wesleyan.edu/dac/",
     "id": "connecticut_davison_art_center_wesleyan_university"
   },
   {
     "name": "The Institute Library",
     "lat": 41.305933,
     "lon": -72.925016,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/InstituteLibraryNewHaven.jpg/1280px-InstituteLibraryNewHaven.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "One of America's oldest private membership libraries was long one of New Haven's best kept secrets. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "bookstore",
+      "historic"
+    ],
+    "url": "https://institutelibrary.org/",
     "id": "connecticut_the_institute_library"
   },
   {
     "name": "Woolsey Hall",
     "lat": 41.3113476,
     "lon": -72.9260606,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Woolsey_Hall_-_Yale_University_%2854106457850%29.jpg/1280px-Woolsey_Hall_-_Yale_University_%2854106457850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Taft Chair: An extra-wide chair built to accommodate the former president's big behind. AI: If it is open for a concert or event, this jumps toward the top. It is one of Yale’s great ceremonial spaces, a vast auditorium with the famous Newberry Memorial Organ, and even from the outside it anchors one of the most impressive bits of central campus. On a normal day, though, it is more something to admire and pair with the surrounding Schwarzman Center/Commons area than a guaranteed interior visit.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "music",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_woolsey_hall"
   },
@@ -608,22 +774,28 @@
     "name": "Connecticut River Museum",
     "lat": 41.3513549,
     "lon": -72.3847971,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/CONNECTICUT_RIVER_MUSEUM%2C_ESSEX%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "This museum holds a fully-functional replica of the \"Turtle,\" the first American submarine ever built. Dedicated to New England’s great river, the museum is housed in an 1878 Steamboat Dock building and along its surrounding docks. Guests can take an “art walk” and trace the river’s 410-mile course from northern New Hampshire to Long Island Sound; climb aboard a replica of the Turtle, the world’s first submarine used during the American Revolution; learn about the 1814 British raid on Essex; follow the historic evolution of steamboats and wooden ships; and even explore the river by sail by booking an afternoon or sunset cruise on the schooner Mary \"E, from June through October\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://ctrivermuseum.org/",
     "id": "connecticut_connecticut_river_museum"
   },
   {
     "name": "Heublein Tower",
     "lat": 41.8258751,
     "lon": -72.7984675,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Heublein_Tower%2C_2010-04-03.jpg/1280px-Heublein_Tower%2C_2010-04-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "This lovely hilltop tower was specifically built to withstand 100 MPH winds. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "viewpoint",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://ctparks.com/parks/talcott-mountain-state-park",
     "id": "connecticut_heublein_tower"
   },
   {
@@ -633,7 +805,11 @@
     "imageURL": null,
     "description": "Now home to hardy plants, these sand and gravel dunes once held back a massive prehistoric lake. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_dividend_pond_and_ruins"
   },
@@ -641,10 +817,13 @@
     "name": "Nathan Hale Schoolhouse East Haddam",
     "lat": 41.455008,
     "lon": -72.4632365,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fd/NathanHaleSchoolEastHaddamCT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "One of America's first spies started out as a teacher in this little red one-room schoolhouse. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_nathan_hale_schoolhouse_east_haddam"
   },
@@ -655,7 +834,10 @@
     "imageURL": null,
     "description": "A once-booming railroad left abandoned next to the Quinnipiac River marshes now intersects with a hiking trail.  The entrance to the hiking path is behind the Target and easy to find with signs in the area for the Tidal Marsh Trail.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_tidal_marsh_trail"
   },
@@ -663,11 +845,14 @@
     "name": "Goodspeed Opera House",
     "lat": 41.4517886,
     "lon": -72.4625094,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/96/GoodspeedOperaHouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "This opera house along the banks of the Connecticut River has two Tony Awards to its credit but it’s never staged a single opera. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "theater",
+      "music"
+    ],
+    "url": "https://www.goodspeed.org/",
     "id": "connecticut_goodspeed_opera_house"
   },
   {
@@ -677,8 +862,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.longwharf.org/",
     "id": "connecticut_long_wharf_theatre"
   },
   {
@@ -688,8 +875,10 @@
     "imageURL": null,
     "description": "This classic steam-powered train takes tourists on a nostalgic trip around the Connecticut River Valley. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic"
+    ],
+    "url": "https://essexsteamtrain.com/",
     "id": "connecticut_essex_steam_train_riverboat"
   },
   {
@@ -699,8 +888,11 @@
     "imageURL": null,
     "description": "Amazing views of Long Island Sound can be seen from this mountaintop tower. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "viewpoint",
+      "hiking"
+    ],
+    "url": "https://www.sgpa.org/",
     "id": "connecticut_sleeping_giant_observation_tower"
   },
   {
@@ -710,7 +902,11 @@
     "imageURL": null,
     "description": "Connecticut's shot tower is near the end of its life.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_remington_shot_tower"
   },
@@ -721,7 +917,10 @@
     "imageURL": null,
     "description": "This historic park site contains the last remnants of a once bustling canal system. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "park"
+    ],
     "url": null,
     "id": "connecticut_lock_12"
   },
@@ -732,7 +931,9 @@
     "imageURL": null,
     "description": "A small museum packed with specimens from important fossil sites and minerals from historical pegmatite quarries. TUCKED AWAY ON THE FOURTH floor of the Exley Science Center at Wesleyan University, the Joe Webb Peoples Museum is a showcase of geological and natural wonders. Though not much bigger than a large living room, the museum houses enough material for a space 10 times its size.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum"
+    ],
     "url": null,
     "id": "connecticut_exley_science_center"
   },
@@ -740,44 +941,57 @@
     "name": "Danbury Railway Museum",
     "lat": 41.3978426,
     "lon": -73.450461,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Danbury_Railroad_Museum_historical_model_display.jpg/1280px-Danbury_Railroad_Museum_historical_model_display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "This historic railway museum may have lost its passengers but not its love for trains.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.danburyrail.org/",
     "id": "connecticut_danbury_railway_museum"
   },
   {
     "name": "The Griswold Inn",
     "lat": 41.3513365,
     "lon": -72.3869146,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Essex_CT_Griswold_Inn_03_%289363067949%29.jpg/1280px-Essex_CT_Griswold_Inn_03_%289363067949%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "British troops and Prohibition couldn’t stop this spot from becoming one of the United States' oldest continuously-run taverns.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food",
+      "drinking",
+      "historic"
+    ],
+    "url": "https://www.griswoldinn.com/",
     "id": "connecticut_the_griswold_inn"
   },
   {
     "name": "Mine Hill Preserve",
     "lat": 41.5588033,
     "lon": -73.337125,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/RoxburyCT_IronFurnace_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "The remnants of a 19th-century ironmaking complex hidden in the woods of Connecticut. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "hiking",
+      "historic",
+      "nature"
+    ],
+    "url": "https://roxburylandtrust.org/",
     "id": "connecticut_mine_hill_preserve"
   },
   {
     "name": "Harvey Cushing/John Hay Whitney Medical Library at Yale",
     "lat": 41.3031844,
     "lon": -72.933476,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Medical_Historical_Library_Reading_Room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "A vast collection of rare books, manuscripts & extraordinary objects illustrating the history of medicine. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "bookstore",
+      "historic"
+    ],
+    "url": "https://library.medicine.yale.edu/",
     "id": "connecticut_harvey_cushing_john_hay_whitney_medical_library_at_yale"
   },
   {
@@ -787,8 +1001,11 @@
     "imageURL": null,
     "description": "A museum dedicated to antique toys, collectibles, and nostalgia.  ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.barkermuseum.com/",
     "id": "connecticut_barker_character_comic_and_cartoon_museum"
   },
   {
@@ -798,7 +1015,11 @@
     "imageURL": null,
     "description": "The cave where two British judges hid in exile after sentencing the king to death. <br>\"New Haveners will recognize the names Whalley, Dixwell and Goffe for three major roadways in the city. What Elm City residents and others in the state might not know is the incredible story behind the three names, a story that connects New Haven to what, at the time, were earth-shaking political developments. In 1649, during the English Civil War, some 59 British judges signed a writ of execution for Charles I (“regicide”), and three of them — Edward Whalley, John Dixwell and William Goffe — fled for the colonies. The three judges hid out on the top of West Rock in what is now called Judges Cave, a rock formation situated along the south end of Regicides Trail, a 7-mile, blue-blazed hiking trail. The cave is still there, with a plaque that tells the story with the quote: “Opposition to tyrants is obedience to God.”\"",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "landmark",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_judges_cave"
   },
@@ -806,21 +1027,28 @@
     "name": "Yale Collection of Musical Instruments",
     "lat": 41.3123779,
     "lon": -72.9237366,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/15_Hillhouse_Avenue_Dusk.JPG/1280px-15_Hillhouse_Avenue_Dusk.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "A quirky assortment of musical marvels from around the world. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "music"
+    ],
+    "url": "https://music.yale.edu/collection",
     "id": "connecticut_yale_collection_of_musical_instruments"
   },
   {
     "name": "Castle Craig",
     "lat": 41.5566269,
     "lon": -72.8355342,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Craig2.jpg/1280px-Craig2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "A lone tower rises above the cliffs in a city park, offering fantastic views of the Connecticut landscape. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "viewpoint",
+      "landmark",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_castle_craig"
   },
@@ -831,7 +1059,10 @@
     "imageURL": null,
     "description": "This picturesque Victorian ghost town was once a thriving mill community.  Currently, Iglesia ni Cristo does not allow anyone on the property without permission. Since the village is on a public road, taking photos from the road should not be a problem.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_iglesia_ni_cristo_johnsonville_extension"
   },
@@ -842,8 +1073,10 @@
     "imageURL": null,
     "description": "These Benedictine nuns have been making artisanal cheeses since before it was cool. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "religious"
+    ],
+    "url": "https://abbeyofreginalaudis.org/",
     "id": "connecticut_abbey_of_regina_laudis"
   },
   {
@@ -853,7 +1086,9 @@
     "imageURL": null,
     "description": "A famed data visualizer's personal sculpture garden is a landscape of modern and megalithic wonders. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art"
+    ],
     "url": null,
     "id": "connecticut_hogpen_hill_farms"
   },
@@ -864,18 +1099,24 @@
     "imageURL": null,
     "description": "Home of Philip Johnson, one of the 20th century's most influential architects. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "architecture",
+      "museum"
+    ],
+    "url": "https://theglasshouse.org/",
     "id": "connecticut_the_glass_house_national_trust_for_historic_preservation"
   },
   {
     "name": "Hearthstone Castle",
     "lat": 41.3781024,
     "lon": -73.448487,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/Hearthstone_Castle_1985.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "A castle inspired by medieval architecture is hidden in the woods of Connecticut. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_hearthstone_castle"
   },
@@ -886,8 +1127,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "cinema"
+    ],
+    "url": "https://www.cinestudio.org/",
     "id": "connecticut_cinestudio"
   },
   {
@@ -897,18 +1140,25 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art",
+      "music"
+    ],
+    "url": "https://www.artistscollective.org/",
     "id": "connecticut_artists_collective_inc"
   },
   {
     "name": "East Rock Park",
     "lat": 41.3296405,
     "lon": -72.9046296,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/East_Rock_Park_new_haven082.JPG/1280px-East_Rock_Park_new_haven082.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Panoramic views of the city of New Haven and the Long Island Sound, with a side of history. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "viewpoint",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_east_rock_park"
   },
@@ -919,7 +1169,9 @@
     "imageURL": null,
     "description": "The world's largest indoor go-kart racetrack is hiding in Connecticut.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "sports"
+    ],
     "url": null,
     "id": "connecticut_supercharged_indoor_karting_and_axe_throwing"
   },
@@ -927,10 +1179,13 @@
     "name": "Old New-Gate Prison & Copper Mine - Seasonal",
     "lat": 41.9619773,
     "lon": -72.7450288,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oldnewgateprison.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "A former copper mine which became a truly unsuccessful prison. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "museum"
+    ],
     "url": null,
     "id": "connecticut_old_new_gate_prison_copper_mine_seasonal"
   },
@@ -941,8 +1196,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.hygienic.org/",
     "id": "connecticut_hygienic_art"
   },
   {
@@ -952,52 +1209,69 @@
     "imageURL": null,
     "description": "A museum designed by and dedicated to P.T. Barnum in the town where he is buried. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://barnum-museum.org/",
     "id": "connecticut_the_barnum_museum"
   },
   {
     "name": "Dinosaur State Park",
     "lat": 41.651899,
     "lon": -72.6568621,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Dinosaur_State_Park_%28Rocky_Hill%2C_CT%29_-_dome.JPG/1280px-Dinosaur_State_Park_%28Rocky_Hill%2C_CT%29_-_dome.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "The ancient past meets the retro-future at these dinosaur tracks that are protected by a geodesic dome. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "nature",
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/dinosaur-state-park",
     "id": "connecticut_dinosaur_state_park"
   },
   {
     "name": "Gay City State Park",
     "lat": 41.7240442,
     "lon": -72.4449598,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Gay_City_Connecticut_State_Park_Split_Rock_Formation.JPG/1280px-Gay_City_Connecticut_State_Park_Split_Rock_Formation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "The ruins of an abandoned 18th-century town that is slowly being reclaimed by the forest. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://ctparks.com/parks/gay-city-state-park",
     "id": "connecticut_gay_city_state_park"
   },
   {
     "name": "Gillette Castle State Park",
     "lat": 41.4229825,
     "lon": -72.4284143,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Gilettes_Castle_KevinPepin_01.jpg/1280px-Gilettes_Castle_KevinPepin_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Quirky castle designed by the American actor best known for portraying Sherlock Holmes on stage. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://ctparks.com/parks/gillette-castle-state-park",
     "id": "connecticut_gillette_castle_state_park"
   },
   {
     "name": "Yale University Art Gallery",
     "lat": 41.30839,
     "lon": -72.930958,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yale_University_Art_Gallery_exterior.jpg/1280px-Yale_University_Art_Gallery_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: A huge, eclectic, free museum that punches far above its weight: ancient artifacts, African sculpture, modern art, and more. The building itself (also partly by Kahn) is a highlight.<br>Traveler note: This is not a quick stop — give it time or focus on one section.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://artgallery.yale.edu/",
     "id": "connecticut_yale_university_art_gallery"
   },
   {
@@ -1007,8 +1281,11 @@
     "imageURL": null,
     "description": "An archival collection of over 2,200 case studies which includes human brain specimens and tumor specimens. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://library.medicine.yale.edu/cushingcenter",
     "id": "connecticut_the_cushing_center"
   },
   {
@@ -1018,7 +1295,9 @@
     "imageURL": null,
     "description": "A miniature village lies nearly forgotten in the forest by the side of a major highway. <br>This location does not have an address and is both very easy to get to and mildly difficult to access if you are driving there in a car. The closest place to park is Maggie McFly’s (a restaurant). To access the fairy village, find Old Waterbury Road. At the end of this road is an old access road that is now more of an overgrown trail. You cannot drive down the access road, and there are signs saying you cannot park on Old Waterbury Road or risk being towed. They don’t want people parking there to walk to the village.<br><br>While not restricted or illegal, the town doesn’t make it easy to access the area because they are worried about vandalism and misuse. You will need to walk along the service road until you see giant power lines and the highway in front of you. Once you pass under the giant power lines keep to the left going into the woods down a well-walked trail. Depending on the time of year the path is usually pretty visible. Go towards the crumbling main large human-sized hut. On the other side, you will find the cliff throne and some of the best-preserved fairy houses. There are several houses in various states of crumbling ruin scattered throughout the forest, but be careful if you stray from the trails; there is a lot of poison ivy.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_abandoned_fairy_village"
   },
@@ -1026,21 +1305,27 @@
     "name": "Beinecke Rare Book and Manuscript Library",
     "lat": 41.3115681,
     "lon": -72.9273095,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/67/Yale-beinecke-library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "Yale University's home for rare works, including the mysterious Voynich Manuscript. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "bookstore",
+      "architecture"
+    ],
+    "url": "https://beinecke.library.yale.edu/beinecke",
     "id": "connecticut_beinecke_rare_book_and_manuscript_library"
   },
   {
     "name": "Holy Land USA Waterbury",
     "lat": 41.548744,
     "lon": -73.0302478,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/Holy_Land_postcard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "A religious-themed park filled with folk art to bring biblical stories to life that fell into disrepair and now being restored.  ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky",
+      "religious"
+    ],
     "url": null,
     "id": "connecticut_holy_land_usa_waterbury"
   },
@@ -1048,10 +1333,13 @@
     "name": "Pinchot Sycamore Tree Park",
     "lat": 41.8478919,
     "lon": -72.8066647,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Pinchot_Sycamore_-_sycamore_tree_in_Simsbury%2C_Connecticut%2C_May_2015.jpg/1280px-Pinchot_Sycamore_-_sycamore_tree_in_Simsbury%2C_Connecticut%2C_May_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "largest tree in CT",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_pinchot_sycamore_tree_park"
   },
@@ -1059,22 +1347,29 @@
     "name": "Coltsville Historic District",
     "lat": 41.7576522,
     "lon": -72.6692867,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Armsmear_%28Hartford%2C_CT%29.jpg/1280px-Armsmear_%28Hartford%2C_CT%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "nps"
+    ],
+    "url": "https://www.nps.gov/colt/index.htm",
     "id": "connecticut_coltsville_historic_district"
   },
   {
     "name": "Weir Farm National Historical Park",
     "lat": 41.2576188,
     "lon": -73.4559584,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Weir_Farm_National_Historic_Site_-_front_of_the_house.jpg/1280px-Weir_Farm_National_Historic_Site_-_front_of_the_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nps",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/wefa/index.htm",
     "id": "connecticut_weir_farm_national_historical_park"
   },
   {
@@ -1084,19 +1379,26 @@
     "imageURL": null,
     "description": "NHL - Oldest bird sanctuary in the U.S., where Mabel Osgood Wright originated \"birdscaping\".",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "nature"
+    ],
+    "url": "https://ctaudubon.org/locations/birdcraft-museum-and-sanctuary/",
     "id": "connecticut_ct_audubon_birdcraft_museum"
   },
   {
     "name": "Roseland Cottage",
     "lat": 41.9493187,
     "lon": -71.9762951,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/WoodstockCT_Roseland_MainHouse_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "NHL Gothic revival summer cottage visited by three U.S. presidents. Take a peek into the life of 19th-century business titan Henry Bowen and his family, who sought refuge from the heat and tumult of New York City. The 1846 Gothic Revival cottage with its lush Victorian interiors is best known for its delightful architecture and having a pink exterior — and it features the oldest surviving indoor bowling alley in the U.S.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.historicnewengland.org/property/roseland-cottage/",
     "id": "connecticut_roseland_cottage"
   },
   {
@@ -1106,8 +1408,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": "https://averypoint.uconn.edu/",
     "id": "connecticut_uconn_avery_point"
   },
   {
@@ -1117,8 +1422,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.arethusafarm.com/",
     "id": "connecticut_arethusa_farm"
   },
   {
@@ -1128,8 +1435,11 @@
     "imageURL": null,
     "description": "AI: Connecticut's only island camping destination, accessible solely by boat. Wonderfully remote feeling despite being on the Connecticut River. A hidden gem for paddlers seeking something different.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/selden-neck-state-park",
     "id": "connecticut_selden_neck_state_park"
   },
   {
@@ -1139,7 +1449,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "cinema"
+    ],
     "url": null,
     "id": "connecticut_southington_drive_in"
   },
@@ -1147,21 +1459,26 @@
     "name": "New England Air Museum",
     "lat": 41.947718,
     "lon": -72.691551,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/NEAM.JPG/1280px-NEAM.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Next to Bradley International Airport, the New England Air Museum is home to more than 100 vintage aircraft displayed in three large hangars, from early flying machines and biplanes to helicopters, fighter jets, and a B-29A Superfortress bomber. There are flight simulators and special open cockpit days when visitors can sit in the cockpit of selected aircraft. The collection extends to engines, instruments, aircraft parts, uniforms and personal memorabilia",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://neam.org/",
     "id": "connecticut_new_england_air_museum"
   },
   {
     "name": "West Cornwall Covered Bridge",
     "lat": 41.8715504,
     "lon": -73.3637806,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Cornwall-Covered-Bridge.jpg/1280px-Cornwall-Covered-Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_west_cornwall_covered_bridge"
   },
@@ -1172,7 +1489,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_pine_knob_loop_trail_trailhead_parking"
   },
@@ -1180,22 +1500,30 @@
     "name": "Lovers Leap State Park",
     "lat": 41.542979,
     "lon": -73.4087221,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Lovers_Leap_State_Park_-_Connecticut.jpg/1280px-Lovers_Leap_State_Park_-_Connecticut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://ctparks.com/parks/lovers-leap-state-park",
     "id": "connecticut_lovers_leap_state_park"
   },
   {
     "name": "Lockwood-Mathews Mansion Museum",
     "lat": 41.1088887,
     "lon": -73.4171552,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/NorwalkCTLockwoodMansionSoSide09032007.JPG/1280px-NorwalkCTLockwoodMansionSoSide09032007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: an astonishing 1864 Second Empire mansion that most people skip. The inlaid woodwork, frescoed rotunda, and original furnishings rival anything in Newport, but you'll often have rooms to yourself. This represents the peak of Victorian craftsmanship and the massive fortunes made in the Civil War era.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://lockwoodmathewsmansion.com/",
     "id": "connecticut_lockwood_mathews_mansion_museum"
   },
   {
@@ -1205,7 +1533,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_jacobs_beach"
   },
@@ -1216,8 +1546,11 @@
     "imageURL": null,
     "description": "NHL - a major Modernist church design",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": "https://fishchurch.org/",
     "id": "connecticut_first_presbyterian_church"
   },
   {
@@ -1227,7 +1560,10 @@
     "imageURL": null,
     "description": "NHL - Mohegan settlement and home of the seventeenth century sachem Uncas.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "archaeological",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_fort_shantok_archeological_district"
   },
@@ -1235,11 +1571,14 @@
     "name": "Florence Griswold Museum",
     "lat": 41.3257556,
     "lon": -72.3268678,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Florence_Griswold_House%2C_Old_Lyme%2C_CT.jpg/1280px-Florence_Griswold_House%2C_Old_Lyme%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "NHL - Boarding house frequented by American impressionist artists such as Henry Ward Ranger, Childe Hassam, and Willard Metcalf.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://flogris.org/",
     "id": "connecticut_florence_griswold_museum"
   },
   {
@@ -1249,7 +1588,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "sports"
+    ],
     "url": null,
     "id": "connecticut_wildflower_centre_for_natural_healing"
   },
@@ -1260,19 +1601,25 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://contemprints.org/",
     "id": "connecticut_center_for_contemporary_printmaking"
   },
   {
     "name": "Yale Center for British Art",
     "lat": 41.3078875,
     "lon": -72.9305307,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Yale_Center_for_British_Art.jpg/1280px-Yale_Center_for_British_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "url": "https://britishart.yale.edu/",
     "id": "connecticut_yale_center_for_british_art"
   },
   {
@@ -1282,29 +1629,37 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://nbindustrial.org/",
     "id": "connecticut_new_britain_industrial_museum"
   },
   {
     "name": "Mount Tom Tower",
     "lat": 41.6934122,
     "lon": -73.2733798,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/2013-06-22_Mt._Tom_State_Park_%2837%29.JPG/1280px-2013-06-22_Mt._Tom_State_Park_%2837%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "viewpoint",
+      "hiking"
+    ],
+    "url": "https://ctparks.com/parks/mount-tom-state-park",
     "id": "connecticut_mount_tom_tower"
   },
   {
     "name": "Yantic Falls",
     "lat": 41.5337093,
     "lon": -72.0900774,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Pedestrian_bridge_near_Yantic_Falls%2C_December_2018.JPG/1280px-Pedestrian_bridge_near_Yantic_Falls%2C_December_2018.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_yantic_falls"
   },
@@ -1312,10 +1667,13 @@
     "name": "Peoples State Forest Nature Museum",
     "lat": 41.9255487,
     "lon": -72.9967939,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/PeoplesStateForest_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_peoples_state_forest_nature_museum"
   },
@@ -1326,8 +1684,11 @@
     "imageURL": null,
     "description": "The last blast furnace to close in New England offers a rare window into the region’s once-thriving iron industry.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/beckley-furnace-industrial-monument",
     "id": "connecticut_beckley_iron_furnace_state_park"
   },
   {
@@ -1337,8 +1698,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://mysticmuseumofart.org/",
     "id": "connecticut_mystic_museum_of_art"
   },
   {
@@ -1348,7 +1712,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "food",
+      "historic",
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_b_f_clyde_s_cider_mill_seasonal"
   },
@@ -1359,7 +1727,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_the_cloak_and_wand"
   },
@@ -1367,11 +1738,14 @@
     "name": "Lyman Allyn Art Museum",
     "lat": 41.373699,
     "lon": -72.103112,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lyman_Allyn_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.lymanallyn.org/",
     "id": "connecticut_lyman_allyn_art_museum"
   },
   {
@@ -1381,8 +1755,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/haddam-island-state-park",
     "id": "connecticut_haddam_island_state_park"
   },
   {
@@ -1392,7 +1768,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_irreplaceable_artifacts"
   },
@@ -1400,11 +1779,14 @@
     "name": "Slater Memorial Museum",
     "lat": 41.5365104,
     "lon": -72.0812072,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John_Fox_Slater_Memorial_Museum%2C_108_Crescent_Street%2C_Norwich_%28New_London_County%2C_Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "The plaster cast collection is the crown jewel of the Slater Memorial Museum on the campus of Norwich Free Academy. In 1887, a fellow named Edward Robinson, head of the classical collection at the Boston Museum of Fine Arts, was tapped to select sculptures to be duplicated and installed at the museum — works like the Nike of Samothrace on display at the Louvre in Paris. The Slater’s plaster cast replicas cover thousands of years of Assyrian, Egyptian, Greek, Roman and Renaissance sculptures. Paintings and artifacts from Europe are also on display, and there’s a Gallery of African Art as well.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.slatermuseum.org/",
     "id": "connecticut_slater_memorial_museum"
   },
   {
@@ -1414,7 +1796,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art"
+    ],
     "url": null,
     "id": "connecticut_kelsey_museum_sculpture_garden"
   },
@@ -1422,44 +1806,55 @@
     "name": "Windham Textile & History Museum (the Mill Museum)",
     "lat": 41.7109653,
     "lon": -72.2056691,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Windham_Textile_and_History_Museum%2C_Willimantic%2C_CT.jpg/1280px-Windham_Textile_and_History_Museum%2C_Willimantic%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "There’s so much to see at the Mill Museum in the former headquarters of the American Thread Co. There’s a historical society, library and archive, in addition to the museum, which preserves and interprets the history of textiles and the textile industry in Connecticut. Visitors can take in the Mill Workers’ House, Mill Manager’s Mansion, Brooke Shannon Antique Sewing Machine Room, and Peggy Church Weaving Studio, among others. And look for the special exhibit Here All Along: African Americans in Northeastern Connecticut Before the Great Migration, which explores the African American experience in northeastern Connecticut from the 1600s to 1910.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://millmuseum.org/",
     "id": "connecticut_windham_textile_history_museum_the_mill_museum"
   },
   {
     "name": "Southford Falls State Park",
     "lat": 41.4589434,
     "lon": -73.1646776,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/SouthfordFallsSP_IMG_0955.jpg/1280px-SouthfordFallsSP_IMG_0955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/southford-falls-state-park",
     "id": "connecticut_southford_falls_state_park"
   },
   {
     "name": "Webb Deane Stevens Museum",
     "lat": 41.7120407,
     "lon": -72.6530724,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Webb_House%2C_Wethersfield.JPG/1280px-Webb_House%2C_Wethersfield.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: This is one of the strongest of the colonial-house options because it sits within the broader Webb-Deane-Stevens complex in Old Wethersfield, so you get more context and atmosphere than with a single isolated landmark. Silas Deane himself is a significant Revolutionary-era figure, and the house has enough stature and setting to feel like a substantial visit rather than just an exterior photo stop. Tours are seasonal, typically May through October, with guided tours at set times",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://wdsmuseum.org/",
     "id": "connecticut_webb_deane_stevens_museum"
   },
   {
     "name": "Hollister House Garden",
     "lat": 41.6176056,
     "lon": -73.2705507,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/66/WashingtonCT_HollisterHomestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://hollisterhousegarden.org/",
     "id": "connecticut_hollister_house_garden"
   },
   {
@@ -1469,8 +1864,10 @@
     "imageURL": null,
     "description": "A page has been added to the CAMA website describing its newest addition — the new wing of the Connecticut Museum of Mining and Mineral Science. Called the Hall of Connecticut Geology and Paleontology, the exhibits explore the creation of the patch of earth called Connecticut, and all the upheavals that created the geology we see in the state today. The paleontology of Connecticut is another focus, though the core attraction is antique machinery and plenty of it, including industrial technology, internal combustion engines, steam engines, and machinery designed for agriculture and logging.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.ctamachinery.org/",
     "id": "connecticut_connecticut_antique_machinery_museum"
   },
   {
@@ -1480,30 +1877,40 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.matherhomestead.org/",
     "id": "connecticut_mather_homestead"
   },
   {
     "name": "Bush-Holley House",
     "lat": 41.0338446,
     "lon": -73.5979024,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/GreenwichCTBush-HolleyHouseSide09092007.JPG/1280px-GreenwichCTBush-HolleyHouseSide09092007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "The Greenwich Historical Society is home to an intriguing house museum with a dual identity; one side embodies the site’s Colonial and post-Colonial past, while the other shows off its identity as the centerpiece of the Cos Cob art colony and a bastion of American Impressionism. The most famous guest was Childe Hassam, who painted Bowl of Goldfish at the site.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic",
+      "art"
+    ],
+    "url": "https://greenwichhistory.org/",
     "id": "connecticut_bush_holley_house"
   },
   {
     "name": "Housatonic Meadows State Park",
     "lat": 41.8396948,
     "lon": -73.3811849,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Appalachian_Trail_Pine_Knob_Loop_Trail_section_in_Housatonic_Meadows_State_Park_scenic_overlook_of_the_Housatonic_River.JPG/1280px-Appalachian_Trail_Pine_Knob_Loop_Trail_section_in_Housatonic_Meadows_State_Park_scenic_overlook_of_the_Housatonic_River.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/housatonic-meadows-state-park",
     "id": "connecticut_housatonic_meadows_state_park"
   },
   {
@@ -1513,8 +1920,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic"
+    ],
+    "url": "https://visitorcenter.yale.edu/",
     "id": "connecticut_the_mead_visitor_center"
   },
   {
@@ -1524,8 +1933,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://www.strange-ways.com/",
     "id": "connecticut_strange_ways"
   },
   {
@@ -1535,7 +1947,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_ballek_s_garden_center"
   },
@@ -1546,8 +1961,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "art",
+      "music"
+    ],
+    "url": "https://lagruacenter.org/",
     "id": "connecticut_la_grua_center"
   },
   {
@@ -1557,8 +1975,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.historicstonington.org/",
     "id": "connecticut_the_stonington_lighthouse_museum"
   },
   {
@@ -1568,8 +1989,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food",
+      "quirky",
+      "shopping"
+    ],
+    "url": "https://www.averysoda.com/",
     "id": "connecticut_avery_s_beverages_llc"
   },
   {
@@ -1579,8 +2004,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "nature"
+    ],
+    "url": "https://www.seaport.org/",
     "id": "connecticut_sheffield_island_lighthouse_cruises"
   },
   {
@@ -1590,7 +2018,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_eastern_point_beach"
   },
@@ -1601,8 +2031,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://theknowlton.com/",
     "id": "connecticut_the_knowlton_305_knowlton_street"
   },
   {
@@ -1612,18 +2045,24 @@
     "imageURL": null,
     "description": "Come visit ARRL! The main adminstrative building includes a well-appointed reception area with exhibits and a membership store. Outside, visitors can navigate a self-guided tour that includes the ARRL Diamond Terrace composed of inscribed bricks placed by committed ARRL Diamond Club members, other monuments, the historic Maxim Memorial Station, W1AW, and its present-day antenna farm. For any additional questions please contact Jon Faasen, AA1EZ: 860-594-0387",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.arrl.org/",
     "id": "connecticut_american_radio_relay_league"
   },
   {
     "name": "Osborne Homestead Museum",
     "lat": 41.334304,
     "lon": -73.1112407,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Derby_Osbornedale_house.jpg/1280px-Derby_Osbornedale_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_osborne_homestead_museum"
   },
@@ -1634,7 +2073,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_kellogg_environmental_center"
   },
@@ -1645,7 +2086,10 @@
     "imageURL": null,
     "description": "AI: he Branford Land Trust describes the Trolley Trail as a favorite for its close-up views of tidal wetlands, osprey platforms, and Long Island Sound scenery. That makes it a very good contrast to Stony Creek: less picturesque-village charm, more salt-marsh atmosphere. It is the kind of short walk that gives you a distinctly coastal Connecticut landscape without needing a huge hike. Not a marquee destination on its own for most out-of-town visitors, but very much worth doing if you’re already exploring Branford.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_branford_trolley_trail_and_footbridge"
   },
@@ -1653,10 +2097,12 @@
     "name": "Falkner Island",
     "lat": 41.2125283,
     "lon": -72.6537368,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Faulkners_IslandLight_%28New_Haven_County%2C_Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_falkner_island"
   },
@@ -1664,11 +2110,14 @@
     "name": "Bartlett Arboretum & Gardens",
     "lat": 41.132328,
     "lon": -73.549622,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Bartlett_Arboretum_and_Gardens_-_Bartlett_Homestead.jpg/1280px-Bartlett_Arboretum_and_Gardens_-_Bartlett_Homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Nestled on the Great Lawn of the historic Bartlett Arboretum & Gardens in Stamford, Connecticut, the Word Garden is a playful space that invites guests to connect with nature and one another through language and creativity. Visitors are encouraged to create poetry, share messages, or spark conversations that others can enjoy as they stroll the grounds",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://www.bartlettarboretum.org/",
     "id": "connecticut_bartlett_arboretum_gardens"
   },
   {
@@ -1678,7 +2127,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_stone_field_sculpture"
   },
@@ -1686,32 +2138,42 @@
     "name": "Enders State Forest",
     "lat": 41.9550671,
     "lon": -72.8788352,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ender_falls%2C_connecticut_%2826894310517%29.jpg/1280px-Ender_falls%2C_connecticut_%2826894310517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "short hike to Enders Falls - some consider best waterfalls in the state",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://portal.ct.gov/deep/state-parks/forests/enders-state-forest",
     "id": "connecticut_enders_state_forest"
   },
   {
     "name": "Mattatuck Museum",
     "lat": 41.5574584,
     "lon": -73.0431565,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Mattatuck_Museum_1_-_front_exterior.JPG/1280px-Mattatuck_Museum_1_-_front_exterior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "home to the waterbury button museum",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.mattmuseum.org/",
     "id": "connecticut_mattatuck_museum"
   },
   {
     "name": "Saville Dam",
     "lat": 41.9095406,
     "lon": -72.9534367,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Savilledam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "\"Completed in 1940 and located on the eastern branch of the Farmington River, the dam creates the 8-mile-long Barkhamsted Reservoir, which serves as the primary water source for Hartford. This is a place where you come to get away and to enjoy the quiet and the stunning views. You might even spy a soaring bald eagle. (It’s a favorite haunt of many photographers.) There are also some pleasant walking trails in the area. But if you’re planning a long stay, make sure to bring food and drinks; there are no dining options in the immediate vicinity.\"",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "viewpoint",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_saville_dam"
   },
@@ -1719,22 +2181,27 @@
     "name": "The Shore Line Trolley Museum",
     "lat": 41.2742847,
     "lon": -72.8628959,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/BERA_Trolley_Station_EastHaven-CT.jpg/1280px-BERA_Trolley_Station_EastHaven-CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Presenting the story of the trolley and other mass transit in a historical context, the Shoreline Trolley Museum operates the Branford Electric Railway, opened in 1900 and recognized as the oldest continuously operated suburban trolley line in the U.S. Collections include equipment, photographs, documents and artifacts, but the fun part is the ride that takes visitors past the shoreline salt marsh. During the trip, the trolley operator discusses the restored trolleys in the collection and explains how they helped shape transportation. There are also lots of fun seasonal events. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://shorelinetrolley.org/",
     "id": "connecticut_the_shore_line_trolley_museum"
   },
   {
     "name": "Lock Museum of America",
     "lat": 41.6791812,
     "lon": -73.0123656,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Lock_Museum_of_America%2C_Terryville_CT.jpg/1280px-Lock_Museum_of_America%2C_Terryville_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.lockmuseumofamerica.org/",
     "id": "connecticut_lock_museum_of_america"
   },
   {
@@ -1744,8 +2211,11 @@
     "imageURL": null,
     "description": "Tucked away on 15 wooded acres, the Institute for American Indian Studies has a 16th-century Algonquian village, a fun Wigwam Escape adventure, and a museum with displays of artifacts from prehistory to the present that inform and enhance visitors’ understanding of the history and culture of Native Americans, whose story is honored and recounted through a combination of archaeology, research, exhibitions and programs.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.iaismuseum.org/",
     "id": "connecticut_the_institute_for_american_indian_studies"
   },
   {
@@ -1755,8 +2225,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://ctparks.com/parks/haystack-mountain-state-park",
     "id": "connecticut_haystack_mountain_tower_parking_and_trailhead"
   },
   {
@@ -1766,7 +2239,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "cinema"
+    ],
     "url": null,
     "id": "connecticut_pleasant_valley_drive_in"
   },
@@ -1774,10 +2249,13 @@
     "name": "Cathedral Pines",
     "lat": 41.8364607,
     "lon": -73.3271873,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Cathedral_Pines.JPG/1280px-Cathedral_Pines.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "one of last remaining old growth forests in region",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_cathedral_pines"
   },
@@ -1785,22 +2263,27 @@
     "name": "Ivoryton Playhouse",
     "lat": 41.3486103,
     "lon": -72.4421684,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/COMSTOCK-CHENEY_HALL.jpg/1280px-COMSTOCK-CHENEY_HALL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.ivorytonplayhouse.org/",
     "id": "connecticut_ivoryton_playhouse"
   },
   {
     "name": "Rocky Neck State Park",
     "lat": 41.3093088,
     "lon": -72.2419131,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Rocky_Neck_Pavillion_Kevin_Pepin.jpg/1280px-Rocky_Neck_Pavillion_Kevin_Pepin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "beaches"
+    ],
+    "url": "https://ctparks.com/parks/rocky-neck-state-park",
     "id": "connecticut_rocky_neck_state_park"
   },
   {
@@ -1810,18 +2293,25 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic",
+      "museum"
+    ],
+    "url": "https://ctparks.com/parks/fort-trumbull-state-park",
     "id": "connecticut_fort_trumbull_state_park_and_museum"
   },
   {
     "name": "Chester–Hadlyme Ferry",
     "lat": 41.4200761,
     "lon": -72.4288732,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Ferry_seen_from_Gillette_Castle_03_%289363510967%29.jpg/1280px-Ferry_seen_from_Gillette_Castle_03_%289363510967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_chester_hadlyme_ferry"
   },
@@ -1832,7 +2322,9 @@
     "imageURL": null,
     "description": "NNL",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_cedar_swamp"
   },
@@ -1840,21 +2332,27 @@
     "name": "Wadsworth Falls State Park",
     "lat": 41.5369083,
     "lon": -72.6860404,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Wadsworth_Falls.jpg/1280px-Wadsworth_Falls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Two waterfalls, swimming holes, and a coggins Mill dam make this a solid all-rounder. Popular with locals for good reason, though the Big Falls can underwhelm after heavy rain advertisements elsewhere.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/wadsworth-falls-state-park",
     "id": "connecticut_wadsworth_falls_state_park"
   },
   {
     "name": "Rocky Hill-Glastonbury Ferry - Glastonbury Landing",
     "lat": 41.6656543,
     "lon": -72.625973,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/26/IMG_4136_Rocky_Hill_-_Glastonbury_Ferry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_rocky_hill_glastonbury_ferry_glastonbury_landing"
   },
@@ -1865,7 +2363,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
     "url": null,
     "id": "connecticut_case_mountain_trailhead"
   },
@@ -1876,18 +2377,24 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "shopping",
+      "nature"
+    ],
+    "url": "https://www.logees.com/",
     "id": "connecticut_logee_s_plants_for_home_garden"
   },
   {
     "name": "Paul Mellon Arts Center",
     "lat": 41.4581034,
     "lon": -72.808694,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Paul_Mellon_Arts_Center_-_Choate_Rosemary_Hall%2C_Wallingford%2C_Connecticut.JPG/1280px-Paul_Mellon_Arts_Center_-_Choate_Rosemary_Hall%2C_Wallingford%2C_Connecticut.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "theater"
+    ],
     "url": null,
     "id": "connecticut_paul_mellon_arts_center"
   },
@@ -1895,11 +2402,15 @@
     "name": "Topsmead State Forest",
     "lat": 41.7479402,
     "lon": -73.1529507,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/TOPSMEAD%2C_LITCHFIELD_COUNTY%2C_CT.jpg/1280px-TOPSMEAD%2C_LITCHFIELD_COUNTY%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: A striking English Tudor Revival mansion sits amid rolling meadows and forests. The estate grounds are lovely for strolling, and the architecture is unexpectedly grand. Feels like stumbled-upon English countryside.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "nature",
+      "architecture"
+    ],
+    "url": "https://portal.ct.gov/deep/state-parks/forests/topsmead-state-forest",
     "id": "connecticut_topsmead_state_forest"
   },
   {
@@ -1909,7 +2420,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "food",
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_rustling_wind_creamery"
   },
@@ -1920,7 +2434,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "viewpoint",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_rand_s_view"
   },
@@ -1931,7 +2448,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_gold_s_pines_natural_area_preserve"
   },
@@ -1942,8 +2461,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.audubon.org/sharon",
     "id": "connecticut_sharon_audubon_center"
   },
   {
@@ -1953,19 +2474,25 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.mccarthyobservatory.org/",
     "id": "connecticut_john_j_mccarthy_observatory"
   },
   {
     "name": "Bruce Museum",
     "lat": 41.0197395,
     "lon": -73.6228505,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/GreenwichCTBruceMuseumEntrance09212007.JPG/1280px-GreenwichCTBruceMuseumEntrance09212007.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Recently expanded and polished. A blend of art and natural history that punches above typical suburban-museum expectations. If you’re in Greenwich, this is the most well-rounded cultural stop.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://brucemuseum.org/",
     "id": "connecticut_bruce_museum"
   },
   {
@@ -1975,7 +2502,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_the_bruce_museum_seaside_center"
   },
@@ -1986,7 +2516,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_kosciuszko_park"
   },
@@ -1994,88 +2527,111 @@
     "name": "Stamford Museum & Nature Center",
     "lat": 41.1261182,
     "lon": -73.5455335,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bendel_Pond.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "nature"
+    ],
+    "url": "https://www.stamfordmuseum.org/",
     "id": "connecticut_stamford_museum_nature_center"
   },
   {
     "name": "Grace Farms",
     "lat": 41.196858,
     "lon": -73.512043,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Grace_Farms_River_building.jpg/1280px-Grace_Farms_River_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "architecture",
+      "nature"
+    ],
+    "url": "https://gracefarms.org/",
     "id": "connecticut_grace_farms"
   },
   {
     "name": "New Canaan Museum & Historical Society",
     "lat": 41.1500032,
     "lon": -73.4964467,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/61/John_Rogers_Studio%2C_10_Cherry_Street%2C_New_Canaan_%28Fairfield_County%2C_Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://nchistory.org/",
     "id": "connecticut_new_canaan_museum_historical_society"
   },
   {
     "name": "The Maritime Aquarium at Norwalk",
     "lat": 41.1011406,
     "lon": -73.4165929,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg/1280px-Maritime_Aquarium_at_Norwalk_%2854412835630%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "nature"
+    ],
+    "url": "https://www.maritimeaquarium.org/",
     "id": "connecticut_the_maritime_aquarium_at_norwalk"
   },
   {
     "name": "Osbornedale State Park",
     "lat": 41.339678,
     "lon": -73.099976,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/OsbournedaleSP_Erratic.jpg/1280px-OsbournedaleSP_Erratic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/osbornedale-state-park",
     "id": "connecticut_osbornedale_state_park"
   },
   {
     "name": "Putnam Memorial State Park",
     "lat": 41.3373384,
     "lon": -73.3815692,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/PUTNAM_MEMORIAL_STATE_PARK.jpg/1280px-PUTNAM_MEMORIAL_STATE_PARK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "\"Billed as “Connecticut’s Valley Forge,” Putnam Memorial State Park is the oldest state park in Connecticut. It is located on the site of the winter encampment of Gen. Israel Putnam’s Continental troops, who stayed on the grounds from December 1778 to May 1779. Guests can learn more about this Revolutionary history and the site’s archaeological surveys at the visitor center, museum and reconstructed camp buildings or by following in the footsteps of those who fought to form this country, on an interpretive trail.\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://ctparks.com/parks/putnam-memorial-state-park",
     "id": "connecticut_putnam_memorial_state_park"
   },
   {
     "name": "Fairfield University Art Museum",
     "lat": 41.1567164,
     "lon": -73.258934,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bellarmine_Hall_at_Fairfield_University%2C_CT.jpg/1280px-Bellarmine_Hall_at_Fairfield_University%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.fairfield.edu/museum/",
     "id": "connecticut_fairfield_university_art_museum"
   },
   {
     "name": "Farm River State Park",
     "lat": 41.2561099,
     "lon": -72.8567173,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Farm_River_Connecticut_State_Park_Quinnipiac_University_Boat_Docks.JPG/1280px-Farm_River_Connecticut_State_Park_Quinnipiac_University_Boat_Docks.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/farm-river-state-park",
     "id": "connecticut_farm_river_state_park"
   },
   {
@@ -2085,7 +2641,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_phelps_gate"
   },
@@ -2093,11 +2652,13 @@
     "name": "Stewart B. McKinney National Wildlife Refuge",
     "lat": 41.2415432,
     "lon": -72.7600224,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stewart_B._McKinney_National_Wildlife_Refuge_%28CT%29_%288162039177%29.jpg/1280px-Stewart_B._McKinney_National_Wildlife_Refuge_%28CT%29_%288162039177%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.fws.gov/refuge/stewart-b-mckinney",
     "id": "connecticut_stewart_b_mckinney_national_wildlife_refuge"
   },
   {
@@ -2107,7 +2668,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_eolia_mansion_at_harkness_state"
   },
@@ -2118,19 +2682,25 @@
     "imageURL": null,
     "description": "offers tours to gungywamp",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://dpnc.org/",
     "id": "connecticut_denison_pequotsepos_nature_center"
   },
   {
     "name": "Enders Island",
     "lat": 41.3227889,
     "lon": -71.9627331,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Enders_Island_-_Mystic%2C_CT.jpg/1280px-Enders_Island_-_Mystic%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "pretty little island; used as a cathoilic retreat; in chapel, there's the arm of St Edmund",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "religious",
+      "nature"
+    ],
+    "url": "https://endersisland.org/",
     "id": "connecticut_enders_island"
   },
   {
@@ -2140,19 +2710,24 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://wickedtulips.com/",
     "id": "connecticut_wicked_tulips_preston_ct"
   },
   {
     "name": "Pachaug State Forest",
     "lat": 41.6014876,
     "lon": -71.8859057,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Nehantic_Trail_-_Rhododendron_Sanctuary_Trail_planked_wooden_boardwalk_section.jpg/1280px-Nehantic_Trail_-_Rhododendron_Sanctuary_Trail_planked_wooden_boardwalk_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "the Great Meadow Swamp section is a NNL",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://portal.ct.gov/deep/state-parks/forests/pachaug-state-forest",
     "id": "connecticut_pachaug_state_forest"
   },
   {
@@ -2162,18 +2737,24 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "cinema",
+      "market"
+    ],
+    "url": "https://mansfielddrivein.com/",
     "id": "connecticut_mansfield_drive_in_theatre_marketplace"
   },
   {
     "name": "Wooster Square Historic District",
     "lat": 41.3030433,
     "lon": -72.9171142,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Wooster_square_cherry_trees.jpg/1280px-Wooster_square_cherry_trees.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "neighborhood",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_wooster_square_historic_district"
   },
@@ -2181,11 +2762,14 @@
     "name": "Chatfield Hollow State Park",
     "lat": 41.3658849,
     "lon": -72.585892,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Chatfield_Hollow_State_Park_-_%22Paul_F._Wildermann_Boardwalk%22..jpg/1280px-Chatfield_Hollow_State_Park_-_%22Paul_F._Wildermann_Boardwalk%22..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: A very accessible mix: small waterfall, pond, and a charming covered bridge. It’s compact and a bit curated-feeling, but still scenic and enjoyable. Good “intro to Connecticut outdoors” stop, especially if pairing with Guilford.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/chatfield-hollow-state-park",
     "id": "connecticut_chatfield_hollow_state_park"
   },
   {
@@ -2195,8 +2779,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "shopping"
+    ],
+    "url": "https://www.lavenderpondfarm.com/",
     "id": "connecticut_lavender_pond_farm"
   },
   {
@@ -2206,29 +2793,39 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food",
+      "shopping"
+    ],
+    "url": "https://beaverbrookfarm.com/",
     "id": "connecticut_sankow_s_beaver_brook_farm"
   },
   {
     "name": "Devil's Hopyard State Park",
     "lat": 41.4794712,
     "lon": -72.3416213,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Devils_Hopyard_Bridge_View_Kevin_Pepin.jpg/1280px-Devils_Hopyard_Bridge_View_Kevin_Pepin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Chapman Falls tumbles over curious circular potholes that Native legend attributes to the devil's hoofprints. The 60-foot cascade is genuinely impressive, and the surrounding hemlock forest has a primeval feel. A true standout that somehow remains relatively under-the-radar.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature",
+      "hiking"
+    ],
+    "url": "https://ctparks.com/parks/devils-hopyard-state-park",
     "id": "connecticut_devil_s_hopyard_state_park"
   },
   {
     "name": "Comstock Covered Bridge",
     "lat": 41.5531785,
     "lon": -72.4483394,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Comstock%27s_Bridge%2C_East_Hampton.jpg/1280px-Comstock%27s_Bridge%2C_East_Hampton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_comstock_covered_bridge"
   },
@@ -2239,8 +2836,10 @@
     "imageURL": null,
     "description": "This appointment-only museum connects the land with the story of how our agricultural history played a vital role in the rural development of New England through the display of agricultural-history artifacts from the 17th through 20th centuries, including farming tools and implements, household objects, and carpentry tools. Altogether there are 4,000 artifacts in the collection. Seasonal events include square dances in the barn and tractor-driven wagon rides for the holidays. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://blueslope.com/",
     "id": "connecticut_blue_slope_country_museum"
   },
   {
@@ -2250,7 +2849,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_niantic_boardwalk"
   },
@@ -2261,30 +2863,41 @@
     "imageURL": null,
     "description": "\"If you need another reason to hate Benedict Arnold, a visit here will do it. In 1781, Arnold, an American general who famously switched to the British side, led a raid on New London and Groton that resulted in the massacre of more than 80 troops at this fort across the Thames River in Groton. There is a memorial to these fallen soldiers, and guests can wander at will through the remains of the structure, which is among the best examples of a Revolutionary War fort still in existence. The Ebenezer Avery House, which sheltered the wounded after the battle, is also on the grounds. The site is part of the Thames River Heritage Park, which connects the fort with City Pier in New London and Fort Trumbull across the river by means of a water ferry running seasonally Friday, Saturday and Sunday.\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/fort-griswold-battlefield-state-park",
     "id": "connecticut_fort_griswold_battlefield_state_park"
   },
   {
     "name": "Bluff Point State Park",
     "lat": 41.335547,
     "lon": -72.0332679,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/BluffPointSP_IMG_1527.jpg/1280px-BluffPointSP_IMG_1527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: One of the best coastal walks in Connecticut—full stop. A long, undeveloped peninsula juts into Long Island Sound, with scrubby maritime forest, open views, and a real sense of space that’s rare in this crowded stretch of shoreline. It feels more like Cape Cod than suburban Connecticut. Come for a bike ride or long walk out to the point; the payoff is big-sky ocean views and a surprising feeling of isolation.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/bluff-point-state-park",
     "id": "connecticut_bluff_point_state_park"
   },
   {
     "name": "Harkness Memorial State Park",
     "lat": 41.3065798,
     "lon": -72.1168749,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/49/HarknessAerial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: A Gilded Age estate right on the Sound. Formal gardens, sweeping lawns, ocean breeze — bring a picnic and pretend you’re old-money aristocracy.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/harkness-memorial-state-park",
     "id": "connecticut_harkness_memorial_state_park"
   },
   {
@@ -2294,7 +2907,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park"
+    ],
     "url": null,
     "id": "connecticut_chittenden_park"
   },
@@ -2305,7 +2920,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_lighthouse_point_park_carousel"
   },
@@ -2313,10 +2931,12 @@
     "name": "Stony Creek",
     "lat": 41.2645413,
     "lon": -72.746208,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stony_creek_branford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: Stony Creek has that rare New England coastal-village feel that still seems like a real place rather than a staged postcard: granite outcrops, little harbor views, old summer-colony atmosphere, and above all the Thimble Islands just offshore. The village also has genuine historic texture tied to the islands and Branford’s shoreline past, so it feels more memorable than just “another cute waterfront stop.” For a visitor, it is the sort of place that works whether you simply wander, sit by the water, or pair it with a boat cruise.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "towns"
+    ],
     "url": null,
     "id": "connecticut_stony_creek"
   },
@@ -2327,7 +2947,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_matthies_memorial_park"
   },
@@ -2335,11 +2958,14 @@
     "name": "Macedonia Brook State Park",
     "lat": 41.7662438,
     "lon": -73.4950796,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Macedonia_State_Park%27s_Cobble_Mountain_summit_with_Catskill_Mountains_in_background.JPG/1280px-Macedonia_State_Park%27s_Cobble_Mountain_summit_with_Catskill_Mountains_in_background.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking"
+    ],
+    "url": "https://ctparks.com/parks/macedonia-brook-state-park",
     "id": "connecticut_macedonia_brook_state_park"
   },
   {
@@ -2349,7 +2975,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "viewpoint"
+    ],
     "url": null,
     "id": "connecticut_quarry_view"
   },
@@ -2360,8 +2988,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://wickhampark.org/",
     "id": "connecticut_wickham_park"
   },
   {
@@ -2371,19 +3001,23 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.actofct.org/",
     "id": "connecticut_act_of_connecticut"
   },
   {
     "name": "Burr Pond State Park",
     "lat": 41.8705236,
     "lon": -73.0925345,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Burr_Pond_Connecticut_State_Park%27s_Southern_Beach_and_Picnic_Section.JPG/1280px-Burr_Pond_Connecticut_State_Park%27s_Southern_Beach_and_Picnic_Section.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park"
+    ],
+    "url": "https://ctparks.com/parks/burr-pond-state-park",
     "id": "connecticut_burr_pond_state_park"
   },
   {
@@ -2393,7 +3027,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park"
+    ],
     "url": null,
     "id": "connecticut_riverside_park"
   },
@@ -2404,7 +3040,9 @@
     "imageURL": null,
     "description": "look for sculpture that commemorates the first instance of an American president pardoning a turkey.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art"
+    ],
     "url": null,
     "id": "connecticut_sculpture_walk"
   },
@@ -2412,10 +3050,13 @@
     "name": "Great Pond State Forest",
     "lat": 41.9000972,
     "lon": -72.831487,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Great_Pond%2C_Simsbury_CT.jpg/1280px-Great_Pond%2C_Simsbury_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_great_pond_state_forest"
   },
@@ -2426,7 +3067,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_devil_s_den_preserve"
   },
@@ -2437,8 +3081,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.colorblends.com/",
     "id": "connecticut_colorblends_house_spring_garden"
   },
   {
@@ -2448,7 +3094,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_dubois_beach"
   },
@@ -2459,8 +3107,12 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "shopping",
+      "art",
+      "drinking"
+    ],
+    "url": "https://thevelvetmill.com/",
     "id": "connecticut_the_velvet_mill"
   },
   {
@@ -2470,7 +3122,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_wayland_s_wharf"
   },
@@ -2481,7 +3135,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_dodge_paddock_beal_preserve"
   },
@@ -2492,7 +3148,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_the_women_s_table"
   },
@@ -2500,10 +3159,13 @@
     "name": "Lovers Leap Bridge",
     "lat": 41.5441409,
     "lon": -73.4069575,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lover%27s_Leap_Lenticular_Bridge%2C_Spanning_Housatonic_River_on_Pumpkin_Hill_Road%2C_New_Milford_%28Litchfield_County%2C_Connecticut%29.jpg/1280px-Lover%27s_Leap_Lenticular_Bridge%2C_Spanning_Housatonic_River_on_Pumpkin_Hill_Road%2C_New_Milford_%28Litchfield_County%2C_Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_lovers_leap_bridge"
   },
@@ -2514,7 +3176,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "religious",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_labyrinth_at_hartford_seminary"
   },
@@ -2525,18 +3190,24 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://elizabethparkct.org/",
     "id": "connecticut_elizabeth_park_rose_garden"
   },
   {
     "name": "Drake Hill Flower Bridge",
     "lat": 41.8687152,
     "lon": -72.7997376,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Drake_Hill_Flower_Bridge%2C_Simsbury%2C_CT_%28June_2026%29.jpg/1280px-Drake_Hill_Flower_Bridge%2C_Simsbury%2C_CT_%28June_2026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_drake_hill_flower_bridge"
   },
@@ -2544,10 +3215,12 @@
     "name": "Walnut Beach",
     "lat": 41.1957846,
     "lon": -73.0775537,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Walnut_Beach_III.jpg/1280px-Walnut_Beach_III.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches"
+    ],
     "url": null,
     "id": "connecticut_walnut_beach"
   },
@@ -2558,7 +3231,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_henry_david_thoreau_footbridge"
   },
@@ -2569,7 +3245,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_hidden_valley_preserve"
   },
@@ -2580,7 +3259,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art"
+    ],
     "url": null,
     "id": "connecticut_joseloff_gallery"
   },
@@ -2591,7 +3272,9 @@
     "imageURL": null,
     "description": "future site of Coltsville NHP",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_120_huyshope_ave"
   },
@@ -2602,7 +3285,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_cabela_s"
   },
@@ -2613,7 +3298,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_the_goodwin_hotel"
   },
@@ -2624,7 +3312,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "market",
+      "food"
+    ],
     "url": null,
     "id": "connecticut_el_mercado_marketplace"
   },
@@ -2635,19 +3326,26 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "market",
+      "food",
+      "historic"
+    ],
+    "url": "https://www.comstockferre.com/",
     "id": "connecticut_heirloom_market_at_comstock_ferre"
   },
   {
     "name": "The Aldrich Contemporary Art Museum",
     "lat": 41.2770742,
     "lon": -73.4970263,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/AldrichMuseumExterior.jpg/1280px-AldrichMuseumExterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Small but intellectually serious. The Aldrich specializes in cutting-edge contemporary exhibitions, often spotlighting emerging artists before they’re widely known. The sculpture garden and campus-like setting add to the appeal. It feels thoughtful and curated rather than blockbuster.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://thealdrich.org/",
     "id": "connecticut_the_aldrich_contemporary_art_museum"
   },
   {
@@ -2657,7 +3355,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "food"
+    ],
     "url": null,
     "id": "connecticut_uconn_dairy_bar"
   },
@@ -2668,7 +3368,10 @@
     "imageURL": null,
     "description": "AI: This is the sort of low-key coastal spot that travelers often enjoy more than they expect. It is not grand or famous, but it has a simple, handsome Long Island Sound setting with picnic space, fishing, and wide views out toward Falkner Island. For a quiet hour by the water, it sounds more evocative than its plain name suggests. I would not cross the state for it, but if you are already in Guilford, it is a very nice hidden-gem detour",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
     "url": null,
     "id": "connecticut_chaffinch_island_park"
   },
@@ -2676,10 +3379,13 @@
     "name": "Connecticut Valley Hospital",
     "lat": 41.5556898,
     "lon": -72.6313018,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/16/CVH09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "cemetery - not sure exactly where it is \"A truly hidden Connecticut experience, the challenging and even emotionally difficult graveyard at Connecticut Valley Hospital offers a window into the troubled history of how the mentally ill were treated in Connecticut. Located at the edge of the hospital grounds, the cemetery is the final resting place of some nearly 1,700 people, buried there in numbered, unnamed graves from 1878 to 1955. In 1999, local clergy worked with the hospital and the state to get the names of those buried in the plot recovered and inscribed on a monument which now stands on Silvermine Road. The numbered graves are not easy to look at, but the cemetery is a story of lives and dignity — lost and then recovered.\"",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_connecticut_valley_hospital"
   },
@@ -2687,21 +3393,28 @@
     "name": "Bigelow Hollow State Park",
     "lat": 42.0002824,
     "lon": -72.1313239,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Bigelow_pond_9.6.2005.jpg/1280px-Bigelow_pond_9.6.2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "\"This jewel of our park system, way up in the northeast corner and “hidden” away in the 9,000-acre Nipmuck State Forest, has a lot to keep you occupied. This time of year, you might still have some time for cross-country skiing and snowmobiling. But we think it’s during the warmer months that this park truly shines. Miles of hiking trails will keep your activity tracker on overdrive. Boating and fishing are a blast in the Mashapaug Pond, which is actually a 300-acre lake that touches the Massachusetts state line. This is one of the great places to be in the state for fall foliage, as the densely packed trees offer a fiery canvas, while the lake waters provide a beautiful mirrored surface. But also be mindful of the wondrous array of wildlife, including the occasional bobcat, moose and bear.\"",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://ctparks.com/parks/bigelow-hollow-state-park",
     "id": "connecticut_bigelow_hollow_state_park"
   },
   {
     "name": "McLean Game Refuge",
     "lat": 41.9405218,
     "lon": -72.7938409,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/McLean_Game_Refuge.JPG/1280px-McLean_Game_Refuge.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "NNL",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_mclean_game_refuge"
   },
@@ -2709,10 +3422,12 @@
     "name": "Stonington",
     "lat": 41.3358915,
     "lon": -71.9058854,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Stonington_light.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "towns"
+    ],
     "url": null,
     "id": "connecticut_stonington"
   },
@@ -2723,7 +3438,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_barn_island"
   },
@@ -2734,7 +3452,10 @@
     "imageURL": null,
     "description": "inside a state forest, the forgotten remains of a Cold War defensive installation.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_nike_missile_site_ha_36_control_site"
   },
@@ -2745,7 +3466,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park"
+    ],
     "url": null,
     "id": "connecticut_great_river_park"
   },
@@ -2756,8 +3479,10 @@
     "imageURL": null,
     "description": "only really go when the sunflowers are in bloom",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.buttonwoodfarmicecream.com/",
     "id": "connecticut_buttonwood_farm_ice_cream"
   },
   {
@@ -2767,7 +3492,10 @@
     "imageURL": null,
     "description": "This enormous abandoned factory is now a makeshift graffiti gallery.  ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "art",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_aerosol_techniques_factory"
   },
@@ -2775,11 +3503,15 @@
     "name": "White Memorial Conservation Center",
     "lat": 41.7240917,
     "lon": -73.2127825,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/WMCC_004.JPG/1280px-WMCC_004.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking",
+      "museum"
+    ],
+    "url": "https://whitememorialcc.org/",
     "id": "connecticut_white_memorial_conservation_center"
   },
   {
@@ -2789,8 +3521,11 @@
     "imageURL": null,
     "description": "full moon goat hikes",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "quirky",
+      "nature"
+    ],
+    "url": "https://www.bradleymountainfarm.com/",
     "id": "connecticut_bradley_mountain_farm"
   },
   {
@@ -2800,7 +3535,10 @@
     "imageURL": null,
     "description": "Hidden among the trees of Goshen’s Mohawk State Forest sits a little piece of history. After driving – or walking – up the winding roads of Mohawk Mountain, there’s a little trail that leads to a 20-foot tall tower. Cunningham Tower, built in 1912, was first purchased for sheep farming. Now, its inside only includes a picnic table and stone fireplace.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_cunningham_tower"
   },
@@ -2811,7 +3549,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_orchardworks_magic_wands"
   },
@@ -2819,10 +3560,13 @@
     "name": "Bulls Covered Bridge",
     "lat": 41.6757422,
     "lon": -73.5094437,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bulls_Bridge_-_Kent%2C_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "Take a look back in time while walking under the single-lane vehicular wooden covered bridge in Kent. While the current Bulls Bridge was constructed in 1842 from timber, the first instance of a bridge at the location over the Housatonic River was built back in 1760. It’s only one of three surviving covered bridges in the state.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_bulls_covered_bridge"
   },
@@ -2833,8 +3577,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "sports",
+      "drinking"
+    ],
+    "url": "https://www.foxwoods.com/activity/high-rollers-luxury-lanes-sports-lounge",
     "id": "connecticut_high_rollers_luxury_lanes_sports_lounge"
   },
   {
@@ -2844,7 +3591,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "drinking"
+    ],
     "url": null,
     "id": "connecticut_the_brewery_at_maple_view_farm"
   },
@@ -2855,8 +3604,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "url": "https://www.shopterrain.com/",
     "id": "connecticut_terrain"
   },
   {
@@ -2866,8 +3618,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.pequotmuseum.org/",
     "id": "connecticut_mashantucket_pequot_museum_research_center"
   },
   {
@@ -2877,7 +3632,10 @@
     "imageURL": null,
     "description": "Lions Head Trail - Short-and-sweet 2.1-mile hike to an awesome rocky outcropping with an even more awesome view",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
     "url": null,
     "id": "connecticut_bunker_hill_trailhead_parking"
   },
@@ -2888,8 +3646,11 @@
     "imageURL": null,
     "description": "Devoted to contemporary art, MoCA showcases an impressive mix of local and international artists, all in the service of building a deeper understanding of creative expression. A permanent exhibition by the late Westport artist Ann Weiner, When Caged Birds Sing, features eight life-size sculptures representing current women’s rights activists",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://moca-ct.org/",
     "id": "connecticut_moca_ct"
   },
   {
@@ -2899,7 +3660,10 @@
     "imageURL": null,
     "description": "This museum covers a lot of ground, as it’s devoted to an artist, author and illustrator of books who also assembled an extensive collection of hand tools and Americana. The tools are displayed in a building given to the state in 1969 by Stanley Works. Sloane’s studio tells the story of his career as an artist, during which he painted landscapes inspired by the Hudson River School, and later, New England culture and Colonial life. Examples of his art are displayed in the adjacent gallery. Sloane built a pioneer cabin next to the museum, and the Kent Iron Furnace, which operated from 1826 into the 1890s, is also on the property. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "art"
+    ],
     "url": null,
     "id": "connecticut_eric_sloane_museum"
   },
@@ -2910,7 +3674,10 @@
     "imageURL": null,
     "description": "Located at Housatonic Community College, this museum, spanning the history of art and on continuous display in the 300,000-square-foot building, contains works by big names such as Christo, David Hare, Leonard Baskin, Wayne Thiebaud, Ernest Briggs, Anne Arnold, Theodore Robinson, Cleve Gray, Jeff Koons, Cindy Sherman and Jenny Holzer, among others. The collection also includes African and Native American arts and artifacts. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "art"
+    ],
     "url": null,
     "id": "connecticut_housatonic_museum_of_art"
   },
@@ -2918,11 +3685,14 @@
     "name": "William Benton Museum of Art",
     "lat": 41.8085399,
     "lon": -72.2528032,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/William_Benton_Museum_of_Art.JPG/1280px-William_Benton_Museum_of_Art.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Connecticut’s official state art museum, the William Benton Museum of Art on the UConn Storrs campus has been renovated and expanded since its days as a modest operation located in a historic dining hall called The Beanery.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://benton.uconn.edu/",
     "id": "connecticut_william_benton_museum_of_art"
   },
   {
@@ -2932,8 +3702,11 @@
     "imageURL": null,
     "description": "Two vice presidents, 28 U.S. senators, 101 members of the House, six cabinet members, and three U.S. Supreme Court justices were among the leaders educated at the nation’s first law school in Litchfield, opened by lawyer and judge Tapping Reeve in 1784. Visitors experience the 19th-century life of legal students, as well as students of the Litchfield Female Academy, through role-playing, hands-on areas, and interpretive exhibits. The Tapping Reeve Meadow out back, with its arbors and Adirondack chairs, is a haven where the Scarecrows in the Meadow display each fall is a smash hit. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.litchfieldhistoricalsociety.org/",
     "id": "connecticut_tapping_reeve_house_and_law_school"
   },
   {
@@ -2943,18 +3716,24 @@
     "imageURL": null,
     "description": "Exhibits focus on the state’s government, military and industrial history, its growth and its role in the development of the nation from the Colonial era to the present. But don’t think the museum is boring. The Colt’s Patent Firearms Manufacturing Co. collection includes the original Rampant Colt statue that sat atop the Hartford Colt factory, as well as a Colt-made Gatling gun. Fun fact: The museum has more than 50 vintage Connecticut-made toasters in its collection. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://portal.ct.gov/museumofcthistory",
     "id": "connecticut_museum_of_connecticut_history"
   },
   {
     "name": "New England Civil War Museum",
     "lat": 41.8676152,
     "lon": -72.4486689,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Memorial_Building%2C_Rockville_CT.jpg/1280px-Memorial_Building%2C_Rockville_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Housed within an original Grand Army of the Republic meeting hall — it’s the country’s oldest continuously run GAR hall — the museum has one-of-a-kind artifacts including weapons, personal items and memorabilia from the Civil War, with an emphasis on Connecticut’s contributions. With hundreds of books and periodicals in its library, the museum, founded in 1896 but not officially opened to the public as a museum until 1994, is a prime spot for research related to the Civil War and the Union Army. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_new_england_civil_war_museum"
   },
@@ -2965,7 +3744,10 @@
     "imageURL": null,
     "description": "The artifacts of oppression on display here can be shocking to see in person. But they also inform, reflecting the African American experience in the U.S. from slavery and the Civil War through the civil rights movement. The “up close and personal” viewpoint of the relatively new museum (it opened in 2021) stresses teachings of tolerance, diversity, unity and educating people that there was a time when imagery played a significant role in how African Americans were perceived. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_ruby_calvin_fletcher_african_american_history_museum"
   },
@@ -2973,10 +3755,13 @@
     "name": "Prudence Crandall Museum",
     "lat": 41.6980715,
     "lon": -71.9716472,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/79/Prudence_Crandall_House%2C_Canterbury_CT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "Connecticut’s official heroine isn’t a household name, but Prudence Crandall became a pioneering equal rights champion beginning in 1832 when she was the principal of the Canterbury Female Boarding School and agreed to a request from Sarah Harris, a young Black woman, to attend the school. Residents protested, Crandall closed the school but reopened the following year to serve non-white students. Things then got worse for Crandall, but litigation that resulted influenced two major U.S. Supreme Court decisions. Visitors can see period rooms, rotating exhibits, a small research library, and a new gift shop opening this season. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_prudence_crandall_museum"
   },
@@ -2987,8 +3772,11 @@
     "imageURL": null,
     "description": "Located in the historic customs house designed by noted architect Robert Mills (also responsible for the Washington Monument) and built in 1833, the Custom House Maritime Museum tells the stories of New London’s waterfront and seafaring history through exhibits, lighthouse tours, boat trips, an annual chowder festival, and displays of artifacts related to the local lighthouses and the Amistad. All of it is overseen by the New London Maritime Society. To this day, a working customs office still conducts its work here, the oldest continuously operating one in the country. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://nlmaritimesociety.org/",
     "id": "connecticut_custom_house_maritime_museum_new_london_maritime_society"
   },
   {
@@ -2998,19 +3786,24 @@
     "imageURL": null,
     "description": "Technology and progress are the focus at the Genius Museum at Nature’s Art Village, where guests learn how newspapers were printed in the 19th century and how a steam engine powers a boat, for example. Don’t miss the Steam Engine Room, where there’s a 2 p.m. engine startup on Saturdays and Sundays. Other exhibits include Hayday Farm, the Montville Queen steamboat, and the Oakdale Country Store. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://naturesartvillage.com/",
     "id": "connecticut_the_genius_museum_at_nature_s_art_village"
   },
   {
     "name": "National Helicopter Museum Inc",
     "lat": 41.1947255,
     "lon": -73.1304885,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Stratford_station_173.JPG/1280px-Stratford_station_173.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Located in the eastbound railroad station in Stratford, the National Helicopter Museum features a photo essay about helicopter development, a chronicle of helicopter pioneers, including Igor Sikorsky, multiple helicopter models, a T53 gas turbine engine developed in Stratford, and a computer flight simulator. The centerpiece of the museum is a full-size cockpit you can pop into. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://nationalhelicoptermuseum.org/",
     "id": "connecticut_national_helicopter_museum_inc"
   },
   {
@@ -3020,7 +3813,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum"
+    ],
     "url": null,
     "id": "connecticut_new_england_motorcycle_museum"
   },
@@ -3028,10 +3823,12 @@
     "name": "Connecticut Eastern Railroad Museum",
     "lat": 41.7124865,
     "lon": -72.2191959,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Eastern_CT_Railroad_04.jpg/1280px-Eastern_CT_Railroad_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "The Connecticut Eastern Railroad Museum, founded by members of the Connecticut Eastern Chapter of the National Railway Historical Society, is located on the site of the Columbia Junction Freight Yard, and has a collection that includes locomotives and rolling stock, vintage railroad buildings, and a six-stall roundhouse reconstructed on the original foundation. Visitors can take a guided tour of the museum, train rides are offered, and guests can even operate a replica 1850s-style pump car on a section of rail. ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum"
+    ],
     "url": null,
     "id": "connecticut_connecticut_eastern_railroad_museum"
   },
@@ -3039,11 +3836,13 @@
     "name": "Railroad Museum of New England",
     "lat": 41.6734201,
     "lon": -73.0682321,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Thomaston_station_from_East_Main_Street_bridge%2C_October_2020.jpg/1280px-Thomaston_station_from_East_Main_Street_bridge%2C_October_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "Based in the historic Thomaston station, the Railroad Museum of New England featured in the Leonardo DiCaprio-Kate Winslet film Revolutionary Road, and has run tourist trains since the 1990s. Diesel locomotives take passengers riding in vintage coaches south alongside the Naugatuck River, or north on excursions to Torrington that cross the high rim of Thomaston Dam. Seasonal and holiday events sell out, as do special event trains on which guests enjoy local chocolate and/or bourbon. ",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.rmne.org/",
     "id": "connecticut_railroad_museum_of_new_england"
   },
   {
@@ -3053,18 +3852,24 @@
     "imageURL": null,
     "description": "A hike through bucolic Mary Moore Preserve in Sharon promises sprawling mountain views and dairy cows",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://sharonlandtrust.org/",
     "id": "connecticut_sharon_land_trust"
   },
   {
     "name": "Putnam",
     "lat": 41.9046012,
     "lon": -71.8689917,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/PutnamCT.jpg/1280px-PutnamCT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "\"fairy doors\" https://www.putnamct.us/sites/putnamct/files/u101/2017_fairy_door_guide.pdf",
     "info": null,
-    "categories": [],
+    "categories": [
+      "towns",
+      "quirky"
+    ],
     "url": null,
     "id": "connecticut_putnam"
   },
@@ -3075,18 +3880,24 @@
     "imageURL": null,
     "description": "hike to chaugham lookout",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://ctparks.com/parks/peoples-state-forest",
     "id": "connecticut_peoples_state_forest"
   },
   {
     "name": "Pleasure Beach",
     "lat": 41.158986,
     "lon": -73.1678886,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ghost_Town_-_Pleasure_Beach.jpg/1280px-Ghost_Town_-_Pleasure_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "beaches",
+      "park"
+    ],
     "url": null,
     "id": "connecticut_pleasure_beach"
   },
@@ -3097,8 +3908,11 @@
     "imageURL": null,
     "description": "AI: 2,000 acres of trails along the Shepaug River with tunnels carved through rock, cliff overlooks, and the preserved Clatter Valley farm.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://steeprockassoc.org/",
     "id": "connecticut_steep_rock_preserve"
   },
   {
@@ -3108,7 +3922,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "market"
+    ],
     "url": null,
     "id": "connecticut_the_judy_black_memorial_park_gardens_seasonal_farmers_market"
   },
@@ -3116,21 +3933,26 @@
     "name": "Ocean Beach Park",
     "lat": 41.3092595,
     "lon": -72.0993951,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Aerial_View_of_Ocean_Beach_Park%2C_New_London%2C_Conn_%2879647%29.jpg/1280px-Aerial_View_of_Ocean_Beach_Park%2C_New_London%2C_Conn_%2879647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "beaches"
+    ],
+    "url": "https://www.ocean-beach-park.com/",
     "id": "connecticut_ocean_beach_park"
   },
   {
     "name": "The Preserve",
     "lat": 41.3156635,
     "lon": -72.4112789,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Preserve_Old_Saybrook_Town_Line_Essex_Land_Trust.jpg/1280px-The_Preserve_Old_Saybrook_Town_Line_Essex_Land_Trust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_the_preserve"
   },
@@ -3141,8 +3963,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food",
+      "shopping"
+    ],
+    "url": "https://hosmersoda.com/",
     "id": "connecticut_hosmer_mountain_bottling_co"
   },
   {
@@ -3152,7 +3977,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_tolland_jail_museum"
   },
@@ -3163,8 +3991,12 @@
     "imageURL": null,
     "description": "hike through ruins of centuries old farm",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking",
+      "historic"
+    ],
+    "url": "https://dpnc.org/",
     "id": "connecticut_coogan_farm_nature_and_heritage_center"
   },
   {
@@ -3174,29 +4006,38 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://auerfarm.org/",
     "id": "connecticut_auerfarm_state_park_scenic_reserve"
   },
   {
     "name": "Bartholomew's Cobble Reservation",
     "lat": 42.0575468,
     "lon": -73.3509285,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bartholomew_Cobble_Trail.JPG/1280px-Bartholomew_Cobble_Trail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Holds the record for North America's greatest fern diversity (800+ plant species total). Has proper visitor infrastructure. A true hidden gem that's more impressive than it sounds.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://thetrustees.org/place/bartholomews-cobble/",
     "id": "connecticut_bartholomew_s_cobble_reservation"
   },
   {
     "name": "Campbell Falls State Park",
     "lat": 42.0411794,
     "lon": -73.2269814,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/CampbellFalls_IMG_0861.jpg/1280px-CampbellFalls_IMG_0861.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "A hidden gem that many miss. Beautiful waterfall straddling the CT/MA border, much quieter than Kent Falls, and offers that \"secret discovery\" feeling without being underwhelming.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "nature"
+    ],
     "url": null,
     "id": "connecticut_campbell_falls_state_park"
   },
@@ -3207,7 +4048,9 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_pandemonium_thrift_shop"
   },
@@ -3218,7 +4061,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "market",
+      "shopping"
+    ],
     "url": null,
     "id": "connecticut_heck_s_things_and_things_indoor_flea_market"
   },
@@ -3229,8 +4075,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "market"
+    ],
+    "url": "https://www.etflea.com/",
     "id": "connecticut_elephant_s_trunk_flea_market"
   },
   {
@@ -3240,8 +4088,11 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "food",
+      "drinking"
+    ],
+    "url": "https://www.captainscoveseaport.com/",
     "id": "connecticut_captain_s_cove_seaport_marina_restaurant_bar"
   },
   {
@@ -3251,7 +4102,10 @@
     "imageURL": null,
     "description": "AI: especially the Collinsville section through Canton and Burlington. This follows the old canal bed through authentic mill villages. Collinsville itself is a preserved company town worth exploring on foot.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "hiking",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_farmington_canal_heritage_trail"
   },
@@ -3262,7 +4116,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "towns",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_litchfield_town_green"
   },
@@ -3273,7 +4130,9 @@
     "imageURL": null,
     "description": "AI: a working 18th-century sawmill. When it's operating, you can watch authentic timber cutting.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_ledyard_up_down_sawmill"
   },
@@ -3281,10 +4140,13 @@
     "name": "Connecticut State Capitol",
     "lat": 41.7642631,
     "lon": -72.6822803,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Connecticut_State_Capitol%2C_Hartford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: Stunning Gothic/Renaissance building with gold leaf dome. One of America's most ornate state capitols. Iconic Hartford landmark.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_connecticut_state_capitol"
   },
@@ -3292,21 +4154,27 @@
     "name": "Bushnell Park",
     "lat": 41.7642113,
     "lon": -72.6773479,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/KelloggAndBulkeleySailorsAndSoldiersMemorial.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: America's oldest publicly funded park (1850s). Beautiful, walkable, adjacent to Capitol. Contains the vintage carousel.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://bushnellpark.org/",
     "id": "connecticut_bushnell_park"
   },
   {
     "name": "Christ Church Cathedral",
     "lat": 41.7685283,
     "lon": -72.6741411,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Christ_Church_Cathedral_%28Hartford%2C_Connecticut%29.jpg/1280px-Christ_Church_Cathedral_%28Hartford%2C_Connecticut%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: One of earliest Gothic Revival churches in the US (1820s-60s). Architecturally significant.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "religious",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_christ_church_cathedral"
   },
@@ -3317,7 +4185,10 @@
     "imageURL": null,
     "description": "AI: - Four generations, unchanged Victorian interiors. Good for history buffs.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "museum",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_butler_mccook_house_garden"
   },
@@ -3328,7 +4199,9 @@
     "imageURL": null,
     "description": "AI: One of America's most iconic collegiate Gothic buildings. Rivals Oxford/Cambridge aesthetics. Very photogenic.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_long_walk"
   },
@@ -3336,11 +4209,15 @@
     "name": "West Rock Ridge State Park",
     "lat": 41.3446487,
     "lon": -72.9661505,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/N58102886_30611581_9191.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: The sleeping giant's rival offers equally dramatic traprock ridgeline views and the red-doored Judges Cave has Revolutionary War intrigue. Less crowded than Sleeping Giant but just as rewarding, with excellent views over New Haven and Long Island Sound.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://ctparks.com/parks/west-rock-ridge-state-park",
     "id": "connecticut_west_rock_ridge_state_park"
   },
   {
@@ -3350,7 +4227,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "nature",
+      "hiking"
+    ],
     "url": null,
     "id": "connecticut_rhododendron_sanctuary_trailhead"
   },
@@ -3361,18 +4241,24 @@
     "imageURL": null,
     "description": "AI: A 1908 coal-fired steamboat still making trips on the Mystic River—one of only two surviving vessels from America's \"mosquito fleet\" of small passenger steamers. Actually riding this thing is magical: the smell of coal smoke, the chug of the engine, the authentic experience of early 20th-century river travel. Mystic Seaport has plenty of impressive ships, but Sabino is special because it still works. Book a sunset cruise if you can. Pure nostalgia without being precious about it.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "historic"
+    ],
+    "url": "https://mysticseaport.org/",
     "id": "connecticut_sabino_steamboat"
   },
   {
     "name": "Yale Bowl",
     "lat": 41.3132191,
     "lon": -72.9605142,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Yale_Bowl_from_south_end.jpg/1280px-Yale_Bowl_from_south_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: The 1914 concrete colossus that invented the modern football stadium—the first true bowl-shaped venue, inspiration for the Rose Bowl and countless others. The sheer scale still impresses, and if you can catch a Yale game, the tradition is palpable. The architecture is monumental in a Beaux-Arts way. For sports history buffs, it's a pilgrimage site. For others, it's an impressive piece of early 20th-century engineering. Stadium tours available, but best experienced during an actual game.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "sports",
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_yale_bowl"
   },
@@ -3380,11 +4266,14 @@
     "name": "Stanley-Whitman House",
     "lat": 41.7216191,
     "lon": -72.8248371,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Stanley-whitman-house.jpg/1280px-Stanley-whitman-house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Textbook 17th-century New England saltbox (c. 1720)—the classic Connecticut house form with its distinctive long sloping roof. Beautifully preserved with period furnishings and excellent interpretation. Less dramatic than the Whitfield House but more \"typically\" colonial. Good for understanding everyday life in early Connecticut. The museum does solid programming. Can feel repetitive if you've toured multiple colonial houses, but this is one of the best examples.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://s-wh.org/",
     "id": "connecticut_stanley_whitman_house"
   },
   {
@@ -3394,7 +4283,10 @@
     "imageURL": null,
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
     "url": null,
     "id": "connecticut_camp_columbia_tower"
   },
@@ -3402,10 +4294,13 @@
     "name": "Camp Columbia State Park",
     "lat": 41.6801162,
     "lon": -73.2241931,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Camp_Columbia_State_Park_Class_Of_1906_Tower.jpg/1280px-Camp_Columbia_State_Park_Class_Of_1906_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "",
     "info": null,
-    "categories": [],
+    "categories": [
+      "park",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_camp_columbia_state_park"
   },
@@ -3413,22 +4308,28 @@
     "name": "Dennis Hill State Park",
     "lat": 41.9481265,
     "lon": -73.1993893,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/DennisHillSP_IMG_0881.jpg/1280px-DennisHillSP_IMG_0881.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: A former estate on Norfolk's highest point with a small pavilion for panoramic Litchfield Hills views. It's a compact experience—drive up, admire the vista, have a picnic, done. But those views across northwestern Connecticut are legitimately lovely, especially in fall. More scenic overlook than destination park.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://ctparks.com/parks/dennis-hill-state-park",
     "id": "connecticut_dennis_hill_state_park"
   },
   {
     "name": "New Britain Museum of American Art",
     "lat": 41.6643161,
     "lon": -72.7915799,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/New-britain-museum-of-american-art.jpg/1280px-New-britain-museum-of-american-art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: America’s first museum devoted solely to American art — and surprisingly strong. Hudson River School landscapes, Ashcan realism, modern works. It’s compact but serious, and often overlooked by visitors who assume they need to go to New Haven or Hartford for major art.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://nbmaa.org/",
     "id": "connecticut_new_britain_museum_of_american_art"
   },
   {
@@ -3438,7 +4339,10 @@
     "imageURL": null,
     "description": "A journey through a curious collection of oddities and wonder.  ",
     "info": null,
-    "categories": [],
+    "categories": [
+      "quirky",
+      "museum"
+    ],
     "url": null,
     "id": "connecticut_curioporium"
   },
@@ -3446,10 +4350,13 @@
     "name": "Sterling Memorial Library",
     "lat": 41.3110273,
     "lon": -72.9285109,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Sterling_Memorial_Library_4%2C_September_1%2C_2008.jpg/1280px-Sterling_Memorial_Library_4%2C_September_1%2C_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: cathedral-like reading room",
     "info": null,
-    "categories": [],
+    "categories": [
+      "bookstore",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_sterling_memorial_library"
   },
@@ -3457,21 +4364,26 @@
     "name": "Yale Peabody Museum",
     "lat": 41.3159749,
     "lon": -72.9212249,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Yale_Peabody_Museum_2.JPG/1280px-Yale_Peabody_Museum_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Recently renovated and much improved — classic dinosaur skeletons, fossils, and the famous “Age of Reptiles” mural. It’s family-friendly but still satisfying for adults.<br>Not the Smithsonian, but very solid for its size.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://peabody.yale.edu/",
     "id": "connecticut_yale_peabody_museum"
   },
   {
     "name": "Harkness Tower",
     "lat": 41.3094303,
     "lon": -72.9294385,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Harkness_Tower_in_Winter%2C_Spring%2C_Summer%2C_Autumn.jpg/1280px-Harkness_Tower_in_Winter%2C_Spring%2C_Summer%2C_Autumn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: The defining image of Yale University — a soaring Gothic tower that feels straight out of Oxford or Cambridge. You can’t always go inside, but wandering the surrounding courtyards is one of the most atmospheric experiences in New Haven.<br>Why it’s #1: pure cinematic presence.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_harkness_tower"
   },
@@ -3479,10 +4391,13 @@
     "name": "Yale Old Campus",
     "lat": 41.3086308,
     "lon": -72.9289832,
-    "imageURL": null,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Old_Campus%2C_Yale_University_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
     "description": "AI: The historic heart of Yale: a leafy quadrangle ringed by Gothic dorms and anchored by centuries of student life. It’s lively, accessible, and gives you that classic Ivy League feeling instantly.<br>Traveler tip: enter through one of the gates for maximum effect.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_yale_old_campus"
   },
@@ -3490,10 +4405,13 @@
     "name": "Hillhouse Avenue",
     "lat": 41.3135332,
     "lon": -72.9236077,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/NewHavenHillhouse1.JPG/1280px-NewHavenHillhouse1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Charles Dickens once called it “the most beautiful street in America,” and it still feels like a preserved 19th-century academic boulevard. Grand homes, quiet trees, and a very different Yale vibe from the Gothic core.<br>Why it stands out: elegance + contrast with main campu",
     "info": null,
-    "categories": [],
+    "categories": [
+      "neighborhood",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_hillhouse_avenue"
   },
@@ -3501,10 +4419,13 @@
     "name": "Sterling Law Building",
     "lat": 41.3117096,
     "lon": -72.9280893,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sterling_Law_Building%2C_Yale_Law_School.jpg/1280px-Sterling_Law_Building%2C_Yale_Law_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Often overlooked, but one of the most beautiful buildings on campus — especially the courtyards and interior spaces. It’s Gothic with a slightly more refined, less touristy feel.<br>Bonus: usually easier to access than you’d expect.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
     "url": null,
     "id": "connecticut_sterling_law_building"
   },
@@ -3512,10 +4433,13 @@
     "name": "Bass Library",
     "lat": 41.3107769,
     "lon": -72.9272837,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Cross-Campus-Sterling-Memorial-Library-Bass-Library-Yale-University-New-Haven-CT-04-2014.jpg/1280px-Cross-Campus-Sterling-Memorial-Library-Bass-Library-Yale-University-New-Haven-CT-04-2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: A cool contrast to Yale’s Gothic image—this is largely underground, with surprisingly airy, modern reading spaces. It’s not flashy, but stepping inside gives you a real sense of student life today. Pair it with Beinecke right next door.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "bookstore",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_bass_library"
   },
@@ -3523,10 +4447,13 @@
     "name": "Connecticut Hall",
     "lat": 41.3081579,
     "lon": -72.9288307,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Connecticut_Hall%2C_Yale_University.jpg/1280px-Connecticut_Hall%2C_Yale_University.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: The oldest building at Yale (1750), and one of the few remnants of the colonial-era campus. It’s smaller and quieter than the Gothic giants, but that’s the appeal—it gives you a sense of how modest Yale once was before all the towers and quadrangles. A subtle but meaningful stop on Old Campus.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "landmark",
+      "historic"
+    ],
     "url": null,
     "id": "connecticut_connecticut_hall"
   },
@@ -3534,10 +4461,13 @@
     "name": "Battell Chapel",
     "lat": 41.309395,
     "lon": -72.9274988,
-    "imageURL": null,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Battell_Chapel_exterior_Yale_College_c1879.jpg/1280px-Battell_Chapel_exterior_Yale_College_c1879.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
     "description": "AI: Tucked into central campus, this is a refined, intimate Gothic chapel. If open, the interior is worth a peek—arched ceilings, stained glass, and a calm, contemplative feel. Not as grand as Woolsey Hall nearby, but more personal.",
     "info": null,
-    "categories": [],
+    "categories": [
+      "religious",
+      "architecture"
+    ],
     "url": null,
     "id": "connecticut_battell_chapel"
   },
@@ -3548,8 +4478,11 @@
     "imageURL": null,
     "description": "AI: unexpectedly well done. Formerly the Knights of Columbus Museum, it blends history, faith, and social impact in a polished, modern exhibition space. Even non-religious visitors tend to find it interesting, especially for its storytelling about immigration, charity, and American Catholic life.<br>Verdict: A genuine “worth your time” stop if you’re already in New Haven.",
     "info": null,
-    "categories": [],
-    "url": null,
+    "categories": [
+      "museum",
+      "religious"
+    ],
+    "url": "https://www.michaelmcgivneycenter.org/",
     "id": "connecticut_blessed_michael_mcgivney_pilgrimage_center_formerly_knights_of_columbus_museum"
   },
   {
@@ -3559,22 +4492,11 @@
     "imageURL": null,
     "description": "137 graves holding New England's earliest residents. ",
     "info": null,
-    "categories": [],
-    "url": null,
-    "id": "connecticut_center_church_on_the_green"
-  },
-  {
-    "name": "Well's Dinosaur Haven",
-    "lat": 41.4919626,
-    "lon": -72.099976,
-    "imageURL": null,
-    "description": "A free display of artistic lifesize dinosaur sculptures in a backyard garden.",
-    "info": null,
     "categories": [
-      "art",
-      "quirky"
+      "religious",
+      "historic"
     ],
-    "url": null,
-    "id": "connecticut_well_s_dinosaur_haven_2"
+    "url": "https://www.centerchurchonthegreen.org/",
+    "id": "connecticut_center_church_on_the_green"
   }
 ]
