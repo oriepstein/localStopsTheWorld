@@ -1,0 +1,1405 @@
+[
+  {
+    "name": "Can Framis Museum",
+    "lat": 41.403177,
+    "lon": 2.19492300000002,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Can_Framis_Museum_of_Fundaci%C3%B3_Vila_Casas._Catalan_Contemporary_Art._Barcelona_%285%29.JPG/1280px-Can_Framis_Museum_of_Fundaci%C3%B3_Vila_Casas._Catalan_Contemporary_Art._Barcelona_%285%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.fundaciovilacasas.com/",
+    "id": "barcelona_can_framis_museum"
+  },
+  {
+    "name": "Tresdenou",
+    "lat": 41.401353,
+    "lon": 2.20046300000001,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null,
+    "id": "barcelona_tresdenou"
+  },
+  {
+    "name": "Horchatería El Tío Che",
+    "lat": 41.400055,
+    "lon": 2.202901,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "cafe",
+      "food"
+    ],
+    "url": "https://eltioche.es/",
+    "id": "barcelona_horchateria_el_tio_che"
+  },
+  {
+    "name": "La Plataforma",
+    "lat": 41.3981069,
+    "lon": 2.1958353,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://laplataformabcn.com/",
+    "id": "barcelona_la_plataforma"
+  },
+  {
+    "name": "The Folio Club",
+    "lat": 41.3985479,
+    "lon": 2.19990800000005,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "bookstore"
+    ],
+    "url": null,
+    "id": "barcelona_the_folio_club"
+  },
+  {
+    "name": "B.H.G. Supermercat del Món",
+    "lat": 41.3763303,
+    "lon": 2.16221029999997,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "market"
+    ],
+    "url": null,
+    "id": "barcelona_b_h_g_supermercat_del_mon"
+  },
+  {
+    "name": "Entre Latas · Conservas Gourmet",
+    "lat": 41.4028058,
+    "lon": 2.15950759999998,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "food"
+    ],
+    "url": null,
+    "id": "barcelona_entre_latas_conservas_gourmet"
+  },
+  {
+    "name": "Montjuïc Cemetery",
+    "lat": 41.3525427,
+    "lon": 2.15364880000004,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Montiju%C3%AFc_Cemetery.jpg/1280px-Montiju%C3%AFc_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_montjuic_cemetery"
+  },
+  {
+    "name": "Palace of Catalan Music",
+    "lat": 41.387553,
+    "lon": 2.17538230000002,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Palau_m%C3%BAsica_catalana_exterior.jpg/1280px-Palau_m%C3%BAsica_catalana_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - The Palau de la Música Catalana and the Hospital de Sant Pau, Barcelona are considered masterpieces of the exuberant Catalan Modernista style.<br><br>This style, similar to Art Nouveau, flowered in early 20th century Barcelona. The Concert Hall and Hospital were designed by the Catalan architect Lluís Domènech i Montaner. In both buildings, he made use of new technologies developed during the industrial revolution, such as a steel frame, and beautiful decorative motifs.<br><br>Community Perspective: The Palau can be visited on a guided tour or enjoyed during a concert, while the former Hospital grounds will need a tour too.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "music",
+      "architecture"
+    ],
+    "url": "https://www.palaumusica.cat/",
+    "id": "barcelona_palace_of_catalan_music"
+  },
+  {
+    "name": "Hospital de la Santa Creu i Sant Pau",
+    "lat": 41.4136997,
+    "lon": 2.17431399999998,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/San_Pau_Hospital.jpg/1280px-San_Pau_Hospital.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://santpaubarcelona.org/",
+    "id": "barcelona_hospital_de_la_santa_creu_i_sant_pau"
+  },
+  {
+    "name": "MUHBA Domus Sant Honorat",
+    "lat": 41.3826436,
+    "lon": 2.17590319999999,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "museum"
+    ],
+    "url": "https://www.barcelona.cat/museuhistoria/",
+    "id": "barcelona_muhba_domus_sant_honorat"
+  },
+  {
+    "name": "Hotel Catalonia Magdalenes",
+    "lat": 41.3861413,
+    "lon": 2.1745185,
+    "imageURL": null,
+    "description": "Foundations of the Roman Aqueduct of Barcino - These 2000 year old remains of a Roman aqueduct are hidden inside a hotel lobby. ",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_hotel_catalonia_magdalenes"
+  },
+  {
+    "name": "Font de Sant Just",
+    "lat": 41.3829161,
+    "lon": 2.1784906,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Font_de_Sant_Just_P1100905.JPG/1280px-Font_de_Sant_Just_P1100905.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This fountain was designed to honor the man who helped bring water to Barcelona.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "barcelona_font_de_sant_just"
+  },
+  {
+    "name": "Madame Chocolat",
+    "lat": 41.3910436,
+    "lon": 2.1787316,
+    "imageURL": null,
+    "description": "This store decorated with Japanese and underground pop culture items has been the centre of Barcelona alternative fashion scenes for more than a decade.  ",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_madame_chocolat"
+  },
+  {
+    "name": "Biblioteca Pública Arús",
+    "lat": 41.3930495,
+    "lon": 2.1787165,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Biblioteca_P%C3%BAblica_Ar%C3%BAs_de_Barcelona_%2820%29.JPG/1280px-Biblioteca_P%C3%BAblica_Ar%C3%BAs_de_Barcelona_%2820%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A once-secret library of Freemason history in Catalonia. ",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "barcelona_biblioteca_publica_arus"
+  },
+  {
+    "name": "European Museum of Modern Art",
+    "lat": 41.3850107,
+    "lon": 2.1802788,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Museum_of_Modern_Art.jpg/1280px-Museum_of_Modern_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A temple to modernity, tucked away amid Barcelona's more well known museums.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.meam.es/",
+    "id": "barcelona_european_museum_of_modern_art"
+  },
+  {
+    "name": "PALAU DALMASES",
+    "lat": 41.3845787,
+    "lon": 2.1815869,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/427_Palau_Dalmases%2C_c._Montcada_20_%28Barcelona%29.jpg/1280px-427_Palau_Dalmases%2C_c._Montcada_20_%28Barcelona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This former Baroque palace on the historic Calle Montcada is a rare architectural gem and was once the meeting place of an aristocratic scholarly society.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": null,
+    "id": "barcelona_palau_dalmases"
+  },
+  {
+    "name": "Basílica de Santa Maria del Mar",
+    "lat": 41.3838871,
+    "lon": 2.1820711,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Santa_Maria_del_Mar%2C_Barcelona_05.jpg/1280px-Santa_Maria_del_Mar%2C_Barcelona_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Barça football fans might see the insignia hidden in a church window as a divine sign. Santa María del Mar is one of the many iconic churches found in Barcelona. It dates back to the 14th century and was named after St. Mary, the patron saint of sailors, probably because of its location close to the sea. The church has lived through a lot over the years: earthquakes, occupation by Napoleonic forces, bombings, and Francoism, to mention a few",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": "https://www.santamariadelmarbarcelona.org/",
+    "id": "barcelona_basilica_de_santa_maria_del_mar"
+  },
+  {
+    "name": "Basílica dels Sants Màrtirs Just i Pastor",
+    "lat": 41.3827482,
+    "lon": 2.178051,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/166_Esgl%C3%A9sia_dels_Sants_Just_i_Pastor%2C_pl._Sant_Just_%28Barcelona%29.jpg/1280px-166_Esgl%C3%A9sia_dels_Sants_Just_i_Pastor%2C_pl._Sant_Just_%28Barcelona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Possibly the oldest church in Barcelona, this basilica has its pagan and Christian mythologies all mixed up. ",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": "https://basilicasantjust.cat/",
+    "id": "barcelona_basilica_dels_sants_martirs_just_i_pastor"
+  },
+  {
+    "name": "MUHBA Temple d'August",
+    "lat": 41.3833997,
+    "lon": 2.1771849,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Columnes_del_temple_d%27August_%28I%29.jpg/1280px-Columnes_del_temple_d%27August_%28I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The 2,000-year-old Roman columns are hidden within Barcelona's Gothic Quarter. ",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "landmark"
+    ],
+    "url": "https://www.barcelona.cat/museuhistoria/",
+    "id": "barcelona_muhba_temple_d_august"
+  },
+  {
+    "name": "Museu Frederic Marès",
+    "lat": 41.3842687,
+    "lon": 2.1767598,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Entrada_Museu_Frederic_Mar%C3%A8s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "An eclectic collection of thousands of items owned by the sculptor Frederic Marès. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.barcelona.cat/museufredericmares/",
+    "id": "barcelona_museu_frederic_mares"
+  },
+  {
+    "name": "Catalan Museum of Archaeology",
+    "lat": 41.3697771,
+    "lon": 2.1576602,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/%28Barcelona%29_Museu_d%27Arqueologia_de_Catalunya_-_Entrance.jpg/1280px-%28Barcelona%29_Museu_d%27Arqueologia_de_Catalunya_-_Entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Priapus of Hostafrancs - This generously endowed statue once stood guard outside a Roman home",
+    "info": null,
+    "categories": [
+      "museum",
+      "archaeological"
+    ],
+    "url": "https://www.mac.cat/",
+    "id": "barcelona_catalan_museum_of_archaeology"
+  },
+  {
+    "name": "Fundació Joan Miró",
+    "lat": 41.3686304,
+    "lon": 2.1598509,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Fundaci%C3%B3_Mir%C3%B3.JPG/1280px-Fundaci%C3%B3_Mir%C3%B3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Calder Mercury fountain - A beautiful but toxic fountain of mercury.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.fmirobcn.org/",
+    "id": "barcelona_fundacio_joan_miro"
+  },
+  {
+    "name": "Columbus Monument",
+    "lat": 41.3758087,
+    "lon": 2.1777606,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Monument_a_Colom_2.jpg/1280px-Monument_a_Colom_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A vista of the city and sea from atop the little-known viewing deck on an unassuming Columbus statue. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "barcelona_columbus_monument"
+  },
+  {
+    "name": "Park Güell",
+    "lat": 41.4144948,
+    "lon": 2.1526945,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_guell_-_panoramio.jpg/1280px-Parc_guell_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park",
+      "architecture"
+    ],
+    "url": "https://parkguell.barcelona/",
+    "id": "barcelona_park_guell"
+  },
+  {
+    "name": "Palau Güell",
+    "lat": 41.3788851,
+    "lon": 2.1742398,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Palau_G%C3%BCell%2C_Antoni_Gaudi%2C_Barcelona_2.jpg/1280px-Palau_G%C3%BCell%2C_Antoni_Gaudi%2C_Barcelona_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi; One of Antoni Gaudí’s earliest buildings, built between 1886 and 1890 for the industrialist Eusebi Güell.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "museum"
+    ],
+    "url": "https://www.palauguell.cat/",
+    "id": "barcelona_palau_guell"
+  },
+  {
+    "name": "La Pedrera - Casa Milà",
+    "lat": 41.3952155,
+    "lon": 2.1619024,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Casa_Mil%C3%A0%2C_general_view.jpg/1280px-Casa_Mil%C3%A0%2C_general_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "museum"
+    ],
+    "url": "https://www.lapedrera.com/",
+    "id": "barcelona_la_pedrera_casa_mila"
+  },
+  {
+    "name": "Casa Vicens Gaudí",
+    "lat": 41.4034978,
+    "lon": 2.1506455,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gaud%C3%AD_-_Casa_Vicens.JPG/1280px-Gaud%C3%AD_-_Casa_Vicens.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi; Step inside the first house designed by Catalan architect Antoni Gaudí, considered to be one of the first Art Nouveau buildings.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "museum"
+    ],
+    "url": "https://casavicens.org/",
+    "id": "barcelona_casa_vicens_gaudi"
+  },
+  {
+    "name": "Sagrada Família",
+    "lat": 41.4043239,
+    "lon": 2.1746666,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "WHS - Works of Antoni Gaudi",
+    "info": null,
+    "categories": [
+      "unesco",
+      "religious",
+      "architecture"
+    ],
+    "url": "https://sagradafamilia.org/",
+    "id": "barcelona_sagrada_familia"
+  },
+  {
+    "name": "Sagrada Família Schools",
+    "lat": 41.403,
+    "lon": 2.1742,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/SF_-_Escuelas.jpg/1280px-SF_-_Escuelas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "barcelona_sagrada_familia_schools"
+  },
+  {
+    "name": "Casa Batlló",
+    "lat": 41.3917,
+    "lon": 2.164918,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Casa_Batllo_Overview_Barcelona_Spain_cut.jpg/1280px-Casa_Batllo_Overview_Barcelona_Spain_cut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi; One of Antoni Gaudí's most classic buildings is well-known for its \"dragon-back\" design.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "museum"
+    ],
+    "url": "https://www.casabatllo.es/",
+    "id": "barcelona_casa_batllo"
+  },
+  {
+    "name": "Cripta de la Colònia Güell",
+    "lat": 41.3638463,
+    "lon": 2.0278608,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cripta_G%C3%BCell02.jpg/1280px-Cripta_G%C3%BCell02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - Works of Antoni Gaudi",
+    "info": null,
+    "categories": [
+      "unesco",
+      "religious",
+      "architecture"
+    ],
+    "url": "https://gaudicoloniaguell.org/",
+    "id": "barcelona_cripta_de_la_colonia_guell"
+  },
+  {
+    "name": "La Llama Store",
+    "lat": 41.381903,
+    "lon": 2.161326,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Puerta_de_entrada_de_La_Llama_Store_Barcelona_en_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A bookstore dedicated to the intersection of comedy and art. ",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "art",
+      "quirky"
+    ],
+    "url": "https://lallamastore.com/",
+    "id": "barcelona_la_llama_store"
+  },
+  {
+    "name": "Jardins de la Tamarita",
+    "lat": 41.4107319,
+    "lon": 2.1355264,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/28_Jardins_de_la_Tamarita.jpg/1280px-28_Jardins_de_la_Tamarita.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This mansion oasis contains gardens, sculptures, and fountains just off the busy Plaça Kennedy in Sant Gervasi. ",
+    "info": null,
+    "categories": [
+      "park"
+    ],
+    "url": null,
+    "id": "barcelona_jardins_de_la_tamarita"
+  },
+  {
+    "name": "Estación de Francia",
+    "lat": 41.3839642,
+    "lon": 2.1864909,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Estaci%C3%B3_de_Fran%C3%A7a_Barcelona_Catalonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "For one day every month Barcelona's Estació de França transforms into a market for model trains. ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "market",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_estacion_de_francia"
+  },
+  {
+    "name": "Museu Egipci de Barcelona",
+    "lat": 41.3936164,
+    "lon": 2.1647197,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/01/Interior_Museu_Egipci_de_Barcelona_planta_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A beautiful little museum hidden away in the heart of Barcelona holds a treasure trove of Ancient Egyptian artifacts",
+    "info": null,
+    "categories": [
+      "museum",
+      "archaeological"
+    ],
+    "url": "https://www.museuegipci.com/",
+    "id": "barcelona_museu_egipci_de_barcelona"
+  },
+  {
+    "name": "Arenas de Barcelona",
+    "lat": 41.3763031,
+    "lon": 2.1493855,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Arenas_de_Barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "An early 20th-century bullring converted into a modern shopping center. ",
+    "info": null,
+    "categories": [
+      "shopping",
+      "architecture",
+      "viewpoint"
+    ],
+    "url": "https://www.arenasdebarcelona.com/",
+    "id": "barcelona_arenas_de_barcelona"
+  },
+  {
+    "name": "Casa Amatller",
+    "lat": 41.3914803,
+    "lon": 2.1649813,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/CasaAmatller.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "This home designed for chocolate magnate Antoni Amatller is an exquisite treasure-box of Catalan Modernism. ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "museum"
+    ],
+    "url": "https://www.amatller.org/",
+    "id": "barcelona_casa_amatller"
+  },
+  {
+    "name": "Basílica de Santa Maria del Pi",
+    "lat": 41.3822413,
+    "lon": 2.1739186,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Basilique_Ste_Marie_Pin_Barcelone_6.jpg/1280px-Basilique_Ste_Marie_Pin_Barcelone_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "When you enter Santa Maria del Pi, look directly to your right and you will find four giants staring back at you from inside a floor-to-ceiling glass case. These gegants are wearable puppets. They’re a highlight of parades and Catholic feast days in Barcelona and are known for their traditional dances.",
+    "info": null,
+    "categories": [
+      "religious",
+      "quirky"
+    ],
+    "url": "https://basilicadelpi.cat/",
+    "id": "barcelona_basilica_de_santa_maria_del_pi"
+  },
+  {
+    "name": "Sala Gimbernat",
+    "lat": 41.3816713,
+    "lon": 2.1693894,
+    "imageURL": null,
+    "description": "18th century anatomical amphitheater of the Royal College of Surgery of Barcelona. Paid tours may be available with prior confirmation.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_sala_gimbernat"
+  },
+  {
+    "name": "Güell Pavilions",
+    "lat": 41.3894055,
+    "lon": 2.1194191,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pavellons_Finca_G%C3%BCel.jpg/1280px-Pavellons_Finca_G%C3%BCel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This stunning iron gate designed by Modernist architect Antoni Gaudí is filled with mythic symbolism. ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "barcelona_guell_pavilions"
+  },
+  {
+    "name": "Monastery of Pedralbes",
+    "lat": 41.3956588,
+    "lon": 2.1126372,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Monestir_de_Pedralbes._A%C3%A8ria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Occupied for six centuries by Franciscan Order nuns, this monastery is an amazing ode to Catalán Gothic architecture. ",
+    "info": null,
+    "categories": [
+      "religious",
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.monestirpedralbes.barcelona/",
+    "id": "barcelona_monastery_of_pedralbes"
+  },
+  {
+    "name": "Parc de l'Espanya Industrial",
+    "lat": 41.3776555,
+    "lon": 2.1408583,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Barcelona_-_Parc_de_l%27Espanya_Industrial_1.jpg/1280px-Barcelona_-_Parc_de_l%27Espanya_Industrial_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A former steam-powered mill from the 1800s is now an industrial park with a giant steel dragon slide. ",
+    "info": null,
+    "categories": [
+      "park",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_parc_de_l_espanya_industrial"
+  },
+  {
+    "name": "Bellesguard",
+    "lat": 41.409599,
+    "lon": 2.1268377,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Torre_Bellesguard_%284%29.jpg/1280px-Torre_Bellesguard_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of Antoni Gaudí's least-visited works, an homage to Catalan patrimony that mixes neo-Gothic with Modernista forms.  ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.bellesguardgaudi.com/",
+    "id": "barcelona_bellesguard"
+  },
+  {
+    "name": "Museum of Funeral Carriages",
+    "lat": 41.3530958,
+    "lon": 2.1560581,
+    "imageURL": null,
+    "description": "This Funeral Hearse Museum represents the finest in cadaver transportation. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_museum_of_funeral_carriages"
+  },
+  {
+    "name": "BSC-CNS | Centre Nacional de Supercomputació - Barcelona Supercomputing Center",
+    "lat": 41.3899442,
+    "lon": 2.1153769,
+    "imageURL": null,
+    "description": "One of Europe's largest supercomputers is housed inside of a disused chapel. Make sure to book a tour online as they will not let you in without a booking. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "architecture"
+    ],
+    "url": "https://www.bsc.es/",
+    "id": "barcelona_bsc_cns_centre_nacional_de_supercomputacio_barcelona_supercomputing_center"
+  },
+  {
+    "name": "Estudi Oleguer Junyent",
+    "lat": 41.3984973,
+    "lon": 2.160291,
+    "imageURL": null,
+    "description": "The studio of Catalonia's most famous theatrical designer remains exactly as he left it. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "art",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_estudi_oleguer_junyent"
+  },
+  {
+    "name": "Barcelona's Baby Drop-off",
+    "lat": 41.3841466,
+    "lon": 2.1687407,
+    "imageURL": null,
+    "description": "Turntable anonymously received orphans, alms, and groceries.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "barcelona_barcelona_s_baby_drop_off"
+  },
+  {
+    "name": "Caelum",
+    "lat": 41.3830784,
+    "lon": 2.1744505,
+    "imageURL": null,
+    "description": "This cafe offers a curated collection of treats and tipples made by monks and nuns. ",
+    "info": null,
+    "categories": [
+      "cafe",
+      "quirky"
+    ],
+    "url": "https://www.caelumbarcelona.com/",
+    "id": "barcelona_caelum"
+  },
+  {
+    "name": "Recinte Modernista de Sant Pau",
+    "lat": 41.4117072,
+    "lon": 2.1743395,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Hospital_Sant_Pau%2C_main_facade.jpg/1280px-Hospital_Sant_Pau%2C_main_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The largest Art Nouveau complex in the world is a Barcelona hospital with a 600-year-long history. ",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://santpaubarcelona.org/",
+    "id": "barcelona_recinte_modernista_de_sant_pau"
+  },
+  {
+    "name": "Tibidabo",
+    "lat": 41.4225,
+    "lon": 2.118611,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/El_Tibidabo%2C_l%27observatori_Fabra_i_la_punxa_d%27una_torre_veneciana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Mountain where Jesus was first tempted by the Devil. ",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "religious",
+      "quirky"
+    ],
+    "url": "https://tibidabo.cat/",
+    "id": "barcelona_tibidabo"
+  },
+  {
+    "name": "Barcelona Erotic Museum",
+    "lat": 41.3822639,
+    "lon": 2.1725972,
+    "imageURL": null,
+    "description": "An unusual stroll through gentlemen's erotica demonstrates that pornography is timeless.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_barcelona_erotic_museum"
+  },
+  {
+    "name": "Sewers of Barcelona",
+    "lat": 41.398428,
+    "lon": 2.1701805,
+    "imageURL": null,
+    "description": "Barcelona's historic 19th-century sewers, whose foundations were laid in medieval times, are open to the public for exploring. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "barcelona_sewers_of_barcelona"
+  },
+  {
+    "name": "Bunkers El Camel",
+    "lat": 41.419236,
+    "lon": 2.161779,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Tur%C3%B3_Rovira.jpg/1280px-Tur%C3%B3_Rovira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "These secluded and abandoned anti-aircraft defenses have become one the most scenic viewpoints in Barcelona. ",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "historic",
+      "hiking"
+    ],
+    "url": null,
+    "id": "barcelona_bunkers_el_camel"
+  },
+  {
+    "name": "Mercat de Galvany",
+    "lat": 41.3966825,
+    "lon": 2.1437289,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Mercat_de_Galvany_des_del_carrer_de_Madrazo.jpg/1280px-Mercat_de_Galvany_des_del_carrer_de_Madrazo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "architecture"
+    ],
+    "url": "https://mercatgalvany.com/",
+    "id": "barcelona_mercat_de_galvany"
+  },
+  {
+    "name": "Mines Neolítiques de Can Tintorer",
+    "lat": 41.3099782,
+    "lon": 2.0002475,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mines_de_Gav%C3%A0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "tWHS - Mining Historical Hertiage",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "museum"
+    ],
+    "url": null,
+    "id": "barcelona_mines_neolitiques_de_can_tintorer"
+  },
+  {
+    "name": "Parc del Laberint d'Horta",
+    "lat": 41.4399698,
+    "lon": 2.1455713,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Laberint_d%27Horta01.jpg/1280px-Laberint_d%27Horta01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This semi-secret storybook hedge maze is also the oldest garden in the city. ",
+    "info": null,
+    "categories": [
+      "park",
+      "quirky"
+    ],
+    "url": null,
+    "id": "barcelona_parc_del_laberint_d_horta"
+  },
+  {
+    "name": "Nau Bostik",
+    "lat": 41.4245256,
+    "lon": 2.1930322,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/NauBostik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "an awesome example of how Barcelona is converting industrial leftovers into contemporary cultural centres. Located in an old glue factory, Nau Bostik is an open space that it’s used for social and cultural activities for the neighbourhood",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": "https://naubostik.com/",
+    "id": "barcelona_nau_bostik"
+  },
+  {
+    "name": "Carrer de Marià Aguiló",
+    "lat": 41.4018498,
+    "lon": 2.2022879,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Carrer_Mari%C3%A0_Aguil%C3%B3_131_i_la_Pubilla_del_Taulat_-_20210428_110320.jpg/1280px-Carrer_Mari%C3%A0_Aguil%C3%B3_131_i_la_Pubilla_del_Taulat_-_20210428_110320.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Unlike the better known Rambla Poblenou, Carrer Marià Aguilo offers a glimpse into the heart and the soul of a still traditional Barcelona barri or neighborhood. The businesses are all independent, ranging from one of the best fish mongers in town to an organic parfumier, haberdashers and grocers who know their customers by name",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "shopping"
+    ],
+    "url": null,
+    "id": "barcelona_carrer_de_maria_aguilo"
+  },
+  {
+    "name": "Fàbrica Lehmann",
+    "lat": 41.382741,
+    "lon": 2.1543982,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/255_F%C3%A0brica_Lehmann%2C_c._Consell_de_Cent_159_%28Barcelona%29%2C_pati.jpg/1280px-255_F%C3%A0brica_Lehmann%2C_c._Consell_de_Cent_159_%28Barcelona%29%2C_pati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "art"
+    ],
+    "url": null,
+    "id": "barcelona_fabrica_lehmann"
+  },
+  {
+    "name": "MUHBA Via Sepulcral Romana",
+    "lat": 41.3843531,
+    "lon": 2.1721444,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/MUHBA-_Via_Sepulcral_Romana003.JPG/1280px-MUHBA-_Via_Sepulcral_Romana003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "landmark"
+    ],
+    "url": "https://www.barcelona.cat/museuhistoria/",
+    "id": "barcelona_muhba_via_sepulcral_romana"
+  },
+  {
+    "name": "Palau del Lloctinent",
+    "lat": 41.3839974,
+    "lon": 2.1772834,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Barcelona%2C_Palau_del_Lloctinent%2C_d%E2%80%99Antoni_Carbonell%2C_1549-1557._%2814496479185%29.jpg/1280px-Barcelona%2C_Palau_del_Lloctinent%2C_d%E2%80%99Antoni_Carbonell%2C_1549-1557._%2814496479185%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "erotic statuary",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_palau_del_lloctinent"
+  },
+  {
+    "name": "Palau Requesens",
+    "lat": 41.3832312,
+    "lon": 2.1787218,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/149_Palau_Requesens%2C_Reial_Acad%C3%A8mia_de_Bones_Lletres_de_Barcelona%2C_pati.jpg/1280px-149_Palau_Requesens%2C_Reial_Acad%C3%A8mia_de_Bones_Lletres_de_Barcelona%2C_pati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_palau_requesens"
+  },
+  {
+    "name": "Barcelona History Museum MUHBA",
+    "lat": 41.383923,
+    "lon": 2.1776677,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Casa_Padellas_20130905_11.JPG/1280px-Casa_Padellas_20130905_11.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "archaeological",
+      "historic"
+    ],
+    "url": "https://www.barcelona.cat/museuhistoria/",
+    "id": "barcelona_barcelona_history_museum_muhba"
+  },
+  {
+    "name": "Cathedral of Barcelona",
+    "lat": 41.383962,
+    "lon": 2.1761991,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Barcelona_Cathedral_Saint_Eulalia.jpg/1280px-Barcelona_Cathedral_Saint_Eulalia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": "https://catedralbcn.org/",
+    "id": "barcelona_cathedral_of_barcelona"
+  },
+  {
+    "name": "El Born Center for Culture and Memory",
+    "lat": 41.3856869,
+    "lon": 2.1836862,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/El_BornCC_setembre_2013_%282%29.JPG/1280px-El_BornCC_setembre_2013_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "archaeological",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.barcelona.cat/museuhistoria/",
+    "id": "barcelona_el_born_center_for_culture_and_memory"
+  },
+  {
+    "name": "Reial Acadèmia Catalana de Belles Arts de Sant Jordi",
+    "lat": 41.3823566,
+    "lon": 2.1825952,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/66/Llotja_Academia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.racba.org/",
+    "id": "barcelona_reial_academia_catalana_de_belles_arts_de_sant_jordi"
+  },
+  {
+    "name": "Museum of the History of Catalonia",
+    "lat": 41.380804,
+    "lon": 2.185873,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Magatzems_generals_del_Dip%C3%B2sit_-_vista_general.JPG/1280px-Magatzems_generals_del_Dip%C3%B2sit_-_vista_general.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.mhcat.cat/",
+    "id": "barcelona_museum_of_the_history_of_catalonia"
+  },
+  {
+    "name": "Virreina Palace",
+    "lat": 41.3824884,
+    "lon": 2.1717264,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Barcelona_-_Palau_de_la_Virreina_-_fa%C3%A7ana.jpg/1280px-Barcelona_-_Palau_de_la_Virreina_-_fa%C3%A7ana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "architecture"
+    ],
+    "url": "https://ajuntament.barcelona.cat/lavirreina/",
+    "id": "barcelona_virreina_palace"
+  },
+  {
+    "name": "Plaça de Catalunya",
+    "lat": 41.3870154,
+    "lon": 2.1700471,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Catalunya_Barcelona1_tango7174.jpg/1280px-Catalunya_Barcelona1_tango7174.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark"
+    ],
+    "url": null,
+    "id": "barcelona_placa_de_catalunya"
+  },
+  {
+    "name": "Casa Elizalde",
+    "lat": 41.3944444,
+    "lon": 2.1658333,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Casa_Elizalde_-_planta_baixa.jpg/1280px-Casa_Elizalde_-_planta_baixa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "music"
+    ],
+    "url": null,
+    "id": "barcelona_casa_elizalde"
+  },
+  {
+    "name": "La Concepció Market",
+    "lat": 41.3960113,
+    "lon": 2.1685016,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mercat_de_la_Concepci%C3%B3_-_fa%C3%A7ana_Arag%C3%B3.jpg/1280px-Mercat_de_la_Concepci%C3%B3_-_fa%C3%A7ana_Arag%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": "https://www.laconcepcio.cat/",
+    "id": "barcelona_la_concepcio_market"
+  },
+  {
+    "name": "Mercat de la Llibertat",
+    "lat": 41.3998361,
+    "lon": 2.1535784,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/J23_525e_Mercado_de_la_Libertad.jpg/1280px-J23_525e_Mercado_de_la_Libertad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_mercat_de_la_llibertat"
+  },
+  {
+    "name": "ADN Galeria",
+    "lat": 41.3904856,
+    "lon": 2.1577446,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.adngaleria.com/",
+    "id": "barcelona_adn_galeria"
+  },
+  {
+    "name": "Mercat del Ninot",
+    "lat": 41.3878514,
+    "lon": 2.1543196,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/01_Mercat_del_Ninot%2C_c._Mallorca.jpg/1280px-01_Mercat_del_Ninot%2C_c._Mallorca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": "https://mercatdelninot.com/",
+    "id": "barcelona_mercat_del_ninot"
+  },
+  {
+    "name": "Ultra Local Records",
+    "lat": 41.3988392,
+    "lon": 2.1967788,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "music"
+    ],
+    "url": "https://www.ultralocalrecords.com/",
+    "id": "barcelona_ultra_local_records"
+  },
+  {
+    "name": "Phenomena",
+    "lat": 41.4090888,
+    "lon": 2.1718111,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Exterior_de_la_sala_Phenomena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "cinema"
+    ],
+    "url": "https://phenomena-experience.com/",
+    "id": "barcelona_phenomena"
+  },
+  {
+    "name": "Mercat de Sant Andreu",
+    "lat": 41.4348939,
+    "lon": 2.1883991,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mercat_de_Sant_Andreu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": null,
+    "id": "barcelona_mercat_de_sant_andreu"
+  },
+  {
+    "name": "La Clandestina de Poblenou",
+    "lat": 41.416831,
+    "lon": 2.2082418,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "drinking"
+    ],
+    "url": null,
+    "id": "barcelona_la_clandestina_de_poblenou"
+  },
+  {
+    "name": "Palo Alto",
+    "lat": 41.4044,
+    "lon": 2.2102071,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "architecture"
+    ],
+    "url": "https://www.paloalto.barcelona/",
+    "id": "barcelona_palo_alto"
+  },
+  {
+    "name": "Dipòsit de les Aigües",
+    "lat": 41.3904468,
+    "lon": 2.1889434,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/351_Dip%C3%B2sit_de_les_Aig%C3%BCes%2C_biblioteca_de_la_UPF%2C_c._Llull_-_c._Wellington_%28Barcelona%29.jpg/1280px-351_Dip%C3%B2sit_de_les_Aig%C3%BCes%2C_biblioteca_de_la_UPF%2C_c._Llull_-_c._Wellington_%28Barcelona%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "library",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_diposit_de_les_aigues"
+  },
+  {
+    "name": "Centre Cultural La Model",
+    "lat": 41.3830019,
+    "lon": 2.1448017,
+    "imageURL": null,
+    "description": "1904 prison with tours",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.lamodel.barcelona/",
+    "id": "barcelona_centre_cultural_la_model"
+  },
+  {
+    "name": "Fàbrica Lehmann",
+    "lat": 41.382741,
+    "lon": 2.1543982,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/255_F%C3%A0brica_Lehmann%2C_c._Consell_de_Cent_159_%28Barcelona%29%2C_pati.jpg/1280px-255_F%C3%A0brica_Lehmann%2C_c._Consell_de_Cent_159_%28Barcelona%29%2C_pati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "art"
+    ],
+    "url": null,
+    "id": "barcelona_fabrica_lehmann_2"
+  },
+  {
+    "name": "Mercat de Sant Antoni",
+    "lat": 41.3786238,
+    "lon": 2.1620468,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/134_Mercat_de_Sant_Antoni_%28Barcelona%29%2C_fa%C3%A7ana_del_c._Comte_Borrell.jpg/1280px-134_Mercat_de_Sant_Antoni_%28Barcelona%29%2C_fa%C3%A7ana_del_c._Comte_Borrell.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "architecture"
+    ],
+    "url": "https://mercatdesantantoni.com/",
+    "id": "barcelona_mercat_de_sant_antoni"
+  },
+  {
+    "name": "Santa Mònica",
+    "lat": 41.3771925,
+    "lon": 2.1757465,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Centre_d%27Art_Santa_M%C3%B2nica.JPG/1280px-Centre_d%27Art_Santa_M%C3%B2nica.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null,
+    "id": "barcelona_santa_monica"
+  },
+  {
+    "name": "La Carbonera Bookstore",
+    "lat": 41.3740872,
+    "lon": 2.1636252,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": null,
+    "id": "barcelona_la_carbonera_bookstore"
+  },
+  {
+    "name": "Mercat d'Hostafrancs",
+    "lat": 41.3749693,
+    "lon": 2.1438299,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mercat_d%27Hostafrancs_%28Barcelona-Sants%29.jpg/1280px-Mercat_d%27Hostafrancs_%28Barcelona-Sants%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": null,
+    "id": "barcelona_mercat_d_hostafrancs"
+  },
+  {
+    "name": "CaixaForum Barcelona",
+    "lat": 41.371308,
+    "lon": 2.149575,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/PiC-Casarramona-0294.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "url": "https://caixaforum.org/es/barcelona",
+    "id": "barcelona_caixaforum_barcelona"
+  },
+  {
+    "name": "Mies van der Rohe Pavilion",
+    "lat": 41.3706091,
+    "lon": 2.1501628,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg/1280px-The_Barcelona_Pavilion%2C_Barcelona%2C_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture"
+    ],
+    "url": "https://miesbcn.com/",
+    "id": "barcelona_mies_van_der_rohe_pavilion"
+  },
+  {
+    "name": "Observatori Fabra",
+    "lat": 41.4184054,
+    "lon": 2.1241907,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Observatori_Fabra_-_Vista_des_del_Tibidabo_-_1.jpg/1280px-Observatori_Fabra_-_Vista_des_del_Tibidabo_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "historic"
+    ],
+    "url": "https://observatorifabra.cat/",
+    "id": "barcelona_observatori_fabra"
+  },
+  {
+    "name": "Jardins de Mossèn Costa i Llobera",
+    "lat": 41.3673412,
+    "lon": 2.1715049,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jardins_Moss%C3%A8n_Costa_i_Llobera.jpg/1280px-Jardins_Moss%C3%A8n_Costa_i_Llobera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null,
+    "id": "barcelona_jardins_de_mossen_costa_i_llobera"
+  },
+  {
+    "name": "Barcelona Botanical Garden",
+    "lat": 41.3621881,
+    "lon": 2.1574698,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Jard%C3%ADn_Bot%C3%A1nico_Barcelona_entrance.jpg/1280px-Jard%C3%ADn_Bot%C3%A1nico_Barcelona_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://museuciencies.cat/",
+    "id": "barcelona_barcelona_botanical_garden"
+  },
+  {
+    "name": "Plaza de toros de las Arenas",
+    "lat": 41.365,
+    "lon": 2.1492,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Arenas_de_Barcelona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture",
+      "shopping"
+    ],
+    "url": null,
+    "id": "barcelona_plaza_de_toros_de_las_arenas"
+  },
+  {
+    "name": "Montjuïc Castle",
+    "lat": 41.362959,
+    "lon": 2.1650636,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%CE%9A%CE%AC%CF%83%CF%84%CF%81%CE%BF_%CE%9C%CE%BF%CE%BD%CE%B6%CE%BF%CF%85%CE%AF%CE%BA_3231_-_3233.jpg/1280px-%CE%9A%CE%AC%CF%83%CF%84%CF%81%CE%BF_%CE%9C%CE%BF%CE%BD%CE%B6%CE%BF%CF%85%CE%AF%CE%BA_3231_-_3233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://ajuntament.barcelona.cat/castelldemontjuic/",
+    "id": "barcelona_montjuic_castle"
+  },
+  {
+    "name": "Fundació Suñol",
+    "lat": 41.3826501,
+    "lon": 2.1264654,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Fundaci%C3%B3_Su%C3%B1ol.jpg/1280px-Fundaci%C3%B3_Su%C3%B1ol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": "https://www.fundaciosunol.org/",
+    "id": "barcelona_fundacio_sunol"
+  },
+  {
+    "name": "Parc del Castell de l'Oreneta",
+    "lat": 41.3993821,
+    "lon": 2.1110126,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/064_Parc_de_l%27Oreneta%2C_antiga_era.jpg/1280px-064_Parc_de_l%27Oreneta%2C_antiga_era.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null,
+    "id": "barcelona_parc_del_castell_de_l_oreneta"
+  },
+  {
+    "name": "Portal Miralles",
+    "lat": 41.3920053,
+    "lon": 2.1274603,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Porta_Miralles.jpg/1280px-Porta_Miralles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "gaudi designed gateway",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "barcelona_portal_miralles"
+  },
+  {
+    "name": "Monestir de Santa Maria de Valldonzella",
+    "lat": 41.4121552,
+    "lon": 2.1308846,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Santa_Maria_de_Valldonzella_-_Des_del_claustre.JPG/1280px-Santa_Maria_de_Valldonzella_-_Des_del_claustre.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Quietly magnificent 12th-century monastery that tourists somehow miss entirely. The Gothic cloister radiates medieval tranquility. Operating nuns means limited visiting hours, but that's precisely why it hasn't become a selfie factory.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "barcelona_monestir_de_santa_maria_de_valldonzella"
+  },
+  {
+    "name": "The Parliament of Catalonia",
+    "lat": 41.3879678,
+    "lon": 2.1886801,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Palau_Parl_Cat.jpg/1280px-Palau_Parl_Cat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Former arsenal turned seat of regional power, dripping with political symbolism. The renovated spaces blend military austerity with democratic aspiration. Free entry when parliament's not in session makes it accessible, though guides can be politically charged.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.parlament.cat/",
+    "id": "barcelona_the_parliament_of_catalonia"
+  }
+]
