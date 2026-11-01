@@ -1,4 +1,9 @@
 [
+      {
+    "name": "New Jersey",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/new_jersey_sights.json",
+    "imageURL": "https://images.unsplash.com/photo-1623655892448-f9ae504c2c91?q=80&w=1590&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
      {
     "name": "Barcelona",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/barcelona_sights.json",
