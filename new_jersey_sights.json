@@ -1,0 +1,3190 @@
+[
+  {
+    "name": "Sandy Hook Visitor Center",
+    "lat": 40.4616221,
+    "lon": -74.0022423,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Sandy_Hook_Aerial_1_%2811022025%29.jpg/1280px-Sandy_Hook_Aerial_1_%2811022025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nps",
+      "nature",
+      "beaches"
+    ],
+    "url": "https://www.nps.gov/gate/planyourvisit/sandy-hook.htm",
+    "id": "new_jersey_sandy_hook_visitor_center"
+  },
+  {
+    "name": "Great Egg Harbor River",
+    "lat": 39.3042822,
+    "lon": -74.6496034,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Great_Egg_Harbor_River.jpg/1280px-Great_Egg_Harbor_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.nps.gov/greg/index.htm",
+    "id": "new_jersey_great_egg_harbor_river"
+  },
+  {
+    "name": "Delaware and Raritan Canal State Park",
+    "lat": 40.154388,
+    "lon": -74.7168027,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Tree_on_the_D%26R_Canal.jpg/1280px-Tree_on_the_D%26R_Canal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "historic",
+      "hiking"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/delaware-and-raritan-canal/",
+    "id": "new_jersey_delaware_and_raritan_canal_state_park"
+  },
+  {
+    "name": "Washington Crossing State Park",
+    "lat": 40.3049388,
+    "lon": -74.8570453,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Washington_Crossing_NJ_State_Park_Delaware_River_looking_across_to_Pennsylvania.JPG/1280px-Washington_Crossing_NJ_State_Park_Delaware_River_looking_across_to_Pennsylvania.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/washington-crossing-state-park/",
+    "id": "new_jersey_washington_crossing_state_park"
+  },
+  {
+    "name": "New Jersey Pinelands National Reserve",
+    "lat": 39.752,
+    "lon": -74.7487,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2014-08-29_11_51_25_View_north-northeast_from_the_fire_tower_on_Apple_Pie_Hill_in_Wharton_State_Forest%2C_Tabernacle_Township%2C_New_Jersey.JPG/1280px-2014-08-29_11_51_25_View_north-northeast_from_the_fire_tower_on_Apple_Pie_Hill_in_Wharton_State_Forest%2C_Tabernacle_Township%2C_New_Jersey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.nj.gov/pinelands/",
+    "id": "new_jersey_new_jersey_pinelands_national_reserve"
+  },
+  {
+    "name": "Old Barracks Museum",
+    "lat": 40.2199101,
+    "lon": -74.7686849,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Old_Barracks_Museum%2C_Trenton%2C_New_Jersey.jpg/1280px-Old_Barracks_Museum%2C_Trenton%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of New Jersey's oldest surviving buildings still bears the mark of our former British overlords. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://barracks.org/",
+    "id": "new_jersey_old_barracks_museum"
+  },
+  {
+    "name": "Stacy Park",
+    "lat": 40.2322765,
+    "lon": -74.79712,
+    "imageURL": null,
+    "description": "Shaky Bridge - This tiny structure was built by the creator of the Brooklyn Bridge.",
+    "info": null,
+    "categories": [
+      "park",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_stacy_park"
+  },
+  {
+    "name": "New Jersey State Museum",
+    "lat": 40.2210647,
+    "lon": -74.7730924,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/New_Jersey_State_Museum_%2855142209994%29.jpg/1280px-New_Jersey_State_Museum_%2855142209994%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.nj.gov/state/museum/",
+    "id": "new_jersey_new_jersey_state_museum"
+  },
+  {
+    "name": "Retro Arcade & Fascination",
+    "lat": 38.9892691,
+    "lon": -74.8064341,
+    "imageURL": null,
+    "description": "Randy Senna's Fascination and retro arcade is home to the last Fascination game in New Jersey, and one of seven remaining as of 2021. ",
+    "info": null,
+    "categories": [
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_retro_arcade_fascination"
+  },
+  {
+    "name": "Fort Miles Battery 223",
+    "lat": 38.9315889,
+    "lon": -74.9554528,
+    "imageURL": null,
+    "description": "World War II bunker still standing on the New Jersey beach. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "beaches"
+    ],
+    "url": null,
+    "id": "new_jersey_fort_miles_battery_223"
+  },
+  {
+    "name": "Georgian Court University",
+    "lat": 40.0988607,
+    "lon": -74.2277168,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Georgian_Court%2C_Lakewood%2C_NJ_-_Mansion%2C_north_view.jpg/1280px-Georgian_Court%2C_Lakewood%2C_NJ_-_Mansion%2C_north_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "campus of elegant gardens, mansions and classical sculpture",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "nature"
+    ],
+    "url": "https://georgian.edu/",
+    "id": "new_jersey_georgian_court_university"
+  },
+  {
+    "name": "Wreck of the SS Atlantus",
+    "lat": 38.9443237,
+    "lon": -74.9720898,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/SS_Atlantus_Under_Steam_June_1919.jpg/1280px-SS_Atlantus_Under_Steam_June_1919.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The rusting remains are visible sticking out of the waters of the Delaware Bay. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic",
+      "beaches"
+    ],
+    "url": null,
+    "id": "new_jersey_wreck_of_the_ss_atlantus"
+  },
+  {
+    "name": "Clara Glen Linwood Pet Cemetery",
+    "lat": 39.3318766,
+    "lon": -74.5828158,
+    "imageURL": null,
+    "description": "This quaint New Jersey graveyard is an eternal resting place for thousands of beloved pets.  ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_clara_glen_linwood_pet_cemetery"
+  },
+  {
+    "name": "Greek Temple Monument War Memorial",
+    "lat": 39.3513306,
+    "lon": -74.4548448,
+    "imageURL": null,
+    "description": "Memorial built in 1922 in remembrance of WWI casualties. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_greek_temple_monument_war_memorial"
+  },
+  {
+    "name": "Resorts Casino Hotel",
+    "lat": 39.3594093,
+    "lon": -74.4222717,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Resorts_Atlantic_City_-_Hotel_Towers.jpg/1280px-Resorts_Atlantic_City_-_Hotel_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "home to the AC's first slot machine: Amazingly, this old machine within the Resorts Casino still functions.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": "https://www.resortsac.com/",
+    "id": "new_jersey_resorts_casino_hotel"
+  },
+  {
+    "name": "Absecon Lighthouse",
+    "lat": 39.3662285,
+    "lon": -74.4143073,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/eb/ABSECON_72_500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The third-tallest lighthouse in the United States stands as a reminder of Atlantic City's early days.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://abseconlighthouse.org/",
+    "id": "new_jersey_absecon_lighthouse"
+  },
+  {
+    "name": "Matchbox Road Museum",
+    "lat": 39.545813,
+    "lon": -75.0219856,
+    "imageURL": null,
+    "description": "Thousands of Matchbox cars spanning generations call this New Jersey barn home.  ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_matchbox_road_museum"
+  },
+  {
+    "name": "Amatol Raceway",
+    "lat": 39.603591,
+    "lon": -74.741026,
+    "imageURL": null,
+    "description": "In the woods of New Jersey lie the ruins of a munitions village abandoned after World War I and the remnants of a 1920s wooden racetrack. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_amatol_raceway"
+  },
+  {
+    "name": "Batsto Village",
+    "lat": 39.6433733,
+    "lon": -74.64825,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Batsto_River.jpg/1280px-Batsto_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This historic iron-working village is now a ghost town so immaculate that it looks as though it was recently built.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "towns"
+    ],
+    "url": "https://batstovillage.org/",
+    "id": "new_jersey_batsto_village"
+  },
+  {
+    "name": "Emilio Carranza Memorial",
+    "lat": 39.7773662,
+    "lon": -74.632354,
+    "imageURL": null,
+    "description": "Rising out of a clearing in New Jersey's Pine Barrens is an Aztec-inspired monument to the \"Lindbergh of Mexico.\" ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_emilio_carranza_memorial"
+  },
+  {
+    "name": "Apple Pie Hill Forestry Lookout Tower",
+    "lat": 39.8073741,
+    "lon": -74.5893826,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/2014-08-29_11_34_32_The_fire_tower_on_top_of_Apple_Pie_Hill_in_Wharton_State_Forest%2C_Tabernacle_Township%2C_New_Jersey.JPG/1280px-2014-08-29_11_34_32_The_fire_tower_on_top_of_Apple_Pie_Hill_in_Wharton_State_Forest%2C_Tabernacle_Township%2C_New_Jersey.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "How this Pine Barrens hill got its name is uncertain, but on a good day the view from the fire tower is crystal clear. ",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_apple_pie_hill_forestry_lookout_tower"
+  },
+  {
+    "name": "Diggerland USA",
+    "lat": 39.8132165,
+    "lon": -74.9225738,
+    "imageURL": null,
+    "description": "Destructive children, start your engines.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "sports"
+    ],
+    "url": "https://diggerlandusa.com/",
+    "id": "new_jersey_diggerland_usa"
+  },
+  {
+    "name": "Cedar Bridge Tavern Historic Site",
+    "lat": 39.783271,
+    "lon": -74.360658,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/CEDAR_BRIDGE_TAVERN%2C_OCEAN_COUNTY%2C_NJ.jpg/1280px-CEDAR_BRIDGE_TAVERN%2C_OCEAN_COUNTY%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the oldest surviving bars in the United States, located at the site of the last skirmish of the American Revolution. ",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_cedar_bridge_tavern_historic_site"
+  },
+  {
+    "name": "Brooksbrae Brick Factory",
+    "lat": 39.889853,
+    "lon": -74.441535,
+    "imageURL": null,
+    "description": "Hidden deep within New Jersey Pine Barrens is a massive graffiti wonderland. ",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_brooksbrae_brick_factory"
+  },
+  {
+    "name": "Popcorn Park Animal Refuge",
+    "lat": 39.9097368,
+    "lon": -74.3270994,
+    "imageURL": null,
+    "description": "A unusual sanctuary for abused and exotic animals in South Jersey. ",
+    "info": null,
+    "categories": [
+      "nature",
+      "quirky"
+    ],
+    "url": "https://ahscares.org/",
+    "id": "new_jersey_popcorn_park_animal_refuge"
+  },
+  {
+    "name": "Cathedral of the Air",
+    "lat": 40.0178993,
+    "lon": -74.3104124,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cathedral_of_the_Air_NJ2.jpg/1280px-Cathedral_of_the_Air_NJ2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Beautiful stained glass depictions of the history of human flight fill this surprising chapel",
+    "info": null,
+    "categories": [
+      "religious",
+      "quirky",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_cathedral_of_the_air"
+  },
+  {
+    "name": "Hindenburg Crash Site",
+    "lat": 40.0303321,
+    "lon": -74.3257523,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Hindenburg_disaster.jpg/1280px-Hindenburg_disaster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The site of one of history's most indelible and horrific tragedies. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.nlhs.com/",
+    "id": "new_jersey_hindenburg_crash_site"
+  },
+  {
+    "name": "Insectropolis",
+    "lat": 40.0149107,
+    "lon": -74.2163854,
+    "imageURL": null,
+    "description": "A \"Bugseum\" dedicated to all things insect-related resides behind a pest control company. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://insectropolis.com/",
+    "id": "new_jersey_insectropolis"
+  },
+  {
+    "name": "Christ Episcopal Church",
+    "lat": 40.3236095,
+    "lon": -74.0610477,
+    "imageURL": null,
+    "description": "One of New Jersey's oldest churches is a historical treasure trove.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_christ_episcopal_church"
+  },
+  {
+    "name": "The Paranormal Museum- Paranormal Books & Curiosities",
+    "lat": 40.216057,
+    "lon": -74.011156,
+    "imageURL": null,
+    "description": "A storefront museum in Asbury Park honoring the Jersey Shore’s deep history of mystery—including the Jersey Devil.  ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky",
+      "shopping"
+    ],
+    "url": "https://paranormalbooksnj.com/",
+    "id": "new_jersey_the_paranormal_museum_paranormal_books_curiosities"
+  },
+  {
+    "name": "The Great Auditorium",
+    "lat": 40.2141197,
+    "lon": -74.0064279,
+    "imageURL": null,
+    "description": "A wooden theatre that remains the heart of a charming Victorian-era New Jersey enclave. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "music",
+      "architecture"
+    ],
+    "url": "https://www.oceangrove.org/",
+    "id": "new_jersey_the_great_auditorium"
+  },
+  {
+    "name": "Silverball Retro Arcade",
+    "lat": 40.2208605,
+    "lon": -73.9998231,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "quirky"
+    ],
+    "url": "https://silverballmuseum.com/",
+    "id": "new_jersey_silverball_retro_arcade"
+  },
+  {
+    "name": "The Carousel Building",
+    "lat": 40.2177343,
+    "lon": -74.0014173,
+    "imageURL": null,
+    "description": "Vacant Beaux-Arts buildings that serve as reminders of a beach town’s glory days. ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_the_carousel_building"
+  },
+  {
+    "name": "Historic Walnford",
+    "lat": 40.1350195,
+    "lon": -74.558081,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Mill_at_Historic_Walnford.jpg/1280px-Mill_at_Historic_Walnford.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Inside Crosswicks Creek Park resides an estate chronicling 200 years of history.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": "https://www.monmouthcountyparks.com/",
+    "id": "new_jersey_historic_walnford"
+  },
+  {
+    "name": "Psychic Madam Marie's Temple of Knowledge",
+    "lat": 40.2224955,
+    "lon": -73.9991416,
+    "imageURL": null,
+    "description": "Marie told fortunes from her small stand on the Boardwalk for decades, including to a young Bruce Springsteen who would busk outside her booth. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_psychic_madam_marie_s_temple_of_knowledge"
+  },
+  {
+    "name": "Papa's Tomato Pies",
+    "lat": 40.2152582,
+    "lon": -74.6239575,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Papa%27s_Tomato_Pies_sign.jpg/1280px-Papa%27s_Tomato_Pies_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Family-run for more than a century, this pizzeria makes a unique mustard pie. ",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.papastomatopies.com/",
+    "id": "new_jersey_papa_s_tomato_pies"
+  },
+  {
+    "name": "Grounds For Sculpture",
+    "lat": 40.2367777,
+    "lon": -74.7188915,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/2024_Grounds_for_Sculpture_%E2%80%94_Gazebo.jpg/1280px-2024_Grounds_for_Sculpture_%E2%80%94_Gazebo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "park"
+    ],
+    "url": "https://www.groundsforsculpture.org/",
+    "id": "new_jersey_grounds_for_sculpture"
+  },
+  {
+    "name": "Parlor Gallery",
+    "lat": 40.2159631,
+    "lon": -74.0126661,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.parlorgallery.com/",
+    "id": "new_jersey_parlor_gallery"
+  },
+  {
+    "name": "Princeton Plasma Physics Laboratory",
+    "lat": 40.3506062,
+    "lon": -74.6028491,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Princeton-plasma-physics-laboratory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "offers tours on weekdays (maybe kids not allowed?)",
+    "info": null,
+    "categories": [
+      "quirky"
+    ],
+    "url": "https://www.pppl.gov/",
+    "id": "new_jersey_princeton_plasma_physics_laboratory"
+  },
+  {
+    "name": "White House Subs",
+    "lat": 39.3592001,
+    "lon": -74.4406665,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/White_House_Subs.jpg/1280px-White_House_Subs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "new_jersey_white_house_subs"
+  },
+  {
+    "name": "Atlantic City Historical Museum",
+    "lat": 39.3540382,
+    "lon": -74.4379577,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_atlantic_city_historical_museum"
+  },
+  {
+    "name": "Sculpture Along the Way",
+    "lat": 40.2524497,
+    "lon": -74.7042042,
+    "imageURL": null,
+    "description": "These 20-foot sculptures will help guide you from the local train station to the local sculpture garden.",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_sculpture_along_the_way"
+  },
+  {
+    "name": "Sandy Hook Nike Launch Site",
+    "lat": 40.4331306,
+    "lon": -73.9875409,
+    "imageURL": null,
+    "description": "Rusting away on the edge of New Jersey are the remains of a Cold War missile launch site. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "nps"
+    ],
+    "url": null,
+    "id": "new_jersey_sandy_hook_nike_launch_site"
+  },
+  {
+    "name": "Twin Lights State Historic Site",
+    "lat": 40.3962568,
+    "lon": -73.9857754,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Twin_Lights_State_Historic_Site.jpg/1280px-Twin_Lights_State_Historic_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "These unassuming lighthouses have seen the first reading of the Pledge of Allegiance, the first wireless transmission, and more than one mystery. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint",
+      "museum"
+    ],
+    "url": "https://www.twinlightslighthouse.org/",
+    "id": "new_jersey_twin_lights_state_historic_site"
+  },
+  {
+    "name": "Holmdel Horn Antenna",
+    "lat": 40.3907178,
+    "lon": -74.1848613,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Horn_Antenna-in_Holmdel%2C_New_Jersey.jpeg/1280px-Horn_Antenna-in_Holmdel%2C_New_Jersey.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Where the embers of the Big Bang were first detected. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_holmdel_horn_antenna"
+  },
+  {
+    "name": "Holmdel Teleport",
+    "lat": 40.3945961,
+    "lon": -74.1730096,
+    "imageURL": null,
+    "description": "This giant satellite antenna services the transmission needs of government agencies and cable programmers.  ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_holmdel_teleport"
+  },
+  {
+    "name": "Transistor Water Tower",
+    "lat": 40.3711687,
+    "lon": -74.160558,
+    "imageURL": null,
+    "description": "This water tower commemorates the invention of the transistor on this site in 1947. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_transistor_water_tower"
+  },
+  {
+    "name": "Karl Jansky Memorial",
+    "lat": 40.3651379,
+    "lon": -74.1635657,
+    "imageURL": null,
+    "description": "A monument commemorating the discoverer of radio astronomy. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_karl_jansky_memorial"
+  },
+  {
+    "name": "Princeton University Art Museum",
+    "lat": 40.3474763,
+    "lon": -74.6581078,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Princeton_University_Art_Museum.jpg/1280px-Princeton_University_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://artmuseum.princeton.edu/",
+    "id": "new_jersey_princeton_university_art_museum"
+  },
+  {
+    "name": "Sayen House and Gardens",
+    "lat": 40.2357081,
+    "lon": -74.657288,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "nature",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_sayen_house_and_gardens"
+  },
+  {
+    "name": "The Stone Pony",
+    "lat": 40.2200031,
+    "lon": -74.0008579,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stone_pony2_net.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://www.stoneponyonline.com/",
+    "id": "new_jersey_the_stone_pony"
+  },
+  {
+    "name": "Andlinger Center For Energy And Environment",
+    "lat": 40.3491999,
+    "lon": -74.6508387,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture"
+    ],
+    "url": "https://acee.princeton.edu/",
+    "id": "new_jersey_andlinger_center_for_energy_and_environment"
+  },
+  {
+    "name": "Marine Mammal Stranding Center",
+    "lat": 39.3950947,
+    "lon": -74.3910009,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://mmsc.org/",
+    "id": "new_jersey_marine_mammal_stranding_center"
+  },
+  {
+    "name": "Princeton University Chapel",
+    "lat": 40.3488423,
+    "lon": -74.6569899,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Princeton_University_Chapel_2003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_princeton_university_chapel"
+  },
+  {
+    "name": "Paramount Theatre",
+    "lat": 40.2236594,
+    "lon": -73.9989321,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Asbury_Park_Paramount_Theater.JPG/1280px-Asbury_Park_Paramount_Theater.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater",
+      "music"
+    ],
+    "url": null,
+    "id": "new_jersey_paramount_theatre"
+  },
+  {
+    "name": "Bainbridge House",
+    "lat": 40.3504934,
+    "lon": -74.6576123,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_bainbridge_house"
+  },
+  {
+    "name": "Frist Campus Center",
+    "lat": 40.3466502,
+    "lon": -74.6550842,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Princeton_Frist_Campus_Center_back.jpg/1280px-Princeton_Frist_Campus_Center_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Room 302 - restored to the condition it was when Einstein lectured there",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_frist_campus_center"
+  },
+  {
+    "name": "The Sarnoff Collection",
+    "lat": 40.2712506,
+    "lon": -74.7776625,
+    "imageURL": null,
+    "description": "A surprising museum of 20th-century technology. ",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://davidsarnoff.tcnj.edu/",
+    "id": "new_jersey_the_sarnoff_collection"
+  },
+  {
+    "name": "East Jersey Old Town Village",
+    "lat": 40.5135798,
+    "lon": -74.4763552,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/East_Jersey_Olde_Towne_Village%2C_courtyard_view_of_three_buildings.jpg/1280px-East_Jersey_Olde_Towne_Village%2C_courtyard_view_of_three_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_east_jersey_old_town_village"
+  },
+  {
+    "name": "Cornelius Low House",
+    "lat": 40.5123769,
+    "lon": -74.4617087,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cornelius_Low_House_%282008%29.jpg/1280px-Cornelius_Low_House_%282008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the last-standing and most prominent structures from a long-lost colonial port community.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_cornelius_low_house"
+  },
+  {
+    "name": "Rutgers Geology Museum",
+    "lat": 40.498649,
+    "lon": -74.4466806,
+    "imageURL": null,
+    "description": "giant crab - This exoskeleton was gifted to Rutgers University by Japan for its role in educating some of the first Japanese citizens to study outside the country.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://geologymuseum.rutgers.edu/",
+    "id": "new_jersey_rutgers_geology_museum"
+  },
+  {
+    "name": "Mary Ellis Burial Site",
+    "lat": 40.4892143,
+    "lon": -74.4165821,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mary_Ellis_Burial_Site%2C_New_Brunswick%2C_NJ.jpg/1280px-Mary_Ellis_Burial_Site%2C_New_Brunswick%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Seven people are buried in the middle of what's now a movie theater parking lot. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_mary_ellis_burial_site"
+  },
+  {
+    "name": "Rutgers Gardens",
+    "lat": 40.4734192,
+    "lon": -74.4227371,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Rutgers_Gardens_-_general_view.JPG/1280px-Rutgers_Gardens_-_general_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A mixture of strange symbols, ciphers, words and cryptograms carved in 1876 remain unsolved to this day. ",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://rutgersgardens.rutgers.edu/",
+    "id": "new_jersey_rutgers_gardens"
+  },
+  {
+    "name": "Harriet Tubman Museum of New Jersey",
+    "lat": 38.9353887,
+    "lon": -74.9211723,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Harriet_Tubman_Museum%2C_Cape_May%2C_NJ_-_2024.jpg/1280px-Harriet_Tubman_Museum%2C_Cape_May%2C_NJ_-_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://harriettubmanmuseum.org/",
+    "id": "new_jersey_harriet_tubman_museum_of_new_jersey"
+  },
+  {
+    "name": "Greenwich",
+    "lat": 39.3899304,
+    "lon": -75.338263,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Teaburners_Monument.JPG/1280px-Teaburners_Monument.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Check out the tea-burning monument on Ye Greate Street, commemorating Dec. 22, 1774, when a group of villagers burned a stolen shipment of tea in the town square. Greenwich is a great jumping-off point to the rest of Cumberland County, easily the least-known county to New Jerseyans.",
+    "info": null,
+    "categories": [
+      "towns",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_greenwich"
+  },
+  {
+    "name": "Count Basie Center for the Arts",
+    "lat": 40.3491446,
+    "lon": -74.0701199,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater",
+      "music"
+    ],
+    "url": "https://thebasie.org/",
+    "id": "new_jersey_count_basie_center_for_the_arts"
+  },
+  {
+    "name": "Asbury Park Boardwalk",
+    "lat": 40.2252316,
+    "lon": -73.9984251,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "beaches",
+      "neighborhood"
+    ],
+    "url": null,
+    "id": "new_jersey_asbury_park_boardwalk"
+  },
+  {
+    "name": "BAPS Shri Swaminarayan Mandir, Robbinsville",
+    "lat": 40.2537438,
+    "lon": -74.5775407,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/BAPS_Robbinsville_Mandir_-_mandir_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "world's 2nd largest hindu temple",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": "https://www.baps.org/",
+    "id": "new_jersey_baps_shri_swaminarayan_mandir_robbinsville"
+  },
+  {
+    "name": "Wooden Walls Project",
+    "lat": 40.2176962,
+    "lon": -74.0009376,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_wooden_walls_project"
+  },
+  {
+    "name": "Wonder Bar",
+    "lat": 40.2233008,
+    "lon": -73.9996104,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://wonderbarasburypark.com/",
+    "id": "new_jersey_wonder_bar"
+  },
+  {
+    "name": "Firestone Library",
+    "lat": 40.3495742,
+    "lon": -74.6574199,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Firestone_Library_Princeton_front.jpg/1280px-Firestone_Library_Princeton_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "architecture"
+    ],
+    "url": "https://library.princeton.edu/",
+    "id": "new_jersey_firestone_library"
+  },
+  {
+    "name": "Theatre Intime",
+    "lat": 40.3480177,
+    "lon": -74.6576785,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Preparing_for_All_My_Sons%2C_Theatre_Intime%2C_Princeton_University%2C_Princeton_NJ.jpg/1280px-Preparing_for_All_My_Sons%2C_Theatre_Intime%2C_Princeton_University%2C_Princeton_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.theatreintime.org/",
+    "id": "new_jersey_theatre_intime"
+  },
+  {
+    "name": "Edwin B. Forsythe National Wildlife Refuge",
+    "lat": 39.4644363,
+    "lon": -74.4505376,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Day_2_-_Forsythe_National_Wildlife_Refuge_Flyover_%2816662938221%29.jpg/1280px-Day_2_-_Forsythe_National_Wildlife_Refuge_Flyover_%2816662938221%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.fws.gov/refuge/edwin-b-forsythe",
+    "id": "new_jersey_edwin_b_forsythe_national_wildlife_refuge"
+  },
+  {
+    "name": "Asbury Lanes",
+    "lat": 40.223235,
+    "lon": -74.0019302,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Asbury_lanes_ap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports",
+      "music",
+      "drinking"
+    ],
+    "url": "https://www.asburylanes.com/",
+    "id": "new_jersey_asbury_lanes"
+  },
+  {
+    "name": "Richardson Auditorium",
+    "lat": 40.3483222,
+    "lon": -74.6606209,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music"
+    ],
+    "url": null,
+    "id": "new_jersey_richardson_auditorium"
+  },
+  {
+    "name": "Batsto Visitors Center",
+    "lat": 39.643922,
+    "lon": -74.6466982,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://batstovillage.org/",
+    "id": "new_jersey_batsto_visitors_center"
+  },
+  {
+    "name": "FAA William J. Hughes Technical Center",
+    "lat": 39.4443089,
+    "lon": -74.5632541,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_faa_william_j_hughes_technical_center"
+  },
+  {
+    "name": "McCarter Theatre Center",
+    "lat": 40.3441429,
+    "lon": -74.6605814,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/McCarter_Theatre_Center%2C_Princeton%2C_New_Jersey_2018.jpg/1280px-McCarter_Theatre_Center%2C_Princeton%2C_New_Jersey_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.mccarter.org/",
+    "id": "new_jersey_mccarter_theatre_center"
+  },
+  {
+    "name": "Wildwood Boardwalk",
+    "lat": 38.9865206,
+    "lon": -74.8106115,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "beaches",
+      "neighborhood",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_wildwood_boardwalk"
+  },
+  {
+    "name": "Albert Music Hall",
+    "lat": 39.7906037,
+    "lon": -74.2005028,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music"
+    ],
+    "url": "https://www.alberthall.org/",
+    "id": "new_jersey_albert_music_hall"
+  },
+  {
+    "name": "Cowtown Rodeo",
+    "lat": 39.6600264,
+    "lon": -75.3745493,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "quirky",
+      "sports",
+      "market"
+    ],
+    "url": "https://cowtownrodeo.com/",
+    "id": "new_jersey_cowtown_rodeo"
+  },
+  {
+    "name": "Museum of American Glass",
+    "lat": 39.4105814,
+    "lon": -75.0209489,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.wheatonarts.org/",
+    "id": "new_jersey_museum_of_american_glass"
+  },
+  {
+    "name": "WheatonArts",
+    "lat": 39.4119351,
+    "lon": -75.0218908,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wheaton_Glassworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": "https://www.wheatonarts.org/",
+    "id": "new_jersey_wheatonarts"
+  },
+  {
+    "name": "Delsea Drive-In Theatre",
+    "lat": 39.4538142,
+    "lon": -75.0411844,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "cinema"
+    ],
+    "url": "https://www.delseadrive-in.com/",
+    "id": "new_jersey_delsea_drive_in_theatre"
+  },
+  {
+    "name": "Beach Plum Farm",
+    "lat": 38.9425232,
+    "lon": -74.9492765,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "nature"
+    ],
+    "url": null,
+    "id": "new_jersey_beach_plum_farm"
+  },
+  {
+    "name": "Lambertville",
+    "lat": 40.3659394,
+    "lon": -74.9429448,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Lambertville_City_Hall%2C_Lambertville%2C_NJ.jpg/1280px-Lambertville_City_Hall%2C_Lambertville%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "new_jersey_lambertville"
+  },
+  {
+    "name": "Salvage Angel By The Sea",
+    "lat": 40.2203967,
+    "lon": -74.0246615,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://salvageangelbythesea.wordpress.com/",
+    "id": "new_jersey_salvage_angel_by_the_sea"
+  },
+  {
+    "name": "New Jersey Motorsports Park",
+    "lat": 39.3589978,
+    "lon": -75.061608,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports"
+    ],
+    "url": "https://njmp.com/",
+    "id": "new_jersey_new_jersey_motorsports_park"
+  },
+  {
+    "name": "Orchid Range",
+    "lat": 40.5510508,
+    "lon": -74.6279826,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.dukefarms.org/",
+    "id": "new_jersey_orchid_range"
+  },
+  {
+    "name": "Allaire State Park",
+    "lat": 40.1602263,
+    "lon": -74.1324377,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/PineCreekRailroadwithLicence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A colony of prehistoric beasts—built not from fossils but from from branches, animal bones and leaves by New Jersey artist Robin Ruggiero—can be found off the pink-blazed, 1.3-mile Boy Scout Trail at the east end of the group campsite at Allaire State Park in Farmingdale. After visiting the dinosaur trail’s unique and visually stunning Tyrannosaurus rex, triceratops, pterodactyl and stegosaurus, be sure to check out Allaire Village, a 19th-century iron-making town, and take a ride on the narrow-gauge Pine Creek Railroad. The park also features miles of other marked, multi-use trails, fishing on the Manasquan River, and a visitor’s center and museum.",
+    "info": null,
+    "categories": [
+      "park",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/allaire-state-park/",
+    "id": "new_jersey_allaire_state_park"
+  },
+  {
+    "name": "Cloverdale Farm County Park",
+    "lat": 39.7580822,
+    "lon": -74.2781031,
+    "imageURL": null,
+    "description": "Just a short drive down a dirt-and-gravel road delivers you back in time to a restored cranberry farm from the 1870s. At the 90-acre Cloverdale Farm County Park in Barnegat, a replica of the original farmhouse that today serves as the visitor center (open Friday–Sunday) introduces visitors to the farm’s history. Then it’s off on a 1.4-mile, level, sandy, self-guided trail past the cranberry sorting house and around several cranberry bogs. Be sure to print out the self-guided nature-trail map before you go (you never know about cell phone reception in a bog)",
+    "info": null,
+    "categories": [
+      "park",
+      "historic",
+      "nature"
+    ],
+    "url": null,
+    "id": "new_jersey_cloverdale_farm_county_park"
+  },
+  {
+    "name": "Monmouth Battlefield State Park",
+    "lat": 40.2636828,
+    "lon": -74.3203582,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Visitor_Center%2C_Monmouth_Battlefield%2C_Manalapan_Township%2C_NJ_-_2026.jpg/1280px-Visitor_Center%2C_Monmouth_Battlefield%2C_Manalapan_Township%2C_NJ_-_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Large, atmospheric Revolutionary War landscape with reenactments and strong interpretation. One of the best battlefield experiences in the Mid-Atlantic.",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/monmouth-battlefield-state-park/",
+    "id": "new_jersey_monmouth_battlefield_state_park"
+  },
+  {
+    "name": "Cape May",
+    "lat": 38.9316029,
+    "lon": -74.9107738,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Cape_May_Beach_Ave_from_the_sea_3.JPG/1280px-Cape_May_Beach_Ave_from_the_sea_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the best preserved Victorian resort towns in the US. Colorful gingerbread houses, walkable streets, beach access, and great food",
+    "info": null,
+    "categories": [
+      "towns",
+      "beaches",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_cape_may"
+  },
+  {
+    "name": "Nassau Hall",
+    "lat": 40.3486278,
+    "lon": -74.6593444,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Nassau_Hall_Princeton.JPG/1280px-Nassau_Hall_Princeton.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: A rare case where the hype is real: once the largest building in New Jersey, briefly the capital of the United States, and still the symbolic heart of Princeton",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_nassau_hall"
+  },
+  {
+    "name": "Princeton Battlefield State Park",
+    "lat": 40.3308981,
+    "lon": -74.6766762,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Princeton_Battle_Field_09.jpg/1280px-Princeton_Battle_Field_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Smaller than Monmouth but extremely important historically and beautifully preserved. Easy pairing with Nassau Hall and downtown Princeton.",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/princeton-battlefield-state-park/",
+    "id": "new_jersey_princeton_battlefield_state_park"
+  },
+  {
+    "name": "Morven Museum & Garden",
+    "lat": 40.34774,
+    "lon": -74.6671748,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/MorvenNJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Architecturally handsome, layered political history, and well-run museum. A standout among “founding father houses.”",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.morven.org/",
+    "id": "new_jersey_morven_museum_garden"
+  },
+  {
+    "name": "Cleveland Tower",
+    "lat": 40.3405745,
+    "lon": -74.6646513,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cleveland_Tower%2C_Princeton_University_Graduate_College%2C_NJ.jpg/1280px-Cleveland_Tower%2C_Princeton_University_Graduate_College%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Its beauty often compared to that of Oxford University's Magdalen Tower, the 173-foot Cleveland Tower flanks the main entrance to Princeton's Graduate College. One of the principal structures of the Graduate College when it was dedicated in 1913, the tower was erected as a memorial to President Grover Cleveland, who, following his retirement from public life, was a trustee of Princeton University and chaired the trustees' graduate school committee. Funds for the construction of the tower were raised by public subscription from \"citizens of all parties in all walks of life from all parts of the United States.\"<br><br>The Princeton University Carillon, the fifth largest carillon in the country and one of the ten largest in the world, was given to the University by the Class of 1892 and installed in Cleveland Tower in 1927. The carillon has been renovated twice since its installation, and in 1999 Cleveland Tower itself received a $1.5 million restoration that included more than 200 carved replications in the original limestone material used for the tower's celebrated four pinnacles. Both the tower and the carillon continue to play important roles in University life: since 1993, the annual Summer Carillon Series has featured carillonneurs from around the United States and abroad, and an early morning climb to the top of Cleveland Tower to watch the sun rise remains a springtime tradition.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_cleveland_tower"
+  },
+  {
+    "name": "Fitzrandolph Gate",
+    "lat": 40.349575,
+    "lon": -74.659708,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/FitzRandolph_Gate_with_Nassau_Hall.jpg/1280px-FitzRandolph_Gate_with_Nassau_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The imposing wrought-iron gate, known as FitzRandolph Gate, is the official entrance to Princeton's campus. It was funded by a bequest from Augustus Van Wickle in honor of his great grandfather, Nathaniel FitzRandolph. The son of a 17th-century Quaker settler of Princeton, FitzRandolph was instrumental in raising the money and land required to build the college, and in 1753 he gave the original four and a half acres on which Nassau Hall was built.<br><br>The gate was designed by the firm of McKim, Meade and White (who also designed the 1911 Ferris Thompson Gateway in front of Bowen Hall) and erected in 1905. As an entrance, however, the gate was largely symbolic. It was kept closed and locked except at graduation, the P-rade or the advent of a particularly notable guest, such as the Crown Prince of Sweden in 1926.<br><br>It was the Class of 1970 who \"in a symbol of the University's openness to the local and worldwide community,\" ensured upon their graduation that the FitzRandolph Gate would always remain open to the town and the world beyond it. Their class motto, \"Together for Community,\" is inscribed in the east pillar of the gateway, as is a peace symbol in the zero of 1970.<br><br>Since 1970, the gate has remained open for regular use by visitors and residents alike. In the decades since, however, many students have avoided using the gates until graduation, swayed by lore and legend.<br><br>In 2005, the gate was extensively restored in time for its 100th anniversary. Some original parts had to be reconstructed, and altogether, more than 230 pieces of cast metal were replaced. All new and restored parts, constructed from authentic wrought iron from England, were hand forged using traditional blacksmithing methods and tools.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_fitzrandolph_gate"
+  },
+  {
+    "name": "Wawayanda State Park",
+    "lat": 41.1779245,
+    "lon": -74.4349761,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Wawayanda.jpg/1280px-Wawayanda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Classic North Jersey mountain-and-lake scenery. Feels wilder than many NJ parks. Strong hiking and foliage payoff.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/wawayanda-state-park/",
+    "id": "new_jersey_wawayanda_state_park"
+  },
+  {
+    "name": "Washington Rock State Park",
+    "lat": 40.6127525,
+    "lon": -74.4723817,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Washington.Rock.jpg/1280px-Washington.Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Small but punchy. Big Watchung Mountains overlook where Washington reportedly surveyed British movements. On clear days you can see far into the distance — sometimes even Manhattan.",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/washington-rock-state-park/",
+    "id": "new_jersey_washington_rock_state_park"
+  },
+  {
+    "name": "Liberty State Park",
+    "lat": 40.7057531,
+    "lon": -74.0491477,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/CRRNJ_Terminal%2C_Liberty_State_Park%2C_Jersey_City_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Incredible skyline views (arguably top-tier visually), but more urban promenade than nature park.",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/liberty-state-park/",
+    "id": "new_jersey_liberty_state_park"
+  },
+  {
+    "name": "Barnegat Lighthouse State Park",
+    "lat": 39.7632135,
+    "lon": -74.1063824,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/NJ_LBI_Lighthouse_08a_%28June_2004%29.JPG/1280px-NJ_LBI_Lighthouse_08a_%28June_2004%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: “Old Barney” rises dramatically above Long Beach Island. Climb it for sweeping ocean and bay views. Visually iconic and very photogenic.",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint",
+      "historic"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/barnegat-lighthouse-state-park/",
+    "id": "new_jersey_barnegat_lighthouse_state_park"
+  },
+  {
+    "name": "Corson's Inlet State Park",
+    "lat": 39.2158381,
+    "lon": -74.6438383,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Corson%E2%80%99s_Inlet_State_Park.jpg/1280px-Corson%E2%80%99s_Inlet_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Protected tidal inlet with shifting dunes and marshes. Less crowded and more natural than typical Shore beaches — understated but atmospheric.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature",
+      "beaches"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/corsons-inlet-state-park/",
+    "id": "new_jersey_corson_s_inlet_state_park"
+  },
+  {
+    "name": "Hacklebarney State Park",
+    "lat": 40.7511417,
+    "lon": -74.7364025,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hacklebarney_State_Park%2C_NJ_-_Black_River_waterfalls.jpg/1280px-Hacklebarney_State_Park%2C_NJ_-_Black_River_waterfalls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Rocky gorge, rushing streams, mossy woodland. Compact but beautiful — especially in spring or after rain.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature",
+      "hiking"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/hacklebarney-state-park/",
+    "id": "new_jersey_hacklebarney_state_park"
+  },
+  {
+    "name": "Kittatinny Valley State Park",
+    "lat": 41.0185289,
+    "lon": -74.7367409,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Lake_Aeroflex%2C_Kittatinny_Valley_State_Park%2C_NJ.jpg/1280px-Lake_Aeroflex%2C_Kittatinny_Valley_State_Park%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Glacial lakes and rolling farmland framed by mountains. More peaceful than dramatic, but quite scenic.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/kittatinny-valley-state-park/",
+    "id": "new_jersey_kittatinny_valley_state_park"
+  },
+  {
+    "name": "Jockey Hollow Visitor Center",
+    "lat": 40.7626963,
+    "lon": -74.5426444,
+    "imageURL": null,
+    "description": "AI: A deeply atmospheric Revolutionary War site where Washington’s army endured a brutal winter. The recreated soldier huts in the woods give it a haunting, immersive feel.<br>👉 One of NJ’s most powerful historic landscapes.",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "hiking"
+    ],
+    "url": "https://www.nps.gov/morr/index.htm",
+    "id": "new_jersey_jockey_hollow_visitor_center"
+  },
+  {
+    "name": "Fort Mott State Park",
+    "lat": 39.6031913,
+    "lon": -75.5500462,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Fort_Mott_State_Park%2C_NJ_-_gun_fire_control_tower.jpg/1280px-Fort_Mott_State_Park%2C_NJ_-_gun_fire_control_tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: A former coastal defense fort on the Delaware River with gun batteries and open grounds. Feels a bit like an East Coast version of a decommissioned military site—spacious and interesting to explore.<br>👉 Best fort experience in this group.",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/fort-mott-state-park/",
+    "id": "new_jersey_fort_mott_state_park"
+  },
+  {
+    "name": "Eagle Rock Reservation",
+    "lat": 40.8106183,
+    "lon": -74.2337063,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/EagleRockOrangeMountain.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Arguably the best skyline view of New York City from New Jersey. The overlook is dramatic, especially at sunset or night, and the 9/11 memorial adds emotional weight. Short visit, huge payoff—this is the clear standout.",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "park"
+    ],
+    "url": null,
+    "id": "new_jersey_eagle_rock_reservation"
+  },
+  {
+    "name": "Sourland Mountain Preserve",
+    "lat": 40.4746488,
+    "lon": -74.7027308,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Sourland_Mountain_Preserve%2C_Hillsborough%2C_New_Jersey%2C_USA_June_2012_-_panoramio_%286%29.jpg/1280px-The_Sourland_Mountain_Preserve%2C_Hillsborough%2C_New_Jersey%2C_USA_June_2012_-_panoramio_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Feels wilder and more rugged than most of central NJ. Boulder fields, dense forest, and a slightly untamed vibe make this a surprising hidden gem for hiking.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_sourland_mountain_preserve"
+  },
+  {
+    "name": "High Point Monument",
+    "lat": 41.320956,
+    "lon": -74.661617,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/2020-10-18_10_07_34_View_of_High_Point_Monument_from_the_base_within_High_Point_State_Park_in_Montague_Township%2C_Sussex_County%2C_New_Jersey.jpg/1280px-2020-10-18_10_07_34_View_of_High_Point_Monument_from_the_base_within_High_Point_State_Park_in_Montague_Township%2C_Sussex_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The highest point in New Jersey is marked by a massive, if simply named, obelisk.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "viewpoint"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/high-point-state-park/",
+    "id": "new_jersey_high_point_monument"
+  },
+  {
+    "name": "Luna Parc",
+    "lat": 41.251705,
+    "lon": -74.78691,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/The_main_house_at_Luna_Parc_as_seen_in_2018.jpg/1280px-The_main_house_at_Luna_Parc_as_seen_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Whimsical artist house in the New Jersey woods. Open for tours 2-3 days each month from May 1-October 31. For visiting information please contact: ricky@lunparc.com.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": "https://www.lunaparc.com/",
+    "id": "new_jersey_luna_parc"
+  },
+  {
+    "name": "Former lion enclosure of Jungle Habitat",
+    "lat": 41.126231,
+    "lon": -74.33712,
+    "imageURL": null,
+    "description": "his disastrous New Jersey safari park saw animal attacks, escapes, and disease before being abandoned.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_former_lion_enclosure_of_jungle_habitat"
+  },
+  {
+    "name": "Mahwah Museum",
+    "lat": 41.093913,
+    "lon": -74.144732,
+    "imageURL": null,
+    "description": "This 150-year-old train station and caboose have been turned into a railroad museum, enjoyed by young and old alike.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://mahwahmuseum.org/",
+    "id": "new_jersey_mahwah_museum"
+  },
+  {
+    "name": "30 Bluffs Ct",
+    "lat": 41.143638,
+    "lon": -74.577581,
+    "imageURL": null,
+    "description": "An approximately 500 million-year-old rock outcropping covered in fossilized bacteria.",
+    "info": null,
+    "categories": [
+      "nature",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_30_bluffs_ct"
+  },
+  {
+    "name": "Sterling Hill Mining Museum",
+    "lat": 41.083539,
+    "lon": -74.604183,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sterling_Hill_Mining_Museum%2C_Visitor_Center%2C_Ogdensburg%2C_NJ_-_2025.jpg/1280px-Sterling_Hill_Mining_Museum%2C_Visitor_Center%2C_Ogdensburg%2C_NJ_-_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Hundreds of glow-in-the-dark objects light up a museum in a historic zinc mine.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky",
+      "historic"
+    ],
+    "url": "https://www.sterlinghillminingmuseum.org/",
+    "id": "new_jersey_sterling_hill_mining_museum"
+  },
+  {
+    "name": "Van Slyke Castle",
+    "lat": 41.044772,
+    "lon": -74.26264,
+    "imageURL": null,
+    "description": "The remains of a century-old mansion that met a fiery demise years after it was deserted.",
+    "info": null,
+    "categories": [
+      "historic",
+      "hiking",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_van_slyke_castle"
+  },
+  {
+    "name": "Radburn",
+    "lat": 40.940902,
+    "lon": -74.119592,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Radburn_Station.jpg/1280px-Radburn_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The first neighborhood to implement the Garden City model in its suburban planning.",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_radburn"
+  },
+  {
+    "name": "Paterson Great Falls National Historical Park",
+    "lat": 40.91495,
+    "lon": -74.18004,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2018-07-25_08_39_25_View_of_the_Great_Falls_of_the_Passaic_River_from_just_north_of_McBride_Avenue_within_Paterson_Great_Falls_National_Historical_Park_in_Paterson%2C_Passaic_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "In the power of this waterfall, Alexander Hamilton saw the potential for industry.",
+    "info": null,
+    "categories": [
+      "nps",
+      "nature",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/pagr/index.htm",
+    "id": "new_jersey_paterson_great_falls_national_historical_park"
+  },
+  {
+    "name": "Holsten's Ice Cream, Chocolate & Restaurant",
+    "lat": 40.828282,
+    "lon": -74.186633,
+    "imageURL": null,
+    "description": "This old-fashioned candy shop, ice cream parlor, and diner served as the setting for one of TV's most controversial series finales.",
+    "info": null,
+    "categories": [
+      "food",
+      "quirky"
+    ],
+    "url": "https://holstens.com/",
+    "id": "new_jersey_holsten_s_ice_cream_chocolate_restaurant"
+  },
+  {
+    "name": "Thomas Edison's Concrete Houses",
+    "lat": 40.837803,
+    "lon": -74.211924,
+    "imageURL": null,
+    "description": "dison's cast-in-place concrete houses were a failure, but way ahead of their time.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_thomas_edison_s_concrete_houses"
+  },
+  {
+    "name": "Iviswold",
+    "lat": 40.83093,
+    "lon": -74.112094,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Iviswold2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Originally built in 1869, this castle is currently part of Felician University's campus.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_iviswold"
+  },
+  {
+    "name": "Victor Victori's Multiplism Statues",
+    "lat": 40.825918,
+    "lon": -74.105518,
+    "imageURL": null,
+    "description": "Seven golden statues rise into the sky from sculptor Victor Victori's New Jersey front lawn.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_victor_victori_s_multiplism_statues"
+  },
+  {
+    "name": "Old Mine Road",
+    "lat": 41.234922,
+    "lon": -74.848907,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Isaac_Van_Campen_House%2C_1750_%283707827199%29.jpg/1280px-Isaac_Van_Campen_House%2C_1750_%283707827199%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "40 mile scenic road through the delaware water gap - one of the oldest roads in the country",
+    "info": null,
+    "categories": [
+      "nature",
+      "historic",
+      "nps"
+    ],
+    "url": null,
+    "id": "new_jersey_old_mine_road"
+  },
+  {
+    "name": "Peters Valley School of Craft: Office",
+    "lat": 41.195984,
+    "lon": -74.851087,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Peters_Valley_School_of_Craft%2C_NJ.jpg/1280px-Peters_Valley_School_of_Craft%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://petersvalley.org/",
+    "id": "new_jersey_peters_valley_school_of_craft_office"
+  },
+  {
+    "name": "Women's Federation Monument",
+    "lat": 40.980768,
+    "lon": -73.909441,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/2013-05-05_14_50_42_View_from_the_southwest_of_the_Women%27s_Federation_Monument_in_Palisades_Interstate_Park.jpg/1280px-2013-05-05_14_50_42_View_from_the_southwest_of_the_Women%27s_Federation_Monument_in_Palisades_Interstate_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A whimsical monument deep in this park commemorates the groups that helped build it.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_women_s_federation_monument"
+  },
+  {
+    "name": "Zabriskie's 1912 “Cliff Dale” House Foundation",
+    "lat": 40.939312,
+    "lon": -73.923423,
+    "imageURL": null,
+    "description": "Along the Palisades skyline are the ruins of a large mansion built in 1911 and demolished in the 1930s.",
+    "info": null,
+    "categories": [
+      "historic",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_zabriskie_s_1912_cliff_dale_house_foundation"
+  },
+  {
+    "name": "Rionda’s Tower and Historical Marker",
+    "lat": 40.933813,
+    "lon": -73.933207,
+    "imageURL": null,
+    "description": "Said to be haunted, this tower was constructed by a sugar importer as a gift to his wife.",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "new_jersey_riondas_tower_and_historical_marker"
+  },
+  {
+    "name": "Weehawken Dueling Grounds",
+    "lat": 40.770224,
+    "lon": -74.016949,
+    "imageURL": null,
+    "description": "The boulder on which Alexander Hamilton laid his head as he died can still be visited on the New Jersey coast.",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_weehawken_dueling_grounds"
+  },
+  {
+    "name": "Sybil's Cave",
+    "lat": 40.74543,
+    "lon": -74.023009,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Sybils_Cave_Park_Hoboken_cloudy_jeh.jpg/1280px-Sybils_Cave_Park_Hoboken_cloudy_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The remains of a 19th century spring, and the site of an infamous unsolved murder.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_sybil_s_cave"
+  },
+  {
+    "name": "White Mana Diner",
+    "lat": 40.747061,
+    "lon": -74.061562,
+    "imageURL": null,
+    "description": "This unassuming retro burger joint was billed as “diner of the future” at the 1939 World's Fair.",
+    "info": null,
+    "categories": [
+      "food",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_white_mana_diner"
+  },
+  {
+    "name": "Historic Jersey City and Harsimus Cemetery",
+    "lat": 40.727173,
+    "lon": -74.055165,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/JC_Harsimus_Cemetery_jeh.jpg/1280px-JC_Harsimus_Cemetery_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Filled with history, this cemetery is maintained each summer by a few hungry goats.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.jerseycitycemetery.org/",
+    "id": "new_jersey_historic_jersey_city_and_harsimus_cemetery"
+  },
+  {
+    "name": "Liberty Science Center",
+    "lat": 40.708231,
+    "lon": -74.054634,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Liberty_Science_Center_Jersey_City_October_2020_panorama_1.jpg/1280px-Liberty_Science_Center_Jersey_City_October_2020_panorama_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "infinity climber - A playground inspired by differential calculus dangles from the ceiling of the Liberty Science Center.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://lsc.org/",
+    "id": "new_jersey_liberty_science_center"
+  },
+  {
+    "name": "Morris Canal Park",
+    "lat": 40.711732,
+    "lon": -74.037536,
+    "imageURL": null,
+    "description": "Once considered a marvel of engineering, this 107-mile canal played an integral role in building New York City.",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": null,
+    "id": "new_jersey_morris_canal_park"
+  },
+  {
+    "name": "Colgate Clock",
+    "lat": 40.71199,
+    "lon": -74.033908,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Colgate_Clock_Jersey_City_%281_of_2%29_%283157735699%29.jpg/1280px-Colgate_Clock_Jersey_City_%281_of_2%29_%283157735699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "On the Hudson resides one of the largest clocks in the world.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_colgate_clock"
+  },
+  {
+    "name": "Katyń Memorial",
+    "lat": 40.716257,
+    "lon": -74.032984,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/89/Statue_at_the_road.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "This evocative New Jersey statue memoralizes the Polish victims of a Soviet massacre.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_katyn_memorial"
+  },
+  {
+    "name": "Empty Sky Memorial",
+    "lat": 40.708221,
+    "lon": -74.034925,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Empty_Sky_P6150244.JPG/1280px-Empty_Sky_P6150244.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This haunting monument honors the victims of 9/11.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_empty_sky_memorial"
+  },
+  {
+    "name": "Central Railroad of New Jersey Terminal",
+    "lat": 40.707222,
+    "lon": -74.035278,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/USA-NYC-Jersey_Historic_Train_Station_crop.jpg/1280px-USA-NYC-Jersey_Historic_Train_Station_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Hidden in plain sight on the Hudson River is an abandoned train station where nature has taken over.",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_central_railroad_of_new_jersey_terminal"
+  },
+  {
+    "name": "Black Tom Island",
+    "lat": 40.691455,
+    "lon": -74.055184,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Black_Tom_pier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A simple plaque remembers an act of WWI terrorism that obliterated an island and forever scarred the Statue of Liberty.",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_black_tom_island"
+  },
+  {
+    "name": "Morristown National Historical Park",
+    "lat": 40.796585,
+    "lon": -74.466054,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Ford_Mansion%2C_Morristown%2C_NJ_-_looking_north.jpg/1280px-Ford_Mansion%2C_Morristown%2C_NJ_-_looking_north.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "park"
+    ],
+    "url": "https://www.nps.gov/morr/index.htm",
+    "id": "new_jersey_morristown_national_historical_park"
+  },
+  {
+    "name": "Thomas Edison National Historical Park",
+    "lat": 40.783877,
+    "lon": -74.234136,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Edison_labs_Main_St_Lakeside_Av_jeh.jpg/1280px-Edison_labs_Main_St_Lakeside_Av_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Take a step into the workshop where Edison and his employees revolutionized the world.",
+    "info": null,
+    "categories": [
+      "nps",
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/edis/index.htm",
+    "id": "new_jersey_thomas_edison_national_historical_park"
+  },
+  {
+    "name": "Ellis Island National Museum of Immigration",
+    "lat": 40.699275,
+    "lon": -74.039433,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ellis_island_immigration_museum_entrance.JPG/1280px-Ellis_island_immigration_museum_entrance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nps"
+    ],
+    "url": "https://www.nps.gov/elis/index.htm",
+    "id": "new_jersey_ellis_island_national_museum_of_immigration"
+  },
+  {
+    "name": "Tear Drop Memorial",
+    "lat": 40.663706,
+    "lon": -74.06923,
+    "imageURL": null,
+    "description": "World Trade Center memorial likened to a woman's sexual organ.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_tear_drop_memorial"
+  },
+  {
+    "name": "Riker Hill Art Park",
+    "lat": 40.81021,
+    "lon": -74.32722,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Riker-hill-complex-radar-tower.png/1280px-Riker-hill-complex-radar-tower.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "An abandoned military bunker that has been transformed into an artist's paradise.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "park"
+    ],
+    "url": null,
+    "id": "new_jersey_riker_hill_art_park"
+  },
+  {
+    "name": "Glenmont",
+    "lat": 40.786161,
+    "lon": -74.240518,
+    "imageURL": null,
+    "description": "Thomas Edison's home and final resting place also boasts an impressive garage, where some of the earliest electric cars are on display.",
+    "info": null,
+    "categories": [
+      "historic",
+      "nps",
+      "architecture"
+    ],
+    "url": "https://www.nps.gov/edis/index.htm",
+    "id": "new_jersey_glenmont"
+  },
+  {
+    "name": "Little Lost Cemetary",
+    "lat": 40.86727,
+    "lon": -74.416328,
+    "imageURL": null,
+    "description": "A cemetery that holds graves for the forgotten children of a burned orphanage.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_little_lost_cemetary"
+  },
+  {
+    "name": "Morris Museum",
+    "lat": 40.796041,
+    "lon": -74.448296,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/MM_Museum_exterior.jpg/1280px-MM_Museum_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A world-class collection of mechanical musical instruments and automata.",
+    "info": null,
+    "categories": [
+      "museum",
+      "music"
+    ],
+    "url": "https://morrismuseum.org/",
+    "id": "new_jersey_morris_museum"
+  },
+  {
+    "name": "Morris Frank and Buddy Statue",
+    "lat": 40.79794,
+    "lon": -74.480832,
+    "imageURL": null,
+    "description": "A trompe-l'oeil statue honoring the first guide dog in North America.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_morris_frank_and_buddy_statue"
+  },
+  {
+    "name": "Bell Telephone phone pole testing site",
+    "lat": 40.793502,
+    "lon": -74.673213,
+    "imageURL": null,
+    "description": "A farm in New Jersey grew a most unusual crop for AT&T's testing purposes.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_bell_telephone_phone_pole_testing_site"
+  },
+  {
+    "name": "United States Golf Association (USGA)",
+    "lat": 40.666603,
+    "lon": -74.613602,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/USGA_Museum%2C_Liberty_Corner%2C_NJ.jpg/1280px-USGA_Museum%2C_Liberty_Corner%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Home of the golf club used by Alan Shepard on the moon, and more artifacts from the sport's history.",
+    "info": null,
+    "categories": [
+      "museum",
+      "sports"
+    ],
+    "url": "https://www.usga.org/",
+    "id": "new_jersey_united_states_golf_association_usga"
+  },
+  {
+    "name": "Devil's Tree",
+    "lat": 40.630168,
+    "lon": -74.583213,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Devil%27s_Tree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "An allegedly cursed tree represents a town's reckoning with a racist past.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_devil_s_tree"
+  },
+  {
+    "name": "Raritan Water Power Canal",
+    "lat": 40.555103,
+    "lon": -74.659882,
+    "imageURL": null,
+    "description": "In the 19th century, this canal provided power to mills, machine shops, and other businesses in the area.",
+    "info": null,
+    "categories": [
+      "historic",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_raritan_water_power_canal"
+  },
+  {
+    "name": "Pet Cemetery at Duke Farms",
+    "lat": 40.553702,
+    "lon": -74.637902,
+    "imageURL": null,
+    "description": "A billionaire heiress' menagerie of animals were lovingly laid to rest on the grounds of her former estate.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_pet_cemetery_at_duke_farms"
+  },
+  {
+    "name": "Duke Farms",
+    "lat": 40.544332,
+    "lon": -74.623932,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/DukeFarms.JPG/1280px-DukeFarms.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://www.dukefarms.org/",
+    "id": "new_jersey_duke_farms"
+  },
+  {
+    "name": "World Apostolate of Fatima",
+    "lat": 40.730833,
+    "lon": -75.006944,
+    "imageURL": null,
+    "description": "Dedicated to a legendary spiritual vision.",
+    "info": null,
+    "categories": [
+      "religious"
+    ],
+    "url": null,
+    "id": "new_jersey_world_apostolate_of_fatima"
+  },
+  {
+    "name": "Green Sergeant Covered Bridge",
+    "lat": 40.444008,
+    "lon": -74.96624,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/2026-10-06_12_35_31_View_southwest_toward_Hunterdon_County_Route_604_%28Rosemont-Ringoes_Road%29_as_it_crosses_Wickecheoke_Creek_on_the_Green_Sergeant%27s_Covered_Bridge_in_Delaware_Township%2C_Hunterdon_County%2C_New_Jersey.jpg/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "New Jersey's last historic covered bridge was rebuilt from pieces of the original 19th-century structure.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_green_sergeant_covered_bridge"
+  },
+  {
+    "name": "The Deserted Village",
+    "lat": 40.678855,
+    "lon": -74.389045,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Houses_in_Deserted_Village%2C_Watchung_Reservation%2C_NJ.jpg/1280px-Houses_in_Deserted_Village%2C_Watchung_Reservation%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This tiny New Jersey village has lived many lives but seems determined to remain a ghost town.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_the_deserted_village"
+  },
+  {
+    "name": "South Mountain - Fairy Trail",
+    "lat": 40.727291,
+    "lon": -74.304437,
+    "imageURL": null,
+    "description": "These mystical miniature houses bring a touch of magic to the New Jersey woods.",
+    "info": null,
+    "categories": [
+      "hiking",
+      "quirky",
+      "nature"
+    ],
+    "url": null,
+    "id": "new_jersey_south_mountain_fairy_trail"
+  },
+  {
+    "name": "Franklin Mineral Museum Inc",
+    "lat": 41.113307,
+    "lon": -74.588419,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_franklin_mineral_museum_inc"
+  },
+  {
+    "name": "Art Deco Edison Memorial Tower",
+    "lat": 40.563536,
+    "lon": -74.339261,
+    "imageURL": null,
+    "description": "A giant light 13 feet high shines near Thomas Edison's old Menlo Park lab. worlds largest lightbulb",
+    "info": null,
+    "categories": [
+      "landmark",
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.menloparkmuseum.org/",
+    "id": "new_jersey_art_deco_edison_memorial_tower"
+  },
+  {
+    "name": "Ellis Family Gravesite",
+    "lat": 40.489207,
+    "lon": -74.416572,
+    "imageURL": null,
+    "description": "Seven people are buried in the middle of what's now a movie theater parking lot.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_ellis_family_gravesite"
+  },
+  {
+    "name": "Rutgers Gardens",
+    "lat": 40.473419,
+    "lon": -74.422737,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Rutgers_Gardens_-_general_view.JPG/1280px-Rutgers_Gardens_-_general_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "look for lawrence Brook carvings - A mixture of strange symbols, ciphers, words and cryptograms carved in 1876 remain unsolved to this day.",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://rutgersgardens.rutgers.edu/",
+    "id": "new_jersey_rutgers_gardens_2"
+  },
+  {
+    "name": "Rutgers Geology Museum",
+    "lat": 40.498649,
+    "lon": -74.446681,
+    "imageURL": null,
+    "description": "This exoskeleton of a japanese giant spider crab was gifted to Rutgers University by Japan for its role in educating some of the first Japanese citizens to study outside the country.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://geologymuseum.rutgers.edu/",
+    "id": "new_jersey_rutgers_geology_museum_2"
+  },
+  {
+    "name": "Cornelius Low House",
+    "lat": 40.512377,
+    "lon": -74.461709,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Cornelius_Low_House_%282008%29.jpg/1280px-Cornelius_Low_House_%282008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the last-standing and most prominent structures from a long-lost colonial port community.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_cornelius_low_house_2"
+  },
+  {
+    "name": "East Jersey Old Town Village",
+    "lat": 40.513226,
+    "lon": -74.476397,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/East_Jersey_Olde_Towne_Village%2C_courtyard_view_of_three_buildings.jpg/1280px-East_Jersey_Olde_Towne_Village%2C_courtyard_view_of_three_buildings.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A historic town sits upon the site of a long-lost 18th-century trading community.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_east_jersey_old_town_village_2"
+  },
+  {
+    "name": "Arthur Kill Vertical Lift Bridge",
+    "lat": 40.637627,
+    "lon": -74.195523,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Arthur_Kill_Lift_Bridge_by_Dave_Frieder.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Featuring the the longest lift span of any vertical-lift bridge in the world.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_arthur_kill_vertical_lift_bridge"
+  },
+  {
+    "name": "NORTHLANDZ (World's Largest Miniature Wonderland)",
+    "lat": 40.516968,
+    "lon": -74.81905,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/NORTHLANZ_MUSEUM%2C_HUNTERDON_COUNTY%2C_NJ.jpg/1280px-NORTHLANZ_MUSEUM%2C_HUNTERDON_COUNTY%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the world's largest model railroads is a mind-boggling achievement.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "museum"
+    ],
+    "url": "https://northlandz.com/",
+    "id": "new_jersey_northlandz_world_s_largest_miniature_wonderland"
+  },
+  {
+    "name": "Ringwood Manor",
+    "lat": 41.138982,
+    "lon": -74.25531,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Ringwood_Manor_spring_2015.jpg/1280px-Ringwood_Manor_spring_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/ringwood-state-park/",
+    "id": "new_jersey_ringwood_manor"
+  },
+  {
+    "name": "New Jersey Botanical Garden",
+    "lat": 41.126879,
+    "lon": -74.238382,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Skylands.jpg/1280px-Skylands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://njbg.org/",
+    "id": "new_jersey_new_jersey_botanical_garden"
+  },
+  {
+    "name": "State Line Lookout, Palisades Interstate Park Commission",
+    "lat": 40.988482,
+    "lon": -73.906894,
+    "imageURL": null,
+    "description": "Highest point on the Palisades with sweeping views of the Hudson. Quiet, free parking",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "hiking"
+    ],
+    "url": "https://njpalisades.org/",
+    "id": "new_jersey_state_line_lookout_palisades_interstate_park_commission"
+  },
+  {
+    "name": "Tenafly Nature Center",
+    "lat": 40.924638,
+    "lon": -73.944983,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/TenaflyNatureCenterPond.jpg/1280px-TenaflyNatureCenterPond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://tenaflynaturecenter.org/",
+    "id": "new_jersey_tenafly_nature_center"
+  },
+  {
+    "name": "African Art Museum of the SMA",
+    "lat": 40.910509,
+    "lon": -73.961466,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_african_art_museum_of_the_sma"
+  },
+  {
+    "name": "Garret Mountain Reservation",
+    "lat": 40.900751,
+    "lon": -74.178574,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Barbour_Pond%2C_Garret_Mountain_Reservation%2C_NJ_-_panorama.jpg/1280px-Barbour_Pond%2C_Garret_Mountain_Reservation%2C_NJ_-_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_garret_mountain_reservation"
+  },
+  {
+    "name": "Lambert Castle",
+    "lat": 40.900088,
+    "lon": -74.172881,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Lambert_Castle%2C_Paterson%2C_NJ_-_looking_northwest.jpg/1280px-Lambert_Castle%2C_Paterson%2C_NJ_-_looking_northwest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "architecture"
+    ],
+    "url": "https://www.lambertcastle.org/",
+    "id": "new_jersey_lambert_castle"
+  },
+  {
+    "name": "Yogi Berra Museum",
+    "lat": 40.868439,
+    "lon": -74.194585,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Berra_Stadium_jeh.jpg/1280px-Berra_Stadium_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "sports"
+    ],
+    "url": "https://yogiberramuseum.org/",
+    "id": "new_jersey_yogi_berra_museum"
+  },
+  {
+    "name": "Ben Shahn Center for the Visual Arts",
+    "lat": 40.947247,
+    "lon": -74.196569,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null,
+    "id": "new_jersey_ben_shahn_center_for_the_visual_arts"
+  },
+  {
+    "name": "Pyramid Mountain Visitors Center",
+    "lat": 40.946462,
+    "lon": -74.388926,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "hiking",
+      "nature"
+    ],
+    "url": null,
+    "id": "new_jersey_pyramid_mountain_visitors_center"
+  },
+  {
+    "name": "Montclair Art Museum",
+    "lat": 40.81864,
+    "lon": -74.223995,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Montclair_Art_Museum_%28Montclair%2C_New_Jersey%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.montclairartmuseum.org/",
+    "id": "new_jersey_montclair_art_museum"
+  },
+  {
+    "name": "The Stickley Museum at Craftsman Farms",
+    "lat": 40.856083,
+    "lon": -74.481828,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Craftsman_Farms.jpg/1280px-Craftsman_Farms.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.stickleymuseum.org/",
+    "id": "new_jersey_the_stickley_museum_at_craftsman_farms"
+  },
+  {
+    "name": "Fort Lee Historic Park, Palisades Interstate Park Commission",
+    "lat": 40.850278,
+    "lon": -73.962481,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/FortLeeHistPark_04.JPG/1280px-FortLeeHistPark_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://njpalisades.org/",
+    "id": "new_jersey_fort_lee_historic_park_palisades_interstate_park_commission"
+  },
+  {
+    "name": "Allison Park Road",
+    "lat": 40.871836,
+    "lon": -73.9518,
+    "imageURL": null,
+    "description": "long path trail from GW bridge",
+    "info": null,
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "new_jersey_allison_park_road"
+  },
+  {
+    "name": "Mitsuwa Marketplace - New Jersey",
+    "lat": 40.816192,
+    "lon": -73.980224,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "shopping"
+    ],
+    "url": "https://mitsuwa.com/",
+    "id": "new_jersey_mitsuwa_marketplace_new_jersey"
+  },
+  {
+    "name": "Meadowlands Environment Center",
+    "lat": 40.785398,
+    "lon": -74.10367,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/WinterDeKorte_C2.jpg/1280px-WinterDeKorte_C2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "museum"
+    ],
+    "url": null,
+    "id": "new_jersey_meadowlands_environment_center"
+  },
+  {
+    "name": "The Frelinghuysen Arboretum",
+    "lat": 40.802903,
+    "lon": -74.451483,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Frelinghuysen_Arboretum_Morristown_Welcome.jpg/1280px-Frelinghuysen_Arboretum_Morristown_Welcome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": null,
+    "id": "new_jersey_the_frelinghuysen_arboretum"
+  },
+  {
+    "name": "The Newark Museum of Art",
+    "lat": 40.742943,
+    "lon": -74.171403,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Newark_Museum_jeh.JPG/1280px-Newark_Museum_jeh.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://newarkmuseumart.org/",
+    "id": "new_jersey_the_newark_museum_of_art"
+  },
+  {
+    "name": "Ironbound",
+    "lat": 40.725388,
+    "lon": -74.153115,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/St._Stephan%27s_Church_-_Ironbound%2C_Newark.jpg/1280px-St._Stephan%27s_Church_-_Ironbound%2C_Newark.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "food"
+    ],
+    "url": null,
+    "id": "new_jersey_ironbound"
+  },
+  {
+    "name": "Curious Matter",
+    "lat": 40.724952,
+    "lon": -74.045969,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.curiousmatter.org/",
+    "id": "new_jersey_curious_matter"
+  },
+  {
+    "name": "143 Christopher Columbus Dr",
+    "lat": 40.719969,
+    "lon": -74.044998,
+    "imageURL": null,
+    "description": "largest public mural on the east coast (?)",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark"
+    ],
+    "url": null,
+    "id": "new_jersey_143_christopher_columbus_dr"
+  },
+  {
+    "name": "Pier 13 Hoboken",
+    "lat": 40.751695,
+    "lon": -74.021954,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "drinking",
+      "viewpoint"
+    ],
+    "url": "https://pier13hoboken.com/",
+    "id": "new_jersey_pier_13_hoboken"
+  },
+  {
+    "name": "Mana Contemporary",
+    "lat": 40.736968,
+    "lon": -74.068922,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Mana_Contemporary_Newark_Ave_Jersey_City.JPG/1280px-Mana_Contemporary_Newark_Ave_Jersey_City.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.manacontemporary.com/",
+    "id": "new_jersey_mana_contemporary"
+  },
+  {
+    "name": "Monty Hall",
+    "lat": 40.716437,
+    "lon": -74.036355,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music"
+    ],
+    "url": null,
+    "id": "new_jersey_monty_hall"
+  },
+  {
+    "name": "Loew's Jersey Theatre",
+    "lat": 40.732099,
+    "lon": -74.064132,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Loew%27s_Theatre%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "cinema",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://loewsjersey.org/",
+    "id": "new_jersey_loew_s_jersey_theatre"
+  },
+  {
+    "name": "Assembly Hall of Jehovah's Witnesses",
+    "lat": 40.733296,
+    "lon": -74.062521,
+    "imageURL": null,
+    "description": "offer tours",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_assembly_hall_of_jehovah_s_witnesses"
+  },
+  {
+    "name": "J Owen Grundy Park",
+    "lat": 40.716215,
+    "lon": -74.03186,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "new_jersey_j_owen_grundy_park"
+  },
+  {
+    "name": "Another Man's Treasure",
+    "lat": 40.717339,
+    "lon": -74.043506,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": "https://www.amtvintage.com/",
+    "id": "new_jersey_another_man_s_treasure"
+  },
+  {
+    "name": "Greenwood Gardens",
+    "lat": 40.744441,
+    "lon": -74.307285,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://greenwoodgardens.org/",
+    "id": "new_jersey_greenwood_gardens"
+  },
+  {
+    "name": "Great Swamp National Wildlife Refuge",
+    "lat": 40.719288,
+    "lon": -74.525815,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Image-Great_Swamp_National_Wildlife_Refuge_New_Jersey03.jpg/1280px-Image-Great_Swamp_National_Wildlife_Refuge_New_Jersey03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.fws.gov/refuge/great-swamp",
+    "id": "new_jersey_great_swamp_national_wildlife_refuge"
+  },
+  {
+    "name": "Lakota Wolf Preserve",
+    "lat": 40.971362,
+    "lon": -75.072279,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://lakotawolf.com/",
+    "id": "new_jersey_lakota_wolf_preserve"
+  },
+  {
+    "name": "Paulinskill Viaduct",
+    "lat": 40.948025,
+    "lon": -75.061339,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Paulins_Kill_Viaduct%2C_Hainesburg%2C_NJ_-_October_2023.jpg/1280px-Paulins_Kill_Viaduct%2C_Hainesburg%2C_NJ_-_October_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Once the world's largest reinforced concrete structure, this abandoned bridge now beckons urban explorers.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_paulinskill_viaduct"
+  },
+  {
+    "name": "Jenny Jump State Forest",
+    "lat": 40.912799,
+    "lon": -74.922874,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2013-05-06_17_02_10_View_of_Jenny_Jump_Mountain_and_Jenny_Jump_State_Forest_from_Hope_Road_near_Great_Meadows%2C_New_Jersey.jpg/1280px-2013-05-06_17_02_10_View_of_Jenny_Jump_Mountain_and_Jenny_Jump_State_Forest_from_Hope_Road_near_Great_Meadows%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/jenny-jump-state-forest/",
+    "id": "new_jersey_jenny_jump_state_forest"
+  },
+  {
+    "name": "Valley Shepherd Creamery",
+    "lat": 40.781717,
+    "lon": -74.776186,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "shopping"
+    ],
+    "url": "https://valleyshepherd.com/",
+    "id": "new_jersey_valley_shepherd_creamery"
+  },
+  {
+    "name": "Hofheimer Grotto",
+    "lat": 40.615553,
+    "lon": -74.491115,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "quirky",
+      "nature",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_hofheimer_grotto"
+  },
+  {
+    "name": "Oak Tree Road",
+    "lat": 40.57159,
+    "lon": -74.356106,
+    "imageURL": null,
+    "description": "main drag through Jersey's huge South Indian community",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "food",
+      "shopping"
+    ],
+    "url": null,
+    "id": "new_jersey_oak_tree_road"
+  },
+  {
+    "name": "Hunterdon Art Museum",
+    "lat": 40.636678,
+    "lon": -74.911992,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/7_Lower_Center_Street%2C_Clinton%2C_NJ.jpg/1280px-7_Lower_Center_Street%2C_Clinton%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.hunterdonartmuseum.org/",
+    "id": "new_jersey_hunterdon_art_museum"
+  },
+  {
+    "name": "Delaware River Tubing",
+    "lat": 40.545976,
+    "lon": -75.06767,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports",
+      "nature"
+    ],
+    "url": "https://www.delawarerivertubing.com/",
+    "id": "new_jersey_delaware_river_tubing"
+  },
+  {
+    "name": "Stairway To Heaven",
+    "lat": 41.219346,
+    "lon": -74.455171,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "new_jersey_stairway_to_heaven"
+  },
+  {
+    "name": "Supercharged Entertainment",
+    "lat": 40.520348,
+    "lon": -74.370252,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports"
+    ],
+    "url": null,
+    "id": "new_jersey_supercharged_entertainment"
+  },
+  {
+    "name": "Highlands natural pool",
+    "lat": 41.068924,
+    "lon": -74.325523,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "beaches"
+    ],
+    "url": null,
+    "id": "new_jersey_highlands_natural_pool"
+  },
+  {
+    "name": "Norvin Green State Forest",
+    "lat": 41.056803,
+    "lon": -74.341152,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Wyanokie_High_Point.jpg/1280px-Wyanokie_High_Point.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Roomy Mine trail",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/norvin-green-state-forest/",
+    "id": "new_jersey_norvin_green_state_forest"
+  },
+  {
+    "name": "SoJo Spa Club",
+    "lat": 40.818759,
+    "lon": -73.979484,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports"
+    ],
+    "url": "https://sojospaclub.com/",
+    "id": "new_jersey_sojo_spa_club"
+  },
+  {
+    "name": "Cathedral Basilica of the Sacred Heart",
+    "lat": 40.754659,
+    "lon": -74.178535,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Sacred_Heart_fr_hill_center_jeh.jpg/1280px-Sacred_Heart_fr_hill_center_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_cathedral_basilica_of_the_sacred_heart"
+  },
+  {
+    "name": "Battleship New Jersey",
+    "lat": 39.939448,
+    "lon": -75.133073,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/USS_New_Jersey_BB-62_Museum_Camden.JPG/1280px-USS_New_Jersey_BB-62_Museum_Camden.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the most impressive museum ships in the world. The USS New Jersey (BB-62) served in World War II, Korea, Vietnam, and the Cold War, making it one of the most decorated battleships in U.S. history.<br><br>Visitors can explore enormous gun turrets, crew quarters, radar rooms, and the command bridge. The sheer scale of the ship—and its dramatic position on the Delaware River facing Philadelphia—makes the experience unforgettable.<br><br>Verdict: A top-tier historic attraction in New Jersey.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://battleshipnewjersey.org/",
+    "id": "new_jersey_battleship_new_jersey"
+  },
+  {
+    "name": "Marsh Discovery Trail",
+    "lat": 40.784388,
+    "lon": -74.10053,
+    "imageURL": null,
+    "description": "Towering phragmites waving in the breeze welcome visitors as they step onto the half-mile floating boardwalk beneath the Marsh Discovery Trail sign at Richard W. DeKorte Park, a former landfill and today a thriving nature reserve in the Meadowlands. If the tide is high, you may feel a gentle rocking motion on the walkway as it advances through the tidal marsh, where long-legged white egrets fish for their dinner and diamondback terrapins sun themselves. Benches provide the perfect perch to scan for birds, all against the backdrop of the Manhattan skyline. Stay for the sunset, and investigate the other three miles of easy walking paths.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_marsh_discovery_trail"
+  },
+  {
+    "name": "High Point State Park",
+    "lat": 41.293424,
+    "lon": -74.698955,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/High_point_monument.jpg/1280px-High_point_monument.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The highest point in New Jersey? At 1,803 feet above sea level, that would be the appropriately named High Point State Park. It’s also the Garden State’s northwesternmost point—and it’s a thrill to visit. Drive into Wantage’s 16,000-acre state park and head straight to the top. It’s a short uphill walk from the upper parking lot to the 220-foot-tall New Jersey Veterans’ Memorial monument. Walk around the monument’s base for a spectacular 360-degree view across New Jersey, Pennsylvania and New York. The interior of the monument is open on weekends from Memorial Day to Columbus Day. The intrepid can climb the 291 steps to the top for an even more breathtaking view",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/high-point-state-park/",
+    "id": "new_jersey_high_point_state_park"
+  },
+  {
+    "name": "Paterson Museum",
+    "lat": 40.913485,
+    "lon": -74.178906,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": null,
+    "id": "new_jersey_paterson_museum"
+  },
+  {
+    "name": "Cape May Bird Observatory - Center for Research and Education",
+    "lat": 39.159934,
+    "lon": -74.83411,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/701_East_Lake_Drive%2C_Cape_May_Point%2C_NJ.jpg/1280px-701_East_Lake_Drive%2C_Cape_May_Point%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://njaudubon.org/centers/cape-may-bird-observatory/",
+    "id": "new_jersey_cape_may_bird_observatory_center_for_research_and_education"
+  },
+  {
+    "name": "The Glen Rock",
+    "lat": 40.962744,
+    "lon": -74.134813,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/The_Glen_Rock_from_the_Front_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The 570-ton boulder that gave a New Jersey town its name",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_the_glen_rock"
+  },
+  {
+    "name": "Ross Dock Picnic Area",
+    "lat": 40.859964,
+    "lon": -73.955185,
+    "imageURL": null,
+    "description": "Riverside green space with picnic tables, fishing, and views of the bridge from below.",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://njpalisades.org/",
+    "id": "new_jersey_ross_dock_picnic_area"
+  },
+  {
+    "name": "Flat Rock Brook Nature Center",
+    "lat": 40.873412,
+    "lon": -73.967554,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flat_Rock_Brook_dam_jeh.jpg/1280px-Flat_Rock_Brook_dam_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Riverside green space with picnic tables, fishing, and views of the bridge from below.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.flatrockbrook.org/",
+    "id": "new_jersey_flat_rock_brook_nature_center"
+  },
+  {
+    "name": "NJ Exotic Pets",
+    "lat": 40.920227,
+    "lon": -74.121946,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": null,
+    "id": "new_jersey_nj_exotic_pets"
+  },
+  {
+    "name": "Bergen County Justice Center",
+    "lat": 40.878381,
+    "lon": -74.043835,
+    "imageURL": null,
+    "description": "AI: Grand public building you can actually enter.",
+    "info": null,
+    "categories": [
+      "architecture"
+    ],
+    "url": null,
+    "id": "new_jersey_bergen_county_justice_center"
+  },
+  {
+    "name": "Long Pond Ironworks State Park",
+    "lat": 41.1411241,
+    "lon": -74.3089952,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/OldCountryStoreLPIW.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Moody industrial ruins tucked in the woods. Once a major Revolutionary War–era ironworks, now atmospheric stone remnants beside a quiet pond. It has that slightly forgotten, cinematic quality that makes it memorable.",
+    "info": null,
+    "categories": [
+      "historic",
+      "park",
+      "hiking"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/long-pond-ironworks-state-park/",
+    "id": "new_jersey_long_pond_ironworks_state_park"
+  },
+  {
+    "name": "Island Beach State Park",
+    "lat": 39.7913622,
+    "lon": -74.0941478,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/2013-08-21_12_34_24_Wetlands_along_Barnegat_Bay_near_the_southern_end_of_Island_Beach_State_Park%2C_New_Jersey.jpg/1280px-2013-08-21_12_34_24_Wetlands_along_Barnegat_Bay_near_the_southern_end_of_Island_Beach_State_Park%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Miles of undeveloped barrier island — windswept dunes, maritime forest, osprey nests. It feels raw and natural in a way most Jersey Shore beaches don’t. A true coastal standout.",
+    "info": null,
+    "categories": [
+      "park",
+      "beaches",
+      "nature"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/island-beach-state-park/",
+    "id": "new_jersey_island_beach_state_park"
+  },
+  {
+    "name": "The Palisades",
+    "lat": 40.9500984,
+    "lon": -73.9204141,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Hudson_River_Palisades_seen_from_187th_Street_crop.jpg/1280px-Hudson_River_Palisades_seen_from_187th_Street_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the most dramatic landscapes in the NYC region—sheer basalt cliffs rising straight out of the Hudson. It feels surprisingly wild given how close it is to the city. Trails below the cliffs are rugged and scenic, while the overlooks give classic skyline-adjacent views.<br>👉 Must visit. This is the standout by a mile.",
+    "info": null,
+    "categories": [
+      "nature",
+      "viewpoint",
+      "hiking"
+    ],
+    "url": "https://njpalisades.org/",
+    "id": "new_jersey_the_palisades"
+  },
+  {
+    "name": "Sunfish Pond Natural Area",
+    "lat": 41.0010906,
+    "lon": -75.0783791,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/2014-08-26_16_09_06_View_east-northeast_across_Sunfish_Pond_from_the_Appalachian_Trail_about_3.7_miles_northeast_of_the_Delaware_Water_Gap_in_Worthington_State_Forest%2C_New_Jersey.JPG/1280px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: A pristine glacial lake along the Appalachian Trail, tucked high above the Delaware Water Gap. The hike in is moderately challenging, but the payoff—clear water, rocky ridges, and total quiet—is excellent.<br>👉 One of the best hikes in New Jersey.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://dep.nj.gov/parksandforests/state-park/worthington-state-forest/",
+    "id": "new_jersey_sunfish_pond_natural_area"
+  },
+  {
+    "name": "Hibernia Mines",
+    "lat": 40.9448052,
+    "lon": -74.4928723,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "hiking"
+    ],
+    "url": null,
+    "id": "new_jersey_hibernia_mines"
+  },
+  {
+    "name": "Hudson River Waterfront Walkway",
+    "lat": 40.7385276,
+    "lon": -74.0272119,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Hudson_Riv_WW_stone_SE_JC_jeh.jpg/1280px-Hudson_Riv_WW_stone_SE_JC_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the great urban walks in the northeastern United States, this 18.5-mile path hugs the New Jersey side of the Hudson and delivers some of the most iconic views of the Manhattan skyline you'll find anywhere — and that includes Manhattan itself. The stretch from Hoboken through Weehawken and into Edgewater is particularly dramatic, with the skyline shifting and revealing itself as you walk. Busy on weekends but never overwhelming, and easily accessible from NYC via ferry or PATH. A genuine highlight of the entire region that most visitors overlook in favor of crossing the river.",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "neighborhood"
+    ],
+    "url": null,
+    "id": "new_jersey_hudson_river_waterfront_walkway"
+  }
+]
