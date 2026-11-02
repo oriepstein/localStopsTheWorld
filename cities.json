@@ -5,6 +5,11 @@
     "imageURL": "https://images.unsplash.com/photo-1623655892448-f9ae504c2c91?q=80&w=1590&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
   },
       {
+    "name": "Boston",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/massachusetts_sights.json",
+    "imageURL": "https://images.unsplash.com/photo-1533568520-763f9dbb390f?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
+      {
     "name": "Hamburg",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/hamburg_sights.json",
     "imageURL": "https://plus.unsplash.com/premium_photo-1733353207482-d85d35635a45?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
