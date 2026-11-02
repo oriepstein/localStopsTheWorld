@@ -1,0 +1,2375 @@
+[
+  {
+    "name": "Macy's",
+    "lat": 39.951903,
+    "lon": -75.161795,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Wanamaker_Building.jpg/1280px-Wanamaker_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Wannamker Organ:<br>Monday-Saturday 12pm<br>Monday, Tuesday, Thursday, Saturday 5:30pm<br>Wednesday, Friday 7pm<br>Visitors are welcome to tour the console area (Floor Two)<br>and meet the staff following the daily concerts",
+    "info": null,
+    "categories": [
+      "architecture",
+      "music",
+      "historic"
+    ],
+    "url": "https://wanamakerorgan.com/",
+    "id": "philadelphia_macy_s"
+  },
+  {
+    "name": "Reading Terminal Market",
+    "lat": 39.9533113,
+    "lon": -75.15943,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Reading_Terminal_Market.png/1280px-Reading_Terminal_Market.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "historic"
+    ],
+    "url": "https://readingterminalmarket.org/",
+    "id": "philadelphia_reading_terminal_market"
+  },
+  {
+    "name": "Eastern State Penitentiary",
+    "lat": 39.9683364,
+    "lon": -75.1726648,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Eastern_state_penitentiary09.JPG/1280px-Eastern_state_penitentiary09.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "World's first \"penitentiary,\" meant to be humane, drove men insane. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.easternstate.org/",
+    "id": "philadelphia_eastern_state_penitentiary"
+  },
+  {
+    "name": "Philadelphia City Hall",
+    "lat": 39.9528,
+    "lon": -75.1634833,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Philadelphia-CityHall-2006.jpg/1280px-Philadelphia-CityHall-2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "observation deck",
+    "info": null,
+    "categories": [
+      "architecture",
+      "viewpoint",
+      "historic"
+    ],
+    "url": "https://www.visitphilly.com/things-to-do/attractions/city-hall/",
+    "id": "philadelphia_philadelphia_city_hall"
+  },
+  {
+    "name": "The Curtis Center & Dream Garden",
+    "lat": 39.9479033,
+    "lon": -75.1520057,
+    "imageURL": null,
+    "description": "large tiffany mosaic in lobby",
+    "info": null,
+    "categories": [
+      "art",
+      "architecture"
+    ],
+    "url": null,
+    "id": "philadelphia_the_curtis_center_dream_garden"
+  },
+  {
+    "name": "Fort Mifflin",
+    "lat": 39.8752292,
+    "lon": -75.2131426,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Mifflin_Commandant%27s_House03.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Well-preserved Revolutionary War fort. Less crowded than Independence Hall area.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://fortmifflin.us/",
+    "id": "philadelphia_fort_mifflin"
+  },
+  {
+    "name": "Johnson House Historic Site",
+    "lat": 40.0433432,
+    "lon": -75.1812509,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/WTP_B30_Audrey_1.jpg/1280px-WTP_B30_Audrey_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "underground rr site",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.johnsonhouse.org/",
+    "id": "philadelphia_johnson_house_historic_site"
+  },
+  {
+    "name": "Wyck Historic House And Garden",
+    "lat": 40.0398674,
+    "lon": -75.1786358,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Wyck_House%2C_Philadelphia%2C_HABS_PA-7-3-5.jpg/1280px-Wyck_House%2C_Philadelphia%2C_HABS_PA-7-3-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "home to 9 generations of a Quaker family; Dating to 1690, Wyck is known as one of Philadelphia’s oldest houses. Wyck offers a variety of educational programs for school groups, including environmental education, programs that focus on history of Quakerism, Native Americans, Colonial life, and Philadelphia. Wyck’s open season runs from April through November.<br><br>Highlights<br>Here are some of the \"must see\" items at Wyck Historic House And Garden.<br><br>Decorative arts<br>Family papers<br>Correspondence, diaries, and account books",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "nature"
+    ],
+    "url": "https://wyck.org/",
+    "id": "philadelphia_wyck_historic_house_and_garden"
+  },
+  {
+    "name": "Grumblethorpe",
+    "lat": 40.0320458,
+    "lon": -75.1684693,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Grumblethorpe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.philalandmarks.org/grumblethorpe",
+    "id": "philadelphia_grumblethorpe"
+  },
+  {
+    "name": "Concord School House",
+    "lat": 40.0437977,
+    "lon": -75.1810052,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Concord_School_Gtown.jpg/1280px-Concord_School_Gtown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_concord_school_house"
+  },
+  {
+    "name": "The Concourse at Comcast Center",
+    "lat": 39.9549788,
+    "lon": -75.1687009,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/1280px-Comcast_Philly.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Comcast Experience video wall in the Winter Garden",
+    "info": null,
+    "categories": [
+      "architecture",
+      "art"
+    ],
+    "url": "https://comcastcentercampus.com/",
+    "id": "philadelphia_the_concourse_at_comcast_center"
+  },
+  {
+    "name": "The Mütter Museum at The College of Physicians of Philadelphia",
+    "lat": 39.9532308,
+    "lon": -75.1763698,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/College_of_Physicians_1.JPG/1280px-College_of_Physicians_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Mütter Museum is part of The College of Physicians of Philadelphia. It is located in the Center City area of Philadelphia. This medical museum's original purpose was for biomedical research and education. Today it is open to the public and contains a collection of over 20,000 anatomical and pathological specimens, wax models, and antique medical equipment.<br><br>Highlights<br>Here are some of the \"must see\" items at Mütter Museum.<br><br>The Mütter American Giant, the tallest human skeleton on exhibit in North America, at 7’6\" (228.6 cm) tall<br>The Hyrtl Skull Collection, a collection of 139 skulls from Joseph Hyrtl, an Austrian anatomist.<br>Skeleton of Harry Raymond Eastlack",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://muttermuseum.org/",
+    "id": "philadelphia_the_mutter_museum_at_the_college_of_physicians_of_philadelphia"
+  },
+  {
+    "name": "Temple Beth Zion-Beth Israel",
+    "lat": 39.9476256,
+    "lon": -75.1714102,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/20230501BZBI.jpg/1280px-20230501BZBI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture"
+    ],
+    "url": null,
+    "id": "philadelphia_temple_beth_zion_beth_israel"
+  },
+  {
+    "name": "Biello Martin Studio",
+    "lat": 39.9535631,
+    "lon": -75.1451686,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null,
+    "id": "philadelphia_biello_martin_studio"
+  },
+  {
+    "name": "Harry's World",
+    "lat": 39.9430874,
+    "lon": -75.1622189,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_harry_s_world"
+  },
+  {
+    "name": "Philadelphia's Magic Gardens",
+    "lat": 39.9427122,
+    "lon": -75.1593074,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Magic_Garden-Philadelphia.jpg/1280px-Magic_Garden-Philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "museum"
+    ],
+    "url": "https://www.phillymagicgardens.org/",
+    "id": "philadelphia_philadelphia_s_magic_gardens"
+  },
+  {
+    "name": "Fleisher Art Memorial",
+    "lat": 39.9391884,
+    "lon": -75.1553567,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Fleisher_Art_Memorial.JPG/1280px-Fleisher_Art_Memorial.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "architecture"
+    ],
+    "url": "https://www.fleisher.org/",
+    "id": "philadelphia_fleisher_art_memorial"
+  },
+  {
+    "name": "The National Shrine of St. John Neumann",
+    "lat": 39.9698498,
+    "lon": -75.1445441,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/National_Shrine_of_St._John_Neumann_02.jpg/1280px-National_Shrine_of_St._John_Neumann_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The body of St. John Neumann and his collection of hundreds of relics, on display in a Philly church. ",
+    "info": null,
+    "categories": [
+      "religious",
+      "quirky"
+    ],
+    "url": "https://stjohnneumann.org/",
+    "id": "philadelphia_the_national_shrine_of_st_john_neumann"
+  },
+  {
+    "name": "Da Vinci Art Alliance (DVAA)",
+    "lat": 39.9389362,
+    "lon": -75.1549106,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://davinciartalliance.org/",
+    "id": "philadelphia_da_vinci_art_alliance_dvaa"
+  },
+  {
+    "name": "Space 1026",
+    "lat": 39.9535738,
+    "lon": -75.1573768,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.space1026.com/",
+    "id": "philadelphia_space_1026"
+  },
+  {
+    "name": "William H. Gray III 30th Street",
+    "lat": 39.9557799,
+    "lon": -75.1819683,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/30th_Street_Station_Philly.JPG/1280px-30th_Street_Station_Philly.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the nation’s busiest train stations, it’s worth visiting just for its grand concourse and historic architecture;  one of the great American railway cathedrals: a monumental 1930s Neoclassical hall with a soaring coffered ceiling, Art Deco detailing, and the bronze Angel of the Resurrection war memorial brooding over the concourse. It's a working Amtrak hub, so you can simply walk in and gawp for free. The surrounding district is being redeveloped, but the station is the reason to come and genuinely unmissable.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_william_h_gray_iii_30th_street"
+  },
+  {
+    "name": "Wexler Gallery",
+    "lat": 39.9541193,
+    "lon": -75.1446916,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "shopping"
+    ],
+    "url": "https://www.wexlergallery.com/",
+    "id": "philadelphia_wexler_gallery"
+  },
+  {
+    "name": "Joseph Fox Bookshop",
+    "lat": 39.9507072,
+    "lon": -75.1697672,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": "https://www.foxbookshop.com/",
+    "id": "philadelphia_joseph_fox_bookshop"
+  },
+  {
+    "name": "The Rosenbach",
+    "lat": 39.9473477,
+    "lon": -75.1749815,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Rosenbach_museum02.jpg/1280px-Rosenbach_museum02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Rosenbach Museum and Library was founded in 1954 by Dr. A.S.W. Rosenbach and his brother, Philip. The Rosenbachs were renowned dealers in books, manuscripts, and fine art. Admission to the Rosenbach includes a guided tour through the historic house museum and a rare book library, as well as access to special exhibitions.<br><br>Highlights<br>Here are some of the \"must see\" items at Rosenbach Museum and Library.<br><br>Bram Stoker: notes and outlines for Dracula<br>George Washington: more than one hundred personal letters<br>Lewis Carroll: more than 600 letters, his rarest photographs, books, and more",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://rosenbach.org/",
+    "id": "philadelphia_the_rosenbach"
+  },
+  {
+    "name": "Washington Square",
+    "lat": 39.9470367,
+    "lon": -75.1523939,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Washington_Square_northeast_entrance.jpg/1280px-Washington_Square_northeast_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "eternal light, tomb of the unknown revolutionary soldier",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/washingtonsquare.htm",
+    "id": "philadelphia_washington_square"
+  },
+  {
+    "name": "Italian Market 9th Street",
+    "lat": 39.9384096,
+    "lon": -75.1578221,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Phila-dibrunobros.jpg/1280px-Phila-dibrunobros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "neighborhood"
+    ],
+    "url": "https://italianmarketphilly.org/",
+    "id": "philadelphia_italian_market_9th_street"
+  },
+  {
+    "name": "Vox Populi",
+    "lat": 39.9583049,
+    "lon": -75.1566228,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.voxpopuligallery.org/",
+    "id": "philadelphia_vox_populi"
+  },
+  {
+    "name": "Masonic Temple",
+    "lat": 39.9534871,
+    "lon": -75.1630704,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Grand_Lodge_of_Pennsylvania.jpg/1280px-Grand_Lodge_of_Pennsylvania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Jaw-dropping interior rooms in different architectural styles. Often overlooked but absolutely spectacular. This is the surprise star. The interior is absolutely breathtaking with different rooms in Egyptian, Moorish, Gothic, and other styles. Most tourists have no idea it exists. Guided tours only, which adds to the special feeling.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "museum"
+    ],
+    "url": "https://pagrandlodge.org/",
+    "id": "philadelphia_masonic_temple"
+  },
+  {
+    "name": "The Franklin Fountain",
+    "lat": 39.9496424,
+    "lon": -75.1428439,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "historic"
+    ],
+    "url": "https://www.franklinfountain.com/",
+    "id": "philadelphia_the_franklin_fountain"
+  },
+  {
+    "name": "Gloria Dei Church National Historic Site",
+    "lat": 39.9344654,
+    "lon": -75.1434614,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/2014_Gloria_Dei_%28Old_Swedes%27%29_Church_from_west.jpg/1280px-2014_Gloria_Dei_%28Old_Swedes%27%29_Church_from_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The oldest active church in Pennsylvania is also the second oldest Swedish Church in the United States. ",
+    "info": null,
+    "categories": [
+      "nps",
+      "religious",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/glde/index.htm",
+    "id": "philadelphia_gloria_dei_church_national_historic_site"
+  },
+  {
+    "name": "The Trestle Inn",
+    "lat": 39.958828,
+    "lon": -75.1565018,
+    "imageURL": null,
+    "description": "go go girl bar",
+    "info": null,
+    "categories": [
+      "drinking",
+      "quirky"
+    ],
+    "url": "https://thetrestleinn.com/",
+    "id": "philadelphia_the_trestle_inn"
+  },
+  {
+    "name": "Underground Arts",
+    "lat": 39.9590913,
+    "lon": -75.158753,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://undergroundarts.org/",
+    "id": "philadelphia_underground_arts"
+  },
+  {
+    "name": "Thaddeus Kosciuszko National Memorial",
+    "lat": 39.9434638,
+    "lon": -75.1472783,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Thaddeus_Koscuiszko_National_Memorial_301_Pine_Street.jpg/1280px-Thaddeus_Koscuiszko_National_Memorial_301_Pine_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "America's smallest national park site is the former residence of exiled Polish national hero Thaddeus Kosciuszko. ",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.nps.gov/thko/index.htm",
+    "id": "philadelphia_thaddeus_kosciuszko_national_memorial"
+  },
+  {
+    "name": "Union Transfer",
+    "lat": 39.9613876,
+    "lon": -75.1553236,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Union_Transfer_02.jpg/1280px-Union_Transfer_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "music"
+    ],
+    "url": "https://utphilly.com/",
+    "id": "philadelphia_union_transfer"
+  },
+  {
+    "name": "PhilaMOCA",
+    "lat": 39.9622523,
+    "lon": -75.1574747,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "cinema",
+      "music",
+      "quirky"
+    ],
+    "url": "https://philamoca.org/",
+    "id": "philadelphia_philamoca"
+  },
+  {
+    "name": "The Rail Park",
+    "lat": 39.9601668,
+    "lon": -75.1599756,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Reading_Viaduct.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI:  Philly's answer to the High Line. Pleasant elevated greenway on old rail infrastructure",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://www.therailpark.org/",
+    "id": "philadelphia_the_rail_park"
+  },
+  {
+    "name": "Jinxed Fishtown",
+    "lat": 39.9711472,
+    "lon": -75.1342417,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": null,
+    "id": "philadelphia_jinxed_fishtown"
+  },
+  {
+    "name": "Palmer Cemetery",
+    "lat": 39.9741973,
+    "lon": -75.1298385,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Palmer_Cemetery_gatehouse%2C_Philly.JPG/1280px-Palmer_Cemetery_gatehouse%2C_Philly.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_palmer_cemetery"
+  },
+  {
+    "name": "North Bowl",
+    "lat": 39.9644115,
+    "lon": -75.1403237,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports",
+      "drinking"
+    ],
+    "url": "https://www.northbowlphilly.com/",
+    "id": "philadelphia_north_bowl"
+  },
+  {
+    "name": "Ruba Club",
+    "lat": 39.9618016,
+    "lon": -75.145956,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": null,
+    "id": "philadelphia_ruba_club"
+  },
+  {
+    "name": "Shofuso Japanese House and Garden",
+    "lat": 39.9813874,
+    "lon": -75.2129429,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Shofuso_Blue_Sky.jpg/1280px-Shofuso_Blue_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Philadelphia boasts one of the best — and most often overlooked — traditional Japanese gardens in North America.  ",
+    "info": null,
+    "categories": [
+      "architecture",
+      "nature",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_shofuso_japanese_house_and_garden"
+  },
+  {
+    "name": "Fairmount Park Horticulture Center",
+    "lat": 39.9834,
+    "lon": -75.2102016,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": null,
+    "id": "philadelphia_fairmount_park_horticulture_center"
+  },
+  {
+    "name": "Smith Memorial Playground & Playhouse",
+    "lat": 39.9817254,
+    "lon": -75.1956208,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Phila_SmithPlaygroundl12.JPG/1280px-Phila_SmithPlaygroundl12.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "historic"
+    ],
+    "url": "https://smithplayground.org/",
+    "id": "philadelphia_smith_memorial_playground_playhouse"
+  },
+  {
+    "name": "The Lighthouse at Turtle Rock",
+    "lat": 39.9699462,
+    "lon": -75.1897692,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_the_lighthouse_at_turtle_rock"
+  },
+  {
+    "name": "The Cliffs",
+    "lat": 39.9794008,
+    "lon": -75.194102,
+    "imageURL": null,
+    "description": "AI: Romantic ruins from 1986 fire. Atmospheric and melancholic. For those who appreciate urban decay and architectural ghosts. In Fairmount Park.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic",
+      "park"
+    ],
+    "url": null,
+    "id": "philadelphia_the_cliffs"
+  },
+  {
+    "name": "Mural Arts Philadelphia",
+    "lat": 39.9654336,
+    "lon": -75.1668715,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.muralarts.org/",
+    "id": "philadelphia_mural_arts_philadelphia"
+  },
+  {
+    "name": "Catholic Total Abstinence Fountain",
+    "lat": 39.9823613,
+    "lon": -75.2196918,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Catholic_Total_Abs_1876.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_catholic_total_abstinence_fountain"
+  },
+  {
+    "name": "Saint Mark's Church",
+    "lat": 39.9489257,
+    "lon": -75.1683325,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/WTP2_Thewinners_IMG_1945.JPG/1280px-WTP2_Thewinners_IMG_1945.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This beautiful, historic Episcopal church is an exemplar of the Gothic Revival style. Built between 1847-1848, the original design is attributed to English architect Richard Cromwell. The church maintains gardens, most noteworthy for its roses.",
+    "info": null,
+    "categories": [
+      "religious",
+      "architecture",
+      "music"
+    ],
+    "url": "https://saintmarksphiladelphia.org/",
+    "id": "philadelphia_saint_mark_s_church"
+  },
+  {
+    "name": "Benjamin Franklin Bridge",
+    "lat": 39.9528771,
+    "lon": -75.1343815,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ben_Franklin_Br.jpg/1280px-Ben_Franklin_Br.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI:  Gorgeous suspension bridge, especially when lit up. Walking across it is a memorable experience with fantastic city views. Under-appreciated by tourists.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "viewpoint"
+    ],
+    "url": "https://www.drpa.org/bridges/ben-franklin-walkway.asp",
+    "id": "philadelphia_benjamin_franklin_bridge"
+  },
+  {
+    "name": "The Book Trader",
+    "lat": 39.95023,
+    "lon": -75.1434542,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": null,
+    "id": "philadelphia_the_book_trader"
+  },
+  {
+    "name": "Philly AIDS Thrift",
+    "lat": 39.9406658,
+    "lon": -75.1511658,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Philly_AIDS_Thrift_2023_jeh.jpg/1280px-Philly_AIDS_Thrift_2023_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": "https://phillyaidsthrift.com/",
+    "id": "philadelphia_philly_aids_thrift"
+  },
+  {
+    "name": "Material Culture",
+    "lat": 40.0153255,
+    "lon": -75.1737141,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://materialculture.com/",
+    "id": "philadelphia_material_culture"
+  },
+  {
+    "name": "Woodford Mansion",
+    "lat": 39.9931564,
+    "lon": -75.1878935,
+    "imageURL": null,
+    "description": "In 1756-58 William Coleman, a Philadelphia merchant and close friend of Benjamin Franklin, built this elegant country home. It is one of the best of the survivors of the early “summer retreats” that were built along the Schuylkill River during the eighteenth and early nineteenth centuries. The house is furnished with an extraordinary collection of 18th and early 19th century antiques and decorative arts.<br><br>Highlights<br>Here are some of the \"must see\" items at Woodford Mansion.<br><br>Fuddling Cup<br>Linen Sampler<br>Tea Table",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "architecture"
+    ],
+    "url": "https://www.woodfordmansion.org/",
+    "id": "philadelphia_woodford_mansion"
+  },
+  {
+    "name": "Historic Strawberry Mansion",
+    "lat": 39.9942983,
+    "lon": -75.1906379,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Strawberry_Mansion.JPG/1280px-Strawberry_Mansion.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Historic Strawberry Mansion is the largest of the seven historic Fairmount Park Houses. The mansion houses antiques, fine art, and collectibles from the 18th and 19th centuries, including a noted collection of dolls from the High Street Exhibit of the Sesquicentennial of 1926.<br><br>Highlights<br>Here are some of the \"must see\" items at Historic Strawberry Mansion.<br><br>The Sesquicentennial Doll Collection<br>The Millennium Doll Collection<br>The Esther Ann McFarland Exhibition Room featuring Tucker and Hemphill Porcelain",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.historicstrawberrymansion.org/",
+    "id": "philadelphia_historic_strawberry_mansion"
+  },
+  {
+    "name": "Mount Moriah Cemetery",
+    "lat": 39.9302347,
+    "lon": -75.233859,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Mt_Moriah_Old_Gatehouse_1.JPG/1280px-Mt_Moriah_Old_Gatehouse_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "An abandoned cemetery lies in ruins as the surrounding forest swallows it whole. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "nature"
+    ],
+    "url": "https://www.friendsofmountmoriahcemetery.org/",
+    "id": "philadelphia_mount_moriah_cemetery"
+  },
+  {
+    "name": "Kelpius Cave",
+    "lat": 40.0238401,
+    "lon": -75.2014244,
+    "imageURL": null,
+    "description": "Where America's first doomsday cult awaited the end of the world.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "hiking"
+    ],
+    "url": null,
+    "id": "philadelphia_kelpius_cave"
+  },
+  {
+    "name": "Wagner Free Institute of Science",
+    "lat": 39.9805712,
+    "lon": -75.1628194,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Wagnerfreeinstitute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A rare view of a preserved Victorian science museum. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.wagnerfreeinstitute.org/",
+    "id": "philadelphia_wagner_free_institute_of_science"
+  },
+  {
+    "name": "Shane Confectionery",
+    "lat": 39.9496512,
+    "lon": -75.1426984,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Shane_Confectionery_-_Philadelphia.jpg/1280px-Shane_Confectionery_-_Philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI; Billed as America's oldest continuously operating candy shop, this lovingly restored Victorian storefront trades in hand-made chocolates, buttercreams, and clear-toy candy. More an atmospheric retail stop than an attraction proper, but the period interior is charming and the sweets are good. Worth a browse if you're passing.",
+    "info": null,
+    "categories": [
+      "food",
+      "historic",
+      "shopping"
+    ],
+    "url": "https://www.shanecandies.com/",
+    "id": "philadelphia_shane_confectionery"
+  },
+  {
+    "name": "Science History Institute",
+    "lat": 39.9487962,
+    "lon": -75.1466157,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Science_History_Institute_2018_sneak_peek_13.JPG/1280px-Science_History_Institute_2018_sneak_peek_13.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI; A free, well-curated museum devoted to the history of chemistry, alchemy, and the material sciences, with antique apparatus, early instruments, and a surprisingly beautiful collection of alchemical art. Niche, certainly, but more engaging than its dry-sounding remit suggests. A good rainy-afternoon option in Old City.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.sciencehistory.org/",
+    "id": "philadelphia_science_history_institute"
+  },
+  {
+    "name": "The Mask and Wig Club",
+    "lat": 39.945934,
+    "lon": -75.160533,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mask%26Wig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "A curious building honoring past and current members of a historic musical comedy troupe.",
+    "info": null,
+    "categories": [
+      "theater",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.maskandwig.com/",
+    "id": "philadelphia_the_mask_and_wig_club"
+  },
+  {
+    "name": "Edgar Allan Pоe National Historic Site",
+    "lat": 39.9619353,
+    "lon": -75.1499398,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Edal_359.jpg/1280px-Edal_359.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.nps.gov/edal/index.htm",
+    "id": "philadelphia_edgar_allan_poe_national_historic_site"
+  },
+  {
+    "name": "Independence National Historical Park",
+    "lat": 39.9495312,
+    "lon": -75.1497319,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Liberty_Bell%2C_Independence_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nps",
+      "unesco",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/inde/index.htm",
+    "id": "philadelphia_independence_national_historical_park"
+  },
+  {
+    "name": "United States’ Oldest Operating Room",
+    "lat": 39.9455714,
+    "lon": -75.1546655,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Pennsylvania_Hospital_%2853590616710%29.jpg/1280px-Pennsylvania_Hospital_%2853590616710%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The theater can be visited only on weekdays at 10 am and 2 pm with a guided tour. Self-guided tours are no longer available due to COVID-19 restrictions. Tours are based on guide availability and are limited to 25 people. To request a tour, please contact 215-829-5434 at least 72 hours in advance. Masks are required at all times on campus.",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky",
+      "museum"
+    ],
+    "url": "https://www.pennmedicine.org/for-patients-and-visitors/find-a-location/pennsylvania-hospital/history",
+    "id": "philadelphia_united_states_oldest_operating_room"
+  },
+  {
+    "name": "The Dream Garden",
+    "lat": 39.9481105,
+    "lon": -75.1511806,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Max_Parrish_Dream_Garden_Philly.JPG/1280px-Max_Parrish_Dream_Garden_Philly.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Mural made of 100,000 pieces of hand blown glass, and until recently, the largest glass mural in the US. ",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_the_dream_garden"
+  },
+  {
+    "name": "Museum of the American Revolution",
+    "lat": 39.9483203,
+    "lon": -75.1457547,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Museum_of_the_American_Revolution.jpg/1280px-Museum_of_the_American_Revolution.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: A relative newcomer that has quickly become one of the city's best museums, striking a nice balance between scholarly depth and genuine drama. Its prize possession is George Washington's actual field tent, presented via a theatrical reveal that lands better than it has any right to. Immersive tableaux and a strong collection of weapons, letters, and personal objects make the war feel human rather than abstract. Well worth a couple of hours.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.amrevmuseum.org/",
+    "id": "philadelphia_museum_of_the_american_revolution"
+  },
+  {
+    "name": "Bartram's Garden",
+    "lat": 39.9327414,
+    "lon": -75.2122015,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bartram_House_May_2002c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The oldest surviving botanic garden in the United States. ",
+    "info": null,
+    "categories": [
+      "nature",
+      "historic",
+      "park"
+    ],
+    "url": "https://www.bartramsgarden.org/",
+    "id": "philadelphia_bartram_s_garden"
+  },
+  {
+    "name": "Spruce Hill Bird Sanctuary",
+    "lat": 39.9535654,
+    "lon": -75.2125805,
+    "imageURL": null,
+    "description": "Hidden behind West Philadelphia rowhomes is a haven for migratory and local bird species both ordinary and rare.  ",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": null,
+    "id": "philadelphia_spruce_hill_bird_sanctuary"
+  },
+  {
+    "name": "Painted Bride Art Center",
+    "lat": 39.9598846,
+    "lon": -75.2256393,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "theater"
+    ],
+    "url": "https://paintedbride.org/",
+    "id": "philadelphia_painted_bride_art_center"
+  },
+  {
+    "name": "Graffiti Pier",
+    "lat": 39.9716262,
+    "lon": -75.1135809,
+    "imageURL": null,
+    "description": "The abandoned coal loading dock is a canvas for unsanctioned art.  ",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "philadelphia_graffiti_pier"
+  },
+  {
+    "name": "American Treasure Tour Museum",
+    "lat": 40.1239365,
+    "lon": -75.4533941,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/American_Treasure_Tour_Museum_entrance_in_422_Business_Center.jpeg/1280px-American_Treasure_Tour_Museum_entrance_in_422_Business_Center.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.americantreasuretour.com/",
+    "id": "philadelphia_american_treasure_tour_museum"
+  },
+  {
+    "name": "Penn Museum",
+    "lat": 39.9492392,
+    "lon": -75.191367,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/University_of_Pennsylvania_Museum_of_Archaeology_and_Anthropology.JPG/1280px-University_of_Pennsylvania_Museum_of_Archaeology_and_Anthropology.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The world's third-largest crystal sphere has sat in the Penn Museum since 1927 with the exception of one outlandish theft. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "archaeological"
+    ],
+    "url": "https://www.penn.museum/",
+    "id": "philadelphia_penn_museum"
+  },
+  {
+    "name": "Swann Memorial Fountain",
+    "lat": 39.9579384,
+    "lon": -75.170587,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Swann_Fountain-27527.jpg/1280px-Swann_Fountain-27527.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A tour de force of a fountain, memorializing a man who loved fountains more than anything else. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art"
+    ],
+    "url": null,
+    "id": "philadelphia_swann_memorial_fountain"
+  },
+  {
+    "name": "BOK BUILDING",
+    "lat": 39.9255301,
+    "lon": -75.1604412,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bok_School_Philly.jpg/1280px-Bok_School_Philly.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "maker/creative space. free tours on Wed",
+    "info": null,
+    "categories": [
+      "art",
+      "architecture",
+      "drinking"
+    ],
+    "url": null,
+    "id": "philadelphia_bok_building"
+  },
+  {
+    "name": "The DeLong Building",
+    "lat": 39.9503686,
+    "lon": -75.1617131,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_the_delong_building"
+  },
+  {
+    "name": "Assembly Rooftop Lounge",
+    "lat": 39.9569377,
+    "lon": -75.1696302,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "drinking",
+      "viewpoint"
+    ],
+    "url": "https://www.assemblyphiladelphia.com/",
+    "id": "philadelphia_assembly_rooftop_lounge"
+  },
+  {
+    "name": "Adrian Balboa gravesite (Rocky Balboa's wife)",
+    "lat": 40.0037681,
+    "lon": -75.1875294,
+    "imageURL": null,
+    "description": "AI: At Laurel Hill Cemetery. Delightfully absurd - a real memorial for a fictional character that people actually visit",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "url": "https://laurelhillphl.com/",
+    "id": "philadelphia_adrian_balboa_gravesite_rocky_balboa_s_wife"
+  },
+  {
+    "name": "Weitzman National Museum of American Jewish History",
+    "lat": 39.9502434,
+    "lon": -75.1485768,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/National_Museum_of_American_Jewish_History.jpg/1280px-National_Museum_of_American_Jewish_History.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The National Museum of American Jewish History was founded in 1976. The museum's permanent collection includes over 20,000 objects and ranges from the Colonial period to the present day. The exhibits focus on preserving, exploring, and celebrating the history of Jews in America.<br><br>Highlights<br>Here are some of the \"must see\" items at National Museum of American Jewish History.<br><br>Notorious RBG: The Life and Times of Ruth Bader Ginsburg<br>Foundations of Freedom<br>Leonard Bernstein: The Power of Music",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.theweitzman.org/",
+    "id": "philadelphia_weitzman_national_museum_of_american_jewish_history"
+  },
+  {
+    "name": "Cira Green",
+    "lat": 39.9526631,
+    "lon": -75.1833298,
+    "imageURL": null,
+    "description": "elevated park",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": null,
+    "id": "philadelphia_cira_green"
+  },
+  {
+    "name": "The Colored Girls Museum",
+    "lat": 40.022742,
+    "lon": -75.1644822,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.thecoloredgirlsmuseum.com/",
+    "id": "philadelphia_the_colored_girls_museum"
+  },
+  {
+    "name": "Fairmount Water Works",
+    "lat": 39.9658112,
+    "lon": -75.1834918,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Fairmount_Water_Works_LOC_314409cu.jpg/1280px-Fairmount_Water_Works_LOC_314409cu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Gorgeous Greek Revival complex on the Schuylkill. Architecturally important and surprisingly beautiful. Now an interpretive center. Far less crowded than it deserves to be.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "museum"
+    ],
+    "url": "https://fairmountwaterworks.org/",
+    "id": "philadelphia_fairmount_water_works"
+  },
+  {
+    "name": "Boelsen Cottage",
+    "lat": 39.989656,
+    "lon": -75.2029321,
+    "imageURL": null,
+    "description": "This tiny cottage surrounded by railroads is the oldest surviving structure in Fairmount Park. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_boelsen_cottage"
+  },
+  {
+    "name": "Rodin Museum",
+    "lat": 39.9619232,
+    "lon": -75.1739579,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Philly042107-009-RodinMuseum.jpg/1280px-Philly042107-009-RodinMuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Rodin Museum opened its doors on Philadelphia’s Benjamin Franklin Parkway in 1929. Its vast collection of nearly 150 bronzes, marbles, and plasters represents every phase of famed sculpture Auguste Rodin’s career.<br><br>Highlights<br>Here are some of the \"must see\" items at Rodin Museum.<br><br>Balzac by Rodin<br>The Dorrance H. Hamilton Garden<br>The Burghers of Calais by Rodin",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.rodinmuseum.org/",
+    "id": "philadelphia_rodin_museum"
+  },
+  {
+    "name": "Philadelphia Museum of Art",
+    "lat": 39.9655697,
+    "lon": -75.1809661,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Philadelphia_Museum_of_Art%2C_main_building.jpg/1280px-Philadelphia_Museum_of_Art%2C_main_building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The main building of the Philadelphia Museum of Art, located at the western end of the Benjamin Franklin Parkway, opened in 1928. Today the site includes the Perelman Building, the Rodin Museum, and two 18th-century houses in Fairmount Park (Mount Pleasant and Cedar Grove). The museum's collection includes the world’s largest collection of works by Marcel Duchamp, the greatest collection of sculpture by Constantin Brancusi outside Europe, the finest public collection of Auguste Rodin’s sculpture in the US, and so much more!<br><br>Highlights<br>Here are some of the \"must see\" items at Philadelphia Museum of Art.<br><br>Paul Cézanne’s The Large Bathers<br>Vincent van Gogh’s Sunflowers<br>“Period Rooms” & Architectural Ensembles from around the world",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "url": "https://philamuseum.org/",
+    "id": "philadelphia_philadelphia_museum_of_art"
+  },
+  {
+    "name": "Franklin Court Printing Office",
+    "lat": 39.950124,
+    "lon": -75.1466125,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Franklin_Court_314-322_Market_Street.jpg/1280px-Franklin_Court_314-322_Market_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Discover the pivotal role the printed word played in the American Revolution and the founding of the nation. Franklin's printing office no longer survives, but it would have had equipment similar to what you'll see in the Franklin Court Printing Office.",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/printingoffice.htm",
+    "id": "philadelphia_franklin_court_printing_office"
+  },
+  {
+    "name": "Plays and Players Gallery",
+    "lat": 39.9468008,
+    "lon": -75.1703809,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Plays_and_Players_Theatre_%2853586792318%29.jpg/1280px-Plays_and_Players_Theatre_%2853586792318%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "theater"
+    ],
+    "url": "https://playsandplayers.org/",
+    "id": "philadelphia_plays_and_players_gallery"
+  },
+  {
+    "name": "Pennsylvania Academy of the Fine Arts",
+    "lat": 39.9555986,
+    "lon": -75.1631457,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Pennsylvania_Academy_of_the_Fine_Arts_in_Philadelphia.jpg/1280px-Pennsylvania_Academy_of_the_Fine_Arts_in_Philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Gorgeous Victorian Gothic building housing America's oldest art museum and school. The building itself is as much the attraction as the art collection. Significantly less crowded than major museums but world-class.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "url": "https://www.pafa.org/",
+    "id": "philadelphia_pennsylvania_academy_of_the_fine_arts"
+  },
+  {
+    "name": "Omoi Life Goods",
+    "lat": 39.9490452,
+    "lon": -75.1457587,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": "https://omoionline.com/",
+    "id": "philadelphia_omoi_life_goods"
+  },
+  {
+    "name": "Eye's Gallery",
+    "lat": 39.9417104,
+    "lon": -75.1484613,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "shopping",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_eye_s_gallery"
+  },
+  {
+    "name": "Ryerss Museum & Library",
+    "lat": 40.0686375,
+    "lon": -75.0885963,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burholme_estate.jpg/1280px-Burholme_estate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Ryerss mansion in Burholme Park now houses a community library and a museum filled with a trove of oddities from around the world.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_ryerss_museum_library"
+  },
+  {
+    "name": "Carpenter's Woods",
+    "lat": 40.0492876,
+    "lon": -75.1998313,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": null,
+    "id": "philadelphia_carpenter_s_woods"
+  },
+  {
+    "name": "Cliveden of the National Trust",
+    "lat": 40.048007,
+    "lon": -75.1811926,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg/1280px-Cliveden_Mansion%2C_Philadelphia%2C_HABS_PA-1184-88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.cliveden.org/",
+    "id": "philadelphia_cliveden_of_the_national_trust"
+  },
+  {
+    "name": "Barnes Foundation",
+    "lat": 39.9606433,
+    "lon": -75.1728075,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Barnes-foundation.png/1280px-Barnes-foundation.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: World-class art collection in a unique setting. One of America's greatest museums, though the experience has changed since moving to the Parkway. The eccentric hanging style (Renoirs next to metalwork next to African sculpture) is unlike anywhere else. Can be crowded but unmissable.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.barnesfoundation.org/",
+    "id": "philadelphia_barnes_foundation"
+  },
+  {
+    "name": "Weaver Dental Museum Of Temple University",
+    "lat": 40.00228,
+    "lon": -75.1520284,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kornberg_School_of_Dentistry_-_Temple_University_%2853564621495%29.jpg/1280px-Kornberg_School_of_Dentistry_-_Temple_University_%2853564621495%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_weaver_dental_museum_of_temple_university"
+  },
+  {
+    "name": "Institute of Contemporary Art",
+    "lat": 39.9540687,
+    "lon": -75.1947096,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Institute_of_Contemporary_Art_%28Philadelphia%29.JPG/1280px-Institute_of_Contemporary_Art_%28Philadelphia%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://icaphila.org/",
+    "id": "philadelphia_institute_of_contemporary_art"
+  },
+  {
+    "name": "Kimmel Center for the Performing Arts",
+    "lat": 39.9467935,
+    "lon": -75.165297,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kimmel_Center_Concert_Hall%2C_Philadelphia%2C_Pennsylvania_LCCN2011630486.jpg/1280px-Kimmel_Center_Concert_Hall%2C_Philadelphia%2C_Pennsylvania_LCCN2011630486.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "theater",
+      "architecture"
+    ],
+    "url": "https://www.ensembleartsphilly.org/",
+    "id": "philadelphia_kimmel_center_for_the_performing_arts"
+  },
+  {
+    "name": "Lightbox Film Center",
+    "lat": 39.9452321,
+    "lon": -75.1649469,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "cinema"
+    ],
+    "url": "https://lightboxfilmcenter.org/",
+    "id": "philadelphia_lightbox_film_center"
+  },
+  {
+    "name": "Kung Fu Necktie",
+    "lat": 39.9702502,
+    "lon": -75.1359294,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://kungfunecktie.com/",
+    "id": "philadelphia_kung_fu_necktie"
+  },
+  {
+    "name": "President's House Site",
+    "lat": 39.950442,
+    "lon": -75.1500846,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/PhiladelphiaPresidentsHouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Although the house was demolished in 1832, the foundations still remain visible in this unique exhibit focusing on the contradiction of liberty and enslavement in the new nation.",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic",
+      "landmark"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/presidentshousesite.htm",
+    "id": "philadelphia_president_s_house_site"
+  },
+  {
+    "name": "American Philosophical Society",
+    "lat": 39.9486222,
+    "lon": -75.1494434,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/American_Philosophical_Society_Hall.jpg/1280px-American_Philosophical_Society_Hall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.amphilsoc.org/",
+    "id": "philadelphia_american_philosophical_society"
+  },
+  {
+    "name": "Benjamin Franklin Museum",
+    "lat": 39.9494619,
+    "lon": -75.1468994,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Franklin_Court_314-322_Market_Street.jpg/1280px-Franklin_Court_314-322_Market_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Explore Franklin's life and character in the Benjamin Franklin Museum. The museum features artifacts, computer animations, and interactive displays. The exhibits are geared toward visitors of all ages, with displays that are educational, challenging, and fun.",
+    "info": null,
+    "categories": [
+      "nps",
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/benjaminfranklinmuseum.htm",
+    "id": "philadelphia_benjamin_franklin_museum"
+  },
+  {
+    "name": "The Magnolia Garden",
+    "lat": 39.9459869,
+    "lon": -75.1492107,
+    "imageURL": null,
+    "description": "The Magnolia Tribute Garden, on the south side of Locust between 4th and 5th Streets, was donated by the Garden Club of America in honor of the founders of our nation, and dedicated in May 1959. George Washington's expressed interest in magnolia trees inspired this garden. Around its walled perimeter are 13 early spring blooming hybrid magnolias suitable for northern climates. They represent the 13 original colonies. Enclosed by wrought iron fences and gates, the plantings include Saucer Magnolias, Narcissus Snow Azaleas, English Oak, Honey Locusts, Cotoneasters, and a ground cover of English Ivy.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": null,
+    "id": "philadelphia_the_magnolia_garden"
+  },
+  {
+    "name": "Second Bank of the United States Portrait Gallery",
+    "lat": 39.9485469,
+    "lon": -75.1484266,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Second_Bank_of_the_United_States%2C_Philadelphia.jpg/1280px-Second_Bank_of_the_United_States%2C_Philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This marvel of Greek Revival architecture houses a fine collection of over 100 portraits, many of them by 18th century artist Charles Willson Peale. Originally built to be the Second Bank of the United States, the building now draws visitors to gaze upon the faces of the leaders of the Revolutionary era.",
+    "info": null,
+    "categories": [
+      "nps",
+      "museum",
+      "architecture"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/secondbankportraitgallery.htm",
+    "id": "philadelphia_second_bank_of_the_united_states_portrait_gallery"
+  },
+  {
+    "name": "John's Water Ice",
+    "lat": 39.938275,
+    "lon": -75.154867,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.johnswaterice.com/",
+    "id": "philadelphia_john_s_water_ice"
+  },
+  {
+    "name": "The Rotunda",
+    "lat": 39.9537108,
+    "lon": -75.2036644,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "art"
+    ],
+    "url": "https://www.therotunda.org/",
+    "id": "philadelphia_the_rotunda"
+  },
+  {
+    "name": "John Heinz National Wildlife Refuge at Tinicum",
+    "lat": 39.8921524,
+    "lon": -75.2572137,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-13Aug2010.jpg/1280px-John_Heinz_National_Wildlife_Refuge_at_Tinicum%2C_Pennsylvania%2C_USA-13Aug2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.fws.gov/refuge/john-heinz-tinicum",
+    "id": "philadelphia_john_heinz_national_wildlife_refuge_at_tinicum"
+  },
+  {
+    "name": "Chestnut Hill Friends Meeting Skyspace",
+    "lat": 40.0683476,
+    "lon": -75.1961469,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Chestnut_Hill_Friends_Meeting_-_side_view_of_exterior_of_meeting_room.jpg/1280px-Chestnut_Hill_Friends_Meeting_-_side_view_of_exterior_of_meeting_room.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "religious"
+    ],
+    "url": null,
+    "id": "philadelphia_chestnut_hill_friends_meeting_skyspace"
+  },
+  {
+    "name": "Charles Addams Fine Arts Hall",
+    "lat": 39.9529062,
+    "lon": -75.19512,
+    "imageURL": null,
+    "description": "This fine arts hall honors the mastermind behind our beloved creepy and kooky Addams Family.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "architecture"
+    ],
+    "url": null,
+    "id": "philadelphia_charles_addams_fine_arts_hall"
+  },
+  {
+    "name": "The Academy of Natural Sciences of Drexel University",
+    "lat": 39.9568422,
+    "lon": -75.1712897,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Academy_of_Natural_Sciences_of_Drexel_University_%2853574189186%29.jpg/1280px-The_Academy_of_Natural_Sciences_of_Drexel_University_%2853574189186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Venture into the past with an unlisted exhibit hall featuring extinct birds",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://ansp.org/",
+    "id": "philadelphia_the_academy_of_natural_sciences_of_drexel_university"
+  },
+  {
+    "name": "The Franklin Institute",
+    "lat": 39.9582109,
+    "lon": -75.1731347,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Philadelphia_October_2017_10_%28The_Franklin_Institute%29.jpg/1280px-Philadelphia_October_2017_10_%28The_Franklin_Institute%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Maillardet's Automaton - At the Franklin Institute. This 18th-century mechanical figure actually draws and writes poems. It's mesmerizing to watch and has a fascinating backstory. A hidden treasure within a larger museum.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.fi.edu/",
+    "id": "philadelphia_the_franklin_institute"
+  },
+  {
+    "name": "Alley of Murals (Isaiah Zagar)",
+    "lat": 39.9423694,
+    "lon": -75.1567093,
+    "imageURL": null,
+    "description": "Walk down an otherwise nondescript alley near Washington Square West in South Philly and find yourself in a vivid, immersive mosaic wonderland.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_alley_of_murals_isaiah_zagar"
+  },
+  {
+    "name": "Merchant Exchange Building",
+    "lat": 39.9474041,
+    "lon": -75.1461153,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Philadelphia_Merchants_Exchange_Building_%2820864134401%29.jpg/1280px-Philadelphia_Merchants_Exchange_Building_%2820864134401%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Trace the history of the nation’s early days at the site of America’s oldest stock exchange. Today, the Merchants’ Exchange serves as headquarters of Independence Historical Park, a campus of historical sites and buildings in a federally protected historic district of Philly’s Old City. On a visit, check out architectural details like imported Carrera marble from Italy alongside local Pennsylvania blue marble, an ornate Corinthian portico inspired by Athenian architecture, and the cornerstone that was laid to commemorate the 100th anniversary of George Washington’s birth.",
+    "info": null,
+    "categories": [
+      "nps",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/inde/learn/historyculture/places-merchantsexchange.htm",
+    "id": "philadelphia_merchant_exchange_building"
+  },
+  {
+    "name": "Elfreth's Alley Museum",
+    "lat": 39.9527178,
+    "lon": -75.1424391,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Elfreth%27s_Alley_%2853572700168%29.jpg/1280px-Elfreth%27s_Alley_%2853572700168%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: America's oldest continuously inhabited residential street (1702).",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "neighborhood"
+    ],
+    "url": "https://www.elfrethsalley.org/",
+    "id": "philadelphia_elfreth_s_alley_museum"
+  },
+  {
+    "name": "Cruiser Olympia and Submarine Becuna at Independence Seaport Museum",
+    "lat": 39.9436254,
+    "lon": -75.1413524,
+    "imageURL": null,
+    "description": "Walk through Admiral Dewey's Spanish-American War flagship and a WWII submarine. Tangible naval history at Penn's Landing.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.phillyseaport.org/",
+    "id": "philadelphia_cruiser_olympia_and_submarine_becuna_at_independence_seaport_museum"
+  },
+  {
+    "name": "Carpenters' Hall",
+    "lat": 39.9481384,
+    "lon": -75.1472103,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/CarpentersHall00.jpg/1280px-CarpentersHall00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Where the First Continental Congress met in 1774. Intimate scale makes history feel immediate and real.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.carpentershall.org/",
+    "id": "philadelphia_carpenters_hall"
+  },
+  {
+    "name": "Boathouse Row",
+    "lat": 39.9695828,
+    "lon": -75.1876317,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Boathouse_Row-wide.JPG/1280px-Boathouse_Row-wide.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: conic Philadelphia image, especially illuminated at night. Beautiful setting along the Schuylkill.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark",
+      "viewpoint"
+    ],
+    "url": "https://boathouserow.org/",
+    "id": "philadelphia_boathouse_row"
+  },
+  {
+    "name": "Mother Bethel African Methodist Episcopal Church",
+    "lat": 39.9433018,
+    "lon": -75.1517622,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Mother_Bethel_Philly_a.JPG/1280px-Mother_Bethel_Philly_a.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Founded by Richard Allen in 1794. Powerful Underground Railroad and civil rights history.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.motherbethel.org/",
+    "id": "philadelphia_mother_bethel_african_methodist_episcopal_church"
+  },
+  {
+    "name": "Christ Church",
+    "lat": 39.9507932,
+    "lon": -75.144277,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Christ_Church%2C_Philadelphia_12.2021_%28edited%29.jpg/1280px-Christ_Church%2C_Philadelphia_12.2021_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Where Washington and Franklin worshiped. Beautiful colonial architecture, surprisingly intimate.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": "https://www.christchurchphila.org/",
+    "id": "philadelphia_christ_church"
+  },
+  {
+    "name": "Walnut Street Theatre",
+    "lat": 39.9483842,
+    "lon": -75.155359,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Walnut_Street_Theatre_from_east.jpg/1280px-Walnut_Street_Theatre_from_east.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Oldest continuously operating theater in English-speaking world.",
+    "info": null,
+    "categories": [
+      "theater",
+      "historic"
+    ],
+    "url": "https://www.walnutstreettheatre.org/",
+    "id": "philadelphia_walnut_street_theatre"
+  },
+  {
+    "name": "Academy of Music",
+    "lat": 39.9479837,
+    "lon": -75.1648981,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Phila_AcademyofMusicl03.JPG/1280px-Phila_AcademyofMusicl03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Oldest opera house still in original use. Beautiful interior if you can catch a performance or tour.",
+    "info": null,
+    "categories": [
+      "music",
+      "theater",
+      "architecture"
+    ],
+    "url": "https://www.ensembleartsphilly.org/",
+    "id": "philadelphia_academy_of_music"
+  },
+  {
+    "name": "Loews Philadelphia Hotel",
+    "lat": 39.9515991,
+    "lon": -75.1602673,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/PSFSBuilding1985.jpg/1280px-PSFSBuilding1985.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "he historical PSFS Building by George Howe and William Lescaze, now the Loews Philadelphia Hotel. This 1932 highrise was the first International Style skyscraper in the US and only the second building fully air-conditioned. AI: For architecture enthusiasts, this is a pilgrimage site (pioneering International Style skyscraper), but casual visitors might just appreciate it from outside.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": "https://www.loewshotels.com/philadelphia-hotel",
+    "id": "philadelphia_loews_philadelphia_hotel"
+  },
+  {
+    "name": "Richards Medical Research Laboratories, architect Louis Kahn",
+    "lat": 39.9496699,
+    "lon": -75.1977186,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Richards_Labs_Penn.JPG/1280px-Richards_Labs_Penn.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the masterworks by architect Louis Kahn (1901-1974) who was also a resident of Philadelphia and a professor of architecture at the University of Pennsylvania. Completed in 1962, the building is famous for its division between served and servant spaces. The brick towers are reminiscent of the ancient Italian towers in San Gimignano which Louis Kahn admired and painted. The Richards Medical Research Laboritories form one complex with the adjacent Goddard Laboratories. The building is historically significant for representing one of the first breaks in architectural history with the orthodox international style which was predominant until at least the 1950s.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_richards_medical_research_laboratories_architect_louis_kahn"
+  },
+  {
+    "name": "Friends Center",
+    "lat": 39.9560063,
+    "lon": -75.1650624,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Race_Street_Meetinghouse_and_Visitors_Center_from_Cherry_Street.jpg/1280px-Race_Street_Meetinghouse_and_Visitors_Center_from_Cherry_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Original Quaker Meeting House was built here in 1856. Quakers have been worshiping and working on Social Justice issues ever since...AI: If you want to understand Philadelphia's Quaker heritage, this is authentic and atmospheric. The silence and simplicity can be quite moving. Not overrun with tourists.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": "https://www.friendscentercorp.org/",
+    "id": "philadelphia_friends_center"
+  },
+  {
+    "name": "Historic RittenhouseTown",
+    "lat": 40.0296926,
+    "lon": -75.1905736,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/Rittenhouse_homestead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.rittenhousetown.org/",
+    "id": "philadelphia_historic_rittenhousetown"
+  },
+  {
+    "name": "Cherry Street Pier",
+    "lat": 39.9524997,
+    "lon": -75.1392792,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "viewpoint",
+      "food"
+    ],
+    "url": "https://www.cherrystreetpier.com/",
+    "id": "philadelphia_cherry_street_pier"
+  },
+  {
+    "name": "Biopond",
+    "lat": 39.9493258,
+    "lon": -75.1982429,
+    "imageURL": null,
+    "description": "mini botanical garden",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": null,
+    "id": "philadelphia_biopond"
+  },
+  {
+    "name": "Longwood Gardens",
+    "lat": 39.8735119,
+    "lon": -75.6734217,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Longwood_Gardens_-_Exterior_view_of_Conservatory.jpg/1280px-Longwood_Gardens_-_Exterior_view_of_Conservatory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "architecture"
+    ],
+    "url": "https://longwoodgardens.org/",
+    "id": "philadelphia_longwood_gardens"
+  },
+  {
+    "name": "Green Wall",
+    "lat": 39.8733513,
+    "lon": -75.6780611,
+    "imageURL": null,
+    "description": "The public restrooms at Longwood Gardens, the most visited public garden in America, deserve a double-take as you walk by. That’s because the 17 restrooms themselves are part of the largest indoor “Green Wall” in North America! The staff at Longwood worked with artist Kim Wilkie on an unprecedented feat of bathroom architecture. Take a look at the photos, and you’ll understand. Aside from the restrooms’ lush greenery, they also feature domed, naturally lit lavatory cabinets hidden within the “Green Wall.” In addition, each restroom contains etched translucent glass at the top of the dome to provide natural light, reduce electricity and minimize the need for light fixtures. Longwood Gardens traces its roots to the famed du Pont family and has become preeminent for its grand collection of plant life. Now, its restrooms also share in the spotlight. “The restrooms at Longwood have become a ‘must-see’ for our one million annual visitors, and we even have docents nearby to share the story of their creation,” says Patricia Evans, communications manager at Longwood Gardens. “To be named America’s Best Restroom would be a testament to our creativity and environmental stewardship.”",
+    "info": null,
+    "categories": [
+      "quirky",
+      "nature",
+      "landmark"
+    ],
+    "url": "https://longwoodgardens.org/",
+    "id": "philadelphia_green_wall"
+  },
+  {
+    "name": "Curtis Institute of Music",
+    "lat": 39.9488153,
+    "lon": -75.1706467,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Curtisinstofmusic.JPG/1280px-Curtisinstofmusic.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: World's most selective music conservatory (harder to get into than Harvard) with FREE student and faculty concerts. Hearing future virtuosos in an intimate setting is extraordinary. Check their calendar.",
+    "info": null,
+    "categories": [
+      "music",
+      "architecture"
+    ],
+    "url": "https://www.curtis.edu/",
+    "id": "philadelphia_curtis_institute_of_music"
+  },
+  {
+    "name": "Congress Hall",
+    "lat": 39.9489345,
+    "lon": -75.150559,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Congress_Hall_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Criminally overshadowed by Independence Hall next door, but this is where the U.S. Congress actually met and where Washington and Adams were inaugurated. More historically significant than most realize.",
+    "info": null,
+    "categories": [
+      "nps",
+      "historic"
+    ],
+    "url": "https://www.nps.gov/inde/planyourvisit/congresshall.htm",
+    "id": "philadelphia_congress_hall"
+  },
+  {
+    "name": "South Fellini",
+    "lat": 39.930702,
+    "lon": -75.1621289,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://southfellini.com/",
+    "id": "philadelphia_south_fellini"
+  },
+  {
+    "name": "Mummers Museum",
+    "lat": 39.9334485,
+    "lon": -75.1475693,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Mummers_Museum_1100_S_2nd_St_Philadelphia_PA_%28DSC_3160%29.jpg/1280px-Mummers_Museum_1100_S_2nd_St_Philadelphia_PA_%28DSC_3160%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: If you want to understand peak Philly eccentricity, this is essential. The Mummers Parade tradition (sequined, feathered New Year's Day extravaganza) is utterly unique to Philadelphia. The museum is earnest, quirky, and captures something ineffable about the city.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.mummersmuseum.org/",
+    "id": "philadelphia_mummers_museum"
+  },
+  {
+    "name": "Alfred W. Fleisher Memorial Synagogue",
+    "lat": 39.9675167,
+    "lon": -75.1727486,
+    "imageURL": null,
+    "description": "first prison synagogue",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.easternstate.org/",
+    "id": "philadelphia_alfred_w_fleisher_memorial_synagogue"
+  },
+  {
+    "name": "Octavius V. Catto Memorial",
+    "lat": 39.9517276,
+    "lon": -75.1637244,
+    "imageURL": null,
+    "description": "first monument on Philadelphia public property to commemorate a specific African American",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "art"
+    ],
+    "url": null,
+    "id": "philadelphia_octavius_v_catto_memorial"
+  },
+  {
+    "name": "Ohio House",
+    "lat": 39.9849832,
+    "lon": -75.216159,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/OhioHouse04.jpg/1280px-OhioHouse04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Last surviving state pavilion from the 1876 Centennial Exhibition. Architecturally interesting Victorian relic. Surprisingly intact time capsule.",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_ohio_house"
+  },
+  {
+    "name": "Quince Street",
+    "lat": 39.9471832,
+    "lon": -75.1601111,
+    "imageURL": null,
+    "description": "AI: Genuinely charming cobblestone alley. Instagram-worthy and atmospheric. Quick stop.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "neighborhood",
+      "architecture"
+    ],
+    "url": null,
+    "id": "philadelphia_quince_street"
+  },
+  {
+    "name": "Old Saint Joseph's Catholic Church",
+    "lat": 39.946582,
+    "lon": -75.147512,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/WTP_C03_AMP_2.jpg/1280px-WTP_C03_AMP_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Hidden church in an alley with interesting religious freedom history. Atmospheric.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": "https://oldstjoseph.org/",
+    "id": "philadelphia_old_saint_joseph_s_catholic_church"
+  },
+  {
+    "name": "Manayunk Canal Path",
+    "lat": 40.0248577,
+    "lon": -75.2231117,
+    "imageURL": null,
+    "description": "AI: Pleasant recreation path with industrial history. Nice for a walk or bike ride but not a destination.",
+    "info": null,
+    "categories": [
+      "hiking",
+      "historic",
+      "nature"
+    ],
+    "url": null,
+    "id": "philadelphia_manayunk_canal_path"
+  },
+  {
+    "name": "Simeone Foundation Automotive Museum",
+    "lat": 39.9106009,
+    "lon": -75.2264093,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Simeone-Museum-Exhibit-Winners-Circle.jpg/1280px-Simeone-Museum-Exhibit-Winners-Circle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Simeone Foundation Automotive Museum consists of 21 exhibits and 70 cars in the permanent collection. The cars are arranged chronologically and in diorama vignettes. The museum has been ranked the number one car collection in the entire world.<br><br>Highlights<br>Here are some of the \"must see\" items at Simeone Foundation Automotive Museum.<br><br>1909 American Underslung Traveler<br>1912 National Model 40 Semi-Racing Roadster<br>1927 Bentley 3 Litre Speed Model",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.simeonemuseum.org/",
+    "id": "philadelphia_simeone_foundation_automotive_museum"
+  },
+  {
+    "name": "Library Company of Philadelphia",
+    "lat": 39.9478102,
+    "lon": -75.1631185,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Library_co_phila1965facade.jpg/1280px-Library_co_phila1965facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The Library Company of Philadelphia was founded in 1731 by Benjamin Franklin. Over time it has accumulated one of the most significant collections of historically valuable manuscripts and printed material in the United States. The collection includes 500,000 books and 70,000 other items, including 2,150 items that once belonged to Franklin, the Mayflower Compact, major collections of 17th-century and Revolution-era pamphlets and ephemera, maps, and whole libraries assembled in the 18th and 19th centuries.<br><br>Highlights<br>Here are some of the \"must see\" items at Library Company of Philadelphia.<br><br>First Edition Moby-Dick<br>First Edition Leaves of Grass<br>The Mayflower Compact",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "bookstore"
+    ],
+    "url": "https://librarycompany.org/",
+    "id": "philadelphia_library_company_of_philadelphia"
+  },
+  {
+    "name": "American Swedish Historical Museum",
+    "lat": 39.9060196,
+    "lon": -75.1810318,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/American_Swedish_Museum.JPG/1280px-American_Swedish_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Founded in 1926, the American Swedish Historical Museum is the oldest Swedish-American museum in the United States. It is located in Franklin Delano Roosevelt Park in South Philadelphia. The Museum’s large interior is divided into twelve exhibition galleries, a reference library, curatorial storage and archives, offices, museum store, large dining room/conference area and kitchen.<br><br>Highlights<br>Here are some of the \"must see\" items at American Swedish Historical Museum.<br><br>Viking Sword<br>Cloak Pins<br>Sinnickson Chest",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.americanswedish.org/",
+    "id": "philadelphia_american_swedish_historical_museum"
+  },
+  {
+    "name": "Southeast Asian Market",
+    "lat": 39.9010501,
+    "lon": -75.1830602,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food"
+    ],
+    "url": null,
+    "id": "philadelphia_southeast_asian_market"
+  },
+  {
+    "name": "Stone Spiral Arch Bridge",
+    "lat": 40.0042937,
+    "lon": -75.199912,
+    "imageURL": null,
+    "description": "AI: Ingenious 1830s engineering where the canal crosses a road at an angle. The geometry is mesmerizing. View it from below. Quick stop but surprisingly cool",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_stone_spiral_arch_bridge"
+  },
+  {
+    "name": "Singh Center for Nanotechnology",
+    "lat": 39.9529064,
+    "lon": -75.1889455,
+    "imageURL": null,
+    "description": "AI: University of Pennsylvania's striking contemporary architecture. Worth seeing if you're into modern building design.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_singh_center_for_nanotechnology"
+  },
+  {
+    "name": "Taller Puertorriqueno, Inc",
+    "lat": 39.9907675,
+    "lon": -75.1406877,
+    "imageURL": null,
+    "description": "AI: Puerto Rican cultural center with art and programs. Check their calendar.",
+    "info": null,
+    "categories": [
+      "art",
+      "museum"
+    ],
+    "url": "https://tallerpr.org/",
+    "id": "philadelphia_taller_puertorriqueno_inc"
+  },
+  {
+    "name": "Pennsylvania Railroad World War II Memorial",
+    "lat": 39.9556591,
+    "lon": -75.1813937,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e4/30th_Street_Station_Angel_of_the_Resurrection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Powerful WWI memorial sculpture by Walker Hancock. One of the great American memorial sculptures, and you can see it for free in the station.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_pennsylvania_railroad_world_war_ii_memorial"
+  },
+  {
+    "name": "Lemon Hill Mansion",
+    "lat": 39.9707308,
+    "lon": -75.1871927,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum",
+      "architecture"
+    ],
+    "url": null,
+    "id": "philadelphia_lemon_hill_mansion"
+  },
+  {
+    "name": "Eagle - large bronze sculpture at Macy's",
+    "lat": 39.9516096,
+    "lon": -75.1620031,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic"
+    ],
+    "url": null,
+    "id": "philadelphia_eagle_large_bronze_sculpture_at_macy_s"
+  },
+  {
+    "name": "Valley Green Inn",
+    "lat": 40.054949,
+    "lon": -75.2180221,
+    "imageURL": null,
+    "description": "AI: Charming 18th-century inn in the gorgeous Wissahickon Valley. You can eat on the patio by the creek, rent bikes, hike. Feels worlds away from the city. Genuinely lovely escape that locals treasure.",
+    "info": null,
+    "categories": [
+      "food",
+      "historic",
+      "nature"
+    ],
+    "url": "https://www.valleygreeninn.com/",
+    "id": "philadelphia_valley_green_inn"
+  },
+  {
+    "name": "Historic Thomas Mill Covered Bridge",
+    "lat": 40.0718939,
+    "lon": -75.2256422,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Covered_Bridge%2C_Thomas_Mill_Road_%28Spanning_Wissahickon_Creek%29%2C_Philadelphia_%28Philadelphia_County%2C_Pennsylvania%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: One of the last covered bridges in a major American city. Atmospheric, photogenic, and the Wissahickon setting is beautiful. Easy to combine with Valley Green Inn visit.",
+    "info": null,
+    "categories": [
+      "historic",
+      "hiking",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_historic_thomas_mill_covered_bridge"
+  },
+  {
+    "name": "Shadow of a Church",
+    "lat": 39.9512127,
+    "lon": -75.1777457,
+    "imageURL": null,
+    "description": "optical illusion Mural",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_shadow_of_a_church"
+  },
+  {
+    "name": "Ministry of Awe",
+    "lat": 39.951063,
+    "lon": -75.145306,
+    "imageURL": null,
+    "description": "6 story traversible work of art",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": "https://ministryofawe.com/",
+    "id": "philadelphia_ministry_of_awe"
+  },
+  {
+    "name": "Calder Gardens",
+    "lat": 39.9602462,
+    "lon": -75.1746767,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Calder_Gardens.jpg/1280px-Calder_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "museum",
+      "nature"
+    ],
+    "url": "https://www.caldergardens.org/",
+    "id": "philadelphia_calder_gardens"
+  },
+  {
+    "name": "Isgro Pastries",
+    "lat": 39.9393339,
+    "lon": -75.1597733,
+    "imageURL": null,
+    "description": "120-year-old Italian bakery, best cannoli",
+    "info": null,
+    "categories": [
+      "food",
+      "cafe"
+    ],
+    "url": "https://www.bestcannoli.com/",
+    "id": "philadelphia_isgro_pastries"
+  },
+  {
+    "name": "Angelo's Pizzeria",
+    "lat": 39.9406572,
+    "lon": -75.1576747,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "philadelphia_angelo_s_pizzeria"
+  },
+  {
+    "name": "John's Roast Pork",
+    "lat": 39.9210754,
+    "lon": -75.1450699,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/John%27s_Roast_Pork_sign.jpg/1280px-John%27s_Roast_Pork_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.johnsroastpork.com/",
+    "id": "philadelphia_john_s_roast_pork"
+  },
+  {
+    "name": "Fred's Water Ice",
+    "lat": 39.9400392,
+    "lon": -75.2229078,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "philadelphia_fred_s_water_ice"
+  },
+  {
+    "name": "Sarcone's Bakery",
+    "lat": 39.94009,
+    "lon": -75.1576997,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.sarconesbakery.com/",
+    "id": "philadelphia_sarcone_s_bakery"
+  },
+  {
+    "name": "South Philly Barbacoa",
+    "lat": 39.9354931,
+    "lon": -75.1587449,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/South_Philly_Barbacoa_2023_jeh.jpg/1280px-South_Philly_Barbacoa_2023_jeh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "philadelphia_south_philly_barbacoa"
+  },
+  {
+    "name": "Johnny's Hots",
+    "lat": 39.9673732,
+    "lon": -75.129303,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "philadelphia_johnny_s_hots"
+  },
+  {
+    "name": "Joe's Steaks + Soda Shop",
+    "lat": 39.9689653,
+    "lon": -75.1345443,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "drinking"
+    ],
+    "url": null,
+    "id": "philadelphia_joe_s_steaks_soda_shop"
+  },
+  {
+    "name": "Bob and Barbara's Lounge",
+    "lat": 39.944051,
+    "lon": -75.1675551,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "drinking",
+      "music",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_bob_and_barbara_s_lounge"
+  },
+  {
+    "name": "Down North Pizza",
+    "lat": 39.9967524,
+    "lon": -75.1772174,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.downnorthpizza.com/",
+    "id": "philadelphia_down_north_pizza"
+  },
+  {
+    "name": "The Fabric Workshop and Museum",
+    "lat": 39.9537168,
+    "lon": -75.1602465,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Fabric_Workshop_and_Museum%2C_Philadelphia_PA.jpg/1280px-The_Fabric_Workshop_and_Museum%2C_Philadelphia_PA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Established in the 1970s to showcase the fabric arts, The Fabric Workshop & Museum is both a museum and an active workshop, providing space, tools, and education to aspiring artists. Long portrayed as lesser than art forms like painting and sculpture, textile arts have experienced a renaissance in recent years thanks to the efforts of this institution and others like it.<br><br>Visitors can admire stunning works on display, or get their hands dirty with workshops on crafts like screen prints and tapestry making—and maybe even bring home a completed work as a souvenir. The museum also offers studio tours allowing visitors to watch artists at work, as well as regular artist talks given by resident makers.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://fabricworkshopandmuseum.org/",
+    "id": "philadelphia_the_fabric_workshop_and_museum"
+  },
+  {
+    "name": "Paul Robeson House & Museum",
+    "lat": 39.9567275,
+    "lon": -75.2213557,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Robesonhouse.Philadelphia.JPG/1280px-Robesonhouse.Philadelphia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Celebrated Philadelphian Paul Robeson was a polymath and classic Renaissance man. As an activist, theater actor, singer, lawyer, writer, and athlete, his impact on both his immediate communities and the larger cultural and social justice movements he championed cannot be overstated. A Rutgers alum, Robeson’s life and career included a barrier-breaking showing as Rutger’s first Black football player (he was an All-American), stints on the Broadway stage, a law degree from Columbia, and starring roles in the musical Show Boat on both stage and screen. <br><br>The Paul Robeson House and Museum occupies Robeson’s one-time home in Walnut Hill, which has been lovingly preserved as a museum and historical landmark. On a visit, you can learn about Robeson’s life and work as you tour the interior of the home and the grounds of the property, which frequently hosts community groups and festivals such as West Philly Porchfest.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.paulrobesonhouse.org/",
+    "id": "philadelphia_paul_robeson_house_museum"
+  },
+  {
+    "name": "Fishtown",
+    "lat": 39.9709764,
+    "lon": -75.1284805,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Fishtown_Philadelphia.jpg/1280px-Fishtown_Philadelphia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of the nation’s busiest train stations, it’s worth visiting just for its grand concourse and historic architecture",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "food",
+      "drinking"
+    ],
+    "url": null,
+    "id": "philadelphia_fishtown"
+  },
+  {
+    "name": "Wood Street Steps",
+    "lat": 39.956226,
+    "lon": -75.1398774,
+    "imageURL": null,
+    "description": "aAI: A dazzling mosaic stairway by Isaiah Zagar—part of Philly’s broader mosaic art landscape. It’s vibrant, chaotic, and deeply tied to the city’s creative identity.<br>Why go: A compact but unforgettable visual experience.<br>Don’t miss if you like urban art.",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "philadelphia_wood_street_steps"
+  },
+  {
+    "name": "Thunderbird Salvage",
+    "lat": 39.9826085,
+    "lon": -75.1262826,
+    "imageURL": null,
+    "description": "AI: A wonderfully chaotic salvage shop—full of architectural fragments, oddities, and treasures.<br>Why it’s fun: Feels like a curated junkyard adventure.",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": null,
+    "id": "philadelphia_thunderbird_salvage"
+  }
+]
