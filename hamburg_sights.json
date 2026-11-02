@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Speicherstadt",
+    "lat": 53.5450204,
+    "lon": 9.996783,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/1280px-Speicherstadt_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "WHS - The Speicherstadt and Kontorhaus District with Chilehaus, represents the warehouse-office district of the port city of Hamburg.<br><br>The warehouses and offices, together with their connecting network of streets, canals and bridges, date from the late 19th and early 20th centuries. The iconic Chilehaus, a ten-story office building, is an exceptional example of the 1920s Modernist architecture (in the Brick Expressionism style) that defines this district.",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/hamburg-maritim/speicherstadt/",
+    "id": "hamburg_speicherstadt"
+  },
+  {
+    "name": "Kontorhausviertel",
+    "lat": 53.5487424,
+    "lon": 10.0019785,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Hamburg.Kontorhausviertel.wmt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "WHS",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/historisches-hamburg/kontorhausviertel/",
+    "id": "hamburg_kontorhausviertel"
+  },
+  {
+    "name": "Chilehaus",
+    "lat": 53.5484695,
+    "lon": 10.0016279,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Chilehaus_-_Hamburg.jpg/1280px-Chilehaus_-_Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "unesco",
+      "architecture",
+      "landmark"
+    ],
+    "url": "https://www.chilehaus.de/",
+    "id": "hamburg_chilehaus"
+  },
+  {
+    "name": "Jewish cemetery",
+    "lat": 53.54952,
+    "lon": 9.95039,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Altona_J%C3%BCdischer_Friedhof.jpg/1280px-Altona_J%C3%BCdischer_Friedhof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "tWHW",
+    "info": null,
+    "categories": [
+      "historic",
+      "religious"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/historisches-hamburg/juedischer-friedhof-altona/",
+    "id": "hamburg_jewish_cemetery"
+  },
+  {
+    "name": "St. Nicholas' Church",
+    "lat": 53.5474814,
+    "lon": 9.9906472,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/St_Nikolai.jpg/1280px-St_Nikolai.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Once the tallest building in the world, this abandoned church is now a monument to the destruction of WWII. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "religious",
+      "viewpoint"
+    ],
+    "url": "https://www.mahnmal-st-nikolai.de/",
+    "id": "hamburg_st_nicholas_church"
+  },
+  {
+    "name": "Medical Historical Museum Hamburg",
+    "lat": 53.5938,
+    "lon": 9.9768485,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Universit%C3%A4tskrankenhaus_%28Hamburg-Eppendorf%29.Geb%C3%A4ude_N30.2.20777.ajb.jpg/1280px-Universit%C3%A4tskrankenhaus_%28Hamburg-Eppendorf%29.Geb%C3%A4ude_N30.2.20777.ajb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Wax models of disease and deformity are on display at this German medical museum.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.uke.de/kliniken-institute/institute/geschichte-und-ethik-der-medizin/medizinhistorisches-museum/",
+    "id": "hamburg_medical_historical_museum_hamburg"
+  },
+  {
+    "name": "Museum for Hamburg History",
+    "lat": 53.5511836,
+    "lon": 9.9732042,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hh-hamburgmuseum.jpg/1280px-Hh-hamburgmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.shmh.de/museum-fuer-hamburgische-geschichte/",
+    "id": "hamburg_museum_for_hamburg_history"
+  },
+  {
+    "name": "Harry's Hamburger Hafenbasar",
+    "lat": 53.5422921,
+    "lon": 9.9881586,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Harrys_Hafenbasar_am_Sandtorhafen.jpg/1280px-Harrys_Hafenbasar_am_Sandtorhafen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A wunderkammer of exoticism immortalized by Tom Waits.",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky",
+      "shopping"
+    ],
+    "url": "https://www.hafenbasar.de/",
+    "id": "hamburg_harry_s_hamburger_hafenbasar"
+  },
+  {
+    "name": "Miniatur Wunderland",
+    "lat": 53.5438692,
+    "lon": 9.989073,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/3b/DungeonMiwula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Model Trains and Much More in Hamburg. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.miniatur-wunderland.de/",
+    "id": "hamburg_miniatur_wunderland"
+  },
+  {
+    "name": "German Additive Substance Museum",
+    "lat": 53.5407166,
+    "lon": 10.0209448,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Deutsches_Zusatzstoffmuseum_Hamburg.jpg/1280px-Deutsches_Zusatzstoffmuseum_Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A fascinating little museum dedicated to the thousands of chemical substances concealed in our food. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.zusatzstoffmuseum.de/",
+    "id": "hamburg_german_additive_substance_museum"
+  },
+  {
+    "name": "Rote Flora",
+    "lat": 53.5620163,
+    "lon": 9.9615147,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Rote_Flora_M%C3%A4rz_2021.jpg/1280px-Rote_Flora_M%C3%A4rz_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This contentious squat has stood through fire, violence, and government intervention as a hotbed of leftist protest. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/sehenswuerdigkeiten/rote-flora/",
+    "id": "hamburg_rote_flora"
+  },
+  {
+    "name": "Graffiti Hall of Fame Bunker Red Flora",
+    "lat": 53.561925,
+    "lon": 9.960229,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "quirky"
+    ],
+    "url": null,
+    "id": "hamburg_graffiti_hall_of_fame_bunker_red_flora"
+  },
+  {
+    "name": "Herbertstraße",
+    "lat": 53.5481056,
+    "lon": 9.9626359,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/St_Pauli_-_Herbertstra%C3%9Fe.jpg/1280px-St_Pauli_-_Herbertstra%C3%9Fe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Hamburg's first legal sex work is relegated to a gated street that still does not allow pedestrian women. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/sehenswuerdigkeiten/herbertstrasse/",
+    "id": "hamburg_herbertstrasse"
+  },
+  {
+    "name": "Townhall",
+    "lat": 53.5504312,
+    "lon": 9.9923335,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Hamburg_Rathausmarkt_und_Rathaus.jpg/1280px-Hamburg_Rathausmarkt_und_Rathaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/sehenswuerdigkeiten/hamburger-rathaus/",
+    "id": "hamburg_townhall"
+  },
+  {
+    "name": "Hamburger Kunsthalle",
+    "lat": 53.5555111,
+    "lon": 10.0025458,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hamburger_Kunsthalle.jpg/1280px-Hamburger_Kunsthalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.hamburger-kunsthalle.de/",
+    "id": "hamburg_hamburger_kunsthalle"
+  },
+  {
+    "name": "Deichtorhallen Hamburg",
+    "lat": 53.5470705,
+    "lon": 10.006862,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/DTH_Nordhalle.jpg/1280px-DTH_Nordhalle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "architecture"
+    ],
+    "url": "https://www.deichtorhallen.de/",
+    "id": "hamburg_deichtorhallen_hamburg"
+  },
+  {
+    "name": "Water Art Elbinsel Kaltehofe",
+    "lat": 53.524291,
+    "lon": 10.0525111,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Villa_Kaltehofe_1.jpg/1280px-Villa_Kaltehofe_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "nature"
+    ],
+    "url": "https://wasserkunst-hamburg.de/",
+    "id": "hamburg_water_art_elbinsel_kaltehofe"
+  },
+  {
+    "name": "Alsterarkaden",
+    "lat": 53.5520631,
+    "lon": 9.9928355,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Alsterarkaden_und_Kleine_Alster%2C_September_2022-L1000293.jpg/1280px-Alsterarkaden_und_Kleine_Alster%2C_September_2022-L1000293.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "architecture",
+      "shopping",
+      "landmark"
+    ],
+    "url": "https://www.hamburg-tourism.de/shoppen-geniessen/shoppen-in-hamburg/alsterarkaden/",
+    "id": "hamburg_alsterarkaden"
+  },
+  {
+    "name": "BallinStadt - Emigrant Museum Hamburg",
+    "lat": 53.520419,
+    "lon": 10.016919,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2015-06-07-BallinStadt-Hamburg.jpg/1280px-2015-06-07-BallinStadt-Hamburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://ballinstadt.de/",
+    "id": "hamburg_ballinstadt_emigrant_museum_hamburg"
+  },
+  {
+    "name": "Fischmarkt Hamburg Altona",
+    "lat": 53.545111,
+    "lon": 9.9529615,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Hamburg.Fischmarkt.wmt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "market",
+      "food",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/hamburg-maritim/fischmarkt/",
+    "id": "hamburg_fischmarkt_hamburg_altona"
+  },
+  {
+    "name": "Kunstverein in Hamburg",
+    "lat": 53.5484445,
+    "lon": 10.0065322,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Markthalle_Hamburg%2C_S%C3%BCdteil%2C_Kunstverein_Hamburg%2C_Freie_Akadamie_der_K%C3%BCnste-9114.jpg/1280px-Markthalle_Hamburg%2C_S%C3%BCdteil%2C_Kunstverein_Hamburg%2C_Freie_Akadamie_der_K%C3%BCnste-9114.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.kunstverein.de/",
+    "id": "hamburg_kunstverein_in_hamburg"
+  },
+  {
+    "name": "Golden Pudel Club",
+    "lat": 53.5462322,
+    "lon": 9.9578019,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Golden_Pudel_Club%2C_Hamburg_2014.jpg/1280px-Golden_Pudel_Club%2C_Hamburg_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://pudel.com/",
+    "id": "hamburg_golden_pudel_club"
+  },
+  {
+    "name": "Beatles-Platz",
+    "lat": 53.5497932,
+    "lon": 9.9572809,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Beatlesplatz.jpg/1280px-Beatlesplatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This red light district plaza memorializes the Fab Four and their historic connection to the area. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "music",
+      "historic"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/sehenswuerdigkeiten/beatles-platz/",
+    "id": "hamburg_beatles_platz"
+  },
+  {
+    "name": "Alter Elbtunnel",
+    "lat": 53.5458861,
+    "lon": 9.9665878,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Alter_Elbtunnel_%2C_Hamburg_%2C_An_den_Landungsbr%C3%BCcken.JPG/1280px-Alter_Elbtunnel_%2C_Hamburg_%2C_An_den_Landungsbr%C3%BCcken.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Hamburgers are intensely proud of their tunnel beneath the river. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture",
+      "quirky"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/hamburg-maritim/alter-elbtunnel/",
+    "id": "hamburg_alter_elbtunnel_2"
+  },
+  {
+    "name": "Shipwreck “Polstjernan“",
+    "lat": 53.5598434,
+    "lon": 9.786286,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Polstjernan_%28ship%2C_1920%29_01.jpg/1280px-Polstjernan_%28ship%2C_1920%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Remnants of an exploded schooner and wrecked submarines form a breakwater. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic",
+      "beaches"
+    ],
+    "url": null,
+    "id": "hamburg_shipwreck_polstjernan"
+  },
+  {
+    "name": "Schanzenviertel",
+    "lat": 53.5621469,
+    "lon": 9.9658095,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hh-schanze-susannen.jpg/1280px-Hh-schanze-susannen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "food",
+      "drinking"
+    ],
+    "url": "https://www.hamburg-tourism.de/sehen-erleben/sehenswuerdigkeiten/schanzenviertel/",
+    "id": "hamburg_schanzenviertel"
+  },
+  {
+    "name": "Karolinenviertel",
+    "lat": 53.5581963,
+    "lon": 9.9689308,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Karolinenviertel_Marktstr-126.jpg/1280px-Karolinenviertel_Marktstr-126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "shopping"
+    ],
+    "url": "https://www.hamburg-tourism.de/das-ist-hamburg/stadtteile/sternschanze-karoviertel/",
+    "id": "hamburg_karolinenviertel"
+  },
+  {
+    "name": "St. Catherine Church",
+    "lat": 53.5458815,
+    "lon": 9.9944468,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Hauptkirche_Sankt_Katharinen_%28Hamburg%29%2C_September_2022-1000264.jpg/1280px-Hauptkirche_Sankt_Katharinen_%28Hamburg%29%2C_September_2022-1000264.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Inside one of my favourite churches, St. Katharinen, there is a small piece of art that’s worth a lot of emotion. At least for me. It is the Cross of Nails from Coventry. It stands for understanding between nations – the reconciliation after horrible World War 2. The Cross is part of a worldwide network of more of 330 crosses. Most of them consist of 3 nails from the ruins of the destroyed cathedral of Coventry, which means that this small piece of art made its way from Coventry, which was heavily bombed by the German airforce that destroyed the Cathedral, to Germany as a sign of reconciliation and peace.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.katharinen-hamburg.de/",
+    "id": "hamburg_st_catherine_church"
+  }
+]
