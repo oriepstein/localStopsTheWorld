@@ -8655,7 +8655,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_the_painting_center"
@@ -8668,7 +8668,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_aperture"
@@ -8760,7 +8760,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious", "architecture"
     ],
     "url": "http://www.gts.edu",
     "id": "manhattan_the_general_theological_seminary"
