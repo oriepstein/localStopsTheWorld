@@ -724,23 +724,10 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_saturdays_nyc_crosby_st"
-  },
-  {
-    "name": "REI",
-    "lat": 40.724848,
-    "lon": -73.995208,
-    "imageURL": null,
-    "description": "has display of lithographs from the buildings original use",
-    "info": null,
-    "categories": [
-      "architecture"
-    ],
-    "url": null,
-    "id": "manhattan_rei"
   },
   {
     "name": "Courrèges",
@@ -792,7 +779,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_jeffrey_deitch"
@@ -3297,7 +3284,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_canal_plastics_center"
@@ -3722,8 +3709,7 @@
     "description": "every other tue, concerts by a master organist",
     "info": null,
     "categories": [
-      "religious",
-      "theater"
+      "religious"
     ],
     "url": "http://www.centralsynagogue.org",
     "id": "manhattan_central_synagogue"
@@ -3790,7 +3776,6 @@
     "description": "The Four Seasons Hotel New York stands out as the only hotel in the Western Hemisphere designed by I.M. Pei. With walls made of the same honey-colored French limestone Mr. Pei used at The Louvre, the 33-foot soaring lobby ceiling of the 52-story hotel resonates with the height of the building’s surrounding skyscrapers. One flight up from the street is the lobby’s rotunda, which is circled by eight pillars that accent a suspended, backlit onyx ceiling.",
     "info": null,
     "categories": [
-      "architecture",
       "architecture"
     ],
     "url": "http://www.fourseasons.com/newyork",
@@ -3817,7 +3802,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "http://www.acfny.org/",
     "id": "manhattan_austrian_cultural_forum_new_york"
@@ -4122,7 +4107,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": "https://54below.com",
     "id": "manhattan_54_below"
@@ -4135,7 +4120,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_christie_s_new_york"
@@ -4604,7 +4589,7 @@
     "description": "NYC's oldest working magic shop, started by Louis Tannen in 1925. It's hidden upstairs in an office building (Suite 608, 45 W 34th St), so don't look for a storefront. They've also run a summer camp for young magicians since 1974.",
     "info": null,
     "categories": [
-      "landmark"
+      "quirky"
     ],
     "url": "https://www.tannens.com/",
     "id": "manhattan_tannen_s_magic"
