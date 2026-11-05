@@ -205,7 +205,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_teatro_sea"
@@ -218,7 +218,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "https://www.theclementecenter.org/",
     "id": "manhattan_the_clemente_soto_v_lez_cultural_educational_center"
@@ -244,7 +244,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "cinema"
     ],
     "url": "http://metrograph.com",
     "id": "manhattan_metrograph"
@@ -925,7 +925,8 @@
     "description": "thursday night open mic",
     "info": null,
     "categories": [
-      "architecture"
+      "music",
+"shopping"
     ],
     "url": null,
     "id": "manhattan_music_inn_world_instruments"
@@ -1068,7 +1069,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_casa_magazines"
@@ -1094,8 +1095,6 @@
     "description": "art gallery that consists entirely of a storefront window",
     "info": null,
     "categories": [
-      "art",
-      "shopping",
       "art"
     ],
     "url": null,
