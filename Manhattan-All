@@ -10895,19 +10895,6 @@
     "id": "manhattan_urban_archaeology"
   },
   {
-    "name": "Playing Mantis",
-    "lat": 40.71974,
-    "lon": -74.00757,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_playing_mantis"
-  },
-  {
     "name": "Pier 26 at Hudson River Park",
     "lat": 40.721142,
     "lon": -74.013085,
@@ -10942,7 +10929,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_bortolami"
