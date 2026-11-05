@@ -319,19 +319,6 @@
     "id": "manhattan_perrotin_new_york"
   },
   {
-    "name": "Alexander DiJulio",
-    "lat": 40.7139,
-    "lon": -73.989328,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_alexander_dijulio"
-  },
-  {
     "name": "56 HENRY",
     "lat": 40.712735,
     "lon": -73.995165,
@@ -1455,19 +1442,6 @@
     "id": "manhattan_ochre_showroom"
   },
   {
-    "name": "247365",
-    "lat": 40.721839,
-    "lon": -73.9903,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_247365"
-  },
-  {
     "name": "Hannah Traore Gallery",
     "lat": 40.720674,
     "lon": -73.98874,
@@ -1518,19 +1492,6 @@
     ],
     "url": null,
     "id": "manhattan_live_in_theater_productions"
-  },
-  {
-    "name": "Top Hat",
-    "lat": 40.717773,
-    "lon": -73.989768,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_top_hat"
   },
   {
     "name": "bitforms gallery",
@@ -1810,19 +1771,6 @@
     ],
     "url": null,
     "id": "manhattan_monday_night_magic"
-  },
-  {
-    "name": "Out of the Box Theatrics",
-    "lat": 40.73258,
-    "lon": -74.008184,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_out_of_the_box_theatrics"
   },
   {
     "name": "Mister Fahrenheit",
@@ -2259,19 +2207,6 @@
     ],
     "url": null,
     "id": "manhattan_pacific_aquarium_plant"
-  },
-  {
-    "name": "Saved NY",
-    "lat": 40.738649,
-    "lon": -74.004168,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_saved_ny"
   },
   {
     "name": "Global Table",
@@ -3144,19 +3079,6 @@
     ],
     "url": null,
     "id": "manhattan_city_lore"
-  },
-  {
-    "name": "East Village Postal",
-    "lat": 40.728534,
-    "lon": -73.98498,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_east_village_postal"
   },
   {
     "name": "Karma",
