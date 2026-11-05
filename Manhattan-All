@@ -6313,17 +6313,17 @@
     "id": "manhattan_locomotive_lawn"
   },
   {
-    "name": "Time Warner Center",
+    "name": "Deutsche Bank Center",
     "lat": 40.768507,
     "lon": -73.983135,
     "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Time_Warner_Center_Blue_Yellow_Holiday_Lights_%28137486827%29.jpeg/1280px-Time_Warner_Center_Blue_Yellow_Holiday_Lights_%28137486827%29.jpeg",
-    "description": "Two large-scale sculptures of Adam and Eve greet visitors in the nude at the Time Warner Center in NYC.",
+    "description": "Two large-scale sculptures of Adam and Eve greet visitors in the nude at the Deutsche Bank Center in NYC.",
     "info": null,
     "categories": [
       "art"
     ],
     "url": null,
-    "id": "manhattan_time_warner_center"
+    "id": "manhattan_Deutsche_Bank_Center"
   },
   {
     "name": "William J. Syms Operating Theatre",
@@ -8558,13 +8558,13 @@
   },
   {
     "name": "The Missing Link",
-    "lat": 40.743756,
-    "lon": -73.991149,
+    "lat": 40.74334,
+    "lon": -73.98925,
     "imageURL": null,
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_missing_link"
@@ -8642,7 +8642,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_printed_matter_inc"
