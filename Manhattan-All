@@ -864,19 +864,6 @@
     "id": "manhattan_time_landscape"
   },
   {
-    "name": "The Evolution Store",
-    "lat": 40.728138,
-    "lon": -73.9948,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "shopping"
-    ],
-    "url": null,
-    "id": "manhattan_the_evolution_store"
-  },
-  {
     "name": "Fales Library",
     "lat": 40.729432,
     "lon": -73.99719,
@@ -3786,7 +3773,7 @@
     "description": "old pepsico building \"It never fails to give me chill bumps. It’s way better than the Lever Building down the road. There is not a bit of fat in the building, and its windows are perfectly proportioned. To me, it reflects peak modernism, peak power, peak New York\"",
     "info": null,
     "categories": [
-      "park",
+      "landmark",
       "architecture"
     ],
     "url": null,
