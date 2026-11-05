@@ -20,7 +20,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": "http://www.dixonplace.org",
     "id": "manhattan_dixon_place"
@@ -153,7 +153,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_caveat"
@@ -313,7 +313,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_perrotin_new_york"
@@ -339,7 +339,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_biggies_bodega"
@@ -417,9 +417,7 @@
     "description": "The organization for coin lovers was established back in 1858. In 1908 the numismatics were gifted land at 155th and Broadway, on which they constructed their first building, which had doubled in size by 1929. In 2008 the Society moved to their new HQ in SoHo, from which they offer public conferences, lectures, exhibitions, a Graduate Seminar in Numismatics, and a variety of fellowships and grants. The museums’ collection include a staggering 800,000 coins, paper money, and related objects—from Ancient Greek and Far Eastern coins, to series from the Colonial and Federal United States, to more than 50,000 medals from around the world. The society’s research library includes 100,000 books, and is the most comprehensive collection of numismatic literature in existence.",
     "info": null,
     "categories": [
-      "museum",
-      "bookstore",
-      "drinking"
+      "museum"
     ],
     "url": "http://www.numismatics.org",
     "id": "manhattan_american_numismatic_society"
@@ -539,7 +537,7 @@
     "description": "one of the best & best preserved examples of Federal style whose exquisitely detailed entrances with original doors and leaded glass sidelights convey many of the style’s most distinctive qualities",
     "info": null,
     "categories": [
-      "food"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_39_charlton_st"
@@ -552,7 +550,7 @@
     "description": "one of the best & best preserved examples of Federal style whose exquisitely detailed entrances with original doors and leaded glass sidelights convey many of the style’s most distinctive qualities",
     "info": null,
     "categories": [
-      "food"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_37_charlton_st"
@@ -578,7 +576,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_thompson_chemists"
@@ -604,7 +602,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_here"
@@ -643,7 +641,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_performing_garage"
@@ -670,7 +668,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "cinema"
     ],
     "url": "https://filmforum.org/",
     "id": "manhattan_film_forum"
@@ -858,7 +856,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_sullivan_street_tea_spice_company"
@@ -1017,7 +1015,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "art"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_pearl_river_mart"
@@ -1121,7 +1119,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_three_lives_company"
@@ -1186,7 +1184,8 @@
     "description": "",
     "info": null,
     "categories": [
-      "food"
+      "drinking",
+      "music"
     ],
     "url": null,
     "id": "manhattan_marie_s_crisis_caf"
@@ -1225,7 +1224,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "https://salmagundi.org/",
     "id": "manhattan_salmagundi_club"
@@ -1251,7 +1250,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": "https://www.chessforum.com/",
     "id": "manhattan_chess_forum"
@@ -1290,7 +1289,6 @@
     "description": "NYU art \"gallery\" - rotating art exhibits displayed in windows viewable from street",
     "info": null,
     "categories": [
-      "art",
       "art"
     ],
     "url": null,
@@ -1318,7 +1316,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_gothic_renaissance"
@@ -1396,7 +1394,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_alchemists_kitchen"
@@ -1422,7 +1420,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_ochre_showroom"
@@ -1501,8 +1499,7 @@
     "info": null,
     "categories": [
       "art",
-      "drinking",
-      "art"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_fig_19"
@@ -1515,7 +1512,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_white_box"
@@ -1528,7 +1525,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_kamwo_herbal_pharmacy"
@@ -1541,7 +1538,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_malaysia_beef_jerky"
@@ -1554,7 +1551,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_piemonte_ravioli"
@@ -1582,7 +1579,7 @@
     "description": "A park floating over the Hudson on 132 giant concrete \"tulips,\" each one made upstate and floated down the river by barge. The pots stand at different heights (15 to 62 feet above the water), so the park rises and dips like a leaf. It nearly got scrapped in 2017 after lawsuits but opened in 2021, with lawns, winding paths and a 687-seat amphitheater.",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": "https://littleisland.org",
     "id": "manhattan_little_island"
@@ -1634,7 +1631,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "food"
+      "cinema"
     ],
     "url": "http://www.angelikafilmcenter.com",
     "id": "manhattan_angelika_film_center_cafe_new_york"
@@ -1647,7 +1644,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_adore_floral_inc"
@@ -1660,7 +1657,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_la_mama_galleria"
@@ -1673,7 +1670,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_the_hole"
@@ -1687,8 +1684,7 @@
     "info": null,
     "categories": [
       "art",
-      "landmark",
-      "art"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_the_renee_and_chaim_gross_foundation"
@@ -1714,7 +1710,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_hudson_river_greenway"
@@ -1740,7 +1736,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": "http://www.murrayscheese.com/",
     "id": "manhattan_murray_s_cheese"
@@ -1753,7 +1749,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_monday_night_magic"
@@ -1779,7 +1775,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_mcnulty_s_tea_coffee_co"
@@ -1805,7 +1801,7 @@
     "description": "NYC's oldest jazz club still going, open since 1935 in a triangle-shaped basement that used to be a speakeasy. It started out with folk singers and poetry and only went all-jazz in 1957. Coltrane, Bill Evans and Sonny Rollins all recorded legendary live albums down here. The house big band has played Monday nights since 1966.",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": "http://www.villagevanguard.com",
     "id": "manhattan_village_vanguard"
@@ -1857,7 +1853,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "cafe"
     ],
     "url": null,
     "id": "manhattan_tea_sympathy"
@@ -1910,7 +1906,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_stick_with_me"
@@ -1962,8 +1958,7 @@
     "description": "the original Whitney museum. there are monthly public tours of the building",
     "info": null,
     "categories": [
-      "museum",
-      "drinking",
+      "art",
       "architecture"
     ],
     "url": null,
@@ -1977,7 +1972,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_c_o_bigelow_chemists"
@@ -2044,7 +2039,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_the_stone"
@@ -2096,7 +2091,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_stick_stone_bone"
@@ -2136,7 +2131,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_extra_butter"
@@ -2189,7 +2184,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_pacific_aquarium_plant"
@@ -2215,7 +2210,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_forbidden_planet"
@@ -2335,7 +2330,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_milton_resnick_and_pat_passlof_foundation"
@@ -2586,7 +2581,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "cinema"
     ],
     "url": "https://www.anthologyfilmarchives.org/",
     "id": "manhattan_anthology_film_archives"
@@ -2612,7 +2607,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_toy_tokyo"
@@ -2652,7 +2647,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_the_red_room_at_kgb"
@@ -2665,7 +2660,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_resobox_east_village"
@@ -2678,7 +2673,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_village_works"
@@ -2705,7 +2700,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": "http://www.trashandvaudeville.com/",
     "id": "manhattan_trash_and_vaudeville"
@@ -2718,7 +2713,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_the_brant_foundation"
@@ -2757,7 +2752,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_parque_de_tranquilidad"
@@ -2783,7 +2778,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "food"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_nuyorican_poets_cafe"
@@ -2796,7 +2791,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_2b_2c_the_ken_cro_ken_memorial_foundation"
@@ -2891,7 +2886,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_enchantments"
@@ -2917,7 +2912,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_sos_chefs"
@@ -2956,7 +2951,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_wild_project"
@@ -2969,7 +2964,7 @@
     "description": "by appointment only",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_the_herb_lubalin_study_center_of_design_typography"
@@ -2995,7 +2990,6 @@
     "description": "Much of New York City’s boom-period performance topography has been demolished and snazzified—CBGB is a fancy shoe shop now, and House of Candles is a restaurant. But La Mama, founded in 1961, seems only busier, brighter, and stronger: what was once Ellen Stewart’s performance “club” (so-called to get around uptight municipal rules) has grown into a beautiful, Escheresque complex on East Fourth Street. One day, standing in the lobby, a door I had never noticed opened, and I saw into Narnia: the theatre’s overflowing, maze-like treasury—a stunning fifty-year archive that includes pearl-draped costumes, enormous wooden-jointed puppets, letters from theatre royalty, set pieces from the city’s experimental heyday. La MaMa’s founding archivist, the much beloved Ozzie Rodriguez, passed away this July, but his long stewardship of the city’s performance history lives on—and, unlike Narnia, his magic kingdom is available to anyone who makes an appointment",
     "info": null,
     "categories": [
-      "food",
       "theater"
     ],
     "url": "http://lamama.org",
@@ -3022,7 +3016,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_john_derian_company_inc"
@@ -3061,7 +3055,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_city_lore"
@@ -3074,7 +3068,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_karma"
@@ -3100,7 +3094,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_swiss_institute"
@@ -3113,7 +3107,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_fabulous_fanny_s"
@@ -3139,7 +3133,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": "http://huc.edu/",
     "id": "manhattan_hebrew_union_college_jewish_institute_of_religion"
@@ -3152,7 +3146,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_stock_vintage"
@@ -3178,7 +3172,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_bowery_poetry_club"
@@ -3231,7 +3225,7 @@
     "description": "similar to broadway windows",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_80wse"
@@ -3244,7 +3238,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_124_old_rabbit_club"
@@ -3296,7 +3290,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_goods_for_the_study"
@@ -3309,7 +3303,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_flower_power_herbs_roots"
@@ -3322,7 +3316,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_random_accessories"
@@ -3335,7 +3329,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_niconeco_zakkaya"
@@ -3348,7 +3342,6 @@
     "description": "A volunteer, collectively run performance space for women and/or trans and/or non-binary artists.",
     "info": null,
     "categories": [
-      "food",
       "theater",
       "art"
     ],
@@ -3415,7 +3408,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_tomi_jazz"
@@ -3655,7 +3648,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_phillips"
@@ -3841,7 +3834,6 @@
     "description": "garden",
     "info": null,
     "categories": [
-      "park",
       "religious"
     ],
     "url": null,
@@ -3855,7 +3847,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_dag_hammarskj_ld_plaza"
@@ -3881,7 +3873,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_tudor_city_greens"
@@ -3922,7 +3914,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_red_caboose"
@@ -3974,7 +3966,7 @@
     "description": "Though the case is scorched and the buttons half-melted, this hardy handheld gaming device can still run a game of Tetris.",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": "https://www.nintendo.com/new-york/",
     "id": "manhattan_nintendo"
@@ -4041,7 +4033,7 @@
     "description": "A pedestrian island in the middle of world-famous Times Square emits a strange (and purposeful) humming noise.",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_max_neuhaus_times_square"
@@ -4067,7 +4059,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_delphinium_home"
@@ -4080,7 +4072,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_olde_good_things"
@@ -4240,7 +4232,7 @@
     "description": "first friday of every month they have wine & cheese receptions",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_modulightor_inc"
@@ -4306,7 +4298,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_microsoft_experience_center"
@@ -4413,7 +4405,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_riseny"
@@ -4561,7 +4553,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_lantern_s_keep"
@@ -4601,7 +4593,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "bookstore"
     ],
     "url": null,
     "id": "manhattan_bookmarks"
@@ -4681,7 +4673,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_hecht_sewing_machine_motor"
@@ -4720,7 +4712,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_the_tank"
@@ -4746,7 +4738,6 @@
     "description": "tiny Nikola Tesla museum in basement",
     "info": null,
     "categories": [
-      "museum",
       "architecture"
     ],
     "url": "http://www.newyorkerhotel.com",
@@ -4760,7 +4751,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_the_horticultural_society_of_new_york"
@@ -4786,7 +4777,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_the_feather_place_nyc"
@@ -4852,7 +4843,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_amateur_comedy_club"
@@ -4878,7 +4869,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_the_rum_house"
@@ -4891,7 +4882,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_bergdorf_goodman"
@@ -4904,7 +4895,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_bucherer_timemachine"
@@ -4931,8 +4922,7 @@
     "info": null,
     "categories": [
       "art",
-      "architecture",
-      "art"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_american_indian_community_house"
@@ -4958,7 +4948,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_efa_project_space"
@@ -5012,7 +5002,7 @@
     "description": "*The* pitstop for chefs and construction workers, there’s always something fun for civilians in this place. In Tribeca since 1938.",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_ok_uniform_co"
@@ -5039,9 +5029,7 @@
     "description": "This lavish room at NYC's French Embassy is a rare relic from the end of the Gilded Age. THIS GEM OF A ROOM at the French Embassy in New York City feels as though you’ve landed in a Venetian palace. Mirrored panels lining the walls reflect 18th-century European furnishings and beautiful artwork. Delicate porcelain flowers sprout within intricately entwined metal latticework. A floral timepiece crowns the milky white fireplace. The embassy’s Venetian Room is a rare surviving piece of New York’s Gilded Age. The lavish display, which was created in 1906, was finished by famous architect Stanford White less than a year before he was murdered. White spent years traveling to Europe to hunt for inspiration and decor to turn his vision into a reality. The room was commissioned in 1902 by a businessman named Oliver Payne, as a wedding gift for his nephew. It was constructed in the former Payne Whitney Mansion, which now houses the Cultural Services of the French Embassy. The luxurious room was dismantled in 1948 and remained tucked away in storage until 1997, when it was donated to the French-American Foundation and reinstalled in its original place. The gorgeous Gilded Age room was recently restored and spent months hidden from view as it was buffed, scrubbed, and returned to its original grandeur. It reopened to the public in June of 2018. Now, anyone can stop to catch a glimpse of the century-old reception room while passing through the embassy’s lobby on their way to Albertine, its celestial-ceilinged bookstore.",
     "info": null,
     "categories": [
-      "landmark",
-      "bookstore",
-      "food"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_venetian_room"
@@ -5109,7 +5097,7 @@
     "description": "Storage warehouse of the rich and famous.",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": "http://dayandmeyer.com/homepage.htm",
     "id": "manhattan_day_meyer_murray_young_corp"
@@ -5137,7 +5125,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "http://www.societyillustrators.org",
     "id": "manhattan_society_of_illustrators"
@@ -5222,7 +5210,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_gracie_mansion_conservancy"
@@ -5249,7 +5237,6 @@
     "info": null,
     "categories": [
       "museum",
-      "art",
       "art"
     ],
     "url": "https://www.neuegalerie.org/",
@@ -5277,7 +5264,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_di_donna"
@@ -5346,7 +5333,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_the_american_irish_historical_society"
@@ -5359,7 +5346,7 @@
     "description": "Roosevelt House — the former double townhouse of Franklin, Eleanor and Sara Delano Roosevelt, and now owned by Hunter College — offers visitors a chance to get closer to a family as unique as the city they inhabited, and to explore the private spaces where some of the most iconic public policy of the 20th century was shaped. tours for individuals on saturday",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_roosevelt_house_public_policy_institute_at_hunter_college"
@@ -5467,7 +5454,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "http://isaw.nyu.edu/",
     "id": "manhattan_institute_for_the_study_of_the_ancient_world"
@@ -5480,7 +5467,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_tiny_doll_house"
@@ -5507,7 +5494,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_john_finley_walk"
@@ -5520,7 +5507,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "https://www.sothebys.com/",
     "id": "manhattan_sotheby_s_new_york"
@@ -5575,7 +5562,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_creel_and_gow"
@@ -5616,7 +5603,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_acquavella"
@@ -5853,8 +5840,7 @@
     "info": null,
     "categories": [
       "art",
-      "architecture",
-      "art"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_graffiti_hall_of_fame"
@@ -5867,7 +5853,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_saint_cecilia_s_parish"
@@ -6065,7 +6051,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_the_africa_center"
@@ -6144,7 +6130,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_community_meditation_center"
@@ -6305,9 +6291,7 @@
     "description": "This diesel train serviced the Brooklyn waterfront for more than three decades. Built on the former site of the New York Central Railroad’s 60th Street Yard, Riverside Park South was once the primary import, export and classification area for Manhattan’s sole all-freight train line for over a century. At this yard, the New York Central Railroad operated bulk cargo piers and transfer bridges, including the extant 69th Street Transfer Bridge and gantry. Though the rail yard is no longer active, the landscape architecture of Riverside Park South reflects its history, including an authentic locomotive stationed in the park. Visit the newly-renovated train while learning about the rail history of Manhattan’s West Side from staff from the Riverside Park Conservancy. One of the unique features of Riverside Park South is a historic train locomotive — a literal reminder of the site’s history as a former train yard. No. 25 is a 60-year-old, 95-ton engine that most recently labored on the Brooklyn waterfront. Now in its retirement, it is the centerpiece of a plaza at 62nd Street, and a play destination for young and old alike.",
     "info": null,
     "categories": [
-      "park",
-      "landmark",
-      "theater"
+      "park"
     ],
     "url": null,
     "id": "manhattan_locomotive_lawn"
@@ -6320,7 +6304,8 @@
     "description": "Two large-scale sculptures of Adam and Eve greet visitors in the nude at the Deutsche Bank Center in NYC.",
     "info": null,
     "categories": [
-      "art"
+      "shopping",
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_Deutsche_Bank_Center"
@@ -6413,7 +6398,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_smoke_jazz_supper_club"
@@ -6452,7 +6437,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_grand_bazaar_nyc"
@@ -6478,7 +6463,6 @@
     "description": "used to be Levelrs Club, america's first Masonic hotel, and building is dripping with freemason symbolism. well-preserved ornate lobby",
     "info": null,
     "categories": [
-      "architecture",
       "architecture"
     ],
     "url": null,
@@ -6505,7 +6489,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_jupiter_symphony"
@@ -6585,7 +6569,7 @@
     "description": "NYC scenic landmark",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_verdi_square"
@@ -6665,7 +6649,7 @@
     "description": "This giant boulder is sandwiched between apartment complexes in upper Manhattan.",
     "info": null,
     "categories": [
-      "art"
+      "park"
     ],
     "url": null,
     "id": "manhattan_rat_rock"
@@ -6731,8 +6715,7 @@
     "info": null,
     "categories": [
       "art",
-      "architecture",
-      "art"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_arthur_ross_architecture_gallery_columbia_gsapp"
@@ -6745,7 +6728,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": "http://www.postcrypt.org",
     "id": "manhattan_postcrypt_coffeehouse"
@@ -6839,7 +6822,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_the_baylander"
@@ -6852,7 +6835,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_cherry_walk"
@@ -6962,7 +6945,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_silvana"
@@ -6975,7 +6958,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_minton_s_playhouse"
@@ -6988,7 +6971,6 @@
     "description": "",
     "info": null,
     "categories": [
-      "art",
       "art"
     ],
     "url": null,
@@ -7055,7 +7037,7 @@
     "description": "The only home that Alexander Hamilton ever owned has a history almost as troubled as his own.",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "https://www.nps.gov/hagr/index.htm",
     "id": "manhattan_hamilton_grange_national_memorial"
@@ -7081,7 +7063,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_american_legion_post_398"
@@ -7137,7 +7119,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_shrine"
@@ -7270,7 +7252,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_flamekeepers_hat_club"
@@ -7351,7 +7333,7 @@
     "description": "The highest point on Manhattan Island was, unsurprisingly, also the site of Fort Washington, a Revolutionary War fort. Nothing remains of it; the spot, now surrounded by apartment buildings, instead holds Bennett Park today, named for news paper publisher James Gordon Bennett, Sr. because he happened to own this land when he died in 1872. A decorative cannon still adorning the park is a stern reminder of the day, November 16, 1776, when the fort fell into British hands. And nearby, to commemorate the bicentennial of Washington’s birth in 1732, grows an American elm, planted in 1932",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_bennett_park"
@@ -7421,9 +7403,7 @@
     "description": "Surrounded by low rise buildings and partially converted into an auto body shop, this marble archway is the only vestige of a forgotten Manhattan estate.",
     "info": null,
     "categories": [
-      "shopping",
-      "architecture",
-      "art"
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_seaman_drake_arch"
@@ -7516,7 +7496,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "music"
     ],
     "url": null,
     "id": "manhattan_marjorie_eliot_s_parlor_entertainment_harlem"
@@ -7529,7 +7509,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_swindler_cove"
@@ -7595,7 +7575,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_inwood_canoe_club"
@@ -7634,7 +7614,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "food"
     ],
     "url": null,
     "id": "manhattan_moscow_on_the_hudson"
@@ -7689,7 +7669,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "https://theshabazzcenter.org/",
     "id": "manhattan_the_malcolm_x_dr_betty_shabazz_memorial_and_educational_center"
@@ -7913,7 +7893,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "cinema"
     ],
     "url": "https://www.maysles.org/",
     "id": "manhattan_maysles_documentary_center"
@@ -7926,7 +7906,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_la_casa_de_las_velas"
@@ -7992,7 +7972,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "market"
     ],
     "url": null,
     "id": "manhattan_la_marqueta"
@@ -8018,7 +7998,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_masjid_malcolm_shabazz"
@@ -8072,9 +8052,7 @@
     "description": "he Apollo Stages at the Victoria Theater marks the first physical expansion in the Apollo’s 90-year history. Featuring two flexible, state-of-the-art black box theaters, gathering spaces, exhibition space, and administrative offices all within what was Lowe’s Victoria Theater (designed by architect Thomas Lamb and opened in 1918), The Apollo Stages at the Victoria Theater advances the non-profit organization’s mission to support emerging and established artists of color across disciplines, and further solidifies it as an artistic, educational, and civic resource and cultural anchor within the community. The two purpose-built theaters have a custom built, retractable seating system to allow for multiple configurations. With a flexible 199-seat and 99-seat capacity, the performance spaces are designed to accommodate both traditional and non-traditional stagings. Several detail portions of the historic Victoria Theater were preserved and have been restored, including its original terra cotta façade, the grand staircase in the ornate entrance lobby, detailed tile floors, and marquee, which have been incorporated into the new design in order to honor its significance in Harlem’s history.",
     "info": null,
     "categories": [
-      "landmark",
-      "food",
-      "shopping"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_the_victoria_theater_restaurant"
@@ -8100,9 +8078,8 @@
     "description": "The 1857 tower, the last of its kind and one of the oldest standalone cast-iron structures in an urban context was designated a New York City Landmark in 1967 and was listed on the National Register of Historic Places in 1976. While the fire tower network, which at its peak included 11 towers, fell into disuse in the 1870s, the bell atop the Mount Morris tower continued to sound for timekeeping and churchgoing purposes until about 1909. In 2000, architect and preservationist Angel Ayón, Principal of AYON Studio, began and continued advising stakeholders, including the Mt. Morris Park Community Improvement Association and the Marcus Garvey Park Alliance, in their campaign to save the tower. As a result of their collective advocacy, the tower’s rehabilitation was completed by the City.",
     "info": null,
     "categories": [
-      "park",
       "landmark",
-      "religious"
+      "park"
     ],
     "url": null,
     "id": "manhattan_mount_morris_fire_watchtower"
@@ -8128,7 +8105,7 @@
     "description": "The most confusing clock in New York.",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_union_square_metronome"
@@ -8181,7 +8158,7 @@
     "description": "The rough and tumble president's childhood home displays the shirt he was once shot in and the speech that saved him.",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "https://www.nps.gov/thrb/index.htm",
     "id": "manhattan_theodore_roosevelt_birthplace_national_historic_site"
@@ -8324,7 +8301,7 @@
     "description": "A small part of lower Manhattan is actually made from a bit of England.",
     "info": null,
     "categories": [
-      "art"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_bristol_basin"
@@ -8391,7 +8368,7 @@
     "description": "Spice heaven since 1944, now with over 10,000 foods from 80+ countries. It opened when this block was Little Armenia, and when Indian immigrants arrived in the '60s and '70s the area got nicknamed \"Curry Hill.\" The building has history too: Chester A. Arthur was sworn in as president upstairs. There's a café on the 2nd floor.",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_kalustyan_s"
@@ -8511,7 +8488,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_sony_square_nyc"
@@ -8537,7 +8514,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_porcelanosa_new_york"
@@ -8603,7 +8580,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_m_j_trimming"
@@ -8773,7 +8750,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_kurimanzutto_new_york"
@@ -8851,7 +8828,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_casey_kaplan_inc"
@@ -8864,7 +8841,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_pippin_vintage_jewelry"
@@ -8877,7 +8854,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_ace_banner_flag_co"
@@ -8903,7 +8880,7 @@
     "description": "Nikola Tesla's former home contains an homage hidden from plain sight.",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_patent_pending"
@@ -8916,7 +8893,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_filson"
@@ -8929,7 +8906,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_spin_new_york_flatiron"
@@ -8942,7 +8919,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_fishs_eddy"
@@ -8955,7 +8932,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": "https://www.the8thfloor.org",
     "id": "manhattan_the_8th_floor"
@@ -8981,7 +8958,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_yeshe_nyingpo_nyc"
@@ -8994,7 +8971,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_abracadabra"
@@ -9007,7 +8984,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_the_flatiron_room_nomad"
@@ -9020,7 +8997,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_henry_westpfal_co_inc"
@@ -9033,7 +9010,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_kadampa_meditation_center_new_york_city"
@@ -9085,7 +9062,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": "https://thus.org/",
     "id": "manhattan_tibet_house_us_nyc"
@@ -9164,7 +9141,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_abc_carpet_home"
@@ -9203,7 +9180,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "theater"
     ],
     "url": null,
     "id": "manhattan_the_stand_nyc"
@@ -9216,7 +9193,7 @@
     "description": "Nestled in history-steeped Gramercy Park, the National Arts Club is a home for the arts in the heart of New York City. Since 1906, the Club has been based in the Samuel Tilden Mansion, a national historic landmark and beautifully preserved example of Victorian Gothic residential architecture. Today, the National Arts Club operates as a 501(c)(3) nonprofit and offers more than 150 free programs to the public, including exhibitions, theatrical and musical performances, lectures, and readings, attracting an audience of over 25,000 New Yorkers and visitors alike. Featured programs focus on all disciplines of the arts.",
     "info": null,
     "categories": [
-      "park",
+      "art",
       "landmark"
     ],
     "url": "https://www.nationalartsclub.org/",
@@ -9230,7 +9207,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_aronson_s_floor_covering"
@@ -9256,7 +9233,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "http://www.cjh.org/",
     "id": "manhattan_center_for_jewish_history"
@@ -9295,7 +9272,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": null,
     "id": "manhattan_the_burns_archive"
@@ -9347,7 +9324,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_city_papery"
@@ -9360,7 +9337,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_ny_cake"
@@ -9373,7 +9350,7 @@
     "description": "When Morris and Sam Schmalberg entered the flower business in 1916, the New York City Garment District produced most women’s and children’s fashion apparel in the United States. By the 1940s, dozens of “flower guys” were manufacturing fabric flowers. Today, M&S Schmalberg is the last of its kind in America, surviving as a domestic factory in a world dominated by imported goods. The company has evolved to focus on specialty custom fabric flower projects for couture fashion designers, milliners, and costume designers.",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_m_s_schmalberg_1"
@@ -9401,7 +9378,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_print_center_new_york"
@@ -9427,7 +9404,7 @@
     "description": "Located atop the Friend Seminary‘s 16th Street campus, James Turrell’s Leading (2023) is a meeting room in the sky—a spiritual space for silence and contemplation and a physical manifestation of the K-12 Quaker school’s mission. One of more than eighty-five Skyspaces—but the only one attached to a K-12 school—Leading is a specifically proportioned chamber where viewers have a unique and personal experience of the sky through a knife-edged aperture in the roof. A softly lit interior combined with the changing light of the sky above provides a dramatic experience for the viewer. Benches line the perimeter of the enclosed space, and LED lights, which surround the aperture inside and outside the chamber, shift colors to affect the viewer’s perception of the sky. Based on the science of how humans perceive light, the individual experience is the actual work itself.",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": "http://www.friendsseminary.org",
     "id": "manhattan_friends_seminary"
@@ -9509,9 +9486,8 @@
     "description": "MOST VISITORS TO BOWLING GREEN today come to see Arturo Di Modica’s imposing Charging Bull sculpture. But unnoticed in the background of their photographs is one of New York Cities most enduring and historically important landmarks: its oldest fence. Made of wrought iron, the historic barrier was installed around Bowling Green in 1771. The history of Bowling Green itself goes back to the beginnings of the New Amsterdam colony. Situated across from the original Dutch fort it was originally used as a cattle market and parade ground, it was located at the foot of the old American Indian path which would eventually become Broadway. On March 12th, 1733 the market place was leased to three gentleman landowners for a sum of one peppercorn a year, and the ground was turned into New York’s first public park. Named Bowling Green for the sporting arena that it contained, it was designed for the “beauty and ornament…as well as for the Recreation and Delight of the inhabitants of this city.” But the idyllic tranquility of Bowling Green would turn to mob violence in 1776. Six years earlier the British government had installed a giant statue of King George III. Weighing over 4,000 pounds it was built to celebrate the victory over the French in the Seven Years War. As relations between Britain and her colonies steadily deteriorated the statue became a focal point for anti-English protests. To combat the increasing threat of vandalism a wrought iron fence was installed to protect the monarch in 1771. On July 9th, 1776, the Declaration of Independence was read out to Washington’s troops stationed by City Hall. A mob from the Sons of Liberty rushed to Bowling Green and immediately attacked and toppled the statue of George III. Legend has it that the statue was shipped up to a foundry in Connecticut where the likeness of George III was turned into musket balls to be used against his red-coated army. Partial remains of the statue can still be found in the Museum of the City of New York. Today Bowling Green still holds its place in history as the first public park in the City. Where once King George III looked up towards Broadway as his subjects played the gentle game of Crown Bowls in the park, there is now a fountain. Surrounded by the imposing buildings of the Alexander Hamilton customs house, the old Standard Oil headquarters and the shipping offices of Cunard and the Panama-Pacific Ocean liners, it’s a popular spot for tourists. New York’s oldest fence which once protected a king is still there though, and on closer inspection still bears the scars of that day of violence in 1776. See the fence posts were once decorated with royal crowns but on July 9th, the Sons of Liberty cut them off and the saw marks are still visible today.",
     "info": null,
     "categories": [
-      "museum",
-      "park",
-      "landmark"
+      "landmark",
+      "park"
     ],
     "url": null,
     "id": "manhattan_oldest_fence_in_nyc"
@@ -9524,8 +9500,6 @@
     "description": "Standard Oil Building - This curved Manhattan building was built to house the opulence of John D. Rockefeller's oil empire. The interior was no less opulent, with the main lobby resembling a cathedral’s apse, covered in marble and gilded chandeliers, the doorways enshrined with notable names from the company’s past, the gleaming elevator cars monogramed SO.",
     "info": null,
     "categories": [
-      "religious",
-      "food",
       "architecture"
     ],
     "url": "http://www.26broadway.com/",
@@ -9566,9 +9540,7 @@
     "description": "NOW AN ANONYMOUS CONDOMINIUM, THE building stands on a site of one of the financial building blocks of New York City, and one of its greatest shames: the sale and trade of enslaved people. In 1626, 11 captives from Congo, Angola, and the island of Sao Tome were brought to New Amsterdam. Over the next 150 years, the New York slave trade grew to be one of the most essential cogs in the triangle trade. Seventy-four Wall Street, on the lot bounded by Water and Pearl Streets, is the most widely accepted address of this auction block. The first enslaved workers who were brought to the site were tasked with constructing defenses for the small Dutch colony in the form of a wall across the town’s northern frontier. Years later, the wall would be taken down and its fragments used to level the roads and expand the island as landfill. All of the requisite labor was done by enslaved people. At the start of the 18th century, the corner of Wall and Pearl Street was an open-air market, where enslaved people were unloaded from ships in the nearby East River. At that time, the river was much closer at Water Street, which meant that the enslaved people were bought and sold right under the shadow of their floating prisons. Later development brought a sheltered complex, city oversight and, of course, tax revenue. Enslaved people were sold throughout the city and its surrounding region. In a wider scope, New York positioned itself as the port city where agricultural goods grown by slaves in the South were financed, refined, packaged and shipped around the world. The New York Stock Exchange, just up the street, owes its startup capital to an economy fueled by enslaved people and their labor. Today, no evidence remains of the New York Slave Market. In June of 2015, the City of New York unveiled a small plaque in the beer garden adjacent to the modern day 74 Wall Street. The small plaque memorializing the many thousands of enslaved people who were abducted and sold on what is now 74 Wall Street is roughly the size of a plaque across the street at 74 Wall Street honoring the Livingston family, who owed their political prominence to the wealth they generated from the slave trade. The United States currently has no significant national memorial to slavery.",
     "info": null,
     "categories": [
-      "park",
-      "landmark",
-      "shopping"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_site_of_new_york_slave_market"
@@ -9704,7 +9676,7 @@
     "description": "This Russian bar-restaurant lies within a three-story underground bathhouse.",
     "info": null,
     "categories": [
-      
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_wall_street_bath_spa_88"
@@ -9717,9 +9689,8 @@
     "description": "The façade of this building looks like a bingo board, but it's really a giant clock by a famed graphic designer. RUDOLPH DE HARAK WAS A famous graphic designer who worked on a lot of things over his long and storied career: hundreds of paperback covers for McGraw-Hill, illustrations for Esquire magazine, jazz covers for record labels like Columbia and Westminster. He even designed the placards for the Egyptian Wing of the Metropolitan Museum of Art, signage that took 10 years to complete and is still in use today. But for many New Yorkers, perhaps his most famous and enduring work is the clock on the exterior of 127 John Street in Lower Manhattan. The artist was influenced by abstract expressionism, Dada, op art, and pop art. He even designed a number of “traditional” analog clocks, some of which can be found in the collection of the Museum of Modern Art. But the façade across from the South Street Seaport takes a more digital approach. The clock is laid out as a grid of numbers: 1–12 for the hour of the day, then 0-59 for the minute and the second. The numbers light up whenever it is their time; the hours in red, the minutes in blue, and the seconds in green. At the time work was completed in 1971, it was the largest clock in the world. The clock is joined by a number of embellishments to the building and street. The entrance of the building is a tunnel ringed in bright blue argon-gas lights, and the building is surrounded by brightly colored street furniture like loveseats, garbage cans, and telephone booths.",
     "info": null,
     "categories": [
-      "museum",
-      "architecture",
-      "art"
+      "art",
+      "architecture"
     ],
     "url": null,
     "id": "manhattan_rudolph_de_harak_digital_clock"
@@ -9801,7 +9772,7 @@
     "description": "Home to a dizzying array of letterpress blocks with a rich history.",
     "info": null,
     "categories": [
-      "landmark"
+      "drinking"
     ],
     "url": null,
     "id": "manhattan_the_press_room"
@@ -9912,7 +9883,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "museum"
     ],
     "url": "https://www.nps.gov/cacl/index.htm",
     "id": "manhattan_castle_clinton_national_monument"
@@ -9938,7 +9909,7 @@
     "description": "As the team was conducting excavations for the South Ferry Station, they came upon one of the oldest man-made structure still in place in Manhattan, the Battery Wall. The wall was built around 1755 at the southwestern tip of Manhattan to shield the colony, then under British rule, from enemies as well as rough waves and wind. The wall was buried under landfill in the late 18th century and further buried by Battery Park in the 19th century. Today, you can walk right up to the wall and touch it. You can even see fossilized oyster shells embedded in the stones.",
     "info": null,
     "categories": [
-      "park"
+      "landmark"
     ],
     "url": null,
     "id": "manhattan_south_ferry"
@@ -10029,7 +10000,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_r_company_1"
@@ -10042,7 +10013,7 @@
     "description": "La Monte Young and Marian Zazeela's \"Dream House\" will immerse you in an ever changing world of sound and light.",
     "info": null,
     "categories": [
-      "landmark"
+      "art"
     ],
     "url": null,
     "id": "manhattan_dream_house"
@@ -10068,7 +10039,7 @@
     "description": "decommissioned ships & east river views",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_pier_16"
@@ -10094,7 +10065,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_pier_15_east_river_esplanade"
@@ -10146,7 +10117,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_bowne_co_stationers"
@@ -10173,7 +10144,8 @@
     "description": "Perhaps one of the more surprising places you’ll find a colonial remnant is on your way to bathroom inside the Stone Street Tavern. Located at 52 Stone Street, the tavern’s building was constructed in 1836, likely after an original structure was burnt down in the Great Fire of 1835, on top of an 18th century foundation. You can still see part of the foundation in the the stairwell that leads to the current restaurant’s lower level restrooms.",
     "info": null,
     "categories": [
-     
+      "drinking",
+      "food"
     ],
     "url": null,
     "id": "manhattan_52_stone_st"
@@ -10411,9 +10383,7 @@
     "description": "NHL - AT Stewart Company Store \"Site of the first American department store (now known as the New York Sun building)\"",
     "info": null,
     "categories": [
-      "shopping",
-      "architecture",
-      "art"
+      "architecture"
     ],
     "url": "https://www1.nyc.gov/site/dcas/business/dcasmanagedbuildings/sun-building.page",
     "id": "manhattan_280_broadway"
@@ -10534,7 +10504,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "religious"
     ],
     "url": null,
     "id": "manhattan_first_shearith_israel_graveyard_chatham_square_cemetery"
@@ -10666,7 +10636,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_foley_square"
@@ -10705,7 +10675,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_lin_sister"
@@ -10731,7 +10701,7 @@
     "description": "great views; swings",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_pier_35_1"
@@ -10874,7 +10844,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_urban_archaeology"
@@ -11023,9 +10993,7 @@
     "description": "Gotham Park is a grass-roots community effort reimagining how spaces under the iconic Brooklyn Bridge in Manhattan can become a new type of urban community park that nurtures connection, curiosity, wonder, and resilience. The bridge is a sleeping giant, a landmark recognized the world over, but it lands in a fenced-off, dark, underutilized parking lot. Gotham Park is transforming that space into a neighborhood nexus connecting and strengthening residents, businesses, and communities. Built upon the spirit of the original Brooklyn Banks skate mecca, Gotham Park will restore the Banks while expanding public space and access to create a variety of flexible play spaces that inspire, engage and delight all ages. Woven together from the vaults, arches, and land beneath the Brooklyn Bridge, Gotham Park is building a hyper-urban, iconic public space for its communities, by its communities.",
     "info": null,
     "categories": [
-      "park",
-      "landmark",
-      "food"
+      "park"
     ],
     "url": null,
     "id": "manhattan_gotham_park"
@@ -11197,8 +11165,7 @@
     "info": null,
     "categories": [
       "park",
-      "landmark",
-      "bookstore"
+      "art"
     ],
     "url": null,
     "id": "manhattan_sophie_loeb_fountain"
@@ -11239,7 +11206,7 @@
     "description": "This mosaic dedicated to John Lennon was tended for years by a Beatles super-fan.",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_strawberry_fields"
@@ -11334,7 +11301,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_wagner_cove"
@@ -11373,7 +11340,7 @@
     "description": "contains waterfalls fed by the city's drinking water, so you can drink from them!",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_the_loch"
@@ -11490,8 +11457,8 @@
     "description": "The stone walls behind the Conservatory Gardens at 105th Street are the ruins of the Academy of Mount St. Vincent, founded in 1847 by the Sisters of Charity of Saint Vincent de Paul of New York. According to Mount St. Vincent history, it was the first institution for higher learning for women in New York, even before public colleges or high schools were open to women. As the school notes, “The Academy was no finishing school,” and was dedicated to a liberal arts education.",
     "info": null,
     "categories": [
-      "park",
-      "art"
+      "landmark",
+      "park"
     ],
     "url": null,
     "id": "manhattan_plaque_sisters_of_charity"
@@ -11530,7 +11497,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "park"
     ],
     "url": null,
     "id": "manhattan_the_ramble"
