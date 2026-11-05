@@ -8344,8 +8344,8 @@
   },
   {
     "name": "Holographic Studios",
-    "lat": 40.739886,
-    "lon": -73.980122,
+    "lat": 40.722847,
+    "lon": -73.984649,
     "imageURL": null,
     "description": "The world's oldest hologram gallery and the labyrinthine laser laboratory of a holography pioneer.",
     "info": null,
@@ -9338,19 +9338,6 @@
     ],
     "url": null,
     "id": "manhattan_new_york_flower_market"
-  },
-  {
-    "name": "Kremer Pigments",
-    "lat": 40.748831,
-    "lon": -73.994733,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_kremer_pigments"
   },
   {
     "name": "City Papery",
