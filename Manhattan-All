@@ -1134,7 +1134,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_greenwich_letterpress"
@@ -3270,7 +3270,7 @@
     "description": "",
     "info": null,
     "categories": [
-      "landmark"
+      "shopping"
     ],
     "url": null,
     "id": "manhattan_canal_rubber_supply_co_inc"
@@ -9857,7 +9857,6 @@
     "description": "The only gallery in New York dedicated to olfactory art and the exploration of scent in art.",
     "info": null,
     "categories": [
-      "art",
       "art"
     ],
     "url": "https://www.olfactoryartkeller.com",
