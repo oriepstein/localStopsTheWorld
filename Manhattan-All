@@ -2825,20 +2825,6 @@
     "id": "manhattan_pageant_print_shop"
   },
   {
-    "name": "Lower East Side Ecology Center",
-    "lat": 40.724627,
-    "lon": -73.979651,
-    "imageURL": null,
-    "description": "What personality all of these community gardens have; no two are exactly the same. Here we entered under a short covered walkway made of coffee cans that have rusted over time. Once inside you cannot miss the majestic weeping willow that towers over half of the garden along with a variety of funky hand built structures arbitrarily placed throughout.",
-    "info": null,
-    "categories": [
-      "park",
-      "architecture"
-    ],
-    "url": "https://www.lesecologycenter.org/",
-    "id": "manhattan_lower_east_side_ecology_center_1"
-  },
-  {
     "name": "Casey Rubber Stamps",
     "lat": 40.729786,
     "lon": -73.985183,
@@ -9978,19 +9964,6 @@
     ],
     "url": null,
     "id": "manhattan_20_exchange_pl"
-  },
-  {
-    "name": "R & Company",
-    "lat": 40.718414,
-    "lon": -74.003348,
-    "imageURL": null,
-    "description": "This gallery showcases the work of inventive international designers from the 20th & 21st centuries.",
-    "info": null,
-    "categories": [
-      "art"
-    ],
-    "url": null,
-    "id": "manhattan_r_company"
   },
   {
     "name": "R & Company",
