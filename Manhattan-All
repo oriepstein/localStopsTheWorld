@@ -5740,19 +5740,6 @@
     "id": "manhattan_henderson_place"
   },
   {
-    "name": "Pasteur Pharmacy/Newton-Timmermann Pharmacy",
-    "lat": 40.764305,
-    "lon": -73.966874,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "landmark"
-    ],
-    "url": null,
-    "id": "manhattan_pasteur_pharmacy_newton_timmermann_pharmacy"
-  },
-  {
     "name": "The Pierre, A Taj Hotel, New York",
     "lat": 40.765183,
     "lon": -73.971894,
