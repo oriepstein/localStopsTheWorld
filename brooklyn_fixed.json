@@ -4818,20 +4818,6 @@
     "id": "brooklyn_brooklyn_art_cave"
   },
   {
-    "name": "Balady Halal Foods",
-    "lat": 40.6320636,
-    "lon": -74.0219045,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "food",
-      "market"
-    ],
-    "url": null,
-    "id": "brooklyn_balady_halal_foods"
-  },
-  {
     "name": "Night Owl Video",
     "lat": 40.712958,
     "lon": -73.9577536,
