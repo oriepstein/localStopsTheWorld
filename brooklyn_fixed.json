@@ -467,19 +467,6 @@
     "id": "brooklyn_grand_ferry_park"
   },
   {
-    "name": "Whisk",
-    "lat": 40.7159891,
-    "lon": -73.9594278,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "shopping"
-    ],
-    "url": null,
-    "id": "brooklyn_whisk"
-  },
-  {
     "name": "The City Reliquary Museum",
     "lat": 40.713963,
     "lon": -73.955746,
