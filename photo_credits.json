@@ -3809,7 +3809,7 @@
     "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "sourceURL": "https://commons.wikimedia.org/wiki/File:Bard_Graduate_Center_38_W86_jeh.jpg"
   },
-  "manhattan_time_warner_center": {
+  "manhattan_Deutsche_Bank_Center": {
     "author": "Emily Serven",
     "license": "CC BY 3.0",
     "licenseURL": "https://creativecommons.org/licenses/by/3.0",
@@ -8854,5 +8854,53 @@
     "license": "CC BY 3.0",
     "licenseURL": "https://creativecommons.org/licenses/by/3.0",
     "sourceURL": "https://commons.wikimedia.org/wiki/File:Lexington_Battle_Green,_Lexington_MA.jpg"
+  },
+  "manhattan_church_of_our_lady_of_the_scapular_st_stephen": {
+    "author": "Beyond My Ken",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_the_Scapular-St._Stephen_28th_Street_facade.jpg"
+  },
+  "manhattan_b_h_photo_video": {
+    "author": "Dmadeo",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Bhphotovideo.JPG"
+  },
+  "manhattan_baccarat_hotel_new_york": {
+    "author": "RHaworth",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Baccarat_NYC_16C267.jpg"
+  },
+  "manhattan_mandarin_oriental_new_york": {
+    "author": "Mandarin Oriental Hotel Group",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Mandarin_Oriental_New_York_Asiate_restaurant_view.jpg"
+  },
+  "manhattan_the_langham_new_york_fifth_avenue": {
+    "author": "Jim.henderson",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Langham,_New_York,_Fifth_Avenue_HDR_2022_jeh.jpg"
+  },
+  "manhattan_the_frick_collection": {
+    "author": "Aude",
+    "license": "CC BY-SA 2.5",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Frick_collection_jan06.jpg"
+  },
+  "manhattan_andy_kessler_skate_park": {
+    "author": "Ianjohnclarke",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Andy_Kessler_Skatepark_Street_Plaza_7_2020.jpg"
+  },
+  "manhattan_hill_art_foundation": {
+    "author": "Thomas Roessler",
+    "license": "CC BY-SA 3.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceURL": "https://commons.wikimedia.org/wiki/File:Manhattan,_Hill_Art_Foundation_Building,_View_from_High_Line_(165455179).jpg"
   }
 }

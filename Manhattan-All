@@ -11474,5 +11474,154 @@
     ],
     "url": null,
     "id": "manhattan_the_bean_sculpture"
+  },
+  {
+    "name": "Church of Our Lady of the Scapular-St. Stephen",
+    "lat": 40.7426137,
+    "lon": -73.981218,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Our_Lady_of_the_Scapular-St._Stephen_28th_Street_facade.jpg/1280px-Our_Lady_of_the_Scapular-St._Stephen_28th_Street_facade.jpg",
+    "description": "has a large fresco painted by Constantin Brumidi who painted the US Capitol Rotunda frescoes.",
+    "info": null,
+    "categories": [
+      "religious",
+      "art"
+    ],
+    "url": null,
+    "id": "manhattan_church_of_our_lady_of_the_scapular_st_stephen"
+  },
+  {
+    "name": "B&H Photo Video",
+    "lat": 40.7529444,
+    "lon": -73.9963276,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Bhphotovideo.JPG/1280px-Bhphotovideo.JPG",
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": "https://www.bhphotovideo.com/",
+    "id": "manhattan_b_h_photo_video"
+  },
+  {
+    "name": "Baccarat Hotel New York",
+    "lat": 40.7608869,
+    "lon": -73.977403,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Baccarat_NYC_16C267.jpg/1280px-Baccarat_NYC_16C267.jpg",
+    "description": "Conceived in a \"hôtel particulier\" style by Paris-based interior designer Gilles & Boissier, the prismatic glass façade of the Baccarat Hotel New York recalls the radiance of Baccarat crystal. Just inside the entrance is a dual-sided fireplace (paying homage to Baccarat’s furnaces) and a wall formed of nearly 2000 of the brand’s Harcourt glasses lay horizontally and illuminated with LED lights. The hotel lobby flaunts convention: Guests are welcomed in The Petit Salon, a private guest sitting area enclosed with glass walls, which sits on the second floor just beyond a discreet reception desk. Emerald green velvet settees encourage relaxation amidst intricate wood-paneled walls; art installations with re-contextualized crystal elements; silver-leafed boiserie; shimmering shards of mica; and two of the hotel's seventeen magnificent, custom-produced chandeliers. Take a peek: Also on the second floor lobby level are the visually stunning Grand Salon, featuring for all-day dining inspired by two Michelin-starred Chef Gabriel Kreuther, and The Bar, popular gathering spaces for hotel guests and New Yorkers alike.",
+    "info": null,
+    "categories": [
+      "architecture"
+    ],
+    "url": "https://www.baccarathotels.com/new-york",
+    "id": "manhattan_baccarat_hotel_new_york"
+  },
+  {
+    "name": "Korean Cultural Center New York",
+    "lat": 40.7452676,
+    "lon": -73.9812634,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.koreanculture.org/",
+    "id": "manhattan_korean_cultural_center_new_york"
+  },
+  {
+    "name": "Mandarin Oriental, New York",
+    "lat": 40.7688844,
+    "lon": -73.983044,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Mandarin_Oriental_New_York_Asiate_restaurant_view.jpg",
+    "description": "Rather than entering at ground level, visitors to the Mandarin Oriental, New York are whisked up to the 35th floor Sky Lobby on express elevators. There, competing for attention, are the magnificent views of Central Park and the Manhattan skyline from 280 feet above, and the eye-catching Chihuly glass sculpture that seems to be emerging from a moss garden set in the elliptically-shaped marble and granite floor. Lalique-inspired ceiling detail, granite reception desks, and silver-plated stair railings are complemented by a mix of artwork on the walls by New York artists and Chinese textiles. Take a peek: Walk through the lobby to get to Asiate, a restaurant offering modern American cuisine with a creative twist and jaw-dropping views of the park, or to get to The Aviary NYC, an inventive cocktail lounge.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "viewpoint"
+    ],
+    "url": "https://www.mandarinoriental.com/en/new-york/manhattan",
+    "id": "manhattan_mandarin_oriental_new_york"
+  },
+  {
+    "name": "The Langham, New York, Fifth Avenue",
+    "lat": 40.7501833,
+    "lon": -73.983759,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Langham%2C_New_York%2C_Fifth_Avenue_HDR_2022_jeh.jpg/1280px-The_Langham%2C_New_York%2C_Fifth_Avenue_HDR_2022_jeh.jpg",
+    "description": "Stepping into the sophisticated lobby of the Langham, New York is sure to awaken the senses: From the hotel’s subtle signature scent (ginger flower) permeating the air—to the two colorful, 10-foot-wide oil murals by legendary New York artist, Alex Katz, hanging behind the sleek reception desk. This contemporary lobby that invites relaxation and people-watching will especially appeal to art lovers: The Langham is home to 11 original artworks by Katz in total (all on display in public areas), one of the largest collections outside a museum. The larger than life oil murals capture the profiles of men and women, seemingly mirroring pedestrians on busy Fifth Avenue as seen through the lobby’s soaring floor-to-ceiling windows. Next to the concierge desk is a silkscreen of Katz’s wife, whom he has painted more than 250 times. The artist’s work has been recognized as an important precursor to the Pop Art Movement. Some 250 Katz lithographs and silkscreens are also scattered throughout the guestrooms and hotel corridors.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "art"
+    ],
+    "url": "https://www.langhamhotels.com/en/the-langham/new-york/",
+    "id": "manhattan_the_langham_new_york_fifth_avenue"
+  },
+  {
+    "name": "The Frick Collection",
+    "lat": 40.7710857,
+    "lon": -73.9673861,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Frick_collection_jan06.jpg/1280px-Frick_collection_jan06.jpg",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.frick.org/",
+    "id": "manhattan_the_frick_collection"
+  },
+  {
+    "name": "Andy Kessler Skate Park",
+    "lat": 40.8052159,
+    "lon": -73.9704934,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Andy_Kessler_Skatepark_Street_Plaza_7_2020.jpg",
+    "description": "Originally opened in 1996 as the first full-sized public skatepark in Manhattan, Riverside Skatepark reopened in 2019 and was renamed to honor Andy Kessler, the pioneering New York skateboarder who helped design, fund, and build the original park.",
+    "info": null,
+    "categories": [
+      "park",
+      "sports"
+    ],
+    "url": "https://www.nycgovparks.org/parks/riverside-park",
+    "id": "manhattan_andy_kessler_skate_park"
+  },
+  {
+    "name": "Sunken Garden by Isamu Noguchi",
+    "lat": 40.7074523,
+    "lon": -74.0092795,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "landmark"
+    ],
+    "url": "https://www.noguchi.org/artworks/public-works/view/sunken-garden-chase-manhattan-bank-plaza/",
+    "id": "manhattan_sunken_garden_by_isamu_noguchi"
+  },
+  {
+    "name": "Hill Art Foundation",
+    "lat": 40.7485756,
+    "lon": -74.0038234,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Manhattan%2C_Hill_Art_Foundation_Building%2C_View_from_High_Line_%28165455179%29.jpg/1280px-Manhattan%2C_Hill_Art_Foundation_Building%2C_View_from_High_Line_%28165455179%29.jpg",
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://hillartfoundation.org/",
+    "id": "manhattan_hill_art_foundation"
+  },
+  {
+    "name": "The FLAG Art Foundation",
+    "lat": 40.7499243,
+    "lon": -74.0048791,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": "https://www.flagartfoundation.org/",
+    "id": "manhattan_the_flag_art_foundation"
   }
 ]
