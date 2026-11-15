@@ -5003,19 +5003,6 @@
     "id": "brooklyn_let_there_be_neon_inc"
   },
   {
-    "name": "Five Boroughs Brewing Co.",
-    "lat": 40.650597,
-    "lon": -74.014486,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "drinking"
-    ],
-    "url": "https://www.fiveboroughsbrewery.com",
-    "id": "brooklyn_five_boroughs_brewing_co"
-  },
-  {
     "name": "Fool's Gold Records",
     "lat": 40.7149298,
     "lon": -73.9619704,
