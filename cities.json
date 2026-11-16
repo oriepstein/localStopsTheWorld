@@ -1,4 +1,9 @@
 [
+     {
+    "name": "Maine",
+    "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/maine_sights.json",
+    "imageURL": "https://images.unsplash.com/photo-1530123985359-4fd0cce1ea8b?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+  },
       {
     "name": "New Jersey",
     "url": "https://raw.githubusercontent.com/oriepstein/localStopsTheWorld/refs/heads/main/new_jersey_sights.json",
