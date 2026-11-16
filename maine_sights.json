@@ -1,0 +1,1351 @@
+[
+  {
+    "name": "L.L.Bean",
+    "lat": 43.8580446,
+    "lon": -70.1042337,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping"
+    ],
+    "url": "https://www.llbean.com/",
+    "id": "maine_l_l_bean"
+  },
+  {
+    "name": "Eartha Globe",
+    "lat": 43.8078901,
+    "lon": -70.1639877,
+    "imageURL": null,
+    "description": "world's largest globe",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "maine_eartha_globe"
+  },
+  {
+    "name": "Wiggly Bridge",
+    "lat": 43.1367583,
+    "lon": -70.6499431,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "quirky",
+      "landmark"
+    ],
+    "url": null,
+    "id": "maine_wiggly_bridge"
+  },
+  {
+    "name": "Umbrella Cover Museum",
+    "lat": 43.656001,
+    "lon": -70.1980861,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Umbrella_cover_museum.jpg/1280px-Umbrella_cover_museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.umbrellacovermuseum.org/",
+    "id": "maine_umbrella_cover_museum"
+  },
+  {
+    "name": "Peaks Island",
+    "lat": 43.6605159,
+    "lon": -70.1907335,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Peaks_Island%2C_Maine_rock_cairns.jpg/1280px-Peaks_Island%2C_Maine_rock_cairns.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "towns",
+      "nature"
+    ],
+    "url": null,
+    "id": "maine_peaks_island"
+  },
+  {
+    "name": "Battery Steele",
+    "lat": 43.6578544,
+    "lon": -70.1812108,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Battery_Steele.jpg/1280px-Battery_Steele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "quirky"
+    ],
+    "url": "https://www.peaksislandlandpreserve.org/",
+    "id": "maine_battery_steele"
+  },
+  {
+    "name": "Blue",
+    "lat": 43.653148,
+    "lon": -70.265413,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "music",
+      "drinking"
+    ],
+    "url": "https://www.blueportlandmaine.org/",
+    "id": "maine_blue"
+  },
+  {
+    "name": "Portland Museum of Art",
+    "lat": 43.6537048,
+    "lon": -70.2619625,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/McLellan_House%2C_Portland_ME.jpg/1280px-McLellan_House%2C_Portland_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.portlandmuseum.org/",
+    "id": "maine_portland_museum_of_art"
+  },
+  {
+    "name": "Salt Institute-Documentary",
+    "lat": 43.6556882,
+    "lon": -70.2608199,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art"
+    ],
+    "url": null,
+    "id": "maine_salt_institute_documentary"
+  },
+  {
+    "name": "SPACE",
+    "lat": 43.6555853,
+    "lon": -70.2611771,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "music"
+    ],
+    "url": "https://space538.org/",
+    "id": "maine_space"
+  },
+  {
+    "name": "Portland Head Light",
+    "lat": 43.6230726,
+    "lon": -70.2078824,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Portland_Headlight_1.JPG/1280px-Portland_Headlight_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint",
+      "park"
+    ],
+    "url": "https://portlandheadlight.com/",
+    "id": "maine_portland_head_light"
+  },
+  {
+    "name": "Fort Gorges",
+    "lat": 43.6629433,
+    "lon": -70.2215356,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fort_gorges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Accessible only by boat, this centuries-old island fort never saw troops or combat.  ",
+    "info": null,
+    "categories": [
+      "historic"
+    ],
+    "url": "https://friendsoffortgorges.org/",
+    "id": "maine_fort_gorges"
+  },
+  {
+    "name": "Scarborough Beach State Park",
+    "lat": 43.546229,
+    "lon": -70.313046,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "beaches",
+      "park"
+    ],
+    "url": null,
+    "id": "maine_scarborough_beach_state_park"
+  },
+  {
+    "name": "Popham Beach State Park",
+    "lat": 43.7362436,
+    "lon": -69.797943,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Popham_beach_state_park_09.07.2012_23-22-01.jpg/1280px-Popham_beach_state_park_09.07.2012_23-22-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Big, cinematic beach with shifting sandbars and island views. The most dramatically beautiful sandy beach in the state park system.",
+    "info": null,
+    "categories": [
+      "beaches",
+      "park"
+    ],
+    "url": "https://www.maine.gov/pophambeach",
+    "id": "maine_popham_beach_state_park"
+  },
+  {
+    "name": "Wood Island Lighthouse",
+    "lat": 43.4568246,
+    "lon": -70.3291528,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Wood_Island_Lighthouse.jpg/1280px-Wood_Island_Lighthouse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://www.woodislandlighthouse.org/",
+    "id": "maine_wood_island_lighthouse"
+  },
+  {
+    "name": "Spindleworks",
+    "lat": 43.916289,
+    "lon": -69.966997,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "art",
+      "shopping"
+    ],
+    "url": "https://spindleworks.independenceassociation.org/",
+    "id": "maine_spindleworks"
+  },
+  {
+    "name": "Rabelais - Fine Books on Food & Drink",
+    "lat": 43.4933465,
+    "lon": -70.4512099,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "bookstore"
+    ],
+    "url": "https://www.rabelaisbooks.com/",
+    "id": "maine_rabelais_fine_books_on_food_and_drink"
+  },
+  {
+    "name": "Two Lights State Park",
+    "lat": 43.5602487,
+    "lon": -70.2045012,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Darkening_sky_at_Maine_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint"
+    ],
+    "url": "https://www.maine.gov/twolights",
+    "id": "maine_two_lights_state_park"
+  },
+  {
+    "name": "Mackworth Island State Park",
+    "lat": 43.6897469,
+    "lon": -70.2347149,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.maine.gov/mackworthisland",
+    "id": "maine_mackworth_island_state_park"
+  },
+  {
+    "name": "Wolfe's Neck Woods State Park",
+    "lat": 43.8225918,
+    "lon": -70.0844692,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Wolfe%27s_Neck_Woods_State_Park.jpg/1280px-Wolfe%27s_Neck_Woods_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "park",
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.maine.gov/wolfesneckwoods",
+    "id": "maine_wolfes_neck_woods_state_park"
+  },
+  {
+    "name": "Maiden Cliff Trailhead",
+    "lat": 44.2470885,
+    "lon": -69.0874802,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://www.maine.gov/camdenhills",
+    "id": "maine_maiden_cliff_trailhead"
+  },
+  {
+    "name": "Coastal Maine Botanical Gardens",
+    "lat": 43.8721277,
+    "lon": -69.6589985,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/CMBG%27s_new_Visitor_Center.jpg/1280px-CMBG%27s_new_Visitor_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: The best large-scale garden in Maine, and one of the best in New England. It blends woodland, coastline, sculpture (including the famous giant trolls), and serious horticulture. Feels immersive and varied, not repetitive.<br><br>Must visit.",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.mainegardens.org/",
+    "id": "maine_coastal_maine_botanical_gardens"
+  },
+  {
+    "name": "Winslow Homer Studio",
+    "lat": 43.5284243,
+    "lon": -70.3198822,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/ScarboroughME_WinslowHomerStudio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Maine at its most elemental. Perched on wave-battered rocks at Prouts Neck, this is where Homer painted his moody Atlantic masterpieces. The studio’s isolation and drama make it one of New England’s most evocative cultural pilgrimages. Even if you only see it from outside, the setting alone is unforgettable.",
+    "info": null,
+    "categories": [
+      "art",
+      "historic"
+    ],
+    "url": "https://www.portlandmuseum.org/visit/winslow-homer-studio-tours/",
+    "id": "maine_winslow_homer_studio"
+  },
+  {
+    "name": "International Cryptozoology Museum",
+    "lat": 43.651453,
+    "lon": -70.2906114,
+    "imageURL": null,
+    "description": "The world's only international cryptozoology museum is host to an unrivaled collection of mysterious objects. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://cryptozoologymuseum.com/",
+    "id": "maine_international_cryptozoology_museum"
+  },
+  {
+    "name": "Peaks Island Land Preserve",
+    "lat": 43.6623093,
+    "lon": -70.1857613,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.peaksislandlandpreserve.org/",
+    "id": "maine_peaks_island_land_preserve"
+  },
+  {
+    "name": "Maine Narrow Gauge Railroad",
+    "lat": 43.6607543,
+    "lon": -70.2457198,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/MNGR_084.jpg/1280px-MNGR_084.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Its unique collection details the history of the state's svelte railroads. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://mainenarrowgauge.org/",
+    "id": "maine_maine_narrow_gauge_railroad"
+  },
+  {
+    "name": "Desert of Maine",
+    "lat": 43.8594296,
+    "lon": -70.1552947,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Desert_of_Maine_-_Freeport%2C_ME_-_IMG_7997.JPG/1280px-Desert_of_Maine_-_Freeport%2C_ME_-_IMG_7997.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This tiny patch of arid sand sits in one of the greenest states in the United States.",
+    "info": null,
+    "categories": [
+      "nature",
+      "quirky"
+    ],
+    "url": "https://desertofmaine.com/",
+    "id": "maine_desert_of_maine"
+  },
+  {
+    "name": "Portland Observatory",
+    "lat": 43.665368,
+    "lon": -70.248238,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Portland_Observatory_5-30-2005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The only remaining historic maritime signal station in the United States.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://www.portlandlandmarks.org/the-portland-observatory",
+    "id": "maine_portland_observatory"
+  },
+  {
+    "name": "Goddard Mansion",
+    "lat": 43.626492,
+    "lon": -70.2141849,
+    "imageURL": null,
+    "description": "Abandoned Italianate architecture on the coast of Maine.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture",
+      "landmark"
+    ],
+    "url": "https://fortwilliams.org/",
+    "id": "maine_goddard_mansion"
+  },
+  {
+    "name": "Smuttynose Island",
+    "lat": 42.9824233,
+    "lon": -70.6060642,
+    "imageURL": null,
+    "description": "Smutynose Island is privately owned. Visitors are allowed to walk the island during daylight hours when following the rules posted at the cove. There are no public restrooms, no dock, no indoor facilities, no camping, no dogs, no smoking, no removing items from the island or leaving items behind. Volunteer stewards are on island seasonally to answer questions. There is a walking trail during the summer season, but visitors should wear sturdy shoes, long pants, and be wary and respectful of protected seabirds especially during the spring and summer hatching and growth seasons.",
+    "info": null,
+    "categories": [
+      "nature",
+      "historic"
+    ],
+    "url": null,
+    "id": "maine_smuttynose_island"
+  },
+  {
+    "name": "Boon Island Light",
+    "lat": 43.1211591,
+    "lon": -70.4759645,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Boon_Island_Lighthouse_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "New England's tallest light house stands on an island with a history of cannibalism and death. ",
+    "info": null,
+    "categories": [
+      "historic",
+      "landmark"
+    ],
+    "url": null,
+    "id": "maine_boon_island_light"
+  },
+  {
+    "name": "Fort McClary State Historic Site",
+    "lat": 43.0824349,
+    "lon": -70.710369,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/DSCN3983_fortmcclary_e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "Despite its extensive history, this fort saw little to no combat.  ",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": "https://www.maine.gov/fortmcclary",
+    "id": "maine_fort_mcclary_state_historic_site"
+  },
+  {
+    "name": "Palace Diner",
+    "lat": 43.4926861,
+    "lon": -70.4547333,
+    "imageURL": null,
+    "description": "Maine's oldest diner also happens to win acclaim for its elevated comfort food. ",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": "https://www.palacedinerme.com/",
+    "id": "maine_palace_diner"
+  },
+  {
+    "name": "Seashore Trolley Museum",
+    "lat": 43.4091118,
+    "lon": -70.4893944,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/SEPTA_2709_at_Seashore_Trolley_Museum%2C_July_2005.jpg/1280px-SEPTA_2709_at_Seashore_Trolley_Museum%2C_July_2005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The world's oldest and largest museum of mass transit vehicles. ",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://trolleymuseum.org/",
+    "id": "maine_seashore_trolley_museum"
+  },
+  {
+    "name": "Wedding Cake House",
+    "lat": 43.3816421,
+    "lon": -70.5168991,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/Wedding_Cake_House%2C_Kennebunk_Landing%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The most photographed house in Maine looks good enough to eat.",
+    "info": null,
+    "categories": [
+      "architecture",
+      "landmark"
+    ],
+    "url": null,
+    "id": "maine_wedding_cake_house"
+  },
+  {
+    "name": "Peary-MacMillan Arctic Museum",
+    "lat": 43.9077679,
+    "lon": -69.9599243,
+    "imageURL": null,
+    "description": "This museum on a college campus pays tribute to the Arctic and to two explorer alumni. ",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.bowdoin.edu/arctic-museum/",
+    "id": "maine_peary_macmillan_arctic_museum"
+  },
+  {
+    "name": "Maine Maritime Museum",
+    "lat": 43.893983,
+    "lon": -69.815918,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Maine_Maritime_Museum.jpg/1280px-Maine_Maritime_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the largest wooden ships ever built is honored by a steel sculpture evoking her once-superlative scale. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.mainemaritimemuseum.org/",
+    "id": "maine_maine_maritime_museum"
+  },
+  {
+    "name": "Thomas Hill Standpipe",
+    "lat": 44.8073883,
+    "lon": -68.7828543,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Thomas_Hill_Standpipe_-_Bangor_ME.JPG/1280px-Thomas_Hill_Standpipe_-_Bangor_ME.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This 1.5 million-gallon water tower inspired Stephen King while he was writing \"It.\"",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "maine_thomas_hill_standpipe"
+  },
+  {
+    "name": "Bangor Public Library",
+    "lat": 44.8043724,
+    "lon": -68.7719455,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/BangorPublicLibraryMainEntrance.jpg/1280px-BangorPublicLibraryMainEntrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Abraham Lincoln's vice president took his last breath here on July 4, 1891. An old couch sits in the rotunda of the Bangor Public Library in Maine. Though somewhat inviting, visitors aren’t allowed to plop down atop it after perusing through the stacks of books. The last person to actually use the couch was a dying U.S. vice president.",
+    "info": null,
+    "categories": [
+      "bookstore",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://bangorpubliclibrary.org/",
+    "id": "maine_bangor_public_library"
+  },
+  {
+    "name": "Penobscot Theatre Company",
+    "lat": 44.7994194,
+    "lon": -68.7726517,
+    "imageURL": null,
+    "description": "This Art Deco theater is the last remaining opera house in the “little Broadway of the North.”",
+    "info": null,
+    "categories": [
+      "theater"
+    ],
+    "url": "https://www.penobscottheatre.org/",
+    "id": "maine_penobscot_theatre_company"
+  },
+  {
+    "name": "Bangor Police Department museum",
+    "lat": 44.7971946,
+    "lon": -68.7731454,
+    "imageURL": null,
+    "description": "This museum explores the history of policing and is also home to a very popular taxidermied duck. by appointment only",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": null,
+    "id": "maine_bangor_police_department_museum"
+  },
+  {
+    "name": "Chamberlain Freedom Park",
+    "lat": 44.7987409,
+    "lon": -68.7623352,
+    "imageURL": null,
+    "description": "Maine’s only official memorial to the Underground Railroad.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "historic"
+    ],
+    "url": null,
+    "id": "maine_chamberlain_freedom_park"
+  },
+  {
+    "name": "Mount Hope Cemetery",
+    "lat": 44.8254899,
+    "lon": -68.7264226,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Mthope.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The second-oldest garden cemetery in the U.S. was also a college brainstorm spot of Stephen King.",
+    "info": null,
+    "categories": [
+      "historic",
+      "nature"
+    ],
+    "url": "https://mthopebgr.com/",
+    "id": "maine_mount_hope_cemetery"
+  },
+  {
+    "name": "Paul Bunyan Statue",
+    "lat": 44.7886831,
+    "lon": -68.7783728,
+    "imageURL": null,
+    "description": "This handsome giant is said to mark the birthplace of the mythical woodsman and even had a cameo in a Stephen King novel.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky"
+    ],
+    "url": null,
+    "id": "maine_paul_bunyan_statue"
+  },
+  {
+    "name": "47 W Broadway",
+    "lat": 44.8024092,
+    "lon": -68.7853047,
+    "imageURL": null,
+    "description": "The eccentric mansion of one of the most popular horror authors of modern times.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "architecture",
+      "quirky"
+    ],
+    "url": null,
+    "id": "maine_47_w_broadway"
+  },
+  {
+    "name": "Hudson Museum",
+    "lat": 44.8997583,
+    "lon": -68.6663844,
+    "imageURL": null,
+    "description": "Largest institutional collection of tomb figures from Western Mexico in the United States.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://umaine.edu/hudsonmuseum/",
+    "id": "maine_hudson_museum"
+  },
+  {
+    "name": "Etna Spiritualist Association",
+    "lat": 44.8171539,
+    "lon": -69.1001358,
+    "imageURL": null,
+    "description": "A major spiritual gathering place in central Maine since the mid-1800s.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic"
+    ],
+    "url": "https://campetna.org/",
+    "id": "maine_etna_spiritualist_association"
+  },
+  {
+    "name": "Orono Bog Boardwalk",
+    "lat": 44.8680056,
+    "lon": -68.7261071,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://umaine.edu/oronobogwalk/",
+    "id": "maine_orono_bog_boardwalk"
+  },
+  {
+    "name": "University of Maine",
+    "lat": 44.9019885,
+    "lon": -68.6680916,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/UMaine_OakHall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "The University of Maine campus was designated an arboretum in 2002, with its trees and gardens acknowledged as “living laboratories for enjoying and learning about plants.”",
+    "info": null,
+    "categories": [
+      "nature",
+      "park"
+    ],
+    "url": "https://umaine.edu/",
+    "id": "maine_university_of_maine"
+  },
+  {
+    "name": "Zillman Art Museum",
+    "lat": 44.8028041,
+    "lon": -68.7707014,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://zam.umaine.edu/",
+    "id": "maine_zillman_art_museum"
+  },
+  {
+    "name": "Page Farm & Home Museum",
+    "lat": 44.8975528,
+    "lon": -68.666026,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Main_Building_Page_Farm_and_Home_Museum_Orono_Maine.jpg/1280px-Main_Building_Page_Farm_and_Home_Museum_Orono_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://umaine.edu/pagefarm/",
+    "id": "maine_page_farm_and_home_museum"
+  },
+  {
+    "name": "Poland Spring Museums - Maine State Building",
+    "lat": 44.02706,
+    "lon": -70.361377,
+    "imageURL": null,
+    "description": "This World's Fair showpiece was built in Chicago, but shipped to Maine.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://polandspringps.org/",
+    "id": "maine_poland_spring_museums_maine_state_building"
+  },
+  {
+    "name": "Sabbathday Lake Shaker Village",
+    "lat": 43.986385,
+    "lon": -70.366267,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sabbathday_Lake_Shaker_Village.JPG/1280px-Sabbathday_Lake_Shaker_Village.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The last remaining Shaker community still practices a uniquely communal and utopian version of Christianity.",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "museum"
+    ],
+    "url": "https://maineshakers.com/",
+    "id": "maine_sabbathday_lake_shaker_village"
+  },
+  {
+    "name": "Maine Beer Company",
+    "lat": 43.8394584,
+    "lon": -70.1211911,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "drinking"
+    ],
+    "url": "https://mainebeercompany.com/",
+    "id": "maine_maine_beer_company"
+  },
+  {
+    "name": "McDonald's",
+    "lat": 43.8603081,
+    "lon": -70.1016963,
+    "imageURL": null,
+    "description": "When the town wouldn't allow the fast-food behemoth to build a new restaurant, they put one inside an 1850 home.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "food",
+      "architecture"
+    ],
+    "url": null,
+    "id": "maine_mcdonalds"
+  },
+  {
+    "name": "Old Pond Railway Trail",
+    "lat": 44.5278062,
+    "lon": -68.2539745,
+    "imageURL": null,
+    "description": "Walk the same tracks that once ferried Gilded Age aristocrats to their vacation destinations.",
+    "info": null,
+    "categories": [
+      "hiking",
+      "historic"
+    ],
+    "url": null,
+    "id": "maine_old_pond_railway_trail"
+  },
+  {
+    "name": "Stone Designs & The Granite Garden Gallery",
+    "lat": 44.5544967,
+    "lon": -68.2375564,
+    "imageURL": null,
+    "description": "Admire an ever-changing landscape of stone sculptures",
+    "info": null,
+    "categories": [
+      "art",
+      "shopping"
+    ],
+    "url": "https://www.granitegardengallery.com/",
+    "id": "maine_stone_designs_and_the_granite_garden_gallery"
+  },
+  {
+    "name": "Timber Tina's Great Maine Lumberjack Show",
+    "lat": 44.5025295,
+    "lon": -68.3846616,
+    "imageURL": null,
+    "description": "This high-octane event honors Maine’s legacy as the birthplace of logging in the U.S.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "sports"
+    ],
+    "url": "https://mainelumberjack.com/",
+    "id": "maine_timber_tinas_great_maine_lumberjack_show"
+  },
+  {
+    "name": "Finn's Irish Pub",
+    "lat": 44.5420389,
+    "lon": -68.4232472,
+    "imageURL": null,
+    "description": "This architectural onion has an original 1930's Jerry O'Mahony dining car at its core.",
+    "info": null,
+    "categories": [
+      "drinking",
+      "food",
+      "quirky"
+    ],
+    "url": "https://www.finnsirishpub.com/",
+    "id": "maine_finns_irish_pub"
+  },
+  {
+    "name": "George B. Dorr Museum of Natural History",
+    "lat": 44.394738,
+    "lon": -68.2224979,
+    "imageURL": null,
+    "description": "A charming museum of natural history featuring dioramas and exhibits made entirely by college students.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.coa.edu/about/dorr-museum/",
+    "id": "maine_george_b_dorr_museum_of_natural_history"
+  },
+  {
+    "name": "Abbe Museum",
+    "lat": 44.3870604,
+    "lon": -68.2060516,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Abbe_Downtown_Peter_Vanderwarker.jpg/1280px-Abbe_Downtown_Peter_Vanderwarker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.abbemuseum.org/",
+    "id": "maine_abbe_museum"
+  },
+  {
+    "name": "Morse's Sauerkraut",
+    "lat": 44.2054137,
+    "lon": -69.3815767,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "market"
+    ],
+    "url": "https://morses-sauerkraut.squarespace.com/",
+    "id": "maine_morses_sauerkraut"
+  },
+  {
+    "name": "Bubble Rock",
+    "lat": 44.3392497,
+    "lon": -68.2533474,
+    "imageURL": null,
+    "description": "A precariously balanced rock perches on the edge of a cliff created tens of thousands of years ago by glacial erosion.",
+    "info": null,
+    "categories": [
+      "hiking",
+      "nature",
+      "viewpoint",
+      "nps"
+    ],
+    "url": "https://www.nps.gov/thingstodo/hike-bubbles.htm",
+    "id": "maine_bubble_rock"
+  },
+  {
+    "name": "Asticou Azalea Garden Parking",
+    "lat": 44.3056527,
+    "lon": -68.2839405,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Asticou_Azalea_Garden_2006_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "East meets West in this Japanese-style garden featuring plants native to Maine’s Mount Desert Island.",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.gardenpreserve.org/asticou-azalea-garden",
+    "id": "maine_asticou_azalea_garden_parking"
+  },
+  {
+    "name": "Wendell Gilley Museum",
+    "lat": 44.2836378,
+    "lon": -68.3269863,
+    "imageURL": null,
+    "description": "One of the few institutions in the United States devoted to the art of decorative bird carving.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.wendellgilleymuseum.org/",
+    "id": "maine_wendell_gilley_museum"
+  },
+  {
+    "name": "Seal Cove Auto Museum",
+    "lat": 44.3053532,
+    "lon": -68.4045448,
+    "imageURL": null,
+    "description": "One of the country's best automotive museums and home to one of the first motor vehicles.",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://www.sealcoveautomuseum.org/",
+    "id": "maine_seal_cove_auto_museum"
+  },
+  {
+    "name": "Bagaduce Lunch",
+    "lat": 44.3981296,
+    "lon": -68.7035232,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/View_from_the_Bagaduce_Lunch.jpg/1280px-View_from_the_Bagaduce_Lunch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "seafood, great onion rings, overlooking a waterfall. only open in summer",
+    "info": null,
+    "categories": [
+      "food"
+    ],
+    "url": null,
+    "id": "maine_bagaduce_lunch"
+  },
+  {
+    "name": "Maine State Prison Showroom",
+    "lat": 44.0775626,
+    "lon": -69.1916008,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://www.maine.gov/corrections/programs/prisonindustries",
+    "id": "maine_maine_state_prison_showroom"
+  },
+  {
+    "name": "Nervous Nellie's Jams and Jellies",
+    "lat": 44.2126123,
+    "lon": -68.6231873,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "food",
+      "shopping",
+      "quirky"
+    ],
+    "url": "https://www.nervousnellies.com/",
+    "id": "maine_nervous_nellies_jams_and_jellies"
+  },
+  {
+    "name": "Baxter State Park",
+    "lat": 46.0273218,
+    "lon": -68.9427702,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/TJWikiBaxterKatahdin.JPG/1280px-TJWikiBaxterKatahdin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: The crown jewel. Wild, roadless-feeling, and anchored by Mount Katahdin — the northern terminus of the Appalachian Trail. Granite peaks, deep forests, glacial ponds. This is Maine at its most mythic.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://baxterstatepark.org/",
+    "id": "maine_baxter_state_park"
+  },
+  {
+    "name": "Allagash Wilderness Waterway",
+    "lat": 46.5363569,
+    "lon": -69.3092429,
+    "imageURL": null,
+    "description": "Pure canoe-country legend. Multi-day paddling through remote forest with loons, moose, and near-total quiet. Not flashy — but spiritually powerful.",
+    "info": null,
+    "categories": [
+      "nature"
+    ],
+    "url": "https://www.maine.gov/allagash",
+    "id": "maine_allagash_wilderness_waterway"
+  },
+  {
+    "name": "Camden Hills State Park",
+    "lat": 44.2310537,
+    "lon": -69.0482997,
+    "imageURL": null,
+    "description": "AI: Mount Battie’s summit gives that iconic “mountains dropping into the sea” panorama over Camden Harbor. Effort-to-reward ratio is unbeatable.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "viewpoint"
+    ],
+    "url": "https://www.maine.gov/camdenhills",
+    "id": "maine_camden_hills_state_park"
+  },
+  {
+    "name": "Grafton Notch State Park",
+    "lat": 44.5719962,
+    "lon": -70.9061633,
+    "imageURL": null,
+    "description": "AI: Rugged waterfalls, narrow gorges, Appalachian Trail energy. Compact but intense — feels like a slice of the White Mountains dropped into Maine.",
+    "info": null,
+    "categories": [
+      "park",
+      "hiking",
+      "nature"
+    ],
+    "url": "https://www.maine.gov/graftonnotch",
+    "id": "maine_grafton_notch_state_park"
+  },
+  {
+    "name": "Quoddy Head State Park",
+    "lat": 44.8159941,
+    "lon": -66.9528304,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/West_Quoddy_Head_Light.jpg/1280px-West_Quoddy_Head_Light.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Candy-striped lighthouse at the easternmost point in the U.S. Dramatic cliffs, crashing surf — classic Down East mood.",
+    "info": null,
+    "categories": [
+      "park",
+      "viewpoint",
+      "historic"
+    ],
+    "url": "https://www.maine.gov/quoddyhead",
+    "id": "maine_quoddy_head_state_park"
+  },
+  {
+    "name": "Reid State Park",
+    "lat": 43.7751155,
+    "lon": -69.7327073,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Reid_State_Park_south_view.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Wild dunes, rocky headlands, and wide sand beaches — less crowded and more rugged than many southern-coast beaches.",
+    "info": null,
+    "categories": [
+      "beaches",
+      "park"
+    ],
+    "url": "https://www.maine.gov/reid",
+    "id": "maine_reid_state_park"
+  },
+  {
+    "name": "Roque Bluffs State Park",
+    "lat": 44.6111859,
+    "lon": -67.4863529,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Roque_Bluffs_State_Park.jpg/1280px-Roque_Bluffs_State_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Striking crescent beach with a freshwater pond behind it — unusual double-water setting and far fewer visitors.",
+    "info": null,
+    "categories": [
+      "beaches",
+      "park"
+    ],
+    "url": "https://www.maine.gov/roquebluffs",
+    "id": "maine_roque_bluffs_state_park"
+  },
+  {
+    "name": "Cobscook Bay State Park",
+    "lat": 44.8403433,
+    "lon": -67.1507799,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Broadcove_low.jpg/1280px-Broadcove_low.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Extreme tides and moody coastal forest. Less about beaches, more about raw tidal drama and solitude.",
+    "info": null,
+    "categories": [
+      "park",
+      "nature"
+    ],
+    "url": "https://www.maine.gov/cobscookbay",
+    "id": "maine_cobscook_bay_state_park"
+  },
+  {
+    "name": "Owls Head State Park",
+    "lat": 44.0912743,
+    "lon": -69.0500116,
+    "imageURL": null,
+    "description": "AI: Small, photogenic lighthouse park — quick but classic stop near Rockland.",
+    "info": null,
+    "categories": [
+      "park",
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://www.maine.gov/owlshead",
+    "id": "maine_owls_head_state_park"
+  },
+  {
+    "name": "Fort Knox and Penobscot Narrows Observatory",
+    "lat": 44.5665471,
+    "lon": -68.8042764,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Fort_knox_maine_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Massive granite fortress on the Penobscot River — easily Maine’s most impressive military structure. Dark tunnels, looming casemates, and serious atmosphere. It feels cinematic",
+    "info": null,
+    "categories": [
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://www.maine.gov/fortknox",
+    "id": "maine_fort_knox_and_penobscot_narrows_observatory"
+  },
+  {
+    "name": "Colonial Pemaquid State Historic Site",
+    "lat": 43.8794098,
+    "lon": -69.5206349,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PemaquidME_ArcheologicalSite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Windswept stone fort ruins overlooking the Atlantic. Stark, exposed, and beautifully lonely. This is Maine colonial history at its most evocative",
+    "info": null,
+    "categories": [
+      "historic",
+      "archaeological"
+    ],
+    "url": "https://www.maine.gov/colonialpemaquid",
+    "id": "maine_colonial_pemaquid_state_historic_site"
+  },
+  {
+    "name": "Katahdin Iron Works State Historic Site",
+    "lat": 45.4455215,
+    "lon": -69.1744972,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Katahdin_Iron_Works.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Haunting industrial ruins deep in the woods near Baxter. Moss-covered stone furnaces and abandoned foundations — feels like a forgotten Appalachian outpost.",
+    "info": null,
+    "categories": [
+      "historic",
+      "archaeological"
+    ],
+    "url": "https://www.maine.gov/katahdinironworks",
+    "id": "maine_katahdin_iron_works_state_historic_site"
+  },
+  {
+    "name": "Fort Edgecomb Memorial Park",
+    "lat": 43.9929931,
+    "lon": -69.6566389,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Fort_Edgecomb_Davis_Island_Maine-4.jpg/1280px-Fort_Edgecomb_Davis_Island_Maine-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Compact, elegant, octagonal fort overlooking the Sheepscot River. Small but visually distinctive.",
+    "info": null,
+    "categories": [
+      "historic",
+      "park"
+    ],
+    "url": "https://www.maine.gov/fortedgecomb",
+    "id": "maine_fort_edgecomb_memorial_park"
+  },
+  {
+    "name": "The Abyssinian Meetinghouse",
+    "lat": 43.6623007,
+    "lon": -70.2485276,
+    "imageURL": null,
+    "description": "This once-forgotten African American cultural hub was an important stop on the Underground Railroad.",
+    "info": null,
+    "categories": [
+      "historic",
+      "religious"
+    ],
+    "url": null,
+    "id": "maine_the_abyssinian_meetinghouse"
+  },
+  {
+    "name": "Victoria Mansion",
+    "lat": 43.6515356,
+    "lon": -70.2607109,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Victoria_Mansion%2C_Portland%2C_Maine_USA.jpg/1280px-Victoria_Mansion%2C_Portland%2C_Maine_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: Utterly over-the-top 19th-century glamour. Lavish murals, gilding, trompe-l'œil ceilings — this is one of the best-preserved pre-Civil War interiors in America. If you visit only one grand house in Maine, make it this one.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://victoriamansion.org/",
+    "id": "maine_victoria_mansion"
+  },
+  {
+    "name": "Olson House",
+    "lat": 43.9817313,
+    "lon": -69.2686433,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/ME18_Olson_House%2C_Maine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: You know it even if you don’t — this is the farmhouse from Andrew Wyeth’s Christina’s World. Stark, windswept, emotionally spare. It feels suspended in time, and the surrounding fields still carry the painting’s quiet melancholy.",
+    "info": null,
+    "categories": [
+      "museum",
+      "art",
+      "historic"
+    ],
+    "url": "https://www.farnsworthmuseum.org/visit/historic-homes/olson-house/",
+    "id": "maine_olson_house"
+  },
+  {
+    "name": "Eagle Island State Historic Site",
+    "lat": 43.7117074,
+    "lon": -70.0531136,
+    "imageURL": null,
+    "description": "AI: Robert Peary’s summer home, reachable by boat in Casco Bay. Equal parts Arctic exploration story and classic Maine island retreat. Quiet, scenic, and slightly romantic in its isolation.",
+    "info": null,
+    "categories": [
+      "historic",
+      "museum"
+    ],
+    "url": "https://www.maine.gov/eagleisland",
+    "id": "maine_eagle_island_state_historic_site"
+  },
+  {
+    "name": "Wild Gardens of Acadia",
+    "lat": 44.3624433,
+    "lon": -68.2080861,
+    "imageURL": null,
+    "description": "AI: If you’re already anywhere near Acadia, this is essential. Instead of formal horticulture, you get a curated microcosm of Mount Desert Island’s native ecosystems — bog, forest, seaside, and mountain flora presented in stone-lined beds that feel utterly natural. It’s small but quietly magical, especially in June and July when lupines and wildflowers explode. It’s the perfect antidote to overly manicured gardens.<br><br>Why go: Authentic Maine landscape distilled into one walkable space.",
+    "info": null,
+    "categories": [
+      "nature",
+      "nps"
+    ],
+    "url": "https://friendsofacadia.org/visiting-acadia/activities/wild-gardens-of-acadia/visitor-information/",
+    "id": "maine_wild_gardens_of_acadia"
+  },
+  {
+    "name": "Celia Thaxter's Island Garden",
+    "lat": 42.9896354,
+    "lon": -70.6159601,
+    "imageURL": null,
+    "description": "AI: A windswept island garden overlooking the Atlantic—poetic, historic, and completely different from anything inland. Getting there is part of the experience.<br><br>⚠️ Note: Access requires a boat trip; weather-dependent and limited schedules.",
+    "info": null,
+    "categories": [
+      "nature",
+      "historic"
+    ],
+    "url": "https://www.shoalsmarinelaboratory.org/public-programs/celia-thaxters-garden-tours",
+    "id": "maine_celia_thaxters_island_garden"
+  },
+  {
+    "name": "Thuya Garden",
+    "lat": 44.2999772,
+    "lon": -68.2767817,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Lawn_-_Thuya_Garden_-_Northeast_Harbor%2C_Maine_-_DSC03723.jpg/1280px-Lawn_-_Thuya_Garden_-_Northeast_Harbor%2C_Maine_-_DSC03723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: A dramatic cliffside garden with stone terraces and sweeping ocean views. It feels perched between wilderness and refinement—arguably the most visually striking garden in Maine.<br><br>One of the most memorable spots on Mount Desert Island.",
+    "info": null,
+    "categories": [
+      "nature",
+      "viewpoint"
+    ],
+    "url": "https://www.gardenpreserve.org/thuya-garden",
+    "id": "maine_thuya_garden"
+  },
+  {
+    "name": "Abby Aldrich Rockefeller Garden",
+    "lat": 44.293984,
+    "lon": -68.2482803,
+    "imageURL": null,
+    "description": "AI: One of the most refined and artistically composed gardens in America—but…<br><br>⚠️ Major caveat: limited visiting days, reservations required, and often booked out.<br><br>If you can get in, it’s top-tier.",
+    "info": null,
+    "categories": [
+      "nature",
+      "art"
+    ],
+    "url": "https://www.gardenpreserve.org/abby-aldrich-rockefeller-garden",
+    "id": "maine_abby_aldrich_rockefeller_garden"
+  },
+  {
+    "name": "Great Wass Island",
+    "lat": 44.4814683,
+    "lon": -67.5897145,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/81/Great_Wass_Island_east_shore.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: Arguably the wildest-feeling coastline in Maine—stunted spruce, exposed granite, bogs, and crashing surf. It feels almost subarctic in mood.<br><br>⚠️ Remote feel + minimal services.<br>A true hidden gem.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking"
+    ],
+    "url": "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/great-wass-island/",
+    "id": "maine_great_wass_island"
+  },
+  {
+    "name": "Monhegan Island",
+    "lat": 43.7652657,
+    "lon": -69.3139218,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Monheganisland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "AI: A raw, artistic, slightly mystical island—no cars, dramatic cliffs, painterly light, and a long history as an artists’ retreat. Feels like stepping outside normal time.<br><br>One of the most atmospheric places in New England.",
+    "info": null,
+    "categories": [
+      "towns",
+      "nature",
+      "hiking",
+      "art"
+    ],
+    "url": null,
+    "id": "maine_monhegan_island"
+  },
+  {
+    "name": "Matinicus Island",
+    "lat": 43.8602696,
+    "lon": -68.8931054,
+    "imageURL": null,
+    "description": "About as remote and real as it gets—a working fishing island far offshore. Stark, beautiful, and not curated for visitors.<br><br>⚠️ Very limited access + minimal services.",
+    "info": null,
+    "categories": [
+      "towns",
+      "nature"
+    ],
+    "url": null,
+    "id": "maine_matinicus_island"
+  },
+  {
+    "name": "Vinalhaven",
+    "lat": 44.0482189,
+    "lon": -68.8311573,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Main_Street%2C_Vinalhaven%2C_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": "https://www.vinalhaven.org/",
+    "id": "maine_vinalhaven"
+  },
+  {
+    "name": "Lawson's Quarry",
+    "lat": 44.057195,
+    "lon": -68.8364586,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports",
+      "nature"
+    ],
+    "url": null,
+    "id": "maine_lawsons_quarry"
+  },
+  {
+    "name": "Booth Quarry Pond",
+    "lat": 44.0526028,
+    "lon": -68.8058598,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "sports",
+      "nature"
+    ],
+    "url": null,
+    "id": "maine_booth_quarry_pond"
+  }
+]
