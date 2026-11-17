@@ -1,0 +1,587 @@
+[
+  {
+    "name": "Völkerschlachtdenkmal",
+    "lat": 51.3123709,
+    "lon": 12.4132924,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/V%C3%B6lkerschlachtdenkmal_au%C3%9Fen.JPG/1280px-V%C3%B6lkerschlachtdenkmal_au%C3%9Fen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This incredible stone temple is a monument to death, victory, and fantasy architecture.",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture",
+      "viewpoint"
+    ],
+    "url": "https://www.stadtgeschichtliches-museum-leipzig.de/en/visit/our-museums/monument-of-the-battle-of-the-nations",
+    "id": "saxony_volkerschlachtdenkmal"
+  },
+  {
+    "name": "Löffelfamilie",
+    "lat": 51.326649,
+    "lon": 12.3732676,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Loeffelfamilie.jpg/1280px-Loeffelfamilie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "One of the most iconic neon ads of former East Germany.",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_loffelfamilie"
+  },
+  {
+    "name": "Gedenkstätte Museum in der „Runden Ecke“",
+    "lat": 51.3417276,
+    "lon": 12.3698642,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Runde-Ecke-Leipzig.jpg/1280px-Runde-Ecke-Leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This small exhibition displays equipment and artifacts once belonging to the feared Stasi secret police.",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://www.runde-ecke-leipzig.de/",
+    "id": "saxony_gedenkstatte_museum_in_der_runden_ecke"
+  },
+  {
+    "name": "Terra mineralia",
+    "lat": 50.9207185,
+    "lon": 13.3400252,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/2H1A7265%D0%9E%D0%92.jpg/1280px-2H1A7265%D0%9E%D0%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A Saxony castle houses one of the largest and most outstanding mineral collections in the world. ",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://terra-mineralia.de/",
+    "id": "saxony_terra_mineralia"
+  },
+  {
+    "name": "Muskau Park",
+    "lat": 51.5506676,
+    "lon": 14.7230997,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/1024_2012-1-sept-5088.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "WHS - Muskauer Park / Park Mużakowski is a 19th-century landscape park that has been influential in landscape architecture.<br><br>The founder of the park was Prince Hermann von Pückler-Muskau, who developed the park initially on the grounds of its estate and then extended it to reach the town of Bad Muskau. He incorporated human-made architectural elements into a network of vistas along with natural components.<br><br>Community Perspective: The park now lies on both sides of the German/Polish border at the river Neisse in a fairly remote location. It requires a lot of walking to see it all, so it’s better to rent a bike. The buildings (Old and New Castle) are not that impressive. Pückler was a very avid early traveller, and he even has his own connection!",
+    "info": null,
+    "categories": [
+      "unesco",
+      "park",
+      "nature"
+    ],
+    "url": "https://muskauer-park.de/",
+    "id": "saxony_muskau_park"
+  },
+  {
+    "name": "Castle Hartenfels",
+    "lat": 51.5590515,
+    "lon": 13.0084171,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Schloss_Hartenfels%2C_Torgau_2H1A5366WI.jpg/1280px-Schloss_Hartenfels%2C_Torgau_2H1A5366WI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "tWHS",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.schloss-hartenfels.de/",
+    "id": "saxony_castle_hartenfels"
+  },
+  {
+    "name": "Kunsthofpassage Dresden",
+    "lat": 51.0677624,
+    "lon": 13.7543127,
+    "imageURL": null,
+    "description": "When the rain falls, this drain system turns into a musical instrument",
+    "info": null,
+    "categories": [
+      "quirky",
+      "architecture",
+      "art",
+      "shopping"
+    ],
+    "url": "https://kunsthof-dresden.de/",
+    "id": "saxony_kunsthofpassage_dresden"
+  },
+  {
+    "name": "Dresdner Molkerei Gebrüder Pfund GmbH",
+    "lat": 51.0637639,
+    "lon": 13.7598407,
+    "imageURL": null,
+    "description": "In addition to fine dairy products, the world's most beautiful milk shop also offers a feast for the eyes. ",
+    "info": null,
+    "categories": [
+      "shopping",
+      "quirky",
+      "architecture"
+    ],
+    "url": "https://www.pfunds.de/",
+    "id": "saxony_dresdner_molkerei_gebruder_pfund_gmbh"
+  },
+  {
+    "name": "Galerie Neue Meister",
+    "lat": 51.0517151,
+    "lon": 13.7448149,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Albertinum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://albertinum.skd.museum/",
+    "id": "saxony_galerie_neue_meister"
+  },
+  {
+    "name": "Frauenkirche Dresden",
+    "lat": 51.0519689,
+    "lon": 13.7415531,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg/1280px-100130_150006_Dresden_Frauenkirche_winter_blue_sky-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "This Dresden church was purposely rebuilt Protestant after being demolished in World War II. ",
+    "info": null,
+    "categories": [
+      "religious",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.frauenkirche-dresden.de/",
+    "id": "saxony_frauenkirche_dresden"
+  },
+  {
+    "name": "Münzkabinett",
+    "lat": 51.0528655,
+    "lon": 13.7376171,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/M%C3%BCnzkabinett_Dresden.JPG/1280px-M%C3%BCnzkabinett_Dresden.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Known as the \"Coin Cabinet of Dresden,\" this museum houses over 300,000 currency-related artifacts.  ",
+    "info": null,
+    "categories": [
+      "museum"
+    ],
+    "url": "https://muenzkabinett.skd.museum/",
+    "id": "saxony_munzkabinett"
+  },
+  {
+    "name": "Green Vault",
+    "lat": 51.0526345,
+    "lon": 13.7363072,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/20080711030DR_Dresden_Residenzschlo%C3%9F_Gr%C3%BCnes_Gew%C3%B6lbe.jpg/1280px-20080711030DR_Dresden_Residenzschlo%C3%9F_Gr%C3%BCnes_Gew%C3%B6lbe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "The largest treasure hoard in Europe is contained in a castle that was bombed out during World War II. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "https://gruenes-gewoelbe.skd.museum/",
+    "id": "saxony_green_vault"
+  },
+  {
+    "name": "Dresden Suspension Railway",
+    "lat": 51.0535203,
+    "lon": 13.8164605,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Dresden_Bergbahn_129.JPG/1280px-Dresden_Bergbahn_129.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "A unique hanging cable-car navigates through Dresden, the oldest suspension railway in the world. ",
+    "info": null,
+    "categories": [
+      "quirky",
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://www.dvb.de/en-gb/excursions/hillside-railways/schwebebahn",
+    "id": "saxony_dresden_suspension_railway"
+  },
+  {
+    "name": "Dresden Panometer",
+    "lat": 51.0254925,
+    "lon": 13.7884501,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Dresden-Panometer.jpg/1280px-Dresden-Panometer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "An exquisite panometer representing Dresden as it was from 1695 to 1760. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "art"
+    ],
+    "url": "https://www.panometer-dresden.de/",
+    "id": "saxony_dresden_panometer"
+  },
+  {
+    "name": "Parkeisenbahn-Dresden Haltestelle Gläserne Manufaktur",
+    "lat": 51.0437774,
+    "lon": 13.7532105,
+    "imageURL": null,
+    "description": "This small train ride offers stellar views of the Grand Garden Palace.",
+    "info": null,
+    "categories": [
+      "quirky",
+      "park"
+    ],
+    "url": "https://www.parkeisenbahn-dresden.de/",
+    "id": "saxony_parkeisenbahn_dresden_haltestelle_glaserne_manufaktur"
+  },
+  {
+    "name": "German Hygiene Museum",
+    "lat": 51.0442592,
+    "lon": 13.7472909,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg/1280px-Deutsches_Hygienemuseum%2C_mit_Plastik_Ballwerfer_von_Richard_Daniel_Fabricius-9716.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Over 12,000 hygiene oriented objects and exhibits",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.dhmd.de/",
+    "id": "saxony_german_hygiene_museum"
+  },
+  {
+    "name": "Saxon Switzerland National Park",
+    "lat": 50.9145241,
+    "lon": 14.2811723,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibr%C3%BCcke_morgens_%28Zuschnitt%29.jpg/1280px-Basteibr%C3%BCcke_morgens_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: One of Germany's most dramatic landscapes, this sandstone wonderland along the Elbe river deserves a place on any serious traveller's itinerary. Towering rock formations, forested gorges, and winding river views create scenery that feels almost implausibly cinematic — it's no coincidence that Caspar David Friedrich drew inspiration from here. The park is large enough that even in peak season you can escape the crowds on less-trodden trails. Base yourself in Bad Schandau for easy access. Don't miss the Bastei, but the park rewards those who go deeper.",
+    "info": null,
+    "categories": [
+      "nature",
+      "hiking",
+      "park"
+    ],
+    "url": "https://nationalpark-saechsische-schweiz.de/",
+    "id": "saxony_saxon_switzerland_national_park"
+  },
+  {
+    "name": "Kamelienhaus Pillnitz",
+    "lat": 51.0117607,
+    "lon": 13.8695892,
+    "imageURL": null,
+    "description": "An engineering wonder at Pillnitz Castle protects a precious 230-year-old flowering shrub",
+    "info": null,
+    "categories": [
+      "nature",
+      "quirky"
+    ],
+    "url": "https://www.schlosspillnitz.de/",
+    "id": "saxony_kamelienhaus_pillnitz"
+  },
+  {
+    "name": "Bastei",
+    "lat": 50.9619121,
+    "lon": 14.0731656,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Basteibr%C3%BCcke_morgens_%28Zuschnitt%29.jpg/1280px-Basteibr%C3%BCcke_morgens_%28Zuschnitt%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "Ruins of a German Castle on top of a towering stone pillar. ",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "hiking",
+      "nature",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_bastei"
+  },
+  {
+    "name": "Rathen Open Air Stage",
+    "lat": 51.1061762,
+    "lon": 13.6590313,
+    "imageURL": null,
+    "description": "This stone amphitheater was once part of Nazi Germany's plan to promote propaganda. ",
+    "info": null,
+    "categories": [
+      "theater",
+      "historic"
+    ],
+    "url": "https://www.landesbuehnen-sachsen.de/felsenbuehne-rathen/",
+    "id": "saxony_rathen_open_air_stage"
+  },
+  {
+    "name": "Historic elevator",
+    "lat": 50.916663,
+    "lon": 14.1612616,
+    "imageURL": null,
+    "description": "An ornate century-old elevator still connects the two halves of Bad Schandau. ",
+    "info": null,
+    "categories": [
+      "landmark",
+      "quirky",
+      "historic",
+      "viewpoint"
+    ],
+    "url": "https://bad-schandau.de/kultur-genuss#historischer-personenaufzug",
+    "id": "saxony_historic_elevator"
+  },
+  {
+    "name": "Museum Uranerzbergbau",
+    "lat": 50.6003231,
+    "lon": 12.6745192,
+    "imageURL": null,
+    "description": "Learn the incredible story of how an unassuming spa town was transformed into one of the world’s largest uranium mining sites. ",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic"
+    ],
+    "url": "http://www.museum-uranbergbau.de/",
+    "id": "saxony_museum_uranerzbergbau"
+  },
+  {
+    "name": "GOLTZSCH VIADUCT",
+    "lat": 50.6233311,
+    "lon": 12.2439363,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/G%C3%B6ltzschtalbr%C3%BCcke_2012.jpg/1280px-G%C3%B6ltzschtalbr%C3%BCcke_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "largest brick bridge in the world",
+    "info": null,
+    "categories": [
+      "landmark",
+      "architecture",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_goltzsch_viaduct"
+  },
+  {
+    "name": "Museum - Natural History Collection Waldenburg",
+    "lat": 50.876157,
+    "lon": 12.605975,
+    "imageURL": null,
+    "description": "A wonderfully versatile natural history curio cabinet preserved since the 1840s",
+    "info": null,
+    "categories": [
+      "museum",
+      "quirky"
+    ],
+    "url": "https://www.museum-waldenburg.de/",
+    "id": "saxony_museum_natural_history_collection_waldenburg"
+  },
+  {
+    "name": "Brühl's Terrace",
+    "lat": 51.0532409,
+    "lon": 13.7436731,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Dresden_Elbterrasse.jpg/1280px-Dresden_Elbterrasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "viewpoint",
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "saxony_bruhls_terrace"
+  },
+  {
+    "name": "Fürstenzug",
+    "lat": 51.0528176,
+    "lon": 13.7388791,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG/1280px-F%C3%BCrstenzug_in_der_Augustusstra%C3%9Fe_in_Dresden...IMG_7478OB1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "landmark",
+      "art",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_furstenzug"
+  },
+  {
+    "name": "Neumarkt",
+    "lat": 51.0514642,
+    "lon": 13.7404499,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "historic",
+      "architecture"
+    ],
+    "url": null,
+    "id": "saxony_neumarkt"
+  },
+  {
+    "name": "Dresden Castle",
+    "lat": 51.0524975,
+    "lon": 13.7366604,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/DD-Schloss-gp.jpg/1280px-DD-Schloss-gp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.skd.museum/besuch/residenzschloss/",
+    "id": "saxony_dresden_castle"
+  },
+  {
+    "name": "Marktplatz Leipzig",
+    "lat": 51.3407782,
+    "lon": 12.374171,
+    "imageURL": null,
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_marktplatz_leipzig"
+  },
+  {
+    "name": "Karl-Heine-Kanal",
+    "lat": 51.3304887,
+    "lon": 12.3245822,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Engertstra%C3%9Fe._Leipzig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "description": "",
+    "info": null,
+    "categories": [
+      "neighborhood",
+      "nature"
+    ],
+    "url": null,
+    "id": "saxony_karl_heine_kanal"
+  },
+  {
+    "name": "Bach-Museum Leipzig",
+    "lat": 51.3388342,
+    "lon": 12.3722067,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg/1280px-Bosehaus_Leipzig_Stra%C3%9Fenfront_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "",
+    "info": null,
+    "categories": [
+      "museum",
+      "music"
+    ],
+    "url": "https://www.bachinleipzig.de/de/bach-museum",
+    "id": "saxony_bach_museum_leipzig"
+  },
+  {
+    "name": "Auterwitz",
+    "lat": 51.159151,
+    "lon": 13.1978789,
+    "imageURL": null,
+    "description": "TMBViS - Auterwitz is located in one of the best agricultural regions in Germany, the Lommatzscher Pflege. Small villages with large farms are typical here. Auterwitz consists of only four big farmyards supplemented by some houses of craftsmen. The village has preserved its character in a very good way. Seen from above, Auterwitz looks like a green, ecological island in the intensively used agricultural landscape. Visitors can experience old craft techniques in the www.Lindenhof-Auterwitz.de, as baking in a traditional oven.",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "saxony_auterwitz"
+  },
+  {
+    "name": "Dreiskau-Muckern",
+    "lat": 51.216397,
+    "lon": 12.4652127,
+    "imageURL": null,
+    "description": "SSD - Dreiskau-Muckern was formed of two villages in 1956, so one can see two different types of settlements at once. Located in a coal mining area, the village was sentenced to elimination in East German times. In the very last moment, the devastation was stopped, but the village had already lost 90 % of its inhabitants. In 1993, the resettlement started including a careful restoration of the buildings. The best time to discover the village is the “Offene-Höfe“-weekend” (Open-doors) in August.",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "saxony_dreiskau_muckern"
+  },
+  {
+    "name": "Hinterhermsdorf",
+    "lat": 50.9239414,
+    "lon": 14.3584629,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Blick_auf_Hinterhermsdorf_%282%29.JPG/1280px-Blick_auf_Hinterhermsdorf_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "SSD - Hinterhermsdorf is located in the Saxon Switzerland National Park. The mountain village has its roots in agriculture, linen weaving and forestry. Beginning in the late 19th century, the village turned into a popular tourist destination. The “Obere Schleuse”, a historical timber rafting system, is a tourist attraction now. Many hotels and guesthouses offer overnight stays. The village is also wellknown for its many half-timbered houses (Umgebindehäuser), a unique rural architecture.",
+    "info": null,
+    "categories": [
+      "towns",
+      "hiking"
+    ],
+    "url": "https://tourismus.sebnitz.de/hinterhermsdorf/hinterhermsdorf-uebersicht/",
+    "id": "saxony_hinterhermsdorf"
+  },
+  {
+    "name": "Höfgen",
+    "lat": 51.2098024,
+    "lon": 12.7537036,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/H%C3%B6fgenWasserm%C3%BChle2.JPG/1280px-H%C3%B6fgenWasserm%C3%BChle2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "SSD - Höfgen is situated in the scenic floodplain of the Mulde river. Visitors, who come from the nearby convent ruins in Nimbschen, cross the river by a hand-operated ferry, which has been existing for 400 years. The 700-year-old Romanesque village church is situated on the highest point of the village – protected from flood. It has a rural Baroque interior.<br><br>The village is also wellknown for its mills – a water and a ship mill. Different hotels and guesthouses offer overnight stays",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "saxony_hofgen"
+  },
+  {
+    "name": "Lorenzkirch",
+    "lat": 51.3560031,
+    "lon": 13.243844,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Lorenzkirch_Kirche.jpg/1280px-Lorenzkirch_Kirche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "SSD - Lorenzkirch was originally founded on an island of the river Elbe. The proximity to the river characterizes the place until today – including the threat of flood.<br>The small village has many historical features, such as the former pilgrimage church and the traditional Lorenzmarkt in August, once a major livestock market. In 1945, the very first encounter of the U.S. Army and the Red Army took place here. And Lorenzkirch is the birthplace of the Nobel laureate for physics Wolfgang Paul.",
+    "info": null,
+    "categories": [
+      "towns",
+      "historic"
+    ],
+    "url": null,
+    "id": "saxony_lorenzkirch"
+  },
+  {
+    "name": "Naustadt",
+    "lat": 51.1131906,
+    "lon": 13.5110113,
+    "imageURL": null,
+    "description": "SSD - Naustadt is situated near the “porcelain town” of Meißen. The famous porcelain designer Johann Kändler created a Baroque tomb in the church, which was built in the 16th century.<br>Naustadt has an extraordinary village structure: large yards form a ring around the church. In one of the farmhouses, a glassblowing manufactory was set up. Visitors can spend the night in the nearby castle Scharfenberg.",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "saxony_naustadt"
+  },
+  {
+    "name": "Obercunnersdorf",
+    "lat": 50.9161206,
+    "lon": 13.5605553,
+    "imageURL": null,
+    "description": "SSD - Obercunnersdorf is famous for its many half-timbered houses (Umgebindehäuser), a unique rural architecture especially in Upper Lusatia. Visitors can discover it on a guided tour through the village and in the little museum “Schunkelhaus”, one of the oldest buildings here. Some of these houses can be booked for overnight stay. Further attractions are the Baroque church, a former railway viaduct, spanning the village, and a windmill museum nearby.",
+    "info": null,
+    "categories": [
+      "towns",
+      "architecture"
+    ],
+    "url": null,
+    "id": "saxony_obercunnersdorf"
+  },
+  {
+    "name": "Schmilka",
+    "lat": 50.8916067,
+    "lon": 14.2315359,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Schmilka2.jpg/1280px-Schmilka2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "SSD - Schmilka is located at the Elbe river in the Saxon Switzerland National Park near the border to Czech Republic. The village originated as a settlement of boatsmen, raftsmen, forest workers, masons and millers. In the 19th century, the tourist development began. Within the last 25 years, many of the old houses have been carefully restored, the old watermill was reconstructed. Today, Schmilka specializes in ecotourism.",
+    "info": null,
+    "categories": [
+      "towns",
+      "hiking"
+    ],
+    "url": "https://www.schmilka.de/",
+    "id": "saxony_schmilka"
+  },
+  {
+    "name": "Stangengrün",
+    "lat": 50.5888281,
+    "lon": 12.4527535,
+    "imageURL": null,
+    "description": "SSD - Stangengrün is a traditional “Waldhufendorf”, a planned settlement type from the Middle Ages with two lines of farmyards along a creek in a valley. The village offers – over a distance of 4 kilometers – a very authentic impression of this traditional settlement type in Saxony. The history and traditions can be discovered in a private museum. The church from the 14th century has a precious Gothic winged altar made by the famous wood sculptor Peter Breuer (1509)",
+    "info": null,
+    "categories": [
+      "towns"
+    ],
+    "url": null,
+    "id": "saxony_stangengrun"
+  },
+  {
+    "name": "Schloss Scharfenberg",
+    "lat": 51.125,
+    "lon": 13.5275,
+    "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/SchlossScharfenberg2.jpg/1280px-SchlossScharfenberg2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "description": "AI: ust a few minutes' walk or drive from Naustadt's church, on a wooded rocky outcrop directly above the Elbe, stands one of Saxony's oldest castle complexes. Its assumed founding under King Heinrich the Fowler dates to 938 AD, with the first documented mention in 1227. Since the 14th century it was in the possession of one of Saxony's leading noble families, the von Miltitz — the same family commemorated by Kändler's epitaph in the village church. After the Thirty Years' War, it was rebuilt in Renaissance style, which it retains today",
+    "info": null,
+    "categories": [
+      "historic",
+      "architecture"
+    ],
+    "url": "https://www.schloss-scharfenberg.de/de/",
+    "id": "saxony_schloss_scharfenberg"
+  }
+]
