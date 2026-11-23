@@ -600,20 +600,6 @@
     "id": "brooklyn_living_torah_museum"
   },
   {
-    "name": "Brancaccio's Food Shop",
-    "lat": 40.6485601,
-    "lon": -73.978833,
-    "imageURL": null,
-    "description": "",
-    "info": null,
-    "categories": [
-      "food",
-      "shopping"
-    ],
-    "url": null,
-    "id": "brooklyn_brancaccios_food_shop"
-  },
-  {
     "name": "Brooklyn ARTery",
     "lat": 40.6395941,
     "lon": -73.9684007,
