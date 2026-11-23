@@ -2163,21 +2163,6 @@
     "id": "brooklyn_stuart_cinema_cafe"
   },
   {
-    "name": "Staubitz Market",
-    "lat": 40.6864565,
-    "lon": -73.9940737,
-    "imageURL": null,
-    "description": "oldest butcher in nyc",
-    "info": null,
-    "categories": [
-      "food",
-      "market",
-      "historic"
-    ],
-    "url": null,
-    "id": "brooklyn_staubitz_market"
-  },
-  {
     "name": "Metropolitan Rod & Gun Club",
     "lat": 40.68924,
     "lon": -73.994332,
